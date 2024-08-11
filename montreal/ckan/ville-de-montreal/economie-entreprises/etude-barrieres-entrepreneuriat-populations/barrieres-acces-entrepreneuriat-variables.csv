@@ -1,0 +1,676 @@
+champ,description_question,variable_reponse,description_reponse
+record,,,Identifiant unique du répondant
+SEXE,Quel est votre sexe à la naissance ?,1,Masculin
+SEXE,Quel est votre sexe à la naissance ?,2,Féminin
+AGE,Quel âge avez-vous?,1,18 à 19 ans
+AGE,Quel âge avez-vous?,2,20 à 24 ans
+AGE,Quel âge avez-vous?,3,25 à 29 ans
+AGE,Quel âge avez-vous?,4,30 à 34 ans
+AGE,Quel âge avez-vous?,5,35 à 39 ans
+AGE,Quel âge avez-vous?,6,40 à 44 ans
+AGE,Quel âge avez-vous?,7,45 à 49 ans
+AGE,Quel âge avez-vous?,8,50 à 54 ans
+AGE,Quel âge avez-vous?,9,55 à 59 ans
+AGE,Quel âge avez-vous?,10,60 à 64 ans
+AGE,Quel âge avez-vous?,11,65 à 69 ans
+AGE,Quel âge avez-vous?,12,70 à 74 ans
+AGE,Quel âge avez-vous?,13,75 ans ou plus
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,1,Français
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,2,Anglais
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,4,Français et anglais
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,5,Français et autres
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,6,Anglais et autres
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,7,Autre que le français ou l'anglais
+LANGU,Quelle est la langue que vous avez apprise en premier lieu à la maison dans votre enfance et que vous comprenez toujours?,9,Je préfère ne pas répondre
+Q0QC,Dans quelle région du Québec demeurez-vous?,1,Bas-Saint-Laurent
+Q0QC,Dans quelle région du Québec demeurez-vous?,2,Saguenay-Lac-Saint-Jean
+Q0QC,Dans quelle région du Québec demeurez-vous?,3,Capitale-Nationale
+Q0QC,Dans quelle région du Québec demeurez-vous?,4,Mauricie
+Q0QC,Dans quelle région du Québec demeurez-vous?,5,Estrie
+Q0QC,Dans quelle région du Québec demeurez-vous?,6,L’île de Montréal
+Q0QC,Dans quelle région du Québec demeurez-vous?,7,Outaouais
+Q0QC,Dans quelle région du Québec demeurez-vous?,8,Abitibi-Témiscamingue
+Q0QC,Dans quelle région du Québec demeurez-vous?,9,Côte-Nord
+Q0QC,Dans quelle région du Québec demeurez-vous?,10,Nord-du-Québec
+Q0QC,Dans quelle région du Québec demeurez-vous?,11,Gaspésie/Îles-de-la-Madeleine
+Q0QC,Dans quelle région du Québec demeurez-vous?,12,Chaudière-Appalaches
+Q0QC,Dans quelle région du Québec demeurez-vous?,13,Laval
+Q0QC,Dans quelle région du Québec demeurez-vous?,14,Lanaudière
+Q0QC,Dans quelle région du Québec demeurez-vous?,15,Laurentides
+Q0QC,Dans quelle région du Québec demeurez-vous?,16,Montérégie
+Q0QC,Dans quelle région du Québec demeurez-vous?,17,Centre-du-Québec
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,1,Ahuntsic-Cartierville
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,2,Anjou
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,3,Baie d'Urfé
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,4,Beaconsfield
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,5,Côte-des-Neiges-Notre-Dame-de-Grâce
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,6,Côte-Saint-Luc
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,7,Dollard-des-Ormeaux
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,8,Dorval
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,9,Hampstead
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,10,Kirkland
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,11,L'Île-Bizard-Sainte-Geneviève
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,12,Lachine
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,13,LaSalle
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,14,Le Plateau-Mont-Royal
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,15,Le Sud-Ouest
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,16,Mercier-Hochelaga-Maisonneuve
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,17,Montréal-Est
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,18,Montréal-Nord
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,19,Montréal-Ouest
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,20,Outremont
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,21,Pierrefonds-Roxboro
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,22,Pointe-Claire
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,23,Rivière-des-Praires-Pointe-aux-Trembles
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,24,Rosemont-La Petite-Patrie
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,25,Sainte-Anne-de-Bellevue
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,26,Saint-Laurent
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,27,Saint-Léonard
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,28,Senneville
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,29,Verdun
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,30,Ville-Marie
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,31,Ville Mont-Royal
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,32,Villeray-Saint-Michel-Parc-Extension
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,33,Westmount
+Q0QCP,Quel est votre arrondissement ou ville de résidence?,96,Autre
+Q1Ar1,Quel est votre statut actuel? - Étudiant à temps plein,0,Non
+Q1Ar1,Quel est votre statut actuel? - Étudiant à temps plein,1,Oui
+Q1Ar2,Quel est votre statut actuel? - Étudiant à temps partiel,0,Non
+Q1Ar2,Quel est votre statut actuel? - Étudiant à temps partiel,1,Oui
+Q1Ar3,Quel est votre statut actuel? - Employé à temps plein,0,Non
+Q1Ar3,Quel est votre statut actuel? - Employé à temps plein,1,Oui
+Q1Ar4,Quel est votre statut actuel? - Employé à temps partiel,0,Non
+Q1Ar4,Quel est votre statut actuel? - Employé à temps partiel,1,Oui
+Q1Ar5,Quel est votre statut actuel? - Unique propriétaire d’une entreprise (incluant les travailleurs autonomes),0,Non
+Q1Ar5,Quel est votre statut actuel? - Unique propriétaire d’une entreprise (incluant les travailleurs autonomes),1,Oui
+Q1Ar6,Quel est votre statut actuel? - Propriétaire associé dans une entreprise immatriculée ou incorporée (incluant les coopératives),0,Non
+Q1Ar6,Quel est votre statut actuel? - Propriétaire associé dans une entreprise immatriculée ou incorporée (incluant les coopératives),1,Oui
+Q1Ar7,Quel est votre statut actuel? - Employé saisonnier ou temporaire,0,Non
+Q1Ar7,Quel est votre statut actuel? - Employé saisonnier ou temporaire,1,Oui
+Q1Ar8,Quel est votre statut actuel? - Sans emploi,0,Non
+Q1Ar8,Quel est votre statut actuel? - Sans emploi,1,Oui
+Q1Ar9,Quel est votre statut actuel? - Retraité,0,Non
+Q1Ar9,Quel est votre statut actuel? - Retraité,1,Oui
+Q1Ar96,Quel est votre statut actuel? - Autre,0,Non
+Q1Ar96,Quel est votre statut actuel? - Autre,1,Oui
+Q1C,"Au cours des 12 derniers mois, seul(e) ou avec d'autres personnes, avez-vous réalisé des démarches pour créer une nouvelle entreprise ou reprendre une entreprise existante (ex.: rechercher de l'équipement ou un emplacement, organiser une équipe de travail, élaborer un plan d'entreprise, commencer à épargner de l'argent ou d'autres activités qui aideraient à lancer une entreprise)?",1,"Oui, je suis toujours en démarche"
+Q1C,"Au cours des 12 derniers mois, seul(e) ou avec d'autres personnes, avez-vous réalisé des démarches pour créer une nouvelle entreprise ou reprendre une entreprise existante (ex.: rechercher de l'équipement ou un emplacement, organiser une équipe de travail, élaborer un plan d'entreprise, commencer à épargner de l'argent ou d'autres activités qui aideraient à lancer une entreprise)?",2,"Oui, mais j’ai abandonné le projet"
+Q1C,"Au cours des 12 derniers mois, seul(e) ou avec d'autres personnes, avez-vous réalisé des démarches pour créer une nouvelle entreprise ou reprendre une entreprise existante (ex.: rechercher de l'équipement ou un emplacement, organiser une équipe de travail, élaborer un plan d'entreprise, commencer à épargner de l'argent ou d'autres activités qui aideraient à lancer une entreprise)?",3,Non
+Q1C,"Au cours des 12 derniers mois, seul(e) ou avec d'autres personnes, avez-vous réalisé des démarches pour créer une nouvelle entreprise ou reprendre une entreprise existante (ex.: rechercher de l'équipement ou un emplacement, organiser une équipe de travail, élaborer un plan d'entreprise, commencer à épargner de l'argent ou d'autres activités qui aideraient à lancer une entreprise)?",98,Je ne sais pas
+Q1B,"Au cours des 12 prochains mois, avez-vous l’intention, seul(e) ou avec d'autres personnes, de créer une nouvelle entreprise ou de reprendre une entreprise existante?",1,Oui
+Q1B,"Au cours des 12 prochains mois, avez-vous l’intention, seul(e) ou avec d'autres personnes, de créer une nouvelle entreprise ou de reprendre une entreprise existante?",2,Non
+Q1B,"Au cours des 12 prochains mois, avez-vous l’intention, seul(e) ou avec d'autres personnes, de créer une nouvelle entreprise ou de reprendre une entreprise existante?",98,Je ne sais pas
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,1,Primaire (7 ans ou moins)
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,2,Secondaire (formation générale ou professionnelle (8 à 12 ans))
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,3,"Collégial (formation préuniversitaire, formation technique, certificats, attestations ou diplômes de perfectionnement)"
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,4,Universitaire certificats et diplômes
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,5,Universitaire 1er cycle Baccalauréat (incluant cours classique)
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,6,Universitaire 2e cycle Maîtrise
+Q2,Quel est le diplôme d’études (équivalence québécoise) le plus élevé que vous avez obtenu?,7,Universitaire 3e cycle Doctorat
+Q3,"Est-ce que ce diplôme d’études a été obtenu au Québec ? Si non, a-t-il été reconnu par le système d’éducation québécois?",1,"Oui, il a été obtenu au Québec"
+Q3,"Est-ce que ce diplôme d’études a été obtenu au Québec ? Si non, a-t-il été reconnu par le système d’éducation québécois?",2,"Non, mais il a été reconnu par le système d’éducation québécois"
+Q3,"Est-ce que ce diplôme d’études a été obtenu au Québec ? Si non, a-t-il été reconnu par le système d’éducation québécois?",3,Non et il n’a pas été reconnu par le système d’éducation québécois
+Q4r1,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue française",1,1- Faible
+Q4r1,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue française",2,2
+Q4r1,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue française",3,3
+Q4r1,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue française",4,4
+Q4r1,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue française",5,5- Excellent
+Q4r2,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue anglaise",1,1- Faible
+Q4r2,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue anglaise",2,2
+Q4r2,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue anglaise",3,3
+Q4r2,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue anglaise",4,4
+Q4r2,"Sur une échelle de 1 à 5, ou 1 signifie « faible » et 5 « excellent », veuillez indiquer votre niveau de maîtrise (parler, écrire, comprendre) des langues suivantes? - La langue anglaise",5,5- Excellent
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,1,Moins d’un an
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,2,1 à 2 ans
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,3,3 à 5 ans
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,4,6 à 10 ans
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,5,11 à 20 ans
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,6,21 à 30 ans
+Q5,Depuis environ combien d’années résidez-vous au Québec? Veuillez compter toutes les années où vous avez habité au Québec.,7,Plus de 30 ans
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",1,14 999 $ et moins
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",2,De 15 000 $ à 19 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",3,De 20 000 $ à 29 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",4,De 30 000 $ à 39 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",5,De 40 000 $ à 49 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",6,De 50 000 $ à 59 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",7,De 60 000 $ à 79 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",8,De 80 000 $ à 99 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",9,De 100 000 $ à 119 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",10,De 120 000 $ à 149 999 $
+Q6,"Parmi les catégories suivantes, laquelle reflète le mieux le REVENU total avant impôt de tous les membres de votre foyer pour l’année 2020?",11,150 000 $ et plus
+Q7,"Advenant que vous souhaitiez obtenir aujourd’hui un prêt personnel d’une institution financière, que ce soit pour une automobile, une hypothèque ou l’achat d’un équipement, selon vous, quelle serait la probabilité qu’il vous soit accordé sans aucune difficulté?",1,Très probable
+Q7,"Advenant que vous souhaitiez obtenir aujourd’hui un prêt personnel d’une institution financière, que ce soit pour une automobile, une hypothèque ou l’achat d’un équipement, selon vous, quelle serait la probabilité qu’il vous soit accordé sans aucune difficulté?",2,Assez probable
+Q7,"Advenant que vous souhaitiez obtenir aujourd’hui un prêt personnel d’une institution financière, que ce soit pour une automobile, une hypothèque ou l’achat d’un équipement, selon vous, quelle serait la probabilité qu’il vous soit accordé sans aucune difficulté?",3,Peu probable
+Q7,"Advenant que vous souhaitiez obtenir aujourd’hui un prêt personnel d’une institution financière, que ce soit pour une automobile, une hypothèque ou l’achat d’un équipement, selon vous, quelle serait la probabilité qu’il vous soit accordé sans aucune difficulté?",4,Pas du tout probable
+Q8r1,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Comptabilité",1,1- Aucune comptence
+Q8r1,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Comptabilité",2,2
+Q8r1,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Comptabilité",3,3
+Q8r1,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Comptabilité",4,4
+Q8r1,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Comptabilité",5,5- Compétence avancée
+Q8r2,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Marketing",1,1- Aucune comptence
+Q8r2,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Marketing",2,2
+Q8r2,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Marketing",3,3
+Q8r2,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Marketing",4,4
+Q8r2,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Marketing",5,5- Compétence avancée
+Q8r3,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Informatique",1,1- Aucune comptence
+Q8r3,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Informatique",2,2
+Q8r3,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Informatique",3,3
+Q8r3,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Informatique",4,4
+Q8r3,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Informatique",5,5- Compétence avancée
+Q8r4,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Entrepreneuriat et démarrage d’entreprise",1,1- Aucune comptence
+Q8r4,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Entrepreneuriat et démarrage d’entreprise",2,2
+Q8r4,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Entrepreneuriat et démarrage d’entreprise",3,3
+Q8r4,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Entrepreneuriat et démarrage d’entreprise",4,4
+Q8r4,"Comment qualifieriez-vous sur une échelle de 1 à 5 votre niveau de compétence personnelle dans les domaines de gestion suivants? Veuillez utiliser une échelle où 1 signifie « aucune compétence, vous avez besoin d’accompagnement et de conseils dans ce domaine» et 5 signifie « une compétence avancée, vous êtes pleinement autonome dans ce domaine ». - Entrepreneuriat et démarrage d’entreprise",5,5- Compétence avancée
+Q9r1,"Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous connaissez personnellement des entrepreneurs (propriétaire d’entreprise, travailleur autonome, travailleur indépendant) sur lesquels vous pouvez compter pour avoir des conseils d’affaires.",1,En accord
+Q9r1,"Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous connaissez personnellement des entrepreneurs (propriétaire d’entreprise, travailleur autonome, travailleur indépendant) sur lesquels vous pouvez compter pour avoir des conseils d’affaires.",2,En désaccord
+Q9r2,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous faites partie d’un réseau ou d’une association professionnelle de gens d’affaires.,1,En accord
+Q9r2,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous faites partie d’un réseau ou d’une association professionnelle de gens d’affaires.,2,En désaccord
+Q9r3,"Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous avez un bon réseau de contacts pour vous aider dans le développement des affaires (fournisseurs, clients, distributeurs).",1,En accord
+Q9r3,"Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous avez un bon réseau de contacts pour vous aider dans le développement des affaires (fournisseurs, clients, distributeurs).",2,En désaccord
+Q9r4,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous connaissez les organisations qui offrent des services de soutien aux entrepreneurs sur l’île de Montréal,1,En accord
+Q9r4,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous connaissez les organisations qui offrent des services de soutien aux entrepreneurs sur l’île de Montréal,2,En désaccord
+Q9r5,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous connaissez les programmes gouvernementaux de soutien aux entrepreneurs montréalais,1,En accord
+Q9r5,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Vous connaissez les programmes gouvernementaux de soutien aux entrepreneurs montréalais,2,En désaccord
+Q9r6,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Mon entourage perçoit positivement l’entrepreneuriat,1,En accord
+Q9r6,Êtes-vous en accord ou en désaccord avec les énoncés suivants? - Mon entourage perçoit positivement l’entrepreneuriat,2,En désaccord
+Q10,Votre entreprise actuelle ou celle que vous envisagez (ou aviez envisagé) démarrer comptera-t-elle…?,1,Un propriétaire unique (vous)
+Q10,Votre entreprise actuelle ou celle que vous envisagez (ou aviez envisagé) démarrer comptera-t-elle…?,2,Plusieurs co-propriétaires
+N_BARRIERES,,,Variable calculée qui résume le nombres de barrières d’accès aux service entrepreneuriaux cummulées par le répondant - valeur numérique (0-17)
+Q11,"Selon votre statut légal au Canada (du point de vue de la citoyenneté), dans quelle situation vous trouvez-vous?",1,"Citoyen(ne) canadien(ne) par naissance, né(e) de parents canadiens (ou né(e) au Canada des parents légalement établis)."
+Q11,"Selon votre statut légal au Canada (du point de vue de la citoyenneté), dans quelle situation vous trouvez-vous?",2,"Citoyen(ne) canadien(ne) naturalisé(e), ayant obtenu un certificat de citoyenneté et étant citoyen(ne) d’un autre pays par la naissance (citoyen canadien de première génération)."
+Q11,"Selon votre statut légal au Canada (du point de vue de la citoyenneté), dans quelle situation vous trouvez-vous?",3,"Immigrant reçu(e), avec une carte de résident et en attente d’obtention de la citoyenneté canadienne."
+Q11,"Selon votre statut légal au Canada (du point de vue de la citoyenneté), dans quelle situation vous trouvez-vous?",4,"En possession d’un visa temporaire de travail ou d’études, donc pas de citoyenneté canadienne, ni statut d’immigrant reçu"
+Q11,"Selon votre statut légal au Canada (du point de vue de la citoyenneté), dans quelle situation vous trouvez-vous?",5,"Autre type d’immigrant (réfugié, etc.)"
+Q12r1,Comment décririez-vous vos origines ethniques? - Canadienne,0,Non
+Q12r1,Comment décririez-vous vos origines ethniques? - Canadienne,1,Oui
+Q12r2,Comment décririez-vous vos origines ethniques? - Africaine,0,Non
+Q12r2,Comment décririez-vous vos origines ethniques? - Africaine,1,Oui
+Q12r3,Comment décririez-vous vos origines ethniques? - Américaine (États-Unis),0,Non
+Q12r3,Comment décririez-vous vos origines ethniques? - Américaine (États-Unis),1,Oui
+Q12r4,Comment décririez-vous vos origines ethniques? - Arabe ou moyen-orientale,0,Non
+Q12r4,Comment décririez-vous vos origines ethniques? - Arabe ou moyen-orientale,1,Oui
+Q12r5,Comment décririez-vous vos origines ethniques? - Anglaise,0,Non
+Q12r5,Comment décririez-vous vos origines ethniques? - Anglaise,1,Oui
+Q12r6,Comment décririez-vous vos origines ethniques? - Caribéenne ou jamaïcaine,0,Non
+Q12r6,Comment décririez-vous vos origines ethniques? - Caribéenne ou jamaïcaine,1,Oui
+Q12r7,Comment décririez-vous vos origines ethniques? - Chinoise,0,Non
+Q12r7,Comment décririez-vous vos origines ethniques? - Chinoise,1,Oui
+Q12r8,Comment décririez-vous vos origines ethniques? - Philippines,0,Non
+Q12r8,Comment décririez-vous vos origines ethniques? - Philippines,1,Oui
+Q12r9,"Comment décririez-vous vos origines ethniques? - Premières Nations (autochtone, métisse, inuit, etc.)",0,Non
+Q12r9,"Comment décririez-vous vos origines ethniques? - Premières Nations (autochtone, métisse, inuit, etc.)",1,Oui
+Q12r10,Comment décririez-vous vos origines ethniques? - Française,0,Non
+Q12r10,Comment décririez-vous vos origines ethniques? - Française,1,Oui
+Q12r11,Comment décririez-vous vos origines ethniques? - Indienne (Inde),0,Non
+Q12r11,Comment décririez-vous vos origines ethniques? - Indienne (Inde),1,Oui
+Q12r12,Comment décririez-vous vos origines ethniques? - Grecque,0,Non
+Q12r12,Comment décririez-vous vos origines ethniques? - Grecque,1,Oui
+Q12r13,Comment décririez-vous vos origines ethniques? - Irlandaise,0,Non
+Q12r13,Comment décririez-vous vos origines ethniques? - Irlandaise,1,Oui
+Q12r14,Comment décririez-vous vos origines ethniques? - Italienne,0,Non
+Q12r14,Comment décririez-vous vos origines ethniques? - Italienne,1,Oui
+Q12r15,Comment décririez-vous vos origines ethniques? - Latino-américaine (non mexicaine),0,Non
+Q12r15,Comment décririez-vous vos origines ethniques? - Latino-américaine (non mexicaine),1,Oui
+Q12r16,Comment décririez-vous vos origines ethniques? - Mexicaine,0,Non
+Q12r16,Comment décririez-vous vos origines ethniques? - Mexicaine,1,Oui
+Q12r17,Comment décririez-vous vos origines ethniques? - Pakistanaise,0,Non
+Q12r17,Comment décririez-vous vos origines ethniques? - Pakistanaise,1,Oui
+Q12r18,"Comment décririez-vous vos origines ethniques? - Autre origine européenne – Europe centrale ou orientale (hongroise, polonaise, roumaine, russe, ukrainienne, etc.)",0,Non
+Q12r18,"Comment décririez-vous vos origines ethniques? - Autre origine européenne – Europe centrale ou orientale (hongroise, polonaise, roumaine, russe, ukrainienne, etc.)",1,Oui
+Q12r19,"Comment décririez-vous vos origines ethniques? - Autre origine européenne – Europe occidentale (allemande, belge, espagnole, néerlandaise, norvégienne, portugaise, etc.)",0,Non
+Q12r19,"Comment décririez-vous vos origines ethniques? - Autre origine européenne – Europe occidentale (allemande, belge, espagnole, néerlandaise, norvégienne, portugaise, etc.)",1,Oui
+Q12r20,"Comment décririez-vous vos origines ethniques? - Autre origine d’Extrême-Orient (japonaise, coréenne, taïwanaise, etc.)",0,Non
+Q12r20,"Comment décririez-vous vos origines ethniques? - Autre origine d’Extrême-Orient (japonaise, coréenne, taïwanaise, etc.)",1,Oui
+Q12r21,"Comment décririez-vous vos origines ethniques? - Autre origine d’Asie du Sud-Est (thaïlandaise, cambodgienne, vietnamienne, etc.)",0,Non
+Q12r21,"Comment décririez-vous vos origines ethniques? - Autre origine d’Asie du Sud-Est (thaïlandaise, cambodgienne, vietnamienne, etc.)",1,Oui
+Q12r22,"Comment décririez-vous vos origines ethniques? - Autre origine d’Asie du Sud (bangladaise, sri lankaise, etc.)",0,Non
+Q12r22,"Comment décririez-vous vos origines ethniques? - Autre origine d’Asie du Sud (bangladaise, sri lankaise, etc.)",1,Oui
+Q12r96,Comment décririez-vous vos origines ethniques? - Autre? Veuillez préciser,0,Non
+Q12r96,Comment décririez-vous vos origines ethniques? - Autre? Veuillez préciser,1,Oui
+FOY1,"En vous incluant, combien de personnes composent votre ménage en incluant les adultes et les enfants?",,Valeur numérique (0-20)
+FOY2,"De ces [pipe: FOY1] personnes qui composent votre ménage, combien sont des enfants de moins de 18 ans?",,Valeur numérique (0-20)
+Q13,Quelle est votre situation familiale?,1,Vous êtes seul(e) à avoir la garde de vos enfants (monoparental)
+Q13,Quelle est votre situation familiale?,2,Vous n’habitez pas avec l’autre parent de vos enfants et vous avez une garde partagée
+Q13,Quelle est votre situation familiale?,3,Vous habitez avec l’autre parent de vos enfants (garde conjointe)
+Q14,"Avez-vous une limitation fonctionnelle dans la réalisation d’activités courantes?(Déficience motrice; Déficience auditive; Trouble de langage-parole; Trouble de santé mentale; Déficience visuelle; Déficience intellectuelle; Troubles du spectre de l’autisme)Note : Limitation fonctionnelle exclut les limitations temporaires, par exemple : une jambe cassée.",1,Oui
+Q14,"Avez-vous une limitation fonctionnelle dans la réalisation d’activités courantes?(Déficience motrice; Déficience auditive; Trouble de langage-parole; Trouble de santé mentale; Déficience visuelle; Déficience intellectuelle; Troubles du spectre de l’autisme)Note : Limitation fonctionnelle exclut les limitations temporaires, par exemple : une jambe cassée.",2,Non
+Q14,"Avez-vous une limitation fonctionnelle dans la réalisation d’activités courantes?(Déficience motrice; Déficience auditive; Trouble de langage-parole; Trouble de santé mentale; Déficience visuelle; Déficience intellectuelle; Troubles du spectre de l’autisme)Note : Limitation fonctionnelle exclut les limitations temporaires, par exemple : une jambe cassée.",98,Je ne sais pas
+Q14Br1,Avez-vous…? - Une quelconque difficulté à voir (même en portant des lunettes ou des verres de contact),1,Non
+Q14Br1,Avez-vous…? - Une quelconque difficulté à voir (même en portant des lunettes ou des verres de contact),2,Parfois
+Q14Br1,Avez-vous…? - Une quelconque difficulté à voir (même en portant des lunettes ou des verres de contact),3,Souvent
+Q14Br1,Avez-vous…? - Une quelconque difficulté à voir (même en portant des lunettes ou des verres de contact),4,Toujours
+Q14Br2,Avez-vous…? - Une quelconque difficulté à entendre (même en utilisant un appareil auditif),1,Non
+Q14Br2,Avez-vous…? - Une quelconque difficulté à entendre (même en utilisant un appareil auditif),2,Parfois
+Q14Br2,Avez-vous…? - Une quelconque difficulté à entendre (même en utilisant un appareil auditif),3,Souvent
+Q14Br2,Avez-vous…? - Une quelconque difficulté à entendre (même en utilisant un appareil auditif),4,Toujours
+Q14Br3,"Avez-vous…? - Une quelconque difficulté à marcher, à utiliser des escaliers, à vous servir de vos mains ou de vos doigts ou à faire d'autres activités physiques",1,Non
+Q14Br3,"Avez-vous…? - Une quelconque difficulté à marcher, à utiliser des escaliers, à vous servir de vos mains ou de vos doigts ou à faire d'autres activités physiques",2,Parfois
+Q14Br3,"Avez-vous…? - Une quelconque difficulté à marcher, à utiliser des escaliers, à vous servir de vos mains ou de vos doigts ou à faire d'autres activités physiques",3,Souvent
+Q14Br3,"Avez-vous…? - Une quelconque difficulté à marcher, à utiliser des escaliers, à vous servir de vos mains ou de vos doigts ou à faire d'autres activités physiques",4,Toujours
+Q14Br4,"Avez-vous…? - Une quelconque difficulté à apprendre, à retenir de l'information ou à vous concentrer",1,Non
+Q14Br4,"Avez-vous…? - Une quelconque difficulté à apprendre, à retenir de l'information ou à vous concentrer",2,Parfois
+Q14Br4,"Avez-vous…? - Une quelconque difficulté à apprendre, à retenir de l'information ou à vous concentrer",3,Souvent
+Q14Br4,"Avez-vous…? - Une quelconque difficulté à apprendre, à retenir de l'information ou à vous concentrer",4,Toujours
+Q14Br5,"Avez-vous…? - Une quelconque condition d'ordre émotionnel, psychologique ou de santé mentale (ex. : anxiété, dépression, trouble bipolaire, toxicomanie, anorexie, etc.)",1,Non
+Q14Br5,"Avez-vous…? - Une quelconque condition d'ordre émotionnel, psychologique ou de santé mentale (ex. : anxiété, dépression, trouble bipolaire, toxicomanie, anorexie, etc.)",2,Parfois
+Q14Br5,"Avez-vous…? - Une quelconque condition d'ordre émotionnel, psychologique ou de santé mentale (ex. : anxiété, dépression, trouble bipolaire, toxicomanie, anorexie, etc.)",3,Souvent
+Q14Br5,"Avez-vous…? - Une quelconque condition d'ordre émotionnel, psychologique ou de santé mentale (ex. : anxiété, dépression, trouble bipolaire, toxicomanie, anorexie, etc.)",4,Toujours
+Q14Br6,"Avez-vous…? - Un ou d'autres problèmes de santé, ou conditions à long terme, qui durent depuis six mois ou qui pourraient durer six mois ou plus",1,Non
+Q14Br6,"Avez-vous…? - Un ou d'autres problèmes de santé, ou conditions à long terme, qui durent depuis six mois ou qui pourraient durer six mois ou plus",2,Parfois
+Q14Br6,"Avez-vous…? - Un ou d'autres problèmes de santé, ou conditions à long terme, qui durent depuis six mois ou qui pourraient durer six mois ou plus",3,Souvent
+Q14Br6,"Avez-vous…? - Un ou d'autres problèmes de santé, ou conditions à long terme, qui durent depuis six mois ou qui pourraient durer six mois ou plus",4,Toujours
+incapacite,Variable calculée qui résume la présence ou l'absence d'incapacité du répondants (résumé de Q14 + Q14Br1 à Q14Br6),0,Non
+incapacite,Variable calculée qui résume la présence ou l'absence d'incapacité du répondants (résumé de Q14 + Q14Br1 à Q14Br6),1,Oui
+SEXE_1r5,Quelle est votre identité de genre? - Homme,0,Non
+SEXE_1r5,Quelle est votre identité de genre? - Homme,1,Oui
+SEXE_1r2,Quelle est votre identité de genre? - Femme,0,Non
+SEXE_1r2,Quelle est votre identité de genre? - Femme,1,Oui
+SEXE_1r1,Quelle est votre identité de genre? - Agenre,0,Non
+SEXE_1r1,Quelle est votre identité de genre? - Agenre,1,Oui
+SEXE_1r3,Quelle est votre identité de genre? - Genderqueer ou de genre fluide,0,Non
+SEXE_1r3,Quelle est votre identité de genre? - Genderqueer ou de genre fluide,1,Oui
+SEXE_1r4,Quelle est votre identité de genre? - Intersexe,0,Non
+SEXE_1r4,Quelle est votre identité de genre? - Intersexe,1,Oui
+SEXE_1r6,Quelle est votre identité de genre? - Non binaire,0,Non
+SEXE_1r6,Quelle est votre identité de genre? - Non binaire,1,Oui
+SEXE_1r7,Quelle est votre identité de genre? - Transgenre,0,Non
+SEXE_1r7,Quelle est votre identité de genre? - Transgenre,1,Oui
+SEXE_1r8,Quelle est votre identité de genre? - Bi-spirituel(le),0,Non
+SEXE_1r8,Quelle est votre identité de genre? - Bi-spirituel(le),1,Oui
+SEXE_1r9,Quelle est votre identité de genre? - Autre identité de genre,0,Non
+SEXE_1r9,Quelle est votre identité de genre? - Autre identité de genre,1,Oui
+SEXE_1r97,Quelle est votre identité de genre? - Je préfère ne pas répondre,0,Non
+SEXE_1r97,Quelle est votre identité de genre? - Je préfère ne pas répondre,1,Oui
+SEXE_2r8,Quelle est votre identité ou orientation sexuelle? - Hétérosexuel(le),0,Non
+SEXE_2r8,Quelle est votre identité ou orientation sexuelle? - Hétérosexuel(le),1,Oui
+SEXE_2r2,Quelle est votre identité ou orientation sexuelle? - Bisexuel(le),0,Non
+SEXE_2r2,Quelle est votre identité ou orientation sexuelle? - Bisexuel(le),1,Oui
+SEXE_2r1,Quelle est votre identité ou orientation sexuelle? - Asexuel(le),0,Non
+SEXE_2r1,Quelle est votre identité ou orientation sexuelle? - Asexuel(le),1,Oui
+SEXE_2r3,Quelle est votre identité ou orientation sexuelle? - Gai,0,Non
+SEXE_2r3,Quelle est votre identité ou orientation sexuelle? - Gai,1,Oui
+SEXE_2r4,Quelle est votre identité ou orientation sexuelle? - Lesbienne,0,Non
+SEXE_2r4,Quelle est votre identité ou orientation sexuelle? - Lesbienne,1,Oui
+SEXE_2r5,Quelle est votre identité ou orientation sexuelle? - Pansexuel(le),0,Non
+SEXE_2r5,Quelle est votre identité ou orientation sexuelle? - Pansexuel(le),1,Oui
+SEXE_2r6,Quelle est votre identité ou orientation sexuelle? - Queer,0,Non
+SEXE_2r6,Quelle est votre identité ou orientation sexuelle? - Queer,1,Oui
+SEXE_2r7,Quelle est votre identité ou orientation sexuelle? - En questionnement ou incertain(e),0,Non
+SEXE_2r7,Quelle est votre identité ou orientation sexuelle? - En questionnement ou incertain(e),1,Oui
+SEXE_2r9,Quelle est votre identité ou orientation sexuelle? - Autre identité sexuel(le),0,Non
+SEXE_2r9,Quelle est votre identité ou orientation sexuelle? - Autre identité sexuel(le),1,Oui
+SEXE_2r97,Quelle est votre identité ou orientation sexuelle? - Je préfère ne pas répondre,0,Non
+SEXE_2r97,Quelle est votre identité ou orientation sexuelle? - Je préfère ne pas répondre,1,Oui
+Q15,"Vous avez indiqué que, seul(e) ou avec d'autres, vous êtes présentement travailleur autonome ou propriétaire d'une entreprise que vous dirigez ou non. Si vous possédez plus d'une entreprise, répondez aux questions suivantes en vous référant à l'entreprise qui crée le plus d'emplois. Veuillez noter que le terme « propriétaires » fait aussi référence aux travailleurs autonomes. Depuis combien d’années votre entreprise actuelle existe-elle?",1,Moins de 1 an
+Q15,"Vous avez indiqué que, seul(e) ou avec d'autres, vous êtes présentement travailleur autonome ou propriétaire d'une entreprise que vous dirigez ou non. Si vous possédez plus d'une entreprise, répondez aux questions suivantes en vous référant à l'entreprise qui crée le plus d'emplois. Veuillez noter que le terme « propriétaires » fait aussi référence aux travailleurs autonomes. Depuis combien d’années votre entreprise actuelle existe-elle?",2,1 à moins de 3 ans
+Q15,"Vous avez indiqué que, seul(e) ou avec d'autres, vous êtes présentement travailleur autonome ou propriétaire d'une entreprise que vous dirigez ou non. Si vous possédez plus d'une entreprise, répondez aux questions suivantes en vous référant à l'entreprise qui crée le plus d'emplois. Veuillez noter que le terme « propriétaires » fait aussi référence aux travailleurs autonomes. Depuis combien d’années votre entreprise actuelle existe-elle?",3,3 à moins de 5 ans
+Q15,"Vous avez indiqué que, seul(e) ou avec d'autres, vous êtes présentement travailleur autonome ou propriétaire d'une entreprise que vous dirigez ou non. Si vous possédez plus d'une entreprise, répondez aux questions suivantes en vous référant à l'entreprise qui crée le plus d'emplois. Veuillez noter que le terme « propriétaires » fait aussi référence aux travailleurs autonomes. Depuis combien d’années votre entreprise actuelle existe-elle?",4,5 à moins de 10 ans
+Q15,"Vous avez indiqué que, seul(e) ou avec d'autres, vous êtes présentement travailleur autonome ou propriétaire d'une entreprise que vous dirigez ou non. Si vous possédez plus d'une entreprise, répondez aux questions suivantes en vous référant à l'entreprise qui crée le plus d'emplois. Veuillez noter que le terme « propriétaires » fait aussi référence aux travailleurs autonomes. Depuis combien d’années votre entreprise actuelle existe-elle?",5,10 ans et plus
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",1,0
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",2,1 à 3
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",3,4 à 5
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",4,6 à 10
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",5,11 à 20
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",6,21 à 50
+Q16,"En vous excluant, combien d'employés travaillent à temps plein ou à temps partiel dans l'entreprise dont vous êtes propriétaire?",7,Plus de 50
+Q17,Dans quel secteur d'activité se situe votre entreprise?,1,Commerce de détail
+Q17,Dans quel secteur d'activité se situe votre entreprise?,2,"Autres services, sauf les administrations publiques (réparation et entretien, services personnels et de blanchissage, ménages privés, etc.)"
+Q17,Dans quel secteur d'activité se situe votre entreprise?,3,"Services professionnels, scientifiques et techniques (services juridiques, comptables, architecture, génie, arpentage, publicité, conception de systèmes informatiques, conseils de gestion, recherche scientifique, etc.)"
+Q17,Dans quel secteur d'activité se situe votre entreprise?,4,"Arts, spectacles et loisirs"
+Q17,Dans quel secteur d'activité se situe votre entreprise?,5,Finance et assurances
+Q17,Dans quel secteur d'activité se situe votre entreprise?,6,Soins de santé et assistance sociale
+Q17,Dans quel secteur d'activité se situe votre entreprise?,7,Construction
+Q17,Dans quel secteur d'activité se situe votre entreprise?,8,Hébergement et services de restauration
+Q17,Dans quel secteur d'activité se situe votre entreprise?,9,Services d’enseignement
+Q17,Dans quel secteur d'activité se situe votre entreprise?,10,Commerce de gros
+Q17,Dans quel secteur d'activité se situe votre entreprise?,11,Fabrication
+Q17,Dans quel secteur d'activité se situe votre entreprise?,12,Industrie de l’information et industrie culturelle
+Q17,Dans quel secteur d'activité se situe votre entreprise?,13,Transport et entreposage
+Q17,Dans quel secteur d'activité se situe votre entreprise?,14,"Agriculture, foresterie, pêche et chasse"
+Q17,Dans quel secteur d'activité se situe votre entreprise?,15,Gestion de sociétés et d’entreprises
+Q17,Dans quel secteur d'activité se situe votre entreprise?,16,Services immobiliers et services de location et de location à bail
+Q17,Dans quel secteur d'activité se situe votre entreprise?,17,"Services administratifs, services de soutien, services de gestion des déchets et services d’assainissement"
+Q17,Dans quel secteur d'activité se situe votre entreprise?,96,"Autre, précisez :"
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,1,49 999$ et moins
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,2,entre 50 000$ et 99 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,3,entre 100 000$ et 199 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,4,entre 200 000$ et 499 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,5,entre 500 000$ et 999 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,6,entre 1 000 000$ et 1 499 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,7,entre 1 500 000$ et 4 999 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,8,entre 5 000 000$ et 9 999 999$
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,9,10 000 000$ et plus
+Q18,Et quel était le chiffre d'affaires annuel de votre entreprise ou votre revenu en tant que travailleur autonome au cours de la dernière année? Est-ce...,97,Ne s'applique pas
+Q19,À quelle étape de développement diriez-vous que se situe votre entreprise?,1,Prédémarrage (Pas encore de ventes)
+Q19,À quelle étape de développement diriez-vous que se situe votre entreprise?,2,Démarrage (Existe depuis 1 an et moins de 5 ans)
+Q19,À quelle étape de développement diriez-vous que se situe votre entreprise?,3,Croissance (Existe depuis 5 ans et moins de 10 ans)
+Q19,À quelle étape de développement diriez-vous que se situe votre entreprise?,4,Établie (Existe depuis plus de 10 ans sans faillite)
+Q20r1,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Obtenir du financement,0,Non
+Q20r1,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Obtenir du financement,1,Oui
+Q20r2,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Développer une stratégie de marketing efficace,0,Non
+Q20r2,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Développer une stratégie de marketing efficace,1,Oui
+Q20r3,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Accroître/diversifier les ventes,0,Non
+Q20r3,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Accroître/diversifier les ventes,1,Oui
+Q20r4,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Optimiser sa fiscalité,0,Non
+Q20r4,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Optimiser sa fiscalité,1,Oui
+Q20r5,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Gérer les ressources humaines,0,Non
+Q20r5,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Gérer les ressources humaines,1,Oui
+Q20r6,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Améliorer les relations clients,0,Non
+Q20r6,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Améliorer les relations clients,1,Oui
+Q20r7,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Intégrer les technologies de l’information,0,Non
+Q20r7,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Intégrer les technologies de l’information,1,Oui
+Q20r8,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Prendre des décisions stratégiques,0,Non
+Q20r8,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Prendre des décisions stratégiques,1,Oui
+Q20r9,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Obtenir des fournisseurs de confiance,0,Non
+Q20r9,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Obtenir des fournisseurs de confiance,1,Oui
+Q20r10,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Trouver de bons partenaires d’affaires,0,Non
+Q20r10,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Trouver de bons partenaires d’affaires,1,Oui
+Q20r11,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Trouver de l’information sur l’import/export,0,Non
+Q20r11,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Trouver de l’information sur l’import/export,1,Oui
+Q20r12,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Recrutement de main d’œuvre qualifiée,0,Non
+Q20r12,Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Recrutement de main d’œuvre qualifiée,1,Oui
+Q20r96,"Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Autre, précisez :",0,Non
+Q20r96,"Quels sont les obstacles les plus importants que vous avez eus à surmonter depuis le démarrage de votre entreprise? - Autre, précisez :",1,Oui
+Q21r1,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Obtenir du financement,0,Non
+Q21r1,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Obtenir du financement,1,Oui
+Q21r2,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Développer une stratégie de marketing efficace,0,Non
+Q21r2,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Développer une stratégie de marketing efficace,1,Oui
+Q21r3,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Accroître/diversifier les ventes,0,Non
+Q21r3,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Accroître/diversifier les ventes,1,Oui
+Q21r4,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Optimiser sa fiscalité,0,Non
+Q21r4,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Optimiser sa fiscalité,1,Oui
+Q21r5,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Gérer les ressources humaines,0,Non
+Q21r5,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Gérer les ressources humaines,1,Oui
+Q21r6,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Améliorer les relations clients,0,Non
+Q21r6,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Améliorer les relations clients,1,Oui
+Q21r7,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Intégrer les technologies de l’information,0,Non
+Q21r7,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Intégrer les technologies de l’information,1,Oui
+Q21r8,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Prendre des décisions stratégiques,0,Non
+Q21r8,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Prendre des décisions stratégiques,1,Oui
+Q21r9,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Obtenir des fournisseurs de confiance,0,Non
+Q21r9,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Obtenir des fournisseurs de confiance,1,Oui
+Q21r10,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Trouver de bons partenaires d’affaires,0,Non
+Q21r10,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Trouver de bons partenaires d’affaires,1,Oui
+Q21r11,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Trouver de l’information sur l’import/export,0,Non
+Q21r11,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Trouver de l’information sur l’import/export,1,Oui
+Q21r12,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Recrutement de main d’œuvre qualifiée,0,Non
+Q21r12,Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Recrutement de main d’œuvre qualifiée,1,Oui
+Q21r96,"Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Autre, précisez :",0,Non
+Q21r96,"Quels sont les obstacles les plus importants que vous pensez avoir à surmonter pour lancer votre entreprise? - Autre, précisez :",1,Oui
+Q21Br1,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre niveau de confiance à réussir en tant qu’entrepreneur",1,Impact positif
+Q21Br1,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre niveau de confiance à réussir en tant qu’entrepreneur",2,Impact négatif
+Q21Br1,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre niveau de confiance à réussir en tant qu’entrepreneur",3,Aucun impact
+Q21Br1,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre niveau de confiance à réussir en tant qu’entrepreneur",97,Ne s’applique pas
+Q21Br2,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à poursuivre les activités de votre entreprise actuelle ou en devenir",1,Impact positif
+Q21Br2,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à poursuivre les activités de votre entreprise actuelle ou en devenir",2,Impact négatif
+Q21Br2,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à poursuivre les activités de votre entreprise actuelle ou en devenir",3,Aucun impact
+Q21Br2,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à poursuivre les activités de votre entreprise actuelle ou en devenir",97,Ne s’applique pas
+Q21Br3,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à bien comprendre où se trouvent les opportunités de marché",1,Impact positif
+Q21Br3,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à bien comprendre où se trouvent les opportunités de marché",2,Impact négatif
+Q21Br3,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à bien comprendre où se trouvent les opportunités de marché",3,Aucun impact
+Q21Br3,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à bien comprendre où se trouvent les opportunités de marché",97,Ne s’applique pas
+Q21Br4,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre enthousiasme en tant qu’entrepreneur",1,Impact positif
+Q21Br4,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre enthousiasme en tant qu’entrepreneur",2,Impact négatif
+Q21Br4,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre enthousiasme en tant qu’entrepreneur",3,Aucun impact
+Q21Br4,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre enthousiasme en tant qu’entrepreneur",97,Ne s’applique pas
+Q21Br5,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à atteindre vos objectifs d’affaires de façon autonome",1,Impact positif
+Q21Br5,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à atteindre vos objectifs d’affaires de façon autonome",2,Impact négatif
+Q21Br5,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à atteindre vos objectifs d’affaires de façon autonome",3,Aucun impact
+Q21Br5,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à atteindre vos objectifs d’affaires de façon autonome",97,Ne s’applique pas
+Q21Br6,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - L’accès adéquat à du financement",1,Impact positif
+Q21Br6,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - L’accès adéquat à du financement",2,Impact négatif
+Q21Br6,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - L’accès adéquat à du financement",3,Aucun impact
+Q21Br6,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - L’accès adéquat à du financement",97,Ne s’applique pas
+Q21Br7,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à attirer et à conserver de la main-d’oeuvre",1,Impact positif
+Q21Br7,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à attirer et à conserver de la main-d’oeuvre",2,Impact négatif
+Q21Br7,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à attirer et à conserver de la main-d’oeuvre",3,Aucun impact
+Q21Br7,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Votre capacité à attirer et à conserver de la main-d’oeuvre",97,Ne s’applique pas
+Q21Br8,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Sur votre niveau d’endettement et de liquidité",1,Impact positif
+Q21Br8,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Sur votre niveau d’endettement et de liquidité",2,Impact négatif
+Q21Br8,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Sur votre niveau d’endettement et de liquidité",3,Aucun impact
+Q21Br8,"En tant qu’entrepreneur, est-ce que la crise de la Covid-19 a eu impact positif, négatif ou n'a eu aucun impact sur les aspects suivants - Sur votre niveau d’endettement et de liquidité",97,Ne s’applique pas
+Q22,"Sur l’île de Montréal, il existe des organisations qui viennent en aide aux entrepreneurs montréalais qui offrent des services comme l’aide au développement du plan d’affaires, le mentorat, les services d’incubation, l’aide pour obtenir du financement, etc. Connaissez-vous ces organisations et les services qu’elles offrent aux entrepreneurs montréalais? Les connaissez-vous…",1,Très bien
+Q22,"Sur l’île de Montréal, il existe des organisations qui viennent en aide aux entrepreneurs montréalais qui offrent des services comme l’aide au développement du plan d’affaires, le mentorat, les services d’incubation, l’aide pour obtenir du financement, etc. Connaissez-vous ces organisations et les services qu’elles offrent aux entrepreneurs montréalais? Les connaissez-vous…",2,Plutôt bien
+Q22,"Sur l’île de Montréal, il existe des organisations qui viennent en aide aux entrepreneurs montréalais qui offrent des services comme l’aide au développement du plan d’affaires, le mentorat, les services d’incubation, l’aide pour obtenir du financement, etc. Connaissez-vous ces organisations et les services qu’elles offrent aux entrepreneurs montréalais? Les connaissez-vous…",3,Plutôt mal
+Q22,"Sur l’île de Montréal, il existe des organisations qui viennent en aide aux entrepreneurs montréalais qui offrent des services comme l’aide au développement du plan d’affaires, le mentorat, les services d’incubation, l’aide pour obtenir du financement, etc. Connaissez-vous ces organisations et les services qu’elles offrent aux entrepreneurs montréalais? Les connaissez-vous…",4,Je ne les connais pas du tout
+Q23,Avez-vous déjà communiqué avec une organisation de soutien aux entrepreneurs sur l’Île de Montréal (peu importe que votre demande ait été acceptée ou non)?,1,Oui
+Q23,Avez-vous déjà communiqué avec une organisation de soutien aux entrepreneurs sur l’Île de Montréal (peu importe que votre demande ait été acceptée ou non)?,2,Non
+Q24,À quand remonte la dernière fois où vous avez communiqué avec un organisme de soutien aux entrepreneurs sur l’Île de Montréal?,1,Au cours des 12 derniers mois
+Q24,À quand remonte la dernière fois où vous avez communiqué avec un organisme de soutien aux entrepreneurs sur l’Île de Montréal?,2,Il y a 1 à 2 ans
+Q24,À quand remonte la dernière fois où vous avez communiqué avec un organisme de soutien aux entrepreneurs sur l’Île de Montréal?,3,Il y a 3 à 5 ans
+Q24,À quand remonte la dernière fois où vous avez communiqué avec un organisme de soutien aux entrepreneurs sur l’Île de Montréal?,4,Il y a 5 à 10 ans
+Q24,À quand remonte la dernière fois où vous avez communiqué avec un organisme de soutien aux entrepreneurs sur l’Île de Montréal?,5,Il y a plus de 10 ans
+Q25r1,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des conseils et de l’accompagnement pour le développement d’un plan d’affaires,0,Non
+Q25r1,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des conseils et de l’accompagnement pour le développement d’un plan d’affaires,1,Oui
+Q25r2,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.)",0,Non
+Q25r2,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.)",1,Oui
+Q25r3,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir du financement (Prêts ou subventions),0,Non
+Q25r3,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir du financement (Prêts ou subventions),1,Oui
+Q25r4,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",0,Non
+Q25r4,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",1,Oui
+Q25r5,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour avoir de l’aide pour trouver un local, localisation pour implanter son entreprise ou une usine, etc.",0,Non
+Q25r5,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour avoir de l’aide pour trouver un local, localisation pour implanter son entreprise ou une usine, etc.",1,Oui
+Q25r6,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour suivre une formation,0,Non
+Q25r6,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour suivre une formation,1,Oui
+Q25r7,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des données de marché et statistiques,0,Non
+Q25r7,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour obtenir des données de marché et statistiques,1,Oui
+Q25r8,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour être accompagné d’un mentor,0,Non
+Q25r8,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour être accompagné d’un mentor,1,Oui
+Q25r9,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour m’impliquer dans une communauté d’entrepreneurs,0,Non
+Q25r9,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Pour m’impliquer dans une communauté d’entrepreneurs,1,Oui
+Q25r96,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Autre, précisez :",0,Non
+Q25r96,"Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Autre, précisez :",1,Oui
+Q25r97,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Aucune raison en particulier,0,Non
+Q25r97,Pour quelles raisons avez-vous communiqué avec une organisation qui offre des services de soutien aux entrepreneurs sur l’Île de Montréal? - Aucune raison en particulier,1,Oui
+Q26r1,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires,1,Acceptée
+Q26r1,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires,2,Refusée
+Q26r1,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires,3,Je ne sais pas / en attente d’une réponse
+Q26r2,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.)",1,Acceptée
+Q26r2,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.)",2,Refusée
+Q26r2,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.)",3,Je ne sais pas / en attente d’une réponse
+Q26r3,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir du financement (Prêts ou subventions),1,Acceptée
+Q26r3,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir du financement (Prêts ou subventions),2,Refusée
+Q26r3,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir du financement (Prêts ou subventions),3,Je ne sais pas / en attente d’une réponse
+Q26r4,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",1,Acceptée
+Q26r4,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",2,Refusée
+Q26r4,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",3,Je ne sais pas / en attente d’une réponse
+Q26r5,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc.",1,Acceptée
+Q26r5,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc.",2,Refusée
+Q26r5,"Est-ce que cette demande de service a été acceptée ou refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc.",3,Je ne sais pas / en attente d’une réponse
+Q26r6,Est-ce que cette demande de service a été acceptée ou refusée? - Pour suivre une formation,1,Acceptée
+Q26r6,Est-ce que cette demande de service a été acceptée ou refusée? - Pour suivre une formation,2,Refusée
+Q26r6,Est-ce que cette demande de service a été acceptée ou refusée? - Pour suivre une formation,3,Je ne sais pas / en attente d’une réponse
+Q26r7,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des données de marché et statistiques,1,Acceptée
+Q26r7,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des données de marché et statistiques,2,Refusée
+Q26r7,Est-ce que cette demande de service a été acceptée ou refusée? - Pour obtenir des données de marché et statistiques,3,Je ne sais pas / en attente d’une réponse
+Q27_Lr1r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Situation financière personnelle précaire,0,Non
+Q27_Lr1r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Situation financière personnelle précaire,1,Oui
+Q27_Lr1r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr1r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr1r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr1r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr1r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Critère d’admission non rencontré,0,Non
+Q27_Lr1r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Critère d’admission non rencontré,1,Oui
+Q27_Lr1r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Autre, précisez (ex: quels critères n’ont pas été rencontrés) ",0,Non
+Q27_Lr1r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour développement un plan d’affaires - Autre, précisez (ex: quels critères n’ont pas été rencontrés) ",1,Oui
+Q27_Lr2r1,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Situation financière personnelle précaire",0,Non
+Q27_Lr2r1,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Situation financière personnelle précaire",1,Oui
+Q27_Lr2r2,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Viabilité incertaine du projet d’entreprise",0,Non
+Q27_Lr2r2,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Viabilité incertaine du projet d’entreprise",1,Oui
+Q27_Lr2r3,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Un plan d’affaires incomplet ou mal rédigé",0,Non
+Q27_Lr2r3,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Un plan d’affaires incomplet ou mal rédigé",1,Oui
+Q27_Lr2r4,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Critère d’admission non rencontré",0,Non
+Q27_Lr2r4,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Critère d’admission non rencontré",1,Oui
+Q27_Lr2r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr2r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils et de l’accompagnement pour assurer le développement de mon entreprise (stratégies de marketing, de vente, etc.) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q27_Lr3r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Situation financière personnelle précaire,0,Non
+Q27_Lr3r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Situation financière personnelle précaire,1,Oui
+Q27_Lr3r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr3r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr3r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr3r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr3r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Critère d’admission non rencontré,0,Non
+Q27_Lr3r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Critère d’admission non rencontré,1,Oui
+Q27_Lr3r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr3r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q27_Lr3r96oe,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir du financement (Prêts ou subventions) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr4r1,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Situation financière personnelle précaire",1,Oui
+Q27_Lr4r2,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Viabilité incertaine du projet d’entreprise",0,Non
+Q27_Lr4r2,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Viabilité incertaine du projet d’entreprise",1,Oui
+Q27_Lr4r3,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Un plan d’affaires incomplet ou mal rédigé",0,Non
+Q27_Lr4r3,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Un plan d’affaires incomplet ou mal rédigé",1,Oui
+Q27_Lr4r4,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Critère d’admission non rencontré",0,Non
+Q27_Lr4r4,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Critère d’admission non rencontré",1,Oui
+Q27_Lr4r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr4r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire) - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q27_Lr5r1,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Situation financière personnelle précaire",0,Non
+Q27_Lr5r1,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Situation financière personnelle précaire",1,Oui
+Q27_Lr5r2,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Viabilité incertaine du projet d’entreprise",0,Non
+Q27_Lr5r2,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Viabilité incertaine du projet d’entreprise",1,Oui
+Q27_Lr5r3,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Un plan d’affaires incomplet ou mal rédigé",0,Non
+Q27_Lr5r3,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Un plan d’affaires incomplet ou mal rédigé",1,Oui
+Q27_Lr5r4,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Critère d’admission non rencontré",0,Non
+Q27_Lr5r4,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Critère d’admission non rencontré",1,Oui
+Q27_Lr5r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Autre, précisez (ex: quels critères n’ont pas été rencontrés) ",0,Non
+Q27_Lr5r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour avoir de l’aide pour trouver un local, localisation pour une implanter son entreprise ou une usine, etc. - Autre, précisez (ex: quels critères n’ont pas été rencontrés) ",1,Oui
+Q27_Lr6r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Situation financière personnelle précaire,0,Non
+Q27_Lr6r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Situation financière personnelle précaire,1,Oui
+Q27_Lr6r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr6r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr6r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr6r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr6r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Critère d’admission non rencontré,0,Non
+Q27_Lr6r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Critère d’admission non rencontré,1,Oui
+Q27_Lr6r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Autre, précisez (ex: quels critères n’ont pas été rencontrés",0,Non
+Q27_Lr6r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour suivre une formation - Autre, précisez (ex: quels critères n’ont pas été rencontrés",1,Oui
+Q27_Lr7r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Situation financière personnelle précaire,0,Non
+Q27_Lr7r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Situation financière personnelle précaire,1,Oui
+Q27_Lr7r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr7r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr7r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr7r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr7r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Critère d’admission non rencontré,0,Non
+Q27_Lr7r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Critère d’admission non rencontré,1,Oui
+Q27_Lr7r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr7r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour obtenir des données de marché et statistiques - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q27_Lr8r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Situation financière personnelle précaire,0,Non
+Q27_Lr8r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Situation financière personnelle précaire,1,Oui
+Q27_Lr8r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr8r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr8r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr8r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr8r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Critère d’admission non rencontré,0,Non
+Q27_Lr8r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Critère d’admission non rencontré,1,Oui
+Q27_Lr8r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr8r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour être accompagné d’un mentor - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q27_Lr9r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Situation financière personnelle précaire,0,Non
+Q27_Lr9r1,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Situation financière personnelle précaire,1,Oui
+Q27_Lr9r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr9r2,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr9r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr9r3,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr9r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Critère d’admission non rencontré,0,Non
+Q27_Lr9r4,Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Critère d’admission non rencontré,1,Oui
+Q27_Lr9r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr9r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Pour m’impliquer dans une communauté d’entrepreneurs - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q27_Lr96r1,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Situation financière personnelle précaire,0,Non
+Q27_Lr96r1,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Situation financière personnelle précaire,1,Oui
+Q27_Lr96r2,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Viabilité incertaine du projet d’entreprise,0,Non
+Q27_Lr96r2,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Viabilité incertaine du projet d’entreprise,1,Oui
+Q27_Lr96r3,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Un plan d’affaires incomplet ou mal rédigé,0,Non
+Q27_Lr96r3,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Un plan d’affaires incomplet ou mal rédigé,1,Oui
+Q27_Lr96r4,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Critère d’admission non rencontré,0,Non
+Q27_Lr96r4,Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Critère d’admission non rencontré,1,Oui
+Q27_Lr96r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",0,Non
+Q27_Lr96r96,"Pour quelles raisons cette demande a-t-elle été refusée? - Autres - Autre, précisez (ex: quels critères n’ont pas été rencontrés)",1,Oui
+Q28,Avez-vous l’intention de recourir à un ou plusieurs services d’une organisation de soutien aux entrepreneurs sur l’Île de Montréal au cours des 12 prochains mois?,0,Non
+Q28,Avez-vous l’intention de recourir à un ou plusieurs services d’une organisation de soutien aux entrepreneurs sur l’Île de Montréal au cours des 12 prochains mois?,1,Oui
+Q29r1,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Recherche sur internet,0,Non
+Q29r1,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Recherche sur internet,1,Oui
+Q29r2,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Site internet de la Ville de Montréal,0,Non
+Q29r2,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Site internet de la Ville de Montréal,1,Oui
+Q29r3,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Associations, réseau d’entrepreneurs",0,Non
+Q29r3,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Associations, réseau d’entrepreneurs",1,Oui
+Q29r4,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - D’un autre entrepreneur,0,Non
+Q29r4,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - D’un autre entrepreneur,1,Oui
+Q29r5,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - De mon institution financière,0,Non
+Q29r5,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - De mon institution financière,1,Oui
+Q29r6,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Publicité sur Internet,0,Non
+Q29r6,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Publicité sur Internet,1,Oui
+Q29r7,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Bouche à oreille, une connaissance qui m’en a parlé",0,Non
+Q29r7,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Bouche à oreille, une connaissance qui m’en a parlé",1,Oui
+Q29r8,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Journaux,0,Non
+Q29r8,Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Journaux,1,Oui
+Q29r9,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Brochures, dépliants publicitaire",0,Non
+Q29r9,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Brochures, dépliants publicitaire",1,Oui
+Q29r96,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Autre, précisez",0,Non
+Q29r96,"Comment avez-vous entendu parler des services de soutien aux entrepreneurs sur l’Île de Montréal? - Autre, précisez",1,Oui
+Q31r1,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai l’impression que les services offerts aux entrepreneurs ne s’adressent pas à moi",1,Totalement en accord
+Q31r1,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai l’impression que les services offerts aux entrepreneurs ne s’adressent pas à moi",2,Assez en accord
+Q31r1,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai l’impression que les services offerts aux entrepreneurs ne s’adressent pas à moi",3,Assez en désaccord
+Q31r1,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai l’impression que les services offerts aux entrepreneurs ne s’adressent pas à moi",4,Totalement en désaccord
+Q31r1,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai l’impression que les services offerts aux entrepreneurs ne s’adressent pas à moi",98,Je ne sais pas
+Q31r2,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas assez de fonds pour faire appel à des organismes de services de soutien aux entrepreneurs",1,Totalement en accord
+Q31r2,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas assez de fonds pour faire appel à des organismes de services de soutien aux entrepreneurs",2,Assez en accord
+Q31r2,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas assez de fonds pour faire appel à des organismes de services de soutien aux entrepreneurs",3,Assez en désaccord
+Q31r2,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas assez de fonds pour faire appel à des organismes de services de soutien aux entrepreneurs",4,Totalement en désaccord
+Q31r2,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas assez de fonds pour faire appel à des organismes de services de soutien aux entrepreneurs",98,Je ne sais pas
+Q31r3,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’habite trop loin des points de services pour entrepreneurs",1,Totalement en accord
+Q31r3,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’habite trop loin des points de services pour entrepreneurs",2,Assez en accord
+Q31r3,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’habite trop loin des points de services pour entrepreneurs",3,Assez en désaccord
+Q31r3,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’habite trop loin des points de services pour entrepreneurs",4,Totalement en désaccord
+Q31r3,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’habite trop loin des points de services pour entrepreneurs",98,Je ne sais pas
+Q31r4,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise est de trop petite taille pour avoir accès aux services pour entrepreneurs",1,Totalement en accord
+Q31r4,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise est de trop petite taille pour avoir accès aux services pour entrepreneurs",2,Assez en accord
+Q31r4,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise est de trop petite taille pour avoir accès aux services pour entrepreneurs",3,Assez en désaccord
+Q31r4,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise est de trop petite taille pour avoir accès aux services pour entrepreneurs",4,Totalement en désaccord
+Q31r4,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise est de trop petite taille pour avoir accès aux services pour entrepreneurs",98,Je ne sais pas
+Q31r5,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas les qualifications requises pour accéder aux services pour les entrepreneurs",1,Totalement en accord
+Q31r5,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas les qualifications requises pour accéder aux services pour les entrepreneurs",2,Assez en accord
+Q31r5,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas les qualifications requises pour accéder aux services pour les entrepreneurs",3,Assez en désaccord
+Q31r5,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas les qualifications requises pour accéder aux services pour les entrepreneurs",4,Totalement en désaccord
+Q31r5,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je n’ai pas les qualifications requises pour accéder aux services pour les entrepreneurs",98,Je ne sais pas
+Q31r6,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je ne maitrise pas assez le français pour avoir accès aux services pour les entrepreneurs",1,Totalement en accord
+Q31r6,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je ne maitrise pas assez le français pour avoir accès aux services pour les entrepreneurs",2,Assez en accord
+Q31r6,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je ne maitrise pas assez le français pour avoir accès aux services pour les entrepreneurs",3,Assez en désaccord
+Q31r6,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je ne maitrise pas assez le français pour avoir accès aux services pour les entrepreneurs",4,Totalement en désaccord
+Q31r6,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je ne maitrise pas assez le français pour avoir accès aux services pour les entrepreneurs",98,Je ne sais pas
+Q31r7,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise n’est pas assez mature pour bénéficier des services pour les entrepreneurs",1,Totalement en accord
+Q31r7,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise n’est pas assez mature pour bénéficier des services pour les entrepreneurs",2,Assez en accord
+Q31r7,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise n’est pas assez mature pour bénéficier des services pour les entrepreneurs",3,Assez en désaccord
+Q31r7,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise n’est pas assez mature pour bénéficier des services pour les entrepreneurs",4,Totalement en désaccord
+Q31r7,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Mon entreprise n’est pas assez mature pour bénéficier des services pour les entrepreneurs",98,Je ne sais pas
+Q31r8,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je manque de temps et de ressources afin de pouvoir solliciter des services pour les entrepreneurs",1,Totalement en accord
+Q31r8,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je manque de temps et de ressources afin de pouvoir solliciter des services pour les entrepreneurs",2,Assez en accord
+Q31r8,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je manque de temps et de ressources afin de pouvoir solliciter des services pour les entrepreneurs",3,Assez en désaccord
+Q31r8,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je manque de temps et de ressources afin de pouvoir solliciter des services pour les entrepreneurs",4,Totalement en désaccord
+Q31r8,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - Je manque de temps et de ressources afin de pouvoir solliciter des services pour les entrepreneurs",98,Je ne sais pas
+Q31r9,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai besoin d’aide pour bien comprendre les services qui sont offerts aux entrepreneurs",1,Totalement en accord
+Q31r9,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai besoin d’aide pour bien comprendre les services qui sont offerts aux entrepreneurs",2,Assez en accord
+Q31r9,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai besoin d’aide pour bien comprendre les services qui sont offerts aux entrepreneurs",3,Assez en désaccord
+Q31r9,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai besoin d’aide pour bien comprendre les services qui sont offerts aux entrepreneurs",4,Totalement en désaccord
+Q31r9,"Selon vos perceptions, veuillez indiquer votre niveau d’accord avec les énoncés suivants concernant l’accès aux services aux entrepreneurs sur l’Île de Montréal. - J’ai besoin d’aide pour bien comprendre les services qui sont offerts aux entrepreneurs",98,Je ne sais pas
+Q32r1,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Développement d’un plan d’affaires",0,Non
+Q32r1,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Développement d’un plan d’affaires",1,Oui
+Q32r2,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Développement de stratégies de marketing, de vente, etc.",0,Non
+Q32r2,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Développement de stratégies de marketing, de vente, etc.",1,Oui
+Q32r3,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Financement (Prêts ou subventions)",0,Non
+Q32r3,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Financement (Prêts ou subventions)",1,Oui
+Q32r4,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",0,Non
+Q32r4,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Conseils juridiques ou administratifs, pour la constitution de la raison d’affaires, etc. (avocat, notaire)",1,Oui
+Q32r5,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Trouver un local, localisation pour implanter son entreprise ou une usine, etc.",0,Non
+Q32r5,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Trouver un local, localisation pour implanter son entreprise ou une usine, etc.",1,Oui
+Q32r6,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Adapter mon entreprise aux nouvelles mesures sanitaires",0,Non
+Q32r6,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Adapter mon entreprise aux nouvelles mesures sanitaires",1,Oui
+Q32r7,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Développement d’un site web transactionnel",0,Non
+Q32r7,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Développement d’un site web transactionnel",1,Oui
+Q32r8,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Recrutement et rétention de la main-d’oeuvre",0,Non
+Q32r8,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Recrutement et rétention de la main-d’oeuvre",1,Oui
+Q32r9,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Information sur les fonds d’aide financière d’urgence en lien avec la COVID / mesures d’allègement",0,Non
+Q32r9,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Information sur les fonds d’aide financière d’urgence en lien avec la COVID / mesures d’allègement",1,Oui
+Q32r96," En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Autre, précisez",0,Non
+Q32r96," En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Autre, précisez",1,Oui
+Q32r97,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Aucun besoin d’aide, de conseils ou d’accompagnement",0,Non
+Q32r97,"En lien avec les nouveaux besoins liés à la pandémie ou non, sur quels sujets aimeriez-vous obtenir de l’aide, des conseils ou de l’accompagnement en tant qu’entrepreneur actuel ou en devenir au cours des 12 prochains mois? - Aucun besoin d’aide, de conseils ou d’accompagnement",1,Oui
+pond,,,Variable calculée de pondération

@@ -1,0 +1,169 @@
+ID_USAGE1,USAGE1,ID_USAGE2,USAGE2,70,USAGE3,SCIAN,ECONOMIE_CIRCULAIRE,DETAILS
+A,Biens courants,3,Biens récréatifs,10,Alcool,445310,,"SAQ, Alcool du terroir, Produit de vin, Boissons et vin"
+A,Biens courants,4,Alimentation,27,Boucherie,445210,,
+A,Biens courants,4,Alimentation,28,"Boulangerie, Chocolaterie, Confiserie, Pâtisserie",44529,,
+A,Biens courants,3,Biens récréatifs,33,Cannabis,453993,,
+A,Biens courants,4,Alimentation,52,Dépanneur (incluant tabagie),445120,,
+A,Biens courants,4,Alimentation,53,Dépanneur avec essence,447110,,
+A,Biens courants,4,Alimentation,59,Épicerie,445110,,Épicerie de petite taille (de quartier)
+A,Biens courants,4,Alimentation,68,Fromagerie,445299,,
+A,Biens courants,4,Alimentation,69,Fruiterie,445230,,
+A,Biens courants,41,Pharmacie,103,Pharmacie,446110,,
+A,Biens courants,4,Alimentation,107,Poissonnerie,445220,,
+A,Biens courants,4,Alimentation,136,Supermarché,445110,,"IGA, Provigo, Maxi, Métro, Super C, etc."
+A,Biens courants,4,Alimentation,149,Épicerie spécialisée,445110,,"Café, herbes, thé, épices, hulies, Bulk Barn"
+A,Biens courants,3,Biens récréatifs,159,Vapotage,453999,,
+A,Biens courants,3,Biens récréatifs,160,Kiosque de loterie,713291,,
+B,Biens semi-courants,1,Accessoires et décoration,1,Accessoires et décoration,44229,Oui,"Incluant les tapis, garnitures de fenêtres, literie, luminaires et abat-jour, cadres décoratifs"
+B,Biens semi-courants,45,Produits de santé,18,Autres produits de santé,446199,,Vente d'appareils orthopédiques et auditifs
+B,Biens semi-courants,12,Biens mode,25,"Vêtements, chaussures et accessoires neufs",448,,"Vêtements (tous sexe et âge confondus), chaussures, lunettes d'ordonance et lunettes de soleil, tailleurs, vêtements haut-de-gamme (incluant fourrure), chapeaux, casquettes"
+B,Biens semi-courants,30,Fournitures de bureau,67,Fournitures de bureau,453210,,"Bureau en Gros, papetrie, cartouche d'encre, etc."
+B,Biens semi-courants,63,Vente au détail,85,Magasin de souvenirs et cadeaux,453220,Oui,"Magasins de cadeaux, articles de fantaisies, gadgets et souvenirs,"
+B,Biens semi-courants,63,Vente au détail,88,Marchandises diverses,452,Oui,"Magasin à rayons (grande surface), magasin d'escompte (Dollarama, Wal Mart, Target)"
+B,Biens semi-courants,63,Vente au détail,89,Marchandises spécialisées,453,Oui,"Magasins de jouets, articles cusines, produits de bébés, magasin de mariage, marchandises d'occasion (Renaissance, Armée du Salut)"
+B,Biens semi-courants,39,"Librairie, passe-temps, jeux et loisirs",100,"Passe-temps, jeux et loisirs",451120,Oui,"Passe-temps, laine et matériel de couture, magasins de disques et partitions, matériel d'artistes, vente de films et jeux vidéos"
+B,Biens semi-courants,44,Produits de beauté,110,Produits de beauté,446120,,
+B,Biens semi-courants,45,Produits de santé,111,Produits naturels et suppléments vitaminiques,446191,,
+B,Biens semi-courants,58,"Sports, vélos et plein air",132,"Sports, vélos et plein air",45111,Oui,"Articles de sport (Sports Experts, Décathelon, etc.), vente et réparation de vélos"
+B,Biens semi-courants,60,"Téléphones, internet et télévision",139,"Téléphones, internet et télévision",517310,,"Magasin Bell/vidéotron, cellulaire, vente d'étuis pour cellulaire"
+B,Biens semi-courants,63,Vente au détail,150,"Quincaillerie, centre de rénovation, jardinage",4441,,"Matériaux de construction, quincaillerie, peinture, papier peint"
+B,Biens semi-courants,12,Biens mode,161,"Vêtements, chaussures et accessoires usagés",453310,Oui,"Village des valeurs, friperie"
+B,Biens semi-courants,39,"Librairie, passe-temps, jeux et loisirs",167,Librairie,451310,Oui,
+C,Biens réfléchis (durables),6,Animaleries,11,Animaleries,453910,,
+C,Biens réfléchis (durables),65,Ventes d'objets de collection,12,Antiquaires,453310,Oui,
+C,Biens réfléchis (durables),7,Appareils électroniques et ménagers,13,Appareils électroniques et ménagers,443143,Oui,
+C,Biens réfléchis (durables),10,Bagages et maroquinerie,20,Magasins de bagages et maroquinerie,448320,,
+C,Biens réfléchis (durables),13,Bijoux,26,Bijouteries,448310,,
+C,Biens réfléchis (durables),7,Appareils électroniques et ménagers,32,Caméras et appareils photographiqes,443145,Oui,
+C,Biens réfléchis (durables),9,Automobiles et véhicules récréatifs,44,Concessionnaires automobiles,441110,,
+C,Biens réfléchis (durables),29,Fleuristes,65,Fleuristes,453110,,
+C,Biens réfléchis (durables),65,Ventes d'objets de collection,70,"Galeries d'art, Œuvres d'Art",453920,,
+C,Biens réfléchis (durables),36,Instruments de musique,80,Instruments de musique,451140,Oui,
+C,Biens réfléchis (durables),5,Ameublement,86,Magasins d'ameublement,442110,Oui,
+C,Biens réfléchis (durables),5,Ameublement,87,Magasins de matelas,442110,,
+C,Biens réfléchis (durables),7,Appareils électroniques et ménagers,96,"Ordinateurs, logiciels et périphériques",443144,Oui,
+C,Biens réfléchis (durables),40,Perruquier,102,Perruquier,448150,,
+C,Biens réfléchis (durables),9,Automobiles et véhicules récréatifs,144,Concessionnaires de motocyclettes et de véhicules récréatifs,441220,,"Bateaux, motos, VTT, Skidoo, etc."
+C,Biens réfléchis (durables),9,Automobiles et véhicules récréatifs,145,Concessionnaires d'automobiles d'occasion,441120,Oui,
+C,Biens réfléchis (durables),65,Ventes d'objets de collection,147,Vente pour collections,453999,,"Monnaies, timbres, cartes, bandes dessinées, etc."
+D,"Restauration, divertissement et hôtellerie",21,Débits de boisson,22,"Bar, Bistro, Pub, Salles de billard",722410,,
+D,"Restauration, divertissement et hôtellerie",21,Débits de boisson,23,Bar de danseuses/danseurs,722410,,
+D,"Restauration, divertissement et hôtellerie",49,Restauration,24,"Bar laitier, crémerie et beigneries",722512,,
+D,"Restauration, divertissement et hôtellerie",49,Restauration,31,"Café, Salon de thé",722512,,"Café, thé, Bubble tea"
+D,"Restauration, divertissement et hôtellerie",22,Diffusion culturelle,39,Cinéma,512130,,
+D,"Restauration, divertissement et hôtellerie",21,Débits de boisson,56,"Discothéque, Club, Salsa, Karaoké",722410,,
+D,"Restauration, divertissement et hôtellerie",31,Hôtellerie,72,Hôtellerie,72111,,"Hôtel, Motel Auberge, B&B"
+D,"Restauration, divertissement et hôtellerie",35,Installations sportives et de loisirs,79,Installations sportives et de loisirs,71399,,"Arcade de jeux, bingo, salle de quilles, jeux d'évasion, lanceur de hache"
+D,"Restauration, divertissement et hôtellerie",21,Débits de boisson,90,"Microbrasserie, bar à vin",722410,,
+D,"Restauration, divertissement et hôtellerie",22,Diffusion culturelle,91,Musée,71211,,
+D,"Restauration, divertissement et hôtellerie",49,Restauration,120,Restaurants,722511,,
+D,"Restauration, divertissement et hôtellerie",49,Restauration,121,"Restaurants rapides, Cantines",722512,,
+D,"Restauration, divertissement et hôtellerie",50,Salle de réception,122,Salle de réception,531120,,
+D,"Restauration, divertissement et hôtellerie",22,Diffusion culturelle,123,Salle de spectacle et théâtre,711311,,
+D,"Restauration, divertissement et hôtellerie",49,Restauration,142,Traiteur,722320,,
+E,Services aux consommateurs,14,Bureau de change et prêt sur gage,2,Achat et vente d'or,448310,,
+E,Services aux consommateurs,20,Courtiers et Agences,4,Agence d'immeuble,531212,,
+E,Services aux consommateurs,20,Courtiers et Agences,7,Agence de rencontre,812990,,
+E,Services aux consommateurs,20,Courtiers et Agences,8,Agence de voyage,561510,,
+E,Services aux consommateurs,24,Entretien des tissus,9,Aiguisage,811490,,
+E,Services aux consommateurs,16,Centres de conditionnement et studios de santé,16,Arts martiaux,611620,,
+E,Services aux consommateurs,11,"Banques et caisses populaires, guichet automatique",21,"Banques et caisses populaires, guichet automatique",522,,
+E,Services aux consommateurs,24,Entretien des tissus,29,Buanderie (libre-service ou comptoir),812310,,
+E,Services aux consommateurs,14,Bureau de change et prêt sur gage,30,Encaissement de chèques,522390,,
+E,Services aux consommateurs,42,"Photos, impression et gravure",34,"Centre de photocopie, reproduction, impression",561430,,
+E,Services aux consommateurs,16,Centres de conditionnement et studios de santé,35,Centres de conditionnement physique,713940,,
+E,Services aux consommateurs,15,Centre de formation,36,Centres de formation spécialisée (accessible au public),6116,,"Cuisine, peinture, ébénisterie, langues, musique, arts plastiques"
+E,Services aux consommateurs,37,Location,41,Club vidéo (location),532280,Oui,
+E,Services aux consommateurs,24,Entretien des tissus,46,Cordonnerie,811430,Oui,
+E,Services aux consommateurs,20,Courtiers et Agences,47,Courtier d'assurance,524210,,
+E,Services aux consommateurs,24,Entretien des tissus,49,Couture (réparation),811490,Oui,
+E,Services aux consommateurs,15,Centre de formation,57,École de conduite,611690,,
+E,Services aux consommateurs,42,"Photos, impression et gravure",71,"Gravure (trophées, pierres tombales)",453999,,
+E,Services aux consommateurs,23,Entretien automobile,81,Lave-auto,811192,,
+E,Services aux consommateurs,37,Location,82,Location d'autos à court terme,532111,Oui,
+E,Services aux consommateurs,37,Location,83,Location d'outils,532310,Oui,
+E,Services aux consommateurs,37,Location,84,Location espace entrepôt,531130,,
+E,Services aux consommateurs,24,Entretien des tissus,92,Nettoyeur,812310,,
+E,Services aux consommateurs,42,"Photos, impression et gravure",104,Photographe,541920,,
+E,Services aux consommateurs,14,Bureau de change et prêt sur gage,108,Prêt sur gage,522299,Oui,
+E,Services aux consommateurs,24,Entretien des tissus,116,Rembourrage,811420,Oui,
+E,Services aux consommateurs,48,Réparation,117,"Réparation d'appareils électroniques (téléphones, photo, ordinateurs, audio, vidéo, TV etc.)",811210,Oui,
+E,Services aux consommateurs,48,Réparation,118,Réparation d'appareils ménagers,811412,Oui,
+E,Services aux consommateurs,48,Réparation,119,"Réparation de petits appareils ménagers (grille-pain, micro-ondes, luminaires)",811412,Oui,
+E,Services aux consommateurs,52,Salon funéraire,125,Salon funéraire,812210,,
+E,Services aux consommateurs,23,Entretien automobile,127,"Service d'entretien, de réparation et de mécanique automobile et de véhicules récréatifs",8111,,
+E,Services aux consommateurs,20,Courtiers et Agences,128,Services conseils divers ou personnels,812990,,
+E,Services aux consommateurs,37,Location,133,"Studio de pratique (musique), conférences etc.",531120,,
+E,Services aux consommateurs,16,Centres de conditionnement et studios de santé,134,"Studios de santé (conditionnement, mise en forme, amaigrissement)",713940,,"Yoga, pilates, programmes d'amincissement"
+E,Services aux consommateurs,16,Centres de conditionnement et studios de santé,135,Studios et écoles de danse,611610,,
+E,Services aux consommateurs,48,Réparation,151,Serrurier,561622,Oui,
+E,Services aux consommateurs,14,Bureau de change et prêt sur gage,168,Bureau de change,523130,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,3,Acupuncture,621390,,
+F,Services professionnels,8,"Architecture, génie et services connexes",14,"Architectes, urbanistes et design de l'environnement",541310,,
+F,Services professionnels,8,"Architecture, génie et services connexes",15,Arpenteur géomètre,541370,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,17,Audioprothésiste et audiologiste,621340,,
+F,Services professionnels,47,Professionnels législatifs,19,Avocat,541110,,
+F,Services professionnels,17,Centres de la petite enfance (CPE) et garderie,37,Centres de la petite enfance (CPE) et garderie,624410,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,38,Chiropraticien,621310,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,40,Cliniques médicales et médecin,621110,,
+F,Services professionnels,47,Professionnels législatifs,43,Comptables,541212,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,50,Dentiste,621210,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,51,Denturologiste,621390,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,54,Dermatologue et chirurgien plasticien,621110,,
+F,Services professionnels,8,"Architecture, génie et services connexes",55,Design d'intérieur,541410,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,60,Ergothérapie,621340,,
+F,Services professionnels,8,"Architecture, génie et services connexes",75,Ingénieurs,541330,,
+F,Services professionnels,47,Professionnels législatifs,93,Notaires,541120,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,94,Ophtalmologie,621110,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,95,Optométristes,621320,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,98,Orthodontiste,621210,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,99,Orthopédie,621110,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,101,Pédiatre,621110,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,105,Physiothérapie,621340,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,106,Podiatre,621390,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,112,Prothesiste,621390,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,113,Psychologues,621330,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,114,Psychothérapie,621330,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,131,"Soins thérapeutiques non médicaux (Ostéopathie, kinésiologie, etc.)",621390,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,148,Vétérinaires,541940,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,162,Sexologues,621390,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,163,Soins palliatifs,624190,,
+F,Services professionnels,46,Professionnels de la santé et assistance sociale,164,Soins à domicile,621610,,
+G,Services d'affaires,2,Agence de placement,5,Agence de placement d'emplois,561310,,
+G,Services d'affaires,33,Industrie de l'information et de la culture,6,"Agence de publicité, marketing, etc.",541810,,Incluant graphisme
+G,Services d'affaires,19,Construction et entrepreneur général,45,Construction et entrepreneur général,23,,"Entrepreneur en construction, charpentier, plombier, électricien, toiture, pavage"
+G,Services d'affaires,55,Services de livraison et courtier en transport,48,Services de livraison et courtier en transport,484110,,"Postes Canada, FedEx, Purolator, UPS, etc."
+G,Services d'affaires,33,Industrie de l'information et de la culture,58,Éditions,5111,,Éditeurs de livres
+G,Services d'affaires,25,Espace de travail partagé (coworking),61,Espace de travail partagé (coworking),531120,Oui,
+G,Services d'affaires,27,Exterminateur,63,Exterminateur,561710,,
+G,Services d'affaires,28,Finance et assurances,64,Finance et assurances,52,,"Gestion financière, de valeurs mobilières, de fonds et de portefeuilles, courtiers en douane, services de placement financiers"
+G,Services d'affaires,32,Import - export,73,Import - export,419120,,
+G,Services d'affaires,33,Industrie de l'information et de la culture,74,Industrie du film et enregistrement sonore,512,,"Studio d'enregistrement de musique, studio de cinéma"
+G,Services d'affaires,34,Installation et vente,76,"Installation et vente de piscines, spas et cabanons",453999,,
+G,Services d'affaires,34,Installation et vente,77,Installation et vente de systèmes d'alarmes,561621,,
+G,Services d'affaires,34,Installation et vente,78,Installation et vente de systèmes de chauffages et de climatisations,238220,,
+G,Services d'affaires,43,Production d'arts et de spectacles,109,Production d'arts et de spectacles,7111,,"Producteur (spectacle, musique, cinéma, théatre etc.)"
+G,Services d'affaires,33,Industrie de l'information et de la culture,115,Radio et télévision,515,,"Radiodifuseur, télédifusseur (TVA, Bell médias, etc.)"
+G,Services d'affaires,54,Services d'entretien commercial,129,Services d'entretien commercial,561722,,Conciergerie
+G,Services d'affaires,56,Services immobiliers ou de location,130,Services immobiliers ou de location,53,,"Gestion d'immeubles, service de location ou de location à bail"
+G,Services d'affaires,33,Industrie de l'information et de la culture,141,Traitement ou hébergement de données,518210,,
+G,Services d'affaires,34,Installation et vente,152,Installation et vente portes et fenêtres,444190,,"Incluant vitraux, vitrerie"
+G,Services d'affaires,34,Installation et vente,157,"Installation et vente d'armoires, comptoirs, salle de bain, céramique",444190,,Incluant les revêtements de plancher
+G,Services d'affaires,2,Agence de placement,158,Gérant d'artistes et autres agences artistiques,711411,,
+G,Services d'affaires,69,Conception de systèmes informatiques et divers services connexes,165,Conception de systèmes informatiques et divers services connexes,541514,,
+G,Services d'affaires,33,Industrie de l'information et de la culture,166,Agence de presse,519110,,"Presse écrite (Le Devoir, La Presse, etc.)"
+G,Services d'affaires,,Service de traduction,169,Service de traduction,541930,,
+H,Soins personnels,18,Coiffure homme et femme,42,Coiffure homme et femme,812116,,
+H,Soins personnels,26,Esthétique et beauté (Manicure/Pédicure),62,Esthétique et beauté (Manicure/Pédicure),812115,,
+H,Soins personnels,51,Salon de bronzage,124,Salon de bronzage,812190,,
+H,Soins personnels,53,Saunas et spas,126,Saunas et spas,812190,,
+H,Soins personnels,59,Tatouage,137,Tatouage,812190,,
+H,Soins personnels,61,Toilettage d'animaux,140,Toilettage d'animaux,812910,,
+H,Soins personnels,66,Massage,153,Massage thérapeutique,812190,,
+H,Soins personnels,66,Massage,154,Massage érotique,812190,,
+I,Autres,38,"Organismes religieux, fondations, groupes de citoyens et organisations similaires",66,Fondations et associations communautaires et syndicats,813,Oui,"Fondation et organisme de charité, fraternité, association communautaire ou sportive, association de consommateurs, association de défense des droits ou des intérêts d'un groupe, association de gens d'affaires, association sportive, autres associations de personnes, centres de services sociaux ou communautaires, chambre de commerce, Chevaliers de Colomb, club d'intérêt (sport, collection, marche etc.), organisme et ordre professionnel, organisme d'action sociale, service de placement communautaire, syndicat, union de travailleurs"
+I,Autres,38,"Organismes religieux, fondations, groupes de citoyens et organisations similaires",97,Organismes religieux,813110,,Organisme religieux et lieu de culte
+I,Autres,64,Vente en (ou de) gros,146,Vente en (ou de) gros,41,Oui,Vrac
+I,Autres,67,Organismes publiques,155,Organismes publiques,91,,"Ville de Montréal et paramunicipal, gourvernment du Québec et du Canada"
+I,Autres,68,Bureaux,156,Bureaux,N/A,,
+Z,VACANT,62,VACANT,143,VACANT,N/A,,
