@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conditions_neige>
+  <date_generation_xml><![CDATA[2024-04-24 09:39:45]]></date_generation_xml>
+  <parcs>
+    <parc id="1">
+      <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-03-21 09:00:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
+Pour consulter la carte des sentiers : cliquez ici
+***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="2">
+      <nom_fr><![CDATA[Parc-nature du Bois-de-l'Île-Bizard]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-04-09 09:30:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
+Pour consulter la carte des sentiers : Cliquez ici
+***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[La couverture de neige est inexsitante.]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="3">
+      <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-04-09 09:30:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
+Pour consulter la carte des sentiers : Cliquez ici
+***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="4">
+      <nom_fr><![CDATA[Parc-nature de l'Île-de-la-Visitation]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-04-04 09:00:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[FERMÉ POUR LA SAISON]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="5">
+      <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-04-05 09:00:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
+***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[ ***Service de location d'équipements FERMÉ***]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="6">
+      <nom_fr><![CDATA[Parc du Mont-Royal]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-03-13 10:10:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="1"><![CDATA[ferm&eacute;(e)]]></etat>
+            <commentaires><![CDATA[Consultez la carte des pistes.
+Entretien des pistes : 
+Piste 2 - Difficile (5,5 km): Aucun entretien - FerméePiste 3 - Facile (3.7 km): Aucun entretien - FerméePiste 3 - Difficile (0.7 km): Aucun entretien - FerméePiste 4: - Difficile (1,5 km): Aucun entretien - FerméePiste 6 - Difficile (2,5 km): Aucun entretien - FerméePiste 7 - Difficile (1,6 km): Aucun entretien - Fermée]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="4"><![CDATA[bon(ne)]]></etat>
+            <commentaires><![CDATA[Le port des crampons est fortement recommandé.]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="3"><![CDATA[passable]]></etat>
+            <commentaires><![CDATA[Consultez la carte hivernale.
+Consultez les horaires et tarifs de location sur le site des Amis de la montagne.
+]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="1"><![CDATA[ferm&eacute;(e)]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_libre>
+          <glissade_chambre_air>
+            <etat id="1"><![CDATA[ferm&eacute;(e)]]></etat>
+            <commentaires><![CDATA[Consultez les horaires et tarifs de location sur le site des Amis de la montagne.
+Les glissades sur tube sont fermées. ]]></commentaires>
+          </glissade_chambre_air>
+          <glissade_secondaire>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_secondaire>
+          <patinoire>
+            <etat id="1"><![CDATA[ferm&eacute;(e)]]></etat>
+            <commentaires><![CDATA[La patinoire est fermée.
+Consultez les horaires et tarifs de location sur le site des Amis de la montagne.
+Heures d'entretien de la patinoire : 
+Mardi au vendredi : 11h, 13h, 15h et 19h
+Samedi au lundi : 11h, 13h, 15h et 17h]]></commentaires>
+          </patinoire>
+          <patinoire_debutant>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </patinoire_debutant>
+          <patinoire_lac>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </patinoire_lac>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="2"><![CDATA[glace]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="7">
+      <nom_fr><![CDATA[Parc Frédéric-Back]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-03-19 08:40:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[**La saison hivernale 2023-2024 est terminée. Nous vous remercions d'avoir profité du parc Frédéric-Back! À l'année prochaine**
+Pour consulter la carte du parc, cliquez ici. Pour être géolocalisé dans le parc et vous renseigner sur son histoire et ses attractions, téléchargez l'application Parc Frédéric-Back.
+Pour en savoir plus sur le parc cliquez ici
+]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[Piste de la Boucle - Facile (5,7 km) - Conditions : Fermée
+Piste du Boisé-est - Facile (1,5 km) - Conditions : Fermée
+Piste de la Plaine - Intermédiaire (1,1 km) - Conditions : Fermée]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[Présence de plaques de glace et / ou de flaques d'eau, soyez prudents.]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[Pas de sentiers dédiés. 
+Secteurs d'intérêt : Boisé-est et Plaine-est]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[Butte près du CESM (travaillée mécaniquement) - Conditions : Fermée
+Butte du Boisé-est (travaillée mécaniquement) - Conditions : Fermée
+Merci de respecter la règlementation.]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[Port de crampons recommandé. Possibilité de plaques de glace et / ou de flaques d'eau.]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+    <parc id="8">
+      <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+      <conditions/>
+    </parc>
+    <parc id="9">
+      <nom_fr><![CDATA[Parc-nature du Ruisseau-De Montigny]]></nom_fr>
+      <conditions>
+        <date_maj><![CDATA[2024-04-05 09:00:00]]></date_maj>
+        <pistes>
+          <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
+          <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
+          <commentaires><![CDATA[*** ATTENTION RISQUE DE CHUTE DE BRANCHES ***
+La saison est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos sentiers et nos installations. Profitez du printemps et à l'an prochain.
+***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+        </pistes>
+        <etat_general>
+          <ski>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </ski>
+          <marche>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </marche>
+          <raquette>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </raquette>
+          <glissade_libre>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </glissade_libre>
+          <fatbike>
+            <etat id="0"><![CDATA[non appliquable]]></etat>
+            <commentaires><![CDATA[]]></commentaires>
+          </fatbike>
+        </etat_general>
+        <enneigement>
+          <qualite>
+            <type id="1"><![CDATA[non appliquable]]></type>
+            <commentaires><![CDATA[]]></commentaires>
+          </qualite>
+          <precipitations>
+            <nb_cm id="22"><![CDATA[20-22]]></nb_cm>
+            <commentaires><![CDATA[]]></commentaires>
+          </precipitations>
+        </enneigement>
+      </conditions>
+    </parc>
+  </parcs>
+</conditions_neige>

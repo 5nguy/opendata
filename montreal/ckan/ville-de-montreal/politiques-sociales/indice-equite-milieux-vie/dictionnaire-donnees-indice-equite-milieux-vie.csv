@@ -1,0 +1,43 @@
+Nom_champ,Type_donnees,Description
+ADIDU,Numérique,Identifiant unique à 8 chiffres des aires de diffusion
+Arr_Ville,Texte,Ville ou arrondissement ou se retrouve l'aire de diffusion
+Type,Texte,Statut (arrondissement ou ville liée)
+Pop2021,Numérique,Total de population en 2021
+LogPriv2021,Numérique,Nombre de logements par aire de diffusion
+nblog2021_ilot,Numérique,Nombre de logements par îlot de diffusion
+Mono_pr,Numérique,Proportion de ménage monoparental dont le parent est une femme
+ImmRecent_Pr,Numérique,Proportion de personnes ayant récemment immigrés (moins de 5 ans)
+AutochMinor_pr,Numérique,Proportion de minorités visibles et de pesonnes ayant déclaré une identité autochtone
+SansDiplome_pr,Numérique,Proportion de personnes sans diplôme
+pr_men_bil,Numérique,Proportion de ménages ayant des besoin impérieux en matière de logement
+pr_ind_sfr,Numérique,Proportion de personnes vivant sous le seuil de la pauvreté selon la mesure du panier de consommation (MPC)
+pr_log_Autor_AxesPS,Numérique,Proportion de logements situés à 150 m ou moins des autoroutes et à 50 m ou moins des grandes artères
+pr_laeq60pl,Numérique,Proportion de logements exposés à des niveaux sonores élevés (65 dBA et plus sur une période de 24 h)
+pr_nocanop,Numérique,Proportion de logements exposés à un minimum de canopée
+pr_indust300m,Numérique,Proportion de logements situés à 300 m ou moins d'une zones industrielles
+pr_logchaleur,Numérique,Proportion de logements localisés dans un îlot de chaleur
+mefaits_pond,Numérique,Nombre de méfaits (pondéré par le nombre de logements) (900 m)
+crimes_pond,Numérique,Nombre d’actes criminels (autres que méfaits) (900 m)
+collisions_rt,Numérique,"Collisions routières avec blessés piétons (léger, grave et mortel) dans le cas de 3 manœuvres de véhicules: virage à gauche, virage à droite, tout droit."
+nb_commerces_alimentaires_moyenne_ponderee,Numérique,Nombre moyen (pondéré par le nombre de logements) de commerces alimentaires (900 m)
+nb_organismes_communautaires_moyenne_ponderee,Numérique,Nombre moyen (pondéré par le nombre de logements) de d'organismes communautaires (900 m)
+nb_pharmacies_moyenne_ponderee,Numérique,Proportion d'unités résidentielles à moins de 150 mètres d'une autoroute ou 50 mètres d'une grande artère
+nb_ecoles_primaires_moyenne_ponderee,Numérique,Nombre moyen (pondéré par le nombre de logements) de pharmacies (900 m)
+nb_pass_TC,Numérique,Nombre moyen (pondéré par le nombre de logements) de passages de transport en commun (500 m)
+nb_emplois_acces_tc_30min,Numérique,Nombre d’emplois accessibles en 30 minutes de transport collectif - Calcul de SR à SR ramené à l’AD (7h AM)
+nb_biblio_lieux_cult_principaux_moy_pond,Numérique,Nombre moyen (pondéré par le nombre de logements) de bibliothèque ou lieux culturels principaux (900 m)
+nb_equipement_distinct_moy_pond,Numérique,Nombre moyen (pondéré par le nombre de logements) de types distincts d'installations sportives et récréatives (900 m)
+superficie_parc_accessible_moy_pond,Numérique,Nombre d'hectares de parc accessibles (pondéré par le nombre de logements) (900 m)
+ACP_sociale,Numérique,Scores factoriels résultant de l'analyse en composante principale des variables de la dimension sociale
+ACP_econo,Numérique,Scores factoriels résultant de l'analyse en composante principale des variables de la dimension économique
+ACP_environn,Numérique,Scores factoriels résultant de l'analyse en composante principale des variables de la dimension environnementale
+ACP_securité,Numérique,Scores factoriels résultant de l'analyse en composante principale des variables de la dimension sécurité urbaine
+ACP_proximité,Numérique,Scores factoriels résultant de l'analyse en composante principale des variables de la dimension ressources de proximité
+ACP_CultSportLoisir,Numérique,"Scores factoriels résultant de l'analyse en composante principale des variables de la dimension Culture, sport et loisirs"
+ACP_sociale_2quintiles,Booléen,"Variable binaire représentant la présence de vulnérabilité sociale (1 si le score factoriel de l'aire de diffusion appartient au 4e ou 5e quantile de la variable ACP_sociale, 0 sinon)"
+ACP_econo_2quintiles,Booléen,"Variable binaire représentant la présence de vulnérabilité économique (1 si le score factoriel de l'aire de diffusion appartient au 4e ou 5e quantile de la variable ACP_econo, 0 sinon)"
+ACP_enviro_2quintiles,Booléen,"Variable binaire représentant la présence de vulnérabilité environnemental (1 si le score factoriel de l'aire de diffusion appartient au 4e ou 5e quantile de la variable ACP_environn, 0 sinon)"
+ACP_securite_2quintiles,Booléen,"Variable binaire représentant la présence de vulnérabilité en matière de sécurité urbaine (1 si le score factoriel de l'aire de diffusion appartient au 4e ou 5e quantile de la variable ACP_sécurité, 0 sinon)"
+ACP_proximite_2quintiles,Booléen,"Variable binaire représentant la présence de vulnérabilité en matière d'accès aux ressources de proximité (1 si le score factoriel de l'aire de diffusion appartient au 4e ou 5e quantile de la variable ACP_proximité, 0 sinon)"
+ACP_CultSportLoisir_2quintiles,Booléen,"Variable binaire représentant la présence de vulnérabilité en matière d'accès aux ressources de culture, sport et loisirs (1 si le score factoriel de l'aire de diffusion appartient au 4e ou 5e quantile de la variable ACP_CultSportLoisir, 0 sinon)"
+Indice_emv,Entier,"Indice d'équité des milieux de vie résultant de la somme des variables binaires de chaque sous-indice (score entre 0 et 6, 6 représentant la présence de toutes les vulnérabilités au sein de l'aire de diffusion)"

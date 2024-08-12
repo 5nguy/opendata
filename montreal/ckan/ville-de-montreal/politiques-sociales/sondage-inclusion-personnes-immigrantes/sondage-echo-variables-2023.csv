@@ -1,0 +1,501 @@
+champ,description_question,variable_reponse,description_reponse
+mode,MODE) Mode de collecte,1,Téléphonique (probabiliste)
+mode,MODE) Mode de collecte,2,Web (non probabiliste)
+q1a,Q1A) Habitez-vous dans l'un ou l'autre des 19 arrondissements de la ville de Montréal?,1,Oui
+q1a,Q1A) Habitez-vous dans l'un ou l'autre des 19 arrondissements de la ville de Montréal?,2,Non
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,1,Ahuntsic-Cartierville
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,2,Anjou
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,3,Côte-des-Neiges - Notre-Dame-de-Grâce
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,4,Lachine
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,5,LaSalle
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,6,Le Plateau-Mont-Royal
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,7,Le Sud-Ouest
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,8,L’Île-Bizard - Sainte-Geneviève
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,9,Mercier - Hochelaga-Maisonneuve
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,10,Montréal-Nord
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,11,Outremont
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,12,Pierrefonds-Roxboro
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,13,Rivière-des-Prairies - Pointe-aux-Trembles
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,14,Rosemont - La Petite-Patrie
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,15,Saint-Laurent
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,16,Saint-Léonard
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,17,Verdun
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,18,Ville-Marie
+q1b,Q1B) Dans quel arrondissement de la Ville de Montréal habitez-vous?,19,Villeray - Saint-Michel - Parc-Extension
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,1,18 à 24 ans
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,2,25 à 34 ans
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,3,35 à 44 ans
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,4,45 à 54 ans
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,5,55 à 64 ans
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,6,65 à 74 ans
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,7,75 ans ou plus
+q2,Q2) Dans quelle catégorie d´âge vous situez-vous?,99,Je préfère ne pas répondre
+age5,AGE5) Âge (5 catégories),1,18 à 34 ans
+age5,AGE5) Âge (5 catégories),2,35 à 44 ans
+age5,AGE5) Âge (5 catégories),3,45 à 54 ans
+age5,AGE5) Âge (5 catégories),4,55 à 64 ans
+age5,AGE5) Âge (5 catégories),5,65 ans et +
+age5,AGE5) Âge (5 catégories),6,Je préfère ne pas répondre
+q3a,Q3A) Êtes-vous né au Canada?,1,Oui
+q3a,Q3A) Êtes-vous né au Canada?,2,Non
+q3b,Q3B) Laquelle des affirmations suivantes s´applique à votre situation?,1,Mes deux parents sont nés au Canada
+q3b,Q3B) Laquelle des affirmations suivantes s´applique à votre situation?,2,"L’un de mes parents est né au Canada et l’autre, à l’extérie"
+q3b,Q3B) Laquelle des affirmations suivantes s´applique à votre situation?,3,Mes deux parents sont nés à l’extérieur du Canada
+q3b,Q3B) Laquelle des affirmations suivantes s´applique à votre situation?,9,Je ne sais pas / je préfère ne pas répondre
+classc,CLASSC) Classification,1,Canadien
+classc,CLASSC) Classification,2,Néo-Canadien
+classc,CLASSC) Classification,3,Immigrant
+classc,CLASSC) Classification,4,N/D
+q4,Q4) Êtes-vous actuellement : (Base : nés à l'extérieur du Canada),1,Citoyen(ne) canadien(ne)
+q4,Q4) Êtes-vous actuellement : (Base : nés à l'extérieur du Canada),2,Résident(e) permanent(e)
+q4,Q4) Êtes-vous actuellement : (Base : nés à l'extérieur du Canada),3,Résident(e) non permanent(e)
+q4,Q4) Êtes-vous actuellement : (Base : nés à l'extérieur du Canada),99,Je préfère ne pas répondre
+q4t,Q4T) Êtes-vous actuellement : (Base totale),1,Né(e) au Canada
+q4t,Q4T) Êtes-vous actuellement : (Base totale),2,Immigrant(e) - Citoyen(ne) canadien(ne)
+q4t,Q4T) Êtes-vous actuellement : (Base totale),3,Immigrant(e) - Résident(e) permanent(e)
+q4t,Q4T) Êtes-vous actuellement : (Base totale),4,Immigrant(e) - Résident(e) non permanent(e)
+q4t,Q4T) Êtes-vous actuellement : (Base totale),5,Je préfère ne pas répondre
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),1,Réfugié
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),2,Demandeur d’asile
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),3,Étudiant étranger
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),4,Travailleur temporaire
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),5,Visiteur
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),6,Sans statut
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),97,Autre
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),98,Je ne sais pas
+q4a,Q4A) Êtes-vous : (Base : résidents non permanents),99,Je préfère ne pas répondre
+q5,Q5) Êtes-vous arrivé au Canada : (Base : nés à l'extérieur du Canada),1,Depuis 5 ans ou moins
+q5,Q5) Êtes-vous arrivé au Canada : (Base : nés à l'extérieur du Canada),2,De 8 ans à 10 ans
+q5,Q5) Êtes-vous arrivé au Canada : (Base : nés à l'extérieur du Canada),3,De 6 ans à 7 ans
+q5,Q5) Êtes-vous arrivé au Canada : (Base : nés à l'extérieur du Canada),4,Depuis plus de 10 ans
+q5,Q5) Êtes-vous arrivé au Canada : (Base : nés à l'extérieur du Canada),99,Je préfère ne pas répondre
+qquot_m1,QQUOT) Variable de calcul des Quotas,1,Personnes nées au Canada - Non-immigrants
+qquot_m1,QQUOT) Variable de calcul des Quotas,2,Personnes nées hors Canada - Immigrants
+qquot_m1,QQUOT) Variable de calcul des Quotas,3,Personnes nées hors Canada - Immigrants reçus & Arrivées au
+qquot_m1,QQUOT) Variable de calcul des Quotas,4,- 5 ans ou moins
+qquot_m1,QQUOT) Variable de calcul des Quotas,5,- 6 à 7 ans
+qquot_m1,QQUOT) Variable de calcul des Quotas,6,Personnes nées hors Canada - Immigrants reçus & Arrivées au
+qquot_m1,QQUOT) Variable de calcul des Quotas,7,Personnes nées hors Canada - Résidents non permanents
+qquot_m1,QQUOT) Variable de calcul des Quotas,8,- Travailleurs temporaires
+qquot_m1,QQUOT) Variable de calcul des Quotas,9,- Étudiants étrangers
+qquot_m1,QQUOT) Variable de calcul des Quotas,10,- Autres statuts de résidents non permanents
+qquot_m2,QQUOT) Variable de calcul des Quotas,1,Personnes nées au Canada - Non-immigrants
+qquot_m2,QQUOT) Variable de calcul des Quotas,2,Personnes nées hors Canada - Immigrants
+qquot_m2,QQUOT) Variable de calcul des Quotas,3,Personnes nées hors Canada - Immigrants reçus & Arrivées au
+qquot_m2,QQUOT) Variable de calcul des Quotas,4,- 5 ans ou moins
+qquot_m2,QQUOT) Variable de calcul des Quotas,5,- 6 à 7 ans
+qquot_m2,QQUOT) Variable de calcul des Quotas,6,Personnes nées hors Canada - Immigrants reçus & Arrivées au
+qquot_m2,QQUOT) Variable de calcul des Quotas,7,Personnes nées hors Canada - Résidents non permanents
+qquot_m2,QQUOT) Variable de calcul des Quotas,8,- Travailleurs temporaires
+qquot_m2,QQUOT) Variable de calcul des Quotas,9,- Étudiants étrangers
+qquot_m2,QQUOT) Variable de calcul des Quotas,10,- Autres statuts de résidents non permanents
+qquot_m3,QQUOT) Variable de calcul des Quotas,1,Personnes nées au Canada - Non-immigrants
+qquot_m3,QQUOT) Variable de calcul des Quotas,2,Personnes nées hors Canada - Immigrants
+qquot_m3,QQUOT) Variable de calcul des Quotas,3,Personnes nées hors Canada - Immigrants reçus & Arrivées au
+qquot_m3,QQUOT) Variable de calcul des Quotas,4,- 5 ans ou moins
+qquot_m3,QQUOT) Variable de calcul des Quotas,5,- 6 à 7 ans
+qquot_m3,QQUOT) Variable de calcul des Quotas,6,Personnes nées hors Canada - Immigrants reçus & Arrivées au
+qquot_m3,QQUOT) Variable de calcul des Quotas,7,Personnes nées hors Canada - Résidents non permanents
+qquot_m3,QQUOT) Variable de calcul des Quotas,8,- Travailleurs temporaires
+qquot_m3,QQUOT) Variable de calcul des Quotas,9,- Étudiants étrangers
+qquot_m3,QQUOT) Variable de calcul des Quotas,10,- Autres statuts de résidents non permanents
+q6,"Q6) En vous incluant, combien de personnes habitent dans votre logement, en incluant les adultes et les enfants (mineurs ou majeurs)?",1,1 seule personne
+q6,"Q6) En vous incluant, combien de personnes habitent dans votre logement, en incluant les adultes et les enfants (mineurs ou majeurs)?",2,2 personnes
+q6,"Q6) En vous incluant, combien de personnes habitent dans votre logement, en incluant les adultes et les enfants (mineurs ou majeurs)?",3,3 personnes
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),1,J’habite en couple sans enfant vivant à la maison
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),2,J’habite en couple avec enfant(s) vivant à la maison
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),3,J’habite seul(e) avec enfant(s) vivant à la maison
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),4,J’habite chez mes parents ou l’un de mes parents
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),5,J’habite avec d’autres personnes que mes parents (ex : coloc
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),6,"Foyer intergénérationnel (enfants, parents et grands-parents"
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),97,Autre situation
+q7,Q7) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base : foyers de 2 personnes ou plus),99,Je préfère ne pas répondre
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),1,Habite seul
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),2,J’habite en couple sans enfant vivant à la maison
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),3,J’habite en couple avec enfant(s) vivant à la maison
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),4,J’habite seul(e) avec enfant(s) vivant à la maison
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),5,J’habite chez mes parents ou l’un de mes parents
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),6,J’habite avec d’autres personnes que mes parents (ex : coloc
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),7,"Foyer intergénérationnel (enfants, parents et grands-parents"
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),8,Autre situation
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),9,Je préfère ne pas répondre
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),10,FOYERS AVEC ENFANT(S)
+q7t_m1,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),11,FOYERS SANS ENFANT
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),1,Habite seul
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),2,J’habite en couple sans enfant vivant à la maison
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),3,J’habite en couple avec enfant(s) vivant à la maison
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),4,J’habite seul(e) avec enfant(s) vivant à la maison
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),5,J’habite chez mes parents ou l’un de mes parents
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),6,J’habite avec d’autres personnes que mes parents (ex : coloc
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),7,"Foyer intergénérationnel (enfants, parents et grands-parents"
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),8,Autre situation
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),9,Je préfère ne pas répondre
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),10,FOYERS AVEC ENFANT(S)
+q7t_m2,Q7T) Laquelle des situations suivantes s´applique à votre logement? Note : le terme « enfants » réfère à des enfants dont vous détenez la garde totale ou partagée. Les enfants peuvent être d´âge mineur ou majeur. (Base totale),11,FOYERS SANS ENFANT
+q8,Q8) Combien de chambres à coucher (pièces fermées) compte votre logement?,0,Aucune (0)
+q8,Q8) Combien de chambres à coucher (pièces fermées) compte votre logement?,1,1
+q8,Q8) Combien de chambres à coucher (pièces fermées) compte votre logement?,2,2
+q8,Q8) Combien de chambres à coucher (pièces fermées) compte votre logement?,3,3
+q8,Q8) Combien de chambres à coucher (pièces fermées) compte votre logement?,4,Plus de 3
+q8,Q8) Combien de chambres à coucher (pièces fermées) compte votre logement?,99,Je préfère ne pas répondre
+q9,Q9) Êtes-vous (ou un membre de votre ménage) propriétaire ou locataire de votre résidence principale actuelle?,1,Propriétaire
+q9,Q9) Êtes-vous (ou un membre de votre ménage) propriétaire ou locataire de votre résidence principale actuelle?,2,Locataire (même si aucun loyer en argent n’est versé)
+q9,Q9) Êtes-vous (ou un membre de votre ménage) propriétaire ou locataire de votre résidence principale actuelle?,99,Je ne sais pas / Je préfère ne pas répondre
+q10a,"Q10A) Des problèmes d´insalubrité dans votre logement, tels que infiltrations d'eau, odeurs de moisi, taches de moisissures présence de punaises de lit ou blattes (coquerelles)   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problè",1,Oui
+q10a,"Q10A) Des problèmes d´insalubrité dans votre logement, tels que infiltrations d'eau, odeurs de moisi, taches de moisissures présence de punaises de lit ou blattes (coquerelles)   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problè",2,Non
+q10a,"Q10A) Des problèmes d´insalubrité dans votre logement, tels que infiltrations d'eau, odeurs de moisi, taches de moisissures présence de punaises de lit ou blattes (coquerelles)   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problè",9,NSP/NRP
+q10b,"Q10B) Une menace d´éviction de la part de votre propriétaire   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",1,Oui
+q10b,"Q10B) Une menace d´éviction de la part de votre propriétaire   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",2,Non
+q10b,"Q10B) Une menace d´éviction de la part de votre propriétaire   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",9,NSP/NRP
+q10c,"Q10C) Une éviction par votre propriétaire   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",1,Oui
+q10c,"Q10C) Une éviction par votre propriétaire   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",2,Non
+q10c,"Q10C) Une éviction par votre propriétaire   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",9,NSP/NRP
+q10d,"Q10D) Un conflit avec votre propriétaire (par exemple, harcèlement, menace, dispute)   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",1,Oui
+q10d,"Q10D) Un conflit avec votre propriétaire (par exemple, harcèlement, menace, dispute)   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",2,Non
+q10d,"Q10D) Un conflit avec votre propriétaire (par exemple, harcèlement, menace, dispute)   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",9,NSP/NRP
+q10e,"Q10E) Problème de voisinage causé par des différences culturelles   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",1,Oui
+q10e,"Q10E) Problème de voisinage causé par des différences culturelles   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",2,Non
+q10e,"Q10E) Problème de voisinage causé par des différences culturelles   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",9,NSP/NRP
+q10f,"Q10F) Un logement trop petit pour le nombre de personnes qui l´occupent   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",1,Oui
+q10f,"Q10F) Un logement trop petit pour le nombre de personnes qui l´occupent   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",2,Non
+q10f,"Q10F) Un logement trop petit pour le nombre de personnes qui l´occupent   (Au cours des trois dernières années, avez-vous vécu, oui ou non, les problèmes suivants ?) (Base : Locataires)",9,NSP/NRP
+q11a,"Q11A) Refus direct ou indirect en raison d´une discrimination    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11a,"Q11A) Refus direct ou indirect en raison d´une discrimination    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11a,"Q11A) Refus direct ou indirect en raison d´une discrimination    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11b,"Q11B) Non-connaissance du français ou de l´anglais    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11b,"Q11B) Non-connaissance du français ou de l´anglais    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11b,"Q11B) Non-connaissance du français ou de l´anglais    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11c,"Q11C) Vous ne saviez pas comment chercher un logement    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11c,"Q11C) Vous ne saviez pas comment chercher un logement    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11c,"Q11C) Vous ne saviez pas comment chercher un logement    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11d,"Q11D) Vous n´aviez pas de famille ou d'amis pour vous aider    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11d,"Q11D) Vous n´aviez pas de famille ou d'amis pour vous aider    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11d,"Q11D) Vous n´aviez pas de famille ou d'amis pour vous aider    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11e,"Q11E) Loyer trop cher    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11e,"Q11E) Loyer trop cher    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11e,"Q11E) Loyer trop cher    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11f,"Q11F) Vous ne trouviez pas de logement qui vous convient    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11f,"Q11F) Vous ne trouviez pas de logement qui vous convient    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11f,"Q11F) Vous ne trouviez pas de logement qui vous convient    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11g,"Q11G) Il y avait peu de logements disponibles    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11g,"Q11G) Il y avait peu de logements disponibles    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11g,"Q11G) Il y avait peu de logements disponibles    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11h,"Q11H) Vous n´aviez pas de garant/de cosignataire/de cote de crédit    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11h,"Q11H) Vous n´aviez pas de garant/de cosignataire/de cote de crédit    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11h,"Q11H) Vous n´aviez pas de garant/de cosignataire/de cote de crédit    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q11i,"Q11I) Mauvaises interactions avec le propriétaire    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",1,Oui
+q11i,"Q11I) Mauvaises interactions avec le propriétaire    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",2,Non
+q11i,"Q11I) Mauvaises interactions avec le propriétaire    (Au cours des trois dernières années, avez-vous, oui ou non, connu les difficultés suivantes pour trouver un logement qui correspond à vos besoins?) (Base : Locataires)",9,NSP/NRP
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",1,Employé à temps plein (30 heures ou plus par semaine)
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",2,Employé à temps partiel
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",3,À votre compte / travailleur autonome / entrepreneur
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",4,"Ne travaille pas actuellement, mais en recherche d'emploi"
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",5,Ne travaille pas actuellement et ne recherche pas d’emploi /
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",6,Étudiant
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",7,Au foyer
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",8,Retraité
+q12,"Q12) Quelle est votre occupation principale actuelle? Si vous êtes actuellement en congé sabbatique, parental, de maladie ou d´accident de travail, veuillez préciser votre occupation habituelle.",99,Je préfère ne pas répondre
+q13,"Q13) Au cours des cinq dernières années, avez-vous fait au moins une recherche d´emploi situé sur le territoire de la Ville de Montréal?",1,Oui
+q13,"Q13) Au cours des cinq dernières années, avez-vous fait au moins une recherche d´emploi situé sur le territoire de la Ville de Montréal?",2,Non
+q13,"Q13) Au cours des cinq dernières années, avez-vous fait au moins une recherche d´emploi situé sur le territoire de la Ville de Montréal?",9,*Je ne sais pas / Je préfère ne pas répondre
+q14a,"Q14A) Non-connaissance du français     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années)",1,Oui
+q14a,"Q14A) Non-connaissance du français     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années)",2,Non
+q14a,"Q14A) Non-connaissance du français     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années)",9,*NSP/NRP
+q14b,"Q14B) Non-connaissance de l´anglais     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années)",1,Oui
+q14b,"Q14B) Non-connaissance de l´anglais     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années)",2,Non
+q14b,"Q14B) Non-connaissance de l´anglais     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années)",9,*NSP/NRP
+q14c,"Q14C) Discrimination linguistique (accent)     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années",1,Oui
+q14c,"Q14C) Discrimination linguistique (accent)     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années",2,Non
+q14c,"Q14C) Discrimination linguistique (accent)     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières années",9,*NSP/NRP
+q14d,"Q14D) Discrimination culturelle ou religieuse     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières ann",1,Oui
+q14d,"Q14D) Discrimination culturelle ou religieuse     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières ann",2,Non
+q14d,"Q14D) Discrimination culturelle ou religieuse     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 dernières ann",9,*NSP/NRP
+q14e,"Q14E) Difficultés liées au permis (permis de travail fermé, délai administratif, visa expiré pour l´obtention d´un permis de travail ou la résidence permanente)     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche ",1,Oui
+q14e,"Q14E) Difficultés liées au permis (permis de travail fermé, délai administratif, visa expiré pour l´obtention d´un permis de travail ou la résidence permanente)     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche ",2,Non
+q14e,"Q14E) Difficultés liées au permis (permis de travail fermé, délai administratif, visa expiré pour l´obtention d´un permis de travail ou la résidence permanente)     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche ",9,*NSP/NRP
+q14f,"Q14F) Compétences ou qualifications obtenues à l'extérieur du Canada non reconnues     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à M",1,Oui
+q14f,"Q14F) Compétences ou qualifications obtenues à l'extérieur du Canada non reconnues     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à M",2,Non
+q14f,"Q14F) Compétences ou qualifications obtenues à l'extérieur du Canada non reconnues     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à M",9,*NSP/NRP
+q14g,"Q14G) Exigence de la part d´un employeur d´une expérience au Canada ou au Québec     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Mon",1,Oui
+q14g,"Q14G) Exigence de la part d´un employeur d´une expérience au Canada ou au Québec     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Mon",2,Non
+q14g,"Q14G) Exigence de la part d´un employeur d´une expérience au Canada ou au Québec     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Mon",9,*NSP/NRP
+q14h,"Q14H) Manque de connaissances en informatique et dans les technologies numériques     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Mo",1,Oui
+q14h,"Q14H) Manque de connaissances en informatique et dans les technologies numériques     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Mo",2,Non
+q14h,"Q14H) Manque de connaissances en informatique et dans les technologies numériques     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Mo",9,*NSP/NRP
+q14i,"Q14I) Manque d´information particulière à votre métier ou profession     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au co",1,Oui
+q14i,"Q14I) Manque d´information particulière à votre métier ou profession     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au co",2,Non
+q14i,"Q14I) Manque d´information particulière à votre métier ou profession     (Avez-vous connu, oui ou non, les problèmes ou difficultés suivantes lors de la recherche d´un emploi à Montréal?)   (Base : Ont fait de la recherche pour un emploi à Montréali au co",9,*NSP/NRP
+q15a,"Q15A) Le sentiment d'être traité de manière juste et équitable par vos collègues et gestionnaires?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la rech",1,Oui
+q15a,"Q15A) Le sentiment d'être traité de manière juste et équitable par vos collègues et gestionnaires?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la rech",2,Non
+q15a,"Q15A) Le sentiment d'être traité de manière juste et équitable par vos collègues et gestionnaires?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la rech",9,NSP/NRP
+q15b,"Q15B) Le sentiment d'être écouté et reconnu par vos collègues et gestionnaires?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emplo",1,Oui
+q15b,"Q15B) Le sentiment d'être écouté et reconnu par vos collègues et gestionnaires?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emplo",2,Non
+q15b,"Q15B) Le sentiment d'être écouté et reconnu par vos collègues et gestionnaires?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emplo",9,NSP/NRP
+q15c,"Q15C) Le sentiment que l'entreprise valorise la diversité parmi les employés (diversité de genre, d'origine, de religion, etc.)?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé",1,Oui
+q15c,"Q15C) Le sentiment que l'entreprise valorise la diversité parmi les employés (diversité de genre, d'origine, de religion, etc.)?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé",2,Non
+q15c,"Q15C) Le sentiment que l'entreprise valorise la diversité parmi les employés (diversité de genre, d'origine, de religion, etc.)?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé",9,NSP/NRP
+q15d,"Q15D) Le sentiment que l'entreprise valorise la diversité parmi les gestionnaires et cadres (diversité de genre, d'origine, de religion, etc.)?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que v",1,Oui
+q15d,"Q15D) Le sentiment que l'entreprise valorise la diversité parmi les gestionnaires et cadres (diversité de genre, d'origine, de religion, etc.)?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que v",2,Non
+q15d,"Q15D) Le sentiment que l'entreprise valorise la diversité parmi les gestionnaires et cadres (diversité de genre, d'origine, de religion, etc.)?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que v",9,NSP/NRP
+q15e,"Q15E) Le sentiment que l'entreprise cherche activement à répondre aux besoins et aux préoccupations des employés d'origines diverses?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez o",1,Oui
+q15e,"Q15E) Le sentiment que l'entreprise cherche activement à répondre aux besoins et aux préoccupations des employés d'origines diverses?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez o",2,Non
+q15e,"Q15E) Le sentiment que l'entreprise cherche activement à répondre aux besoins et aux préoccupations des employés d'origines diverses?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez o",9,NSP/NRP
+q15f,"Q15F) Le sentiment que vos idées sont appréciées et adoptées au sein de votre équipe?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un",1,Oui
+q15f,"Q15F) Le sentiment que vos idées sont appréciées et adoptées au sein de votre équipe?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un",2,Non
+q15f,"Q15F) Le sentiment que vos idées sont appréciées et adoptées au sein de votre équipe?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un",9,NSP/NRP
+q15g,"Q15G) Le sentiment d'avoir l'opportunité de progresser dans l'entreprise?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Mo",1,Oui
+q15g,"Q15G) Le sentiment d'avoir l'opportunité de progresser dans l'entreprise?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Mo",2,Non
+q15g,"Q15G) Le sentiment d'avoir l'opportunité de progresser dans l'entreprise?     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Mo",9,NSP/NRP
+q15h,"Q15H) Le sentiment de pouvoir être vous-même au travail     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Montréali au cours d",1,Oui
+q15h,"Q15H) Le sentiment de pouvoir être vous-même au travail     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Montréali au cours d",2,Non
+q15h,"Q15H) Le sentiment de pouvoir être vous-même au travail     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Montréali au cours d",9,NSP/NRP
+q15i,"Q15I) Le sentiment d'appartenir à votre entreprise     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 ",1,Oui
+q15i,"Q15I) Le sentiment d'appartenir à votre entreprise     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 ",2,Non
+q15i,"Q15I) Le sentiment d'appartenir à votre entreprise     (Ressentez-vous, oui ou non, les éléments suivants dans votre emploi actuel ou dans le dernier emploi que vous avez occupé?) (Base : Ont fait de la recherche pour un emploi à Montréali au cours des 5 ",9,NSP/NRP
+q16,"Q16) Au cours des trois dernières années, avez-vous déjà vécu des micro-agressions en milieu de travail à Montréal? Par exemple, blagues qui vous rendent mal à l´aise, commentaires discriminatoires basés sur l´origine ethnique, l´appartenance religieuse, ",1,"Oui, souvent"
+q16,"Q16) Au cours des trois dernières années, avez-vous déjà vécu des micro-agressions en milieu de travail à Montréal? Par exemple, blagues qui vous rendent mal à l´aise, commentaires discriminatoires basés sur l´origine ethnique, l´appartenance religieuse, ",2,"Oui, à l’occasion"
+q16,"Q16) Au cours des trois dernières années, avez-vous déjà vécu des micro-agressions en milieu de travail à Montréal? Par exemple, blagues qui vous rendent mal à l´aise, commentaires discriminatoires basés sur l´origine ethnique, l´appartenance religieuse, ",3,Non
+q16,"Q16) Au cours des trois dernières années, avez-vous déjà vécu des micro-agressions en milieu de travail à Montréal? Par exemple, blagues qui vous rendent mal à l´aise, commentaires discriminatoires basés sur l´origine ethnique, l´appartenance religieuse, ",4,Je n’ai pas travaillé à Montréal ou je n’étais pas sur le ma
+q16,"Q16) Au cours des trois dernières années, avez-vous déjà vécu des micro-agressions en milieu de travail à Montréal? Par exemple, blagues qui vous rendent mal à l´aise, commentaires discriminatoires basés sur l´origine ethnique, l´appartenance religieuse, ",99,*Je ne sais pas / Je préfère ne pas répondre
+q17,Q17) Depuis combien d´années habitez-vous à Montréal?,1,Moins de 5 ans
+q17,Q17) Depuis combien d´années habitez-vous à Montréal?,2,Depuis 5 à 9 ans
+q17,Q17) Depuis combien d´années habitez-vous à Montréal?,3,Depuis 10 à 14 ans
+q17,Q17) Depuis combien d´années habitez-vous à Montréal?,4,Depuis 15 ans et plus
+q17,Q17) Depuis combien d´années habitez-vous à Montréal?,99,Je préfère ne pas répondre
+q18,Q18) Comment qualifiez-vous votre qualité de vie à Montréal? Est-elle :,1,Très bonne
+q18,Q18) Comment qualifiez-vous votre qualité de vie à Montréal? Est-elle :,2,Assez bonne
+q18,Q18) Comment qualifiez-vous votre qualité de vie à Montréal? Est-elle :,3,Moyenne
+q18,Q18) Comment qualifiez-vous votre qualité de vie à Montréal? Est-elle :,4,Assez mauvaise
+q18,Q18) Comment qualifiez-vous votre qualité de vie à Montréal? Est-elle :,5,Très mauvaise
+q18,Q18) Comment qualifiez-vous votre qualité de vie à Montréal? Est-elle :,99,Je ne sais pas / Je préfère ne pas répondre
+q19,Q19) Vous sentez-vous Montréalais.e?,1,"Oui, je me sens tout à fait Montréalais.e"
+q19,Q19) Vous sentez-vous Montréalais.e?,2,"Oui, je me sens plutôt Montréalais.e"
+q19,Q19) Vous sentez-vous Montréalais.e?,3,"Non, je ne me sens pas vraiment Montréalais.e"
+q19,Q19) Vous sentez-vous Montréalais.e?,4,"Non, je ne me sens pas du tout Montréalais.e"
+q19,Q19) Vous sentez-vous Montréalais.e?,99,Je ne sais pas / Je préfère ne pas répondre
+q20,"Q20) Diriez-vous que votre réseau de soutien (famille, amis) à Montréal est...",1,Très fort
+q20,"Q20) Diriez-vous que votre réseau de soutien (famille, amis) à Montréal est...",2,Plutôt fort
+q20,"Q20) Diriez-vous que votre réseau de soutien (famille, amis) à Montréal est...",3,Plutôt faible
+q20,"Q20) Diriez-vous que votre réseau de soutien (famille, amis) à Montréal est...",4,Très faible ou absent
+q20,"Q20) Diriez-vous que votre réseau de soutien (famille, amis) à Montréal est...",99,Je ne sais pas / Je préfère ne pas répondre
+q21,Q21) Dans quelle mesure diriez-vous que les Montréalais.ses sont accueillants envers les personnes immigrantes?,1,Très accueillants
+q21,Q21) Dans quelle mesure diriez-vous que les Montréalais.ses sont accueillants envers les personnes immigrantes?,2,Plutôt accueillants
+q21,Q21) Dans quelle mesure diriez-vous que les Montréalais.ses sont accueillants envers les personnes immigrantes?,3,Pas vraiment accueillants
+q21,Q21) Dans quelle mesure diriez-vous que les Montréalais.ses sont accueillants envers les personnes immigrantes?,4,Pas accueillants du tout
+q21,Q21) Dans quelle mesure diriez-vous que les Montréalais.ses sont accueillants envers les personnes immigrantes?,99,Je ne sais pas / Je préfère ne pas répondre
+q22a,"Q22A) Votre identité de genre (homme, femme, autre)     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22a,"Q22A) Votre identité de genre (homme, femme, autre)     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22a,"Q22A) Votre identité de genre (homme, femme, autre)     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22b,"Q22B) Vos origines ethniques ou nationales?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22b,"Q22B) Vos origines ethniques ou nationales?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22b,"Q22B) Vos origines ethniques ou nationales?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22c,"Q22C) La couleur de votre peau?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22c,"Q22C) La couleur de votre peau?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22c,"Q22C) La couleur de votre peau?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22d,"Q22D) Votre niveau socio-économique?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22d,"Q22D) Votre niveau socio-économique?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22d,"Q22D) Votre niveau socio-économique?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22e,"Q22E) Votre religion ou vos signes religieux?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22e,"Q22E) Votre religion ou vos signes religieux?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22e,"Q22E) Votre religion ou vos signes religieux?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22f,"Q22F) Votre orientation sexuelle (hétérosexuelle, gaie, lesbienne, bisexuelle, autres)     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personne",1,Oui
+q22f,"Q22F) Votre orientation sexuelle (hétérosexuelle, gaie, lesbienne, bisexuelle, autres)     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personne",2,Non
+q22f,"Q22F) Votre orientation sexuelle (hétérosexuelle, gaie, lesbienne, bisexuelle, autres)     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personne",9,NSP/NRP
+q22g,"Q22G) Votre âge?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22g,"Q22G) Votre âge?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22g,"Q22G) Votre âge?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22h,"Q22H) Votre situation de handicap?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22h,"Q22H) Votre situation de handicap?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22h,"Q22H) Votre situation de handicap?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22i,"Q22I) Votre langue ou votre accent?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22i,"Q22I) Votre langue ou votre accent?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22i,"Q22I) Votre langue ou votre accent?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22j,"Q22J) Votre statut d´immigration?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,Oui
+q22j,"Q22J) Votre statut d´immigration?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22j,"Q22J) Votre statut d´immigration?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q22k,"Q22K) Autre raison?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",1,"Oui, veuillez préciser :"
+q22k,"Q22K) Autre raison?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",2,Non
+q22k,"Q22K) Autre raison?     (Au cours des cinq dernières années, ou depuis votre arrivée à Montréal, croyez-vous avoir été victime de discrimination ou traité injustement par d´autres personnes, à Montréal, à cause de :)",9,NSP/NRP
+q23a,"Q23A) la police ?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",1,1 - Très mauvaise
+q23a,"Q23A) la police ?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",2,2
+q23a,"Q23A) la police ?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",3,3
+q23a,"Q23A) la police ?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",4,4
+q23a,"Q23A) la police ?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",5,5 - Très bonne
+q23a,"Q23A) la police ?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",9,NSP/NRP
+q23b,"Q23B) une personne employée d´une société de transport?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",1,1 - Très mauvaise
+q23b,"Q23B) une personne employée d´une société de transport?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",2,2
+q23b,"Q23B) une personne employée d´une société de transport?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",3,3
+q23b,"Q23B) une personne employée d´une société de transport?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",4,4
+q23b,"Q23B) une personne employée d´une société de transport?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",5,5 - Très bonne
+q23b,"Q23B) une personne employée d´une société de transport?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",9,NSP/NRP
+q23c,"Q23C) une personne employée d´une entreprise de sécurité privée (ex : Garda)?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",1,1 - Très mauvaise
+q23c,"Q23C) une personne employée d´une entreprise de sécurité privée (ex : Garda)?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",2,2
+q23c,"Q23C) une personne employée d´une entreprise de sécurité privée (ex : Garda)?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",3,3
+q23c,"Q23C) une personne employée d´une entreprise de sécurité privée (ex : Garda)?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",4,4
+q23c,"Q23C) une personne employée d´une entreprise de sécurité privée (ex : Garda)?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",5,5 - Très bonne
+q23c,"Q23C) une personne employée d´une entreprise de sécurité privée (ex : Garda)?    (Quelle est votre perception des agentes et agents suivants? Sur une échelle de 1 à 5, 1 signifie très mauvaise et 5 très bonne.)",9,NSP/NRP
+q25a,Q25A) Créer des occasions de rencontres et de rapprochement entre gens de différentes culture     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actio,1,1 - Pas du tout prioritaire
+q25a,Q25A) Créer des occasions de rencontres et de rapprochement entre gens de différentes culture     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actio,2,2
+q25a,Q25A) Créer des occasions de rencontres et de rapprochement entre gens de différentes culture     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actio,3,3
+q25a,Q25A) Créer des occasions de rencontres et de rapprochement entre gens de différentes culture     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actio,4,4
+q25a,Q25A) Créer des occasions de rencontres et de rapprochement entre gens de différentes culture     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actio,5,5 - Très prioritaire
+q25a,Q25A) Créer des occasions de rencontres et de rapprochement entre gens de différentes culture     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actio,9,Je ne sais pas
+q25b,Q25B) Aider les personnes immigrantes à trouver un emploi ou à créer une entreprise     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur un,1,1 - Pas du tout prioritaire
+q25b,Q25B) Aider les personnes immigrantes à trouver un emploi ou à créer une entreprise     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur un,2,2
+q25b,Q25B) Aider les personnes immigrantes à trouver un emploi ou à créer une entreprise     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur un,3,3
+q25b,Q25B) Aider les personnes immigrantes à trouver un emploi ou à créer une entreprise     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur un,4,4
+q25b,Q25B) Aider les personnes immigrantes à trouver un emploi ou à créer une entreprise     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur un,5,5 - Très prioritaire
+q25b,Q25B) Aider les personnes immigrantes à trouver un emploi ou à créer une entreprise     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur un,9,Je ne sais pas
+q25c,"Q25C) Favoriser l´accessibilité au réseau de transport en commun    (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, ",1,1 - Pas du tout prioritaire
+q25c,"Q25C) Favoriser l´accessibilité au réseau de transport en commun    (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, ",2,2
+q25c,"Q25C) Favoriser l´accessibilité au réseau de transport en commun    (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, ",3,3
+q25c,"Q25C) Favoriser l´accessibilité au réseau de transport en commun    (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, ",4,4
+q25c,"Q25C) Favoriser l´accessibilité au réseau de transport en commun    (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, ",5,5 - Très prioritaire
+q25c,"Q25C) Favoriser l´accessibilité au réseau de transport en commun    (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, ",9,Je ne sais pas
+q25d,"Q25D) Faciliter l´accès à un logement adéquat     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, 1 signifie pas du ",1,1 - Pas du tout prioritaire
+q25d,"Q25D) Faciliter l´accès à un logement adéquat     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, 1 signifie pas du ",2,2
+q25d,"Q25D) Faciliter l´accès à un logement adéquat     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, 1 signifie pas du ",3,3
+q25d,"Q25D) Faciliter l´accès à un logement adéquat     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, 1 signifie pas du ",4,4
+q25d,"Q25D) Faciliter l´accès à un logement adéquat     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, 1 signifie pas du ",5,5 - Très prioritaire
+q25d,"Q25D) Faciliter l´accès à un logement adéquat     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de 1 à 5, 1 signifie pas du ",9,Je ne sais pas
+q25e,Q25E) Sensibiliser à la lutte contre le racisme et les discriminations     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de ,1,1 - Pas du tout prioritaire
+q25e,Q25E) Sensibiliser à la lutte contre le racisme et les discriminations     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de ,2,2
+q25e,Q25E) Sensibiliser à la lutte contre le racisme et les discriminations     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de ,3,3
+q25e,Q25E) Sensibiliser à la lutte contre le racisme et les discriminations     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de ,4,4
+q25e,Q25E) Sensibiliser à la lutte contre le racisme et les discriminations     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de ,5,5 - Très prioritaire
+q25e,Q25E) Sensibiliser à la lutte contre le racisme et les discriminations     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une échelle de ,9,Je ne sais pas
+q25f,"Q25F) Faciliter l´accès aux sports, aux loisirs, à la culture et aux bibliothèques     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une",1,1 - Pas du tout prioritaire
+q25f,"Q25F) Faciliter l´accès aux sports, aux loisirs, à la culture et aux bibliothèques     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une",2,2
+q25f,"Q25F) Faciliter l´accès aux sports, aux loisirs, à la culture et aux bibliothèques     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une",3,3
+q25f,"Q25F) Faciliter l´accès aux sports, aux loisirs, à la culture et aux bibliothèques     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une",4,4
+q25f,"Q25F) Faciliter l´accès aux sports, aux loisirs, à la culture et aux bibliothèques     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une",5,5 - Très prioritaire
+q25f,"Q25F) Faciliter l´accès aux sports, aux loisirs, à la culture et aux bibliothèques     (La Ville de Montréal envisage certaines actions pour faciliter l´intégration des personnes immigrantes. Quelle priorité accordez-vous à chacune de ces actions? Sur une",9,Je ne sais pas
+q26a,"Q26A) Votre bibliothèque de quartier     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",1,Souvent
+q26a,"Q26A) Votre bibliothèque de quartier     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",2,Parfois
+q26a,"Q26A) Votre bibliothèque de quartier     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",3,Jamais
+q26a,"Q26A) Votre bibliothèque de quartier     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",9,NSP/NRP
+q26b,"Q26B) Les installations culturelles municipales de votre quartier, telle que maison de la culture     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",1,Souvent
+q26b,"Q26B) Les installations culturelles municipales de votre quartier, telle que maison de la culture     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",2,Parfois
+q26b,"Q26B) Les installations culturelles municipales de votre quartier, telle que maison de la culture     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",3,Jamais
+q26b,"Q26B) Les installations culturelles municipales de votre quartier, telle que maison de la culture     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",9,NSP/NRP
+q26c,"Q26C) Les installations de sports et loisirs de votre quartier, tels que parcs publics avec ou sans aire de jeu, piscines, pataugeoires ou jets d´eau, arénas ou terrains de sport     (À quelle fréquence utilisez-vous les installations ou les services muni",1,Souvent
+q26c,"Q26C) Les installations de sports et loisirs de votre quartier, tels que parcs publics avec ou sans aire de jeu, piscines, pataugeoires ou jets d´eau, arénas ou terrains de sport     (À quelle fréquence utilisez-vous les installations ou les services muni",2,Parfois
+q26c,"Q26C) Les installations de sports et loisirs de votre quartier, tels que parcs publics avec ou sans aire de jeu, piscines, pataugeoires ou jets d´eau, arénas ou terrains de sport     (À quelle fréquence utilisez-vous les installations ou les services muni",3,Jamais
+q26c,"Q26C) Les installations de sports et loisirs de votre quartier, tels que parcs publics avec ou sans aire de jeu, piscines, pataugeoires ou jets d´eau, arénas ou terrains de sport     (À quelle fréquence utilisez-vous les installations ou les services muni",9,NSP/NRP
+q26d,"Q26D) Les services du bureau Accès Montréal (obtenir des vignettes, demander un bac vert, se renseigner sur des services municipaux, etc.)     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-c",1,Souvent
+q26d,"Q26D) Les services du bureau Accès Montréal (obtenir des vignettes, demander un bac vert, se renseigner sur des services municipaux, etc.)     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-c",2,Parfois
+q26d,"Q26D) Les services du bureau Accès Montréal (obtenir des vignettes, demander un bac vert, se renseigner sur des services municipaux, etc.)     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-c",3,Jamais
+q26d,"Q26D) Les services du bureau Accès Montréal (obtenir des vignettes, demander un bac vert, se renseigner sur des services municipaux, etc.)     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-c",9,NSP/NRP
+q26e,"Q26E) La carte Accès Montréal : La carte Accès Montréal (CAM) offre des rabais pour de nombreuses activités culturelles, sportives et récréatives.     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartie",1,Souvent
+q26e,"Q26E) La carte Accès Montréal : La carte Accès Montréal (CAM) offre des rabais pour de nombreuses activités culturelles, sportives et récréatives.     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartie",2,Parfois
+q26e,"Q26E) La carte Accès Montréal : La carte Accès Montréal (CAM) offre des rabais pour de nombreuses activités culturelles, sportives et récréatives.     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartie",3,Jamais
+q26e,"Q26E) La carte Accès Montréal : La carte Accès Montréal (CAM) offre des rabais pour de nombreuses activités culturelles, sportives et récréatives.     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartie",9,NSP/NRP
+q26f,"Q26F) Le 211, un service de référence vers les organismes communautaires     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",1,Souvent
+q26f,"Q26F) Le 211, un service de référence vers les organismes communautaires     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",2,Parfois
+q26f,"Q26F) Le 211, un service de référence vers les organismes communautaires     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",3,Jamais
+q26f,"Q26F) Le 211, un service de référence vers les organismes communautaires     (À quelle fréquence utilisez-vous les installations ou les services municipaux suivants de votre quartier? Est-ce souvent, parfois ou jamais?)",9,NSP/NRP
+q26g,"Q26G) Le 311, le service d'informations téléphoniques de la Ville de Montréal (programmation des activités de loisirs et de sports, horaires des bibliothèques, demandes de permis pour rénover, jours de collecte des ordures ménagères, obtention de vignette",1,Souvent
+q26g,"Q26G) Le 311, le service d'informations téléphoniques de la Ville de Montréal (programmation des activités de loisirs et de sports, horaires des bibliothèques, demandes de permis pour rénover, jours de collecte des ordures ménagères, obtention de vignette",2,Parfois
+q26g,"Q26G) Le 311, le service d'informations téléphoniques de la Ville de Montréal (programmation des activités de loisirs et de sports, horaires des bibliothèques, demandes de permis pour rénover, jours de collecte des ordures ménagères, obtention de vignette",3,Jamais
+q26g,"Q26G) Le 311, le service d'informations téléphoniques de la Ville de Montréal (programmation des activités de loisirs et de sports, horaires des bibliothèques, demandes de permis pour rénover, jours de collecte des ordures ménagères, obtention de vignette",9,NSP/NRP
+q27a,Q27A) Aide juridique     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),1,Oui
+q27a,Q27A) Aide juridique     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),2,Non
+q27a,Q27A) Aide juridique     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),9,NSP/NRP
+q27b,Q27B) Service d´aide alimentaire     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),1,Oui
+q27b,Q27B) Service d´aide alimentaire     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),2,Non
+q27b,Q27B) Service d´aide alimentaire     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),9,NSP/NRP
+q27c,Q27C) Francisation     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),1,Oui
+q27c,Q27C) Francisation     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),2,Non
+q27c,Q27C) Francisation     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),9,NSP/NRP
+q27d,Q27D) Recherche d´emploi     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),1,Oui
+q27d,Q27D) Recherche d´emploi     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),2,Non
+q27d,Q27D) Recherche d´emploi     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),9,NSP/NRP
+q27e,Q27E) Recherche de logement     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),1,Oui
+q27e,Q27E) Recherche de logement     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),2,Non
+q27e,Q27E) Recherche de logement     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),9,NSP/NRP
+q27f,Q27F) Soutien psychologique     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),1,Oui
+q27f,Q27F) Soutien psychologique     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),2,Non
+q27f,Q27F) Soutien psychologique     (Connaissez-vous l´existence des services suivants offerts par les organismes communautaires à Montréal?),9,NSP/NRP
+q28a,"Q28A) Aide juridique   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",1,Oui
+q28a,"Q28A) Aide juridique   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",2,Non
+q28a,"Q28A) Aide juridique   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",9,NSP/NRP
+q28b,"Q28B) Service d´aide alimentaire   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",1,Oui
+q28b,"Q28B) Service d´aide alimentaire   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",2,Non
+q28b,"Q28B) Service d´aide alimentaire   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",9,NSP/NRP
+q28c,"Q28C) Francisation   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",1,Oui
+q28c,"Q28C) Francisation   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",2,Non
+q28c,"Q28C) Francisation   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",9,NSP/NRP
+q28d,"Q28D) Recherche d´emploi   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",1,Oui
+q28d,"Q28D) Recherche d´emploi   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",2,Non
+q28d,"Q28D) Recherche d´emploi   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",9,NSP/NRP
+q28e,"Q28E) Recherche de logement   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",1,Oui
+q28e,"Q28E) Recherche de logement   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",2,Non
+q28e,"Q28E) Recherche de logement   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",9,NSP/NRP
+q28f,"Q28F) Soutien psychologique   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",1,Oui
+q28f,"Q28F) Soutien psychologique   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",2,Non
+q28f,"Q28F) Soutien psychologique   (Au cours des trois dernières années, avez-vous utilisé les services suivants?) (Base : service connu)",9,NSP/NRP
+q29,Q29) À quel genre vous identifiez-vous?,0,Aucun
+q29,Q29) À quel genre vous identifiez-vous?,1,Homme
+q29,Q29) À quel genre vous identifiez-vous?,2,Femme
+q29,Q29) À quel genre vous identifiez-vous?,97,Autre
+q29,Q29) À quel genre vous identifiez-vous?,99,Je préfère ne pas répondre
+q30,Q30) Quel est le plus haut niveau de scolarité que vous ayez complété (diplôme obtenu)?,1,Primaire
+q30,Q30) Quel est le plus haut niveau de scolarité que vous ayez complété (diplôme obtenu)?,2,Secondaire général ou professionnel
+q30,Q30) Quel est le plus haut niveau de scolarité que vous ayez complété (diplôme obtenu)?,3,Collégial général préuniversitaire ou professionnel techniqu
+q30,Q30) Quel est le plus haut niveau de scolarité que vous ayez complété (diplôme obtenu)?,4,Universitaire
+q30,Q30) Quel est le plus haut niveau de scolarité que vous ayez complété (diplôme obtenu)?,9,Je préfère ne pas répondre
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",1,Canada
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",2,Algérie
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",3,Belgique
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",4,France
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",5,États-Unis
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",6,Inde
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",7,Italie
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",8,Roumanie
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",9,Tunisie
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",10,Colombie
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",11,Egypte
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",12,Liban
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",13,Maroc
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",14,Brésil
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",15,Cameroun
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",16,Ukraine
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",17,Mexique
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",18,"Autres pays de l'Amérique latine : Argentine, Pérou, Vénézue"
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",19,"Autres pays de l'Europe occidentale : Allemagne, Angleterre,"
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",20,"Autres pays d'Europe de l'Est : Belarus, Hongrie, Lettonie,"
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",21,"Autres pays du Moyen-Orient (Iran, Iraq, Israël, Sirie, Turq"
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",22,"Autres pays d'Afrique (Burkina Faso, Congo, Côte d'Ivoire, K"
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",23,"Autres pays d'Asie (Bangladesh, Philippines, Chine, Japon, V"
+q31,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé? (Base : Immigrants de scolarité collégiale ou universitaire)",99,JE PRÉFÈRE NE PAS RÉPONDRE / NON PRÉCISÉ
+q32,Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants),1,Oui
+q32,Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants),2,Non
+q32,Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants),98,Je ne sais pas
+q32,Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants),99,Je préfère ne pas répondre
+q3132_m1,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",1,TOTAL ONT ÉTUDIÉ AU CANADA
+q3132_m1,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",2,Ont obtenu un dipôme collégial ou universitaire au Canada
+q3132_m1,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",3,Ont entrepris d'autres études au Canada depuis votre arrivée
+q3132_m1,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",4,N'ONT PAS ÉTUDIÉ AU CANADA
+q3132_m2,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",1,TOTAL ONT ÉTUDIÉ AU CANADA
+q3132_m2,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",2,Ont obtenu un dipôme collégial ou universitaire au Canada
+q3132_m2,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",3,Ont entrepris d'autres études au Canada depuis votre arrivée
+q3132_m2,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",4,N'ONT PAS ÉTUDIÉ AU CANADA
+q3132_m3,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",1,TOTAL ONT ÉTUDIÉ AU CANADA
+q3132_m3,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",2,Ont obtenu un dipôme collégial ou universitaire au Canada
+q3132_m3,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",3,Ont entrepris d'autres études au Canada depuis votre arrivée
+q3132_m3,"Q31) Dans quel pays avez-vous obtenu votre certificat, diplôme ou grade le plus élevé?  / Q32) Avez-vous entrepris d'autres études au Canada depuis votre arrivée ? (Base : Immigrants)",4,N'ONT PAS ÉTUDIÉ AU CANADA
+q33,Q33) Considérez-vous être une personne racisée ou appartenir à une minorité visible?,1,Oui
+q33,Q33) Considérez-vous être une personne racisée ou appartenir à une minorité visible?,2,Non
+q33,Q33) Considérez-vous être une personne racisée ou appartenir à une minorité visible?,9,Je préfère ne pas répondre
+q34,"Q34) Vous identifiez-vous comme étant une personne LGBTQ+? Note : Le sigle LGBTQ+ est utilisé pour qualifier les personnes lesbienne, gai, bisexuelle, trans, queer, etc. qui sont utilisées pour désigner des personnes non hétérosexuelles et/ou non cisgenre",1,Oui
+q34,"Q34) Vous identifiez-vous comme étant une personne LGBTQ+? Note : Le sigle LGBTQ+ est utilisé pour qualifier les personnes lesbienne, gai, bisexuelle, trans, queer, etc. qui sont utilisées pour désigner des personnes non hétérosexuelles et/ou non cisgenre",2,Non
+q34,"Q34) Vous identifiez-vous comme étant une personne LGBTQ+? Note : Le sigle LGBTQ+ est utilisé pour qualifier les personnes lesbienne, gai, bisexuelle, trans, queer, etc. qui sont utilisées pour désigner des personnes non hétérosexuelles et/ou non cisgenre",98,Je ne sais pas
+q34,"Q34) Vous identifiez-vous comme étant une personne LGBTQ+? Note : Le sigle LGBTQ+ est utilisé pour qualifier les personnes lesbienne, gai, bisexuelle, trans, queer, etc. qui sont utilisées pour désigner des personnes non hétérosexuelles et/ou non cisgenre",99,Je préfère ne pas répondre
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",1,Moins de 20 000 $
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",2,De 20 000 $ à 39 999 $
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",3,De 40 000 $ à 59 999 $
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",4,De 60 000 $ à 79 999 $
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",5,De 80 000 $ à 99 999 $
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",6,De 100 000 $ à 119 999 $
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",7,120 000 $ et plus
+q35,"Q35) Parmi les catégories suivantes, laquelle reflète le mieux le revenu total annuel, avant impôt, de tous les membres de votre foyer pour l´année 2022?",99,Je préfère ne pas répondre

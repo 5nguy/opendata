@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rep_parcs>
+  <date_generation_xml><![CDATA[2023-06-02 14:18:52]]></date_generation_xml>
+  <parcs>
+    <parc id="70">
+      <nom_fr><![CDATA[Parc Angrignon]]></nom_fr>
+      <description_fr><![CDATA[<p>Situé dans l&#039;arrondissement du Sud-Ouest, le parc Angrignon possède un charme digne des grands jardins britanniques du XIX<sup>e</sup> siècle. Les visiteurs trouveront un milieu forestier unique, un immense plan d&#039;eau relié par un jeu de cascades et des kilomètres de sentiers. Laissez-vous charmer par ses attraits uniques.</p>]]></description_fr>
+      <url_fiche_parc_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_parc?id=70]]></url_fiche_parc_fr>
+      <photo>
+        <url><![CDATA[http://montreal2.qc.ca/rep_parcs/media/images/application/me_prc_350_lr0272_01_id70.jpg]]></url>
+        <alt_fr><![CDATA[Parc Angrignon]]></alt_fr>
+      </photo>
+      <date_creation><![CDATA[2011-11-22 06:27:31]]></date_creation>
+      <date_modification><![CDATA[2020-12-15 10:07:36]]></date_modification>
+      <ouverture_parc>
+        <ouverture type="1"><![CDATA[Ouvert]]></ouverture>
+      </ouverture_parc>
+      <section_au_programme>
+        <bandeau/>
+        <url_xml_top_evenements_fr><![CDATA[http://montreal2.qc.ca/rep_parcs/media/xml/application/cache_evenements_pc70.xml]]></url_xml_top_evenements_fr>
+        <url_xml_top_actualites_fr><![CDATA[http://montreal2.qc.ca/rep_parcs/media/xml/application/cache_actualites_pc70.xml]]></url_xml_top_actualites_fr>
+        <url_actualites_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_utilitaires/rep_actualites/coll_actualites?na=71]]></url_actualites_fr>
+        <a_noter_prog_fr><![CDATA[]]></a_noter_prog_fr>
+        <publications/>
+      </section_au_programme>
+      <section_activites>
+        <activites>
+          <activite id="61">
+            <nom_fr><![CDATA[Glissade]]></nom_fr>
+            <description_fr><![CDATA[<p>Une butte pour la glissade libre est accessible selon les conditions d’enneigement.&nbsp;Apportez vos traîneaux!</p>
+<p><strong>Activité libre gratuite, pour tous.</strong></p>
+<p><strong>Renseignements&nbsp;: </strong>311</p>]]></description_fr>
+          </activite>
+          <activite id="238">
+            <nom_fr><![CDATA[Randonnée pédestre (marche)]]></nom_fr>
+            <description_fr><![CDATA[<p>Un sentier de marche de 10 km pour vous faire découvrir le parc.</p>
+<p><strong>Activité libre gratuite, pour tous.</strong></p>]]></description_fr>
+          </activite>
+          <activite id="65">
+            <nom_fr><![CDATA[Raquette]]></nom_fr>
+            <description_fr><![CDATA[<p>Les citoyens peuvent pratiquer la raquette dans 2,7 km de sentiers balisés.</p>]]></description_fr>
+          </activite>
+          <activite id="218">
+            <nom_fr><![CDATA[Ski de fond]]></nom_fr>
+            <description_fr><![CDATA[<p>Les pistes de ski de fond du parc Angrignon proposent des tracés de pas classique et de pas de patin. Il est possible d’y accéder par le métro, la station se trouve à 5 min de marche.&nbsp;Le départ des pistes se fait depuis le stationnement du côté du boulevard des Trinitaires où il y a une roulotte pour se changer au chaud. Les pistes sillonnent le milieu boisé et offrent des vues sur l’étang gelé.</p>]]></description_fr>
+          </activite>
+        </activites>
+        <galerie_photos>
+          <url_flickr tag="parc_angrignon"><![CDATA[http://www.flickr.com/photos/parcs/tags/parc_angrignon]]></url_flickr>
+        </galerie_photos>
+        <reglements>
+          <reglements_intro_fr><![CDATA[<p>Pour en prendre connaissance:</p>]]></reglements_intro_fr>
+          <reglement id="23">
+            <titre_fr><![CDATA[Connaissez-vous les règlements des grands parcs?]]></titre_fr>
+            <url_fr><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7377,91008174&_dad=portal&_schema=PORTAL]]></url_fr>
+          </reglement>
+        </reglements>
+      </section_activites>
+      <section_services>
+        <services_fr><![CDATA[<p>- Aires de jeux pour enfants<br />- Aire d&#039;exercice canin<br />- Terrain de balle</p>
+<p>Pour l&#039;organisation d&#039;un événement au parc Angrignon, consultez la section suivante :<a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84733618&amp;_dad=portal&amp;_schema=PORTAL" target="_blank"><br />Organiser un évènement dans un espace public de l&#039;arrondissement du Sud-Ouest</a></p>]]></services_fr>
+      </section_services>
+      <section_a_voir>
+        <a_voir_fr><![CDATA[<p><strong>Un joli cadre champêtre<br /></strong>Le parc Angrignon permet aux visiteurs d&#039;entrer dans un monde serein, aux nombreux charmes discrets. On peut s&#039;y croire transporté dans un jardin anglais du XIXe siècle, grâce à sa forêt de 20 000 arbres, à ses sentiers tortueux et à son étang entouré de quenouilles. En empruntant le sentier est, vous apercevrez les 110 jardinets communautaires qui, chaque été, sont cultivés par des résidants du secteur.</p>
+<p><strong>Note : La ferme Angrignon est fermée&nbsp;depuis 2012</strong></p>]]></a_voir_fr>
+        <interets_floristiques/>
+        <interets_historiques/>
+      </section_a_voir>
+      <section_informations>
+        <carte>
+          <coordonnees><![CDATA[45.4445195, -73.60173200000003]]></coordonnees>
+          <zoom><![CDATA[14]]></zoom>
+          <centerpoint><![CDATA[45.4445195,-73.60173200000003]]></centerpoint>
+        </carte>
+        <lieux/>
+        <adresse_fr><![CDATA[<p>3400, boulevard des Trinitaires, Montréal (Québec), H4E 4J3<br />Délimité par le boulevard des Trinitaires et de la Verendrye</p>
+<p><strong>Heures d&#039;ouverture</strong><br />Le pac Angrignon est&nbsp;ouvert au public de 6 h le matin à minuit. En dehors de ces heures, il est interdit de se trouver dans&nbsp;le parc, y compris dans un stationnement. Toutefois, des permissions spéciales peuvent être accordées lors de la tenue d&#039;événements.</p>
+<p><strong>Stationnement (géré par Stationnement de Montréal)</strong><br />Boulevard des Trinitaires au nord du boulevard de La Vérendrye (angle de la rue Lacroix)</p>
+<p>Tarification 2018<br />• 3 $ l&#039;heure<br />• 10 $ pour la journée<br />• 55 $ pour un permis mensuel<br /><br /><strong>Stationnement gratuit</strong><br />Entrée boulevard de La Verendrye, chemin du parc Angrignon</p>]]></adresse_fr>
+        <pour_sy_rendre_fr><![CDATA[<p><strong>En voiture</strong><br />Par la rue Saint-Patrick ou le boulevard Lasalle.</p>
+<p><strong>En vélo</strong><br />Suivre la piste cyclabe, le long du canal vers l&#039;ouest.</p>
+<p><strong>En transport en commun</strong><br />Station de métro Angrignon, autobus 110.</p>]]></pour_sy_rendre_fr>
+        <tarification_fr><![CDATA[<p>Entrée libre</p>]]></tarification_fr>
+        <a_noter_inf_fr><![CDATA[]]></a_noter_inf_fr>
+        <nb_hectares><![CDATA[97]]></nb_hectares>
+        <documents>
+          <document id="3">
+            <titre_fr><![CDATA[Carte hiver Angrignon]]></titre_fr>
+            <url_fr><![CDATA[http://montreal2.qc.ca/rep_parcs/media/documents/application/pdf_doc_25015_carte_parc_angrignon_11x17_h20_21_vf_id3.pdf]]></url_fr>
+            <poids_pages nb_octets="1100024" nb_pages="1"><![CDATA[ [1,05 Mo &#8211; 1 page]]]></poids_pages>
+          </document>
+        </documents>
+        <accessibilite_fr><![CDATA[<p>Le réseau de sentiers est accessible à 100 % dans l&#039;ensemble du parc. Toilettes accessibles et adaptées. Places de stationnement réservées.</p>
+<p>*Les lieux sont accessibles aux personnes à mobilité réduite</p>]]></accessibilite_fr>
+        <partenaires/>
+        <liste_voir_aussi/>
+      </section_informations>
+      <section_amenagement>
+        <amenagement_fr><![CDATA[<div>
+<div><strong>Travaux d’aménagement et de sécurisation dans le secteur de l’ancienne ferme</strong></div>
+<div><strong>Du 26 octobre 2020 au printemps 2021</strong></div>
+</div>
+<div><br />Des travaux d&#039;aménagement et de sécurisation des lieux seront réalisés dans le secteur de l’ancienne ferme du parc Angrignon, avec notamment la démolition de certains bâtiments, l&#039;enlèvement d&#039;équipements désuets, le verdissement des zones démolies et la plantation d&#039;arbres.<br /><br />Le complexe des Quartiers d&#039;hiver a été conçu en 1969. Il comprend un bâtiment principal et plusieurs dépendances liées aux activités de l&#039;ancienne ferme qui abritait les animaux du Jardin des Merveilles du parc La Fontaine. Désaffectées et vandalisées, ces dépendances ont atteint leur fin de vie utile. La végétation est devenue envahissante. L&#039;ensemble constitue un lieu non sécuritaire pour les utilisateurs du parc.<br /><br />Le bâtiment des Quartiers d&#039;hiver, inoccupé depuis 2011, fait actuellement l&#039;objet d&#039;une évaluation architecturale dans le but de lui trouver une nouvelle fonction. Il offre un grand potentiel pour devenir le pôle d’accueil du parc Angrignon.<br /><br />En plus de redonner un site sécuritaire et accessible aux citoyens, le projet permettra de valoriser le bois existant et d&#039;assurer une plus grande biodiversité avec la nouvelle plantation.<br /><br />Voici les principales interventions qui seront réalisées :<br /><br /><strong>Secteur de l’ancienne ferme:</strong>
+<ul>
+<li>la démolition de sept dépendances de l&#039;ancienne ferme;</li>
+<li>la démolition des aménagements de l&#039;ancienne ferme;</li>
+<li>l&#039;enlèvement de clôtures;</li>
+<li>la plantation d&#039;arbres et le verdissement des zones démolies;</li>
+<li>l&#039;ajout de barrières sécuritaires dans la zone d’entreposage des équipements d’entretien.</li>
+</ul>
+D’autres travaux seront également réalisés dans le cadre de ce projet :<br /><br /><strong>Travaux sur le terrain de balle&nbsp;</strong>Tous les éléments qui composent le terrain de balle seront enlevés &nbsp;(clôtures, arrêt-balle, gradins, bancs, surface en asphalte, incluant le sentier, décapage des surfaces de sable – les tours&nbsp;d&#039;éclairage&nbsp;seront conservées); remplacement&nbsp;d’une&nbsp;fontaine à boire et travaux mineurs en électricité. Le site sera un grand espace gazonné&nbsp;jusqu&#039;au&nbsp;moment de reconstruire et de mettre aux normes le terrain de balle dans un mandat ultérieur.<strong><br /></strong><br /><strong>Parc à chiens&nbsp;</strong>Une dalle de béton sera reconstruite dans&nbsp;l’entrée&nbsp;du parc à chiens.<strong><br /></strong><br /><strong>Cabanon du jardin communautaire&nbsp;</strong>Une mise à jour de la desserte électrique sera faite pour&nbsp;l’alimentation&nbsp;des cabanons du jardin communautaire.<strong><br /></strong><br /><strong>Durée des travaux&nbsp;</strong>Du 26 octobre à décembre 2020; reprise et fin au printemps 2021<strong><br /></strong></div>
+<div></div>
+<div>---------------------------------------------------------</div>
+<p><strong>Travaux électriques d&#039;urgence débutant le 19 octobre 2020</strong>&nbsp;<strong>au parc canin</strong></p>
+<p style="text-align: justify;">La Ville de Montréal réalisera des travaux électriques dans le secteur du parc à chiens du parc Angrignon. Ces travaux sont nécessaires afin de&nbsp;réparer le bris d&#039;une artère d&#039;alimentation électrique souterraine sectionnée cet été lors des travaux de mise aux normes des clôtures.&nbsp;&nbsp;<br /><br />Durant ces travaux,&nbsp;<strong>le parc canin sera fermé </strong>et la zone des travaux sera sécurisée.&nbsp;<br /><strong><br />Durée et horaire des travaux<br /></strong><em>Noter que ces travaux pourraient se terminer plus tôt</em></p>
+<ul>
+<li>Quatre semaines, à compter du 19 octobre, du lundi au vendredi, de&nbsp;7 h à 19 h.</li>
+</ul>
+<p><strong>Autres travaux à compter du vendredi 16 octobre</strong></p>
+<p>Une intervention sur le réseau électrique sera également réalisée cette fin de semaine,&nbsp;à compter de vendredi.&nbsp;<strong>Cela permettra de réalimenter les lampadaires sur le sentier principal et l&#039;éclairage dans le stationnement du métro.</strong></p>]]></amenagement_fr>
+      </section_amenagement>
+    </parc>
+  </parcs>
+  <activites>
+    <activite id="541">
+      <activite_nom_fr><![CDATA[Escalade]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[<p>la paroi d’escalade du parc Jean-Drapeau se métamorphosera en un véritable mur de glace où les grimpeurs pourront s’adonner à leur activité préférée.</p>]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=541]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2020-12-14 15:03:15]]></date_creation>
+      <date_modification><![CDATA[2020-12-14 15:05:37]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="77"/>
+        <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+        <coordonnees/>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="540">
+      <activite_nom_fr><![CDATA[Fat bike]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[<p>Les adeptes de Fat bike, auront pour leur part accès à des pistes sinueuses, des sous-bois et de nombreux dénivelés dans les sentiers du mont Boullé de l’île Sainte-Hélène.</p>]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=540]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2020-12-14 15:01:49]]></date_creation>
+      <date_modification><![CDATA[2020-12-14 15:17:58]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="77"/>
+        <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+        <coordonnees/>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="176">
+      <activite_nom_fr><![CDATA[Fatbike – pratique libre]]></activite_nom_fr>
+      <categorie id="52">
+        <categorie_fr><![CDATA[Activités sportives et mise en forme]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=176]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2017-10-20 12:14:49]]></date_creation>
+      <date_modification><![CDATA[2020-12-14 10:05:27]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="82"/>
+        <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+        <coordonnees><![CDATA[45.68212800084051, -73.49546054223634]]></coordonnees>
+        <parc id="74"/>
+        <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
+        <coordonnees><![CDATA[45.4607779, -73.9304242]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="61">
+      <activite_nom_fr><![CDATA[Glissade]]></activite_nom_fr>
+      <categorie id="30">
+        <categorie_fr><![CDATA[Activités récréatives]]></categorie_fr>
+      </categorie>
+      <photo>
+        <url><![CDATA[http://montreal2.qc.ca/rep_parcs/media/images/application/me_act_glissade_id61.jpg]]></url>
+        <alt_fr><![CDATA[Glissade]]></alt_fr>
+        <credit_fr><![CDATA[Ville de Montréal]]></credit_fr>
+      </photo>
+      <description_fr><![CDATA[<p>Plusieurs grands parcs mettent à la disposition des visiteurs une ou deux buttes de glissade.</p>]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=61]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2012-12-04 12:55:20]]></date_creation>
+      <date_modification><![CDATA[2020-12-15 10:02:00]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="70"/>
+        <nom_fr><![CDATA[Parc Angrignon]]></nom_fr>
+        <coordonnees><![CDATA[45.4445195, -73.60173200000003]]></coordonnees>
+        <parc id="81"/>
+        <nom_fr><![CDATA[Parc du Mont-Royal]]></nom_fr>
+        <coordonnees><![CDATA[45.5071024, -73.5874071]]></coordonnees>
+        <parc id="76"/>
+        <nom_fr><![CDATA[Parc Jarry]]></nom_fr>
+        <coordonnees><![CDATA[45.537766, -73.62887999999998]]></coordonnees>
+        <parc id="77"/>
+        <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+        <coordonnees/>
+        <parc id="80"/>
+        <nom_fr><![CDATA[Parc Maisonneuve]]></nom_fr>
+        <coordonnees><![CDATA[45.561201, -73.55485019999998]]></coordonnees>
+        <parc id="75"/>
+        <nom_fr><![CDATA[Parc-nature de l&#039;Île-de-la-Visitation]]></nom_fr>
+        <coordonnees/>
+        <parc id="82"/>
+        <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+        <coordonnees><![CDATA[45.68212800084051, -73.49546054223634]]></coordonnees>
+        <parc id="72"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
+        <coordonnees><![CDATA[45.5063662, -73.7635482]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[<p><a href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,94913638&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Pour connaître les conditions des buttes pour la glissade des parcs en arrondissement</a></p>]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[<p><strong>Connaissez-vous les règlements des grands parcs?</strong></p>
+<p>Dans le but d&#039;assurer la protection des ressources naturelles et la sécurité du public, plusieurs règlements sont en vigueur dans les grands parcs. Ces règlements s&#039;appliquent selon qu&#039;il s&#039;agit d&#039;un grand parc relevant de l&#039;agglomération de Montréal ou du conseil municipal de la Ville de Montréal. Quiconque contrevient à ces règlements commet une infraction et est passible d&#039;une amende de 100 $ à 1 000 $.</p>]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="500">
+      <activite_nom_fr><![CDATA[Marche]]></activite_nom_fr>
+      <categorie id="60">
+        <categorie_fr><![CDATA[Santé et bien-être]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=500]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2019-12-13 14:54:00]]></date_creation>
+      <date_modification><![CDATA[2020-12-15 10:16:14]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="76"/>
+        <nom_fr><![CDATA[Parc Jarry]]></nom_fr>
+        <coordonnees><![CDATA[45.537766, -73.62887999999998]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="63">
+      <activite_nom_fr><![CDATA[Observation des oiseaux]]></activite_nom_fr>
+      <categorie id="41">
+        <categorie_fr><![CDATA[Activités libres]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=63]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2012-12-04 13:06:00]]></date_creation>
+      <date_modification><![CDATA[2019-12-04 16:16:57]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="83"/>
+        <nom_fr><![CDATA[Parc des Rapides]]></nom_fr>
+        <coordonnees><![CDATA[45.42779283696037, -73.58985900878906]]></coordonnees>
+        <parc id="86"/>
+        <nom_fr><![CDATA[Parc Frédéric-Back]]></nom_fr>
+        <coordonnees><![CDATA[45.5636158, -73.62708099999998]]></coordonnees>
+        <parc id="80"/>
+        <nom_fr><![CDATA[Parc Maisonneuve]]></nom_fr>
+        <coordonnees><![CDATA[45.561201, -73.55485019999998]]></coordonnees>
+        <parc id="75"/>
+        <nom_fr><![CDATA[Parc-nature de l&#039;Île-de-la-Visitation]]></nom_fr>
+        <coordonnees/>
+        <parc id="82"/>
+        <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+        <coordonnees><![CDATA[45.68212800084051, -73.49546054223634]]></coordonnees>
+        <parc id="73"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-l&#039;Île-Bizard]]></nom_fr>
+        <coordonnees><![CDATA[45.515489, -73.89736900000003]]></coordonnees>
+        <parc id="72"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
+        <coordonnees><![CDATA[45.5063662, -73.7635482]]></coordonnees>
+        <parc id="89"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Saraguay]]></nom_fr>
+        <coordonnees/>
+        <parc id="74"/>
+        <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
+        <coordonnees><![CDATA[45.4607779, -73.9304242]]></coordonnees>
+        <parc id="85"/>
+        <nom_fr><![CDATA[Parc-nature du Ruisseau-De Montigny]]></nom_fr>
+        <coordonnees><![CDATA[45.62682395365726, -73.61238956451416]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[<p><strong>Connaissez-vous les règlements des grands parcs?</strong></p>
+<p>Dans le but d&#039;assurer la protection des ressources naturelles et la sécurité du public, plusieurs règlements sont en vigueur dans les grands parcs. Ces règlements s&#039;appliquent selon qu&#039;il s&#039;agit d&#039;un grand parc relevant de l&#039;agglomération de Montréal ou du conseil municipal de la Ville de Montréal. Quiconque contrevient à ces règlements commet une infraction et est passible d&#039;une amende de 100 $ à 1 000 $.&nbsp;</p>]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="542">
+      <activite_nom_fr><![CDATA[Patin libre]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[<p>Une patinoire réfrigérée de forme rectangulaire sera aménagée et entretenue à l&#039;Espace 67 pendant la saison hivernale. Cette patinoire offrira une surface lisse et une expérience des plus agréable pendant tout l&#039;hiver malgré les petits caprices occasionnels de dame nature.</p>
+<p><a href="https://www.parcjeandrapeau.com/fr/patinoire-patin-glace-activite-hiver-montreal/" target="_blank">Pour plus d&#039;information</a></p>]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=542]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2020-12-14 15:22:07]]></date_creation>
+      <date_modification><![CDATA[0000-00-00 00:00:00]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="81"/>
+        <nom_fr><![CDATA[Parc du Mont-Royal]]></nom_fr>
+        <coordonnees><![CDATA[45.5071024, -73.5874071]]></coordonnees>
+        <parc id="77"/>
+        <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+        <coordonnees/>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="72">
+      <activite_nom_fr><![CDATA[Patinage]]></activite_nom_fr>
+      <categorie id="30">
+        <categorie_fr><![CDATA[Activités récréatives]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=72]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2012-12-04 17:11:16]]></date_creation>
+      <date_modification><![CDATA[2020-12-15 10:16:56]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="76"/>
+        <nom_fr><![CDATA[Parc Jarry]]></nom_fr>
+        <coordonnees><![CDATA[45.537766, -73.62887999999998]]></coordonnees>
+        <parc id="91"/>
+        <nom_fr><![CDATA[Parc Jeanne-Mance]]></nom_fr>
+        <coordonnees><![CDATA[45.5169802, -73.5848537]]></coordonnees>
+        <parc id="78"/>
+        <nom_fr><![CDATA[Parc La Fontaine]]></nom_fr>
+        <coordonnees><![CDATA[45.52636380000001, -73.56934480000001]]></coordonnees>
+        <parc id="80"/>
+        <nom_fr><![CDATA[Parc Maisonneuve]]></nom_fr>
+        <coordonnees><![CDATA[45.561201, -73.55485019999998]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[<p><a href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,94909650&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Pour connaître les conditions de glace des patinoires extérieur </a></p>]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[<p><strong>Connaissez-vous les règlements des grands parcs?</strong></p>
+<p>Dans le but d&#039;assurer la protection des ressources naturelles et la sécurité du public, plusieurs règlements sont en vigueur dans les grands parcs. Ces règlements s&#039;appliquent selon qu&#039;il s&#039;agit d&#039;un grand parc relevant de l&#039;agglomération de Montréal ou du conseil municipal de la Ville de Montréal. Quiconque contrevient à ces règlements commet une infraction et est passible d&#039;une amende de 100 $ à 1 000 $.&nbsp;</p>]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="506">
+      <activite_nom_fr><![CDATA[Randonnée en raquettes]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=506]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2020-01-08 10:19:56]]></date_creation>
+      <date_modification><![CDATA[2020-01-08 11:22:42]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs/>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="238">
+      <activite_nom_fr><![CDATA[Randonnée pédestre (marche)]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=238]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2018-04-22 21:44:06]]></date_creation>
+      <date_modification><![CDATA[2020-12-01 09:45:42]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="70"/>
+        <nom_fr><![CDATA[Parc Angrignon]]></nom_fr>
+        <coordonnees><![CDATA[45.4445195, -73.60173200000003]]></coordonnees>
+        <parc id="83"/>
+        <nom_fr><![CDATA[Parc des Rapides]]></nom_fr>
+        <coordonnees><![CDATA[45.42779283696037, -73.58985900878906]]></coordonnees>
+        <parc id="86"/>
+        <nom_fr><![CDATA[Parc Frédéric-Back]]></nom_fr>
+        <coordonnees><![CDATA[45.5636158, -73.62708099999998]]></coordonnees>
+        <parc id="80"/>
+        <nom_fr><![CDATA[Parc Maisonneuve]]></nom_fr>
+        <coordonnees><![CDATA[45.561201, -73.55485019999998]]></coordonnees>
+        <parc id="84"/>
+        <nom_fr><![CDATA[Parc René-Lévesque]]></nom_fr>
+        <coordonnees><![CDATA[45.42941543780633, -73.6703896522522]]></coordonnees>
+        <parc id="75"/>
+        <nom_fr><![CDATA[Parc-nature de l&#039;Île-de-la-Visitation]]></nom_fr>
+        <coordonnees/>
+        <parc id="82"/>
+        <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+        <coordonnees><![CDATA[45.68212800084051, -73.49546054223634]]></coordonnees>
+        <parc id="73"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-l&#039;Île-Bizard]]></nom_fr>
+        <coordonnees><![CDATA[45.515489, -73.89736900000003]]></coordonnees>
+        <parc id="72"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
+        <coordonnees><![CDATA[45.5063662, -73.7635482]]></coordonnees>
+        <parc id="89"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Saraguay]]></nom_fr>
+        <coordonnees/>
+        <parc id="74"/>
+        <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
+        <coordonnees><![CDATA[45.4607779, -73.9304242]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="65">
+      <activite_nom_fr><![CDATA[Raquette]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=65]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2012-12-04 13:53:26]]></date_creation>
+      <date_modification><![CDATA[2020-12-14 15:35:56]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="70"/>
+        <nom_fr><![CDATA[Parc Angrignon]]></nom_fr>
+        <coordonnees><![CDATA[45.4445195, -73.60173200000003]]></coordonnees>
+        <parc id="81"/>
+        <nom_fr><![CDATA[Parc du Mont-Royal]]></nom_fr>
+        <coordonnees><![CDATA[45.5071024, -73.5874071]]></coordonnees>
+        <parc id="86"/>
+        <nom_fr><![CDATA[Parc Frédéric-Back]]></nom_fr>
+        <coordonnees><![CDATA[45.5636158, -73.62708099999998]]></coordonnees>
+        <parc id="77"/>
+        <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+        <coordonnees/>
+        <parc id="75"/>
+        <nom_fr><![CDATA[Parc-nature de l&#039;Île-de-la-Visitation]]></nom_fr>
+        <coordonnees/>
+        <parc id="82"/>
+        <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+        <coordonnees><![CDATA[45.68212800084051, -73.49546054223634]]></coordonnees>
+        <parc id="73"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-l&#039;Île-Bizard]]></nom_fr>
+        <coordonnees><![CDATA[45.515489, -73.89736900000003]]></coordonnees>
+        <parc id="72"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
+        <coordonnees><![CDATA[45.5063662, -73.7635482]]></coordonnees>
+        <parc id="74"/>
+        <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
+        <coordonnees><![CDATA[45.4607779, -73.9304242]]></coordonnees>
+        <parc id="85"/>
+        <nom_fr><![CDATA[Parc-nature du Ruisseau-De Montigny]]></nom_fr>
+        <coordonnees><![CDATA[45.62682395365726, -73.61238956451416]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="539">
+      <activite_nom_fr><![CDATA[Ski de fond]]></activite_nom_fr>
+      <categorie id="54">
+        <categorie_fr><![CDATA[Activités de plein air]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[<p>Deux pistes de ski de fond de style classique seront balisées et entretenues afin de permettre aux fondeurs de pratiquer leur sport. Un premier parcours d’initiation sera aménagé à l’Espace 67 de l’Île Sainte-Hélène et un second, d’une distance de 5 kilomètres, sur l’Île Notre-Dame. Des cours d’initiation gratuits seront aussi offerts par Ski de fond Montréal, en respect des mesures sanitaires qui seront en place cet hiver.</p>
+<p><a href="https://www.parcjeandrapeau.com/fr/ski-de-fond-activite-nature-hiver-montreal/" target="_blank">Pour plus d&#039;information</a></p>]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=539]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2020-12-14 15:01:06]]></date_creation>
+      <date_modification><![CDATA[2021-02-03 11:19:17]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="77"/>
+        <nom_fr><![CDATA[Parc Jean-Drapeau]]></nom_fr>
+        <coordonnees/>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+    <activite id="218">
+      <activite_nom_fr><![CDATA[Ski de fond]]></activite_nom_fr>
+      <categorie id="52">
+        <categorie_fr><![CDATA[Activités sportives et mise en forme]]></categorie_fr>
+      </categorie>
+      <photo/>
+      <description_fr><![CDATA[]]></description_fr>
+      <url_fiche_activite_fr><![CDATA[http://ville.montreal.qc.ca/pls/portal/url/page/grands_parcs_fr/rep_parcs/fiche_activite?id=218]]></url_fiche_activite_fr>
+      <date_creation><![CDATA[2017-11-27 12:05:57]]></date_creation>
+      <date_modification><![CDATA[2021-02-03 11:21:16]]></date_modification>
+      <tarification_fr><![CDATA[]]></tarification_fr>
+      <info_pratiques_fr><![CDATA[]]></info_pratiques_fr>
+      <parcs>
+        <parc id="70"/>
+        <nom_fr><![CDATA[Parc Angrignon]]></nom_fr>
+        <coordonnees><![CDATA[45.4445195, -73.60173200000003]]></coordonnees>
+        <parc id="71"/>
+        <nom_fr><![CDATA[Parc de la Promenade-Bellerive]]></nom_fr>
+        <coordonnees><![CDATA[45.5949795, -73.50920289999999]]></coordonnees>
+        <parc id="81"/>
+        <nom_fr><![CDATA[Parc du Mont-Royal]]></nom_fr>
+        <coordonnees><![CDATA[45.5071024, -73.5874071]]></coordonnees>
+        <parc id="86"/>
+        <nom_fr><![CDATA[Parc Frédéric-Back]]></nom_fr>
+        <coordonnees><![CDATA[45.5636158, -73.62708099999998]]></coordonnees>
+        <parc id="76"/>
+        <nom_fr><![CDATA[Parc Jarry]]></nom_fr>
+        <coordonnees><![CDATA[45.537766, -73.62887999999998]]></coordonnees>
+        <parc id="78"/>
+        <nom_fr><![CDATA[Parc La Fontaine]]></nom_fr>
+        <coordonnees><![CDATA[45.52636380000001, -73.56934480000001]]></coordonnees>
+        <parc id="80"/>
+        <nom_fr><![CDATA[Parc Maisonneuve]]></nom_fr>
+        <coordonnees><![CDATA[45.561201, -73.55485019999998]]></coordonnees>
+        <parc id="84"/>
+        <nom_fr><![CDATA[Parc René-Lévesque]]></nom_fr>
+        <coordonnees><![CDATA[45.42941543780633, -73.6703896522522]]></coordonnees>
+        <parc id="75"/>
+        <nom_fr><![CDATA[Parc-nature de l&#039;Île-de-la-Visitation]]></nom_fr>
+        <coordonnees/>
+        <parc id="82"/>
+        <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
+        <coordonnees><![CDATA[45.68212800084051, -73.49546054223634]]></coordonnees>
+        <parc id="73"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-l&#039;Île-Bizard]]></nom_fr>
+        <coordonnees><![CDATA[45.515489, -73.89736900000003]]></coordonnees>
+        <parc id="72"/>
+        <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
+        <coordonnees><![CDATA[45.5063662, -73.7635482]]></coordonnees>
+        <parc id="74"/>
+        <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
+        <coordonnees><![CDATA[45.4607779, -73.9304242]]></coordonnees>
+      </parcs>
+      <notes_conseils_fr><![CDATA[]]></notes_conseils_fr>
+      <galerie_photos/>
+      <reglements>
+        <reglements_intro_fr><![CDATA[]]></reglements_intro_fr>
+      </reglements>
+    </activite>
+  </activites>
+</rep_parcs>
