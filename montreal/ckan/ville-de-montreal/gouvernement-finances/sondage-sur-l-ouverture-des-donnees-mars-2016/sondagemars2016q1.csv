@@ -1,0 +1,25 @@
+ensemble,1,2,3,4,5,6,7,8,9,10,pointage
+Localisation et type des lampadaires,0,0,0,0,1,1,1,0,0,0,15
+Limites des zones inondables,0,1,1,2,1,1,2,0,1,2,54
+Localisation et type de terrains et d'équipements de sport,1,0,2,1,0,2,2,2,1,3,62
+Zonage et utilisation du sol (géoréférencé),5,5,4,1,3,1,0,0,0,1,158
+Localisation des toilettes publiques,0,3,1,3,3,1,2,0,0,0,87
+Empreinte géométrique des rues et des trottoirs,2,1,2,2,0,2,0,1,2,2,78
+Géolocalisation et état des abreuvoirs publiques,1,1,1,2,1,0,1,1,2,1,59
+Lieux de culte sur le territoire de Montréal,0,0,1,0,1,0,0,0,1,1,17
+"Terrains vacants, en friche ou inutilisés",3,1,0,2,2,3,2,0,1,1,91
+Zones de stationnement avec vignette,1,2,3,1,1,1,1,2,2,2,86
+Parcs et espaces verts,0,2,1,2,5,1,1,0,0,0,79
+Vitesse permise sur le réseau routier,1,0,1,1,1,2,2,2,0,1,56
+Bris d’aqueduc,2,1,0,1,1,1,1,1,2,1,59
+Effondrements de chaussée,1,1,1,0,0,1,0,2,0,2,40
+Niveaux de service du déneigement sur le réseau routier,2,0,1,1,1,1,2,1,1,1,60
+Réseau d'aqueduc et d'égout,1,0,0,2,4,0,0,1,3,0,57
+Quantités de neige tombée,0,0,0,1,0,0,0,1,2,2,16
+Montréal souterrain (incluant stations de métro),2,3,0,1,0,1,0,3,1,2,72
+Corridors scolaires,0,0,1,1,1,2,2,1,1,1,45
+Empreinte au sol des bâtiments sur le territoire,1,1,6,1,1,0,2,0,0,1,89
+Localisation des bâtiments municipaux avec les coûts associés,1,1,1,1,1,2,1,2,0,0,60
+Contraventions de stationnement,1,4,1,1,0,1,0,2,2,1,77
+Données topographiques pour l'île de Montréal,6,4,1,1,2,1,1,1,0,0,135
+Photographies aériennes récentes,2,2,3,2,0,1,1,1,0,0,88

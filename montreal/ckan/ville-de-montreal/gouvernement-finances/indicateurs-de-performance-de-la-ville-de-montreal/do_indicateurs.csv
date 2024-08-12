@@ -1,0 +1,127 @@
+KPIID,Domaine,NomIndicateur,UniteMesure,noIndicateur,TypeIndicateur,ville,DateDonnee,Valeur,Calcul_Formule
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2010,"0,1367",( VEAU100012 + VEAU100013 ) / VEAU900031
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2010,"0,0183",VRHU100021 / VRHU100022
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2011,"0,1306",( VEAU100012 + VEAU100013 ) / VEAU900031
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2011,"0,0189",VRHU100021 / VRHU100022
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2012,"0,1593",( VEAU100012 + VEAU100013 ) / VEAU900031
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2012,"0,022",VRHU100021 / VRHU100022
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2013,17068,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2013,27825,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2013,26989,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2013,"0,1501",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2013,19263,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2013,"0,0218",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2013,"0,096",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2014,12483,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2014,29079,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2014,"0,1287",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2014,27566,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2014,"0,1161",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2014,"0,2033",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2014,"0,1482",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2014,17330,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2014,"0,1332",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2014,"0,0198",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2014,"0,1002",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2014,"0,3092",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2015,13284,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2015,31427,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2015,"0,1291",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2015,28905,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2015,"0,1175",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2015,"0,2307",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2015,"0,1629",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2015,17736,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2015,"0,1385",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2015,"0,0208",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2015,"0,1112",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2015,"0,3252",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2016,13255,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2016,31443,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2016,"0,1283",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2016,31216,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2016,"0,1353",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2016,"0,2355",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2016,"0,1603",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2016,18931,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2016,"0,1474",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2016,"0,0258",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2016,"0,1153",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2016,"0,3588",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2017,16476,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2017,33083,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2017,"0,1272",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2017,31823,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2017,"0,1409",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2017,"0,2568",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2017,"0,1505",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2017,20400,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2017,"0,1536",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2017,"0,0237",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2017,"0,1183",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2017,"0,3747",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2018,17762,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2018,34397,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2018,"0,1178",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2018,31866,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2018,"0,1326",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2593,Gestion des matières résiduelles,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,IGMR100009,MAMH,Montréal,2018,"103,14",( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2018,"0,2644",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2018,"0,1539",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2018,20199,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2018,"0,1651",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2018,"0,0288",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2018,"0,1229",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2018,"0,3983",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2019,19265,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2019,36197,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2019,"0,1043",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2019,32127,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2019,"0,1439",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2593,Gestion des matières résiduelles,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,IGMR100009,MAMH,Montréal,2019,"98,25",( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2019,"0,2861",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2019,"0,1404",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2019,20915,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2019,"0,161",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2019,"0,0229",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2019,"0,123",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2019,"0,4037",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2020,16768,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2020,30150,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2020,"0,0966",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2020,33698,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2020,"0,1183",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2593,Gestion des matières résiduelles,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,IGMR100009,MAMH,Montréal,2020,"100,17",( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2020,"0,2417",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2020,"0,107",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2020,13020,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2020,"0,169",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2020,"0,0162",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2020,"0,0826",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2020,"0,4117",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2021,15456,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2021,32516,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2021,"0,0885",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2021,37779,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2021,"0,1316",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2593,Gestion des matières résiduelles,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,IGMR100009,MAMH,Montréal,2021,"96,7",( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2021,"0,2709",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2021,"0,1266",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2021,13349,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2021,"0,1712",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2021,"0,021",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2021,"0,0966",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2021,"0,4154",VGMR900012 / (VGMR900012 + VGMR900013)
+2481,Infrastructures routières,Coût de l’enlèvement de la neige par kilomètre de voie (incluant l’amortissement),$,ITRA100001,MAMH,Montréal,2022,18662,( VTRA100019 - VTRA900024 + VTRA100021 ) / VTRA900050
+2529,Gestion de l'eau,Coût de distribution de l'eau potable par kilomètre de conduite (incluant l'amortissement),$,IEAU100002,MAMH,Montréal,2022,33513,( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900063
+2558,Sécurité incendie,Coût de la sécurité incendie par 100 $ d’évaluation (incluant l’amortissement),$,IINC100017,MAMH,Montréal,2022,"0,0813",( VINC100015 - VINC100008 + VINC100016 ) / VADM100025 * 100
+2559,Infrastructures routières,Coût de la voirie municipale par kilomètre de voie (incluant l’amortissement),$,ITRA100008,MAMH,Montréal,2022,38195,( VTRA100017 - VTRA100023 + VTRA100018 ) / VTRA900050
+2591,Gestion de l'eau,Coût d'approvisionnement et de traitement par mètre cube d'eau (incluant l'amortissement),$,IEAU100016,MAMH,Montréal,2022,"0,1446",( VEAU100004 + VEAU100005 ) / ( VEAU900006 )
+2593,Gestion des matières résiduelles,Coût de la collecte des déchets domestiques et assimilés par local (incluant l’amortissement),$,IGMR100009,MAMH,Montréal,2022,"101,65",( VGMR100008 + VGMR100009 - VGMR100020 ) / VGMR900015
+2596,Gestion de l'eau,Coût de distribution par mètre cube d’eau (incluant l’amortissement),$,IEAU100019,MAMH,Montréal,2022,"0,2955",( VEAU100001 - VEAU100035 + VEAU100002 ) / VEAU900006
+2598,Gestion de l'eau,Coût de traitement par mètre cube eaux usées (incluant l'amortissement),$,IEAU100021,MAMH,Montréal,2022,"0,1236",( VEAU100012 + VEAU100013 ) / VEAU900031
+2600,Gestion de l'eau,Coût des réseaux d'égouts par kilomètre de conduite (incluant l'amortissement),$,IEAU100023,MAMH,Montréal,2022,14217,( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900023
+2602,Gestion des matières résiduelles,Rendement moyen annuel de la collecte sélective,Ratio,IGMR100011,MAMH,Montréal,2022,"0,1626",VGMR900012 / VPOP900002
+2604,Ressources humaines,Pourcentage du coût de la formation par rapport à la rémunération totale,Ratio,IRHU100005,MAMH,Montréal,2022,"0,0198",VRHU100021 / VRHU100022
+2623,Gestion de l'eau,Coût des réseaux d'égouts par mètre cube d'eaux usées (incluant l'amortissement),$,IEAU100025,MAMH,Montréal,2022,"0,0931",( VEAU100009 - VEAU100033 + VEAU100010 ) / VEAU900031
+2678,Gestion des matières résiduelles,Taux annuel de diversion pour la gestion des matières résiduelles,Ratio,IGMR900013,MAMH,Montréal,2022,"0,4156",VGMR900012 / (VGMR900012 + VGMR900013)
