@@ -1,0 +1,20 @@
+{"name":"CentreCommercial","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5645778221611,45.6007057832883]},"properties":{"NOM":"Galeries d'Anjou","TYPE":"Centre commercial de +/- 1 million pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8313172947344,45.4639016278929]},"properties":{"NOM":"Fairview Pointe-Claire","TYPE":"Centre commercial de +/- 1 million pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5419579162015,45.592315353193]},"properties":{"NOM":"Place Versailles","TYPE":"Centre commercial 300 000 - 900 000 pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6480165962321,45.5284323147835]},"properties":{"NOM":"Centre Rockland","TYPE":"Centre commercial 300 000 - 900 000 pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7064395297088,45.4987298916178]},"properties":{"NOM":"Place Vertu","TYPE":"Centre commercial 300 000 - 900 000 pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6154979755268,45.4476957683205]},"properties":{"NOM":"Carrefour Angrignon","TYPE":"Centre commercial 300 000 - 900 000 pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6131915380826,45.6069605096176]},"properties":{"NOM":"Place Bourassa","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5992498310517,45.6110390182593]},"properties":{"NOM":"(Renaude-Lapointe / H-B)","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5869079147803,45.6098934957567]},"properties":{"NOM":"(Renaude-Lapointe)","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6542904829054,45.5345804936397]},"properties":{"NOM":"Marché Central","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7054804518605,45.4921381852741]},"properties":{"NOM":"Le Bazar","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7922005617956,45.4833048793931]},"properties":{"NOM":"Galeries des Sources","TYPE":"Centre commercial 300 000 - 900 000 pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8202907451852,45.4616960496748]},"properties":{"NOM":"Centre Terrarium","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5707765908121,45.5922129404919]},"properties":{"NOM":"Carrefour Langelier","TYPE":"Centre commercial 300 000 - 900 000 pi. ca.","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8582390067931,45.4547697567015]},"properties":{"NOM":"Piazz'Azzurri","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7981073928835,45.4802443991822]},"properties":{"NOM":"Méga Centre des Sources","TYPE":"Mégacentre","Zone":"Interieur"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6099914239078,45.4519157648893]},"properties":{"NOM":"","TYPE":"Mégacentre","Zone":"Interieur"}}
+]}

@@ -1,0 +1,55 @@
+{"name":"EqSportifRecreatif","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6367827598834,45.5521724558083]},"properties":{"NOM":"Complexe sportif Claude-Robillard","TYPE":"centre sportif","RAYONNEMEN":"métropolitain","Numero":"7"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5496320158525,45.5628819933392]},"properties":{"NOM":"Centre Pierre-Charbonneau","TYPE":"centre sportif","RAYONNEMEN":"métropolitain","Numero":"17"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5524243907854,45.5565506374184]},"properties":{"NOM":"Stade olympique","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"14"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6271703269898,45.5330034882907]},"properties":{"NOM":"Stade Uniprix et Centre de tennis du parc Jarry","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5786405458252,45.5102637645845]},"properties":{"NOM":"Stade Percival-Molson","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"6"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5532064589422,45.5636025341199]},"properties":{"NOM":"Stade Saputo","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"16"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6058410426452,45.5101727366999]},"properties":{"NOM":"Terrain extérieur du Centre d'éducation physique et des sports de l'Université de Montréal (CEPSUM)","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"4"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6367940880732,45.5548611170844]},"properties":{"NOM":"Stade du Complexe sportif Claude-Robillard","TYPE":"stade","RAYONNEMEN":"agglomération","Numero":"X"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5494524745808,45.5604133601871]},"properties":{"NOM":"Aréna Maurice-Richard","TYPE":"aréna","RAYONNEMEN":"métropolitain","Numero":"18"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5692888491639,45.4960597364222]},"properties":{"NOM":"Centre Bell","TYPE":"aréna","RAYONNEMEN":"métropolitain","Numero":"5"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.53422290061,45.512768060174]},"properties":{"NOM":"Complexe aquatique de l'île Sainte-Hélène","TYPE":"Piscine","RAYONNEMEN":"métropolitain","Numero":"9"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5230387456555,45.5015337163311]},"properties":{"NOM":"Circuit Gilles-Villeneuve","TYPE":"piste de course automobile","RAYONNEMEN":"métropolitain","Numero":"8"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5254395009155,45.513739637897]},"properties":{"NOM":"Bassin olympique d'aviron et de canoë-kayak","TYPE":"bassin d'aviron","RAYONNEMEN":"métropolitain","Numero":"10"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.552802355916,45.5589574078169]},"properties":{"NOM":"Centre sportif du parc olympique (CSPO)","TYPE":"Piscine","RAYONNEMEN":"métropolitain","Numero":"15"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6069927656363,45.5653877262755]},"properties":{"NOM":"Aréna Saint-Michel","TYPE":"aréna","RAYONNEMEN":"métropolitain","Numero":"12"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9024925782069,45.494097587661]},"properties":{"NOM":"Club de golf Royal Montréal","TYPE":"golf","RAYONNEMEN":"métropolitain","Numero":"1"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6353964501525,45.4586316918016]},"properties":{"NOM":"Stade de l'Université Concordia","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5929805746269,45.5738410341633]},"properties":{"NOM":"Stade du parc Hébert","TYPE":"stade","RAYONNEMEN":"métropolitain","Numero":"13"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6096937375375,45.510906879668]},"properties":{"NOM":"Stade d'hiver du CEPSUM","TYPE":"aréna","RAYONNEMEN":"agglomération","Numero":"N"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6240963996842,45.4925744106411]},"properties":{"NOM":"Aréna du Collège Notre-Dame","TYPE":"aréna","RAYONNEMEN":"agglomération","Numero":"L"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5827850001511,45.5123971414842]},"properties":{"NOM":"Stade d'hiver de l'Université McGill","TYPE":"aréna","RAYONNEMEN":"agglomération","Numero":"S"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6117744257161,45.5067246082302]},"properties":{"NOM":"Centre multisports du CEPSUM","TYPE":"centre sportif","RAYONNEMEN":"agglomération","Numero":"M"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5843287075286,45.5075517779905]},"properties":{"NOM":"Centre sportif de l'Université McGill","TYPE":"centre sportif","RAYONNEMEN":"agglomération","Numero":"R"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5360240607992,45.5253209786701]},"properties":{"NOM":"La Ronde","TYPE":"parc d'attraction","RAYONNEMEN":"métropolitain","Numero":"11"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9408420817783,45.4442845261277]},"properties":{"NOM":"Parc agricole du Bois-de-la-Roche","TYPE":"Parc projeté","RAYONNEMEN":"agglomération","Numero":"A"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6032889391057,45.4419500818596]},"properties":{"NOM":"Parc Angrignon","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"J"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6296702021133,45.5637984755163]},"properties":{"NOM":"Parc du Complexe environnemental de Saint-Michel","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"BB"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5904884400035,45.5049562982904]},"properties":{"NOM":"Parc du Mont-Royal","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"O"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6276265408426,45.5351991046916]},"properties":{"NOM":"Parc Jarry","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"W"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5270377434284,45.505607361936]},"properties":{"NOM":"Parc Jean-Drapeau","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"U"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5685504375652,45.5265315998365]},"properties":{"NOM":"Parc La Fontaine","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"V"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5605455104129,45.5649081250797]},"properties":{"NOM":"Parc Maisonneuve","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"DD"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5122921655419,45.6771676228916]},"properties":{"NOM":"Parc-nature de la Pointe-aux-Prairies","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"HH"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9256498765166,45.4511647956962]},"properties":{"NOM":"Parc-nature de l'Anse-à-l'Orme","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"C"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.657762257998,45.5788791375631]},"properties":{"NOM":"Parc-nature de l'Île-de-la-Visitation","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"Z"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7592585544518,45.5102953486321]},"properties":{"NOM":"Parc-nature du Bois-de-Liesse","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"G"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8848576193495,45.5058543743675]},"properties":{"NOM":"Parc-nature du Bois-de-l'Île-Bizard","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"D"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7418989402578,45.5145431546344]},"properties":{"NOM":"Parc-nature du Bois-de-Saraguay","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"H"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9314405961109,45.4639622760487]},"properties":{"NOM":"Parc-nature du Cap-Saint-Jacques","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"B"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5089349233114,45.6079731244589]},"properties":{"NOM":"Parc de la Promenade-Bellerive","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"GG"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6294026454157,45.5581145749279]},"properties":{"NOM":"Centre de soccer du Complexe environnemental de Saint-Michel","TYPE":"centre sportif","RAYONNEMEN":"agglomération","Numero":"AA"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5434079435948,45.5056107313649]},"properties":{"NOM":"Parc de la Cité-du-Havre","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"T"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.585848885573,45.5163110394868]},"properties":{"NOM":"Parc Jeanne-Mance","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"Q"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5928966161547,45.4280273698165]},"properties":{"NOM":"Parc des Rapides","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"K"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6810497911001,45.4286936092928]},"properties":{"NOM":"Parc René-Lévesque","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"I"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8409196444296,45.5155369980185]},"properties":{"NOM":"Parc-nature des Rapides-du-Cheval-Blanc","TYPE":"Parc projeté","RAYONNEMEN":"agglomération","Numero":"E"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5676159299915,45.6306886860772]},"properties":{"NOM":"Parc-nature du Bois-d'Anjou","TYPE":"Parc projeté","RAYONNEMEN":"agglomération","Numero":"FF"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6062494573563,45.6227302998264]},"properties":{"NOM":"Parc-nature du Ruisseau-De Montigny","TYPE":"parc","RAYONNEMEN":"agglomération","Numero":"EE"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6099377295245,45.5072967620778]},"properties":{"NOM":"Parc du Troisième Sommet","TYPE":"Parc projeté","RAYONNEMEN":"agglomération","Numero":"P"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6163522915801,45.5685184727962]},"properties":{"NOM":"Piscine Georges-Vernot","TYPE":"Piscine","RAYONNEMEN":"agglomération","Numero":"CC"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6315248841117,45.5600134774872]},"properties":{"NOM":"Le Taz","TYPE":"centre sportif","RAYONNEMEN":"agglomération","Numero":"Y"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7629161756742,45.4742491309108]},"properties":{"NOM":"Parc-nature des Sources","TYPE":"Parc projeté","RAYONNEMEN":"agglomération","Numero":"F"}}
+]}

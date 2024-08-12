@@ -1,0 +1,16 @@
+{"name":"EqUniversitaire","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.614910949959,45.5027169959248]},"properties":{"NOM":"Université de Montréal - Campus de la montagne","Numero":"60"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6215630022376,45.5036529670161]},"properties":{"NOM":"École des hautes études commerciales de Montréal (HEC)","Numero":"59"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6128419987266,45.5045280073639]},"properties":{"NOM":"École Polytechnique de Montréal","Numero":"61"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5597709663742,45.5137890464757]},"properties":{"NOM":"Université du Québec à Montréal (UQAM)","Numero":"69"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5624930454851,45.4945700409229]},"properties":{"NOM":"École de technologie supérieure (ETS)","Numero":"63"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5776139940065,45.5052510412383]},"properties":{"NOM":"Université McGill - Campus du centre-ville","Numero":"64"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5780629781635,45.4967419847276]},"properties":{"NOM":"Université Concordia - Campus Sir George Williams","Numero":"62"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5678678949428,45.5167161106946]},"properties":{"NOM":"Institut national de recherche scientifique (INRS) - Centre Urbanisation Culture Société","Numero":"68"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5857969944098,45.5231841098343]},"properties":{"NOM":"École nationale d'administration publique (ENAP) - Campus Montréal","Numero":"67"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9389525602557,45.4069838689839]},"properties":{"NOM":"Université McGill - Campus Macdonald","Numero":"57"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6404433089928,45.4589298014554]},"properties":{"NOM":"Université Concordia - Campus Loyola","Numero":"58"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6183444420359,45.523887592586]},"properties":{"NOM":"Université de Montréal - Campus Outremont (projeté)","Numero":"65"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6256839381382,45.5300404865415]},"properties":{"NOM":"École des arts numériques, de l'animation et du design (NAD)","Numero":"66"}}
+]}

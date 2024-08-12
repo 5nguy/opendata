@@ -1,0 +1,61 @@
+{"name":"EqCollegial","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6406060023515,45.5442510133797]},"properties":{"NOM":"Institut supérieur d'informatique I.S.I.","Numero":"11"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5586029726028,45.5017160222471]},"properties":{"NOM":"Institut d'enregistrement du Canada","Numero":"43"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5806081665966,45.4925239863424]},"properties":{"NOM":"École du Show-Business","Numero":"30"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8315029894591,45.468085971485]},"properties":{"NOM":"Collège CDI (Pointe-Claire)","Numero":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6249871187723,45.5309737908402]},"properties":{"NOM":"Collège d'enseignement en immobilier","Numero":"35"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5549190208064,45.5404339750216]},"properties":{"NOM":"Institut Teccart","Numero":"56"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5572889756329,45.5027220007797]},"properties":{"NOM":"École de sténographie judiciaire du Québec","Numero":"44"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5520150376342,45.4664330222583]},"properties":{"NOM":"Collège de l'immobilier du Québec","Numero":"10"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6434180059594,45.490470989239]},"properties":{"NOM":"Collège TAV","Numero":"21"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6275899656937,45.5157030119979]},"properties":{"NOM":"Collège Ellis à Montréal","Numero":"32"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6757800249425,45.4322519835876]},"properties":{"NOM":"Collégial international Sainte-Anne","Numero":"4"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6128450435627,45.5118629666817]},"properties":{"NOM":"École de musique Vincent-d'Indy","Numero":"33"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6155159730772,45.5182049698761]},"properties":{"NOM":"Collège Stanislas","Numero":"34"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5694819538557,45.5059909787779]},"properties":{"NOM":"Collège CDI (centre-ville)","Numero":"40"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6327880383945,45.5508589633901]},"properties":{"NOM":"Collège André-Grasset","Numero":"13"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5815539547154,45.491317999004]},"properties":{"NOM":"Collège LaSalle","Numero":"29"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5422750141342,45.5502659752908]},"properties":{"NOM":"Collège de photographie Marsan","Numero":"18"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6230439807035,45.5016130405377]},"properties":{"NOM":"Collège Jean-de-Brébeuf","Numero":"26"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6242640010156,45.4900960213617]},"properties":{"NOM":"Collège international Marie de France","Numero":"24"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5734219610942,45.4974139799534]},"properties":{"NOM":"Collège O'Sullivan de Montréal","Numero":"37"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.618701543336,45.5277031739625]},"properties":{"NOM":"Conservatoire Lassalle","Numero":"36"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5685655139136,45.5176378779403]},"properties":{"NOM":"Institut de tourisme et d'hôtellerie du Québec","Numero":"50"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5889879635611,45.5262700126532]},"properties":{"NOM":"École nationale de théâtre du Canada","Numero":"46"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6131800194613,45.4755170156503]},"properties":{"NOM":"Collège Centennale","Numero":"22"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6115189719623,45.4812010110332]},"properties":{"NOM":"Collège Marianopolis","Numero":"23"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5660788943815,45.5208874066751]},"properties":{"NOM":"Collège April-Fortier","Numero":"52"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6174250386958,45.4896190028855]},"properties":{"NOM":"Collège international des Marcellines","Numero":"25"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5722830430722,45.5056309791199]},"properties":{"NOM":"Institut Trebas","Numero":"39"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5670750460192,45.5056990408589]},"properties":{"NOM":"École de danse contemporaine de Montréal","Numero":"42"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5749079769493,45.4929710454401]},"properties":{"NOM":"Collège Herzing","Numero":"31"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.582285511304,45.4907883241543]},"properties":{"NOM":"Collège Inter-Dec","Numero":"28"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.663326985735,45.4958810141796]},"properties":{"NOM":"Collège technique de Montréal","Numero":"7"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5669219933127,45.5171030253234]},"properties":{"NOM":"Collège Salette","Numero":"51"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5593280137526,45.5166209909746]},"properties":{"NOM":"Musitechnic Formation","Numero":"53"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6136380215769,45.5617610198615]},"properties":{"NOM":"École nationale de cirque","Numero":"14"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5625239797725,45.5310010138778]},"properties":{"NOM":"École nationale de l'humour","Numero":"55"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6719919707657,45.5122079619062]},"properties":{"NOM":"Cégep de Saint-Laurent","Numero":"6"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6422410361001,45.5518860048815]},"properties":{"NOM":"Collège d'Ahuntsic","Numero":"12"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.675661972578,45.5379789720824]},"properties":{"NOM":"Collège de Bois-de-Boulogne","Numero":"9"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5817839622577,45.5570190443533]},"properties":{"NOM":"Collège de Rosemont","Numero":"16"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5537349522527,45.5504520335014]},"properties":{"NOM":"Collège de Maisonneuve","Numero":"17"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5677372170767,45.5143660004787]},"properties":{"NOM":"Cégep du Vieux Montréal","Numero":"48"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5824590146502,45.5402909755114]},"properties":{"NOM":"École nationale du meuble et de l'ébénisterie à Montréal","Numero":"54"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6053709875549,45.4363760393038]},"properties":{"NOM":"Cégep André-Laurendeau","Numero":"8"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5879700509678,45.4898170108737]},"properties":{"NOM":"Collège Dawson","Numero":"27"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6750739494024,45.5145390443362]},"properties":{"NOM":"Cégep Vanier","Numero":"5"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9419009584296,45.4060179625974]},"properties":{"NOM":"Cégep John Abbott","Numero":"1"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.605347043083,45.6176200170676]},"properties":{"NOM":"Cégep Marie-Victorin","Numero":"20"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8690010423395,45.483359961951]},"properties":{"NOM":"Cégep Gérald-Godin","Numero":"2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5729736622165,45.499622276825]},"properties":{"NOM":"Collège Canada","Numero":"38"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6027540698429,45.5474520703377]},"properties":{"NOM":"Collège St-Michel","Numero":"15"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5866672495743,45.5262732600651]},"properties":{"NOM":"École supérieure de ballet du Québec","Numero":"47"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5680298473744,45.506572718248]},"properties":{"NOM":"École de danse contemporaine de Montréal (projeté)","Numero":"41"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5662202385499,45.514493746861]},"properties":{"NOM":"Institut des métiers d'art (IMA) du Cégep du Vieux Montréal\r\n","Numero":"49"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5450402612746,45.5789354086161]},"properties":{"NOM":"Institut des procédés industriels (IPI) du Collège de Maisonneuve","Numero":"19"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.586491308879,45.5234829647558]},"properties":{"NOM":"Conservatoire de musique et d'art dramatique du Québec","Numero":"45"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5624508745575,45.6015908501858]},"properties":{"NOM":"Collège CDI (Anjou)","Numero":"71"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8444283313729,45.4808156513604]},"properties":{"NOM":"Cégep Gérald-Godin – Formation continue et services aux entreprises","Numero":"70"}}
+]}

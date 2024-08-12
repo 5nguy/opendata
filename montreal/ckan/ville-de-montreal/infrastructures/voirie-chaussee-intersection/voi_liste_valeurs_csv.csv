@@ -1,0 +1,180 @@
+﻿ATTRIBUT,REFERENCE
+CATEGORIECHAUSSEE_REF,Autoroute
+CATEGORIECHAUSSEE_REF,Autoroute accotement
+CATEGORIECHAUSSEE_REF,Bretelle
+CATEGORIECHAUSSEE_REF,Bretelle accotement
+CATEGORIECHAUSSEE_REF,Chemin privé
+CATEGORIECHAUSSEE_REF,Inconnu
+CATEGORIECHAUSSEE_REF,NULL
+CATEGORIECHAUSSEE_REF,Non applicable
+CATEGORIECHAUSSEE_REF,Rue
+CATEGORIECHAUSSEE_REF,Ruelle
+CATEGORIETROTTOIR_REF,Bordure
+CATEGORIETROTTOIR_REF,Bordure - autoroute
+CATEGORIETROTTOIR_REF,Inconnu
+CATEGORIETROTTOIR_REF,NULL
+CATEGORIETROTTOIR_REF,Non applicable
+CATEGORIETROTTOIR_REF,Sentier
+CATEGORIETROTTOIR_REF,Trottoir
+CATEGORIETROTTOIR_REF,Trottoir - autoroute
+DATECONSTRUCTIONPREC_REF,DATE construction +/- 10 ans
+DATECONSTRUCTIONPREC_REF,DATE construction +/- 100 ans maximum
+DATECONSTRUCTIONPREC_REF,DATE construction +/- 25 ans
+DATECONSTRUCTIONPREC_REF,DATE construction +/- 5 ans maximum
+DATECONSTRUCTIONPREC_REF,DATE construction +/- 6 mois maximum
+DATECONSTRUCTIONPREC_REF,DATE construction dans année courante
+DATECONSTRUCTIONPREC_REF,DATE construction précise
+DATECONSTRUCTIONPREC_REF,DATE construction précise au mois courant
+DATECONSTRUCTIONPREC_REF,Inconnu
+DATECONSTRUCTIONPREC_REF,NULL
+DATECONSTRUCTIONPREC_REF,Non applicable
+MATERIAU_REF,Agrégat
+MATERIAU_REF,Aménagement paysager
+MATERIAU_REF,Asphalte
+MATERIAU_REF,Asphalte et béton
+MATERIAU_REF,Asphalte et pavé
+MATERIAU_REF,Bois
+MATERIAU_REF,Béton
+MATERIAU_REF,Béton et pavé
+MATERIAU_REF,Gazon
+MATERIAU_REF,Granit
+MATERIAU_REF,Inconnu
+MATERIAU_REF,Métal
+MATERIAU_REF,NULL
+MATERIAU_REF,Non applicable
+MATERIAU_REF,Pavé
+MATERIAU_REF,Pierre concassée (Gravier)
+MATERIAU_REF,Poussière de roche
+MATERIAU_REF,Structure béton
+MATERIAU_REF,Structure métal
+POSITION_REF,Actif de voirie (1) de type pont situé au-dessus de cours d'eau ou d'autres actifs
+POSITION_REF,Actif de voirie (2) de type viaduc situé au-dessus d'autres actifs
+POSITION_REF,Actif de voirie (3) de type viaduc situé au-dessous d'un actif de voirie de position 2
+POSITION_REF,Actif de voirie (4) de type viaduc situé au-dessous d'un actif de voirie de position 3
+POSITION_REF,Actif de voirie (5) situé au sol
+POSITION_REF,Actif de voirie (6) de type passage situé au-dessous d'autres actifs
+POSITION_REF,Actif de voirie (7) de type tunnel situé au-dessous d'autres actifs
+POSITION_REF,Actif de voirie (8) de type tunnel situé au-dessous d'un actif de voirie de position 7
+POSITION_REF,Actif de voirie (9) de type tunnel situé au-dessous d'un actif de voirie de position 8
+PRESENCEARBRE_REF,Inconnu
+PRESENCEARBRE_REF,NULL
+PRESENCEARBRE_REF,Non
+PRESENCEARBRE_REF,Non applicable
+PRESENCEARBRE_REF,Oui
+PROPRIETAIRE_REF,Ahuntsic - Cartierville
+PROPRIETAIRE_REF,Anjou
+PROPRIETAIRE_REF,Baie Urfé
+PROPRIETAIRE_REF,Beaconsfield
+PROPRIETAIRE_REF,Côte-Des-Neiges - Notre-Dame-de-Grâce
+PROPRIETAIRE_REF,Côte-Saint-Luc
+PROPRIETAIRE_REF,Dollard-des-Ormeaux
+PROPRIETAIRE_REF,Dorval - Ile Dorval
+PROPRIETAIRE_REF,Hampstead
+PROPRIETAIRE_REF,Inconnu
+PROPRIETAIRE_REF,Kirkland
+PROPRIETAIRE_REF,Lachine
+PROPRIETAIRE_REF,Lasalle
+PROPRIETAIRE_REF,Mercier - Hochelaga-Maisonneuve
+PROPRIETAIRE_REF,Ministère Transport Québec
+PROPRIETAIRE_REF,Mont-Royal
+PROPRIETAIRE_REF,Montreal-Nord
+PROPRIETAIRE_REF,Montréal
+PROPRIETAIRE_REF,Montréal-Est
+PROPRIETAIRE_REF,Montréal-Ouest
+PROPRIETAIRE_REF,NULL
+PROPRIETAIRE_REF,Non applicable
+PROPRIETAIRE_REF,Outremont
+PROPRIETAIRE_REF,Pierrefonds - Roxboro
+PROPRIETAIRE_REF,Plateau - Mont-Royal
+PROPRIETAIRE_REF,Pointe-Claire
+PROPRIETAIRE_REF,Privé
+PROPRIETAIRE_REF,Rivière-Des-Prairies - Pointe-Aux-Trembles
+PROPRIETAIRE_REF,Rosemont - La Petite-Patrie
+PROPRIETAIRE_REF,Saint-Laurent
+PROPRIETAIRE_REF,Saint-Léonard
+PROPRIETAIRE_REF,Sainte-Anne-de-Bellevue
+PROPRIETAIRE_REF,Senneville
+PROPRIETAIRE_REF,Société Transport Montréal
+PROPRIETAIRE_REF,Sud-Ouest
+PROPRIETAIRE_REF,Verdun
+PROPRIETAIRE_REF,Ville-Marie
+PROPRIETAIRE_REF,Villeray - St-Michel - Parc-Extension
+PROPRIETAIRE_REF,Westmount
+PROPRIETAIRE_REF,Île-Bizard - Sainte-Geneviève
+SAILLIE_REF,Inconnu
+SAILLIE_REF,NULL
+SAILLIE_REF,Non
+SAILLIE_REF,Non applicable
+SAILLIE_REF,Oui
+TYPEBORDURE_REF,Bordure simple
+TYPEBORDURE_REF,Bordure surélevée (New Jersey)
+TYPEBORDURE_REF,Bordure virtuelle
+TYPEBORDURE_REF,Bordure-caniveau
+TYPEBORDURE_REF,Inconnu
+TYPEBORDURE_REF,Mur de soutènement
+TYPEBORDURE_REF,Muret
+TYPEBORDURE_REF,NULL
+TYPEBORDURE_REF,Non applicable
+TYPEFONDATION_REF,Inconnu
+TYPEFONDATION_REF,Mixte
+TYPEFONDATION_REF,NULL
+TYPEFONDATION_REF,Non applicable
+TYPEFONDATION_REF,Rigide
+TYPEFONDATION_REF,Souple
+TYPEFONDATION_REF,Souple + Polystyrène 
+TYPEILOT_REF,Ilot central
+TYPEILOT_REF,Ilot central - autoroute
+TYPEILOT_REF,Ilot central giratoire
+TYPEILOT_REF,Ilot déviateur
+TYPEILOT_REF,Ilot séparateur
+TYPEILOT_REF,Inconnu
+TYPEILOT_REF,NULL
+TYPEILOT_REF,Non applicable
+TYPEILOT_REF,Terre-plein central
+TYPEILOT_REF,Terre-plein central - autoroute
+TYPEILOT_REF,Terre-plein latéral - autoroute
+TYPEILOT_REF,Terre-plein latéral - cyclable
+TYPEILOT_REF,Terre-plein latéral - voirie
+TYPEINTERSECTION_REF,Accès - Passage de piétons avec feux de circulation
+TYPEINTERSECTION_REF,Inconnu
+TYPEINTERSECTION_REF,Intersection de chemins privés
+TYPEINTERSECTION_REF,Intersection de rues
+TYPEINTERSECTION_REF,NULL
+TYPEINTERSECTION_REF,Non applicable
+TYPETROTTOIR_REF,Inconnu
+TYPETROTTOIR_REF,NULL
+TYPETROTTOIR_REF,Non applicable
+TYPETROTTOIR_REF,Trottoir boulevard
+TYPETROTTOIR_REF,Trottoir monolithe
+TYPETROTTOIR_REF,Trottoir simple
+TYPEUSAGECYCLABLE_REF,Bande cyclable avec mail
+TYPEUSAGECYCLABLE_REF,Chaussée désignée
+TYPEUSAGECYCLABLE_REF,Inconnu
+TYPEUSAGECYCLABLE_REF,NULL
+TYPEUSAGECYCLABLE_REF,Non applicable
+TYPEUSAGECYCLABLE_REF,Piste cyclable sans mail
+TYPEUSAGECYCLABLE_REF,Traverse de piétons - vélo
+TYPEUSAGECYCLABLE_REF,Trottoir cyclable P-120-11
+TYPEUSAGECYCLABLE_REF,Trottoir cyclable exclusif
+TYPEUSAGECYCLABLE_REF,Trottoir désigné
+TYPEUSAGECYCLABLE_REF,Voie cyclable - Bande cyclable
+TYPEUSAGECYCLABLE_REF,Voie cyclable - Piste cyclable
+TYPEZONE_REF,Inconnu
+TYPEZONE_REF,NULL
+TYPEZONE_REF,Non applicable
+TYPEZONE_REF,Non traitée
+TYPEZONE_REF,Urbaine
+TYPEZONE_REF,Voirie
+TYPEZONE_REF,Zone autoroute
+UTILISATION_REF,Aménagement
+UTILISATION_REF,Inconnu
+UTILISATION_REF,NULL
+UTILISATION_REF,Non applicable
+UTILISATION_REF,Passage à niveau
+UTILISATION_REF,Piéton
+UTILISATION_REF,Rue verte
+UTILISATION_REF,Ruelle verte
+UTILISATION_REF,Tramway
+UTILISATION_REF,Traverse de piétons
+UTILISATION_REF,Voie cyclable
+UTILISATION_REF,Véhicule

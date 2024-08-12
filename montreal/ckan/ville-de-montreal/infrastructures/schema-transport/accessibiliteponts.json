@@ -1,0 +1,24 @@
+{"name":"AccessibilitePonts","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.95587293664,45.4030907581065]},"properties":{"Ponts":"Pont Galipeault","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9784871287321,45.4207394768264]},"properties":{"Ponts":"Pont de l'Île-aux-Tourtes","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8681425811339,45.487572691526]},"properties":{"Ponts":"Pont Jacques-Bizard","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.764685619459,45.5114855483902]},"properties":{"Ponts":"Pont Louis-Bisson","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7282425087239,45.5330306200704]},"properties":{"Ponts":"Pont Lachapelle","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7120583297484,45.5402464015368]},"properties":{"Ponts":"Pont Médéric-Martin","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.69945138405,45.547988404972]},"properties":{"Ponts":"Pont ferroviaire","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6756772537086,45.5573696953385]},"properties":{"Ponts":"Pont Viau","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6670548700097,45.5763484369683]},"properties":{"Ponts":"Pont Papineau-Leblanc","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6468519060518,45.5991671991354]},"properties":{"Ponts":"Pont Pie-IX","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6187938212097,45.636485230598]},"properties":{"Ponts":"Pont Olivier-Charbonneau","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5088440327027,45.7022333301304]},"properties":{"Ponts":"Pont Charles-de-Gaulle","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4836902297063,45.7035882721297]},"properties":{"Ponts":"Pont Le Gardeur","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4997703426125,45.583605861817]},"properties":{"Ponts":"Pont-tunnel Louis-H.-La Fontaine","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5419306670106,45.521738205614]},"properties":{"Ponts":"Pont Jacques-Cartier","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5393636013386,45.5061256800941]},"properties":{"Ponts":"Pont de la Concorde","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5312812352275,45.4910237974131]},"properties":{"Ponts":"Pont Victoria","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5226620571651,45.468827836839]},"properties":{"Ponts":"Pont Champlain","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5173970208049,45.4656854994916]},"properties":{"Ponts":"Estacade","Acces":"oui"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6547387860696,45.4174236356866]},"properties":{"Ponts":"Pont Honoré-Mercier","Acces":"non"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8476289290877,45.516262544657]},"properties":{"Ponts":"Pont ferroviaire","Acces":"non"}}
+]}

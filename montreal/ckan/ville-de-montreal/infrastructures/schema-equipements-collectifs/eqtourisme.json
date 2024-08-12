@@ -1,0 +1,16 @@
+{"name":"EqTourisme","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5600467303681,45.5048096255529]},"properties":{"Nom":"Palais des congrès de Montréal","Type":"congrès, salon ou foire","Interet":"Métropolitain","Numero":"2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5648340041728,45.4988068118082]},"properties":{"Nom":"Place Bonaventure - halls d'exposition","Type":"congrès, salon ou foire","Interet":"Métropolitain","Numero":"1"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5517816188053,45.5579650330302]},"properties":{"Nom":"Stade olympique de Montréal","Type":"congrès, salon ou foire","Interet":"Métropolitain","Numero":"4"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5747036178273,45.5025653596273]},"properties":{"Nom":"Centre Mont-Royal","Type":"congrès, salon ou foire","Interet":"Agglomération","Numero":"C"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5515275668629,45.5089510365674]},"properties":{"Nom":"Marché Bonsecours","Type":"congrès, salon ou foire","Interet":"Agglomération","Numero":"H"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6271703269898,45.5330034882907]},"properties":{"Nom":"Stade Uniprix","Type":"congrès, salon ou foire","Interet":"Métropolitain","Numero":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5675618905591,45.5005892617191]},"properties":{"Nom":"Hôtel Fairmount Le Reine Elizabeth","Type":"hôtel avec congrès","Interet":"Agglomération","Numero":"D"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5650085737696,45.4994377882469]},"properties":{"Nom":"Hôtel Hilton Montréal Bonaventure","Type":"hôtel avec congrès","Interet":"Agglomération","Numero":"E"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5716158435591,45.498104470857]},"properties":{"Nom":"Hôtel Le Centre Sheraton Montréal","Type":"hôtel avec congrès","Interet":"Agglomération","Numero":"B"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5596193263906,45.5035417161852]},"properties":{"Nom":"Hôtel Le Westin Montréal","Type":"hôtel avec congrès","Interet":"Agglomération","Numero":"G"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5653740010544,45.507282549416]},"properties":{"Nom":"Hôtel Hyatt Regency Montréal","Type":"hôtel avec congrès","Interet":"Agglomération","Numero":"F"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6919091210981,45.4841940696026]},"properties":{"Nom":"Hôtel Crowne Plaza Montréal Aéroport","Type":"hôtel avec congrès","Interet":"Agglomération","Numero":"A"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5254378458461,45.5057584944465]},"properties":{"Nom":"Casino de Montréal\r\nCasino de Montréal\r\nCasino de Montréal","Type":"Casino","Interet":"Agglomération","Numero":"I"}}
+]}
