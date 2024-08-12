@@ -1,0 +1,33 @@
+IdentifiantDepot,NomDepot,TypeDepot,Capacite,Latitude,Longitude,VolumeDeverse,IdentifiantArrondissement,ArrondissementCode,Arrondissement,MTM8_X,MTM8_Y
+41,"Saint-Pierre (CDN)","Chute_Egout",0,45.440517,-73.652528,100219.48,25,"CDN","Côte-des-Neiges / Notre-Dame-de-Grâce",292867.4,5033409.6
+55,"Saint-Pierre (LAC)","Chute_Egout",0,45.467577,-73.598836,309906.76,15,"LAC","Lachine",297071.5,5036410.2
+56,"Lausanne (MTN)","Chute_Egout",0,45.587811,-73.648882,121720.42,14,"MTN","Montréal-Nord",293182.9,5049778
+35,"De la Salle (MHM)","Chute_Egout",0,45.549463,-73.531399,505298.84,21,"MHM","Mercier / Hochelaga / Maisonneuve",302348.3,5045506
+37,"Fullum (VMA)","Chute_Egout",0,45.524818,-73.545051,744375.95,18,"VMA","Ville-Marie",301280.8,5042767.7
+42,"Butler (S-O)","Chute_Egout",0,45.474879,-73.569028,476375.51,19,"S-O","Sud-Ouest",299403,5037219.3
+44,"Verdun (VER)","Chute_Egout",0,45.471204,-73.55985,344635.49,10,"VER","Verdun",300120.3,5036810.3
+28,"Sauvé (AHU)","Chute_Egout",0,45.540365,-73.664776,193042,22,"AHU","Ahuntsic / Cartierville",291931.9,5044507.7
+51,"Jules-Poitras 2 (SLA)","Chute_Egout",0,45.529281,-73.686676,178680.65,13,"SLA","Saint-Laurent",290218.8,5043279.6
+60,"Riverside (VMA)","Chute_Egout",0,45.4909,-73.552162,221711.79,18,"VMA","Ville-Marie",300722.9,5038998.7
+62,"Blue Bonnets 2","Entassement",1500000,45.491779,-73.655276,27060.65,25,"CDN","Côte-des-Neiges / Notre-Dame-de-Grâce",292663.4,5039106.8
+29,"Poincaré (AHU)","Chute_Egout",0,45.541486,-73.680235,4329.35,22,"AHU","Ahuntsic / Cartierville",290724.9,5044634.8
+36,"Iberville (PMR)","Chute_Egout",0,45.533362,-73.554816,43990.76,20,"PMR","Plateau Mont-Royal",300518.6,5043717.7
+43,"Angrignon (LAS)","Entassement",1500000,45.452893,-73.61593,2091249.11,16,"LAS","LaSalle",295732.5,5034780.2
+54,"46 ieme (LAC)","Entassement",250000,45.449769,-73.710405,312716.93,15,"LAC","Lachine",288342.2,5034448
+61,"Blue Bonnets 1","Entassement",500000,45.490026,-73.661724,168617.44,25,"CDN","Côte-des-Neiges / Notre-Dame-de-Grâce",292159,5038913
+30,"Jules-Poitras 1 (AHU)","Chute_Egout",0,45.529812,-73.692688,464307.71,22,"AHU","Ahuntsic / Cartierville",289749.3,5043339.7
+47,"Château Pierrefonds (PRF)","Entassement",200000,45.460858,-73.899178,270793.53,11,"PRF","Pierrefonds / Roxboro",273582.5,5035736.3
+49,"Thimens (SLA)","Entassement",478210,45.49518,-73.721363,780228.19,13,"SLA","Saint-Laurent",287499,5039496.8
+31,"St-Michel - Robert (VSP)","Carierre",3780000,45.573425,-73.612205,3324166.34,24,"VSP","Villeray / St-Michel / Parc-Extension",296042.6,5048174.6
+46,"Ray-Lawson (ANJ)","Entassement",2450000,45.622152,-73.57899,1706075.72,9,"ANJ","Anjou",298640.3,5053586.6
+48,"Autoroute 13 (PRF)","Entassement",53550,45.505693,-73.756397,44422.8,11,"PRF","Pierrefonds / Roxboro",284764.5,5040673.3
+50,"Sartelon (SLA)","Entassement",345000,45.512461,-73.737365,291834.66,13,"SLA","Saint-Laurent",286254,5041420.9
+63,"St-Michel-17ième(Sous-Sol)","Carierre",2000000,45.576419,-73.625385,99242.3,24,"VSP","Villeray / St-Michel / Parc-Extension",295014.4,5048508.8
+27,"Millen (AHU)","Chute_Egout",0,45.55728,-73.667768,335379.43,22,"AHU","Ahuntsic / Cartierville",291702.2,5046387.9
+34,"Lafarge (sud) (MHM)","Entassement",1100000,45.617708,-73.523766,1041249.04,21,"MHM","Mercier / Hochelaga / Maisonneuve",302946.6,5053090
+45,"Armand-Chaput (RDP)","Entassement",1400000,45.660361,-73.52711,1380473.8,17,"RDP","R.D.P. /  P.A.T.",302687.4,5057830.3
+52,"Stinson (SLA)","Chute_Egout",0,45.520833,-73.660417,167043.79,13,"SLA","Saint-Laurent",292268,5042336.4
+39,"Newman (S-O)","Entassement",375000,45.45631,-73.608968,555455.12,19,"S-O","Sud-Ouest",296277.5,5035159.2
+40,"Anbar (CDN)","Chute_Egout",0,45.451238,-73.63316,97899.29,25,"CDN","Côte-des-Neiges / Notre-Dame-de-Grâce",294384.5,5034598.4
+57,"Langelier (SLE)","Entassement",700000,45.607497,-73.607308,1041348.29,12,"SLE","Saint-Léonard",296429.8,5051960.6
+58,"St-Michel - Charland (VSP)","Carierre",1260000,45.578529,-73.633005,947370.78,24,"VSP","Villeray / St-Michel / Parc-Extension",294420.1,5048744.3
