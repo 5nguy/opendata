@@ -1,0 +1,2044 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="stations_qualo" id="stations_qualo">
+	<SimpleField name="Point_echa" type="string"></SimpleField>
+	<SimpleField name="PlanEau" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="Administra" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Statut" type="string"></SimpleField>
+</Schema>
+<Folder><name>stations_qualo</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-0.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc Ranger</SimpleData>
+		<SimpleData name="Descriptio">Parc Ranger, inters. du boul. Lasalle et de la rue Lyette</SimpleData>
+		<SimpleData name="Administra">LaSalle</SimpleData>
+		<SimpleData name="Latitude">45.428389019999997</SimpleData>
+		<SimpleData name="Longitude">-73.665864600000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.6658646,45.42838902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-01</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Canal de Lachine (Cabouse)</SimpleData>
+		<SimpleData name="Descriptio">Canal de Lachine, inters. av. Dollard et rue de la Berge du Canal</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.441467289999999</SimpleData>
+		<SimpleData name="Longitude">-73.645120329999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.64512033,45.44146729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-02</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Canal de Lachine (H2O adventures)</SimpleData>
+		<SimpleData name="Descriptio">Canal de Lachine, inters. rue d'Argenson et rue St-Patrick</SimpleData>
+		<SimpleData name="Administra">Le Sud-Ouest</SimpleData>
+		<SimpleData name="Latitude">45.479022299999997</SimpleData>
+		<SimpleData name="Longitude">-73.573964050000001</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.57396405,45.4790223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-1</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc de l'Aqueduc (La Bécane)</SimpleData>
+		<SimpleData name="Descriptio">Parc de l'Aqueduc (La Bécane), boul. Lasalle et 68e av.</SimpleData>
+		<SimpleData name="Administra">LaSalle</SimpleData>
+		<SimpleData name="Latitude">45.414990670000002</SimpleData>
+		<SimpleData name="Longitude">-73.628600700000007</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.6286007,45.41499067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-10</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Bout de la rue Hall</SimpleData>
+		<SimpleData name="Descriptio">Extrémité sud du ch. de la Pointe-Sud</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.449591110000000</SimpleData>
+		<SimpleData name="Longitude">-73.547003720000006</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54700372,45.44959111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-10.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Pointe sud-ouest de Î.-D.-S.</SimpleData>
+		<SimpleData name="Descriptio">Piste cyclable, inters. rue André-Prévost et ch. de la Pointe-Sud</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.446596309999997</SimpleData>
+		<SimpleData name="Longitude">-73.561131180000004</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.56113118,45.44659631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-11</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc Aidan-D.-Archambault (piste cyclable)</SimpleData>
+		<SimpleData name="Descriptio">Bout du boul. de la Forêt, au sud du parc Adian-D.-Archambault</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.454782000000002</SimpleData>
+		<SimpleData name="Longitude">-73.559500999999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.559501,45.454782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-2</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Terrasse Chatelle</SimpleData>
+		<SimpleData name="Descriptio">Lasalle, 50m au sud de l'intersection du boul.Lasalle et de l'av. 40e</SimpleData>
+		<SimpleData name="Administra">LaSalle</SimpleData>
+		<SimpleData name="Latitude">45.415733349999996</SimpleData>
+		<SimpleData name="Longitude">-73.615423379999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.61542338,45.41573335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-2.2</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc des Rapides (vague à Guy)</SimpleData>
+		<SimpleData name="Descriptio">Parc des Rapides, vague à Guy, près de la place René-Lévesque</SimpleData>
+		<SimpleData name="Administra">LaSalle</SimpleData>
+		<SimpleData name="Latitude">45.419387890000003</SimpleData>
+		<SimpleData name="Longitude">-73.603202780000004</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.60320278,45.41938789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-2.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc des Rapides (Tsse Serre)</SimpleData>
+		<SimpleData name="Descriptio">Parc des Rapides - Tsse Serre, inters. boul. Lasalle et boul. Bishop-Power</SimpleData>
+		<SimpleData name="Administra">LaSalle</SimpleData>
+		<SimpleData name="Latitude">45.426558749999998</SimpleData>
+		<SimpleData name="Longitude">-73.595126629999996</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59512663,45.42655875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-2.7</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc O'Reilley (future plage)</SimpleData>
+		<SimpleData name="Descriptio">Parc de l'Honorable-Georges-O'Reilley, future plage, boul. Lasalle</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.440749859999997</SimpleData>
+		<SimpleData name="Longitude">-73.577039470000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.57703947,45.44074986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-2.75</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Bassin de pèche (Ter. Serre)</SimpleData>
+		<SimpleData name="Descriptio">Lasalle, boul. LaSalle, 150m à l'est de l'intersection du boul. St-Joseph et de l'av. 7e, au ponceau du bassin du pôle des rapides de Lachine</SimpleData>
+		<SimpleData name="Administra">LaSalle</SimpleData>
+		<SimpleData name="Latitude">45.428812760000000</SimpleData>
+		<SimpleData name="Longitude">-73.591826990000001</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59182699,45.42881276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-2.8</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc O'Reilley (Natatorium)</SimpleData>
+		<SimpleData name="Descriptio">Parc de l'Honorable-George-O'Reilley, quai du Natatorium, inters. boul. Lasalle et rue Stephens</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.442650290000003</SimpleData>
+		<SimpleData name="Longitude">-73.574340820000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.57434082,45.44265029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-3</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc du Quai-de-La Tortue</SimpleData>
+		<SimpleData name="Descriptio">Parc de Quai-de-La Tortue, quai de la Tortue, inters. boul. Lasalle et rue Brault</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.447392819999997</SimpleData>
+		<SimpleData name="Longitude">-73.568772129999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.56877213,45.44739282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-4</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc Desmarchais (marina)</SimpleData>
+		<SimpleData name="Descriptio">Parc Desmarchais, marina de Verdun, inters. boul. Lasalle et boul. Desmarchais</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.453970450000000</SimpleData>
+		<SimpleData name="Longitude">-73.563781520000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.56378152,45.45397045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-4.25</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Plage de Verdun</SimpleData>
+		<SimpleData name="Descriptio">En rive à la hauteur de l'Auditorium, site de la future plage</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.462520169999998</SimpleData>
+		<SimpleData name="Longitude">-73.560068729999998</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.56006873,45.46252017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-4.4</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Canal du collecteur St-Pierre</SimpleData>
+		<SimpleData name="Descriptio">Sur la pointe en amont du canal du collecteur St-Pierre</SimpleData>
+		<SimpleData name="Administra">Le Sud-Ouest</SimpleData>
+		<SimpleData name="Latitude">45.469823079999998</SimpleData>
+		<SimpleData name="Longitude">-73.556284860000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55628486,45.46982308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-4.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Pont Champlain (rive Montréal)</SimpleData>
+		<SimpleData name="Descriptio">Sous le pont Champlain, à partir de la rive de Montréal</SimpleData>
+		<SimpleData name="Administra">Le Sud-Ouest</SimpleData>
+		<SimpleData name="Latitude">45.471042210000000</SimpleData>
+		<SimpleData name="Longitude">-73.552296830000003</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55229683,45.47104221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Rue Cours du fleuve</SimpleData>
+		<SimpleData name="Descriptio">200m à l'est de la rue Cours du fleuve, en aval de l'estacade du pont Champlain</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.466905290000000</SimpleData>
+		<SimpleData name="Longitude">-73.531932100000006</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5319321,45.46690529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-5.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc Marin, Île des Soeurs</SimpleData>
+		<SimpleData name="Descriptio">100m à l'ouest de l'intersection des ch. du Golf et du boul. Marguerite-Bourgeoys, Parc Marin</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.461529579999997</SimpleData>
+		<SimpleData name="Longitude">-73.556714009999993</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55671401,45.46152958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-6</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc Gewurz-Remer</SimpleData>
+		<SimpleData name="Descriptio">Parc Gewurz-Remer, extrémité de la rue Jacques-Le Ber</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.474348720000002</SimpleData>
+		<SimpleData name="Longitude">-73.541387490000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54138749,45.47434872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-6.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Esplanade de la Pointe-Nord</SimpleData>
+		<SimpleData name="Descriptio">Esplanade de la Pointe-Nord,  rue de la Rotonde et ch. de la Pointe-N</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.473647659999997</SimpleData>
+		<SimpleData name="Longitude">-73.536984000000004</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.536984,45.47364766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-7</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Pont Champlain (IDS sud)</SimpleData>
+		<SimpleData name="Descriptio">Boul. René-Lévesque, au N. du pont Champlain (rive sud de l'Île)</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.470205569999997</SimpleData>
+		<SimpleData name="Longitude">-73.534188920000005</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53418892,45.47020557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-8</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Jetée Bikerdike</SimpleData>
+		<SimpleData name="Descriptio">Ville-Marie, extrémité nord de l'av. Pierre-Dupuy, Parc de la Cité-du-Hâvre, 300m en aval du pont de la Concorde</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.507881570000002</SimpleData>
+		<SimpleData name="Longitude">-73.542883930000002</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54288393,45.50788157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-8.5</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc Cité-du-Havre (Habitat 67)</SimpleData>
+		<SimpleData name="Descriptio">Parc Cité-du-Havre, la vague éternelle derrière Habitat 67, av. Pierre-Dupuy</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.500528180000003</SimpleData>
+		<SimpleData name="Longitude">-73.542823159999998</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54282316,45.50052818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">BLAP-9</SimpleData>
+		<SimpleData name="PlanEau">BLAP</SimpleData>
+		<SimpleData name="NOM">Parc de West Vancouver</SimpleData>
+		<SimpleData name="Descriptio">Parc de West Vancouver, inters. boul. de l'Île-des-Soeurs et rue Darwin</SimpleData>
+		<SimpleData name="Administra">Verdun</SimpleData>
+		<SimpleData name="Latitude">45.456605779999997</SimpleData>
+		<SimpleData name="Longitude">-73.541795089999994</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54179509,45.45660578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-170</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Plage du parc Jean-Drapeau</SimpleData>
+		<SimpleData name="Descriptio">Plage du parc Jean-Drapeau</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.498255469999997</SimpleData>
+		<SimpleData name="Longitude">-73.523456069999995</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.52345607,45.49825547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-180</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Port Sainte-Hélène</SimpleData>
+		<SimpleData name="Descriptio">Île Sainte-Hélène, extrémité nord de l'av. du Port, rampe de mise à l'eau du Port Sainte-Hélène</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.527480990000001</SimpleData>
+		<SimpleData name="Longitude">-73.535700489999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53570049,45.52748099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-185</SimpleData>
+		<SimpleData name="PlanEau">PJD</SimpleData>
+		<SimpleData name="NOM">Bassin d'Aviron</SimpleData>
+		<SimpleData name="Descriptio">Parc Jean Drapeau, bassin d'Aviron, extrémité nord, au bout du quai central</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.517040930000000</SimpleData>
+		<SimpleData name="Longitude">-73.526329869999998</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.52632987,45.51704093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-190</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc J.-Drapeau (pl Nations)</SimpleData>
+		<SimpleData name="Descriptio">Parc Jean-Drapeau, place des Nations, ch. du Tour de l'isle</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.506352040000003</SimpleData>
+		<SimpleData name="Longitude">-73.533900869999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53390087,45.50635204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-200</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Marina du Vieux-Port</SimpleData>
+		<SimpleData name="Descriptio">Marina du Vieux-Port, rue Jacques-Cartier</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.505865210000003</SimpleData>
+		<SimpleData name="Longitude">-73.550689530000000</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55068953,45.50586521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-201</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Quai Jacques-Cartier</SimpleData>
+		<SimpleData name="Descriptio">Ville-Marie, 350m à l'est de l'intersection des rues Saint-Gabriel et de la Commune, Quai Jacques-Cartier, quai principal du Port d'Escale</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.505338580000000</SimpleData>
+		<SimpleData name="Longitude">-73.551497760000004</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55149776,45.50533858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-205</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Plage de l'Horloge</SimpleData>
+		<SimpleData name="Descriptio">Vieux-Montréal, plage de l'Horloge, rue Quai de l'Horloge</SimpleData>
+		<SimpleData name="Administra">Ville-Marie</SimpleData>
+		<SimpleData name="Latitude">45.512792689999998</SimpleData>
+		<SimpleData name="Longitude">-73.546134309999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54613431,45.51279269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-300</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc de la Prom.-Bellerive (amont)</SimpleData>
+		<SimpleData name="Descriptio">Parc de la Promenade-Bellerive, inters. rue Bellerive et av. Mercier</SimpleData>
+		<SimpleData name="Administra">Mercier-Hochelaga-Maisonneuve</SimpleData>
+		<SimpleData name="Latitude">45.595302390000001</SimpleData>
+		<SimpleData name="Longitude">-73.507913329999994</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.50791333,45.59530239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-310</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc de la Prom.-Bellerive (aval)</SimpleData>
+		<SimpleData name="Descriptio">Parc de la Promenade-Bellerive, inters. rue Bellerive et av. Gonthier</SimpleData>
+		<SimpleData name="Administra">Mercier-Hochelaga-Maisonneuve</SimpleData>
+		<SimpleData name="Latitude">45.609863199999999</SimpleData>
+		<SimpleData name="Longitude">-73.507267909999996</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.50726791,45.6098632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-330</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc de l'Hôtel-de-Ville</SimpleData>
+		<SimpleData name="Descriptio">Parc de l'Hôtel-de-Ville, intersection avenue broadway et rue sainte-julie</SimpleData>
+		<SimpleData name="Administra">Montréal-Est</SimpleData>
+		<SimpleData name="Latitude">45.629305209999998</SimpleData>
+		<SimpleData name="Longitude">-73.494913670000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.49491367,45.62930521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-340</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc du Fort-de-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Descriptio">Parc du Fort-de-Pointe-aux-Trembles, inters. rue Bellerive et boul. Saint-Jean-Batiste</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.639864719999998</SimpleData>
+		<SimpleData name="Longitude">-73.487289390000001</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48728939,45.63986472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-360</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Marina Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Descriptio">Marina Pointe-aux-Trembles, inters. rue Notre-Dame E. et boul. du Tricentenaire</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.649314099999998</SimpleData>
+		<SimpleData name="Longitude">-73.486234839999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48623484,45.6493141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-380</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Rampe de mise à l'eau (36e av.)</SimpleData>
+		<SimpleData name="Descriptio">Rampe de mise à l'eau, rue Notre-Dame E., entre la 36e av. et la 39e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.658732250000000</SimpleData>
+		<SimpleData name="Longitude">-73.488932520000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48893252,45.65873225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-390</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Au bout de la 43e av.</SimpleData>
+		<SimpleData name="Descriptio">75m à l'extrémité est de l'av. 43e</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.663498089999997</SimpleData>
+		<SimpleData name="Longitude">-73.491405049999997</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.49140505,45.66349809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-400</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc C.-De La Rousselière</SimpleData>
+		<SimpleData name="Descriptio">Parc Clémentine-De La Rousselière, inters. rue Notre-Dame E. et boul. de la Rousselière</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.667464670000001</SimpleData>
+		<SimpleData name="Longitude">-73.491396399999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.4913964,45.66746467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-410</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Havre Liberté</SimpleData>
+		<SimpleData name="Descriptio">50m au nord-est de l'extrémité de l'av. 55e</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.671398770000003</SimpleData>
+		<SimpleData name="Longitude">-73.491247209999997</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.49124721,45.67139877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-420</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">60e Avenue</SimpleData>
+		<SimpleData name="Descriptio">25m à l'est de l'extrémité de la 60e av</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.675017580000002</SimpleData>
+		<SimpleData name="Longitude">-73.490563440000003</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.49056344,45.67501758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-425</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc Marcel-Léger</SimpleData>
+		<SimpleData name="Descriptio">Parc Marcel-Léger, extrémité de la rue Françoise-Langlois</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.676988880000003</SimpleData>
+		<SimpleData name="Longitude">-73.490180679999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.49018068,45.67698888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-430</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">PN de la Pointe-aux-Prairies (fleuve)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature de la Pointe-aux-Prairie (secteur du Fleuve), rue Notre-Dame E., à l'est de la 67e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.679831550000003</SimpleData>
+		<SimpleData name="Longitude">-73.489943240000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48994324,45.67983155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-460</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc Pierre-Payet (82 av.)</SimpleData>
+		<SimpleData name="Descriptio">Parc Pierre-Payet, inters. rue Bellerive et 82e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.688664180000004</SimpleData>
+		<SimpleData name="Longitude">-73.485411060000004</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48541106,45.68866418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-480</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc Pierre-Payet (rampe de mise à l'eau)</SimpleData>
+		<SimpleData name="Descriptio">Parc Pierre-Payet, rampe de mise à l'eau, inters. rue Bellerive et rue Pauline-Donalda</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.692294220000001</SimpleData>
+		<SimpleData name="Longitude">-73.482177239999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48217724,45.69229422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-490</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Future plage de l'Est</SimpleData>
+		<SimpleData name="Descriptio">future plage de l'Est, inters. rue Bellerive et 94e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.697416080000004</SimpleData>
+		<SimpleData name="Longitude">-73.479832909999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.47983291,45.69741608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">FSL-500</SimpleData>
+		<SimpleData name="PlanEau">FSL</SimpleData>
+		<SimpleData name="NOM">Parc du Bout-de-l'Île (fleuve)</SimpleData>
+		<SimpleData name="Descriptio">Parc du Bout-de-l'île (cité fleuve), extrémité N. de la rue Bureau</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.700650230000001</SimpleData>
+		<SimpleData name="Longitude">-73.478218690000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.47821869,45.70065023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-1</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Pont de l'Île Mercier</SimpleData>
+		<SimpleData name="Descriptio">250m au sud-est de l'intersection du ch. Cherrier et de la rue LActifs-Roch, sur le pont de l' Île Mercier</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.483862270000003</SimpleData>
+		<SimpleData name="Longitude">-73.878171359999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87817136,45.48386227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-1.5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue Charron</SimpleData>
+		<SimpleData name="Descriptio">60m au sud-est de la rue Dollard</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.486126190000000</SimpleData>
+		<SimpleData name="Longitude">-73.875082910000003</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87508291,45.48612619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-10.5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Pointe des Carrières (plage)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Boisé-de-l'Île-Bizard, plage de la Pointe-aux-Carrières, rive à l'ouest du fossé</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.515965540000003</SimpleData>
+		<SimpleData name="Longitude">-73.901130609999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90113061,45.51596554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-11</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue Roussin</SimpleData>
+		<SimpleData name="Descriptio">25m à l'ouest de la rue Roussin, en amont du Parc-nature du Boisé-de-l'Île-Bizard</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.513906980000002</SimpleData>
+		<SimpleData name="Longitude">-73.902084770000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90208477,45.51390698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-11.5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Terrasse Martin</SimpleData>
+		<SimpleData name="Descriptio">Extrémité de la terrasse Martin (segment ouest)</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.507789430000003</SimpleData>
+		<SimpleData name="Longitude">-73.909751229999998</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90975123,45.50778943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-12</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue Théoret</SimpleData>
+		<SimpleData name="Descriptio">Extrémité de l'av. Théoret</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.503914860000002</SimpleData>
+		<SimpleData name="Longitude">-73.912619849999999</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91261985,45.50391486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-13</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue Roger</SimpleData>
+		<SimpleData name="Descriptio">Extrémité de la rue Roger</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.476852170000001</SimpleData>
+		<SimpleData name="Longitude">-73.927101699999994</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9271017,45.47685217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-13.5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Pointe Théorêt (plage)</SimpleData>
+		<SimpleData name="Descriptio">Parc-nature du Cap-St-Jacques, côté sud-ouest de la Pointe Théoret, sur la plage</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.468617080000001</SimpleData>
+		<SimpleData name="Longitude">-73.902562529999997</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90256253,45.46861708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-14</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">PN Cap-Saint-Jacques (Pointe-Théoret)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Cap-Saint-Jacques, côté est de la pointe Théoret</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.469651280000001</SimpleData>
+		<SimpleData name="Longitude">-73.899273660000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.89927366,45.46965128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-15</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Parc Terrasse-Sacré-Coeur</SimpleData>
+		<SimpleData name="Descriptio">Parc Terrasse-Sacré-Coeur, tsse Sacré-Coeur, entre les rues Roy et Paquin</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.480344410000001</SimpleData>
+		<SimpleData name="Longitude">-73.879640899999998</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8796409,45.48034441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-16</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Île Mercier</SimpleData>
+		<SimpleData name="Descriptio">175m à l'est de l'intersection de la rue LActifs-Roch et du boul. Mercier</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.484487780000002</SimpleData>
+		<SimpleData name="Longitude">-73.874752959999995</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87475296,45.48448778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-2</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Parc Denis-Benjamin-Viger</SimpleData>
+		<SimpleData name="Descriptio">Parc Denis-Benjamin-Viger, extrémité de la rue St-Pierre</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.488877680000002</SimpleData>
+		<SimpleData name="Longitude">-73.868209199999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8682092,45.48887768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-3</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Place Maxime</SimpleData>
+		<SimpleData name="Descriptio">60m à l'est de l'extrémité de pl. Maxime</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.491072050000000</SimpleData>
+		<SimpleData name="Longitude">-73.864358730000006</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86435873,45.49107205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-4</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue Emile</SimpleData>
+		<SimpleData name="Descriptio">Inters. rue Cherrier et rue Émile</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.503471120000000</SimpleData>
+		<SimpleData name="Longitude">-73.861783079999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86178308,45.50347112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue des Cèdres</SimpleData>
+		<SimpleData name="Descriptio">50m au sud-est de la jonction des ch. Cherrier et Dutour</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.509171350000003</SimpleData>
+		<SimpleData name="Longitude">-73.857858820000004</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.85785882,45.50917135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-6</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue des Cèdres</SimpleData>
+		<SimpleData name="Descriptio">65m au nord du coin nord de l'av. des Cèdres</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.513412870000003</SimpleData>
+		<SimpleData name="Longitude">-73.857213009999995</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.85721301,45.51341287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-6.5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rue des Érables</SimpleData>
+		<SimpleData name="Descriptio">50m au nord-est de l'intersection des av. des Vignes et des Érables, rampe de mise à l'eau</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.516057410000002</SimpleData>
+		<SimpleData name="Longitude">-73.861386229999994</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86138623,45.51605741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-7</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">PN Bois-de-l'Île-Bizard (sect. Les rapides)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Bois-de-l'Île-Bizard, sect. Les rapides, extrémité de la rue Patenaude</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.518608600000000</SimpleData>
+		<SimpleData name="Longitude">-73.863916739999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86391674,45.5186086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-8</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Rapides Lalemant</SimpleData>
+		<SimpleData name="Descriptio">20m au nord de l'intersection du ch. du Bord-du-lac et de l'av. 5e</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.519890220000001</SimpleData>
+		<SimpleData name="Longitude">-73.878104070000006</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87810407,45.51989022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-8.4</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Ch. Bord-du-Lac</SimpleData>
+		<SimpleData name="Descriptio">350m en aval de l'intersection de pl. des Cageux et ch. Bord-du-Lac, 225m au nord-ouest du ch. du Bord-du-lac</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.517685849999999</SimpleData>
+		<SimpleData name="Longitude">-73.894372809999993</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.89437281,45.51768585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-8.5</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">PN Bois-de-l'Île-Bizard (sect. Pointe-aux-Carr.)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Bois-de-l'Île-Bizard, sect. de la Pointe-aux-Carrières, ch. du Bord-du-Lac et pl. des Cageux</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.517061200000001</SimpleData>
+		<SimpleData name="Longitude">-73.899856009999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.89985601,45.5170612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">IBIZ-9</SimpleData>
+		<SimpleData name="PlanEau">IBIZ</SimpleData>
+		<SimpleData name="NOM">Pointe aux Carrières</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Boisé-de-l'ile-Bizard, 600m au nord-ouest de l'intersection du ch. du Bord-du-lac et de pl. des Cageux, gazébo de la Pointe aux Carrières</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.517134400000003</SimpleData>
+		<SimpleData name="Longitude">-73.902364939999998</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90236494,45.5171344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-0.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Port de plaisance de Lachine</SimpleData>
+		<SimpleData name="Descriptio">Port de plaisance de Lachine, rampe de mise à l'eau, ch. des Iroquois</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.429169940000001</SimpleData>
+		<SimpleData name="Longitude">-73.673969499999998</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.6739695,45.42916994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-1</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Monk</SimpleData>
+		<SimpleData name="Descriptio">Parc Monk, inters. boul. Saint-Joseph et la 7e av.</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.430914420000001</SimpleData>
+		<SimpleData name="Longitude">-73.671249090000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67124909,45.43091442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-10</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Edgewater</SimpleData>
+		<SimpleData name="Descriptio">Parc Edgewater, inters. ch. du Bord-du-Lac et av. Bowling Green</SimpleData>
+		<SimpleData name="Administra">Pointe-Claire</SimpleData>
+		<SimpleData name="Latitude">45.430537119999997</SimpleData>
+		<SimpleData name="Longitude">-73.818129110000001</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.81812911,45.43053712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-10.25</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Club naut. de Pointe-Claire</SimpleData>
+		<SimpleData name="Descriptio">Pointe-Claire, extrémité de la rue Cartier, jetée du Yacht Club de Pointe-Claire</SimpleData>
+		<SimpleData name="Administra">Pointe-Claire</SimpleData>
+		<SimpleData name="Latitude">45.427389460000001</SimpleData>
+		<SimpleData name="Longitude">-73.820959189999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.82095919,45.42738946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-10.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Yatch Club de Beaconsfield</SimpleData>
+		<SimpleData name="Descriptio">Yatch Club de Beaconsfield, ch. Lakeshore, entre boul. le Beaconsfield et l'av. Old Church</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.425502330000000</SimpleData>
+		<SimpleData name="Longitude">-73.836665359999998</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.83666536,45.42550233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-11</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc St-James</SimpleData>
+		<SimpleData name="Descriptio">Parc Saint-James, inters. Ch. Lakeshore et av. Kirkwood</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.429002670000003</SimpleData>
+		<SimpleData name="Longitude">-73.842756870000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84275687,45.42900267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-11.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Club nautique Lord-Reading</SimpleData>
+		<SimpleData name="Descriptio">Beaconsfield, intersection du boul. Beaconsfield et de la pl. Ashton, jetée du Lord Reading Yacht Club</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.423400930000000</SimpleData>
+		<SimpleData name="Longitude">-73.861018930000000</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86101893,45.42340093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-12</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Centennial</SimpleData>
+		<SimpleData name="Descriptio">Parc Centennial, inters. boul. Beaconsfield et road Shore</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.423361059999998</SimpleData>
+		<SimpleData name="Longitude">-73.861864460000007</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86186446,45.42336106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-12.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Saint-LActifs</SimpleData>
+		<SimpleData name="Descriptio">Beaconsfield, 60m au sud de l'intersection de la rue Lakeshore et de l'av. Saint-LActifs, Parc St-LActifs</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.417121500000000</SimpleData>
+		<SimpleData name="Longitude">-73.877595740000004</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87759574,45.4171215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-13</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Angell</SimpleData>
+		<SimpleData name="Descriptio">Parc Angell, inters. rue Lakeshore et av. Angell</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.415406279999999</SimpleData>
+		<SimpleData name="Longitude">-73.884111110000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.88411111,45.41540628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-14</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Lakeview</SimpleData>
+		<SimpleData name="Descriptio">Parc Lakeview, inters. rue Lakeshore et boul. Lakeview</SimpleData>
+		<SimpleData name="Administra">Beaconsfield</SimpleData>
+		<SimpleData name="Latitude">45.414883750000001</SimpleData>
+		<SimpleData name="Longitude">-73.889503829999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.88950383,45.41488375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-15</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Place Poplar</SimpleData>
+		<SimpleData name="Descriptio">200m au sud de l'intersection de la route Lakeshore et de la pl. Poplar</SimpleData>
+		<SimpleData name="Administra">Baie d'Urfé</SimpleData>
+		<SimpleData name="Latitude">45.411283539999999</SimpleData>
+		<SimpleData name="Longitude">-73.900400599999998</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9004006,45.41128354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-16</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc de l'Hôtel de Ville</SimpleData>
+		<SimpleData name="Descriptio">Parc de l'Hôtel de Ville, inters. rue Lakeshore et rue Carrière</SimpleData>
+		<SimpleData name="Administra">Baie d'Urfé</SimpleData>
+		<SimpleData name="Latitude">45.407500349999999</SimpleData>
+		<SimpleData name="Longitude">-73.916964530000001</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91696453,45.40750035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-17</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Bertold</SimpleData>
+		<SimpleData name="Descriptio">Parc Bertold, inters. rue Lakeshore et rue Churchill</SimpleData>
+		<SimpleData name="Administra">Baie d'Urfé</SimpleData>
+		<SimpleData name="Latitude">45.403530529999998</SimpleData>
+		<SimpleData name="Longitude">-73.924248070000004</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.92424807,45.40353053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-17.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Club nautique de Baie d'Urfé</SimpleData>
+		<SimpleData name="Descriptio">220m au sud-ouest de l'intersection de la route Lakeshore et de la rue de la Pointe Caron, quai du Baie d'Urfé Yacht Club</SimpleData>
+		<SimpleData name="Administra">Baie d'Urfé</SimpleData>
+		<SimpleData name="Latitude">45.403837879999998</SimpleData>
+		<SimpleData name="Longitude">-73.922791129999993</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.92279113,45.40383788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-18</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Campus MacDonald</SimpleData>
+		<SimpleData name="Descriptio">Ch. Lakeshore, devant le campus MacDonald de l'Université McGill</SimpleData>
+		<SimpleData name="Administra">Sainte-Anne-de-Bellevue</SimpleData>
+		<SimpleData name="Latitude">45.404250509999997</SimpleData>
+		<SimpleData name="Longitude">-73.934520770000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.93452077,45.40425051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-19</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Kelso</SimpleData>
+		<SimpleData name="Descriptio">Parc Kelso, inters. rue Sainte-Anne et rue Perrault</SimpleData>
+		<SimpleData name="Administra">Sainte-Anne-de-Bellevue</SimpleData>
+		<SimpleData name="Latitude">45.402250260000002</SimpleData>
+		<SimpleData name="Longitude">-73.946029999999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.94603,45.40225026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-2</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Marina d'escale</SimpleData>
+		<SimpleData name="Descriptio">Marina d'escale, inters. boul. Saint-Joseph et 24e av.</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.432808719999997</SimpleData>
+		<SimpleData name="Longitude">-73.685835150000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.68583515,45.43280872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-2.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc St-LActifs (quai fédéral)</SimpleData>
+		<SimpleData name="Descriptio">Parc St-LActifs, quai Fédéral, inters. boul. Saint-Joseph et 34e av.</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.432460550000002</SimpleData>
+		<SimpleData name="Longitude">-73.694286669999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.69428667,45.43246055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-20</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Écluse de Sainte-Anne</SimpleData>
+		<SimpleData name="Descriptio">Écluse de Sainte-Anne, rue Sainte-Anne, à l'est du pont Galipeault (aut. 20)</SimpleData>
+		<SimpleData name="Administra">Sainte-Anne-de-Bellevue</SimpleData>
+		<SimpleData name="Latitude">45.404064069999997</SimpleData>
+		<SimpleData name="Longitude">-73.954474000000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.954474,45.40406407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-20.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Amont de l'écluse</SimpleData>
+		<SimpleData name="Descriptio">Parc Promenade du Canal, à la hauteur de la rue Sainte-Anne et Aut. 20</SimpleData>
+		<SimpleData name="Administra">Sainte-Anne-de-Bellevue</SimpleData>
+		<SimpleData name="Latitude">45.404909050000001</SimpleData>
+		<SimpleData name="Longitude">-73.957314249999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.95731425,45.40490905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-21</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Godin</SimpleData>
+		<SimpleData name="Descriptio">Parc Godin, extrémité de la rue Grier</SimpleData>
+		<SimpleData name="Administra">Sainte-Anne-de-Bellevue</SimpleData>
+		<SimpleData name="Latitude">45.407632309999997</SimpleData>
+		<SimpleData name="Longitude">-73.956943039999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.95694304,45.40763231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-3</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Stoney Point</SimpleData>
+		<SimpleData name="Descriptio">Parc Stoney Point, inters. boul. Saint-Joseph et de la 46e av.</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.435646540000000</SimpleData>
+		<SimpleData name="Longitude">-73.707081000000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.707081,45.43564654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-4</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Summerlea</SimpleData>
+		<SimpleData name="Descriptio">Parc Summerlea, inters. du boul. St-Joseph et de la 53e av.</SimpleData>
+		<SimpleData name="Administra">Lachine</SimpleData>
+		<SimpleData name="Latitude">45.437619470000001</SimpleData>
+		<SimpleData name="Longitude">-73.715665009999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.71566501,45.43761947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-4.3</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc du Millénaire</SimpleData>
+		<SimpleData name="Descriptio">Parc du Millénaire, cercle Keiller, à l'est de l'av. Sévigny</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.438446839999997</SimpleData>
+		<SimpleData name="Longitude">-73.723263070000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.72326307,45.43844684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-4.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Pointe Picard</SimpleData>
+		<SimpleData name="Descriptio">Pointe Picard, extrémité de l'av. St-Charles</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.436962010000002</SimpleData>
+		<SimpleData name="Longitude">-73.727909600000004</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.7279096,45.43696201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Avenue Dahlia</SimpleData>
+		<SimpleData name="Descriptio">Extrémité sud de l'av. Dahlia</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.437189029999999</SimpleData>
+		<SimpleData name="Longitude">-73.732433299999997</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.7324333,45.43718903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-5.25</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Rue Ash</SimpleData>
+		<SimpleData name="Descriptio">Île Dorval, aval de l'Île Dorval, 30m au sud-est de l'av. Ash</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.432244930000003</SimpleData>
+		<SimpleData name="Longitude">-73.737731620000005</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73773162,45.43224493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-5.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Traversier de l'Île Dorval</SimpleData>
+		<SimpleData name="Descriptio">Embarcadère du traversier de l'Île Dorval, extrémité de l'av. Dorval</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.437637340000002</SimpleData>
+		<SimpleData name="Longitude">-73.739355680000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73935568,45.43763734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-5.75</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Club naut. Royal Saint-Laurent</SimpleData>
+		<SimpleData name="Descriptio">100m au sud-est de l'av. Allan Point, jetée du Yacht-Club Royal Saint-Laurent</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.437864189999999</SimpleData>
+		<SimpleData name="Longitude">-73.753123059999993</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.75312306,45.43786419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-6</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Pine Beach (aval)</SimpleData>
+		<SimpleData name="Descriptio">100m au sud de l'intersection du ch. Bord-du-Lac et du boul. Pine Beach, Parc Pine Beach</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.438916350000000</SimpleData>
+		<SimpleData name="Longitude">-73.758204680000006</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.75820468,45.43891635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-6.5</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Pine Beach</SimpleData>
+		<SimpleData name="Descriptio">Parc Pine Beach (amont), inters. ch. du Bord-du-Lac et av. St-LActifs</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.439686950000002</SimpleData>
+		<SimpleData name="Longitude">-73.763081060000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76308106,45.43968695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-7</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Baie de Valois</SimpleData>
+		<SimpleData name="Descriptio">Parc Baie de Valois, inters. ch. du Bord-du-Lac et av. Canary</SimpleData>
+		<SimpleData name="Administra">Dorval</SimpleData>
+		<SimpleData name="Latitude">45.442236680000001</SimpleData>
+		<SimpleData name="Longitude">-73.775233869999994</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.77523387,45.44223668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-8</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Venture</SimpleData>
+		<SimpleData name="Descriptio">Parc Venture, inters. ch. du Bord-du-Lac et voie d'accàs à l'aut. 20</SimpleData>
+		<SimpleData name="Administra">Pointe-Claire</SimpleData>
+		<SimpleData name="Latitude">45.446891800000003</SimpleData>
+		<SimpleData name="Longitude">-73.796046939999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.79604694,45.4468918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">LSL-9</SimpleData>
+		<SimpleData name="PlanEau">LSL</SimpleData>
+		<SimpleData name="NOM">Parc Stewart</SimpleData>
+		<SimpleData name="Descriptio">Parc Stewart, ch. du Bord-du-Lac, à l'ouest de la rue Stewart</SimpleData>
+		<SimpleData name="Administra">Pointe-Claire</SimpleData>
+		<SimpleData name="Latitude">45.433971139999997</SimpleData>
+		<SimpleData name="Longitude">-73.807381010000000</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.80738101,45.43397114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-100</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Rue Beaulieu</SimpleData>
+		<SimpleData name="Descriptio">Extrémité de la rue Beaulieu</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.472724430000000</SimpleData>
+		<SimpleData name="Longitude">-73.877646940000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87764694,45.47272443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-110</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Antoine-Faucon</SimpleData>
+		<SimpleData name="Descriptio">Parc Antoine-Faucon, extrémité de la rue du Pont</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.485866229999999</SimpleData>
+		<SimpleData name="Longitude">-73.869057459999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86905746,45.48586623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-120</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc du Portage</SimpleData>
+		<SimpleData name="Descriptio">Parc du Portage, extrémité de la rue Bourget</SimpleData>
+		<SimpleData name="Administra">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+		<SimpleData name="Latitude">45.487772239999998</SimpleData>
+		<SimpleData name="Longitude">-73.863342579999994</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86334258,45.48777224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-130</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Chemin de la rive Boisée</SimpleData>
+		<SimpleData name="Descriptio">250m au nord-ouest de l'intersection du ch. de la Rive-Boisée et du boul. GActifn</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.495714370000002</SimpleData>
+		<SimpleData name="Longitude">-73.853282350000001</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.85328235,45.49571437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-140</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc de la Rive-Boisée</SimpleData>
+		<SimpleData name="Descriptio">Parc de la Rive-Boisée, ch. Rive-Boisée, au sud de la rue David</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.498715310000001</SimpleData>
+		<SimpleData name="Longitude">-73.854927029999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.85492703,45.49871531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-150</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Rue du Bocage</SimpleData>
+		<SimpleData name="Descriptio">Extrémité de la rue du Bocage</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.499526690000003</SimpleData>
+		<SimpleData name="Longitude">-73.858249950000001</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.85824995,45.49952669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-160</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc de Versailles</SimpleData>
+		<SimpleData name="Descriptio">Parc de Versailles, inters. rue Desjardins et rue William</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.512266660000002</SimpleData>
+		<SimpleData name="Longitude">-73.848778569999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84877857,45.51226666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-180</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN des Rapides-du-Cheval-Blanc</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature des Rapides-du-Cheval-Blanc, extrémité de la rue Riviera</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.516919190000003</SimpleData>
+		<SimpleData name="Longitude">-73.829438789999998</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.82943879,45.51691919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-190</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc de l'Île de Roxboro</SimpleData>
+		<SimpleData name="Descriptio">Parc de l'Île de Roxboro, extrémité de la 5e av. N.</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.513989899999999</SimpleData>
+		<SimpleData name="Longitude">-73.821077560000006</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.82107756,45.5139899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-195</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc LActifse-Deschênes</SimpleData>
+		<SimpleData name="Descriptio">Parc LActifse-Deschênes, extrémité de la 1iere av. N.</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.515645810000002</SimpleData>
+		<SimpleData name="Longitude">-73.813248180000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.81324818,45.51564581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-20</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Pointe aux Moutons</SimpleData>
+		<SimpleData name="Descriptio">Baie à proximité de la pointe aux Moutons, ch. Senneville, au N. de l'av. Sunset</SimpleData>
+		<SimpleData name="Administra">Senneville</SimpleData>
+		<SimpleData name="Latitude">45.417283140000002</SimpleData>
+		<SimpleData name="Longitude">-73.964254100000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9642541,45.41728314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-200</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Paquin</SimpleData>
+		<SimpleData name="Descriptio">Parc Paquin, inters. rue Saraguay E. et rue du Belvédère</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.511057000000001</SimpleData>
+		<SimpleData name="Longitude">-73.799230320000007</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.79923032,45.511057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-220</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc des Anciens-Combattants</SimpleData>
+		<SimpleData name="Descriptio">Parc des Anciens-Combattants, inters. Rue Rose et boul. Lalande</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.509423880000000</SimpleData>
+		<SimpleData name="Longitude">-73.784483179999995</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.78448318,45.50942388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-240</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Rue Hortie</SimpleData>
+		<SimpleData name="Descriptio">200m au nord de l'intersection du boul. GActifn et de la rue Hortie</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.508652689999998</SimpleData>
+		<SimpleData name="Longitude">-73.773910079999993</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.77391008,45.50865269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-25</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Club nautique de Senneville</SimpleData>
+		<SimpleData name="Descriptio">350m au sud de l'intersection du ch. Senneville et de l'autoroute Transcanadienne, à l'intérieur de la jetée du Club de voile Senneville</SimpleData>
+		<SimpleData name="Administra">Senneville</SimpleData>
+		<SimpleData name="Latitude">45.418497060000000</SimpleData>
+		<SimpleData name="Longitude">-73.968530009999995</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.96853001,45.41849706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-250</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN du Bois-de-Liesse</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Bois-de-Liesse, av. Oakridge, au nord du boul. GActifn O.</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.512451050000003</SimpleData>
+		<SimpleData name="Longitude">-73.757638119999996</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.75763812,45.51245105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-260</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Collège Ste-Marcelline</SimpleData>
+		<SimpleData name="Descriptio">375m au nord de l'intersection du boul.GActifn et de l'av. LeMesurier, Parc régional du Bois-de-Saraguay</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.517177220000001</SimpleData>
+		<SimpleData name="Longitude">-73.748790540000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74879054,45.51717722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-280</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc de Beauséjour</SimpleData>
+		<SimpleData name="Descriptio">Parc de Beauséjour, inters. rue Henry d'Arles et boul GActifn O.</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.529079889999998</SimpleData>
+		<SimpleData name="Longitude">-73.733435580000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73343558,45.52907989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-290</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Club Canotage de Cartierville</SimpleData>
+		<SimpleData name="Descriptio">Club de canotage de Cartierville, extrémité de la rue Crevier</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.531007920000000</SimpleData>
+		<SimpleData name="Longitude">-73.728420130000003</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.72842013,45.53100792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-30</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Club de voile de Senneville</SimpleData>
+		<SimpleData name="Descriptio">Club de voile de Senneville, au sud de l'aut. 40</SimpleData>
+		<SimpleData name="Administra">Senneville</SimpleData>
+		<SimpleData name="Latitude">45.418063949999997</SimpleData>
+		<SimpleData name="Longitude">-73.969714719999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.96971472,45.41806395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-300</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Rue Notre-Dame-des-Anges</SimpleData>
+		<SimpleData name="Descriptio">Extrémité de la rue Notre-Dame-des-Anges</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.536864760000000</SimpleData>
+		<SimpleData name="Longitude">-73.720092930000007</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.72009293,45.53686476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-305</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Raimbault</SimpleData>
+		<SimpleData name="Descriptio">Parc Raimbault, rue Notre-Dame-des-anges, à l'est de rue du Bocage</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.537220740000002</SimpleData>
+		<SimpleData name="Longitude">-73.716663920000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.71666392,45.53722074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-310</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc des Bateliers</SimpleData>
+		<SimpleData name="Descriptio">Parc des Bateliers, au bout du boul. de l'Acadie</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.544798950000001</SimpleData>
+		<SimpleData name="Longitude">-73.703244830000003</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.70324483,45.54479895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-320</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc de la Merci</SimpleData>
+		<SimpleData name="Descriptio">Parc de la Merci, boul. GActifn O. et rue de Salaberry</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.547689519999999</SimpleData>
+		<SimpleData name="Longitude">-73.689217869999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.68921787,45.54768952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-330</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Nicolas-Viel</SimpleData>
+		<SimpleData name="Descriptio">Parc Nicolas-Viel, inters. boul. Saint-Laurent et rue Somerville</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.552168620000003</SimpleData>
+		<SimpleData name="Longitude">-73.676946500000000</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.6769465,45.55216862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-340</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Stanley</SimpleData>
+		<SimpleData name="Descriptio">50m à l'ouest de l'intersection des av. Durham Park Stanley, Parc Stanley</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.559530359999997</SimpleData>
+		<SimpleData name="Longitude">-73.672391989999994</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67239199,45.55953036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-35</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Baie Forget</SimpleData>
+		<SimpleData name="Descriptio">Baie Forget, ch. Senneville, à l'ouest de l'av. Phillips</SimpleData>
+		<SimpleData name="Administra">Senneville</SimpleData>
+		<SimpleData name="Latitude">45.443466430000001</SimpleData>
+		<SimpleData name="Longitude">-73.958074749999994</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.95807475,45.44346643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-350</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc GActifn (Sophie-Barrat)</SimpleData>
+		<SimpleData name="Descriptio">Parc GActifn (Sophie-Barat), av. saint-Charles et av. Park Stanley</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.561950019999998</SimpleData>
+		<SimpleData name="Longitude">-73.669522430000001</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66952243,45.56195002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-360</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN de l'Île-de-la-Visitation (pont)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature de l'Île-de-la-Visitation, pont piétonnier, boul. GActifn E. et rue de Lille</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.580714700000001</SimpleData>
+		<SimpleData name="Longitude">-73.657382839999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.65738284,45.5807147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-370</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN de l'Île-de-la-Visitation</SimpleData>
+		<SimpleData name="Descriptio">350m au nord de la rue D'Iberville, extrémité est de l'Île-de-la-Visitation, au pied du belvédère</SimpleData>
+		<SimpleData name="Administra">Ahuntsic-Cartierville</SimpleData>
+		<SimpleData name="Latitude">45.582118070000000</SimpleData>
+		<SimpleData name="Longitude">-73.657367710000003</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.65736771,45.58211807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-380</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Aimé-Léonard</SimpleData>
+		<SimpleData name="Descriptio">Parc Aimé-Léonard, inters. boul. Albert-Brosseau et rue Savard</SimpleData>
+		<SimpleData name="Administra">Montréal-Nord</SimpleData>
+		<SimpleData name="Latitude">45.603037819999997</SimpleData>
+		<SimpleData name="Longitude">-73.642985850000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.64298585,45.60303782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-385</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Avenue Pigeon</SimpleData>
+		<SimpleData name="Descriptio">125m à l'ouest de l'intersection des boul. GActifn et Sainte-Gertrude, bout de la rue Pigeon</SimpleData>
+		<SimpleData name="Administra">Montréal-Nord</SimpleData>
+		<SimpleData name="Latitude">45.608150719999998</SimpleData>
+		<SimpleData name="Longitude">-73.640408969999996</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.64040897,45.60815072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-40</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Baie Forget</SimpleData>
+		<SimpleData name="Descriptio">400m à l'est de l'intersection du ch. Senneville et de l'av. Phillips</SimpleData>
+		<SimpleData name="Administra">Senneville</SimpleData>
+		<SimpleData name="Latitude">45.445656730000003</SimpleData>
+		<SimpleData name="Longitude">-73.951584650000001</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.95158465,45.44565673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-400</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">En aval du parc Fortin</SimpleData>
+		<SimpleData name="Descriptio">Aval du Parc Fortin, inters. boul. GActifn E. et av. Fortin</SimpleData>
+		<SimpleData name="Administra">Montréal-Nord</SimpleData>
+		<SimpleData name="Latitude">45.622394120000003</SimpleData>
+		<SimpleData name="Longitude">-73.630380829999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.63038083,45.62239412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-420</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Ernest-Rouleau</SimpleData>
+		<SimpleData name="Descriptio">Parc Rouleau-Ernest, boul. GActifn E., à l'ouest du pont Olivier-Charbonneau (aut. 25)</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.631959930000001</SimpleData>
+		<SimpleData name="Longitude">-73.616128500000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.6161285,45.63195993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-440</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc André-Corbeil-Dit-Tranchemontagne</SimpleData>
+		<SimpleData name="Descriptio">Parc André-Corbeil-dit-Tranchemontagne, inters. boul. GActifn E. et 28e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.645170899999997</SimpleData>
+		<SimpleData name="Longitude">-73.596647570000002</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59664757,45.6451709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-460</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc du Moulin-du-Rapide</SimpleData>
+		<SimpleData name="Descriptio">Parc Moulin-du-Rapide, inters. rue de Clichy et 58e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.660597260000003</SimpleData>
+		<SimpleData name="Longitude">-73.573059740000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.57305974,45.66059726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-480</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc du Cheval-Blanc</SimpleData>
+		<SimpleData name="Descriptio">Parc du Cheval-Blanc, boul. GActifn E., à l'est de la 68e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.663392940000001</SimpleData>
+		<SimpleData name="Longitude">-73.562839699999998</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5628397,45.66339294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-490</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc des Cageux</SimpleData>
+		<SimpleData name="Descriptio">Parc des Cageux, inters. boul. GActifn E. et 94e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.678279510000003</SimpleData>
+		<SimpleData name="Longitude">-73.535019349999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53501935,45.67827951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-500</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN de la Pointe-aux-Prairies</SimpleData>
+		<SimpleData name="Descriptio">200m au nord de l'intersection du boul. GActifn et la rue Mathieu-de-Costa</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.681335230000002</SimpleData>
+		<SimpleData name="Longitude">-73.532885989999997</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53288599,45.68133523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-520</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Pont Charles-De Gaulle (aut. 40)</SimpleData>
+		<SimpleData name="Descriptio">Boul. GActifn E., sous le pont Charles-De Gaulle (aut. 40)</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.699153459999998</SimpleData>
+		<SimpleData name="Longitude">-73.508613519999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.50861352,45.69915346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-540</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc GActifn (Haynes)</SimpleData>
+		<SimpleData name="Descriptio">Parc GActifn (Haynes), inters. boul. GActifn E. et 133e av.</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.697505739999997</SimpleData>
+		<SimpleData name="Longitude">-73.498190589999993</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.49819059,45.69750574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-550</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Ex-Marina Clément</SimpleData>
+		<SimpleData name="Descriptio">100m au nord-ouest de l'intersection de l'av. 100e et de la rue Notre-Dame</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.701271800000001</SimpleData>
+		<SimpleData name="Longitude">-73.484696670000005</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.48469667,45.7012718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-560</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc du Bout-de-l'Île (rivière)</SimpleData>
+		<SimpleData name="Descriptio">Parc du Bout-de-l'Île (côté rivière), extrémité N. de la rue Bureau</SimpleData>
+		<SimpleData name="Administra">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+		<SimpleData name="Latitude">45.702389830000001</SimpleData>
+		<SimpleData name="Longitude">-73.478697159999996</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.47869716,45.70238983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-60</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN de l'Anse-à-l'Orme</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature de l'Anse-à-l'Orme, boul GActifn O. à l'est de à rue Lauzon</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.453804959999999</SimpleData>
+		<SimpleData name="Longitude">-73.938722429999999</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.93872243,45.45380496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-70</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN du Cap-Saint-Jacques</SimpleData>
+		<SimpleData name="Descriptio">Près de la rue Charlebois et du chemin du Cap Saint-Jacques, Parc-nature du Cap Saint-Jacques, centre de la plage</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.461692509999999</SimpleData>
+		<SimpleData name="Longitude">-73.941764640000002</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.94176464,45.46169251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-75</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">PN du Cap-Saint-Jacques (chalet d'accueil)</SimpleData>
+		<SimpleData name="Descriptio">Parc-Nature du Cap-St-Jacques, rampe mise à l'eau, inters. boul. GActifn E. et rue Pilon</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.462708030000002</SimpleData>
+		<SimpleData name="Longitude">-73.918410580000000</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91841058,45.46270803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-77</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Rue Coursol</SimpleData>
+		<SimpleData name="Descriptio">100m au nord-ouest de l'intersection des rues Coursol et River.</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.466639030000003</SimpleData>
+		<SimpleData name="Longitude">-73.891819699999999</SimpleData>
+		<SimpleData name="Statut">Inactif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8918197,45.46663903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-80</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Hélène-Legault</SimpleData>
+		<SimpleData name="Descriptio">Parc Hélène-Legault, inters. rue des Cageux et rue Hélène</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.468642199999998</SimpleData>
+		<SimpleData name="Longitude">-73.888594600000005</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8885946,45.4686422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#stations_qualo">
+		<SimpleData name="Point_echa">RDP-95</SimpleData>
+		<SimpleData name="PlanEau">RDP</SimpleData>
+		<SimpleData name="NOM">Parc Julie-Dauth</SimpleData>
+		<SimpleData name="Descriptio">Parc Julie-Dauth, rue Julie</SimpleData>
+		<SimpleData name="Administra">Pierrefonds-Roxboro</SimpleData>
+		<SimpleData name="Latitude">45.471047530000000</SimpleData>
+		<SimpleData name="Longitude">-73.883453099999997</SimpleData>
+		<SimpleData name="Statut">Actif</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8834531,45.47104753</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

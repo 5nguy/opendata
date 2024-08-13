@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Stations_RUISSO" id="Stations_RUISSO">
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+	<SimpleField name="Activité" type="string"></SimpleField>
+	<SimpleField name="PlanEau" type="string"></SimpleField>
+	<SimpleField name="PtEchantil" type="string"></SimpleField>
+	<SimpleField name="Local" type="string"></SimpleField>
+	<SimpleField name="Admin" type="string"></SimpleField>
+</Schema>
+<Folder><name>Stations_RUISSO</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45021981000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.93703747000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-0.0</SimpleData>
+		<SimpleData name="Local">Pierrefonds, boul. Gouin O, 40m au nord de la rue de l'Anse à l'Orme, exutoire au lac des Deux Montagnes.</SimpleData>
+		<SimpleData name="Admin">Pierrefonds-Roxboro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.93703747,45.45021981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44744025000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.91930709000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-1.5P1</SimpleData>
+		<SimpleData name="Local">Pierrefonds, N ponceau boul.Gouin, 1500m en amont exutoire,  branche provenant de l'est.</SimpleData>
+		<SimpleData name="Admin">Pierrefonds-Roxboro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91930709,45.44744025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44287940000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.91534887000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-2.0P4</SimpleData>
+		<SimpleData name="Local">Ste-A.-de-Bellevue, branche drainant secteur ouest, 140m à l'est de la rue Leslie Dowker.</SimpleData>
+		<SimpleData name="Admin">Sainte-Anne-de-Bellevue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91534887,45.4428794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43689060000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.90147393000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-3.3P6</SimpleData>
+		<SimpleData name="Local">Kirkland, 60m au sud de l'intersection des rues de l'Anse à l'Orme et de Timberley trail, derrière le dépôt à neige.</SimpleData>
+		<SimpleData name="Admin">Kirkland</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90147393,45.4368906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43565634000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.90144108000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-3.5</SimpleData>
+		<SimpleData name="Local">Sainte-Anne-de-Bellevue, 10m au nord du ch. Ste-Marie, 200m à l'ouest du ch. Anse à l'Orme.</SimpleData>
+		<SimpleData name="Admin">Sainte-Anne-de-Bellevue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90144108,45.43565634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43461785000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.90119677000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-3.6</SimpleData>
+		<SimpleData name="Local">Beaconsfield, 250m à l'est de la rue Lee et 25m au sud de l'autoroute 40, en amont du pluvial.</SimpleData>
+		<SimpleData name="Admin">Baie d'Urfé</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90119677,45.43461785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43105313000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.90019609000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-3.9P7</SimpleData>
+		<SimpleData name="Local">Beaconsfield, 240m à l'est de la rue Lee et 400m au sud de l'A40, embranchement provenant de la zone boisée entourant le boul. Lakeview.</SimpleData>
+		<SimpleData name="Admin">Beaconsfield</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90019609,45.43105313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.42673828000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.91346579000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-6.4</SimpleData>
+		<SimpleData name="Local">200m à l'est du Boul.Morgan et 280m au sud de la transcanadienne, affluent provenant de Ste-Anne-de-Bellevue et de la partie O et S de la zone industriel de Baie d'Urfée.</SimpleData>
+		<SimpleData name="Admin">Baie d'Urfé</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91346579,45.42673828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.42530930000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.91548702000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-6.4P12</SimpleData>
+		<SimpleData name="Local">Baie d'Urfée, boul. Morgan côté est, 250m au sud de l'autoroute 40,  affluent provenant des zones résidentilelles de Baie d'Urfé.</SimpleData>
+		<SimpleData name="Admin">Baie d'Urfé</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91548702,45.4253093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.42542208000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.91564886000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Rivière à l'Orme</SimpleData>
+		<SimpleData name="PtEchantil">AAO-6.5</SimpleData>
+		<SimpleData name="Local">Baie d'Urfée, boul.Morgan côté ouest, 250m au sud de l'A40.</SimpleData>
+		<SimpleData name="Admin">Baie d'Urfé</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91564886,45.42542208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.47467516000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.76315672000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Marais du parc-nature des Sources</SimpleData>
+		<SimpleData name="PtEchantil">ADM-1</SimpleData>
+		<SimpleData name="Local">Futur PN des Sources, prolongement sud de l'av. Marie-Curie, 375m au sud de la rue Alexander-Fleming</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76315672,45.47467516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44433895000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.59536577000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Étang du parc Angrignon</SimpleData>
+		<SimpleData name="PtEchantil">ANG-2</SimpleData>
+		<SimpleData name="Local">Montréal, parc Angrignon, bassin principal, à la sortie de l'étang.</SimpleData>
+		<SimpleData name="Admin">Le Sud-Ouest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59536577,45.44433895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.51165568000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.75544160000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bertrand</SimpleData>
+		<SimpleData name="PtEchantil">BER-0.0</SimpleData>
+		<SimpleData name="Local">R.Bertrand, exutoire à la rivière des Prairies, ponceau de l'ave. du Ruisseau</SimpleData>
+		<SimpleData name="Admin">Ahuntsic-Cartierville</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.7554416,45.51165568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.50769364000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.75361055000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bertrand</SimpleData>
+		<SimpleData name="PtEchantil">BER-0.7P1</SimpleData>
+		<SimpleData name="Local">Montréal, PN Bois-de-Liesse, O rue Camille, N  chemin de fer</SimpleData>
+		<SimpleData name="Admin">Ahuntsic-Cartierville</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.75361055,45.50769364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.50496451000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.76201281000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bertrand</SimpleData>
+		<SimpleData name="PtEchantil">BER-1.2</SimpleData>
+		<SimpleData name="Local">Pierrefonds, PN Bois-de-Liesse, en amont du ponceau principal de la piste cyclable.</SimpleData>
+		<SimpleData name="Admin">Pierrefonds-Roxboro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76201281,45.50496451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.48993015000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.76912554000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bertrand</SimpleData>
+		<SimpleData name="PtEchantil">BER-3.3</SimpleData>
+		<SimpleData name="Local">Voie de service de l'A. 40 ouest, 400m à l'est de la rue Sunnybrook</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76912554,45.48993015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.48777458000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.76653986000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bertrand</SimpleData>
+		<SimpleData name="PtEchantil">BER-3.7</SimpleData>
+		<SimpleData name="Local">Boul. Hymus coin voie d'accès A40, sur le ponceau côté nord du boul.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76653986,45.48777458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.48109997000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.77235699000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bertrand</SimpleData>
+		<SimpleData name="PtEchantil">BER-4.6</SimpleData>
+		<SimpleData name="Local">Nord du ch. St-François et 330 m à l'est de l'ave André, fossé à l'est de la voie ferrée.</SimpleData>
+		<SimpleData name="Admin">Saint-Laurent</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.77235699,45.48109997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43900381000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.72546305000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-0.0</SimpleData>
+		<SimpleData name="Local">Amont ponceau de la rue Sévigny sortie du ruisseau au lac St-Louis.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.72546305,45.43900381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44553622000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.72549275000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-1.0</SimpleData>
+		<SimpleData name="Local">Ponceau du boul. Bouchard, 150m à l'ouest du boul. Galland.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.72549275,45.44553622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45005224000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.72684285000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-1.5P2</SimpleData>
+		<SimpleData name="Local">Rencontre des rues Lépine et Meloche, côté sud.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.72684285,45.45005224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45239927000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.73107702000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-2.1</SimpleData>
+		<SimpleData name="Local">Aval du ponceau de la rue Orly, 100m au nord de l'ave Guthrie.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73107702,45.45239927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45723756000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.73871825000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-2.9</SimpleData>
+		<SimpleData name="Local">Nord de l'ave.Marshall, embranchement ouest provenant de l'aéroport de Dorval.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73871825,45.45723756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45737377000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.73797895000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-2.9P3</SimpleData>
+		<SimpleData name="Local">Nord de l'ave.Marshall, embranchement E. provenant de l'aéroport de Dorval.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73797895,45.45737377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.46903515000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.74255875000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Bouchard</SimpleData>
+		<SimpleData name="PtEchantil">BOU-4.3</SimpleData>
+		<SimpleData name="Local">Ponceau vers aire de déglaçage, O rue Hervé Saint-Martin</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74255875,45.46903515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.51001998000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.70779007000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Bassin de La Brunante</SimpleData>
+		<SimpleData name="PtEchantil">BRU-1</SimpleData>
+		<SimpleData name="Local">Parc Marcel Laurin,  bassin de la Brunante, boul. Poirier,  S des Harfangs, au pied du gazébo.</SimpleData>
+		<SimpleData name="Admin">Saint-Laurent</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.70779007,45.51001998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.49878612000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.59883663000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Lac des Castors</SimpleData>
+		<SimpleData name="PtEchantil">CAS-1</SimpleData>
+		<SimpleData name="Local">Parc du Mont-Royal, effluent du lac des Castors, 100m à l'est de la rue Remembrance, près du chalet.</SimpleData>
+		<SimpleData name="Admin">Ville-Marie</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59883663,45.49878612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.48854638000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.81060490000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Lac du parc Centenaire</SimpleData>
+		<SimpleData name="PtEchantil">CEN-1</SimpleData>
+		<SimpleData name="Local">Parc du Centenaire, rive est, exutoire du lac.</SimpleData>
+		<SimpleData name="Admin">Dollard-des-Ormeaux</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8106049,45.48854638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.69734471000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.50467130000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Coulée Grou</SimpleData>
+		<SimpleData name="PtEchantil">CGO-0.0</SimpleData>
+		<SimpleData name="Local">Coulée Grou, 300m à l'est de l'A40 et 150m au sud du boul.Gouin</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5046713,45.69734471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43109196000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.66846318000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Canal de Lachine</SimpleData>
+		<SimpleData name="PtEchantil">CLA-0.0</SimpleData>
+		<SimpleData name="Local">Amont du pont du Ch.du Musée, côté sud du canal, effluent du lac St-Louis vers le canal, en amont de l'écluse.</SimpleData>
+		<SimpleData name="Admin">Lachine</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66846318,45.43109196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44142508000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.64530608000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Canal de Lachine</SimpleData>
+		<SimpleData name="PtEchantil">CLA-1.8</SimpleData>
+		<SimpleData name="Local">Inters. Saint-Patrick et av. Dollard, est du pont Gauron, près de la caboose, sur le quai.</SimpleData>
+		<SimpleData name="Admin">Lachine</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.64530608,45.44142508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.49565381000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.55229954000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Canal de Lachine</SimpleData>
+		<SimpleData name="PtEchantil">CLA-11.2</SimpleData>
+		<SimpleData name="Local">Inters. Saint-Patrick et av. Dollard, est du pont Gauron, près de la caboose, sur le quai.</SimpleData>
+		<SimpleData name="Admin">Ville-Marie</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55229954,45.49565381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.46478167000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.59599715000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Canal de Lachine</SimpleData>
+		<SimpleData name="PtEchantil">CLA-6.6</SimpleData>
+		<SimpleData name="Local">Rue Saint-Patrick, 125m au nord-est de l'inters. avec boul. Monk, près de la rampe de mise à l'eau.</SimpleData>
+		<SimpleData name="Admin">Le Sud-Ouest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59599715,45.46478167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.46052326000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.90717502000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau O'Connell</SimpleData>
+		<SimpleData name="PtEchantil">CON-0.0</SimpleData>
+		<SimpleData name="Local">80m à l'est de la rue Morandière, en aval du boul.Gouin.</SimpleData>
+		<SimpleData name="Admin">Pierrefonds-Roxboro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90717502,45.46052326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.46137861000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.90043493000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Château-Pierrefonds</SimpleData>
+		<SimpleData name="PtEchantil">CPI-0.0</SimpleData>
+		<SimpleData name="Local">Pierrefonds, boul.Gouin ouest, 450m à l'ouest de l'ave. Château-Pierrefonds, en aval du dépôt à neige.</SimpleData>
+		<SimpleData name="Admin">Pierrefonds-Roxboro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.90043493,45.46137861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44528246000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.77880210000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Denis</SimpleData>
+		<SimpleData name="PtEchantil">DEN-0.0</SimpleData>
+		<SimpleData name="Local">Embouchure du ruisseau à la Baie de Valois, face au boul. Des Sources.</SimpleData>
+		<SimpleData name="Admin">Pointe-Claire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.7788021,45.44528246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45714513000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.77988624000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Denis</SimpleData>
+		<SimpleData name="PtEchantil">DEN-0.8P1</SimpleData>
+		<SimpleData name="Local">Rue Belmont, 200m à l'est du boul. des Sources, branche secondaire provenant de dépôts à neige</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.77988624,45.45714513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.46607162000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.78017434000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Denis</SimpleData>
+		<SimpleData name="PtEchantil">DEN-2.6</SimpleData>
+		<SimpleData name="Local">Rue Reverchon, 100m à l'est du cr. Newman</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.78017434,45.46607162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.47023727000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.78652802000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Denis</SimpleData>
+		<SimpleData name="PtEchantil">DEN-3.2</SimpleData>
+		<SimpleData name="Local">Rue de l'Aviation, 300m à l'est du boul. des Sources</SimpleData>
+		<SimpleData name="Admin">Pointe-Claire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.78652802,45.47023727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.46520331000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.54994861000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Étang du parc Lacoursière</SimpleData>
+		<SimpleData name="PtEchantil">IDS-1</SimpleData>
+		<SimpleData name="Local">Île des Soeurs, chemin du Golf, rue de la Savoyane, parc Lacoursière, muret près du garde fou .</SimpleData>
+		<SimpleData name="Admin">Verdun</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54994861,45.46520331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45610422000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.55388306000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Lac des Battures</SimpleData>
+		<SimpleData name="PtEchantil">IDS-2</SimpleData>
+		<SimpleData name="Local">Île des Soeurs, chemin de la Forêt, parc Adrien D-Archambault, sur la plate-forme de bois, lac des Battures.</SimpleData>
+		<SimpleData name="Admin">Verdun</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.55388306,45.45610422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.42971743000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.84528847000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Saint-James</SimpleData>
+		<SimpleData name="PtEchantil">JAM-0.0</SimpleData>
+		<SimpleData name="Local">Boul. St-Charles sud à l'intersection de la rue Lakeshore, exutoire au lac St-Louis.</SimpleData>
+		<SimpleData name="Admin">Beaconsfield</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84528847,45.42971743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43745043000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.83496516000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Saint-James</SimpleData>
+		<SimpleData name="PtEchantil">JAM-1.3</SimpleData>
+		<SimpleData name="Local">Extrémité nord de l'ave Pointe-Claire, 30m vers l'ouest, en aval du ponceau de l'autoroute 20.</SimpleData>
+		<SimpleData name="Admin">Pointe-Claire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.83496516,45.43745043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.43626879000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.83349020000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Saint-James</SimpleData>
+		<SimpleData name="PtEchantil">JAM-j(1)</SimpleData>
+		<SimpleData name="Local">av. Pointe-Claire, au nord de av. Florence</SimpleData>
+		<SimpleData name="Admin">Pointe-Claire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8334902,45.43626879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.53546675000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.62388009000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Étang du parc Jarry</SimpleData>
+		<SimpleData name="PtEchantil">JAR-1</SimpleData>
+		<SimpleData name="Local">Parc Jarry, près de l'inters. boul. Saint-Laurent et de la rue Faillon</SimpleData>
+		<SimpleData name="Admin">Villeray-Saint-Michel-Parc-Extension</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.62388009,45.53546675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.52345126000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.56737780000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Étang du parc Lafontaine</SimpleData>
+		<SimpleData name="PtEchantil">LAF-1</SimpleData>
+		<SimpleData name="Local">Intersection des rues Cherrier et ave du Parc La Fontaine, sortie du bassin.</SimpleData>
+		<SimpleData name="Admin">Le Plateau-Mont-Royal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5673778,45.52345126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.42515584000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.87037423000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Meadowbrook</SimpleData>
+		<SimpleData name="PtEchantil">MEA-0.4</SimpleData>
+		<SimpleData name="Local">Beaconsfield, sur l'ave Brookeside, 60m au sud de l'allée Celtic dans le parc Brookside, en aval du ponceau piétonnier.</SimpleData>
+		<SimpleData name="Admin">Beaconsfield</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87037423,45.42515584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.62948153000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.62099892000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau De Montigny</SimpleData>
+		<SimpleData name="PtEchantil">MON-0.0</SimpleData>
+		<SimpleData name="Local">Boul. Gouin E., 250m à l'ouest de l'ave Ozias-Leduc, effluent à la rivière des Prairies.</SimpleData>
+		<SimpleData name="Admin">Montréal-Nord</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.62099892,45.62948153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.61359989000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.60004453000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau De Montigny</SimpleData>
+		<SimpleData name="PtEchantil">MON-2.8</SimpleData>
+		<SimpleData name="Local">Boul. Henri-Bourassa, 50m à l'ouest de la rue Renaude-Lapointe, sur le ponceau.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.60004453,45.61359989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.60691624000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.58820736000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau De Montigny</SimpleData>
+		<SimpleData name="PtEchantil">MON-4.0</SimpleData>
+		<SimpleData name="Local">Près de l'intersection du boul. Galerie D'Anjou et de la rue Bombardier.</SimpleData>
+		<SimpleData name="Admin">Anjou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.58820736,45.60691624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.61051627000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.59670726000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau De Montigny</SimpleData>
+		<SimpleData name="PtEchantil">MON-i</SimpleData>
+		<SimpleData name="Local">350m au sud-est de l'inters. Renaude-Lapointe et du boul. Henri-Bourassa</SimpleData>
+		<SimpleData name="Admin">Anjou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.59670726,45.61051627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.69227907000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.52265322000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Marais du parc-nature de la Pointe-aux-Prairies</SimpleData>
+		<SimpleData name="PtEchantil">PAP-0.0</SimpleData>
+		<SimpleData name="Local">Parc-nature de la Pointe-aux-Prairies, secteur de la rivière des Prairies, effluent vers la rivière des Prairies.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.52265322,45.69227907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.69039379000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.52046714000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Marais du parc-nature de la Pointe-aux-Prairies</SimpleData>
+		<SimpleData name="PtEchantil">PAP-1</SimpleData>
+		<SimpleData name="Local">Parc-nature de la Pointe-aux-Prairies, secteur de la rivière des Prairies, déversoir du marais le plus à l'est</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.52046714,45.69039379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.68553905000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.52177020000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Marais du parc-nature de la Pointe-aux-Prairies</SimpleData>
+		<SimpleData name="PtEchantil">PAP-golf</SimpleData>
+		<SimpleData name="Local">Parc-nature de la Ponte-aux-Prairies, secteur rivière des Prairies, branche en provenance du Golf de Montréal.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5217702,45.68553905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.50650798000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.73248755000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Étang du parc Dr-Bernard-Paquet</SimpleData>
+		<SimpleData name="PtEchantil">PAQ-1</SimpleData>
+		<SimpleData name="Local">Inters. Av. Félix-Leclerc et rue Jean-Gascon, parc du Dr.-B.-Paquet, sur la passerelle.</SimpleData>
+		<SimpleData name="Admin">Saint-Laurent</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.73248755,45.50650798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.67709012000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.53543892000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">marais Perché du boul. Gouin E.</SimpleData>
+		<SimpleData name="PtEchantil">PER-1</SimpleData>
+		<SimpleData name="Local">Intersection du boul. Gouin est et de la rue Trefflé-Berthiaume, sortie du marais du Faubourg.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53543892,45.67709012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.67235818000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.53248167000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">marais Perché du boul. Gouin E.</SimpleData>
+		<SimpleData name="PtEchantil">PER-2</SimpleData>
+		<SimpleData name="Local">Extrémité sud de la rue Trefflé-Berthiaume, sortie du marécage du Faubourg.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.53248167,45.67235818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.50374846000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.71958979000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Bassin de rétention du parc Philippe-Laheurte</SimpleData>
+		<SimpleData name="PtEchantil">PHI-1</SimpleData>
+		<SimpleData name="Local">Rue Raymond-Lasnier</SimpleData>
+		<SimpleData name="Admin">Saint-Laurent</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.71958979,45.50374846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.51350037000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.89045080000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Marécage du parc-nature du Bois-de-l'Île-Bizard</SimpleData>
+		<SimpleData name="PtEchantil">PIB-2</SimpleData>
+		<SimpleData name="Local">Parc-Nature de l'île-Bizard, secteur des observatoires, sur la passerelle, au centre du marais.</SimpleData>
+		<SimpleData name="Admin">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8904508,45.51350037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.47341006000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.91594191000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Marécage de l'île Bizard (parc-nature du Cap-Saint-Jacques)</SimpleData>
+		<SimpleData name="PtEchantil">PIB-3</SimpleData>
+		<SimpleData name="Local">jonction de la mtée Wilson et du ch. Cherrier.</SimpleData>
+		<SimpleData name="Admin">L'Île-Bizard-Sainte-Geneviève</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91594191,45.47341006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.67225008000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.54130775000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Pinel</SimpleData>
+		<SimpleData name="PtEchantil">PIN-0.0</SimpleData>
+		<SimpleData name="Local">Boul. Gouin, 50m à l'est de la 87e ave, embouchure du ruisseau vers la rivière-des-Prairies.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54130775,45.67225008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.66238341000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.54446527000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Pinel</SimpleData>
+		<SimpleData name="PtEchantil">PIN-1.6</SimpleData>
+		<SimpleData name="Local">400m au sud-est de l'intersection du boul. Saint-Jean-Baptiste de la rue Émilie-Du-Châtelet.</SimpleData>
+		<SimpleData name="Admin">Rivière-des-Prairies-Pointe-aux-Trembles</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.54446527,45.66238341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.51332816000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.60119489000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Provost</SimpleData>
+		<SimpleData name="PtEchantil">PRO-2</SimpleData>
+		<SimpleData name="Local">Av. Roskilde, 50m à l'est de l'av. Springgrove, parc Oakwood</SimpleData>
+		<SimpleData name="Admin">Outremont</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.60119489,45.51332816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.51617385000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.74811285000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Marécage du parc-nature du Bois-de-Saraguay</SimpleData>
+		<SimpleData name="PtEchantil">SAR-1</SimpleData>
+		<SimpleData name="Local">Bois de Saraguay, 175m  N boul. Gouin , 250m E ave Jean-Bourdon, exutoire du marais à la rivière</SimpleData>
+		<SimpleData name="Admin">Ahuntsic-Cartierville</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74811285,45.51617385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44767585000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.74410669000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Fossé Smith</SimpleData>
+		<SimpleData name="PtEchantil">SMI-0.8</SimpleData>
+		<SimpleData name="Local">Boul. Montreal-Toronto, 150m à l'ouest de l'autoroute 520, près de la gare de Dorval.</SimpleData>
+		<SimpleData name="Admin">Dorval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74410669,45.44767585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.44399971000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.79932729000</SimpleData>
+		<SimpleData name="Activité">Inactif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Terra-Cotta</SimpleData>
+		<SimpleData name="PtEchantil">TER-0.0</SimpleData>
+		<SimpleData name="Local">Ch. Bord-du-lac, 70m à l'est de la rue Coolbreeze, en rive.</SimpleData>
+		<SimpleData name="Admin">Pointe-Claire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.79932729,45.44399971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stations_RUISSO">
+		<SimpleData name="LATITUDE">45.45110303000</SimpleData>
+		<SimpleData name="LONGITUDE">-73.80418628000</SimpleData>
+		<SimpleData name="Activité">Actif</SimpleData>
+		<SimpleData name="PlanEau">Ruisseau Terra-Cotta</SimpleData>
+		<SimpleData name="PtEchantil">TER-0.6</SimpleData>
+		<SimpleData name="Local">Parc Terra-Cotta, extrémité nord de la rue Glanlynn</SimpleData>
+		<SimpleData name="Admin">Pointe-Claire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.80418628,45.45110303</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
