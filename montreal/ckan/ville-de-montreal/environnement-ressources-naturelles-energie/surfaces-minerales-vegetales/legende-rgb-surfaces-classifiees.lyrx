@@ -1,0 +1,351 @@
+{
+  "type" : "CIMLayerDocument",
+  "version" : "2.7.0",
+  "build" : 26828,
+  "layers" : [
+    "CIMPATH=MineralVegetal_Compilation_2016/3b6c99b974f74b9a9ac06f7381babfde.xml"
+  ],
+  "layerDefinitions" : [
+    {
+      "type" : "CIMRasterLayer",
+      "name" : "Detection Surface Outremont Avril16 20cm 2016.tif",
+      "uRI" : "CIMPATH=MineralVegetal_Compilation_2016/3b6c99b974f74b9a9ac06f7381babfde.xml",
+      "sourceModifiedTime" : {
+        "type" : "TimeInstant"
+      },
+      "useSourceMetadata" : true,
+      "description" : "Detection Surface Outremont Avril16 20cm 2016.tif",
+      "layerElevation" : {
+        "type" : "CIMLayerElevationSurface",
+        "mapElevationID" : "{50086612-A1D8-47F3-B809-5828DDFF2D6C}"
+      },
+      "expanded" : true,
+      "layerType" : "Operational",
+      "showLegends" : true,
+      "visibility" : true,
+      "displayCacheType" : "Permanent",
+      "maxDisplayCacheAge" : 5,
+      "showPopups" : true,
+      "serviceLayerID" : -1,
+      "refreshRate" : -1,
+      "refreshRateUnit" : "esriTimeUnitsSeconds",
+      "blendingMode" : "Alpha",
+      "dataConnection" : {
+        "type" : "CIMStandardDataConnection",
+        "workspaceConnectionString" : "DATABASE=..\\..\\Outremont\\Classement",
+        "workspaceFactory" : "Raster",
+        "dataset" : "Detection Surface Outremont Avril16 20cm 2016.tif",
+        "datasetType" : "esriDTRasterDataset"
+      },
+      "colorizer" : {
+        "type" : "CIMRasterUniqueValueColorizer",
+        "resamplingType" : "NearestNeighbor",
+        "noDataColor" : {
+          "type" : "CIMRGBColor",
+          "values" : [
+            255,
+            255,
+            255,
+            0
+          ]
+        },
+        "defaultColor" : {
+          "type" : "CIMRGBColor",
+          "values" : [
+            0,
+            0,
+            0,
+            100
+          ]
+        },
+        "fieldName" : "Value",
+        "groups" : [
+          {
+            "type" : "CIMRasterUniqueValueGroup",
+            "classes" : [
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "1"
+                ],
+                "label" : "Non classifié (ISO)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    1,
+                    1,
+                    1,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "11"
+                ],
+                "label" : "Non classifié Type 2",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    1,
+                    1,
+                    1,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "12"
+                ],
+                "label" : "Non classifié Type 3",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    190,
+                    232,
+                    255,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "20"
+                ],
+                "label" : "Asphalte (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    135,
+                    135,
+                    135,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "50"
+                ],
+                "label" : "Béton (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    225,
+                    225,
+                    225,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "51"
+                ],
+                "label" : "Gravier (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    180,
+                    180,
+                    180,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "52"
+                ],
+                "label" : "Agrégat (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    190,
+                    150,
+                    198,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "53"
+                ],
+                "label" : "Pavé (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    129,
+                    179,
+                    231,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "54"
+                ],
+                "label" : "Granit (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    222,
+                    128,
+                    123,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "65"
+                ],
+                "label" : "Fosse arbre (photogrammétrie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    155,
+                    230,
+                    140,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "90"
+                ],
+                "label" : "Eau de surface (photogrammétrie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    190,
+                    210,
+                    255,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "100"
+                ],
+                "label" : "Bâtiment (photogrammétrie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    78,
+                    78,
+                    78,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "60"
+                ],
+                "label" : "Végétalisé (voirie)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    179,
+                    203,
+                    1,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "80"
+                ],
+                "label" : "Végétalisé (ISO)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    125,
+                    194,
+                    1,
+                    100
+                  ]
+                }
+              },
+              {
+                "type" : "CIMRasterUniqueValueClass",
+                "values" : [
+                  "70"
+                ],
+                "label" : "Non végétalisé (ISO)",
+                "color" : {
+                  "type" : "CIMRGBColor",
+                  "values" : [
+                    243,
+                    210,
+                    143,
+                    100
+                  ]
+                }
+              }
+            ],
+            "heading" : "Légende"
+          }
+        ],
+        "colorRamp" : {
+          "type" : "CIMRandomHSVColorRamp",
+          "maxH" : 360,
+          "minS" : 33,
+          "maxS" : 66,
+          "minV" : 50,
+          "maxV" : 99,
+          "minAlpha" : 100,
+          "maxAlpha" : 100
+        }
+      },
+      "attributeTable" : {
+        "type" : "CIMRasterTable",
+        "displayField" : "Value",
+        "editable" : true
+      }
+    }
+  ],
+  "elevationSurfaces" : [
+    {
+      "type" : "CIMMapElevationSurface",
+      "elevationMode" : "BaseGlobeSurface",
+      "name" : "Ground",
+      "verticalExaggeration" : 1,
+      "mapElevationID" : "{50086612-A1D8-47F3-B809-5828DDFF2D6C}",
+      "color" : {
+        "type" : "CIMRGBColor",
+        "values" : [
+          255,
+          255,
+          255,
+          100
+        ]
+      },
+      "surfaceTINShadingMode" : "Smooth",
+      "visibility" : true,
+      "expanded" : true
+    }
+  ],
+  "rGBColorProfile" : "sRGB IEC61966-2-1 noBPC",
+  "cMYKColorProfile" : "U.S. Web Coated (SWOP) v2"
+}
