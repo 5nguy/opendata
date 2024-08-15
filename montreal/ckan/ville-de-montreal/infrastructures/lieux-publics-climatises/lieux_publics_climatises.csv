@@ -74,12 +74,12 @@ nom,ville,adresse_principale,telephone,telephone_numero_poste,arrdondissement,ac
 "Galerie Port-Maurice","Montréal","8420, boulevard Lacordaire","5143288500",,"Saint-Léonard","Rampe d'accès",-73.598376,45.58577
 "Centre d'exposition Lethbridge","Montréal","2727, boulevard Thimens","5148556130","4443","Saint-Laurent","Rampe d'accès",-73.704747,45.504489
 "Centre des loisirs de Saint-Laurent","Montréal","1375, rue Grenet","5148556110",,"Saint-Laurent","Signalisation accessible",-73.690617,45.514224
-"Gymnase du Collège Reine-Marie","Montréal","9300, boulevard Saint-Michel","5148726689",,"Villeray–Saint-Michel–Parc-Extension","Ascenseur",-73.633012,45.572774
-"Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Ascenseur",-73.703017,45.507608
-"Centre Gadbois","Montréal","5485, chemin de la Côte-Saint-Paul","5148722786",,"Le Sud-Ouest","Rampe d'accès",-73.59552,45.466947
-"Centre sportif Trenholme","Montréal","6800, rue Sherbrooke Ouest","5144814634",,"Côte-des-Neiges–Notre-Dame-de-Grâce","Ascenseur",,
-"Centre sportif Côte-des-Neiges","Montréal","4880, avenue Van Horne","5143429988",,"Côte-des-Neiges–Notre-Dame-de-Grâce","Adapté aux poussettes",-73.638062,45.492694
-"Maison de l'environnement de Verdun","Montréal","673, 1re Avenue","5147658378",,"Verdun","Toilettes accessibles",-73.573435063721,45.458842822691
+"Gymnase du Collège Reine-Marie","Montréal","9300, boulevard Saint-Michel","5148726689",,"Villeray–Saint-Michel–Parc-Extension","Barre d'appui",-73.633012,45.572774
+"Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Rampe d'accès",-73.703017,45.507608
+"Centre Gadbois","Montréal","5485, chemin de la Côte-Saint-Paul","5148722786",,"Le Sud-Ouest","Toilette accessible en cabine",-73.59552,45.466947
+"Centre sportif Trenholme","Montréal","6800, rue Sherbrooke Ouest","5144814634",,"Côte-des-Neiges–Notre-Dame-de-Grâce","Zone de débarcadère",,
+"Centre sportif Côte-des-Neiges","Montréal","4880, avenue Van Horne","5143429988",,"Côte-des-Neiges–Notre-Dame-de-Grâce","Rampe d'accès",-73.638062,45.492694
+"Maison de l'environnement de Verdun","Montréal","673, 1re Avenue","5147658378",,"Verdun","Porte à ouverture automatique",-73.573435063721,45.458842822691
 "Maison Nivard-De Saint-Dizier, musée et site archéologique","Montréal","7244, boulevard LaSalle","5147657284",,"Rosemont–La Petite-Patrie","Ascenseur",-73.582882536873,45.437477344109
 "Musée de Lachine","Montréal","1, chemin du Musée","5143676423",,"Rivière-des-Prairies–Pointe-aux-Trembles","Zone de débarcadère",-73.666455,45.429888
 "Parc Roger-Rousseau","Montréal","7501, avenue Rondeau","5144938234",,"Saint-Laurent",,-73.549869,45.61682
@@ -179,9 +179,9 @@ nom,ville,adresse_principale,telephone,telephone_numero_poste,arrdondissement,ac
 "Gymnase du complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Adapté aux poussettes",-73.703017,45.507608
 "Salle multifonctionnelle du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Barre d'appui",-73.703017,45.507608
 "Chalet du parc La Fontaine","Montréal","3933, avenue du Parc-La Fontaine",,,"Le Plateau-Mont-Royal","Zone de débarcadère",-73.56949705524104,45.525212758002425
-"Médialab Maisonneuve","Montréal","4120, rue Ontario Est","5148724213",,"Mercier–Hochelaga-Maisonneuve","Toilettes accessibles",-73.540722,45.550621
-"Édifice Emmanuel-Arthur-Doucet","Montréal","3622, rue Hochelaga","5145236363",,"Mercier–Hochelaga-Maisonneuve","Ascenseur",-73.550821,45.547286
-"Chalet Ogilvy","Montréal","821, avenue Ogilvy",,,"Villeray–Saint-Michel–Parc-Extension","Accessible en fauteuil roulant avec assistance",-73.627033,45.526606
-"Salle d’entraînement du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Stationnement accessible",-73.703017,45.507608
-"Maison de la culture Saint-Laurent","Montréal","2727, boulevard Thimens","5148556130","4443","Saint-Laurent","Accessible en fauteuil roulant",-73.70503174989236,45.50436369695285
-"Maison de la culture d'Outremont","Montréal","41, avenue Saint-Just","5144957419",,"Outremont","Rampe d'accès",-73.608412,45.517911
+"Médialab Maisonneuve","Montréal","4120, rue Ontario Est","5148724213",,"Mercier–Hochelaga-Maisonneuve","Adapté aux poussettes",-73.540722,45.550621
+"Édifice Emmanuel-Arthur-Doucet","Montréal","3622, rue Hochelaga","5145236363",,"Mercier–Hochelaga-Maisonneuve","Adapté aux poussettes",-73.550821,45.547286
+"Chalet Ogilvy","Montréal","821, avenue Ogilvy",,,"Villeray–Saint-Michel–Parc-Extension","Accessible en fauteuil roulant",-73.627033,45.526606
+"Salle d’entraînement du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Rampe d'accès",-73.703017,45.507608
+"Maison de la culture Saint-Laurent","Montréal","2727, boulevard Thimens","5148556130","4443","Saint-Laurent","Zone de débarcadère pour transport adapté",-73.70503174989236,45.50436369695285
+"Maison de la culture d'Outremont","Montréal","41, avenue Saint-Just","5144957419",,"Outremont","Ascenseur",-73.608412,45.517911
