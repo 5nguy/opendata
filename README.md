@@ -1,7 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Open data repository 
-Personnal Git repository of open data for my ongoing analysis.
+Personnal Git repository of open data, specifically with file versionning for my ongoing analysis.
 
 All of the data is provided by :
 * Montreal Open Data Portal : https://donnees.montreal.ca
