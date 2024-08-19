@@ -1,0 +1,19 @@
+ï»¿ID;NOM;ZONE MARC;DESCRIPTIF
+1;NO_SEQ;-;Identifiant interne Ã  BAnQ
+2;IDENTIFIANT;024a;Identifiant CUP
+3;TITRE;245 a ;titre de l'Åuvre
+4;DATE SUPPORT;1003;Date de sortie de l'Åuvre sur support
+5;TYPE ;300a;type de support (DVD, Blu-Ray)
+6;NB ITEMS;300a;Nombre d'items
+7;DURÃE;300a;DurÃ©e totale de l'Åuvre audiovisuelle
+8;PRODUCTION;264b;Nom de la maison de production
+9;CONTRIBUTEURS;700a;Liste des contributeurs Ã  l'Åuvre (acteurs, rÃ©alisateursâ¦)
+10;LANGUE PRINCIPALE;1017;Langue principale de l'Åuvre
+11;LANGUE SECONDAIRE;041 a;Langues secondaires de l'Åuvre
+12;LANGUES SOUS TITRES;041 j;Langues des sous-titres de l'Åuvre
+13;CATÃGORIE;091a;CatÃ©gorie de l'Åuvre
+14;SOUS CATÃGORIE;091a;Sous catÃ©gorie de l'Åuvre
+15;SUJETS;650a;Liste des sujets de l'Åuvre
+16;ANNEE DE PRODUCTION;046k;AnnÃ©e de production de l'Åuvre
+17;PAYS DE PRODUCTION;257a;Pays de production de l'Åuvre
+18;LIEN_CATALOGUE;crÃ©e Ã  partir du NO_SEQ;Lien vers le catalogue BAnQ

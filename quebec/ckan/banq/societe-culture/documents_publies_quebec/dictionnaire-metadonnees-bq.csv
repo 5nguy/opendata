@@ -1,0 +1,23 @@
+ï»¿DESCRIPTION DES DONNEES;;;
+Champ;Type prioritaire;IntitulÃ©;Description
+NO_SEQ;Numerique;NO SEQ;NumÃ©ro de la notice (identifiant interne Ã  BAnQ)
+DC_IDENTIFIER_ISBN_1;NumÃ©rique;DC IDENTIFIER ISBN ;ISBN du document
+DC_TYPE__STATUT;CatÃ©gorielle;DC TYPE  STATUT;Statut du document (Ã  paraÃ®tre ou publiÃ©)
+DC_TITLE;Texte;DC TITLE;Titre du document
+DC_CREATOR__NOM;Texte;DC CREATOR  NOM;Nom de l'auteur
+DC_CREATOR__PRENOM;Texte;DC CREATOR  PRENOM;PrÃ©nom de l'auteur
+DC_CREATOR__GROUPE;Texte;DC CREATOR  GROUPE;Nom de la collectivitÃ© Ã  laquelle est rattachÃ© le document
+DC_CONTRIBUTOR__NOM;Texte;DC CONTRIBUTOR  NOM;Nom de l'auteur secondaire (Ã©ventuel)
+DC_CONTRIBUTOR__PRENOM;Texte;DC CONTRIBUTOR  PRENOM;PrÃ©nom de l'auteur secondaire (Ã©ventuel)
+DC_CONTRIBUTOR__GROUPE;Texte;DC CONTRIBUTOR  GROUPE;Nom de la collectivitÃ© secondaire (Ã©ventuelle) Ã  laquelle est rattachÃ©  le document
+DC_SUBJECT;CatÃ©gorielle;DC SUBJECT;Sujet du document
+DC_PUBLISHER;Texte;DC PUBLISHER;Ãditeur du document
+DC_DATE_ISSUED;Date;DC DATE  ISSUED;AnnÃ©e de dÃ©livrance du document
+DC_DATE_CREATED;Date;DC DATE CREATED;Date de crÃ©ation du document dans le systÃ¨me de BAnQ
+DC_DATE_MODIFIED;Date;DC DATE MODIFIED;Date de modification de la notice liÃ©e au document dans le systÃ¨me de BAnQ
+DC_TYPE__GENRE;CatÃ©gorielle;DC TYPE  GENRE;Type de document
+DC_TYPE__CLASSIFICATION_DEWEY;CatÃ©gorielle;DC TYPE CLASSIFICATION DEWEY;Classe Dewey Ã  laquelle appartient le document
+DC_FORMAT__NBPAGES;NumÃ©rique;DC FORMAT  NBPAGES;Nombre de pages du document
+DC_FORMAT__DIMENSIONS;Texte;DC FORMAT  DIMENSIONS;Dimensions du document
+DC_LANGUAGE;Texte;DC LANGUAGE;Langue de publication du document
+DC_SOURCE__LIEN_NOTICE;Url;DC SOURCE  LIEN NOTICE;Lien vers la notice du document
