@@ -1,0 +1,138 @@
+﻿GROUPE,POSTE,DESCRIPTION
+MUNICI,IND0201,Indice d'effort fiscal
+MUNICI,IND0401,Indice charges nettes par 100 $ RFU
+MUNICI,PRC0100,"Endettement total net à long terme par RFU (municipalités standards et reconstituées, centrales : partie locale dont l'agglomération taxe)"
+MUNICI,PRC0101,Endettement total net à long terme par RFU (municipalités liées dont l'agglomération taxe)
+MUNICI,PRC0102,Endettement total net à long terme par RFU (agglomérations qui taxent)
+CP,PRC0110,Endettement total net à long terme par RFU
+MAR,PRC0120,Endettement total net à long terme par RFU
+PROV,PRC0150,Endettement total net à long terme par RFU
+RAD,PRC0170,Endettement total net à long terme par RFU
+MUNICI,PRC0200,"Service de la dette / (Charges nettes sans l'amortissement + remboursement de la dette à long terme + variation fonds d'amortissement) (municipalités standards, reconstituées, partie globale munipalités centrales)"
+CP,PRC0210,Service de la dette / (Charges nettes sans l'amortissement + remboursement de la dette à long terme + variation du fonds d'amortissement)
+MAR,PRC0220,Service de la dette / (Charges nettes sans l'amortissement + remboursement de la dette à long terme + variation du fonds d'amortissement)
+PROV,PRC0250,Service de la dette / (Charges nettes sans l'amortissement + remboursement de la dette à long terme + variation du fonds d'amortissement)
+RAD,PRC0270,Service de la dette / (Charges nettes sans l'amortissement + remboursement de la dette à long terme + variation du fonds d'amortissement)
+MUNICI,PRC0300,"Charges nettes par RFU (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC0301,Charges nettes par RFU (municipalités liées dont l'agglomération taxe)
+CP,PRC0310,Charges nettes par RFU
+MAR,PRC0320,Charges nettes par RFU
+PROV,PRC0350,Charges nettes par RFU
+RAD,PRC0370,Charges nettes par RFU
+CP,PRC0610,Endettement total net à long terme par habitant
+PROV,PRC0650,Endettement total net à long terme par habitant
+MUNICI,PRC2100,Valeur comptable nette / Coût des immobilisations
+CP,PRC2110,Valeur comptable nette / Coût des immobilisations
+MAR,PRC2120,Valeur comptable nette / Coût des immobilisations
+PROV,PRC2150,Valeur comptable nette / Coût des immobilisations
+RAD,PRC2170,Valeur comptable nette / Coût des immobilisations
+MUNICI,PRC2500,Excédent (déficit) de fonctionnement accumulé / Revenus de fonctionnement
+CP,PRC2510,Excédent (déficit) de fonctionnement accumulé / Revenus de fonctionnement
+MAR,PRC2520,Excédent (déficit) de fonctionnement accumulé / Revenus de fonctionnement
+PROV,PRC2550,Excédent (déficit) de fonctionnement accumulé / Revenus de fonctionnement
+RAD,PRC2570,Excédent (déficit) de fonctionnement accumulé / Revenus de fonctionnement
+MUNICI,PRC2700,Taxes de fonctionnement / Revenus de fonctionnement
+CP,PRC2710,Taxes de fonctionnement / Revenus de fonctionnement
+MAR,PRC2720,Taxes de fonctionnement / Revenus de fonctionnement
+PROV,PRC2750,Taxes de fonctionnement / Revenus de fonctionnement
+RAD,PRC2770,Taxes de fonctionnement / Revenus de fonctionnement
+MUNICI,PRC2800,Compensations tenant lieu de taxes / Revenus de fonctionnement
+CP,PRC2810,Compensations tenant lieu de taxes / Revenus de fonctionnement
+MAR,PRC2820,Compensations tenant lieu de taxes / Revenus de fonctionnement
+PROV,PRC2850,Compensations tenant lieu de taxes / Revenus de fonctionnement
+RAD,PRC2870,Compensations tenant lieu de taxes / Revenus de fonctionnement
+MUNICI,PRC2900,Transferts de fonctionnement / Revenus de fonctionnement
+CP,PRC2910,Transferts de fonctionnement / Revenus de fonctionnement
+MAR,PRC2920,Transferts de fonctionnement / Revenus de fonctionnement
+PROV,PRC2950,Transferts de fonctionnement / Revenus de fonctionnement
+RAD,PRC2970,Transferts de fonctionnement / Revenus de fonctionnement
+MUNICI,PRC3000,"Endettement total net à long terme par unité d'évaluation (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC3001,Endettement total net à long terme par unité d'évaluation (total municipalités liées dont l'agglomération taxe)
+MUNICI,PRC3002,Endettement total net à long terme par unité d'évaluation (en proportion de la RFU de la municipalité) (partie agglomération des municipalités liées dont l'agglomération taxe)
+MUNICI,PRC3003,Endettement total net à long terme par unité d'évaluation (agglomérations qui taxent)
+CP,PRC3010,Endettement total net à long terme par unité d'évaluation
+MAR,PRC3020,Endettement total net à long terme par unité d'évaluation
+PROV,PRC3050,Endettement total net à long terme par unité d'évaluation
+RAD,PRC3070,Endettement total net à long terme par unité d'évaluation
+MUNICI,PRC3100,"Charges nettes par unité d'évaluation (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC3101,Charges nettes par unité d'évaluation (total municipalités liées dont l'agglomération taxe)
+MUNICI,PRC3102,Charges nettes par unité d'évaluation (en proportion de la RFU de la municipalité) (partie agglomération des municipalités liées dont l'agglomération taxe)
+MUNICI,PRC3103,Charges nettes par unité d'évaluation (agglomérations qui taxent)
+CP,PRC3110,Charges nettes par unité d'évaluation
+MAR,PRC3120,Charges nettes par unité d'évaluation
+PROV,PRC3150,Charges nettes par unité d'évaluation
+RAD,PRC3170,Charges nettes par unité d'évaluation
+MUNICI,PRC3200,"Taxes par unité d'évaluation imposable (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC3201,Taxes par unité d'évaluation imposable (total municipalités liées dont l'agglomération taxe)
+MUNICI,PRC3202,Taxes par unité d'évaluation imposable (en proportion de la RFU de la municipalité) (partie agglomération des municipalités liées dont l'agglomération taxe)
+MUNICI,PRC3203,Taxes par unité d'évaluation imposable (agglomérations qui taxent)
+CP,PRC3210,Taxes par unité d'évaluation imposable
+MAR,PRC3220,Taxes par unité d'évaluation imposable
+PROV,PRC3250,Taxes par unité d'évaluation imposable
+RAD,PRC3270,Taxes par unité d'évaluation imposable
+MUNICI,PRC3500,Taxes de fonctionnement sur la valeur foncière / Revenus de fonctionnement
+CP,PRC3510,Taxes de fonctionnement sur la valeur foncière / Revenus de fonctionnement
+MAR,PRC3520,Taxes de fonctionnement sur la valeur foncière / Revenus de fonctionnement
+PROV,PRC3550,Taxes de fonctionnement sur la valeur foncière / Revenus de fonctionnement
+RAD,PRC3570,Taxes de fonctionnement sur la valeur foncière / Revenus de fonctionnement
+MUNICI,PRC3600,Taxes de fonctionnement sur une autre base / Revenus de fonctionnement
+CP,PRC3610,Taxes de fonctionnement sur une autre base / Revenus de fonctionnement
+MAR,PRC3620,Taxes de fonctionnement sur une autre base / Revenus de fonctionnement
+PROV,PRC3650,Taxes de fonctionnement sur une autre base / Revenus de fonctionnement
+RAD,PRC3670,Taxes de fonctionnement sur une autre base / Revenus de fonctionnement
+MUNICI,PRC3700,Autres revenus de fonctionnement / Revenus de fonctionnement
+CP,PRC3710,Autres revenus de fonctionnement / Revenus de fonctionnement
+MAR,PRC3720,Autres revenus de fonctionnement / Revenus de fonctionnement
+PROV,PRC3750,Autres revenus de fonctionnement / Revenus de fonctionnement
+RAD,PRC3770,Autres revenus de fonctionnement / Revenus de fonctionnement
+MUNICI,PRC3800,Acquisition d'immobilisations / Coût des immobilisations
+CP,PRC3810,Acquisition d'immobilisations / Coût des immobilisations
+MAR,PRC3820,Acquisition d'immobilisations / Coût des immobilisations
+PROV,PRC3850,Acquisition d'immobilisations / Coût des immobilisations
+RAD,PRC3870,Acquisition d'immobilisations / Coût des immobilisations
+MUNICI,PRC3900,Dette à long terme / Actifs
+CP,PRC3910,Dette à long terme / Actifs
+MAR,PRC3920,Dette à long terme / Actifs
+PROV,PRC3950,Dette à long terme / Actifs
+RAD,PRC3970,Dette à long terme / Actifs
+MUNICI,PRC4000,Taux global de taxation uniformisé
+MUNICI,PRC4001,T.G.T. uniformisé (municipalités liées)
+CP,PRC4010,T.G.T. uniformisé
+MAR,PRC4020,T.G.T. uniformisé
+PROV,PRC4050,T.G.T. uniformisé
+RAD,PRC4070,T.G.T. uniformisé
+MUNICI,PRC4100,"Charge fiscale moyenne des résidences d'un logement (incluant condominiums) (municipalités standards, reconstituées, partie locale municipalités centrales"
+MUNICI,PRC4101,Charge fiscale moyenne des résidences d'un logement (incluant condominiums) (total municipalités liées)
+MUNICI,PRC4102,Charge fiscale moyenne des résidences d'un logement (incluant condominiums) (partie agglomération municipalités liées)
+CP,PRC4110,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+MAR,PRC4120,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+PROV,PRC4150,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+RAD,PRC4170,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+MUNICI,PRC4200,"Charge fiscale moyenne des logements (municipalités standards, reconstituées, partie locale municipalités centrales)"
+MUNICI,PRC4201,Charge fiscale moyenne des logements (total municipalités liées)
+MUNICI,PRC4202,Charge fiscale moyenne des logements (partie agglomération municipalités liées)
+CP,PRC4210,Charge fiscale moyenne des logements
+MAR,PRC4220,Charge fiscale moyenne des logements
+PROV,PRC4250,Charge fiscale moyenne des logements
+RAD,PRC4270,Charge fiscale moyenne des logements
+MUNICI,PRC4300,"Charges nettes par logement et local (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC4301,Charges nettes par logement et local (total municipalités liées dont l'agglomération taxe)
+MUNICI,PRC4302,Charges nettes par logement et local (en proportion de la RFU de la municipalité) (partie agglomération des municipalités liées dont l'agglomération taxe)
+CP,PRC4310,Charges nettes par logement et local
+MAR,PRC4320,Charges nettes par logement et local
+PROV,PRC4350,Charges nettes par logement et local
+RAD,PRC4370,Charges nettes par logement et local
+MUNICI,PRC4400,"Taxes par logement et local (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC4401,Taxes par logement et local (total municipalités liées dont l'agglomération taxe)
+MUNICI,PRC4402,Taxes par logement et local (en proportion de la RFU de la municipalité) (partie agglomération des municipalités liées dont l'agglomération taxe)
+CP,PRC4410,Taxes par logement et local
+MAR,PRC4420,Taxes par logement et local
+PROV,PRC4450,Taxes par logement et local
+RAD,PRC4470,Taxes par logement et local
+MUNICI,PRC4500,"Endettement total net à long terme par logement et local (municipalités standards et reconstituées, centrales : parties locale et agglomération dont l'agglomération taxe)"
+MUNICI,PRC4501,Endettement total net à long terme par logement et local (total municipalités liées dont l'agglomération taxe)
+MUNICI,PRC4502,Endettement total net à long terme par logement et local (en proportion de la RFU de la municipalité) (partie agglomération des municipalités liées dont l'agglomération taxe)
+CP,PRC4510,Endettement total net à long terme par logement et local
+MAR,PRC4520,Endettement total net à long terme par logement et local
+PROV,PRC4550,Endettement total net à long terme par logement et local
+RAD,PRC4570,Endettement total net à long terme par logement et local

@@ -1,0 +1,76 @@
+﻿POSTE,DESCRIPTION
+IND0102,Indice RFU par unité d'évaluation imposable et compensable
+IND0200,Indice d'effort fiscal
+IND0400,Indice charges nettes par 100 $ RFU
+PFRAT0111,RFU par unité d'évaluation imposable et compensable
+PFRAT0121,RFU par unité d'évaluation imposable et compensable
+PFRAT0151,RFU par unité d'évaluation imposable et compensable
+PFRAT0171,RFU par unité d'évaluation imposable et compensable
+PFRAT0210,T.G.T. uniformisé
+PFRAT0220,T.G.T. uniformisé
+PFRAT0250,T.G.T. uniformisé
+PFRAT0270,T.G.T. uniformisé
+PRC1400,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+PRC1401,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables - agglomération
+PRC1410,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+PRC1420,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+PRC1450,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+PRC1470,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+PRC1500,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+PRC1501,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables - agglomération
+PRC1510,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+PRC1520,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+PRC1550,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+PRC1570,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+PRC1600,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+PRC1601,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables - agglomération
+PRC1610,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+PRC1620,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+PRC1650,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+PRC1670,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+PRC2000,Évaluation moyenne uniformisée par logement
+PRC2010,Évaluation moyenne uniformisée par logement
+PRC2020,Évaluation moyenne uniformisée par logement
+PRC2050,Évaluation moyenne uniformisée par logement
+PRC2070,Évaluation moyenne uniformisée par logement
+PRC2200,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+PRC2201,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables - agglomération
+PRC2210,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+PRC2220,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+PRC2250,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+PRC2270,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+PRC2300,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+PRC2310,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+PRC2320,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+PRC2350,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+PRC2370,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+PRC3300,"Charge fiscale moyenne des résidences d'un logement (incluant condominiums) (municipalités standards, reconstituées, partie locale municipalités centrales)"
+PRC3301,Charge fiscale moyenne des résidences d'un logement (incluant condominiums) (total municipalités liées)
+PRC3302,Charge fiscale moyenne des résidences d'un logement (incluant condominiums) (partie agglomération municipalités liées)
+PRC3310,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+PRC3320,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+PRC3350,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+PRC3370,Charge fiscale moyenne des résidences d'un logement (incluant condominiums)
+PRC3400,"Charge fiscale moyenne des logements (municipalités standards, reconstituées, partie locale municipalités centrales)"
+PRC3401,Charge fiscale moyenne des logements (total municipalités liées)
+PRC3402,Charge fiscale moyenne des logements (partie agglomération municipalités liées)
+PRC3410,Charge fiscale moyenne des logements
+PRC3420,Charge fiscale moyenne des logements
+PRC3450,Charge fiscale moyenne des logements
+PRC3470,Charge fiscale moyenne des logements
+PRR0202,Évaluation imposable uniformisée résidentielle
+PRR0203,Évaluation imposable uniformisée résidentielle - agglomération
+RAT0130,RFU par unité d'évaluation imposable et compensable
+RAT0131,RFU par unité d'évaluation imposable et compensable - agglomération
+RAT0200,"T.G.T. uniformisé (municipalités standards, reconstituées, parties locale et agglomération des municipalités centrales)"
+RAT0201,T.G.T. uniformisé (municipalitées liées)
+RFU0400,Évaluation imposable uniformisée industrielle et commerciale
+RFU0401,Évaluation imposable uniformisée industrielle et commerciale - agglomération
+RFU0500,Évaluation imposable uniformisée agricole
+RFU0501,Évaluation imposable uniformisée agricole - agglomération
+RFU0600,Évaluation imposable uniformisée autre
+RFU0601,Évaluation imposable uniformisée autre - agglomération
+RFU0700,Évaluation uniformisée des immeubles imposables
+RFU0702,Évaluation uniformisée des immeubles imposables - agglomération
+RFU3000,Richesse foncière uniformisée (RFU)
+RFU3001,Richesse foncière uniformisée (RFU) - agglomération
