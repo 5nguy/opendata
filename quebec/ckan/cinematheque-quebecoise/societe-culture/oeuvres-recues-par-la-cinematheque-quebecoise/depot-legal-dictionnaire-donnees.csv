@@ -1,0 +1,35 @@
+champ_csv,type_de_donnee,definition
+numero_sequentiel,NumÃ©rique (entier),"NumÃ©ro dâenregistrement sÃ©quentiel de la notice dans la base de donnÃ©es qui sert Ã  identifier un Ã©lÃ©ment unique. Ce tout peut Ãªtre composÃ© de plus dâune unitÃ© matÃ©rielle (films sur plusieurs bobines par exemple), et jusquâen mars 2017, ce tout peut Ãªtre une unitÃ© matÃ©rielle qui contient plusieurs Åuvres (par exemple, plusieurs Ã©pisodes dâune sÃ©rie tÃ©lÃ©visÃ©e sur une cassette)."
+numero_objet,Texte,Correspond au numÃ©ro identifiant l'unitÃ© matÃ©rielle si plusieurs Ã©lÃ©ments cohabitent sur un mÃªme support (cassette vidÃ©o ou cartouche LTO sur lequel il y a plusieurs Ã©lÃ©ments films par exemple). 
+nombre_bobine-bandes,NumÃ©rique (entier),"Le nombre inscrit dans ce champ correspond au nombre dâunitÃ©s matÃ©rielles constituant le document enregistrÃ© (vidÃ©ocassettes, bobines pellicule, cartouche LTO, etc.)."
+titre_version,Texte,"Titre de la version cataloguÃ©e de lâÅuvre tel quâil apparaÃ®t Ã  lâÃ©cran dâun appareil de lecture. NBÂ : une Åuvre peut avoir plusieurs versions (par exemple, version franÃ§aise, version anglaise), chacune cataloguÃ©e sÃ©parÃ©ment."
+societe_production,Texte,La sociÃ©tÃ© de production responsable de lâÅuvre.
+titre_definitif,Texte,"Ce champ fait rÃ©fÃ©rence au titre donnÃ© Ã  une production lors de sa premiÃ¨re projection publique dans le pays dâorigine oÃ¹ lâayant droit (sociÃ©tÃ© de production ou producteur) est domiciliÃ©, ou lors de sa premiÃ¨re diffusion tÃ©lÃ©."
+grande_categorie,Texte,"Ce champ fait rÃ©fÃ©rence au type de production Ã  laquelle appartient lâÅuvre originale du point de vue de sa diffusion principale. Les plus utilisÃ©es : FILM, VIDÃO, TV, INTERNET."
+pays,Texte,"Cette zone sert Ã  identifier le pays de production dâune Åuvre, celui-ci Ã©tant dÃ©fini comme le pays dans lequel la sociÃ©tÃ© ou la personne qui a produit lâÅuvre est domiciliÃ©."
+realisation,Texte,"Ce champ identifie le nom du ou des rÃ©alisateurs, rÃ©alisatrices dâune Åuvre."
+annee_sortie,Texte,"Ce champ renvoie Ã  lâannÃ©e de la premiÃ¨re projection ou diffusion publique dâune Åuvre appartenant Ã  la grande catÃ©gorie FILM ou VIDÃO. En lâabsence de cette information, on utilise lâannÃ©e de copyright si elle est connue ou la premiÃ¨re prÃ©sentation publique (salles, festivals, etc.)"
+annees_diffusion_debut,Date (AAAA),"Pour une Åuvre avec la valeur TV ou INTERNET dans grande_categorie, ce champ indique la date de sa premiÃ¨re diffusion publique."
+categories_film,Texte,"Ce champ diffÃ©rencie la version courte ou longue dâune Åuvre, ainsi que la version pour salle versus celle pour la tÃ©lÃ©vision. Le motif de crÃ©ation dâune version est parfois indiquÃ© entre parenthÃ¨ses."
+langues,Texte,Ce champ sert Ã  identifier les langues utilisÃ©es dans le document cataloguÃ© suivi d'une prÃ©cision entre parenthÃ¨ses identifiant sous quelle forme elle est dÃ©veloppÃ©e : 1) sous-titres 2) son 3) gÃ©nÃ©rique.
+date_reception,Date (AAAA-MM-JJ),Date Ã  laquelle a Ã©tÃ© reÃ§u le matÃ©riel audiovisuel. Cette date correspond toujours Ã  la date d'accusÃ© de rÃ©ception envoyÃ© au dÃ©posant. 
+types_elements,Texte,"Ce champ prÃ©cise la catÃ©gorie de matÃ©riel du support. Elle permet dâune part la distinction entre la pellicule et la vidÃ©o, et, dâautre part, de qualifier lâÃ©mulsion (en pellicule) ou le support dâenregistrement (en vidÃ©o, ou cartouche LTO) du son et de lâimage. "
+autres_attributs,Texte,"Ce champ contient principalement des informations sur les fonctionnalitÃ©s dâaccessibilitÃ© pour malvoyants. Cependant, il contient aussi des informations liÃ©es au type de support."
+formats,Texte,Le format fait rÃ©fÃ©rence Ã  la largeur du support exprimÃ©e en millimÃ¨tres pour le film sur support pellicule : 35 mm ou 16 mm. 
+couleurs,Texte,"Ce champ exprime sous quelles couleurs se prÃ©sente lâimage lorsquâon visionne le document : complÃ¨tement en couleurs (couleurs), complÃ¨tement en noir et blanc (noir et blanc), ou comprenant des sÃ©quences en couleurs et des sÃ©quences en noir et blanc (coul. et n. & b.). "
+formats_projection,Texte,Ce champ exprime le ratio entre la hauteur et la largeur de lâimage dâun document sur support pellicule lorsquâil est projetÃ©.
+metrages,Texte,"Ce champ renvoie Ã  la mesure dâun document sur support pellicule, en mÃ¨tres ou en pieds, de la premiÃ¨re image Ã  la derniÃ¨re image."
+duree,Texte,"Ce champ renvoie Ã  la durÃ©e dâun document au format MINUTES:SECONDES, de la premiÃ¨re image Ã  la derniÃ¨re image."
+duree_precisions,Texte,PrÃ©cisions sur la mesure du champ duree.
+duree_originale,Texte,Lâinformation enregistrÃ©e dans ce champ signale la durÃ©e dâune Åuvre au format MINUTES:SECONDES au moment de sa sortie ou de sa premiÃ¨re diffusion.
+duree_originale_precisions,Texte,PrÃ©cisions sur la mesure du champ duree_originale.
+cadence,NumÃ©rique (Float),Le champ cadence correspond Ã  la vitesse (calculÃ©e en nombre dâimages par seconde) Ã  laquelle un document doit Ãªtre projetÃ©. 
+marques_support,Texte,"Ce champ identifie le nom du fabricant du support pellicule, vidÃ©o ou LTO."
+supports,Texte,"Ce champ identifie le matÃ©riau dont est constituÃ© le support sur pellicule (par exemple, polyester)."
+procedes_sonore,Texte,Ce champ identifie diffÃ©rents procÃ©dÃ©s techniques ou diffÃ©rentes normes dâenregistrement liÃ©s au son de lâÅuvre. 
+formats_ruban,Texte,Ce champ contient la largeur du support â analogique ou numÃ©rique â du document cataloguÃ© (ex : 1/2 pouce).
+procedes_image_electronique,Texte,Ce champ permet dâidentifier quel procÃ©dÃ© technique ou norme dâenregistrement a Ã©tÃ© utilisÃ© â autant pour lâimage magnÃ©tique que numÃ©rique. 
+standard_couleur,Texte,"Pour les format non HD, ce champ signale le type de normalisation du codage des couleurs pour la tÃ©lÃ©vision : PAL ou NTSC. Pour les formats HD, ce champ est vide."
+formats_diffusion,Texte,Ce champ indique le ratio entre la hauteur et la largeur de lâimage dâun document sur support vidÃ©o lorsquâil est projetÃ©.
+definition,Texte,Ce champ signale le nombre de lignes balayÃ©es par image (pour support vidÃ©o et magnÃ©tique uniquement).
+standard_compression,Texte,Ce champ signale le standard de compression qui a Ã©tÃ© utilisÃ© lors de lâenregistrement dâun fichier numÃ©rique audio ou vidÃ©o.

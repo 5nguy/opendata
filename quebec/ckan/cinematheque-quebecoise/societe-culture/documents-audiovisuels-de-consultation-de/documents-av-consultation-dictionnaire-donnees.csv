@@ -1,0 +1,11 @@
+champ_csv,type_de_donnee,definition
+numero_sequentiel,NumÃ©rique (entier),"Identifiant numÃ©rique de lâÃ©lÃ©ment matÃ©riel unique (par exemple, une vidÃ©ocassette, un DVD ou un disque Blu-ray)."
+cote,Texte,Indice numÃ©rique ou alphanumÃ©rique utilisÃ©e pour la classification d'une vidÃ©ocassette ou un disque.
+titre_boitier,Texte,Titre quâon retrouve sur le boÃ®tier dâune vidÃ©ocassette ou du disque si celui-ci est diffÃ©rent du titre du film identifiÃ© dans le champ Åuvres.
+oeuvres,Texte,Liste des Åuvres qui figurent sur le support. Un support peut contenir une ou plusieurs Åuvres.
+editeur,Texte,Responsable de lâÃ©dition ou de la distribution du support vidÃ©o.
+format,Texte,"Mention du type de format du document traitÃ©. Valeurs possibles : Blu-Ray, DVD, VHS."
+duree_minutes,NumÃ©rique (entier),Nombre total de minutes que dure la cassette ou le film du disque (sans les supplÃ©ments).
+langues_sonores,Texte,Mention de la ou des langues disponibles pour le son sur le support vidÃ©o.
+langues_sous-titres,Texte,Mention de la ou des langues disponibles en sous-titre pour l'Åuvre sur le support vidÃ©o.
+supplements,Texte,"Autres Ã©lÃ©ments prÃ©sents sur le support en complÃ©ment du film (par exemple, commentaires audio, entrevues, etc.)."

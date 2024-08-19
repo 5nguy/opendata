@@ -1,0 +1,216 @@
+# Schéma du jeu de données liées
+Les sections suivantes résument la structure des entités principales qui se trouvent dans le jeu de données liées créé par la Cinémathèque à partir des données internes de son catalogue. 
+
+Dans ce jeu de données, chaque « œuvre » (au sens non technique du terme) est représentée pas trois entités centrales :
+
+1. [frbroo:F1_Work](https://www.iflastandards.info/fr/frbr/frbroo#F1) (l'œuvre au sens technique) : L'œuvre en tant qu'entité conceptuelle.
+2. [frbroo:F2_Expression](https://www.iflastandards.info/fr/frbr/frbroo#F2) (l'expression) : L'œuvre en tant que séquence de symboles définissables.
+3. [frbroo:F28_Expression_Creation](https://www.iflastandards.info/fr/frbr/frbroo#F28) (la création de l'expression) : L'événement de la production de l'œuvre : le tournage, la post-production, etc.
+
+Chaque section ci-dessous présente d'abord un exemple des différents types de propriétés que l'un des entités centrales prend comme sujet, suivi d'exemples des autres entités utilisées pour décrire l'entité centrale.
+
+Les descriptions de ce schéma suivent la syntaxe [ttl](https://fr.wikipedia.org/wiki/Turtle_(syntaxe)) et utilisent les espaces de noms suivants :
+
+```
+cmtq: <http://data.cinematheque.qc.ca/resource/>
+crm: <http://www.cidoc-crm.org/cidoc-crm/>
+frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/>
+wd: <https://www.wikidata.org/entity/>
+qudt: <http://qudt.org/vocab/unit/>
+rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+owl: <http://www.w3.org/2002/07/owl#>
+```
+
+## Œuvre cinématographique (frbroo:F1_Work)
+
+```
+cmtq:Work78961
+  a frbroo:F1_Work ;
+
+  # Libellé de la ressource (le titre original)
+  rdfs:label "LA LÂCHETÉ" ;
+  
+  # Lien vers le genre cinématographique de l'œuvre
+  crm:P2_has_type cmtq:GenreCategory20006 ;
+  
+  # Lien vers le titre original de l'œuvre
+  crm:P102_has_title cmtq:OriginalTitleWork78961 ;
+  
+  # Lien vers un autre titre de l'œuvre
+  crm:P102_has_title cmtq:WorkTitle95387 ;
+
+  # Lien vers le budget
+  crm:P43_has_dimension cmtq:Dimension1238561.0CAD ;
+  
+  # Lien vers l'expression de l'œuvre
+  frbroo:R3_is_realised_in cmtq:Recording78961 ;
+.
+
+# Titre original
+cmtq:OriginalTitleWork83434
+  a crm:E35_Title ;
+
+  # Type de titre
+  crm:P2_has_type cmtq:OriginalTitle
+
+  # Valeur du titre
+  crm:P190_has_symbolic_content "LA LÂCHETÉ" ;
+.
+
+# Autre titre
+cmtq:WorkTitle106014
+  a crm:E35_Title ;
+  crm:P190_has_symbolic_content "Le Fossoyeur" ;
+.
+
+# Genre
+cmtq:GenreCategory20006
+  a crm:E55_Type ;
+  crm:P2_has_type cmtq:GenreCategory ;
+
+  # Valeur du genre
+  rdfs:label "FICTION" ;
+.
+
+# Budget
+cmtq:Dimension1238561.0CAD
+  a crm:E54_Dimension ;
+  crm:P2_has_type cmtq:Budget ;
+
+  # Devise (toujours CAD)
+  crm:P180_has_currency qudt:CAD ;
+
+  # Montant comme nombre à virgule flottante
+  crm:P181_has_amount "1238561.0" ;
+
+  # Montant en forme lisible par l'humain
+  rdfs:label "1238561.0CAD" :
+.
+```
+
+## Création de l'expression (frbroo:F28_Expression_Creation)
+```
+cmtq:RecordingEvent78961
+  a frbroo:F28_Expression_Creation ;
+
+  # Lien vers l'œuvre
+  frbroo:R19_created_a_realization_of cmtq:Work78961 ;
+
+  # Lien vers l'expression
+  frbroo:R17_created cmtq:Recording78961 ;
+
+  # Lien vers le(s) date(s) de production
+  crm:P4_has_time-span cmtq:Time-Span2007-01-01T00:00:00Z ;
+
+  # Lien vers le lieu de production
+  crm:P7_took_place_at cmtq:Place216 ;
+.
+
+# Date(s) de production
+cmtq:Time-Span2007-01-01T00:00:00Z
+  a crm:E52_Time-Span ;
+  crm:P82a_begin_of_the_begin 2007-01-01T00:00:00.000Z ;
+  crm:P82b_end_of_the_end 2007-01-01T00:00:00.000Z ;
+.
+
+# Lieu de production
+cmtq:Place216
+  a crm:E53_Place ;
+
+  # Identité du lieu
+  rdfs:label "Canada : Québec" ;
+.
+
+# Rôle dans la production
+cmtq:RecordingActivityCarriedOutByDirector78961-83913
+  # Lien vers la création de l'expression
+  crm:P01_has_domain cmtq:RecordingEvent78961 ;
+
+  # Lien vers la personne qui effectue l'activité
+  crm:P02_has_range cmtq:Person83913 ;
+
+  # Lien vers l'activité/rôle
+  crm:P14.1_in_the_role_of cmtq:Role1 .
+.
+
+# Personne
+cmtq:Person83913
+  a crm:E21_Person ;
+
+  # Lien vers une entité équivalente sur Wikidata
+  owl:sameAs wd:Q61899294 ;
+
+  # Nom complet
+  rdfs:label "Marc Bisaillon" ;
+
+  # Nom de famille
+  foaf:familyName	"Bisaillon" ;
+
+  # Prénom
+  foaf:givenName "Marc" ;
+.
+
+# Rôle
+cmtq:Role6
+  a crm:E55_Type ;
+  crm:P2_has_type cmtq:Role ;
+
+  # Identité du rôle
+  rdfs:label "Coiffure" ;
+.
+```
+
+## Expression (frbroo:F2_Expression)
+```
+cmtq:Recording78961
+  a frbroo:F2_Expression ;
+
+  # Langue de l'expression
+  crm:P72_has_language cmtq:Language38 ;
+  
+  # Lien vers la durée de la manifestation
+  crm:P43_has_dimension ;
+.
+
+cmtq:Language38
+  a crm:E56_Language ;
+
+  # Lien vers une entité équivalente sur Wikidata
+  owl:sameAs wd:Q150 ;
+
+  # Identité de la langue
+  rdfs:label "français" ;
+.
+
+# Durée en secondes
+cmtq:Dimension6120Seconds
+  a crm:E54_Dimension ;
+  crm:P2_has_type cmtq:Duration ;
+
+  # Unité de la durée
+  crm:P91_has_unit qudt:SEC ;
+
+  # Valeur de la durée
+  crm:P90_has_value "6120" ;
+.
+
+# Événement de sortie en salles ou de diffusion
+cmtq:PublicProjectionEvent78961
+  a crm:E7_Activity ;
+  crm:P2_has_type cmtq:PublicProjectionEvent ;
+
+  # Lien vers l'expression
+  crm:P16_used_specific_object cmtq:Recording78961 ;
+
+  # Lien vers la/les date(s) de sortie en salles ou de diffusion
+  crm:P4_has_time-span cmtq:Time-Span2007-01-01T00:00:00Z ;
+.
+
+# Date(s) de sortie en salles ou de diffusion
+cmtq:Time-Span2007-01-01T00:00:00Z
+  a crm:E52_Time-Span ;
+  crm:P82a_begin_of_the_begin 2007-01-01T00:00:00.000Z ;
+  crm:P82b_end_of_the_end 2007-01-01T00:00:00.000Z ;
+.
+```

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:void="http://rdfs.org/ns/void#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+>
+  <void:DatasetDescription rdf:about="/void/Dataset">
+    <dcterms:title xml:lang="fr">Une description VoID du jeu de données liées ouvertes de la Cinémathèque québécoise</dcterms:title>
+    <dcterms:title xml:lang="en">A VoID Description of the Cinémathèque québécoise Linked Open Dataset</dcterms:title>
+    <foaf:primaryTopic>
+      <void:Dataset rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDataset">
+        <dcterms:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <void:triples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5167525</void:triples>
+        <void:distinctSubjects rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1428703</void:distinctSubjects>
+        <void:distinctObjects rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1691544</void:distinctObjects>
+        <void:classes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:classes>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition01"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition02"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition03"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition04"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition05"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition06"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition07"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition08"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition09"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition10"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition11"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition12"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition13"/>
+        <void:classPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition14"/>
+        <void:properties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</void:properties>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition01"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition02"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition03"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition04"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition05"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition06"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition07"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition08"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition09"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition10"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition11"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition12"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition13"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition14"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition15"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition16"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition17"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition18"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition19"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition20"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition21"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition22"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition23"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition24"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition25"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition26"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition27"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition28"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition29"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition30"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition31"/>
+        <void:propertyPartition rdf:resource="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition32"/>
+      </void:Dataset>
+    </foaf:primaryTopic>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-09T20:16:22+00:00</dcterms:created>
+  </void:DatasetDescription>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition01">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198802</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition03">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114924</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition13">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition19">
+    <void:property rdf:resource="http://xmlns.com/foaf/0.1/givenName"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101846</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition11">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition06">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428698</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition02">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114925</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition15">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition24">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P90_has_value"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3998</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition29">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">539</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition09">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114972</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition14">
+    <void:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104397</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition22">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P72_has_language"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43535</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition05">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition03">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P01_has_domain"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">454997</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition06">
+    <void:class rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/F1_Work"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition10">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4406</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition10">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114924</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition12">
+    <void:property rdf:resource="http://xmlns.com/foaf/0.1/familyName"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104554</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition31">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P180_has_currency"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition32">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P181_has_amount"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition16">
+    <void:property rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/R19_created_a_realization_of"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition05">
+    <void:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428901</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition04">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P14.1_in_the_role_of"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">454997</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition07">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P2_has_type"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349155</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition20">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90274</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition12">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition07">
+    <void:class rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/F28_Expression_Creation"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition18">
+    <void:property rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/R3_is_realised_in"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition09">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9477</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition14">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition27">
+    <void:property rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/R2_is_derivative_of"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3749</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition11">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114713</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition17">
+    <void:property rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/R17_created"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition26">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3752</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition28">
+    <void:property rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/R16i_was_initiated_by"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3749</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition01">
+    <void:property rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">966161</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition21">
+    <void:property rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56743</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition30">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition08">
+    <void:class rdf:resource="http://iflastandards.info/ns/fr/frbr/frbroo/F2_Expression"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104392</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition25">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P91_has_unit"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3998</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition13">
+    <void:property rdf:resource="http://xmlns.com/foaf/0.1/name"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104554</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition08">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P102_has_title"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198802</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition23">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41581</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetPropertyPartition02">
+    <void:property rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P02_has_range"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455038</void:entities>
+  </rdf:Description>
+  <rdf:Description rdf:about="/void/Dataset/CinemathequeQuebecoiseLinkedOpenDatasetClassPartition04">
+    <void:class rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <void:entities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104554</void:entities>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+champ,definition
+identifiant,Lâidentifiant interne de la CinÃ©mathÃ¨que quÃ©bÃ©coise pour le document.
+titre.prefixe,"Lâarticle ou autre chaÃ®ne de caractÃ¨res qui prÃ©cÃ¨de le titre du document, mais qui en a Ã©tÃ© sÃ©parÃ© afin de faciliter le tri alphabÃ©tique par titre."
+titre,Le titre du document.
+auteur,"Le(s) auteur(s) du document sous la forme Â«Â nom de famille, prÃ©nomÂ Â». Multiples auteurs sont sÃ©parÃ©s par le point-virgule. "
+editeur,Le(s) Ã©diteurs du document. Multiples Ã©diteurs sont sÃ©parÃ©s par le point-virgule.
+annee_publication,LâannÃ©e de publication du document. Ceci est un champ de texte libre.
+revue,Le nom de la revue oÃ¹ le document a Ã©tÃ© publiÃ©. Ce champ est utilisÃ© pour les articles uniquement.
+volume,Le volume de la revue oÃ¹ le document a Ã©tÃ© publiÃ©. Ce champ est utilisÃ© pour les articles uniquement.
+numero,Le numÃ©ro de la revue oÃ¹ le document a Ã©tÃ© publiÃ©. Ce champ est utilisÃ© pour les articles uniquement.
+cote,Le cote du document Ã  la CinÃ©mathÃ¨que quÃ©bÃ©coise.
+type_document,Le type du document. Multiples types sont sÃ©parÃ©s par le point-virgule.
+films_associes,Les films abordÃ©s dans le document. Multiples films sont sÃ©parÃ©s par le point-virgule.

@@ -1,0 +1,11 @@
+Champ,Description
+Identifiant_Cinematheque_quebecoise_pour_une_Åuvre,Identifiant de lâÅuvre. Cet identifiant est stable.
+Titre_original,"Titre donnÃ© Ã  une production lors de sa premiÃ¨re projection publique dans le pays dâorigine oÃ¹ la sociÃ©tÃ© ou la personne qui lâa produite est domiciliÃ©e, ou lors de sa premiÃ¨re diffusion."
+Pays,"Identification du pays de production dâune Åuvre, le pays dâorigine Ã©tant dÃ©fini comme celui dans lequel la sociÃ©tÃ©, la personne ou le studio (dans le cas de lâOffice national du film du Canada) qui a produit lâÅuvre est domiciliÃ©."
+Grande_categorie,"Identification du type de production (cinÃ©matographique, vidÃ©ographique...) Ã  laquelle appartient une Åuvre originale du point de vue de sa diffusion. FILM : CatÃ©gorie dâÅuvres professionnelles ou amateur rÃ©alisÃ©es sur support pellicule ou Ã©lectronique destinÃ©es dâabord Ã  Ãªtre visionnÃ©es par projection sur grand Ã©cran. VIDÃO : CatÃ©gorie dâÅuvres professionnelles ou amateur rÃ©alisÃ©es sur support Ã©lectronique destinÃ©es dâabord Ã  Ãªtre visionnÃ©es sur petit Ã©cran Ã©lectronique par tout autre canal que celui dâune chaÃ®ne de tÃ©lÃ©vision."
+Realisation,Mention du nom du rÃ©alisateur ou de la rÃ©alisatrice dâune Åuvre.
+Annee_de_sortie,AnnÃ©e de la premiÃ¨re projection ou diffusion publique dâune Åuvre film ou vidÃ©o.
+Duree_originale,"Mention de la mesure du temps que dure une Åuvre, traduit en minutes et en secondes. La durÃ©e dont il est question ici est la durÃ©e de lâÅuvre Ã  lâorigine, au moment de sa sortie ou de sa premiÃ¨re diffusion."
+Couleurs_NB,Mention dÃ©signant si lâÅuvre Ã  sa sortie ou Ã  sa premiÃ¨re diffusion est en couleurs ou non.
+Langue_originale,Mention de la langue originale de lâÅuvre. La langue dont il est question ici est celle qui correspond Ã  la langue de lâÅuvre au moment de sa sortie ou de sa premiÃ¨re diffusion.
+Visa,CatÃ©gorie de classement des films attribuÃ© par un organisme public afin de prÃ©ciser Ã  quel public sâadresse une Åuvre. La CinÃ©mathÃ¨que ne retient que la classification de la RÃ©gie du cinÃ©ma du QuÃ©bec

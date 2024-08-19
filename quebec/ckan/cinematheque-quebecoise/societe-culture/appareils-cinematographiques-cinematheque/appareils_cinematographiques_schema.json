@@ -1,0 +1,134 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "description": "Liste d'appareils conservés dans les collections de la Cinémathèque québécoise",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "NAC": {
+                "type": "string",
+                "description": "Numéro d'accession unique de l'item"
+            },
+            "COB": {
+                "type": "string",
+                "description": "Catégorie de l'objet : classification générale de l'item enregistré, l'ensemble le plus vaste qui caractérise l’objet. Elle renvoie à sa fonctionnalité première."
+            },
+            "SCOB": {
+                "type": "string",
+                "description": "Sous-catégorie de l'objet : indique la sous-catégorie qui est le deuxième niveau de la classification générale de l'objet"
+            },
+            "OB": {
+                "type": "string",
+                "description": "Nom de l'objet : le nom normalisé de l'item."
+            },
+            "TOB": {
+                "type": "string",
+                "description": "Type de l'objet : les qualificatifs descriptifs de l'item. La première occurrence doit être le complément le plus important du nom de l’objet."
+            },
+            "NOB": {
+                "type": "integer",
+                "description": "Nombre d'objets : le nombre d'objets décrits dans l'enregistrement"
+            },
+            "PYF": {
+                "type": "string",
+                "description": "Pays du fabricant de l'appareil"
+            },
+            "MQ": {
+                "type": "string",
+                "description": "La marque de fabrique de l'objet"
+            },
+            "ELEM": {
+                "type": "string",
+                "description": "Nom des éléments : le nom des parties constituantes d'un objet, c'est-à-dire ses éléments détachables."
+            },
+            "NELEM": {
+                "type": "integer",
+                "description": "Nombre d'éléments : le nombre de parties composantes d'un objet"
+            },
+            "FAB": {
+                "type": "string",
+                "description": "Le nom principal du fabricant qui est responsable de la fabrication de l'objet"
+            },
+            "MODL": {
+                "type": "string",
+                "description": "Le nom et le numéro du modèle attribué à l’appareil"
+            },
+            "DFP": {
+                "type": "string",
+                "description": "La date de fin de production de l'objet"
+            },
+            "HT": {
+                "type": "number",
+                "description": "La mesure de la hauteur de l'article mesurée de la base au sommet"
+            },
+            "LA": {
+                "type": "number",
+                "description": "La mesure de la largeur de l'article mesurée à l’horizontale en se plaçant devant la face principale de l’objet"
+            },
+            "LO": {
+                "type": "number",
+                "description": "La mesure de la longueur exacte de l'article. Elle s’applique à des objets qui n’ont pas de face principale"
+            },
+            "UNL": {
+                "type": "string",
+                "description": "Unité de métrage des mesures"
+            },
+            "MA": {
+                "type": "string",
+                "description": "Les matériaux ayant servi à la fabrication d'un objet en trois dimensions. Les informations sont limirées aux principaux matériaux en privilégiant ceux dont la connaissance influe sur les conditions de conservation ou d’exposition."
+            },
+            "PROF": {
+                "type": "number",
+                "description": "La mesure de la profondeur d’un article en trois dimensions possédant une face principale"
+            },
+            "DESN": {
+                "type": "string",
+                "description": "Descripteur nom : noms de personnes ayant un rapport avec l'objet."
+            },
+            "OBASS": {
+                "type": "string",
+                "description": "Objets associés : références aux articles ou séries d’objet qui possèdent un lien nécessaire entre eux."
+            },
+            "DADD": {
+                "type": "string",
+                "description": "Date de début de diffusion"
+            },
+            "PRF": {
+                "type": "string",
+                "description": "Province ou territoire du fabricant"
+            },
+            "DIEX": {
+                "type": "number",
+                "description": "La mesure du diamètre extérieur d’un article de forme ronde ou arrondie"
+            },
+            "AR": {
+                "type": "string",
+                "description": "Les noms des personnes qui sont responsables de la conception, de la sélection ou de la fabrication de l'article, autrement dit qui en sont considérés comme l’auteur."
+            },
+            "VED": {
+                "type": "string",
+                "description": "Vedette matière : Descriptions  du sujet de l'artefact. Sert à désigner des personnages (personnalités fictives) sauf ceux qui sont rattachés à un film particulier, des lieux, des événements, des festivals, des expositions, des prix et des organismes."
+            },
+            "TI": {
+                "type": "string",
+                "description": "Titre du document."
+            },
+            "TF": {
+                "type": "string",
+                "description": "Technique de fabrication : les procédés, les méthodes ou les techniques de fabrication de l'objet en trois dimensions."
+            },
+            "SUP": {
+                "type": "string",
+                "description": "Les matériaux utilisés comme support pour une pièce en deux dimensions."
+            },
+            "ATEC": {
+                "type": "string",
+                "description": "Autres artistes : le nom des autres personnes, interprètes ou techniciens qui, sans en être les créateurs, ont directement contribué à la conception de l'article, ou par extension au film auquel l'article se rattache. Cette zone contient aussi une précision qui indique la fonction de la personne."
+            },
+            "MED": {
+                "type": "string",
+                "description": "Le nom du ou des médiums ayant servi à la création de l'objet en deux dimensions"
+            }
+        }
+    }
+}
