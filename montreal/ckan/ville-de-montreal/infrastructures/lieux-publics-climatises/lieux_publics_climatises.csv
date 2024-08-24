@@ -76,6 +76,7 @@ nom,ville,adresse_principale,telephone,telephone_numero_poste,arrdondissement,ac
 "Centre des loisirs de Saint-Laurent","Montréal","1375, rue Grenet","5148556110",,"Saint-Laurent","Signalisation accessible",-73.690617,45.514224
 "Gymnase du Collège Reine-Marie","Montréal","9300, boulevard Saint-Michel","5148726689",,"Villeray–Saint-Michel–Parc-Extension","Barre d'appui",-73.633012,45.572774
 "Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Rampe d'accès",-73.703017,45.507608
+"Complexe sportif Claude-Robillard","Montréal","1000, avenue Émile-Journault","5148726900",,"Ahuntsic-Cartierville","Signalisation accessible",-73.636015,45.552694
 "Centre Gadbois","Montréal","5485, chemin de la Côte-Saint-Paul","5148722786",,"Le Sud-Ouest","Toilette accessible en cabine",-73.59552,45.466947
 "Centre sportif Trenholme","Montréal","6800, rue Sherbrooke Ouest","5144814634",,"Côte-des-Neiges–Notre-Dame-de-Grâce","Zone de débarcadère",,
 "Centre sportif Côte-des-Neiges","Montréal","4880, avenue Van Horne","5143429988",,"Côte-des-Neiges–Notre-Dame-de-Grâce","Rampe d'accès",-73.638062,45.492694
@@ -166,22 +167,22 @@ nom,ville,adresse_principale,telephone,telephone_numero_poste,arrdondissement,ac
 "Piscine du Complexe sportif Marie-Victorin","Montréal","7000, rue Marie-Victorin","5148687698",,"Rivière-des-Prairies–Pointe-aux-Trembles",,-73.608935336737,45.619547954978
 "Fabricathèque du Sud-Ouest","Montréal","4707, rue Notre-Dame Ouest","5148722879",,"Le Sud-Ouest",,-73.589229830649,45.472462234683
 "Chalet du parc Armand-Bombardier","Montréal","12535, boulevard Armand-Bombardier",,,"Rivière-des-Prairies–Pointe-aux-Trembles",,-73.597084854908,45.639412435267
-"Chalet du parc Sir-Wilfrid-Laurier","Montréal","1115, avenue Laurier Est",,,"Le Plateau-Mont-Royal","Entrée de plain-pied",-73.585624694824,45.531455993652
-"Centre de loisirs Saint-Denis","Montréal","5115, rue Rivard","5142747358",,"Le Plateau-Mont-Royal","Adapté aux poussettes",-73.589367627661,45.527870579975
-"Pavillon multifonctionnel de l'esplanade Tranquille","Montréal","Au cœur du Quartier des spectacles",,,"Ville-Marie",,-73.564957380295,45.509595055481
+"Chalet du parc Sir-Wilfrid-Laurier","Montréal","1115, avenue Laurier Est",,,"Le Plateau-Mont-Royal","Ascenseur",-73.585624694824,45.531455993652
+"Centre de loisirs Saint-Denis","Montréal","5115, rue Rivard","5142747358",,"Le Plateau-Mont-Royal","Accessible en fauteuil roulant",-73.589367627661,45.527870579975
+"Pavillon multifonctionnel de l'esplanade Tranquille","Montréal","Au cœur du Quartier des spectacles",,,"Ville-Marie","Adapté aux poussettes",-73.564957380295,45.509595055481
 "Comptoir de la géomatique","Montréal","801 rue Brennan","5148723521",,"Ville-Marie",,-73.553492,45.496046
 "Salle d’exposition Goncourt","Montréal","7500, avenue Goncourt","5144938260",,"Anjou",,-73.558411,45.602902
-"Chalet du parc Raymond-Préfontaine","Montréal","3150, rue Hochelaga",,,"Mercier–Hochelaga-Maisonneuve","Toilette accessible individuelle",-73.55271810164734,45.541693890364144
-"L'Artère fabricathèque","Montréal","14001, rue Notre-Dame Est","5148724203",,"Rivière-des-Prairies–Pointe-aux-Trembles","Toilettes accessibles",-73.494866249335,45.668123472045
-"Centre culturel et communautaire de Cartierville","Montréal","12225, rue Grenet","5148726356",,"Ahuntsic-Cartierville","Stationnement accessible",-73.715802,45.530181
-"Mixlab de la bibliothèque du Boisé","Montréal","2727, boulevard Thimens","5148556130",,"Saint-Laurent","Stationnement accessible",-73.701383,45.507869
-"Salle de spectacle de l’église Jean XXIII","Montréal","7101, avenue de l' Alsace",,,"Anjou","Accessible en fauteuil roulant avec assistance",-73.58224399620246,45.60451809211068
-"Gymnase du complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Adapté aux poussettes",-73.703017,45.507608
-"Salle multifonctionnelle du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Barre d'appui",-73.703017,45.507608
-"Chalet du parc La Fontaine","Montréal","3933, avenue du Parc-La Fontaine",,,"Le Plateau-Mont-Royal","Zone de débarcadère",-73.56949705524104,45.525212758002425
-"Médialab Maisonneuve","Montréal","4120, rue Ontario Est","5148724213",,"Mercier–Hochelaga-Maisonneuve","Adapté aux poussettes",-73.540722,45.550621
-"Édifice Emmanuel-Arthur-Doucet","Montréal","3622, rue Hochelaga","5145236363",,"Mercier–Hochelaga-Maisonneuve","Adapté aux poussettes",-73.550821,45.547286
-"Chalet Ogilvy","Montréal","821, avenue Ogilvy",,,"Villeray–Saint-Michel–Parc-Extension","Accessible en fauteuil roulant",-73.627033,45.526606
-"Salle d’entraînement du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Rampe d'accès",-73.703017,45.507608
-"Maison de la culture Saint-Laurent","Montréal","2727, boulevard Thimens","5148556130","4443","Saint-Laurent","Zone de débarcadère pour transport adapté",-73.70503174989236,45.50436369695285
-"Maison de la culture d'Outremont","Montréal","41, avenue Saint-Just","5144957419",,"Outremont","Ascenseur",-73.608412,45.517911
+"Chalet du parc Raymond-Préfontaine","Montréal","3150, rue Hochelaga",,,"Mercier–Hochelaga-Maisonneuve","Rampe d'accès",-73.55271810164734,45.541693890364144
+"L'Artère fabricathèque","Montréal","14001, rue Notre-Dame Est","5148724203",,"Rivière-des-Prairies–Pointe-aux-Trembles","Toilette accessible individuelle",-73.494866249335,45.668123472045
+"Centre culturel et communautaire de Cartierville","Montréal","12225, rue Grenet","5148726356",,"Ahuntsic-Cartierville","Places de stationnement réservées (vignette)",-73.715802,45.530181
+"Mixlab de la bibliothèque du Boisé","Montréal","2727, boulevard Thimens","5148556130",,"Saint-Laurent","Places de stationnement réservées (vignette)",-73.701383,45.507869
+"Salle de spectacle de l’église Jean XXIII","Montréal","7101, avenue de l' Alsace",,,"Anjou","Accessible en fauteuil roulant",-73.58224399620246,45.60451809211068
+"Gymnase du complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Accessible en fauteuil roulant avec assistance",-73.703017,45.507608
+"Salle multifonctionnelle du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Adapté aux poussettes",-73.703017,45.507608
+"Chalet du parc La Fontaine","Montréal","3933, avenue du Parc-La Fontaine",,,"Le Plateau-Mont-Royal","Toilettes accessibles",-73.56949705524104,45.525212758002425
+"Médialab Maisonneuve","Montréal","4120, rue Ontario Est","5148724213",,"Mercier–Hochelaga-Maisonneuve","Accessible en fauteuil roulant avec assistance",-73.540722,45.550621
+"Édifice Emmanuel-Arthur-Doucet","Montréal","3622, rue Hochelaga","5145236363",,"Mercier–Hochelaga-Maisonneuve","Zone de débarcadère",-73.550821,45.547286
+"Chalet Ogilvy","Montréal","821, avenue Ogilvy",,,"Villeray–Saint-Michel–Parc-Extension","Toilettes accessibles",-73.627033,45.526606
+"Salle d’entraînement du Complexe sportif de Saint-Laurent","Montréal","2385, boulevard Thimens","5148556110",,"Saint-Laurent","Places de stationnement réservées (vignette)",-73.703017,45.507608
+"Maison de la culture Saint-Laurent","Montréal","2727, boulevard Thimens","5148556130","4443","Saint-Laurent","Zone de débarcadère",-73.70503174989236,45.50436369695285
+"Maison de la culture d'Outremont","Montréal","41, avenue Saint-Just","5144957419",,"Outremont","Adapté aux poussettes",-73.608412,45.517911

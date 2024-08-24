@@ -138,8 +138,8 @@ Nom,Localisation,Type,Etat_poste,Nb_place,Heure_operation,Long,Lat,MTM8_X,MTM8_Y
 "48-867","Au 7455 rue Sherbrooke E. Poste privé de Taxi Diamond et Hochelaga. (Près de l'épicerie Maxi)","Privé","Poste prive actif",5,"24H / 7J",-73.54114071772153,45.59340055918141,301590.2,5050389.2
 "48-865","Au 3235 avenue De Granby. Poste privé de Taxi Coop. Centre commercial Domaine","Privé","Poste prive actif",6,"24H / 7J",-73.54223957130279,45.581706607575406,301503.7,5049089.7
 "48-338","Au coin de la rue A. A-Desroches et la rue Hochelaga. Situé au nord-est de l'intersection","Public","Poste public actif",2,"24H / 7J",-73.52360386032717,45.594423330871756,302958.4,5050502.3
-"23-186","Au coin de la rue Théodore et l'avenue Pierre-de-Coubertin. Situé au sud-est de l'intersection","Public","Poste public temporaire",3,"24H / 7J",-73.54661750767264,45.56121102128603,301160.8,5046812.2
 "23-184","Au coin de la rue Préfontaine et la rue Sherbrooke E. Situé au sud-ouest de l'intersection","Public","Poste public actif",1,"24H / 7J",-73.55738635189817,45.543091975193484,300318.7,5044799.1
+"23-186","Au coin de la rue Théodore et l'avenue Pierre-de-Coubertin. Situé au sud-est de l'intersection","Public","Poste public temporaire",3,"24H / 7J",-73.54661750767264,45.56121102128603,301160.8,5046812.2
 "48-861","Au coin de la rue De Cadillac et la rue Hochelaga. Situé au nord-est de l'intersection","Public","Poste public actif",2,"24H / 7J",-73.5358357317383,45.57329517335842,302003.1,5048154.7
 "23-910","Av. Valois - Ontario E.","Public","Poste public actif",4,"24H / 7J",-73.54374641534423,45.547239219814024,301384.1,5045259.3
 "39-884","6425, boul. Léger (Réserve) / Mail Langelier. Privé Coop de l'Est","Privé","Poste prive actif",7,"",-73.62226732195127,45.62355347070872,295265.7,5053746.6
@@ -163,7 +163,6 @@ Nom,Localisation,Type,Etat_poste,Nb_place,Heure_operation,Long,Lat,MTM8_X,MTM8_Y
 "49-690","Au coin du boul. De la Rousselière et de la rue Sherbrooke E. Situé au nord-ouest de l'intersection","Public","Poste public actif",10,"24H / 7J",-73.50534541534421,45.66930931353723,304383.5,5058824.4
 "49-346","Au 12 900 rue Notre-Dame E. Centre Le Cardinal","En commun","Poste encommun actif",4,"24H / 7J",-73.48966608095094,45.65282410300077,305605.4,5056992.3
 "45-554","Au coin du boul. Rivières-des-Prairies et le boul. Maurice-Duplessis. Situé au nord-ouest de l'intersection","Public","Poste public actif",5,"24H / 7J",-73.56180519206544,45.650804400000006,299982.8,5056769.7
-"45-553","Au coin du boul. Maurice-Duplessis et le boul. Armand-Bombardier. Situé au nord-ouest de l'intersection","Public","Poste public actif",7,"24H / 7J",-73.58972327829588,45.63142808632133,297804.4,5054618.4
 "49-349","Au 1484 boul. Saint-Jean-Baptiste / Les galeries Saint-Jean-Baptiste.  .","En commun","Poste encommun actif",5,"24H / 7J",-73.50467078710251,45.64213343116583,304435.9,5055804.2
 "49-350","Au 12695 rue Sherbrooke E. Poste privé de Taxi Coop de l'Est. Épicerie Super C","Privé","Poste prive actif",3,"24H / 7J",-73.51107596249618,45.654911893409476,303936.8,5057224.4
 "44-908","Le poste est situé au coin des rues Molson et William-Tremblay (sud-est).","Public","Poste public actif",5,"En tout temps",-73.56487921957398,45.54159271253005,299733.4,5044632.9
@@ -207,10 +206,10 @@ Nom,Localisation,Type,Etat_poste,Nb_place,Heure_operation,Long,Lat,MTM8_X,MTM8_Y
 "42-299","Au coin de la rue Bélanger et la rue De Choisy. Situé au nord-est de l'intersection","Public","Poste public actif",5,"24H / 7J",-73.57206000583494,45.58344955941366,299176.8,5049285
 "42-730","Au 4270 rue Jean-Talon E. Poste privé de Taxi Coop de Montréal. Centre Le Boulevard","Privé","Poste prive temporaire",2,"24H / 7J",-73.58991914868773,45.56770046370933,297781.2,5047536.2
 "42-650","Au coin du boul. Robert et la rue De Honfleur. Situé au nord-ouest de l'intersection","Public","Poste public actif",4,"24H / 7J",-73.59111857440439,45.593288909114676,297690.8,5050380
+"16-152","De l'Église / Ross. Situé au sud-est de l'intersection sur De l'Église","Public","Poste public actif",4,"24H / 7J",-73.56586998959645,45.46268487360259,299648.8,5035863.9
 "16-784","Au 1 Carrefour Alexandre-Graham-Bell (Campus Bell). Poste privé de Taxi Diamond","Privé","Poste prive actif",4,"24H / 7J",-73.53992742750853,45.47260192130647,301678.1,5036964.7
 "16-608","Au 3000 Wellington (Maxi). Poste privé de Taxi Pontiac","Privé","Poste prive actif",5,"24H / 7J",-73.56346197619627,45.47110801519941,299837.9,5036799.8
 "16-601","Au coin de la rue Berlioz et le boul. Ile-des-soeurs. Situé au sud-ouest de l'intersection","Public","Poste public actif",3,"24H / 7J",-73.54436874389648,45.45936305580227,301330.1,5035493.6
-"16-149","Au coin de la rue De Verdun et la 1e Avenue. Situé au nord-est de l'intersection","Public","Poste public actif",5,"24H / 7J",-73.5718899211792,45.45874026939313,299177.7,5035426
 "16-147","Au coin de l'avenue Bannantyne et le boul. Lasalle (Hopital Douglas). Situé au nord-ouest de l'intersection","Public","Poste public actif",5,"24H / 7J",-73.57710644550781,45.44373877231892,298768.1,5033759.2
 "15-144","Au coin du boul. Monk et la rue Allard. Situé au sud-ouest de l'intersection","Public","Poste public actif",4,"24H / 7J",-73.59333876347654,45.45102334906249,297499.2,5034570.1
 "15-143","Au coin de la rue Lacroix (Métro Angrignon) et le boul. Des Trinitiares. Situé au nord-ouest de l'intersection","En commun","Poste encommun actif",6,"24H / 7J",-73.60134189682003,45.446535435785286,296872.6,5034072.1
@@ -218,6 +217,7 @@ Nom,Localisation,Type,Etat_poste,Nb_place,Heure_operation,Long,Lat,MTM8_X,MTM8_Y
 "16-148","Au coin de l'avenue Brown et l'avenue Bannantyne. Situé au nord-est de l'intersection","Public","Poste public actif",5,"24H / 7J",-73.5771472280029,45.4481313611597,298765.4,5034247.4
 "16-603","Au coin de la rue De Gaspé et le boul. Ile-des-soeurs. Situé au nord-ouest de l'intersection","Public","Poste public actif",3,"24H / 7J",-73.54705095291138,45.453598330697254,301119.9,5034853.1
 "16-145","Au coin de la 5e Avenue et la rue De Verdun. Situé au nord-est de l'intersection","Public","Poste public actif",3,"24H / 7J",-73.57215642929077,45.4564690079286,299156.6,5035173.6
+"16-149","Au coin de la rue Willibrord et la rue De Verdun. Situé au nord-ouest de l'intersection","Public","Poste public temporaire",5,"24H / 7J",-73.57187919234315,45.459447657183716,299178.6,5035504.6
 "15-142","Au coin de la rue Le Caron et la rue Laurendeau. Situé au sud-ouest de l'intersection","Public","Poste public actif",1,"24H / 7J",-73.58818816931154,45.46191799983127,297903.4,5035780.4
 "16 - 890","Situé sur la rue de L'Église au coin de la rue Wellington (sud-est de l'intersection)","Public","Poste public actif",5,"24H/7J",-73.56655083062742,45.46302220208495,299595.6,5035901.5
 "16-606","Au coin de la rue Rushbrooke et la rue Caisse. Situé au sud-ouest de l'intersection","Public","Poste public actif",1,"24H / 7J",-73.56543581055905,45.47053027771151,299683.5,5036735.8
@@ -287,10 +287,10 @@ Nom,Localisation,Type,Etat_poste,Nb_place,Heure_operation,Long,Lat,MTM8_X,MTM8_Y
 "20-450","Au coin du 1155 Metcalfe et la rue René-Levesque. Situé au nord-est de l'intersection","Public","Poste public temporaire",3,"24H / 7J",-73.57054989577023,45.499970241945945,299286.5,5040007.8
 "21-403","Au coin du boul. Saint-Laurent et la rue Saint-Paul. Situé au sud-est de l'intersection","Public","Poste public actif",5,"18H00 à 24h00",-73.55365927672119,45.5055737464631,300606.9,5040629.5
 "20-801","Au coin de la rue De la Montagne et du boul de Maisonneuve O.. Situé au sud-est de l'intersection","Public","Poste public temporaire",2,"24H / 7J",-73.57618509499815,45.49849645192837,298846,5039844.4
-"22-736","Au coin de la rue Atateken et la rue Sainte-Catherine E. Situé au sud-est de l'intersection","Public","Poste public temporaire",4,"20h00 à 05h30",-73.55696203226319,45.51748595466302,300349.8,5041953.5
-"21-386","Au coin du 1199 rue Berri (Fairfield Inn) et le boul. René-Levesque E","Public","Poste public actif",2,"24H / 7J",-73.55741464285279,45.51373224042066,300314.1,5041536.3
 "20-787","Au coin de la rue Crescent et la rue Nick-Auf Der Maur. Siuté au nord-est de l'intersection","Public","Poste public actif",6,"21h00 à 08h30",-73.57690397857363,45.497835632968304,298789.7,5039771
+"21-386","Au coin du 1199 rue Berri (Fairfield Inn) et le boul. René-Levesque E","Public","Poste public actif",2,"24H / 7J",-73.55741464285279,45.51373224042066,300314.1,5041536.3
 "20-613","Au coin du Ch. de la Côte-des-Neiges et la rue Seaforth. Situé au nord-ouest de l'intersection","Public","Poste public actif",2,"24H / 7J",-73.58570120118867,45.49624184141794,298102,5039594.6
+"22-736","Au coin de la rue Atateken et la rue Sainte-Catherine E. Situé au sud-est de l'intersection","Public","Poste public temporaire",4,"20h00 à 05h30",-73.55696203226319,45.51748595466302,300349.8,5041953.5
 "20-942","3775, University / Hôpital neurologique de Montréal. Situé au sud-est de l'adresse près du pavillon Duff","Public","Poste public actif",3,"24H / 7J",-73.5807022593857,45.50853730834761,298494.1,5040960.6
 "20-691","Au coin de la rue Sainte-Catherine O et la rue Crescent. Situé au nord-ouest de l'intersection","Public","Poste public actif",5,"24H / 7J",-73.57583338042605,45.497205620314276,298873.3,5039700.9
 "20-423","Au coin de la rue Drummond et la rue Sainte-Catherine O. Situé au nord-est de l'intersection","Public","Poste public actif",2,"",-73.57431717829593,45.49874115446183,298992,5039871.4
@@ -302,19 +302,19 @@ Nom,Localisation,Type,Etat_poste,Nb_place,Heure_operation,Long,Lat,MTM8_X,MTM8_Y
 "22-173","Au coin du boul. René-levesque e et la rue De la Visitation. Situé au sud-est de l'intersection","Public","Poste public actif",8,"24h / 7J",-73.55315026715084,45.51762552500916,300647.6,5041968.8
 "21-388","Au coin du 1255 Jeanne-Mance (Hotel DoubleTree by Hilton) et la rue Sainte-catherine O. Poste privé de Taxi Pontiac","Privé","Poste prive actif",2,"24H / 7J",-73.56480179682005,45.50681085353035,299736.3,5040767.6
 "20-465","Au coin de la rue Saint-Mathieu et le boul. René-Levesque O. Situé au nord-est de l'intersection","Public","Poste public actif",2,"24H / 7J",-73.57663628888548,45.49240185638556,298810,5039167.1
-"20-768","Au coin de l'Avenue du Président-Kennedy et la rue De Bleury. Situé au sud-ouest de l'intersection","Public","Poste public temporaire",2,"24H / 7J",-73.56953386826171,45.50746065630405,299366.6,5040840.1
 "21-403","Au coin du boul. Saint-Laurent et la rue Saint-Paul. Situé au sud-est de l'intersection","Public","Poste public actif",4,"18H à Minuit",-73.55363914127804,45.50558376120755,300608.5,5040630.6
+"20-768","Au coin de l'Avenue du Président-Kennedy et la rue De Bleury. Situé au sud-ouest de l'intersection","Public","Poste public temporaire",2,"24H / 7J",-73.56953386826171,45.50746065630405,299366.6,5040840.1
 "20-682","Au coin du 800 Gauvin et la rue Saint-Antoine O. Situé au sud-ouest de l'intersection","Public","Poste public temporaire",4,"24H / 7J",-73.56199915158993,45.50113561305182,299954.8,5040136.7
 "20-621","Au 1155 Sherbrooke Ouest (Hotel Sofitel). Poste privé Taxelco","Privé","Poste prive actif",1,"24H / 7J",-73.57740522513122,45.5013305865047,298750.9,5040159.4
 "21-911","Rue Sanguinet au coin de la rue De la Gauchetière E.. Il s'agit du poste d'attente pour le CHUM.","Public","Poste public actif",11,"24/7",-73.55766879444273,45.51101488594983,300294,5041234.4
-"21-785","Au coin de la rue Saint-Urbain et la rie Sainte-Catherine O. Situé au sud-ouest de l'intersection","Public","Poste public actif",5,"24h / 7J",-73.56481948941041,45.508539552483455,299735.1,5040959.7
-"20-879","Au coin du boul. Robert-Bourassa et la Place Monseigneur-Charbonneau. Situé au nord-ouest de l'intersection","Public","Poste public actif",14,"24H / 7J",-73.56820281058958,45.502339991726984,299470.2,5040271
 "20-609","Au 1650 av. Cédar / Hôpital général de Montréal. Situé au nord-ouest de l'adresse sur av. Cédar","Public","Poste public actif",3,"24H / 7J",-73.59040771614686,45.49662263930744,297734.2,5039637.3
+"20-879","Au coin du boul. Robert-Bourassa et la Place Monseigneur-Charbonneau. Situé au nord-ouest de l'intersection","Public","Poste public actif",14,"24H / 7J",-73.56820281058958,45.502339991726984,299470.2,5040271
+"21-785","Au coin de la rue Saint-Urbain et la rie Sainte-Catherine O. Situé au sud-ouest de l'intersection","Public","Poste public actif",5,"24h / 7J",-73.56481948941041,45.508539552483455,299735.1,5040959.7
 "21-790","Au coin de la rue Saint-Jacques et la rue Saint-Francois-Xavier. Situé au sud-est de l'intersection","Public","Poste public temporaire",6,"24h / 7J",-73.55810809141985,45.5042632279351,300259.2,5040484.1
 "21-404","Au coin du boul. Saint-Laurent et la rue Notre-Dame E. Situé au sud-est de l'intersection","Public","Poste public actif",4,"24H / 7J",-73.55553720740966,45.50621849436834,300460.2,5040701.2
 "20-455","Au coin de l'avenue Président-Kennedy et l'Avenue Mcgill College. Situé au nord-est de l'intersection","Public","Poste public temporaire",5,"24H / 7J",-73.57369216270445,45.503323523797164,299041.3,5040380.6
-"20-696","Au coin de la rue Mansfield et le boul René-Levesque O. Situé au sud-est de l'intersection","Public","Poste public actif",15,"24H / 7J",-73.56836462565616,45.49986992373441,299457.3,5039996.5
 "20-453","Au 475 Av. Du Président Kennedy (Hotel Delta). Poste privé de Taxi Champlain","Privé","Poste prive temporaire",1,"24H / 7J",-73.57098140608218,45.50626930135155,299253.4,5040707.8
+"20-696","Au coin de la rue Mansfield et le boul René-Levesque O. Situé au sud-est de l'intersection","Public","Poste public actif",15,"24H / 7J",-73.56836462565616,45.49986992373441,299457.3,5039996.5
 "21-803","Au coin de la rue De la Commune E et la Place Jacques-Cartier. Situé au nord-est de l'intersection.","Public","Poste public actif",2,"24H / 7J",-73.55200177411467,45.50764900483763,300736.6,5040860
 "21-399","Au coin de la rue Saint-Denis et le boul. René-levesque O. Situé au nord-ouest de l'intersection","Public","Poste public actif",4,"24H / 7J",-73.55857433862303,45.5126945624108,300223.4,5041421.1
 "22-502","Au coin de la rue Champlain et la rue Sainte-Catherine E. Situé au nord-ouest de l'intersection","Public","Poste public temporaire",6,"24h / 7J",-73.5531691748688,45.52184751490195,300646.4,5042438

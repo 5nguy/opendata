@@ -1420,7 +1420,7 @@ annee,arrondissement,code_type_base_demande,nombre_permis_emis,cout_permis_emis,
 2021,"Le Sud-Ouest","CA",121,58797,636076
 2021,"Le Sud-Ouest","CO",26,2902697.09,255812927
 2021,"Le Sud-Ouest","DE",20,149000.4,
-2021,"Le Sud-Ouest","TR",938,1734759.21,164985026
+2021,"Le Sud-Ouest","TR",937,1734204.72,164928445
 2021,"Mercier - Hochelaga-Maisonneuve","CA",1011,88663,1749380
 2021,"Mercier - Hochelaga-Maisonneuve","CO",34,2139504.67,245451508
 2021,"Mercier - Hochelaga-Maisonneuve","DE",25,142790.47,
@@ -1542,30 +1542,33 @@ annee,arrondissement,code_type_base_demande,nombre_permis_emis,cout_permis_emis,
 2023,"Ville-Marie","DE",13,32204,
 2023,"Ville-Marie","TR",1218,8833804.34,743077254
 2023,"Villeray - Saint-Michel - Parc-Extension","CA, CO, DE, TR",1293,2248086.03,162715922
-2024,"Ahuntsic - Cartierville","CA, CO, DE, TR",815,3392005.44,209946369
-2024,"Anjou","CA, CO, DE, TR",322,503443.8,59607713
-2024,"Côte-des-Neiges - Notre-Dame-de-Grâce","CA, CO, DE, TR",820,6409875.13,435642295
-2024,"L'Île-Bizard - Sainte-Geneviève","CA, CO, DE, TR",225,121300.13,8932831
-2024,"LaSalle","CA, CO, TR",418,1053054.54,96516240
-2024,"Lachine","CA",123,58341.2,973934
+2024,"Ahuntsic - Cartierville","CA, CO, DE, TR",870,3440857.21,214641248
+2024,"Anjou","CA, CO, DE, TR",352,518185.8,60949290
+2024,"Côte-des-Neiges - Notre-Dame-de-Grâce","CA, CO, DE, TR",880,6475040.71,440189060
+2024,"L'Île-Bizard - Sainte-Geneviève","CA, CO, DE, TR",250,137025.53,10172781
+2024,"LaSalle","CA, CO, TR",458,1153060.42,103322153
+2024,"Lachine","CA",127,70060.2,988378
 2024,"Lachine","CO",24,1130056.38,95147289
 2024,"Lachine","DE",11,60007.92,
-2024,"Lachine","TR",166,281754.91,37689040
-2024,"Le Plateau-Mont-Royal","CA, CO, DE, TR",797,2025771.3,128332961
-2024,"Le Sud-Ouest","CA, CO, DE, TR",598,1280235.66,136675940
-2024,"Mercier - Hochelaga-Maisonneuve","CA, CO, DE, TR",1001,3811128.4,332820838
-2024,"Montréal-Nord","CA, CO, TR",307,659144.18,74428893
-2024,"Outremont","CA, CO, DE, TR",401,324578.41,27953367
-2024,"Pierrefonds - Roxboro","CA, CO, DE",689,469977.92,46309888
-2024,"Rivière-des-Prairies - Pointe-aux-Trembles","CO",108,752479.57,70102689
-2024,"Rivière-des-Prairies - Pointe-aux-Trembles","DE",15,11072.72,
-2024,"Rivière-des-Prairies - Pointe-aux-Trembles","TR",308,274317.86,26239900
-2024,"Rosemont - La Petite-Patrie","CA",105,28119,922194
+2024,"Lachine","TR",172,310185.9,38132741
+2024,"Le Plateau-Mont-Royal","CA, CO, DE, TR",854,2061643.03,130932288
+2024,"Le Sud-Ouest","CA, CO, DE, TR",632,1398820.59,145350974
+2024,"Mercier - Hochelaga-Maisonneuve","CA",208,43032,7072426
+2024,"Mercier - Hochelaga-Maisonneuve","CO",12,1022489.4,106185784
+2024,"Mercier - Hochelaga-Maisonneuve","DE",10,15565,
+2024,"Mercier - Hochelaga-Maisonneuve","TR",834,2779612.5,223070539
+2024,"Montréal-Nord","CA, CO, TR",333,669933.87,77073619
+2024,"Outremont","CA, CO, DE, TR",440,345987.63,34113143
+2024,"Pierrefonds - Roxboro","CA, CO, DE",747,512959.38,50571742
+2024,"Rivière-des-Prairies - Pointe-aux-Trembles","CO",118,935767.39,88099397
+2024,"Rivière-des-Prairies - Pointe-aux-Trembles","DE",16,11641.72,
+2024,"Rivière-des-Prairies - Pointe-aux-Trembles","TR",329,279542.74,26871395
+2024,"Rosemont - La Petite-Patrie","CA",111,28475,931028
 2024,"Rosemont - La Petite-Patrie","CO",16,1004774.91,28403349
-2024,"Rosemont - La Petite-Patrie","DE",14,64628,
-2024,"Rosemont - La Petite-Patrie","TR",1126,1491917.25,120740094
-2024,"Saint-Laurent","CA, CO, DE, TR",752,1802590.81,167462053
-2024,"Saint-Léonard","CA, CO, DE, TR",277,344311.46,32362022
-2024,"Verdun","CO, DE, TR",741,991829.81,72190742
-2024,"Ville-Marie","CA, CO, DE, TR",961,10876505.11,836779544
-2024,"Villeray - Saint-Michel - Parc-Extension","CA, CO, DE, TR",857,1935148.45,133437302
+2024,"Rosemont - La Petite-Patrie","DE",15,64987,
+2024,"Rosemont - La Petite-Patrie","TR",1206,1568426.79,128025065
+2024,"Saint-Laurent","CA, CO, DE, TR",805,1828046.18,169257446
+2024,"Saint-Léonard","CA, CO, DE, TR",307,381853.03,35980350
+2024,"Verdun","CO, DE, TR",775,999889.6,72722455
+2024,"Ville-Marie","CA, CO, DE, TR",1022,11112298.65,856477543
+2024,"Villeray - Saint-Michel - Parc-Extension","CA, CO, DE, TR",902,1976214.99,137418957

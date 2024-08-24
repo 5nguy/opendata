@@ -12,7 +12,7 @@ No_QR,Nom_QR,No_arr,Nom_arr_Montreal,Nom_mun,Nb_log
 "11","Parc-Extension","25","Villeray–Saint-Michel–Parc-Extension","Montréal",13421
 "12","Parc-Jarry","25","Villeray–Saint-Michel–Parc-Extension","Montréal",9215
 "13","Crémazie","25","Villeray–Saint-Michel–Parc-Extension","Montréal",17330
-"14","Saint-Édouard","24","Rosemont–La Petite-Patrie","Montréal",10484
+"14","Saint-Édouard","24","Rosemont–La Petite-Patrie","Montréal",10483
 "15","Père-Marquette","24","Rosemont–La Petite-Patrie","Montréal",11759
 "16","Louis-Hébert","24","Rosemont–La Petite-Patrie","Montréal",8437
 "17","Étienne Desmarteaux","24","Rosemont–La Petite-Patrie","Montréal",9485
@@ -28,16 +28,16 @@ No_QR,Nom_QR,No_arr,Nom_arr_Montreal,Nom_mun,Nb_log
 "27","Hochelaga","22","Mercier–Hochelaga-Maisonneuve","Montréal",6768
 "28","Maisonneuve","22","Mercier–Hochelaga-Maisonneuve","Montréal",12086
 "29","Préfontaine","22","Mercier–Hochelaga-Maisonneuve","Montréal",9907
-"30","Sainte-Marie","19","Ville-Marie","Montréal",21827
-"31","Lorimier","21","Le Plateau-Mont-Royal","Montréal",11885
-"32","Parc-Lafontaine","21","Le Plateau-Mont-Royal","Montréal",9871
+"30","Sainte-Marie","19","Ville-Marie","Montréal",21826
+"31","Lorimier","21","Le Plateau-Mont-Royal","Montréal",11884
+"32","Parc-Lafontaine","21","Le Plateau-Mont-Royal","Montréal",9870
 "33","Parc-Laurier","21","Le Plateau-Mont-Royal","Montréal",11296
 "34","Mile End","21","Le Plateau-Mont-Royal","Montréal",14172
 "35","Saint-Louis","21","Le Plateau-Mont-Royal","Montréal",9318
 "36","Milton-Parc","21","Le Plateau-Mont-Royal","Montréal",9632
 "37","Vieux-Montréal","19","Ville-Marie","Montréal",12357
-"38","René-Lévesque","19","Ville-Marie","Montréal",24643
-"39","Montagne","19","Ville-Marie","Montréal",22628
+"38","René-Lévesque","19","Ville-Marie","Montréal",24754
+"39","Montagne","19","Ville-Marie","Montréal",22629
 "40","Snowdon","34","Côte-des-Neiges–Notre-Dame-de-Grâce","Montréal",11363
 "41","Édouard-Montpetit","34","Côte-des-Neiges–Notre-Dame-de-Grâce","Montréal",12467
 "42","Parc-Kent","34","Côte-des-Neiges–Notre-Dame-de-Grâce","Montréal",13826
@@ -47,18 +47,18 @@ No_QR,Nom_QR,No_arr,Nom_arr_Montreal,Nom_mun,Nb_log
 "46","Côte-Saint-Antoine","34","Côte-des-Neiges–Notre-Dame-de-Grâce","Montréal",10121
 "47","Pointe-Saint-Charles","20","Le Sud-Ouest","Montréal",8824
 "48","Côte-Saint-Paul","20","Le Sud-Ouest","Montréal",8943
-"49","Ville-Émard","20","Le Sud-Ouest","Montréal",7015
-"50","Saint-Henri","20","Le Sud-Ouest","Montréal",10605
+"49","Ville-Émard","20","Le Sud-Ouest","Montréal",7016
+"50","Saint-Henri","20","Le Sud-Ouest","Montréal",10611
 "51","Petite-Bourgogne","20","Le Sud-Ouest","Montréal",15313
 "52","Marc-Aurèle-Fortin","33","Rivière-des-Prairies–Pointe-aux-Trembles","Montréal",14759
-"53","Rivière-des-Prairies","33","Rivière-des-Prairies–Pointe-aux-Trembles","Montréal",7461
-"54","Pointe-aux-Trembles","33","Rivière-des-Prairies–Pointe-aux-Trembles","Montréal",23525
+"53","Rivière-des-Prairies","33","Rivière-des-Prairies–Pointe-aux-Trembles","Montréal",7459
+"54","Pointe-aux-Trembles","33","Rivière-des-Prairies–Pointe-aux-Trembles","Montréal",23521
 "55","Chameran/Montpellier","15","Saint-Laurent","Montréal",9697
 "56","Grenet","15","Saint-Laurent","Montréal",5011
-"57","Dutrisac","15","Saint-Laurent","Montréal",4332
-"58","Bois-Francs","15","Saint-Laurent","Montréal",15470
-"59","Du College/Hodge","15","Saint-Laurent","Montréal",10122
-"60A","Ouest","16","Montréal-Nord","Montréal",11502
+"57","Dutrisac","15","Saint-Laurent","Montréal",4333
+"58","Bois-Francs","15","Saint-Laurent","Montréal",15471
+"59","Du College/Hodge","15","Saint-Laurent","Montréal",10123
+"60A","Ouest","16","Montréal-Nord","Montréal",11506
 "60B","Centre-Nord","16","Montréal-Nord","Montréal",5845
 "60C","Centre","16","Montréal-Nord","Montréal",8832
 "61","Est","16","Montréal-Nord","Montréal",14320
@@ -70,23 +70,23 @@ No_QR,Nom_QR,No_arr,Nom_arr_Montreal,Nom_mun,Nb_log
 "67","Cecil-P.-Newman","17","LaSalle","Montréal",16566
 "68","Sault-Saint-Louis","17","LaSalle","Montréal",24409
 "69","Lachine-Ouest","27","Lachine","Montréal",7392
-"70","Vieux-Lachine - Saint-Pierre","27","Lachine","Montréal",15788
+"70","Vieux-Lachine - Saint-Pierre","27","Lachine","Montréal",15787
 "71","Pierrefonds-Ouest","31","Pierrefonds-Roxboro","Montréal",11596
-"72","Pierrefonds-Est","31","Pierrefonds-Roxboro","Montréal",15426
+"72","Pierrefonds-Est","31","Pierrefonds-Roxboro","Montréal",15427
 "73","Anjou","09","Anjou","Montréal",20265
 "74","Outremont","05","Outremont","Montréal",11141
-"75","L'Île-Bizard–Sainte-Geneviève","32","L'Île-Bizard–Sainte-Geneviève","Montréal",7361
+"75","L'Île-Bizard–Sainte-Geneviève","32","L'Île-Bizard–Sainte-Geneviève","Montréal",7362
 "80","Montréal-Est","","","Montréal-Est",2191
 "81","Westmount","","","Westmount",9124
 "82","Hampstead","","","Hampstead",2694
 "83","Côte-Saint-Luc","","","Côte-Saint-Luc",15736
 "84","Montréal-Ouest","","","Montréal-Ouest",1987
-"85","Dorval","","","Dorval",9348
-"86","Pointe-Claire","","","Pointe-Claire",15844
-"87","Beaconsfield","","","Beaconsfield",6982
+"85","Dorval","","","Dorval",9350
+"86","Pointe-Claire","","","Pointe-Claire",15842
+"87","Beaconsfield","","","Beaconsfield",6983
 "88","Baie-D'Urfé","","","Baie-D'Urfé",1448
 "89","Dollard-Des Ormeaux","","","Dollard-Des Ormeaux",17879
 "90","Kirkland","","","Kirkland",7006
 "91","Sainte-Anne-de-Bellevue","","","Sainte-Anne-de-Bellevue",2287
 "92","Senneville","","","Senneville",390
-"93","Mont-Royal","","","Mont-Royal",8459
+"93","Mont-Royal","","","Mont-Royal",8460
