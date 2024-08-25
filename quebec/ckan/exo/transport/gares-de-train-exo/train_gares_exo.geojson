@@ -1,0 +1,942 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "train_gares_exo",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -74.140935024, 45.4596284629 ]
+			},
+			"properties" : {
+				"id" : 16,
+				"nom_gare" : "Gare Hudson",
+				"nom_municipalite" : "Hudson",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "30, rue Wharf, Hudson",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -74.0505567791, 45.3989996727 ]
+			},
+			"properties" : {
+				"id" : 36,
+				"nom_gare" : "Gare Vaudreuil",
+				"nom_municipalite" : "Vaudreuil-Dorion",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "555, rue Boileau",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -74.0082543463, 45.3863907226 ]
+			},
+			"properties" : {
+				"id" : 15,
+				"nom_gare" : "Gare Dorion",
+				"nom_municipalite" : "Vaudreuil-Dorion",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "60, rue de l'Église, Vaudreuil-Dorion",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.9991165741, 45.7731786047 ]
+			},
+			"properties" : {
+				"id" : 39,
+				"nom_gare" : "Gare Saint-Jérôme",
+				"nom_municipalite" : "Saint-Jérôme",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "455, boul. Jean-Baptiste-Rolland Est",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.9934982585, 45.3871123303 ]
+			},
+			"properties" : {
+				"id" : 53,
+				"nom_gare" : "Gare Pincourt-Terrasse-Vaudreuil",
+				"nom_municipalite" : "Pincourt",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "Angle rue Cardinal-Léger et autoroute 20 à la hauteur du 4e Boul., Terrasse-Vaudreuil",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.9654246608, 45.3959228327 ]
+			},
+			"properties" : {
+				"id" : 14,
+				"nom_gare" : "Gare Île-Perrot",
+				"nom_municipalite" : "L'Île-Perrot",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "10, boul. Perrot Nord",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.951212608, 45.407606043 ]
+			},
+			"properties" : {
+				"id" : 13,
+				"nom_gare" : "Gare Sainte-Anne-de-Bellevue",
+				"nom_municipalite" : "Sainte-Anne-de-Bellevue",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "105, boul. des Anciens-Combattants",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.9201699996, 45.7128839996 ]
+			},
+			"properties" : {
+				"id" : 59,
+				"nom_gare" : "Gare Mirabel",
+				"nom_municipalite" : "Mirabel",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : null,
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.915558391, 45.4199073968 ]
+			},
+			"properties" : {
+				"id" : 12,
+				"nom_gare" : "Gare Baie-d'Urfé",
+				"nom_municipalite" : "Baie-d'Urfé",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "Angle rue Morgan et autoroute 20, Baie-d'Urfé",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.8872557173, 45.427394676 ]
+			},
+			"properties" : {
+				"id" : 11,
+				"nom_gare" : "Gare Beaurepaire",
+				"nom_municipalite" : "Beaconsfield",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "144, ave Woodland",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.8661597194, 45.6724175869 ]
+			},
+			"properties" : {
+				"id" : 28,
+				"nom_gare" : "Gare Blainville",
+				"nom_municipalite" : "Blainville",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "38, boul. de la Seigneurie Est",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.847391976, 45.4349736673 ]
+			},
+			"properties" : {
+				"id" : 10,
+				"nom_gare" : "Gare Beaconsfield",
+				"nom_municipalite" : "Beaconsfield",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "104, avenue Elm, Beaconsfield",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.8335478331, 45.6360297764 ]
+			},
+			"properties" : {
+				"id" : 29,
+				"nom_gare" : "Gare Sainte-Thérèse",
+				"nom_municipalite" : "Sainte-Thérèse",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "Rue Turgeon, entre les rues Napoléon et Dubois, Sainte-Thérèse",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.81987783, 45.4424148333 ]
+			},
+			"properties" : {
+				"id" : 9,
+				"nom_gare" : "Gare Cedar Park",
+				"nom_municipalite" : "Pointe-Claire",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "518, ave Donegani",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.8034394321, 45.4472468996 ]
+			},
+			"properties" : {
+				"id" : 8,
+				"nom_gare" : "Gare Pointe-Claire",
+				"nom_municipalite" : "Pointe-Claire",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "300, ave Donegani",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7957392105, 45.6344962314 ]
+			},
+			"properties" : {
+				"id" : 27,
+				"nom_gare" : "Gare Rosemère",
+				"nom_municipalite" : "Rosemère",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "287, ch. de la Grande-Côte",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7908728809, 45.4497451853 ]
+			},
+			"properties" : {
+				"id" : 7,
+				"nom_gare" : "Gare Valois",
+				"nom_municipalite" : "Pointe-Claire",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "114, avenue Donegani, Pointe-Claire",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7642548485, 45.4495939016 ]
+			},
+			"properties" : {
+				"id" : 6,
+				"nom_gare" : "Gare Pine Beach",
+				"nom_municipalite" : "Dorval",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "1600, ave Cardinal",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7647463212, 45.6254300557 ]
+			},
+			"properties" : {
+				"id" : 26,
+				"nom_gare" : "Gare Sainte-Rose",
+				"nom_municipalite" : "Laval",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "99, boul. Sainte-Rose Est",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7431076525, 45.4491999394 ]
+			},
+			"properties" : {
+				"id" : 5,
+				"nom_gare" : "Gare Dorval",
+				"nom_municipalite" : "Dorval",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "900, ave Cardinal",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7426590323, 45.6037573178 ]
+			},
+			"properties" : {
+				"id" : 38,
+				"nom_gare" : "Gare Vimont",
+				"nom_municipalite" : "Laval",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "150, boulevard Bellerose ouest, Laval",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.711323749, 45.4486782596 ]
+			},
+			"properties" : {
+				"id" : 4,
+				"nom_gare" : "Gare Lachine",
+				"nom_municipalite" : "Lachine",
+				"nom_train" : "Vaudreuil-Hudson",
+				"no_train" : "11",
+				"adresse_civique" : "4800, rue Sir-George-Simpson",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.709935701, 45.5603153283 ]
+			},
+			"properties" : {
+				"id" : 41,
+				"nom_gare" : "Gare De la Concorde",
+				"nom_municipalite" : "Laval",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "Boul Concorde / métro Concorde",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6769009375, 45.5402419383 ]
+			},
+			"properties" : {
+				"id" : 25,
+				"nom_gare" : "Gare Bois-de-Boulogne",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "1000 boul. Henri-Bourassa Ouest",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6622901342, 45.5356834568 ]
+			},
+			"properties" : {
+				"id" : 47,
+				"nom_gare" : "Gare Ahuntsic",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Boul L'Acadie et Métropolitain",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6580302395, 45.5370481844 ]
+			},
+			"properties" : {
+				"id" : 40,
+				"nom_gare" : "Gare Chabanel",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "625, rue Chabanel Ouest",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6569767067, 45.42520771 ]
+			},
+			"properties" : {
+				"id" : 32,
+				"nom_gare" : "Gare LaSalle",
+				"nom_municipalite" : "LaSalle",
+				"nom_train" : "Candiac",
+				"no_train" : "14",
+				"adresse_civique" : "9, ave Highlands",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6558863937, 45.4376451911 ]
+			},
+			"properties" : {
+				"id" : 58,
+				"nom_gare" : "Gare Du Canal",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Candiac",
+				"no_train" : "14",
+				"adresse_civique" : null,
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.654503519, 45.5490478327 ]
+			},
+			"properties" : {
+				"id" : 46,
+				"nom_gare" : "Gare Sauvé",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Métro Sauvé, rue Berri/Sauvé",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6417387654, 45.4536719921 ]
+			},
+			"properties" : {
+				"id" : 3,
+				"nom_gare" : "Gare Montréal-Ouest",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Vaudreuil-Hudson -- Saint-Jérôme -- Candiac",
+				"no_train" : "11-12-14",
+				"adresse_civique" : "7499, avenue Harley, Montréal-Ouest",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6309263335, 45.5823441197 ]
+			},
+			"properties" : {
+				"id" : 45,
+				"nom_gare" : "Gare Saint-Michel–Montréal-Nord",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Boul Pie-IX",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6237794274, 45.5314844406 ]
+			},
+			"properties" : {
+				"id" : 56,
+				"nom_gare" : "Gare Parc",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Saint-Jérôme",
+				"no_train" : "12",
+				"adresse_civique" : "Angle avenue Ogilvy et Hutchison, une artère à l'ouest de l'avenue du Parc et de la rue Jean-Talon Ouest, Montréal",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6157267455, 45.6003121189 ]
+			},
+			"properties" : {
+				"id" : 44,
+				"nom_gare" : "Gare Saint-Léonard–Montréal-Nord",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Boul Lacordaire",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6030995912, 45.4737620441 ]
+			},
+			"properties" : {
+				"id" : 2,
+				"nom_gare" : "Gare Vendôme",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Vaudreuil-Hudson -- Saint-Jérôme -- Candiac",
+				"no_train" : "11-12-14",
+				"adresse_civique" : "5160, boul. de Maisonneuve Ouest, Montréal",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6000979692, 45.3820335019 ]
+			},
+			"properties" : {
+				"id" : 33,
+				"nom_gare" : "Gare Sainte-Catherine",
+				"nom_municipalite" : "Sainte-Catherine",
+				"nom_train" : "Candiac",
+				"no_train" : "14",
+				"adresse_civique" : "333, rue Sainte-Catherine",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5986741279, 45.729622888 ]
+			},
+			"properties" : {
+				"id" : 57,
+				"nom_gare" : "Gare Mascouche",
+				"nom_municipalite" : "Mascouche",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "A-25 et rue Sicard",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5960040301, 45.61838091 ]
+			},
+			"properties" : {
+				"id" : 48,
+				"nom_gare" : "Gare Anjou",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Autoroute 25",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5708057507, 45.4947620371 ]
+			},
+			"properties" : {
+				"id" : 1,
+				"nom_gare" : "Gare Lucien-L'Allier",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Vaudreuil-Hudson -- Saint-Jérôme -- Candiac",
+				"no_train" : "11-12-14",
+				"adresse_civique" : "1290, rue de la Gauchetière Ouest, Montréal",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5702973321, 45.3739389675 ]
+			},
+			"properties" : {
+				"id" : 55,
+				"nom_gare" : "Gare Saint-Constant",
+				"nom_municipalite" : "Saint-Constant",
+				"nom_train" : "Candiac",
+				"no_train" : "14",
+				"adresse_civique" : "78, rue Pacifique",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5666664467, 45.4999926211 ]
+			},
+			"properties" : {
+				"id" : 17,
+				"nom_gare" : "Gare Centrale",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mont-Saint-Hilaire -- Mascouche",
+				"no_train" : "13-15",
+				"adresse_civique" : "895, de la Gauchetière Ouest, Montréal",
+				"a_un_stationnement" : false,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5407995189, 45.3668353885 ]
+			},
+			"properties" : {
+				"id" : 43,
+				"nom_gare" : "Gare Delson",
+				"nom_municipalite" : "Delson",
+				"nom_train" : "Candiac",
+				"no_train" : "14",
+				"adresse_civique" : "1, ch. de la gare OU rue de la Station",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5389977475, 45.6607331946 ]
+			},
+			"properties" : {
+				"id" : 52,
+				"nom_gare" : "Gare Rivière-des-Prairies",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Boul. Saint-Jean-Baptiste (à l'est)",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5213146963, 45.7284217754 ]
+			},
+			"properties" : {
+				"id" : 51,
+				"nom_gare" : "Gare Terrebonne",
+				"nom_municipalite" : "Lachenaie",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Proximité échangeur, à l'Est du boul Lucie Teasdale",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5147939581, 45.3606506456 ]
+			},
+			"properties" : {
+				"id" : 37,
+				"nom_gare" : "Gare Candiac",
+				"nom_municipalite" : "Candiac",
+				"nom_train" : "Candiac",
+				"no_train" : "14",
+				"adresse_civique" : "201, rue Louis-Mayer, Candiac",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5074061174, 45.6744348251 ]
+			},
+			"properties" : {
+				"id" : 49,
+				"nom_gare" : "Gare Pointe-aux-Trembles",
+				"nom_municipalite" : "Montréal",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Sherbrooke (au nord)",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5058220798, 45.4996249937 ]
+			},
+			"properties" : {
+				"id" : 42,
+				"nom_gare" : "Gare Saint-Lambert",
+				"nom_municipalite" : "Saint-Lambert",
+				"nom_train" : "Mont-Saint-Hilaire",
+				"no_train" : "13",
+				"adresse_civique" : "101, rue Mercier",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4861741212, 45.7345776061 ]
+			},
+			"properties" : {
+				"id" : 50,
+				"nom_gare" : "Gare Repentigny",
+				"nom_municipalite" : "Le Gardeur",
+				"nom_train" : "Mascouche",
+				"no_train" : "15",
+				"adresse_civique" : "Proximité Pierre-Legardeur",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4351285404, 45.5080292515 ]
+			},
+			"properties" : {
+				"id" : 54,
+				"nom_gare" : "Gare Saint-Hubert",
+				"nom_municipalite" : "Saint-Hubert",
+				"nom_train" : "Mont-Saint-Hilaire",
+				"no_train" : "13",
+				"adresse_civique" : "2505, rue Patrick",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3744074542, 45.5120189202 ]
+			},
+			"properties" : {
+				"id" : 31,
+				"nom_gare" : "Gare Saint-Bruno",
+				"nom_municipalite" : "Saint-Bruno-de-Montarville",
+				"nom_train" : "Mont-Saint-Hilaire",
+				"no_train" : "13",
+				"adresse_civique" : "1200, rue Lenoir",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3059218339, 45.5232970813 ]
+			},
+			"properties" : {
+				"id" : 35,
+				"nom_gare" : "Gare Saint-Basile-le-Grand",
+				"nom_municipalite" : "Saint-Basile-le-Grand",
+				"nom_train" : "Mont-Saint-Hilaire",
+				"no_train" : "13",
+				"adresse_civique" : "121, rue de la Gare",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.2297741039, 45.5460432098 ]
+			},
+			"properties" : {
+				"id" : 30,
+				"nom_gare" : "Gare McMasterville",
+				"nom_municipalite" : "McMasterville",
+				"nom_train" : "Mont-Saint-Hilaire",
+				"no_train" : "13",
+				"adresse_civique" : "399, rue du Purvis Club",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.1784993373, 45.5771886398 ]
+			},
+			"properties" : {
+				"id" : 34,
+				"nom_gare" : "Gare Mont-Saint-Hilaire",
+				"nom_municipalite" : "Mont-Saint-Hilaire",
+				"nom_train" : "Mont-Saint-Hilaire",
+				"no_train" : "13",
+				"adresse_civique" : "900, chemin Benoit",
+				"a_un_stationnement" : true,
+				"date_maj_exo" : "2023-02-22",
+				"date_export" : "2023-10-27"
+			}
+		}
+	]
+}
