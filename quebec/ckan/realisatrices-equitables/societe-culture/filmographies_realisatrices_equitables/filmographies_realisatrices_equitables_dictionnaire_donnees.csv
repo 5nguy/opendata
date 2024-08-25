@@ -1,0 +1,13 @@
+,,,
+Champ,Type prioritaire,IntitulÃ©,Description
+ID_REALISATRICE,NumÃ©rique,Identifiant,Identifiant de la rÃ©alisatrice dans la base de donnÃ©es incrÃ©mentale de RÃ©alisatrices Ã©quitables
+PRENOM_REALISATRICE,Texte,PrÃ©nom,PrÃ©nom de la rÃ©alisatrice du film
+NOM_REALISATRICE,Texte,Nom,Nom de la rÃ©alisatrice du film
+TITRE_ORIGINAL,Texte,Titre original,Titre original de la production
+ANNEE,NumÃ©rique,AnnÃ©e de production,AnnÃ©e de production du film
+TYPE,Texte,Type,"Type de production (documentaire, fiction, animation, etc.)"
+GENRE,Texte,Genre,Genre du film de fiction
+FORMAT,Texte,Format,"DurÃ©e approximative de la production, selon un classement par formats (courts, moyens, longs mÃ©trages)"
+LANGUE_ORIGINALE,Texte,Langue originale,Langue principale parlÃ©e dans la production
+LANGUE_AUTRE,Texte,Autre langue,Autres langues parlÃ©es dans la production et langue des sous-titres
+EPISODES,NumÃ©rique,Ãpisodes,"Nombre d'Ã©pisodes, dans les cas de sÃ©ries"
