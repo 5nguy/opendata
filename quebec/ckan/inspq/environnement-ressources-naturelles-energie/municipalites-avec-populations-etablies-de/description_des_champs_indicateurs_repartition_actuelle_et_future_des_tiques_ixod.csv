@@ -1,0 +1,22 @@
+ï»¿Nom de la couche;Nom du champ;Description du champ
+;;
+MunicipalitÃ©s avec populations Ã©tablies de tiques Ixodes scapularis;SDRIDU;Code de la municipalitÃ©
+;SDRNOM;Nom de la municipalitÃ©
+;RSS;Code de la rÃ©gion sociosanitaire
+;RSS_NOM;Nom de la rÃ©gion sociosanitaire
+;Annees;PÃ©riode de la surveillance acarologique
+;PopTiqueEt;Population tique Ã©tablie
+;Type_de_su;Type de surveillance
+;;
+;;
+dj0_nrcanv2_2009-2017 (Zone climatique favorable Ã  lâÃ©tablissement des tiques Ixodes scapularis selon les donnÃ©es historiques 2009-2017);valeur;Nombre annuel de degrÃ©s-jours au-dessus de 0Â°C (DJ0) supÃ©rieur ou Ã©gal Ã  2800
+;X;Longitude
+;Y;Latitude
+;;
+;;
+DJ0_sspXXX_ESPO-G6-R2_HausfatherLikely_regridLATLON_growing_degree_days_p50_XXXX-XXXX (ScÃ©narios dâÃ©mission de GES SSP2-4.5/SSP3-7.0 - p50 - Horizon 2030/2050/2080);valeur;Nombre annuel de degrÃ©s-jours au-dessus de 0Â°C (DJ0) supÃ©rieur ou Ã©gal Ã  2800
+;ssp;ScÃ©nario climatique
+;pp;Percentile
+;horizon;Horizon temporel
+;X;Longitude
+;Y;Latitude
