@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+<meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta property="CartoVistaCustomViewer" content="false" />
+    <!-- og tag for facebook -->
+    <meta property="og:title" content="Comptes des terres du Québec méridional" />
+    <meta property="og:image" content="./map/thumbnails/comptes_terres_2023.png" />
+    <meta property="og:image:width" content="850" />
+    <meta property="og:image:height" content="530" />
+    <link rel="image_src" href="map/thumbnails/comptes_terres_2023_small.png" />
+    <link href="styles/reset.css" rel="stylesheet" />
+    <!-- CartoVista UI stylesheet -->
+    <link href="styles/cartovista_gray.css" rel="stylesheet" />
+    <!-- CartoVista custom stylesheet -->
+    <link href="styles/cartovistaviewer.css" rel="stylesheet" />
+    <script src="scripts/cartovista.viewer.min.js" onload="$().ready(function() { new CartoVista.CartoVista() })"></script>
+  </head>
+  <body>
+    <div class="cartoVista" data-cv-role="cartoVista" data-cv-interfacelanguages="fr" data-cv-defaultlanguage="fr" data-cv-baseurl="" data-cv-localesbaseurl="locales" data-cv-thematicsymbolfont="fonts/CartoVistaSymbols" data-cv-printlayoutfonturl="fonts/externals">
+      <div data-cv-role="preloader" class="cv-preloader">
+        <div class="cv-preloader-imgDiv"></div>
+        <div class="loader">Loading...</div>
+      </div>
+      <div class="cv-header" data-cv-role="header">
+        <div class="cv-header-left">
+          <div data-cv-role="mapTitle"></div>
+          <button data-cv-role="btnThemeSetList"></button>
+        </div>
+        <span class="cv-headerAction"></span>
+      </div>
+      <div class="cv-main" style="height: calc(100% - 65px);"> 
+        <div class="cv-splitter-container">
+          <div data-cv-role="horizontal-splitter">
+            <div id="bottombar-separator">
+              <!-- To separate bottombar -->
+              <div data-cv-role="left-vertical-splitter" data-cv-active="false">
+                <div class="cv-left-top-pane cv-panel-active">
+                  <div data-cv-role="map" data-cv-mapid="map1" data-cv-configfile="map/comptes_terres_2023Config.xml" data-cv-allowexport="false" data-cv-rolloverimagemaxsize="320"></div>
+                  <div data-cv-role="toolbar" data-cv-defaultselectedtool="infoPanTool">
+                    <button data-cv-role="initialExtentTool"></button>
+                    <button data-cv-role="zoomInTool" data-cv-radiogroup="mapTools"></button>
+                    <button data-cv-role="zoomOutTool" data-cv-radiogroup="mapTools"></button>
+                    <button data-cv-role="infoPanTool" data-cv-radiogroup="mapTools" data-cv-useinertiaforpanning="true"></button>
+                    <button data-cv-role="infoTool" data-cv-radiogroup="mapTools"></button>
+                  </div>
+                  <div data-cv-role="scaleBar"></div>
+                  <div class="cv-responsiveBottomBar">
+                    <span id="cv-responsiveBtnLegend"></span>
+                    <span id="cv-responsiveBtnSearch"></span>
+                    <span id="cv-responsiveBtnChart"></span>
+                    <span id="cv-responsiveBtnLayerControl"></span>
+                    <span id="cv-responsiveBtnInfo"></span>
+                    <span id="cv-responsiveBtnData"></span>
+                    <span id="cv-responsiveBtnSelection"></span>
+                    <span id="cv-responsiveBtnDrawing"></span>
+                    <span id="cv-responsiveBtnMetadata"></span>
+                    <span id="cv-responsiveBtnRouting"></span>
+                    <span id="cv-responsiveBtnGridLayerAnalysis"></span>
+                    <span id="cv-responsiveBtnTimeSeries"></span>
+                  </div>
+                  <div id="cv-responsiveViewLegend" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewSearch" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewChart" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewLayerControl" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewInfo" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewData" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewSelection" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewDrawing" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewMetadata" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewRouting" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewGridLayerAnalysis" class="cv-responsiveViewContainer"></div>
+                  <div id="cv-responsiveViewTimeSeries" class="cv-responsiveViewContainer"></div>
+                </div><div style="text-align: left; line-height: 1.1; font-size : 12px ;"><p><b>Interpr&eacute;tation des r&eacute;sultats :</b> L&rsquo;objectif des comptes des terres est d&rsquo;observer des tendances sur de vastes portions du territoire et non pas de qualifier l&rsquo;&eacute;volution d&rsquo;une parcelle pr&eacute;cise, ainsi les donn&eacute;es de couverture terrestre sont &agrave; interpr&eacute;ter avec prudence. Les changements par d&eacute;cennie sont pr&eacute;sent&eacute;s en format simplifi&eacute; par d&eacute;faut. Les diff&eacute;rents types de for&ecirc;ts et de milieux humides sont regroup&eacute;s en deux classes distinctes. Les changements d&eacute;taill&eacute;s sont accessibles &agrave; partir du contr&ocirc;le des couches.</p>Renseignements suppl&eacute;mentaires : <a href="legende_comptesterres.pdf" target="_blank">sources</a>, matrices statistiques des changements des <a href="https://statistique.quebec.ca/fr/produit/tableau/3426#tri_type_tertr=86&amp;tri_tertr=1&amp;couvert_val=00" target="_blank">ann&eacute;es 1990</a> et des <a href="https://statistique.quebec.ca/fr/produit/tableau/4431#tri_type_tertr=86&amp;tri_tertr=1&amp;couvert_val=00" target="_blank">ann&eacute;es 2000</a>.</div>
+              </div>
+            </div>
+            <div data-cv-role="right-vertical-splitter" data-cv-active="true">
+              <div class="cv-right-top-pane">
+                <div data-cv-role="searchView" data-cv-active="false" data-cv-responsivetarget="cv-responsiveViewSearch"></div>
+                <div data-cv-role="layerControlView" data-cv-active="false" data-cv-responsivetarget="cv-responsiveViewLayerControl"></div>
+                <div data-cv-role="infoView" data-cv-active="false" data-cv-allowsettings="false" data-cv-allowcopy="false" data-cv-displaydecimalcoordinates="false" data-cv-displaydmscoordinates="false" data-cv-displaymapunitscoordinates="false" data-cv-mapunitsprojectionproj4="" data-cv-mapunitsprojectionname="" data-cv-responsivetarget="cv-responsiveViewInfo"></div>
+              </div>
+              <div class="cv-right-bottom-pane"><a href="legende_comptesterres.pdf" target="_blank"><img src="legende.gif"></a> 
+                <div data-cv-role="legendView" data-cv-active="true" data-cv-allowexport="false" data-cv-allowremovethematic="false" data-cv-allowsettings="false" data-cv-allowvisibilitychange="false" data-cv-displaynavalues="true" data-cv-displayoutofrangevalues="true" data-cv-displaycounts="true" data-cv-responsivetarget="cv-responsiveViewLegend"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div data-cv-role="sidebar">
+          <button data-cv-role="btnToggleSearchView" data-cv-togglegroup="topSidebarGroup" data-cv-associatedcontainer="searchView" data-cv-responsivetarget="cv-responsiveBtnSearch"></button>
+          <button data-cv-role="btnToggleLayerControlView" data-cv-togglegroup="topSidebarGroup" data-cv-associatedcontainer="layerControlView" data-cv-responsivetarget="cv-responsiveBtnLayerControl"></button>
+          <button data-cv-role="btnToggleInfoView" data-cv-togglegroup="topSidebarGroup" data-cv-associatedcontainer="infoView" data-cv-responsivetarget="cv-responsiveBtnInfo"></button>
+          <div class="cv-alignBottom">
+            <button data-cv-role="btnToggleLegendView" data-cv-togglegroup="bottomSidebarGroup" data-cv-associatedcontainer="legendView" data-cv-responsivetarget="cv-responsiveBtnLegend"></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
