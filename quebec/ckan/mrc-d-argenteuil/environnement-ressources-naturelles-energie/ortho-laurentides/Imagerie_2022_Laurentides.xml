@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ERDAS APOLLO Core 2016 -->
+<WMS_Capabilities xmlns="http://www.opengis.net/wms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wms http://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd" version="1.3.0">
+   <Service>
+      <Name>WMS</Name>
+      <Title>Imagerie</Title>
+      <Abstract>Service d'imagerie du gouvernement du QuÃ©bec</Abstract>
+      <OnlineResource xlink:type="simple" xlink:href="" />
+      <MaxWidth>4000</MaxWidth>
+      <MaxHeight>4000</MaxHeight>
+   </Service>
+   <Capability>
+      <Request>
+         <GetCapabilities>
+            <Format>text/xml</Format>
+            <DCPType>
+               <HTTP>
+                  <Get>
+                     <OnlineResource xlink:href="https://imagesgeo-atlas.mrnf.gouv.qc.ca/TERRITOIRE/Imagerie_2022_Laurentides.xml" />
+                  </Get>
+               </HTTP>
+            </DCPType>
+         </GetCapabilities>
+         <GetMap>
+            <Format>image/jpeg</Format>
+            <Format>image/png</Format>
+            <DCPType>
+               <HTTP>
+                  <Get>
+                     <OnlineResource xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/ogc/wms/Imagerie?" />
+                  </Get>
+               </HTTP>
+            </DCPType>
+         </GetMap>
+         <GetFeatureInfo>
+            <Format>text/plain</Format>
+            <Format>text/xml</Format>
+            <DCPType>
+               <HTTP>
+                  <Get>
+                     <OnlineResource xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/ogc/wms/Imagerie?" />
+                  </Get>
+               </HTTP>
+            </DCPType>
+         </GetFeatureInfo>
+      </Request>
+      <Exception>
+         <Format>XML</Format>
+      </Exception>
+      <Layer>
+         <Title>Imagerie</Title>
+         <Layer>
+            <Title>Orthomosaique</Title>
+            <Layer>
+               <Title>2022</Title>
+               <Layer queryable="1">
+                  <Name>Orthomosaique_2022_2022_Partenariat_Laurentides_20cm_RVB</Name>
+                  <Title>2022_Partenariat_Laurentides_20cm_RVB</Title>
+                  <CRS>EPSG:32198</CRS>
+                  <CRS>EPSG:6622</CRS>
+                  <CRS>EPSG:4617</CRS>
+                  <CRS>EPSG:4326</CRS>
+                  <CRS>EPSG:3857</CRS>
+                  <CRS>EPSG:2952</CRS>
+                  <CRS>EPSG:2951</CRS>
+                  <CRS>EPSG:2950</CRS>
+                  <CRS>EPSG:2949</CRS>
+                  <CRS>EPSG:2948</CRS>
+                  <CRS>EPSG:2947</CRS>
+                  <CRS>EPSG:2946</CRS>
+                  <EX_GeographicBoundingBox>
+                     <westBoundLongitude>-75.113841866626672</westBoundLongitude>
+                     <eastBoundLongitude>-73.791743409167225</eastBoundLongitude>
+                     <southBoundLatitude>45.490147175350025</southBoundLatitude>
+                     <northBoundLatitude>46.471284756504922</northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+                  <BoundingBox CRS="EPSG:2946" minx="-749732.76802169997" miny="5114005.0595851336" maxx="-639130.46195242088" maxy="5236469.0438164864" resx="0.2024473799469417" resy="-0.2024473799469417" />
+                  <BoundingBox CRS="EPSG:2947" minx="-515840.05906702823" miny="5082135.8667111779" maxx="-408988.87799173803" maxy="5200938.6532800579" resx="0.20143564876661621" resy="-0.20143564876661621" />
+                  <BoundingBox CRS="EPSG:2948" minx="-283958.88722275558" miny="5059252.3870229088" maxx="-178721.56067732064" maxy="5174432.256496802" resx="0.20069097447925932" resy="-0.20069097447925932" />
+                  <BoundingBox CRS="EPSG:2949" minx="-52003.196614275977" miny="5045232.1857994515" maxx="51621.083762849827" maxy="5156815.8667881982" resx="0.20021257575308238" resy="-0.20021257575308238" />
+                  <BoundingBox CRS="EPSG:2950" minx="179991.99666662712" miny="5040000" maxx="282000" maxy="5148000" resx="0.20000000000000001" resy="-0.20000404017108775" />
+                  <BoundingBox CRS="EPSG:2951" minx="412000" miny="5040016.6425222233" maxx="516451.3385874721" maxy="5151508.6873332551" resx="0.20000000000000001" resy="-0.2000530564835426" />
+                  <BoundingBox CRS="EPSG:2952" minx="643012.09065570903" miny="5048798.924497446" maxx="750892.43298807682" maxy="5163785.2027281737" resx="0.2002594686153526" resy="-0.2002594686153526" />
+                  <BoundingBox CRS="EPSG:3857" minx="-8361634.6281193541" miny="5699018.0284849182" maxx="-8214459.3010563971" maxy="5856197.2769262576" resx="0.28781091113102358" resy="-0.28781091113102358" />
+                  <BoundingBox CRS="EPSG:4326" miny="-75.113841866626672" minx="45.490147175350025" maxy="-73.791743409167225" maxx="46.471284756504922" resy="2.2161738486582933E-006" resx="-2.2161738486582933E-006" />
+                  <BoundingBox CRS="EPSG:4617" miny="-75.113841866626672" minx="45.49014717629629" maxy="-73.791743409167225" maxx="46.471284757450022" resy="2.2161738486291228E-006" resx="-2.2161738486291228E-006" />
+                  <BoundingBox CRS="EPSG:6622" minx="-510725.11019454763" miny="182405.42442868836" maxx="-406067.96580578177" maxy="296822.30877883174" resx="0.19990803974119839" resy="-0.19990803974119839" />
+                  <BoundingBox CRS="EPSG:32198" minx="-510725.11019454763" miny="182405.42442868836" maxx="-406067.96580578177" maxy="296822.30877883174" resx="0.19990803974119839" resy="-0.19990803974119839" />
+                  <Style>
+                     <Name>default</Name>
+                     <Title>default</Title>
+                     <LegendURL width="100" height="100">
+                        <Format>image/jpeg</Format>
+                        <OnlineResource xlink:type="simple" xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/erdas/imagex/Imagerie?request=image&amp;type=jpg&amp;layers=/Orthomosaique/2022/2022_Partenariat_Laurentides_20cm_RVB/&amp;style=default&amp;sizex=100&amp;sizey=100" />
+                     </LegendURL>
+                  </Style>
+               </Layer>
+            </Layer>
+         </Layer>
+      </Layer>
+   </Capability>
+</WMS_Capabilities>
