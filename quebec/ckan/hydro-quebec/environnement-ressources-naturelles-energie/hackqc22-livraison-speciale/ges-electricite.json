@@ -1,0 +1,2411 @@
+{
+    "LastExecuted": "2024-08-25T12:11:53Z",
+    "details": [
+        {
+            "date": "2024-08-24T00:00:00",
+            "Quebec_Production_Sources": {
+                "total": 14163.0,
+                "autres": 644.0,
+                "eolien": 1905.0,
+                "hydraulique": 11614.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 306624.6,
+                "intensite": 23.83
+            },
+            "Exportations": {
+                "total": 2045.4,
+                "NewEngland": 188.2,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1219.2
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.1,
+                    "gas": 388.4,
+                    "nuclear": 165.3,
+                    "unknown": 15.5,
+                    "wind": 23.8,
+                    "hydro": 157.1
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12867.7,
+                "hydraulique": 10093.8,
+                "eolien": 1653.7,
+                "autres": 566.5,
+                "solaire": 0.0,
+                "thermique": 388.4,
+                "nucleaire": 165.3,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T01:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13763.0,
+                "autres": 641.0,
+                "eolien": 1902.0,
+                "hydraulique": 11220.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 302261.5,
+                "intensite": 24.24
+            },
+            "Exportations": {
+                "total": 2041.0,
+                "NewEngland": 187.8,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1215.2
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 381.7,
+                    "nuclear": 170.3,
+                    "unknown": 16.0,
+                    "wind": 22.9,
+                    "hydro": 159.1
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12471.9,
+                "hydraulique": 9715.2,
+                "eolien": 1642.8,
+                "autres": 561.9,
+                "solaire": 0.0,
+                "thermique": 381.7,
+                "nucleaire": 170.3,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T02:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13513.0,
+                "autres": 641.0,
+                "eolien": 1791.0,
+                "hydraulique": 11081.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 291671.6,
+                "intensite": 23.86
+            },
+            "Exportations": {
+                "total": 2041.1,
+                "NewEngland": 188.2,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1214.9
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 366.6,
+                    "nuclear": 177.0,
+                    "unknown": 16.5,
+                    "wind": 21.7,
+                    "hydro": 168.2
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12221.9,
+                "hydraulique": 9575.4,
+                "eolien": 1542.2,
+                "autres": 560.7,
+                "solaire": 0.0,
+                "thermique": 366.6,
+                "nucleaire": 177.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T03:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13592.0,
+                "autres": 640.0,
+                "eolien": 1673.0,
+                "hydraulique": 11279.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 221169.5,
+                "intensite": 18.22
+            },
+            "Exportations": {
+                "total": 2040.3,
+                "NewEngland": 188.3,
+                "NewBrunswick": 638.0,
+                "NewYork": -587.0,
+                "Ontario": 1214.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 587.1,
+                    "gas": 275.4,
+                    "nuclear": 143.9,
+                    "unknown": 14.1,
+                    "wind": 17.3,
+                    "hydro": 136.4
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12138.8,
+                "hydraulique": 9722.3,
+                "eolien": 1439.2,
+                "autres": 558.0,
+                "solaire": 0.0,
+                "thermique": 275.4,
+                "nucleaire": 143.9,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T04:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13567.0,
+                "autres": 639.0,
+                "eolien": 1525.0,
+                "hydraulique": 11403.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 220853.9,
+                "intensite": 18.23
+            },
+            "Exportations": {
+                "total": 2042.0,
+                "NewEngland": 188.7,
+                "NewBrunswick": 638.0,
+                "NewYork": -587.0,
+                "Ontario": 1215.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 587.0,
+                    "gas": 275.3,
+                    "nuclear": 146.8,
+                    "unknown": 13.9,
+                    "wind": 17.0,
+                    "hydro": 134.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12112.0,
+                "hydraulique": 9820.7,
+                "eolien": 1312.5,
+                "autres": 556.7,
+                "solaire": 0.0,
+                "thermique": 275.3,
+                "nucleaire": 146.8,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T05:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13391.0,
+                "autres": 637.0,
+                "eolien": 1402.0,
+                "hydraulique": 11352.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 292442.4,
+                "intensite": 24.17
+            },
+            "Exportations": {
+                "total": 2043.2,
+                "NewEngland": 187.7,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1217.5
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 366.5,
+                    "nuclear": 182.5,
+                    "unknown": 17.2,
+                    "wind": 18.5,
+                    "hydro": 165.3
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12097.8,
+                "hydraulique": 9785.2,
+                "eolien": 1206.6,
+                "autres": 557.0,
+                "solaire": 0.0,
+                "thermique": 366.5,
+                "nucleaire": 182.5,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T06:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13670.0,
+                "autres": 635.0,
+                "eolien": 1272.0,
+                "hydraulique": 11763.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 305366.4,
+                "intensite": 24.68
+            },
+            "Exportations": {
+                "total": 2044.5,
+                "NewEngland": 188.4,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1218.1
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 385.4,
+                    "nuclear": 178.2,
+                    "unknown": 16.3,
+                    "wind": 15.9,
+                    "hydro": 154.2
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12375.5,
+                "hydraulique": 10157.9,
+                "eolien": 1097.7,
+                "autres": 556.3,
+                "solaire": 0.0,
+                "thermique": 385.4,
+                "nucleaire": 178.2,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T07:00:00",
+            "Quebec_Production_Sources": {
+                "total": 14505.0,
+                "autres": 636.0,
+                "eolien": 983.0,
+                "hydraulique": 12885.0,
+                "solaire": 1.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 306534.8,
+                "intensite": 23.21
+            },
+            "Exportations": {
+                "total": 2047.9,
+                "NewEngland": 189.1,
+                "NewBrunswick": 641.0,
+                "NewYork": -750.0,
+                "Ontario": 1217.8
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 380.3,
+                    "nuclear": 177.1,
+                    "unknown": 20.4,
+                    "wind": 12.3,
+                    "hydro": 159.9
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 13207.1,
+                "hydraulique": 11225.7,
+                "eolien": 856.5,
+                "autres": 566.6,
+                "solaire": 0.9,
+                "thermique": 380.3,
+                "nucleaire": 177.1,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T08:00:00",
+            "Quebec_Production_Sources": {
+                "total": 15720.0,
+                "autres": 633.0,
+                "eolien": 678.0,
+                "hydraulique": 14405.0,
+                "solaire": 4.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 308710.8,
+                "intensite": 21.56
+            },
+            "Exportations": {
+                "total": 2151.2,
+                "NewEngland": 189.6,
+                "NewBrunswick": 741.0,
+                "NewYork": -750.0,
+                "Ontario": 1220.6
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.1,
+                    "gas": 372.0,
+                    "nuclear": 174.5,
+                    "unknown": 27.3,
+                    "wind": 7.0,
+                    "hydro": 169.3
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 14319.0,
+                "hydraulique": 12603.1,
+                "eolien": 592.2,
+                "autres": 573.7,
+                "solaire": 3.5,
+                "thermique": 372.0,
+                "nucleaire": 174.5,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T09:00:00",
+            "Quebec_Production_Sources": {
+                "total": 16476.0,
+                "autres": 632.0,
+                "eolien": 459.0,
+                "hydraulique": 15380.0,
+                "solaire": 5.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 315953.2,
+                "intensite": 21.0
+            },
+            "Exportations": {
+                "total": 2179.4,
+                "NewEngland": 190.1,
+                "NewBrunswick": 770.0,
+                "NewYork": -750.0,
+                "Ontario": 1219.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 749.9,
+                    "gas": 372.0,
+                    "nuclear": 170.3,
+                    "unknown": 33.3,
+                    "wind": 4.8,
+                    "hydro": 169.5
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15046.5,
+                "hydraulique": 13515.1,
+                "eolien": 403.1,
+                "autres": 581.7,
+                "solaire": 4.3,
+                "thermique": 372.0,
+                "nucleaire": 170.3,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T10:00:00",
+            "Quebec_Production_Sources": {
+                "total": 16942.0,
+                "autres": 627.0,
+                "eolien": 376.0,
+                "hydraulique": 15932.0,
+                "solaire": 7.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 317914.0,
+                "intensite": 20.56
+            },
+            "Exportations": {
+                "total": 2229.1,
+                "NewEngland": 191.0,
+                "NewBrunswick": 820.0,
+                "NewYork": -750.0,
+                "Ontario": 1218.1
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 370.9,
+                    "nuclear": 170.1,
+                    "unknown": 35.6,
+                    "wind": 4.8,
+                    "hydro": 168.6
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15462.9,
+                "hydraulique": 14004.4,
+                "eolien": 331.3,
+                "autres": 580.1,
+                "solaire": 6.1,
+                "thermique": 370.9,
+                "nucleaire": 170.1,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T11:00:00",
+            "Quebec_Production_Sources": {
+                "total": 17253.0,
+                "autres": 629.0,
+                "eolien": 437.0,
+                "hydraulique": 16179.0,
+                "solaire": 8.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 331016.4,
+                "intensite": 20.99
+            },
+            "Exportations": {
+                "total": 2233.8,
+                "NewEngland": 191.2,
+                "NewBrunswick": 820.0,
+                "NewYork": -750.0,
+                "Ontario": 1222.6
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 394.6,
+                    "nuclear": 157.2,
+                    "unknown": 31.9,
+                    "wind": 3.8,
+                    "hydro": 162.5
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15769.3,
+                "hydraulique": 14246.8,
+                "eolien": 384.2,
+                "autres": 579.5,
+                "solaire": 7.0,
+                "thermique": 394.6,
+                "nucleaire": 157.2,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T12:00:00",
+            "Quebec_Production_Sources": {
+                "total": 17314.0,
+                "autres": 628.0,
+                "eolien": 584.0,
+                "hydraulique": 16094.0,
+                "solaire": 8.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 344376.5,
+                "intensite": 21.75
+            },
+            "Exportations": {
+                "total": 2232.4,
+                "NewEngland": 191.4,
+                "NewBrunswick": 820.0,
+                "NewYork": -750.0,
+                "Ontario": 1221.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 413.6,
+                    "nuclear": 145.7,
+                    "unknown": 31.3,
+                    "wind": 3.3,
+                    "hydro": 156.1
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15831.6,
+                "hydraulique": 14175.0,
+                "eolien": 512.0,
+                "autres": 578.3,
+                "solaire": 7.0,
+                "thermique": 413.6,
+                "nucleaire": 145.7,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T13:00:00",
+            "Quebec_Production_Sources": {
+                "total": 17041.0,
+                "autres": 638.0,
+                "eolien": 692.0,
+                "hydraulique": 15704.0,
+                "solaire": 7.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 346615.5,
+                "intensite": 22.27
+            },
+            "Exportations": {
+                "total": 2229.1,
+                "NewEngland": 191.5,
+                "NewBrunswick": 820.0,
+                "NewYork": -750.0,
+                "Ontario": 1217.6
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 418.9,
+                    "nuclear": 142.9,
+                    "unknown": 29.9,
+                    "wind": 5.0,
+                    "hydro": 153.3
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15561.9,
+                "hydraulique": 13803.1,
+                "eolien": 606.5,
+                "autres": 584.4,
+                "solaire": 6.1,
+                "thermique": 418.9,
+                "nucleaire": 142.9,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T14:00:00",
+            "Quebec_Production_Sources": {
+                "total": 16871.0,
+                "autres": 644.0,
+                "eolien": 854.0,
+                "hydraulique": 15367.0,
+                "solaire": 6.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 350144.1,
+                "intensite": 22.73
+            },
+            "Exportations": {
+                "total": 2218.8,
+                "NewEngland": 191.1,
+                "NewBrunswick": 810.0,
+                "NewYork": -750.0,
+                "Ontario": 1217.7
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 424.8,
+                    "nuclear": 139.9,
+                    "unknown": 29.2,
+                    "wind": 6.4,
+                    "hydro": 149.7
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15402.2,
+                "hydraulique": 13495.7,
+                "eolien": 748.1,
+                "autres": 588.5,
+                "solaire": 5.2,
+                "thermique": 424.8,
+                "nucleaire": 139.9,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T15:00:00",
+            "Quebec_Production_Sources": {
+                "total": 17589.0,
+                "autres": 644.0,
+                "eolien": 913.0,
+                "hydraulique": 16024.0,
+                "solaire": 8.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 28767.8,
+                "intensite": 1.86
+            },
+            "Exportations": {
+                "total": 2213.5,
+                "NewEngland": 191.2,
+                "NewBrunswick": 800.0,
+                "NewYork": -62.0,
+                "Ontario": 1222.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 62.0,
+                    "gas": 34.9,
+                    "nuclear": 11.7,
+                    "unknown": 2.4,
+                    "wind": 0.4,
+                    "hydro": 12.6
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15437.5,
+                "hydraulique": 14020.0,
+                "eolien": 798.5,
+                "autres": 565.4,
+                "solaire": 7.0,
+                "thermique": 34.9,
+                "nucleaire": 11.7,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T16:00:00",
+            "Quebec_Production_Sources": {
+                "total": 17626.0,
+                "autres": 643.0,
+                "eolien": 1016.0,
+                "hydraulique": 15961.0,
+                "solaire": 6.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 87542.6,
+                "intensite": 5.27
+            },
+            "Exportations": {
+                "total": 1189.7,
+                "NewEngland": 191.0,
+                "NewBrunswick": 800.0,
+                "NewYork": -187.0,
+                "Ontario": 198.7
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 187.1,
+                    "gas": 108.0,
+                    "nuclear": 33.4,
+                    "unknown": 6.2,
+                    "wind": 1.6,
+                    "hydro": 37.9
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 16623.4,
+                "hydraulique": 14921.6,
+                "eolien": 949.0,
+                "autres": 605.8,
+                "solaire": 5.6,
+                "thermique": 108.0,
+                "nucleaire": 33.4,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T17:00:00",
+            "Quebec_Production_Sources": {
+                "total": 19428.0,
+                "autres": 642.0,
+                "eolien": 994.0,
+                "hydraulique": 17788.0,
+                "solaire": 4.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 1443.1,
+                "NewEngland": 466.8,
+                "NewBrunswick": 800.0,
+                "NewYork": 22.0,
+                "Ontario": 154.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 17984.9,
+                "hydraulique": 16466.7,
+                "eolien": 920.2,
+                "autres": 594.3,
+                "solaire": 3.7,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T18:00:00",
+            "Quebec_Production_Sources": {
+                "total": 20288.0,
+                "autres": 643.0,
+                "eolien": 901.0,
+                "hydraulique": 18743.0,
+                "solaire": 1.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 2206.2,
+                "NewEngland": 1235.6,
+                "NewBrunswick": 800.0,
+                "NewYork": 163.0,
+                "Ontario": 7.6
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 18081.8,
+                "hydraulique": 16704.8,
+                "eolien": 803.0,
+                "autres": 573.1,
+                "solaire": 0.9,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T19:00:00",
+            "Quebec_Production_Sources": {
+                "total": 19976.0,
+                "autres": 644.0,
+                "eolien": 1092.0,
+                "hydraulique": 18240.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 2408.4,
+                "NewEngland": 1175.0,
+                "NewBrunswick": 800.0,
+                "NewYork": 163.0,
+                "Ontario": 270.4
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 17567.6,
+                "hydraulique": 16040.9,
+                "eolien": 960.3,
+                "autres": 566.4,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T20:00:00",
+            "Quebec_Production_Sources": {
+                "total": 18559.0,
+                "autres": 647.0,
+                "eolien": 1353.0,
+                "hydraulique": 16559.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 1932.5,
+                "NewEngland": 187.7,
+                "NewBrunswick": 791.0,
+                "NewYork": 163.0,
+                "Ontario": 790.8
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 16626.5,
+                "hydraulique": 14834.8,
+                "eolien": 1212.1,
+                "autres": 579.6,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T21:00:00",
+            "Quebec_Production_Sources": {
+                "total": 17277.0,
+                "autres": 648.0,
+                "eolien": 1316.0,
+                "hydraulique": 15313.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 2237.1,
+                "NewEngland": 187.8,
+                "NewBrunswick": 666.0,
+                "NewYork": 163.0,
+                "Ontario": 1220.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 15039.9,
+                "hydraulique": 13330.2,
+                "eolien": 1145.6,
+                "autres": 564.1,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T22:00:00",
+            "Quebec_Production_Sources": {
+                "total": 16221.0,
+                "autres": 650.0,
+                "eolien": 1184.0,
+                "hydraulique": 14387.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 2170.7,
+                "NewEngland": 187.2,
+                "NewBrunswick": 638.0,
+                "NewYork": 129.0,
+                "Ontario": 1216.5
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 14050.3,
+                "hydraulique": 12461.7,
+                "eolien": 1025.6,
+                "autres": 563.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-24T23:00:00",
+            "Quebec_Production_Sources": {
+                "total": 14797.0,
+                "autres": 655.0,
+                "eolien": 1094.0,
+                "hydraulique": 13048.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 260718.6,
+                "intensite": 19.56
+            },
+            "Exportations": {
+                "total": 2039.3,
+                "NewEngland": 186.4,
+                "NewBrunswick": 638.0,
+                "NewYork": -571.0,
+                "Ontario": 1214.9
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 571.0,
+                    "gas": 333.8,
+                    "nuclear": 116.2,
+                    "unknown": 11.0,
+                    "wind": 5.3,
+                    "hydro": 104.7
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 13328.6,
+                "hydraulique": 11354.4,
+                "eolien": 948.5,
+                "autres": 575.7,
+                "solaire": 0.0,
+                "thermique": 333.8,
+                "nucleaire": 116.2,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T00:00:00",
+            "Quebec_Production_Sources": {
+                "total": 14251.0,
+                "autres": 656.0,
+                "eolien": 965.0,
+                "hydraulique": 12630.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 332116.2,
+                "intensite": 25.62
+            },
+            "Exportations": {
+                "total": 2039.4,
+                "NewEngland": 186.0,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1215.4
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 749.9,
+                    "gas": 422.3,
+                    "nuclear": 161.4,
+                    "unknown": 15.8,
+                    "wind": 6.1,
+                    "hydro": 144.3
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12961.5,
+                "hydraulique": 10966.9,
+                "eolien": 833.0,
+                "autres": 577.9,
+                "solaire": 0.0,
+                "thermique": 422.3,
+                "nucleaire": 161.4,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T01:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13771.0,
+                "autres": 652.0,
+                "eolien": 714.0,
+                "hydraulique": 12405.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 327696.1,
+                "intensite": 26.26
+            },
+            "Exportations": {
+                "total": 2044.0,
+                "NewEngland": 185.7,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1220.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 416.5,
+                    "nuclear": 166.1,
+                    "unknown": 15.7,
+                    "wind": 6.1,
+                    "hydro": 145.6
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12477.0,
+                "hydraulique": 10709.4,
+                "eolien": 614.1,
+                "autres": 570.9,
+                "solaire": 0.0,
+                "thermique": 416.5,
+                "nucleaire": 166.1,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T02:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13536.0,
+                "autres": 653.0,
+                "eolien": 599.0,
+                "hydraulique": 12284.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 323258.9,
+                "intensite": 26.38
+            },
+            "Exportations": {
+                "total": 2031.2,
+                "NewEngland": 184.6,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1208.6
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 409.7,
+                    "nuclear": 172.1,
+                    "unknown": 16.2,
+                    "wind": 6.1,
+                    "hydro": 145.9
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12254.8,
+                "hydraulique": 10586.6,
+                "eolien": 515.2,
+                "autres": 571.2,
+                "solaire": 0.0,
+                "thermique": 409.7,
+                "nucleaire": 172.1,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T03:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13445.0,
+                "autres": 654.0,
+                "eolien": 493.0,
+                "hydraulique": 12298.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 314263.8,
+                "intensite": 25.84
+            },
+            "Exportations": {
+                "total": 2034.0,
+                "NewEngland": 184.4,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1211.6
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 749.9,
+                    "gas": 396.1,
+                    "nuclear": 177.9,
+                    "unknown": 17.1,
+                    "wind": 6.0,
+                    "hydro": 152.8
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12160.9,
+                "hydraulique": 10590.3,
+                "eolien": 424.4,
+                "autres": 572.2,
+                "solaire": 0.0,
+                "thermique": 396.1,
+                "nucleaire": 177.9,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T04:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13334.0,
+                "autres": 652.0,
+                "eolien": 406.0,
+                "hydraulique": 12276.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 312522.7,
+                "intensite": 25.93
+            },
+            "Exportations": {
+                "total": 2031.7,
+                "NewEngland": 184.7,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1209.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 393.1,
+                    "nuclear": 179.4,
+                    "unknown": 17.5,
+                    "wind": 4.9,
+                    "hydro": 155.1
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12052.3,
+                "hydraulique": 10560.6,
+                "eolien": 349.0,
+                "autres": 570.2,
+                "solaire": 0.0,
+                "thermique": 393.1,
+                "nucleaire": 179.4,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T05:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13536.0,
+                "autres": 650.0,
+                "eolien": 392.0,
+                "hydraulique": 12494.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 306304.5,
+                "intensite": 25.0
+            },
+            "Exportations": {
+                "total": 2031.5,
+                "NewEngland": 184.0,
+                "NewBrunswick": 638.0,
+                "NewYork": -750.0,
+                "Ontario": 1209.5
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 749.9,
+                    "gas": 385.2,
+                    "nuclear": 181.6,
+                    "unknown": 17.2,
+                    "wind": 4.0,
+                    "hydro": 161.9
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12254.4,
+                "hydraulique": 10780.8,
+                "eolien": 337.2,
+                "autres": 569.6,
+                "solaire": 0.0,
+                "thermique": 385.2,
+                "nucleaire": 181.6,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T06:00:00",
+            "Quebec_Production_Sources": {
+                "total": 13720.0,
+                "autres": 651.0,
+                "eolien": 347.0,
+                "hydraulique": 12722.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 316625.4,
+                "intensite": 25.48
+            },
+            "Exportations": {
+                "total": 2044.8,
+                "NewEngland": 183.5,
+                "NewBrunswick": 652.0,
+                "NewYork": -750.0,
+                "Ontario": 1209.3
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 400.1,
+                    "nuclear": 179.5,
+                    "unknown": 16.6,
+                    "wind": 3.5,
+                    "hydro": 150.3
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 12425.2,
+                "hydraulique": 10976.2,
+                "eolien": 298.8,
+                "autres": 570.6,
+                "solaire": 0.0,
+                "thermique": 400.1,
+                "nucleaire": 179.5,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T07:00:00",
+            "Quebec_Production_Sources": {
+                "total": 14483.0,
+                "autres": 649.0,
+                "eolien": 246.0,
+                "hydraulique": 13587.0,
+                "solaire": 1.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 308939.0,
+                "intensite": 23.51
+            },
+            "Exportations": {
+                "total": 2090.0,
+                "NewEngland": 184.9,
+                "NewBrunswick": 691.0,
+                "NewYork": -750.0,
+                "Ontario": 1214.1
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 386.8,
+                    "nuclear": 181.8,
+                    "unknown": 18.4,
+                    "wind": 3.0,
+                    "hydro": 160.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 13143.0,
+                "hydraulique": 11786.3,
+                "eolien": 213.5,
+                "autres": 573.7,
+                "solaire": 0.9,
+                "thermique": 386.8,
+                "nucleaire": 181.8,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T08:00:00",
+            "Quebec_Production_Sources": {
+                "total": 15423.0,
+                "autres": 643.0,
+                "eolien": 140.0,
+                "hydraulique": 14639.0,
+                "solaire": 1.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 316715.3,
+                "intensite": 22.55
+            },
+            "Exportations": {
+                "total": 2126.2,
+                "NewEngland": 187.4,
+                "NewBrunswick": 741.0,
+                "NewYork": -750.0,
+                "Ontario": 1197.8
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.1,
+                    "gas": 389.8,
+                    "nuclear": 177.7,
+                    "unknown": 23.0,
+                    "wind": 4.5,
+                    "hydro": 155.1
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 14047.0,
+                "hydraulique": 12776.0,
+                "eolien": 125.2,
+                "autres": 577.4,
+                "solaire": 0.9,
+                "thermique": 389.8,
+                "nucleaire": 177.7,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T09:00:00",
+            "Quebec_Production_Sources": {
+                "total": 16307.0,
+                "autres": 637.0,
+                "eolien": 83.0,
+                "hydraulique": 15585.0,
+                "solaire": 2.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 315009.8,
+                "intensite": 21.23
+            },
+            "Exportations": {
+                "total": 2221.0,
+                "NewEngland": 189.2,
+                "NewBrunswick": 816.0,
+                "NewYork": -750.0,
+                "Ontario": 1215.8
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 381.8,
+                    "nuclear": 179.4,
+                    "unknown": 26.5,
+                    "wind": 3.0,
+                    "hydro": 159.3
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 14835.9,
+                "hydraulique": 13621.6,
+                "eolien": 74.7,
+                "autres": 576.7,
+                "solaire": 1.7,
+                "thermique": 381.8,
+                "nucleaire": 179.4,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T10:00:00",
+            "Quebec_Production_Sources": {
+                "total": 16720.0,
+                "autres": 635.0,
+                "eolien": 79.0,
+                "hydraulique": 15999.0,
+                "solaire": 7.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 328557.6,
+                "intensite": 19.97
+            },
+            "Exportations": {
+                "total": 1021.1,
+                "NewEngland": 191.1,
+                "NewBrunswick": 830.0,
+                "NewYork": -750.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 393.4,
+                    "nuclear": 171.6,
+                    "unknown": 30.6,
+                    "wind": 0.6,
+                    "hydro": 153.8
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 16448.9,
+                "hydraulique": 15175.7,
+                "eolien": 74.8,
+                "autres": 626.8,
+                "solaire": 6.6,
+                "thermique": 393.4,
+                "nucleaire": 171.6,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T11:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 353377.6,
+                "intensite": 471.17
+            },
+            "Exportations": {
+                "total": 1021.6,
+                "NewEngland": 191.6,
+                "NewBrunswick": 830.0,
+                "NewYork": -750.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 750.0,
+                    "gas": 423.3,
+                    "nuclear": 150.5,
+                    "unknown": 32.8,
+                    "wind": 0.9,
+                    "hydro": 142.5
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 750.0,
+                "hydraulique": 142.5,
+                "eolien": 0.9,
+                "autres": 32.8,
+                "solaire": 0.0,
+                "thermique": 423.3,
+                "nucleaire": 150.5,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T12:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 830.0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 830.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T13:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T14:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T15:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T16:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T17:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T18:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T19:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T20:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T21:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T22:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        },
+        {
+            "date": "2024-08-25T23:00:00",
+            "Quebec_Production_Sources": {
+                "total": 0.0,
+                "autres": 0.0,
+                "eolien": 0.0,
+                "hydraulique": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0
+            },
+            "Quebec_Consommation_GES": {
+                "total": 0.0,
+                "intensite": 0.0
+            },
+            "Exportations": {
+                "total": 0,
+                "NewEngland": 0.0,
+                "NewBrunswick": 0.0,
+                "NewYork": 0.0,
+                "Ontario": 0.0
+            },
+            "Importations_Sources": {
+                "Ontario": {
+                    "total": 0.0
+                },
+                "NewBrunswick": {
+                    "total": 0.0
+                },
+                "NewYork": {
+                    "total": 0.0
+                },
+                "NewEngland": {
+                    "total": 0.0
+                }
+            },
+            "Quebec_Consommation_Sources": {
+                "total": 0.0,
+                "hydraulique": 0.0,
+                "eolien": 0.0,
+                "autres": 0.0,
+                "solaire": 0.0,
+                "thermique": 0.0,
+                "nucleaire": 0.0,
+                "geothermique": 0.0,
+                "biomasse": 0.0
+            }
+        }
+    ]
+}
