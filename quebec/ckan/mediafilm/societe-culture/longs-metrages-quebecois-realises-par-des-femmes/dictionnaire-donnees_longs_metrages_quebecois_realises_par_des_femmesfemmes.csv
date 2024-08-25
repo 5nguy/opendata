@@ -1,0 +1,10 @@
+Champ,Type prioritaire,IntitulÃ©,Description
+UID_MEDIAFILM,Texte,UID Mediafilm,Chaque long mÃ©trage contenu dans la base de donnÃ©es de Mediafilm comporte un identifiant unique gÃ©nÃ©rÃ© automatiquement de maniÃ¨re incrÃ©mentale.
+TITRE_FRANCAIS,Texte,Titre en franÃ§ais,"Titre donnÃ© au QuÃ©bec Ã  la version originale franÃ§aise, Ã  la version doublÃ©e en franÃ§ais ou Ã  la version sous-titrÃ©e en franÃ§ais"
+TITRE_ANGLAIS,Texte,Titre en anglais,"Titre donnÃ© au QuÃ©bec Ã  la version originale anglaise, Ã  la version doublÃ©e en anglais ou Ã  la version sous-titrÃ©e en anglais"
+GENRE,Texte,Genre,"Mediafilm attribue un genre Ã  chaque long mÃ©trage selon des critÃ¨res qui lui sont propres. Celui-ci peut Ãªtre simple (drame, comÃ©die) ou composÃ© (comÃ©die dramatique, drame sentimental, etc.)"
+DISTRIBUTEUR,Texte,Distributeur,"La sociÃ©tÃ© quÃ©bÃ©coise ou canadienne dÃ©tenant les droits de diffusion en salle ou sur support numÃ©rique du film, Ã  la connaissance de Mediafilm au moment du dÃ©pÃ´t du jeu de donnÃ©es."
+REALISATRICE,Texte,RÃ©alisatrice,"Personne ayant signÃ© la rÃ©alisation du film. Dans les cas de rÃ©alisateurs multiples, les noms sont indiquÃ©s par ordre d'importance, sÃ©parÃ©s par une virgule."
+ANNEE_PRODUCTION,NumÃ©rique,AnnÃ©e de production,AnnÃ©e dÃ©livrÃ©e par le pays producteur et inscrite au gÃ©nÃ©rique.
+DATE_SORTIE_SALLES_QUÃBEC,NumÃ©rique,Date de sortie en salles au QuÃ©bec,Date connue de la premiÃ¨re exploitation en salles du long mÃ©trage.
+PAYS_COPRODUCTEUR,Texte,Pays coproducteur,"Dans les cas oÃ¹ le long mÃ©trage a Ã©tÃ© coproduit avec un pays Ã©tranger, le champ est renseignÃ© par le nom du pays coproducteur, identifiÃ© selon la norme internationale de codification des pays (ISO 3166-1)"
