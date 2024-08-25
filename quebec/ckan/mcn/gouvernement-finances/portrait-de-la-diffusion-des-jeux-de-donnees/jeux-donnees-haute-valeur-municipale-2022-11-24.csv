@@ -1,0 +1,315 @@
+Numero_reference,Nom_jeu,Municipalite,Nom_particulier,Statut,Hyperlien,Remarque,Norme
+1,RequÃªtes citoyennes,Gatineau,,possible,,,
+1,RequÃªtes citoyennes,Laval,,possible,,,
+1,RequÃªtes citoyennes,LÃ©vis,,possible,,,
+1,RequÃªtes citoyennes,Longueuil,,possible,,,
+1,RequÃªtes citoyennes,MontrÃ©al,Demande de services citoyennes (requÃªtes 311),publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-requete-311,,non
+1,RequÃªtes citoyennes,Repentigny,,possible,,,
+1,RequÃªtes citoyennes,Sherbrooke,,possible,,,
+2,Catalogue des donnÃ©es,Laval,,possible,,,
+2,Catalogue des donnÃ©es,LÃ©vis,,impossible,,,
+2,Catalogue des donnÃ©es,Longueuil,,possible,,,
+2,Catalogue des donnÃ©es,MontrÃ©al,Inventaire de donnÃ©es,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-inventaire-donnees-ouvertes,,
+2,Catalogue des donnÃ©es,Repentigny,,impossible,,,
+2,Catalogue des donnÃ©es,Rimouski,,possible,,,
+2,Catalogue des donnÃ©es,Sherbrooke,,impossible,,,
+3,Budget annuel,Gatineau,,possible,,,
+3,Budget annuel,Laval,,possible,,,
+3,Budget annuel,LÃ©vis,,possible,,,
+3,Budget annuel,MontrÃ©al,Budget de fonctionnement,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-budget,,
+3,Budget annuel,Repentigny,,possible,,,
+3,Budget annuel,Rimouski,,possible,,,
+3,Budget annuel,Shawinigan,,possible,,,
+3,Budget annuel,Sherbrooke,,possible,,,
+4,Contrats octroyÃ©s,Laval,Contrats octroyÃ©s,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/contrats-octroyes,,
+4,Contrats octroyÃ©s,Longueuil,Ententes 25 000 $ et plus,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/ententes-25-000,,
+4,Contrats octroyÃ©s,MontrÃ©al,Contrats et subventions -API,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-contrats-et-subventions-api,,
+4,Contrats octroyÃ©s,Repentigny,,possible,,,
+4,Contrats octroyÃ©s,Rimouski,,possible,,,
+4,Contrats octroyÃ©s,Saguenay,,planifiÃ©,,,
+4,Contrats octroyÃ©s,Sherbrooke,,possible,,,
+5,Paiements effectuÃ©s,Gatineau,,possible,,,
+5,Paiements effectuÃ©s,Laval,,possible,,,
+5,Paiements effectuÃ©s,MontrÃ©al,,possible,,,
+5,Paiements effectuÃ©s,Repentigny,,possible,,,
+5,Paiements effectuÃ©s,Rimouski,,possible,,,
+5,Paiements effectuÃ©s,Sherbrooke,,possible,,,
+6,Infractions lÃ©gales - Contravention,Gatineau,,possible,,,
+6,Infractions lÃ©gales - Contravention,Laval,,possible,,,
+6,Infractions lÃ©gales - Contravention,MontrÃ©al,,en prÃ©paration,,,
+6,Infractions lÃ©gales - Contravention,QuÃ©bec,,possible,,,
+6,Infractions lÃ©gales - Contravention,Repentigny,,impossible,,,
+6,Infractions lÃ©gales - Contravention,Rimouski,,possible,,,
+6,Infractions lÃ©gales - Contravention,Sherbrooke,,possible,,,
+7,Licences des animaux,Gatineau,,possible,,,
+7,Licences des animaux,Laval,Permis pour animaux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/permis-pour-animaux,,
+7,Licences des animaux,Longueuil,,possible,,,
+7,Licences des animaux,MontrÃ©al,,en prÃ©paration,,,
+7,Licences des animaux,QuÃ©bec,,possible,,,
+7,Licences des animaux,Repentigny,,possible,,,
+7,Licences des animaux,Rimouski,,possible,,,
+7,Licences des animaux,Shawinigan,,possible,,,
+7,Licences des animaux,Sherbrooke,,impossible,,,
+8,Permis de construction,Blainville,,possible,,,
+8,Permis de construction,Laval,Permis de construction,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/permis-de-construction,,
+8,Permis de construction,LÃ©vis,,possible,,,
+8,Permis de construction,Longueuil,Permis de construction et dÃ©molition,publiÃ©,https://geomatique.longueuil.quebec/HistoriquePermisCertificats/,,
+8,Permis de construction,MontrÃ©al,"Permis de construction, transformation et dÃ©molition",publiÃ©,https://donnees.montreal.ca/ville-de-montreal/permis-construction,,
+8,Permis de construction,QuÃ©bec,,possible,,,
+8,Permis de construction,Repentigny,,possible,,,
+8,Permis de construction,Rimouski,,possible,,,
+8,Permis de construction,Saguenay,,possible,,,
+8,Permis de construction,Shawinigan,,possible,,,
+8,Permis de construction,Sherbrooke,,possible,,,
+9,Adresses,Blainville,,Possible,,,
+9,Adresses,Gatineau,Adresse pontuelle normÃ© V1,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vgat-adresse-ponctuelle-norme-v1,,oui
+9,Adresses,Laval,GÃ©olocalisation des adresses,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/geolocalisation-des-adresses,,non
+9,Adresses,LÃ©vis,Adreses ponctuelle,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/adresse-ponctuelle-levis,,oui
+9,Adresses,Longueuil,Adresses,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/adresses,,non
+9,Adresses,MontrÃ©al,Adresse pontuelle,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-adresses-ponctuelles,,non
+9,Adresses,QuÃ©bec,Addresses de la ville de QuÃ©bec,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec,,oui
+9,Adresses,Repentigny,Adresses,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vrep-adresses,,non
+9,Adresses,Rimouski,Adresses,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/adressesrimouski,,oui
+9,Adresses,Rouyn-Noranda,Adresse,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/9905a050e9c04b939153726e672b461a_0,,oui
+9,Adresses,Saguenay,Adresse pontuelle,possible,https://www.donneesquebec.ca/recherche/dataset/sag_adresse_ponctuelle,,oui
+9,Adresses,Sherbrooke,,planifiÃ©,,,
+10,Zonage,Gatineau,Zonage normÃ© V1,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vgat-zonage-norme-v1,Zonage municipale,oui
+10,Zonage,Laval,Plan de Zonage - limites des zones,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/plan-de-zonage-limites-des-zones,Zonage municipale,non
+10,Zonage,Laval,Plan de zonage -bÃ¢timents patrimoniaux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/plan-de-zonage-batiments-patrimoniaux,zonage bÃ¢timent,non
+10,Zonage,Laval,Plan de zonage - limites des territoires patrimoniaux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/plan-de-zonage-limites-des-territoires-patrimoniaux,Zonage patrimoine,non
+10,Zonage,Laval,Zone d'amÃ©nagement Ã©cologique particuliÃ¨re,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/zone-d-amenagement-ecologique-particuliere,Zonage environnement,non
+10,Zonage, LÃ©vis,,planifiÃ©,,,
+10,Zonage,Longueuil,Zonage,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/zonage,Zonage municipale,non
+10,Zonage,Longueuil,PÃ©rimÃ¨tre urbain,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/perimetre-urbain-longueuil,Zonage pÃ©rimÃ¨tre,
+10,Zonage,Longueuil,,possible,,Zonage bÃ¢timent,
+10,Zonage,Longueuil,,possible,,Zonage patrimoine,
+10,Zonage,Longueuil,,possible,,Zonage environnement,
+10,Zonage,MontrÃ©al,,possible,,Zonage municipale,
+10,Zonage,QuÃ©bec,Zones agricole permanente,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_58,,non
+10,Zonage,QuÃ©bec,Zonage municipal -Zones,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_56,,non
+10,Zonage,Repentigny,Zonage municipale,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/zonagemunicipal,Zonage municipale,non
+10,Zonage,Rimouski,Plan de zonage,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/plan-de-zonage,Zonage municipale,oui
+10,Zonage,Rimouski,PÃ©rimÃ¨tre d'urbanisation,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/pu,Zonage pÃ©rimÃ¨tre,non
+10,Zonage,Rimouski,Plan d'implantation et d'intÃ©gration architecturale(PIIA),publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/piia,,non
+10,Zonage,Rimouski,Sites patrimoniaux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sites-patrimoine,Zonage patrimoine,non
+10,Zonage,Rimouski,Aire de contraintes,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/aires-de-contraintes,Zonage environnement,non
+10,Zonage,Rouyn-Noranda,PÃ©rimÃ¨tre urbain,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/371e43c2adc1461ab09c8013b5c488ee_0,Zonage municipale,non
+10,Zonage,Rouyn-Noranda,Plan de zonage,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/4a69c2484a2540de9f9eb58b908d4d0f_0,Zonage municipale,oui
+10,Zonage,Saguenay,,planifiÃ©,,Zonage municipale,
+10,Zonage,Saguenay,PÃ©rimÃ¨tre urbain,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag_perimetre_urbain,Zonage pÃ©rimÃ¨tre,non
+10,Zonage,Shawinigan,Zonage municipale,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/87b34427417d4c8fb443f9395ab4631c_0,Zonage municipale,non
+10,Zonage,Sherbrooke,PÃ©rimÃ¨tre urbain,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/ae984df25d12471f9f3de4b84b3e2a53_0,Zonage pÃ©rimÃ¨tre,
+10,Zonage,Sherbrooke,,planifiÃ©,,Zonage municipale,
+11,Accidents de la route,Gouvernement du QuÃ©bec,Rapport d'accidents,pubilÃ©,https://www.donneesquebec.ca/recherche/dataset/rapports-d-accident,,
+11,Accidents de la route,Gatineau,,possible,,,
+11,Accidents de la route,Laval,Localisation des accidents de la route,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/accidents-de-la-route,,
+11,Accidents de la route,MontrÃ©al,Collisions routiÃ¨res,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-collisions-routieres,,
+11,Accidents de la route,QuÃ©bec,,possible,,,
+11,Accidents de la route,RÃ©pentiny,,possible,,,
+11,Accidents de la route,Sherbrooke,Incidents de sÃ©curitÃ© publiques,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/64d19d62f0804f5896e4b24c32aea49d_0,,
+12,Statistiques sur le crime,Gatineau,,possible,,,
+12,Statistiques sur le crime,Laval,,possible,,,
+12,Statistiques sur le crime,LÃ©vis,,impossible,,,
+12,Statistiques sur le crime,MontrÃ©al,Actes criminels,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-actes-criminels,,
+12,Statistiques sur le crime,QuÃ©bec,,possible,,,
+12,Statistiques sur le crime,Repentigny,,impossible,,,
+12,Statistiques sur le crime,Sherbrooke,Incidents de sÃ©curitÃ© publiques,possible,https://www.donneesquebec.ca/recherche/dataset/64d19d62f0804f5896e4b24c32aea49d_0,,
+13,Offres de services rÃ©crÃ©atifs,Laval,,possible,,,
+13,Offres de services rÃ©crÃ©atifs,LÃ©vis,,possible,,,
+13,Offres de services rÃ©crÃ©atifs,Longueuil,ÃvÃ©nements,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/evenements,,
+13,Offres de services rÃ©crÃ©atifs,MontrÃ©al,,en prÃ©paration,,,
+13,Offres de services rÃ©crÃ©atifs,QuÃ©bec,ÃvÃ©nements (StandardisÃ©),publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vque_69,,
+13,Offres de services rÃ©crÃ©atifs,Repentigny,,possible,,,
+13,Offres de services rÃ©crÃ©atifs,Rimouski,,possible,,,
+13,Offres de services rÃ©crÃ©atifs,Shawinigan,ÃvÃ©nements 2022,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/861aab45fc174299aa6db9c0b3f51272_0,,
+13,Offres de services rÃ©crÃ©atifs,Saguenay,,planifiÃ©,,,
+13,Offres de services rÃ©crÃ©atifs,Sherbrooke,,possible,,,
+14,GÃ©obase,Blainville,Geobase simple du rÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/geobase-simple-des-rues-de-blainville,,
+14,GÃ©obase,Gatineau,RÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_872107914,,
+14,GÃ©obase,Laval,,possible,,,
+14,GÃ©obase,LÃ©vis,RÃ©seau Routier,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/reseau-routier-LÃ©vis,,
+14,GÃ©obase,Longueuil,RÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/reseau-routier,,
+14,GÃ©obase,MontrÃ©al,GÃ©obase - rÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-geobase,,
+14,GÃ©obase,QuÃ©bec,Voies publiques, publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vque_18,, 
+14,GÃ©obase,Repentigny,Voirie,pubilÃ©,https://www.donneesquebec.ca/recherche/dataset/voirie,, 
+14,GÃ©obase,Rimouski,RÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/reseauroutier,,
+14,GÃ©obase,Rouyn-Noranda,RÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/ce2f7092eb734f2489479714531db563_0,,
+14,GÃ©obase,Shawinigan,RÃ©seau routier (Polygone),publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/388921026fc74a84abea912e355003a9_0,,
+14,GÃ©obase,Saguenay,RÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/sag-reseau-routier,,
+14,GÃ©obase,Sherbrooke,Segments de rue,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/180087a8154f410c9ce53491f6b550c1_0,,
+15,Travaux routiers,Gatineau,Travaux routiers et fermetures de rues,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_-953334462,,non
+15,Travaux routiers,Laval,Chantiers routiers,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/chantiers-routiers,,non
+15,Travaux routiers,Longueuil,,possible,,,
+15,Travaux routiers,MontrÃ©al,Info-travaux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-info-travaux,,non
+15,Travaux routiers,QuÃ©bec,,possible,,,
+15,Travaux routiers,Repentigny,Info-Travaux (API),publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/info-travaux,,non
+15,Travaux routiers,Rimouski,,possible,,,
+15,Travaux routiers,LÃ©vis,,possible,,,
+15,Travaux routiers,Shawinigan,,possible,,,
+15,Travaux routiers,Sherbrooke,Travaux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/04880bdf6ffa40ababfa900c2ef45b3c_0,,non
+16,Avis d'Ã©bullition prÃ©ventive,Blainville,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,Gatineau,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,Laval,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,LÃ©vis,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,MontrÃ©al,,en prÃ©paration,,,
+16,Avis d'Ã©bullition prÃ©ventive,QuÃ©bec,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,Repentigny,Avis d'Ã©boullition,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/avis-d-ebullition,,oui
+16,Avis d'Ã©bullition prÃ©ventive,Rimouski,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,Saguenay,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,Shawinigan,,possible,,,
+16,Avis d'Ã©bullition prÃ©ventive,Sherbrooke,,possible,,,
+17,Arbres,Gatineau,,possible,,,
+17,Arbres,Laval,,possible,,,
+17,Arbres,LÃ©vis,,possible,,,
+17,Arbres,Longueuil,Arbres,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/arbres,,non
+17,Arbres,MontrÃ©al,Arbres publics sur le territoire de la Ville,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-arbres,,oui
+17,Arbres,QuÃ©bec,Arbres rÃ©pertoriÃ©s,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_26,,non
+17,Arbres,QuÃ©bec,Arbres non-rÃ©pertoriÃ©s,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_31,,non
+17,Arbres,QuÃ©bec,Arbres potentiellement remarquables,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_82,,non
+17,Arbres,Repentigny,Arbre,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vrep-arbres,,oui
+17,Arbres,Saguenay,,possible,,,
+17,Arbres,Shawinigan,,possible,,,
+17,Arbres,Sherbrooke,,impossible,,,
+18,Collecte des matiÃ¨res rÃ©siduelles,Blainville,Calendrier de collecte des matiÃ¨res rÃ©siduelles par secteur,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/calendrier-collecte-matiere-residuelles,"calendrier des collectes , par secteur, selon le type de matiÃ¨res",oui
+18,Collecte des matiÃ¨res rÃ©siduelles,Gatineau,Collecte des matiÃ¨res rÃ©siduelles norme V1,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vgat-collecte-des-matieres-residuelles-norme-v1,secteur de collecte,oui
+18,Collecte des matiÃ¨res rÃ©siduelles,Gatineau,Calendrier de collecte des matiÃ¨res rÃ©siduelles,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vgat_-1906339588,,oui
+18,Collecte des matiÃ¨res rÃ©siduelles,Laval,MatiÃ¨res rÃ©siduelles - Bilan et tonnage,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/matieres-residuelles-bilan-et-tonnage,bilan et tonnage,non
+18,Collecte des matiÃ¨res rÃ©siduelles,Laval,MatiÃ¨res rÃ©siduelles acceptÃ©es par collecte,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/matieres-residuelles-acceptees-par-collecte,matiÃ¨res acceptable,non
+18,Collecte des matiÃ¨res rÃ©siduelles, LÃ©vis,,planifiÃ©,,,
+18,Collecte des matiÃ¨res rÃ©siduelles,MontrÃ©al,Secteurs Info-collectes,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-info-collectes,Secteurs de collecte,oui
+18,Collecte des matiÃ¨res rÃ©siduelles,QuÃ©bec,Collecte des dÃ©chets,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/collecte-des-dechets,,non
+18,Collecte des matiÃ¨res rÃ©siduelles,QuÃ©bec,Collecte des matiÃ¨res recyclables,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/collecte-des-matieres-recyclables,,non
+18,Collecte des matiÃ¨res rÃ©siduelles,QuÃ©bec,Collecte des matiÃ¨res encombrantes,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/collecte-des-matieres-encombrantes,,non
+18,Collecte des matiÃ¨res rÃ©siduelles,QuÃ©bec,Collecte des halocarbures,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/collecte-des-halocarbures,,non
+18,Collecte des matiÃ¨res rÃ©siduelles,QuÃ©bec,Collecte des rÃ©sidus verts,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/collecte-des-residus-verts,,non
+18,Collecte des matiÃ¨res rÃ©siduelles,Repentigny,Collectes des matiÃ¨res rÃ©siduelles Ã  partir d'octobre 2018,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/collecte-de-matieres-residuelles-2018,secteur de collecte,oui
+18,Collecte des matiÃ¨res rÃ©siduelles,Repentigny,Collecte des rÃ©sidus domestiques dangereux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/collecte-des-residus-domestiques-dangereux,,non
+18,Collecte des matiÃ¨res rÃ©siduelles,Rimouski,Secteur de collecte,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/secteurs-de-collecte,secteur de collecte,oui
+18,Collecte des matiÃ¨res rÃ©siduelles,Saguenay,,possible,,,
+18,Collecte des matiÃ¨res rÃ©siduelles,Shawinigan,,possible,,secteur de collecte,
+18,Collecte des matiÃ¨res rÃ©siduelles,Shawinigan,,possible,,matiÃ¨res acceptable,
+18,Collecte des matiÃ¨res rÃ©siduelles,Sherbrooke,MatÃ¨res rÃ©siduelles-MatiÃ¨res acceptÃ©es,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/matieres-residuelles-matieres-acceptees,matiÃ¨res acceptable,non
+18,Collecte des matiÃ¨res rÃ©siduelles,Sherbrooke,Secteur de collecte des matiÃ¨res rÃ©siduelles,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/1233578616d344b897b544b4463498ce_0, secteur de collecte,non
+18,Collecte des matiÃ¨res rÃ©siduelles,Sherbrooke,,possible,,Collect des matiÃ¨res rÃ©siduelles,
+19,Parcs et espace vert,Blainville,Parcs et espaces verts,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/parcs-et-espaces-verts,,oui
+19,Parcs et espace vert,LÃ©vis,,planifiÃ©,,,
+19,Parcs et espace vert,Longueuil,Parcs,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/parcs,,non
+19,Parcs et espace vert,MontrÃ©al,"Grands parcs, parcs d'arrondissements et espaces publics",publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-grands-parcs-parcs-d-arrondissements-et-espaces-publics,,non
+19,Parcs et espace vert,QuÃ©bec,Parcs avec structures rÃ©crÃ©atives,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/parcs-municipaux,,non
+19,Parcs et espace vert,Repentigny,Parcs,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/parcs-municipaux,,oui
+19,Parcs et espace vert,Rimouski,Parcs et espaces verts,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/parcs-et-espaces-verts-rim,,oui
+19,Parcs et espace vert,Saguenay,Parcs et espaces verts,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag_parcs-et-espaces-verts,,non
+19,Parcs et espace vert,Shawinigan,Parcs avec services,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/67fd7e5bd47a488aaed08cf3063631ee_0,,non
+19,Parcs et espace vert,Sherbrooke,Aires amÃ©nagÃ©es,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/df49cf671a5e4a66a4fd4d182bdcd440_0,,non
+20,Gouvernement du QuÃ©bec,Subvention,TourÃ©es des spectacles,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/tournees-de-spectacles,,oui 
+20,Gouvernement du QuÃ©bec,Subvention,Sensibilisation Ã  la chanson et diffusion pour le milieu collÃ©gial,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sensibilisation-a-la-chanson-et-diffusion-pour-le-milieu-collegial,,oui 
+20,Gouvernement du QuÃ©bec,Subvention,Production doublÃ©es,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/productions-doublees,,oui 
+20,Gouvernement du QuÃ©bec,Subvention,Productions cinÃ©matographique et tÃ©lÃ©visuelles,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/productions-cinematographiques-et-televisuelles,,oui 
+20,Gouvernement du QuÃ©bec,Subvention,Interventions de la SODEC,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/interventions-sodec,,oui 
+20,Gouvernement du QuÃ©bec,Subvention,Programme gouvernemental Roulez vert,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/programme-roulez-vert,,oui 
+20,Subvention,MontrÃ©al,,possible,,,
+20,Subvention,Repentigny,,impossible,,,
+20,Subvention,Sherbrooke,,impossible,,,
+21,Bornes d'incendies,Blainville,Bornes incendies,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/bornes-incendies,,oui
+21,Bornes d'incendies,Gatineau,Borne d'incendie normÃ© v1,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vgat-borne-d-incendie-norme-v1,,oui
+21,Bornes d'incendies,LÃ©vis,Borne d'incendie,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/borne-incendie,,oui
+21,Bornes d'incendies,Longueuil,Bornes d'incendie,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/borne-incendie,,non
+21,Bornes d'incendies,MontrÃ©al,Bornes d'incendie,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-geolocalisation-des-bornes-fontaines,,non
+21,Bornes d'incendies,Repentigny,Borne d'incendie,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vrep-bornes-incendie,,oui
+21,Bornes d'incendies,Rimouski,Borne d'incendie,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/borneincendie,,oui
+21,Bornes d'incendies,Saguenay,Borne-fontaine,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag_borne-fontaine,,non
+21,Bornes d'incendies,Sherbrooke,,possible,,,
+22,District Ã©lectoraux,Blainville,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/districtsblainville,,oui
+22,District Ã©lectoraux,Gatineau,Districts Ã©lectoraux normÃ© v1,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vgat-districts-electoraux-norme-v1,,oui
+22,District Ã©lectoraux,Laval,Limites des districts Ã©lectoraux des derniÃ¨res Ã©lections municipales,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/limites-des-districts-electoraux-des-dernieres-elections-municipales,,non
+22,District Ã©lectoraux, LÃ©vis,,planifiÃ©,,,
+22,District Ã©lectoraux,Longueuil,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/districts-electoraux-longueuil,,non
+22,District Ã©lectoraux,MontrÃ©al,Ãlections municipales - Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_43,,oui
+22,District Ã©lectoraux,QuÃ©bec,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_43,,oui
+22,District Ã©lectoraux,Repentigny,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vrep-districts-electoraux,,non
+22,District Ã©lectoraux,Rimouski,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/districts-electoraux,,oui
+22,District Ã©lectoraux,Rouyn-Noranda,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/549302483fc04b60b4a40d607753da51_0,,oui
+22,District Ã©lectoraux,Saguenay,Disctrict Ã©ctoral,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag_district-electoral,,oui
+22,District Ã©lectoraux,Sherbrooke,Districts Ã©lectoraux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/3579a4b8ceb24c7896edc0d86ee4714e_0,,non
+23,Lieux publics,Gatineau,Lieu publics normÃ© v1,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vgat-lieux-publics-norme-v1,,oui
+23,Lieux publics,LÃ©vis,,possible,,,
+23,Lieux publics,MontrÃ©al,,en prÃ©paration,,,
+23,Lieux publics,QuÃ©bec,Lieux Publics,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_14,,non
+23,Lieux publics,Repentigny,,possible,,,
+23,Lieux publics,Rimouski,Lieux Publics,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/lieux-publics,,oui
+23,Lieux publics,Sherbrooke,Sites d'intÃ©rÃªt,pubilÃ©,https://www.donneesquebec.ca/recherche/dataset/3eabdc868e6941eb859ffc717a4190d2_0,,
+24,Milieux humides,LÃ©vis,Milieux humides,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/milieux-humides-LÃ©vis,,oui
+24,Milieux humides,MontrÃ©al,Milieu humide,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-milieu-humide,,non
+24,Milieux humides,RÃ©pentiny,,aucune donnÃ©e,,,
+24,Milieux humides,Rouyn-Noranda,Milieux humides,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/fe1e81f09cac4089aed84424add0d65e_0,,oui
+25,UnitÃ© d'Ã©valuation,Laval,Image du rÃ´le d'Ã©valuation,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/image-du-role-d-evaluation,,oui
+25,UnitÃ© d'Ã©valuation,LÃ©vis,,possible,,,
+25,UnitÃ© d'Ã©valuation,MontrÃ©al,UnitÃ©s d'Ã©valuation fonciÃ¨re,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-unites-evaluation-fonciere,,non
+25,UnitÃ© d'Ã©valuation,RÃ©pentiny,,possible,,,
+25,UnitÃ© d'Ã©valuation,Rimouski,UnitÃ© d'Ã©valuation,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/unite-d-evaluation,,oui
+25,UnitÃ© d'Ã©valuation,Rouyn-Noranda,UnitÃ©s d'Ã©valuation,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/70efce6270aa44feb5bc776ba0ea0a08_0,,oui
+25,UnitÃ© d'Ã©valuation,Sherbrooke,,possible,,,
+26,WiFi,Blainville,ZAP- Zones d'accÃ¨s public Ã  Internet sans fil,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_29,,oui
+26,WiFi,LÃ©vis,,possible,,,
+26,WiFi,MontrÃ©al,Bornes du rÃ©seau sans fil MTLWiFi,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-couverture-du-reseau-wifi-mtlwifi,,oui
+26,WiFi,QuÃ©bec,ZAP- Zones d'accÃ¨s public Ã  Internet sans fil,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_29,,oui
+26,WiFi,Repentigny,Zone Wi-fi,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/zones-wi-fi,,oui
+26,WiFi,Rimouski,RÃ©seau wifi,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/reseau-wifi,,oui
+26,WiFi,Saguenay,Point d'accÃ¨s sans fil,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag_point-d-acces-sans-fil,,oui
+26,WiFi,Shawinigan,WiFi public,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/caba4dbe7abb40a0af55594e8bbfd90d_0,,non
+26,WiFi,Sherbrooke,,impossible,,,
+27,Zones inondables,Gatineau,Zones inondables normÃ© v1,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vgat-zones-inondables-norme-v1,,oui
+27,Zones inondables,LÃ©vis,,possible,,,
+27,Zones inondables,MontrÃ©al,,impossible,,,
+27,Zones inondables,QuÃ©bec,Zones inondables rÃ©glÃ©mentÃ©es,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_77,,non
+27,Zones inondables,Repentigny,,aucune donnÃ©e,,,
+27,Zones inondables,Sherbrooke,Zones inondables,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/82ceb448fe9847ef8bc444d8da0adbc8_0,,non
+28,Empreintes des bÃ¢timents,Blainville,BÃ¢timents municipaux,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/batiments-municipaux-hackqc2018,,oui
+28,Empreintes des bÃ¢timents,LÃ©vis,,planifiÃ©,,,
+28,Empreintes des bÃ¢timents,Longueuil,BÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/ba,,non
+28,Empreintes des bÃ¢timents,MontrÃ©al,BÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-batiment-2d,,oui
+28,Empreintes des bÃ¢timents,QuÃ©bec,Empreintes des bÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/empreintes-des-batiments,,non
+28,Empreintes des bÃ¢timents,Repentigny,BÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/batiment,,oui
+28,Empreintes des bÃ¢timents,Rimouski,BÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/batiments-rim,,oui
+28,Empreintes des bÃ¢timents,Rouyn-Noranda,Empreintes des bÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/d983833599d84d5ab7291d8ac3ad513d_0,,oui
+28,Empreintes des bÃ¢timents,Saguenay,BÃ¢timent,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag_batiment,,oui
+28,Empreintes des bÃ¢timents,Sherbrooke,BÃ¢timents,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/28f4f1b83ab243ddb48221f784378337_0,,oui
+29,Empreintes de la voirie,LÃ©vis,,planifiÃ©,,,
+29,Empreintes de la voirie,Repentigny,Voirie,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/voirie,,oui
+29,Empreintes de la voirie,Rimouski,Voirie,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/voirie-rim,,oui
+29,Empreintes de la voirie,Saguenay,RÃ©seau routier,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/sag-reseau-routier,,non
+29,Empreintes de la voirie,Shawinigan,RÃ©seau routier (Polygone),publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/e515e3427a8c47aca7baa2dde122afcd_0,,oui
+29,Empreintes de la voirie,Sherbrooke,,impossible,,,
+30,RÃ©seau cyclable,LÃ©vis,,planifiÃ©,,,
+30,RÃ©seau cyclable,Blainville,Pistes cyclables,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/reseau-des-pistes-cyclables,,non
+30,RÃ©seau cyclable,Gatineau,Pistes cyclables normÃ© v1,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vgat-pistes-cyclables-norme-v1,,oui
+30,RÃ©seau cyclable,Longueuil,Pistes clyclables,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/pistes-cyclables-longueuil,,non
+30,RÃ©seau cyclable,MontrÃ©al,RÃ©seau cyclable,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables,,oui
+30,RÃ©seau cyclable,QuÃ©bec,RÃ©seau cyclable,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_24,,oui
+30,RÃ©seau cyclable,Repentigny,Pistes cyclables,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vrep-pistes-cyclables,,non
+30,RÃ©seau cyclable,Rimouski,RÃ©seau cyclable,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/pistes-cyclables-rim,,oui
+30,RÃ©seau cyclable,Saguenay,Pistes cyclables,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/pistes-cyclables-rim,,oui
+30,RÃ©seau cyclable,Shawinigan,VeloBoucle Mauricie,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/9d1327e534e74a4887eeb0225f645f39_0,,non
+30,RÃ©seau cyclable,Sherbrooke,Pistes cyclables,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/9478537c06104aa0a2c7e4634947f382_0,,oui
+31,Espaces de stationnement,LÃ©vis,,possible,,,
+31,Espaces de stationnement,Longueuil,Bornes paiement,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/bornes-paiement,,non
+31,Espaces de stationnement,MontrÃ©al,"Stationnements municipaux tarifÃ©s, sur rue et hors rue",publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-stationnements-municipaux-tarifes-sur-rue-et-hors-rue,,non
+31,Espaces de stationnement,QuÃ©bec,Bornes de stationnement,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vque_8,,oui
+31,Espaces de stationnement,Repentigny,,aucune donnÃ©e,,,
+31,Espaces de stationnement,Rimouski,Stationnement public,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/stationnement-public,,non
+31,Espaces de stationnement,Shawinigan,Stationnements publics (polygone),publiÃ©,https://www.donneesquebec.ca/recherche/dataset/66f6f38fea974a179d0bd22419d5c767_0,,non
+31,Espaces de stationnement,Sherbrooke,Stationnements publics,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/728d843955a744c78dd6cd4b26b863c7_0,,oui
+32,Infrastructure piÃ©tonne,Gatineau,Infrastructure piÃ©tonne normÃ© v1,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/vgat-infrastructure-pietonne-norme-v1,,oui
+32,Infrastructure piÃ©tonne,LÃ©vis,,possible,,,
+32,Infrastructure piÃ©tonne,MontrÃ©al,Rue piÃ©tonnes et partagÃ©es,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-rues-pietonnes,,oui
+32,Infrastructure piÃ©tonne,QuÃ©bec,Infrastructure piÃ©tonne,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/infrastructure-pietonne,,non
+32,Infrastructure piÃ©tonne,Repentigny,,possible,,,
+32,Infrastructure piÃ©tonne,Rimouski,Infrastructures piÃ©tonniÃ¨res,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/infrapieton-rim,,oui
+32,Infrastructure piÃ©tonne,Shawinigan,Sentiers pedestres,publiÃ©,https://www.donneesquebec.ca/recherche/dataset/3240891e262148ffb53fa485f720ba10_0,,oui
+32,Infrastructure piÃ©tonne,Sherbrooke,Sentiers pÃ©destres,pubilÃ©,https://www.donneesquebec.ca/recherche/dataset/6e8cb127b3474a93b1184830919cf999_0ffd4716194_4,,oui
+33,Transport en commun,LÃ©vis,,impossible,,,
+33,Transport en commun,MontrÃ©al,Horaire planifiÃ©s et trajets des bus et du mÃ©tro,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-stm-horaires-planifies-et-trajets-des-bus-et-du-metro,,oui
+33,Transport en commun,QuÃ©bec,RTC:GTFS/ arrÃªts et les parcours,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/rtc-gtfs-arrets-et-les-parcours,,oui
+33,Transport en commun,Rimouski,Transport collectif,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/transport-collectif,,oui
+33,Transport en commun,Saguenay,,impossible,,,
+33,Transport en commun,Sherbrooke,Transport en commun,publiÃ©,https://www.donneesquebec.ca/recherche/fr/dataset/transport-sts,,oui
