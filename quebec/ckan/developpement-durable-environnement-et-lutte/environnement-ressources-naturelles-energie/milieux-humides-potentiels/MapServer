@@ -1,0 +1,128 @@
+<html lang="en">
+<head>
+<title>Biodiversite/MH_potentiels (MapServer)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/login?returnUrl=https://geo.environnement.gouv.qc.ca/donnees/rest/services">Login</a>
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+&gt; <a href="/donnees/rest/services">services</a>
+&gt; <a href="/donnees/rest/services/Biodiversite">Biodiversite</a>
+&gt; <a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer">MH_potentiels (MapServer)</a>
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/help/en/rest/router.html?f=rest/services/Biodiversite/MH_potentiels/MapServer" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Biodiversite/MH_potentiels/MapServer?wsdl" >SOAP</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Biodiversite/MH_potentiels/MapServer/WMSServer?request=GetCapabilities&service=WMS" >WMS</a>
+</td>
+</tr>
+</table>
+<h2>Biodiversite/MH_potentiels (MapServer)</h2>
+<div class="rbody">
+<b>View In:</b>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer?f=jsapi" target="_blank">ArcGIS JavaScript</a>
+&nbsp;&nbsp;<a href="https://www.arcgis.com/home/webmap/viewer.html?url=https://geo.environnement.gouv.qc.ca/donnees/rest/services/Biodiversite/MH_potentiels/MapServer&source=sd" target="_blank">ArcGIS Online Map Viewer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/kml/mapImage.kmz">ArcGIS Earth</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer?f=pitemx" target="_blank">ArcGIS Pro</a>
+<br/><br/>
+<b>Service Description: </b> <DIV STYLE="text-align:Left;font-size:12pt"><DIV><DIV><P><SPAN>La cartographie des milieux humides potentiels du Québec (CMHPQ), produite et diffusée par le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), se veut un outil qui réunit un ensemble des sources cartographiques existantes au sein d’une même base de données géographiques. Elle constitue donc un produit à valeur ajoutée qui regroupe l’information sur la présence potentielle de milieux humides couvrant tout le territoire québécois. La CMHPQ comprend l’information disponible sur l’emplacement et la délimitation des milieux humides et fournit une classification selon une typologie établie. Cette cartographie est réalisée à partir d’un ensemble de données géographiques disponibles, provenant de bases de données produites pour répondre à des objectifs, des couvertures cartographiques et des échelles distincts. Ces données doivent donc être utilisées en restant vigilant au regard de leurs caractéristiques ainsi qu’à la délimitation.</SPAN></P><P><SPAN /></P><P><SPAN>Consulter le </SPAN><A href="https://www.donneesquebec.ca/recherche/dataset/milieux-humides-potentiels/resource/80ab3609-856c-4d79-9f53-f426019fb915" STYLE="text-decoration:underline;"><SPAN>Guide de l’utilisateur sur la cartographie des milieux humides potentiels du Québec</SPAN></A><SPAN> pour obtenir toutes les informations relatives à cette couche.</SPAN></P><P><SPAN /></P><P><SPAN>Cette thématique comprend également l’index des territoires couverts par les projets de cartographie détaillée des milieux humides des secteurs habités du sud du Québec (CDMH) produite par Canards Illimités Canada et le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs. Il fournit plus d’information sur les différentes phases de réalisation des travaux de cartographie détaillée des milieux humides. </SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Map Name: </b> MH_potentiels<br/><br/>
+<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/legend">Legend</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/layers">All Layers and Tables</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/legend?dynamicLayers=%5B%5D&">Dynamic Legend</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/layers?dynamicLayers=%5B%5D&">Dynamic All Layers</a><br/><br/>
+<b>Layers: </b>
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/0">Milieux humides potentiels</a> (0)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/1">Index des milieux humides d&eacute;taill&eacute;s</a> (1)
+</li>
+</ul>
+<b>Description: </b> <DIV STYLE="text-align:Left;font-size:12pt"><DIV><DIV><P><SPAN>La cartographie des milieux humides potentiels du Québec (CMHPQ), produite et diffusée par le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), se veut un outil qui réunit un ensemble des sources cartographiques existantes au sein d’une même base de données géographiques. Elle constitue donc un produit à valeur ajoutée qui regroupe l’information sur la présence potentielle de milieux humides couvrant tout le territoire québécois. La CMHPQ comprend l’information disponible sur l’emplacement et la délimitation des milieux humides et fournit une classification selon une typologie établie. Cette cartographie est réalisée à partir d’un ensemble de données géographiques disponibles, provenant de bases de données produites pour répondre à des objectifs, des couvertures cartographiques et des échelles distincts. Ces données doivent donc être utilisées en restant vigilant au regard de leurs caractéristiques ainsi qu’à la délimitation.</SPAN></P><P><SPAN /></P><P><SPAN>Consulter le </SPAN><A href="https://www.donneesquebec.ca/recherche/dataset/milieux-humides-potentiels/resource/80ab3609-856c-4d79-9f53-f426019fb915" STYLE="text-decoration:underline;"><SPAN>Guide de l’utilisateur sur la cartographie des milieux humides potentiels du Québec</SPAN></A><SPAN> pour obtenir toutes les informations relatives à cette couche.</SPAN></P><P><SPAN /></P><P><SPAN>Cette thématique comprend également l’index des territoires couverts par les projets de cartographie détaillée des milieux humides des secteurs habités du sud du Québec (CDMH) produite par Canards Illimités Canada et le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs. Il fournit plus d’information sur les différentes phases de réalisation des travaux de cartographie détaillée des milieux humides. </SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Service Item Id: </b> 418896bf20fb47c78932c588d02a0ab2<br/><br/>
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec<br/> <br/>
+<b>Spatial Reference: </b>
+102100
+&nbsp;(3857)
+<br/><br/><br/>
+<b>Single Fused Map Cache: </b> false<br/><br/>
+<b>Initial Extent: </b>
+<ul>
+XMin: -9541042.195591703<br/>
+YMin: 5447793.860104835<br/>
+XMax: -5688308.458808299<br/>
+YMax: 9163801.938295165<br/>
+Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+</ul>
+<b>Full Extent: </b>
+<ul>
+XMin: -8872451.3104<br/>
+YMin: 5618312.579499997<br/>
+XMax: -6356899.3440000005<br/>
+YMax: 8993283.218900003<br/>
+Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+</ul>
+<b>Units: </b> esriMeters<br/><br/>
+<b>Supported Image Format Types: </b> PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP<br/><br/>
+<b>Document Info: </b>
+<ul>
+Title: MH_potentiels<br/>
+Author: <br/>
+Comments: &lt;DIV STYLE=&quot;text-align:Left;font-size:12pt&quot;&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;La cartographie des milieux humides potentiels du Qu&eacute;bec (CMHPQ), produite et diffus&eacute;e par le minist&egrave;re de l&rsquo;Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), se veut un outil qui r&eacute;unit un ensemble des sources cartographiques existantes au sein d&rsquo;une m&ecirc;me base de donn&eacute;es g&eacute;ographiques. Elle constitue donc un produit &agrave; valeur ajout&eacute;e qui regroupe l&rsquo;information sur la pr&eacute;sence potentielle de milieux humides couvrant tout le territoire qu&eacute;b&eacute;cois. La CMHPQ comprend l&rsquo;information disponible sur l&rsquo;emplacement et la d&eacute;limitation des milieux humides et fournit une classification selon une typologie &eacute;tablie. Cette cartographie est r&eacute;alis&eacute;e &agrave; partir d&rsquo;un ensemble de donn&eacute;es g&eacute;ographiques disponibles, provenant de bases de donn&eacute;es produites pour r&eacute;pondre &agrave; des objectifs, des couvertures cartographiques et des &eacute;chelles distincts. Ces donn&eacute;es doivent donc &ecirc;tre utilis&eacute;es en restant vigilant au regard de leurs caract&eacute;ristiques ainsi qu&rsquo;&agrave; la d&eacute;limitation.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Consulter le &lt;/SPAN&gt;&lt;A href=&quot;https://www.donneesquebec.ca/recherche/dataset/milieux-humides-potentiels/resource/80ab3609-856c-4d79-9f53-f426019fb915&quot; STYLE=&quot;text-decoration:underline;&quot;&gt;&lt;SPAN&gt;Guide de l&rsquo;utilisateur sur la cartographie des milieux humides potentiels du Qu&eacute;bec&lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt; pour obtenir toutes les informations relatives &agrave; cette couche.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Cette th&eacute;matique comprend &eacute;galement l&rsquo;index des territoires couverts par les projets de cartographie d&eacute;taill&eacute;e des milieux humides des secteurs habit&eacute;s du sud du Qu&eacute;bec (CDMH) produite par Canards Illimit&eacute;s Canada et le minist&egrave;re de l&rsquo;Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs. Il fournit plus d&rsquo;information sur les diff&eacute;rentes phases de r&eacute;alisation des travaux de cartographie d&eacute;taill&eacute;e des milieux humides. &lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;<br/>
+Subject: Cartographie des milieux humides potentiels du Qu&eacute;bec et index des territoires couverts par les projets de cartographie d&eacute;taill&eacute;e des milieux humides<br/>
+Category: <br/>
+Keywords: Biodiversité,Bog,Canards Illimités Canada,Cartographie,CIC,Conservation,Étang,Eau peu profonde,Fen,Indiférencié,Marais,Marais d’eau salée,Mare,Mares de thermokarst,Marécage,Marécage arborescent,Marécage arbustif,Milieu humide,Milieu naturel,Minérotrophe,Ombrotrophe,Terre humide,Terres humides,Tourbière,Tourbière à palses,Tourbière boisée,Tourbière ouverte,Tourbière réticulée<br/>
+AntialiasingMode: Fast<br/>
+TextAntialiasingMode: Force<br/></ul>
+<b>Supports Dynamic Layers: </b> true<br/><br/>
+<b>MaxRecordCount: </b> 2000<br/><br/>
+<b>MaxImageHeight: </b> 4096<br/><br/>
+<b>MaxImageWidth: </b> 4096<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON, PBF<br/><br/>
+<b>Supports Query Data Elements: </b> true<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Datum Transformation: </b> true<br/><br/>
+<br/><br/>
+<b>Child Resources</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/info">Info</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/dynamicLayer">Dynamic Layer</a>
+<br/> <br/>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/export?bbox=-9541042.195591703,5447793.860104835,-5688308.458808299,9163801.938295165">Export Map</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/identify">Identify</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/queryLegends">QueryLegends</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/queryDomains">QueryDomains</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/find">Find</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer?f=pjson&returnUpdates=true&">Return Updates</a>
+<!--
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/MH_potentiels/MapServer/queryDataElements">Query Data Elements</a>
+-->
+</div>
+<br/><br/>
+</body>
+</html>

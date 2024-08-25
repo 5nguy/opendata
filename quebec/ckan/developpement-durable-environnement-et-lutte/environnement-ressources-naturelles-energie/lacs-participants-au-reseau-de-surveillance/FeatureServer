@@ -1,0 +1,116 @@
+<html lang="en">
+<head>
+  <title>Réseau_de_surveillance_volontaire_des_lacs1 (FeatureServer)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services">Home</a> > <a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services">services</a> </span>> <a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer">Réseau_de_surveillance_volontaire_des_lacs1 (FeatureServer)</a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div id="jsonLinkTable">
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+</div>
+<div class='restHeader'>
+<h2>Réseau_de_surveillance_volontaire_des_lacs1 (FeatureServer)</h2>
+</div>
+<div class='restBody'>
+<div id="viewInSection">
+<b>View In: </b>
+&nbsp;&nbsp;<a href="http://www.arcgis.com/apps/mapviewer/index.html?url=https://services3.arcgis.com/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer&source=sd" target="_blank">Map Viewer</a>
+<br/><br/>
+</div>
+<b>Service Description:</b> Ce jeu de données présente l’état trophique des lacs et des stations suivis dans le cadre du Réseau de surveillance volontaire des lacs (RSVL).<br/>
+<br/>
+<b>Service ItemId:</b> c2879657fb0048f1aaab5c65567ef250<br/>
+<br/>
+<b>Has Versioned Data:</b> false<br/>
+<br/>
+<b>Max Record Count:</b> 2000<br/>
+<br/>
+<b>Supported query Formats:</b> JSON<br/>
+<br/>
+<b>Supports applyEdits with GlobalIds:</b> False<br/>
+<br/>
+<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/layers">All Layers and Tables</a><br/>
+<br/>
+<b>Layers:</b> <br/>
+<ul>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/1">&#201;tats trophiques des lacs suivis</a> (1)</li>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/0">&#201;tats trophiques des stations suivies</a> (0)</li>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/6">Exutoires des lacs suivis</a> (6)</li>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/7">Lacs suivis</a> (7)</li>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/3">Bassins versants des lacs suivis</a> (3)</li>
+</ul><br/>
+<b>Description:</b> <div style='text-align:Left;font-size:12pt'><div><div><p><span>L’état trophique est issu de la compilation des données acquises dans le cadre de ce réseau. </span></p><p><span /></p><p><span>Les niveaux trophiques servent à classer les lacs selon leur degré de productivité biologique, leur état pouvant varier d’ultra-oligotrophe à hyper-eutrophe.</span></p><p><span /></p><p><span>Pour plus d’information sur le processus d’eutrophisation des lacs et son évaluation dans le cadre du RSVL, consulter l’adresse suivante : </span><a href='https://www.environnement.gouv.qc.ca/eau/rsvl/methodes.htm' style='text-decoration:underline;' rel='nofollow ugc'><span>https://www.environnement.gouv.qc.ca/eau/rsvl/methodes.htm</span></a><span>. Pour plus d’information sur le RSVL, consulter l’adresse suivante : </span><a href='https://www.environnement.gouv.qc.ca/eau/rsvl/' style='text-decoration:underline;' rel='nofollow ugc'><span>https://www.environnement.gouv.qc.ca/eau/rsvl/</span></a><span>.</span></p><p><span /></p><p><span>Pour accompagner les données d'états trophiques, le jeu de données inclut également les bassins versants, les exutoires des lacs et les polygones des lacs suivis.</span></p></div></div></div><br/>
+<br/>
+<b>Copyright Text:</b> Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la faune et des parcs (MELCCFP), 2022. États trophiques des lacs et des stations suivis dans le cadre du Réseau de surveillance volontaire des lacs (RSVL), version 2004-2021, Québec, Direction générale du suivi de l’état de l’environnement.<br/>
+<br/>
+<b>Spatial Reference:</b> 102100 (3857)<br/>
+<br/>
+<b>Initial Extent:</b> <br/>
+<ul>
+XMin: -9514506.89289692<br/>
+YMin: 5488895.03865444<br/>
+XMax: -6530962.58560308<br/>
+YMax: 6923709.78274556<br/>
+Spatial Reference: 102100 (3857)<br/>
+</ul>
+<b>Full Extent:</b> <br/>
+<ul>
+XMin: -8929874.1587<br/>
+YMin: 5554915.0599<br/>
+XMax: -7200260.1743<br/>
+YMax: 6857689.7615<br/>
+Spatial Reference: 102100 (3857)<br/>
+</ul>
+<b>Units:</b> esriMeters<br/>
+<br/>
+<b>Child Resources: </b>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/info">Info</a>
+<br/><br/>
+<b>Supported Operations: </b>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/query">Query</a>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/convertFormat">ConvertFormat</a>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/R%c3%a9seau_de_surveillance_volontaire_des_lacs1/FeatureServer/createReplica">Create Replica</a>
+<br/><br/>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

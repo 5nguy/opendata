@@ -1,0 +1,125 @@
+<html lang="en">
+<head>
+<title>Eau/PrelevEauAutorises (MapServer)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/login?returnUrl=https://geo.environnement.gouv.qc.ca/donnees/rest/services">Login</a>
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+&gt; <a href="/donnees/rest/services">services</a>
+&gt; <a href="/donnees/rest/services/Eau">Eau</a>
+&gt; <a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer">PrelevEauAutorises (MapServer)</a>
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/help/en/rest/router.html?f=rest/services/Eau/PrelevEauAutorises/MapServer" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Eau/PrelevEauAutorises/MapServer?wsdl" >SOAP</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Eau/PrelevEauAutorises/MapServer/WMSServer?request=GetCapabilities&service=WMS" >WMS</a>
+</td>
+</tr>
+</table>
+<h2>Eau/PrelevEauAutorises (MapServer)</h2>
+<div class="rbody">
+<b>View In:</b>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer?f=jsapi" target="_blank">ArcGIS JavaScript</a>
+&nbsp;&nbsp;<a href="https://www.arcgis.com/home/webmap/viewer.html?url=https://geo.environnement.gouv.qc.ca/donnees/rest/services/Eau/PrelevEauAutorises/MapServer&source=sd" target="_blank">ArcGIS Online Map Viewer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/kml/mapImage.kmz">ArcGIS Earth</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer?f=pitemx" target="_blank">ArcGIS Pro</a>
+<br/><br/>
+<b>Service Description: </b> <DIV STYLE="text-align:Left;"><DIV><DIV><P><SPAN>Cette couche thématique présente la localisation des sites de prélèvements d’eau autorisés au Québec en vertu de l’article 22 de la </SPAN><A href="https://www.legisquebec.gouv.qc.ca:443/fr/document/lc/Q-2" STYLE="text-decoration:underline;"><SPAN>Loi sur la qualité de l’environnement </SPAN></A><SPAN>(chapitre Q-2) et leur volume associé (litre par jour). Les sites de prélèvements d’eau sont les sites d’entrée de l’eau dans une installation aménagée afin d’effectuer un prélèvement d’eau, tant souterrain que de surface.</SPAN></P><P><SPAN>La base de données comprend les autorisations actives de prélèvement d’eau depuis l’entrée en vigueur du </SPAN><A href="https://www.legisquebec.gouv.qc.ca:443/fr/document/rc/Q-2,%20r.%2035.2" STYLE="text-decoration:underline;"><SPAN>Règlement sur le prélèvement des eaux et leur protection (RPEP)</SPAN></A><SPAN> le 14 août 2014. Plus de détail sur le RPEP est disponible sur </SPAN><A href="https://www.environnement.gouv.qc.ca:443/eau/prelevements/reglement-prelevement-protection/index.htm" STYLE="text-decoration:underline;"><SPAN>le site Web du ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs</SPAN></A><SPAN>. Les autorisations ayant eu une subrogation, une modification d’autorisation ou un renouvellement d’autorisation ne sont pas présentées dans cette base de données. Seront alors présentées les autorisations subrogatives, modifiées ou encore renouvelées.</SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Map Name: </b> PrelevEauAutorises<br/><br/>
+<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/legend">Legend</a><br/><br/>
+<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/layers">All Layers and Tables</a><br/><br/>
+<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/legend?dynamicLayers=%5B%5D&">Dynamic Legend</a><br/><br/>
+<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/layers?dynamicLayers=%5B%5D&">Dynamic All Layers</a><br/><br/>
+<b>Layers: </b>
+<ul>
+<li>
+<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/0">Pr&eacute;l&egrave;vements d&rsquo;eau autoris&eacute;s depuis 2014</a> (0)
+</li>
+</ul>
+<b>Description: </b> <DIV STYLE="text-align:Left;"><DIV><DIV><P><SPAN>Cette couche thématique présente la localisation des sites de prélèvements d’eau autorisés au Québec en vertu de l’article 22 de la </SPAN><A href="https://www.legisquebec.gouv.qc.ca:443/fr/document/lc/Q-2" STYLE="text-decoration:underline;"><SPAN>Loi sur la qualité de l’environnement </SPAN></A><SPAN>(chapitre Q-2) et leur volume associé (litre par jour). Les sites de prélèvements d’eau sont les sites d’entrée de l’eau dans une installation aménagée afin d’effectuer un prélèvement d’eau, tant souterrain que de surface.</SPAN></P><P><SPAN>La base de données comprend les autorisations actives de prélèvement d’eau depuis l’entrée en vigueur du </SPAN><A href="https://www.legisquebec.gouv.qc.ca:443/fr/document/rc/Q-2,%20r.%2035.2" STYLE="text-decoration:underline;"><SPAN>Règlement sur le prélèvement des eaux et leur protection (RPEP)</SPAN></A><SPAN> le 14 août 2014. Plus de détail sur le RPEP est disponible sur </SPAN><A href="https://www.environnement.gouv.qc.ca:443/eau/prelevements/reglement-prelevement-protection/index.htm" STYLE="text-decoration:underline;"><SPAN>le site Web du ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs</SPAN></A><SPAN>. Les autorisations ayant eu une subrogation, une modification d’autorisation ou un renouvellement d’autorisation ne sont pas présentées dans cette base de données. Seront alors présentées les autorisations subrogatives, modifiées ou encore renouvelées.</SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Service Item Id: </b> 6da9c46e679b44c694cd7c0c7f07abdf<br/><br/>
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec<br/> <br/>
+<b>Spatial Reference: </b>
+102100
+&nbsp;(3857)
+<br/><br/><br/>
+<b>Single Fused Map Cache: </b> false<br/><br/>
+<b>Initial Extent: </b>
+<ul>
+XMin: -9999775.45943773<br/>
+YMin: 4790801.63576258<br/>
+XMax: -5671238.548657909<br/>
+YMax: 9208817.345731648<br/>
+Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+</ul>
+<b>Full Extent: </b>
+<ul>
+XMin: -8838118.9772<br/>
+YMin: 5620329.146499999<br/>
+XMax: -6531180.380899999<br/>
+YMax: 8763680.964699998<br/>
+Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+</ul>
+<b>Units: </b> esriMeters<br/><br/>
+<b>Supported Image Format Types: </b> PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP<br/><br/>
+<b>Document Info: </b>
+<ul>
+Title: PrelevEauAutorises<br/>
+Author: <br/>
+Comments: &lt;DIV STYLE=&quot;text-align:Left;&quot;&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Cette couche th&eacute;matique pr&eacute;sente la localisation des sites de pr&eacute;l&egrave;vements d&rsquo;eau autoris&eacute;s au Qu&eacute;bec en vertu de l&rsquo;article 22 de la &lt;/SPAN&gt;&lt;A href=&quot;https://www.legisquebec.gouv.qc.ca:443/fr/document/lc/Q-2&quot; STYLE=&quot;text-decoration:underline;&quot;&gt;&lt;SPAN&gt;Loi sur la qualit&eacute; de l&rsquo;environnement &lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt;(chapitre Q-2) et leur volume associ&eacute; (litre par jour). Les sites de pr&eacute;l&egrave;vements d&rsquo;eau sont les sites d&rsquo;entr&eacute;e de l&rsquo;eau dans une installation am&eacute;nag&eacute;e afin d&rsquo;effectuer un pr&eacute;l&egrave;vement d&rsquo;eau, tant souterrain que de surface.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;La base de donn&eacute;es comprend les autorisations actives de pr&eacute;l&egrave;vement d&rsquo;eau depuis l&rsquo;entr&eacute;e en vigueur du &lt;/SPAN&gt;&lt;A href=&quot;https://www.legisquebec.gouv.qc.ca:443/fr/document/rc/Q-2,%20r.%2035.2&quot; STYLE=&quot;text-decoration:underline;&quot;&gt;&lt;SPAN&gt;R&egrave;glement sur le pr&eacute;l&egrave;vement des eaux et leur protection (RPEP)&lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt; le 14 ao&ucirc;t 2014. Plus de d&eacute;tail sur le RPEP est disponible sur &lt;/SPAN&gt;&lt;A href=&quot;https://www.environnement.gouv.qc.ca:443/eau/prelevements/reglement-prelevement-protection/index.htm&quot; STYLE=&quot;text-decoration:underline;&quot;&gt;&lt;SPAN&gt;le site Web du minist&egrave;re de l&rsquo;Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs&lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt;. Les autorisations ayant eu une subrogation, une modification d&rsquo;autorisation ou un renouvellement d&rsquo;autorisation ne sont pas pr&eacute;sent&eacute;es dans cette base de donn&eacute;es. Seront alors pr&eacute;sent&eacute;es les autorisations subrogatives, modifi&eacute;es ou encore renouvel&eacute;es.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;<br/>
+Subject: Pr&eacute;l&egrave;vements d&rsquo;eau et volumes autoris&eacute;s par le minist&egrave;re de l&rsquo;Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs depuis l&rsquo;entr&eacute;e en vigueur du RPEP en 2014<br/>
+Category: <br/>
+Keywords: Autorisation,Eau,LQE,Prélèvements,Règlement sur le prélèvement des eaux et leur protection,RPEP,Site de prélèvement d'eau,Volume autorisé,Volume d'eau autorisé<br/>
+AntialiasingMode: Fast<br/>
+TextAntialiasingMode: Force<br/></ul>
+<b>Supports Dynamic Layers: </b> true<br/><br/>
+<b>MaxRecordCount: </b> 2000<br/><br/>
+<b>MaxImageHeight: </b> 4096<br/><br/>
+<b>MaxImageWidth: </b> 4096<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON, PBF<br/><br/>
+<b>Supports Query Data Elements: </b> true<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 140000<br/><br/>
+<b>Supports Datum Transformation: </b> true<br/><br/>
+<br/><br/>
+<b>Child Resources</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/info">Info</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/dynamicLayer">Dynamic Layer</a>
+<br/> <br/>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/export?bbox=-9999775.45943773,4790801.63576258,-5671238.548657909,9208817.345731648">Export Map</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/identify">Identify</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/queryLegends">QueryLegends</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/queryDomains">QueryDomains</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/find">Find</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer?f=pjson&returnUpdates=true&">Return Updates</a>
+<!--
+&nbsp;&nbsp;<a href="/donnees/rest/services/Eau/PrelevEauAutorises/MapServer/queryDataElements">Query Data Elements</a>
+-->
+</div>
+<br/><br/>
+</body>
+</html>

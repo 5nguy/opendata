@@ -1,0 +1,112 @@
+<html lang="en">
+<head>
+  <title>Indice_Diatomées_de_l’Est_du_Canada (FeatureServer)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services">Home</a> > <a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services">services</a> </span>> <a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer">Indice_Diatomées_de_l’Est_du_Canada (FeatureServer)</a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div id="jsonLinkTable">
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+</div>
+<div class='restHeader'>
+<h2>Indice_Diatomées_de_l’Est_du_Canada (FeatureServer)</h2>
+</div>
+<div class='restBody'>
+<div id="viewInSection">
+<b>View In: </b>
+&nbsp;&nbsp;<a href="http://www.arcgis.com/apps/mapviewer/index.html?url=https://services3.arcgis.com/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer&source=sd" target="_blank">Map Viewer</a>
+<br/><br/>
+</div>
+<b>Service Description:</b> Ce jeu de données présente la localisation des stations échantillonnées classifiées selon l’Indice Diatomées de l'Est du Canada (IDEC).<br/>
+<br/>
+<b>Service ItemId:</b> da715421eb874f8f8b7840dbc3077ee5<br/>
+<br/>
+<b>Has Versioned Data:</b> false<br/>
+<br/>
+<b>Max Record Count:</b> 2000<br/>
+<br/>
+<b>Supported query Formats:</b> JSON<br/>
+<br/>
+<b>Supports applyEdits with GlobalIds:</b> False<br/>
+<br/>
+<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer/layers">All Layers and Tables</a><br/>
+<br/>
+<b>Layers:</b> <br/>
+<ul>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer/0">Indice diatom&#233;es de l’Est du Canada</a> (0)</li>
+</ul><br/>
+<b>Description:</b> <div style='text-align:Left;'><div><div style='font-size:12pt'><p><span>Ce jeu de données </span><span>contient des données obtenues depuis 1935 qui ont été converties à la version 3 de l'indice (Lavoie et coll. 2014).</span></p><p><span /></p><p><span>Les diatomées benthiques sont des algues microscopiques unicellulaires qui tapissent le fond des cours d'eau et des lacs. Certaines espèces sont plus sensibles à la pollution que d'autres. Par conséquent, la composition en espèces des communautés de diatomées benthiques, par le biais de l'abondance relative de chaque espèce présente, offre une information quant aux conditions environnementales prévalant dans une rivière. En effet, les communautés de diatomées benthiques sont représentatives des variations de la qualité de l’eau des quatre à cinq semaines précédant l’échantillonnage. Elles diffèrent surtout en fonction des concentrations en nutriments, en matière organique, ainsi que de la conductivité (minéraux dissous) et du pH. L’Indice Diatomées de l’Est du Canada (IDEC v.3) est calculé à partir de l'abondance relative des espèces et de leur tolérance aux perturbations. Les valeurs varient de 0 à 100 et se divisent en 4 classes d’intégrité biologique (A : Bon état à D : Très mauvais état).</span></p><p><span /></p><p><span>Pour plus d'information, veuillez vous référer à la page Web de l'Indice Diatomées de l'Est du Canada de l’Université du Québec à Trois-Rivières (</span><a href='http://www.uqtr.ca/IDEC' style='text-decoration:underline;' rel='nofollow ugc'><span>www.uqtr.ca/IDEC</span></a><span>).</span></p><p><span /></p><p><span>Cette base de données a été créée en 2002 par Stéphane Campeau (UQTR) et le MELCC en assure la continuité depuis 2020.</span></p></div></div></div><br/>
+<br/>
+<b>Copyright Text:</b> Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), 2022. Indice Diatomées de l’Est du Canada (IDEC), Québec, Direction générale du suivi de l’état de l’environnement.<br/>
+<br/>
+<b>Spatial Reference:</b> 102100 (3857)<br/>
+<br/>
+<b>Initial Extent:</b> <br/>
+<ul>
+XMin: -9007344.0739253<br/>
+YMin: 5824370.70640949<br/>
+XMax: -6977425.50114555<br/>
+YMax: 6304419.01753984<br/>
+Spatial Reference: 102100 (3857)<br/>
+</ul>
+<b>Full Extent:</b> <br/>
+<ul>
+XMin: -8848143.1191<br/>
+YMin: 5622073.6085<br/>
+XMax: -7177316.2652<br/>
+YMax: 6450367.5875<br/>
+Spatial Reference: 102100 (3857)<br/>
+</ul>
+<b>Units:</b> esriMeters<br/>
+<br/>
+<b>Child Resources: </b>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer/info">Info</a>
+<br/><br/>
+<b>Supported Operations: </b>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer/query">Query</a>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer/convertFormat">ConvertFormat</a>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_Diatom%c3%a9es_de_l%e2%80%99Est_du_Canada/FeatureServer/createReplica">Create Replica</a>
+<br/><br/>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

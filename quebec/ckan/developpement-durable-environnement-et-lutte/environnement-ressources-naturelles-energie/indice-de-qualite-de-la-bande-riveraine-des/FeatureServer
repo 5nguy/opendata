@@ -1,0 +1,113 @@
+<html lang="en">
+<head>
+  <title>Indice_de_qualité_des_bandes_riveraines (FeatureServer)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services">Home</a> > <a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services">services</a> </span>> <a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer">Indice_de_qualité_des_bandes_riveraines (FeatureServer)</a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div id="jsonLinkTable">
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+</div>
+<div class='restHeader'>
+<h2>Indice_de_qualité_des_bandes_riveraines (FeatureServer)</h2>
+</div>
+<div class='restBody'>
+<div id="viewInSection">
+<b>View In: </b>
+&nbsp;&nbsp;<a href="http://www.arcgis.com/apps/mapviewer/index.html?url=https://services3.arcgis.com/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer&source=sd" target="_blank">Map Viewer</a>
+<br/><br/>
+</div>
+<b>Service Description:</b> L’indice de qualité de la bande riveraine (IQBR) sert à évaluer la condition écologique du milieu riverain.<br/>
+<br/>
+<b>Service ItemId:</b> d5cc9a0c2250465c8b93f6ca61e9a9b8<br/>
+<br/>
+<b>Has Versioned Data:</b> false<br/>
+<br/>
+<b>Max Record Count:</b> 2000<br/>
+<br/>
+<b>Supported query Formats:</b> JSON<br/>
+<br/>
+<b>Supports applyEdits with GlobalIds:</b> True<br/>
+<br/>
+<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/layers">All Layers and Tables</a><br/>
+<br/>
+<b>Layers:</b> <br/>
+<ul>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/0">Qualit&#233; de la bande riveraine</a> (0)</li>
+<li><a href="/0lL78GhXbg1Po7WO/ArcGIS/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/1">Qualit&#233; de la bande riveraine par c&#244;t&#233; de rive</a> (1)</li>
+</ul><br/>
+<b>Description:</b> <DIV STYLE="text-align:Left;"><DIV><DIV><DIV STYLE="font-size:12pt"><P><SPAN>Les données sur la qualité de la bande riveraine proviennent de stations de suivi du benthos.</SPAN></P><P STYLE="margin:1 1 1 0;"><SPAN>L’indice de qualité de la bande riveraine (IQBR) sert à évaluer la condition écologique du milieu riverain. Il est construit à partir de neuf composantes qui ont été pondérées selon leur potentiel à remplir les fonctions écologiques en regard de la protection des écosystèmes aquatiques.</SPAN></P><P><SPAN>L’IQBR est représenté dans l’Atlas de l’eau par deux thématiques :</SPAN></P><UL><LI><P><SPAN>Qualité de la bande riveraine - Stations benthos : Cette thématique représente l’IQBR moyen évalué aux stations de suivi du benthos. L’IQBR moyen est obtenu en faisant la moyenne des indices calculés sur chaque des rives, sur un tronçon de cours d’eau de 100 m en amont des stations de suivi du benthos. </SPAN></P></LI><LI><P><SPAN>Qualité de la bande riveraine par côté de rive - Stations benthos : Cette thématique présente l’IQBR calculé sur une bande riveraine d’une largeur de 10 m, sur un tronçon de cours d’eau de 100 m en amont des stations de suivi du benthos. Chaque côté de rive est présenté individuellement.</SPAN></P></LI></UL><P><SPAN>L’indice de qualité de la bande riveraine (IQBR) utilisé est une adaptation de l’IQBR de Saint-Jacques et Richard (1998) (MDDEFP, 2013). Sur une échelle variant de 17 à 100, la valeur de l’indice estime l’importance de chaque composante à remplir les fonctions écologiques du milieu riverain, à maintenir et à soutenir les populations animales, aquatiques et terrestres dans un état équilibré et propre à celui des milieux naturels. </SPAN></P><P><SPAN>L’évaluation du pourcentage de recouvrement de chacune des composantes se fait à partir du sol, pour chaque berge, comme si elle était observée à vol d’oiseau. La méthode d’évaluation est détaillée dans le Guide de surveillance biologique basée sur les macroinvertébrés benthiques d’eau douce du Québec (MDDEFP, 2013).</SPAN></P><P><SPAN>Les neuf composantes sont toutes exprimées en pourcentage de recouvrement.</SPAN></P><P><SPAN>Composantes :</SPAN></P><UL><LI><P><SPAN>Pourcentage de recouvrement par les arbres : La présence d’une strate arborescente diversifie les habitats aquatiques et terrestres et offre des conditions naturelles et favorables au maintien de la qualité de l’habitat. Une diminution du pourcentage indique généralement une augmentation de l’instabilité du milieu riverain et une diminution de sa capacité à maintenir ses qualités.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par les arbustes : La présence de la strate arbustive indique un milieu généralement naturel. Toutefois, les arbustes sont légèrement moins efficaces que les arbres pour fournir des abris, régulariser la température et la productivité naturelle des cours d’eau.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par les plantes herbacées naturelles : Bien qu’on les trouve en milieux naturels, les plantes herbacées sont généralement moins efficaces que les arbres et les arbustes pour préserver la stabilité et la complexité des habitats riverains. Le gazon n’est pas une plante herbacée dite naturelle.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par les cultures : Les pratiques agricoles augmentent la charge de nutriments et de contaminants causée par l’application fréquente de fertilisants et de pesticides. Une augmentation du pourcentage de recouvrement des rives par les cultures peut provoquer une dégradation marquée des habitats terrestres et aquatiques ainsi que de la qualité de l’eau.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par le sol nu : Les sols dépouillés de couvert végétal sont sujets à l’effet néfaste de l’érosion et peuvent provoquer une sédimentation excessive des cours d’eau. Tout comme les cultures, leur présence indique un milieu riverain sujet à la dégradation.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par les fourrages, les pâturages et les pelouses : Une augmentation de la fréquence de friches et de pâturages sur les rives peut entraîner le colmatage des cours d’eau causé par le piétinement parfois excessif des berges par le bétail. Cela peut menacer la faune des milieux aquatiques.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par des structures artificielles : La présence d’infrastructures d’origine humaine est habituellement un signe de destruction des habitats naturels et de leur dégradation.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement par les coupes forestières (récentes) : Le couvert forestier des bandes riveraines réduit la quantité de radiation solaire entrant dans les cours d’eau et, par conséquent, minimise les changements de température. Son absence provoque une augmentation de la température des cours d’eau et celle de la nappe phréatique ainsi qu’une diminution de l’oxygène dissous.</SPAN></P></LI><LI><P><SPAN>Pourcentage de recouvrement des roches ou du roc (socle rocheux) : La présence de socle rocheux assure seulement la stabilité des berges et ne peut remplir d’autres fonctions écologiques.</SPAN></P></LI></UL><P><SPAN>Pour en savoir plus sur les façons de calculer l’IQBR aux stations de suivi du benthos, il est possible de consulter les documents suivants : </SPAN></P><P><SPAN>Ministère du Développement durable, de l’Environnement, de la Faune et des Parcs (MDDEFP), 2013. Guide de surveillance biologique basée sur les macroinvertébrés benthiques d’eau douce du Québec – Cours d’eau peu profonds à substrat grossier, 2013. Direction du suivi de l’état de l’environnement, ISBN 978-2-550-69169-3 (PDF), 2e édition : 88 p. (incluant 6 annexes).</SPAN></P><P><SPAN>Page web: </SPAN><A href="https://www.environnement.gouv.qc.ca/eau/eco_aqua/IQBR/index.htm" STYLE="text-decoration:underline;"><SPAN>https://www.environnement.gouv.qc.ca/eau/eco_aqua/IQBR/index.htm</SPAN></A><SPAN> </SPAN></P></DIV></DIV></DIV></DIV><br/>
+<br/>
+<b>Copyright Text:</b> Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), 2023. Indice de qualité de la bande riveraine des stations de suivi du benthos, version 2003-2020, Québec, Direction générale du suivi de l’état de l’environnement.<br/>
+<br/>
+<b>Spatial Reference:</b> 102100 (3857)<br/>
+<br/>
+<b>Initial Extent:</b> <br/>
+<ul>
+XMin: -8567411.66435677<br/>
+YMin: 5297635.34842151<br/>
+XMax: -7261015.03384323<br/>
+YMax: 6633882.4395785<br/>
+Spatial Reference: 102100 (3857)<br/>
+</ul>
+<b>Full Extent:</b> <br/>
+<ul>
+XMin: -8474970.4591<br/>
+YMin: 5628601.737<br/>
+XMax: -7353500.3822<br/>
+YMax: 6302928.4303<br/>
+Spatial Reference: 102100 (3857)<br/>
+</ul>
+<b>Units:</b> esriMeters<br/>
+<br/>
+<b>Child Resources: </b>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/info">Info</a>
+<br/><br/>
+<b>Supported Operations: </b>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/query">Query</a>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/convertFormat">ConvertFormat</a>
+&nbsp;&nbsp;<a href="/0lL78GhXbg1Po7WO/arcgis/rest/services/Indice_de_qualit%c3%a9_des_bandes_riveraines/FeatureServer/createReplica">Create Replica</a>
+<br/><br/>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>
