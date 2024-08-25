@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sociétic - Événements
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+DTSTART:20141112T123000Z
+DTEND:20141112T163000Z
+DTSTAMP:20240825T165028Z
+UID:78f77q2fm8uaagsi02qhth5da0@google.com
+CREATED:20141021T193347Z
+LAST-MODIFIED:20141021T193347Z
+LOCATION:Hôtel Le Président 4 ****\, 3535 Rue King Ouest\, Sherbrooke\, QC 
+ J1L 1P8\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Analyse d’affaires
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141121T140000Z
+DTEND:20141121T213000Z
+DTSTAMP:20240825T165028Z
+UID:is5lb9ub2u212tlcq1qh63u2ug@google.com
+CREATED:20141023T183300Z
+DESCRIPTION:Organisé par Sherbrooke Innopole\, en collaboration avec SociéT
+ IC\, le Rendez-vous des TIC se déroulera le 21 novembre prochain de 9 h à 1
+ 6 h 30\, sous le thème de «l’Internet des Objects dans une ville intelligen
+ te.»
+LAST-MODIFIED:20141023T183310Z
+LOCATION:Delta Sherbrooke Hotel and Conference Center\, 2685 Rue King Ouest
+ \, Sherbrooke\, QC J1L 1C1\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rendez-vous TIC 2014
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141210T220000Z
+DTEND:20141211T000000Z
+DTSTAMP:20240825T165028Z
+UID:kq8ccbf3cel2bs3i70tm7faf9s@google.com
+CREATED:20141023T183417Z
+DESCRIPTION:Soulignez la période des fêtes avec un 5 à 7 techno\nDe plus en
+  plus\, la domotique s’intègre dans nos vies. Venez en apprendre plus sur l
+ e sujet dans notre dernière activité de 2014. Une sympathique soirée décont
+ ractée en compagnie des gens du milieu des TIC de l’Estrie.
+LAST-MODIFIED:20141023T183423Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5 à 7 Domotique
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150121
+DTEND;VALUE=DATE:20150122
+DTSTAMP:20240825T165028Z
+UID:14g5g31p799nj9iq7clmpc0njo@google.com
+CREATED:20141023T183528Z
+LAST-MODIFIED:20141023T183528Z
+LOCATION:Hôtel Le Président 4 ****\, 3535 Rue King Ouest\, Sherbrooke\, QC 
+ J1L 1P8\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Commerce électronique
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150225
+DTEND;VALUE=DATE:20150226
+DTSTAMP:20240825T165028Z
+UID:2sk14772omql6kd21jgjooh4v0@google.com
+CREATED:20141023T183551Z
+LAST-MODIFIED:20141023T183605Z
+LOCATION:Hôtel Le Président 4 ****\, 3535 Rue King Ouest\, Sherbrooke\, QC 
+ J1L 1P8\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Logiciels libres
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150313
+DTEND;VALUE=DATE:20150316
+DTSTAMP:20240825T165028Z
+UID:7g1ad8b0n06a2694p87ef6klrc@google.com
+CREATED:20141023T183644Z
+DESCRIPTION:Le HackSherbrooke est un hackathon sur les données ouvertes.\nL
+ a 2e édition de cet événement issue de la collaboration de plusieurs acteur
+ s du milieu des TI à Sherbrooke se déroulera au mois de mars 2015.\n\nNotre
+  mission est de favoriser l’utilisation des données ouvertes pour l’innovat
+ ion.\n\nNotre souhait est de créer un engouement pour l’utilisation des don
+ nées ouvertes.\n\nPour en connaitre plus\, visitez le site Internet de l’ac
+ tivité de l’an dernier.
+LAST-MODIFIED:20141023T183644Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Sherbrooke
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150319T113000Z
+DTEND:20150319T143000Z
+DTSTAMP:20240825T165028Z
+UID:9hceg0q58g465m6lh8no23dh28@google.com
+CREATED:20141023T183744Z
+DESCRIPTION:La colocation dans un Centre de données\nUne solution sécuritai
+ re et abordable?\nVous avez un produit TI à offrir et votre client vous dem
+ ande une solution « cloud » répondant à des normes strictes de sécurité\, r
+ edondance et robustesse ?\n\nVous avez des opérations critiques à votre ent
+ reprise et vous souhaitez planifier une infrastructure de repli sur mesure 
+ dans le but de répondre à vos plans de reprise d’activités ?\n\nVotre salle
+  de serveur déborde\, vos UPS sont surchargés\, la climatisation ne fournit
+  pas ?\n\nTous ces besoins peuvent être adressés par une nouvelle offre de 
+ service : Les centres de données. Assistez à notre conférence pour comprend
+ re à quoi et à qui servent les nouveaux centres de données ultramodernes qu
+ i se multiplient depuis quelques années au Québec.\n
+LAST-MODIFIED:20141023T183744Z
+LOCATION:Hôtel Le Président 4 ****\, 3535 Rue King Ouest\, Sherbrooke\, QC 
+ J1L 1P8\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Colocation infonuagique
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150409T113000Z
+DTEND:20150409T150000Z
+DTSTAMP:20240825T165028Z
+UID:c97ji3ll2ukgg4bbtvg68m2bg4@google.com
+CREATED:20141023T183826Z
+DESCRIPTION:Les tendances TI 2015 selon Gartner\nNe manquez pas les toutes 
+ dernières prédictions fraîchement compilées pour 2015 et habilement présent
+ ées par M.François Banville!\nLa clé du succès retentissant de cette confér
+ ence est sans aucun doute l’approche synthétisée qui nous permet de bien vi
+ sualiser l’évolution à court\, moyen et long terme. De plus\, un volet prés
+ entant un angle adapté au contexte canadien vous permettra de voir ou nous 
+ nous situons dans cette course à la technologie par rapport aux autres pays
+ .\n\nVu la grande popularité de cet évènement\, veuillez noter que cette ac
+ tivité se termine plus tard que nos déjeuners-conférences habituels afin de
+  favoriser le réseautage et les échanges avec les partenaires.\n\nCette con
+ férence est désormais un évènement incontournable en Estrie!
+LAST-MODIFIED:20141023T183835Z
+LOCATION:Hôtel Le Président 4 ****\, 3535 Rue King Ouest\, Sherbrooke\, QC 
+ J1L 1P8\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tendances TI selon Gartner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150501T113000Z
+DTEND:20150501T150000Z
+DTSTAMP:20240825T165028Z
+UID:5r656qk1m6b65p9699eh3nu368@google.com
+CREATED:20141023T183930Z
+DESCRIPTION:Le 3IT vous ouvre ses portes grâce à SociéTIC\nVisitez quelques
+ -uns de leurs laboratoires à la fine pointe de la technologie.\nLe nom 3IT 
+ tient pour Institut Interdisciplinaire d’Innovation technologique. Il s’agi
+ t d’un bel exemple de collaboration des gouvernements fédéral\, provincial 
+ et de l’Université de Sherbrooke qui permet d’offrir des services aux entre
+ prises qui on des besoins :\n\nde moyens que les technologies actuelles n’a
+ rrivent pas à satisfaire\;\nde nouvelles technologies pour prendre position
+  dans des marchés en émergence\;\nd’une infrastructure de pointe pour le dé
+ marrage d’une nouvelle entreprise\;\nde ressources pour mitiger les risques
+  d’une nouvelle technologie.\nLa visite vous permettra d’en apprendre plus 
+ sur les services offerts par le 3IT !
+LAST-MODIFIED:20141023T183930Z
+LOCATION:Boulevard de l'Université\, Sherbrooke\, QC\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Visite d’entreprise – 3IT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150528T213000Z
+DTEND:20150529T010000Z
+DTSTAMP:20240825T165028Z
+UID:nqv4rcrfrs27ro21qt4hjl9luc@google.com
+CREATED:20141023T184032Z
+DESCRIPTION:Méritez-vous d’avoir les meilleurs employés?\nDécouvrez ce qu’e
+ st un employeur remarquable\nDans le cadre de la conférence\, plusieurs thè
+ mes seront abordés: des informations stupéfiantes concernant la démographie
+  et le monde en transformation\, les compétences et l’organisation du trava
+ il de demain\, est-ce que les employeurs « méritent » de bons employés ?\n\
+ nQu’est-ce qu’un employeur remarquable ? Les pratiques RH appréciées actuel
+ lement des employés travaillant chez les meilleurs employeurs\, etc.\n\nDe 
+ plus\, vous serez en mesure d’avoir des pistes concrètes relatives aux prat
+ iques RH utilisées par les meilleurs employeurs sur le marché actuel du tra
+ vail. C’est un rendez-vous théorique\, pratiqueet énergique !\n\nVenez fair
+ e la rencontre de ce praticien qui adore transmettre son savoir\, savoir-fa
+ ire\, savoir-être et ses multiples expériences en GRH/Management.
+LAST-MODIFIED:20141023T184032Z
+LOCATION:La Halte des Pèlerins\, 693 Chemin du Sanctuaire\, Sherbrooke\, QC
+  J1H 0E1\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gestion de la rareté humaine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160422T220000Z
+DTEND:20160424T230000Z
+DTSTAMP:20240825T165028Z
+UID:lmbj17l8vqc1d3j08uh757u22c@google.com
+CREATED:20160421T165132Z
+LAST-MODIFIED:20160421T165132Z
+LOCATION:Cégep de Sherbrooke
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HackSherbrooke – 3e Édition
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160504T110000Z
+DTEND:20160504T140000Z
+DTSTAMP:20240825T165028Z
+UID:g4d9djia2irpjgge7lobqrotdk@google.com
+CREATED:20160421T165209Z
+LAST-MODIFIED:20160421T165209Z
+LOCATION:WIPTEC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VISITE D’ENTREPRISE – WIPTEC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160601T213000Z
+DTEND:20160602T010000Z
+DTSTAMP:20240825T165028Z
+UID:mber37fbo9noee6kd14lgn0odo@google.com
+CREATED:20160421T165306Z
+LAST-MODIFIED:20160421T165306Z
+LOCATION:Étoile sur le lac
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VILLES ET DONNÉES INTELLIGENTES
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
