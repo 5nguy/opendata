@@ -1,0 +1,2235 @@
+[
+{
+    "date" : "2016-02-08",
+    "substance" : "Chlorure de vinyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichloro-1,1 éthylène",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichlorométhane",
+    "chomedey" : "0.9",
+    "pont-viau" : "0.9",
+    "sainte-rose" : "0.9"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Tétrachlorure de carbone",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichloro-1,2 éthane",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Trichloroéthylène",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Tétrachloroéthylène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Chlorobenzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichloro-1,2 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichloro-1,4 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Chloroforme",
+    "chomedey" : "15",
+    "pont-viau" : "10",
+    "sainte-rose" : "17"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Bromodichlorométhane",
+    "chomedey" : "3",
+    "pont-viau" : "2",
+    "sainte-rose" : "3"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dibromochlorométhane",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Bromoforme",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Sommation des THM",
+    "chomedey" : "18",
+    "pont-viau" : "12",
+    "sainte-rose" : "20"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichloro-2,4 phénol",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Pentachlorophénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Tétrachloro-2,3,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Trichloro-2,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Diquat",
+    "chomedey" : "15",
+    "pont-viau" : "15",
+    "sainte-rose" : "15"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Paraquat (en dichlorures)",
+    "chomedey" : "0.60",
+    "pont-viau" : "0.60",
+    "sainte-rose" : "0.60"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Glyphosate",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Benzo(a)pyrène",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Diuron",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Bendiocarbe",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Trifluraline",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Phorate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dimethoate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Simazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Carbofurane",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Terbufos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Diazinon",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Métribuzine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Carbaryl",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Malathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Métolachlore",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Chlorpyrifos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Cyanazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Parathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Azinphos-méthyle",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Méthoxychlore",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Atrazine et ses métabolites",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dicamba",
+    "chomedey" : "0.6",
+    "pont-viau" : "0.6",
+    "sainte-rose" : "0.6"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichloro-2,4 phénoxyacétique, acide (2,4-D)",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.04",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Piclorame",
+    "chomedey" : "0.06",
+    "pont-viau" : "0.06",
+    "sainte-rose" : "0.06"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Bromoxynil",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dinosèbe",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-02-08",
+    "substance" : "Dichlorop-méthyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Chlorure de vinyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichloro-1,1 éthylène",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichlorométhane",
+    "chomedey" : "0.9",
+    "pont-viau" : "0.9",
+    "sainte-rose" : "0.9"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Tétrachlorure de carbone",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichloro-1,2 éthane",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Trichloroéthylène",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Tétrachloroéthylène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Chlorobenzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichloro-1,2 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichloro-1,4 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Chloroforme",
+    "chomedey" : "29",
+    "pont-viau" : "29",
+    "sainte-rose" : "33"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Bromodichlorométhane",
+    "chomedey" : "3",
+    "pont-viau" : "3",
+    "sainte-rose" : "4"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dibromochlorométhane",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Bromoforme",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Sommation des THM",
+    "chomedey" : "33",
+    "pont-viau" : "32",
+    "sainte-rose" : "37"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichloro-2,4 phénol",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Pentachlorophénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Tétrachloro-2,3,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Trichloro-2,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Diquat",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Paraquat (en dichlorures)",
+    "chomedey" : "0.60",
+    "pont-viau" : "0.60",
+    "sainte-rose" : "0.60"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Glyphosate",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Benzo(a)pyrène",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Diuron",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Bendiocarbe",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Trifluraline",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Phorate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dimethoate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Simazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Carbofurane",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Terbufos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Diazinon",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Métribuzine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Carbaryl",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Malathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Métolachlore",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Chlorpyrifos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Cyanazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Parathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Azinphos-méthyle",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Méthoxychlore",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Atrazine et ses métabolites",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dicamba",
+    "chomedey" : "0.6",
+    "pont-viau" : "0.6",
+    "sainte-rose" : "0.6"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichloro-2,4 phénoxyacétique, acide (2,4-D)",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Piclorame",
+    "chomedey" : "0.06",
+    "pont-viau" : "0.06",
+    "sainte-rose" : "0.06"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Bromoxynil",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dinosèbe",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-05-18",
+    "substance" : "Dichlorop-méthyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Chlorure de vinyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichloro-1,1 éthylène",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichlorométhane",
+    "chomedey" : "0.9",
+    "pont-viau" : "0.9",
+    "sainte-rose" : "0.9"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Tétrachlorure de carbone",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichloro-1,2 éthane",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Trichloroéthylène",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Tétrachloroéthylène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Chlorobenzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichloro-1,2 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichloro-1,4 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Chloroforme",
+    "chomedey" : "44",
+    "pont-viau" : "60",
+    "sainte-rose" : "60"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Bromodichlorométhane",
+    "chomedey" : "6",
+    "pont-viau" : "7",
+    "sainte-rose" : "9"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dibromochlorométhane",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Bromoforme",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Sommation des THM",
+    "chomedey" : "50",
+    "pont-viau" : "67",
+    "sainte-rose" : "70"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichloro-2,4 phénol",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Pentachlorophénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Tétrachloro-2,3,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Trichloro-2,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Diquat",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Paraquat (en dichlorures)",
+    "chomedey" : "0.60",
+    "pont-viau" : "0.60",
+    "sainte-rose" : "0.60"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Glyphosate",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Benzo(a)pyrène",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Diuron",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Bendiocarbe",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Trifluraline",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Phorate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dimethoate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Simazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Carbofurane",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Terbufos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Diazinon",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Métribuzine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Carbaryl",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Malathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Métolachlore",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Chlorpyrifos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Cyanazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Parathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Azinphos-méthyle",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Méthoxychlore",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Atrazine et ses métabolites",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dicamba",
+    "chomedey" : "0.6",
+    "pont-viau" : "0.6",
+    "sainte-rose" : "0.6"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichloro-2,4 phénoxyacétique, acide (2,4-D)",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Piclorame",
+    "chomedey" : "0.06",
+    "pont-viau" : "0.06",
+    "sainte-rose" : "0.06"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Bromoxynil",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dinosèbe",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Dichlorop-méthyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Chlorure de vinyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichloro-1,1 éthylène",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichlorométhane",
+    "chomedey" : "0.9",
+    "pont-viau" : "0.9",
+    "sainte-rose" : "0.9"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Tétrachlorure de carbone",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichloro-1,2 éthane",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Trichloroéthylène",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Tétrachloroéthylène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Chlorobenzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichloro-1,2 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichloro-1,4 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Chloroforme",
+    "chomedey" : "24",
+    "pont-viau" : "25",
+    "sainte-rose" : "25"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Bromodichlorométhane",
+    "chomedey" : "6",
+    "pont-viau" : "6",
+    "sainte-rose" : "6"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dibromochlorométhane",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Bromoforme",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Sommation des THM",
+    "chomedey" : "31",
+    "pont-viau" : "31",
+    "sainte-rose" : "32"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichloro-2,4 phénol",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Pentachlorophénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Tétrachloro-2,3,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Trichloro-2,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Diquat",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Paraquat (en dichlorures)",
+    "chomedey" : "0.60",
+    "pont-viau" : "0.60",
+    "sainte-rose" : "0.60"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Glyphosate",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Benzo(a)pyrène",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Diuron",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Bendiocarbe",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Trifluraline",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Phorate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dimethoate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Simazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Carbofurane",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Terbufos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Diazinon",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Métribuzine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Carbaryl",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Malathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Métolachlore",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Chlorpyrifos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Cyanazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Parathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Azinphos-méthyle",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Méthoxychlore",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Atrazine et ses métabolites",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dicamba",
+    "chomedey" : "0.6",
+    "pont-viau" : "0.6",
+    "sainte-rose" : "0.6"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichloro-2,4 phénoxyacétique, acide (2,4-D)",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Piclorame",
+    "chomedey" : "0.06",
+    "pont-viau" : "0.06",
+    "sainte-rose" : "0.06"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Bromoxynil",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dinosèbe",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Dichlorop-méthyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Chlorure de vinyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichloro-1,1 éthylène",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichlorométhane",
+    "chomedey" : "0.9",
+    "pont-viau" : "0.9",
+    "sainte-rose" : "0.9"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Tétrachlorure de carbone",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichloro-1,2 éthane",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Trichloroéthylène",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Tétrachloroéthylène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Chlorobenzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichloro-1,2 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichloro-1,4 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Chloroforme",
+    "chomedey" : "32",
+    "pont-viau" : "17",
+    "sainte-rose" : "23"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Bromodichlorométhane",
+    "chomedey" : "5",
+    "pont-viau" : "3",
+    "sainte-rose" : "4"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dibromochlorométhane",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Bromoforme",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Sommation des THM",
+    "chomedey" : "37",
+    "pont-viau" : "20",
+    "sainte-rose" : "29"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichloro-2,4 phénol",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Pentachlorophénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Tétrachloro-2,3,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Trichloro-2,4,6 phénol",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Diquat",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Paraquat (en dichlorures)",
+    "chomedey" : "0.60",
+    "pont-viau" : "0.60",
+    "sainte-rose" : "0.60"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Glyphosate",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Benzo(a)pyrène",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Diuron",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Bendiocarbe",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Trifluraline",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Phorate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dimethoate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Simazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Carbofurane",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Terbufos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Diazinon",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Métribuzine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Carbaryl",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Malathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Métolachlore",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Chlorpyrifos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Cyanazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Parathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Azinphos-méthyle",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Méthoxychlore",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Atrazine et ses métabolites",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dicamba",
+    "chomedey" : "0.6",
+    "pont-viau" : "0.6",
+    "sainte-rose" : "0.6"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichloro-2,4 phénoxyacétique, acide (2,4-D)",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.04",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Piclorame",
+    "chomedey" : "0.06",
+    "pont-viau" : "0.06",
+    "sainte-rose" : "0.06"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Bromoxynil",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dinosèbe",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Dichlorop-méthyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Chlorure de vinyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichloro-1,1 éthylène",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichlorométhane",
+    "chomedey" : "0.9",
+    "pont-viau" : "0.9",
+    "sainte-rose" : "0.9"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Tétrachlorure de carbone",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichloro-1,2 éthane",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Trichloroéthylène",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Tétrachloroéthylène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Chlorobenzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichloro-1,2 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichloro-1,4 benzène",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Chloroforme",
+    "chomedey" : "34",
+    "pont-viau" : "28",
+    "sainte-rose" : "30"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Bromodichlorométhane",
+    "chomedey" : "4",
+    "pont-viau" : "4",
+    "sainte-rose" : "4"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dibromochlorométhane",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Bromoforme",
+    "chomedey" : "1",
+    "pont-viau" : "1",
+    "sainte-rose" : "1"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Sommation des THM",
+    "chomedey" : "38",
+    "pont-viau" : "32",
+    "sainte-rose" : "34"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichloro-2,4 phénol",
+    "chomedey" : "0.30",
+    "pont-viau" : "0.30",
+    "sainte-rose" : "0.30"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Pentachlorophénol",
+    "chomedey" : "0.40",
+    "pont-viau" : "0.40",
+    "sainte-rose" : "0.40"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Tétrachloro-2,3,4,6 phénol",
+    "chomedey" : "0.40",
+    "pont-viau" : "0.40",
+    "sainte-rose" : "0.40"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Trichloro-2,4,6 phénol",
+    "chomedey" : "0.40",
+    "pont-viau" : "0.40",
+    "sainte-rose" : "0.40"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Diquat",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Paraquat (en dichlorures)",
+    "chomedey" : "0.60",
+    "pont-viau" : "0.60",
+    "sainte-rose" : "0.60"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Glyphosate",
+    "chomedey" : "10",
+    "pont-viau" : "10",
+    "sainte-rose" : "10"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Benzo(a)pyrène",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Diuron",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Bendiocarbe",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Trifluraline",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Phorate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dimethoate",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Simazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Carbofurane",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Terbufos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Diazinon",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Métribuzine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Carbaryl",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Malathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Métolachlore",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Chlorpyrifos",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Cyanazine",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Parathion",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Azinphos-méthyle",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Méthoxychlore",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.03",
+    "sainte-rose" : "0.03"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Atrazine et ses métabolites",
+    "chomedey" : "0.3",
+    "pont-viau" : "0.3",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dicamba",
+    "chomedey" : "0.6",
+    "pont-viau" : "0.6",
+    "sainte-rose" : "0.6"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichloro-2,4 phénoxyacétique, acide (2,4-D)",
+    "chomedey" : "0.03",
+    "pont-viau" : "0.04",
+    "sainte-rose" : "0.04"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Piclorame",
+    "chomedey" : "0.06",
+    "pont-viau" : "0.06",
+    "sainte-rose" : "0.06"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Bromoxynil",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dinosèbe",
+    "chomedey" : "0.4",
+    "pont-viau" : "0.4",
+    "sainte-rose" : "0.4"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Dichlorop-méthyle",
+    "chomedey" : "0.2",
+    "pont-viau" : "0.2",
+    "sainte-rose" : "0.2"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Antimoine (Sb)",
+    "chomedey" : "0.003",
+    "pont-viau" : "0.003",
+    "sainte-rose" : "0.003"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Arsenic (As)",
+    "chomedey" : "0.0003",
+    "pont-viau" : "0.0003",
+    "sainte-rose" : "0.0003"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Baryum (Ba)",
+    "chomedey" : "0.02",
+    "pont-viau" : "0.02",
+    "sainte-rose" : "0.02"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Bore (B)",
+    "chomedey" : "0.05",
+    "pont-viau" : "0.05",
+    "sainte-rose" : "0.05"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Cadmium (Cd)",
+    "chomedey" : "0.001",
+    "pont-viau" : "0.001",
+    "sainte-rose" : "0.001"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Chrome (Cr)",
+    "chomedey" : "0.005",
+    "pont-viau" : "0.005",
+    "sainte-rose" : "0.005"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Cuivre (Cu)",
+    "chomedey" : "0.0033",
+    "pont-viau" : "0.01",
+    "sainte-rose" : "0.0037"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Cyanure (CN-)",
+    "chomedey" : "0.005",
+    "pont-viau" : "0.006",
+    "sainte-rose" : "0.005"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Fluorure (F-)",
+    "chomedey" : "0.1",
+    "pont-viau" : "0.1",
+    "sainte-rose" : "0.1"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Mercure (Hg)",
+    "chomedey" : "0.0001",
+    "pont-viau" : "0.0001",
+    "sainte-rose" : "0.0003"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Plomb (Pb)",
+    "chomedey" : "0.0016",
+    "pont-viau" : "0.0093",
+    "sainte-rose" : "0.0023"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Sélénium (Se)",
+    "chomedey" : "0.001",
+    "pont-viau" : "0.001",
+    "sainte-rose" : "0.001"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Uranium (U)",
+    "chomedey" : "0.002",
+    "pont-viau" : "0.002",
+    "sainte-rose" : "0.002"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Nitrates + Nitrites en N",
+    "chomedey" : "0.26",
+    "pont-viau" : "0.23",
+    "sainte-rose" : "0.3"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Nitrates + Nitrites en N",
+    "chomedey" : "0.27",
+    "pont-viau" : "0.29",
+    "sainte-rose" : "0.37"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Nitrates + Nitrites en N",
+    "chomedey" : "0.55",
+    "pont-viau" : "0.57",
+    "sainte-rose" : "0.69"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Nitrates + Nitrites en N",
+    "chomedey" : "0.15",
+    "pont-viau" : "0.12",
+    "sainte-rose" : "0.32"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "Bromates (BrO3)",
+    "chomedey" : "0.0001",
+    "pont-viau" : "0.0001",
+    "sainte-rose" : "0.0001"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "Bromates (BrO3)",
+    "chomedey" : "0.0001",
+    "pont-viau" : "0.0001",
+    "sainte-rose" : "0.0001"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "Bromates (BrO3)",
+    "chomedey" : "0.0001",
+    "pont-viau" : "0.0001",
+    "sainte-rose" : "0.0015"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "Bromates (BrO3)",
+    "chomedey" : "0.0001",
+    "pont-viau" : "0.0001",
+    "sainte-rose" : "0.0011"
+},
+{
+    "date" : "2017-02-16",
+    "substance" : "pH",
+    "chomedey" : "7.7",
+    "pont-viau" : "7.6",
+    "sainte-rose" : "7.5"
+},
+{
+    "date" : "2017-05-11",
+    "substance" : "pH",
+    "chomedey" : "7.8",
+    "pont-viau" : "7.7",
+    "sainte-rose" : "7.5"
+},
+{
+    "date" : "2016-11-16",
+    "substance" : "pH",
+    "chomedey" : "7.51",
+    "pont-viau" : "7.47",
+    "sainte-rose" : "7.51"
+},
+{
+    "date" : "2016-08-10",
+    "substance" : "pH",
+    "chomedey" : "7.6",
+    "pont-viau" : "7.8",
+    "sainte-rose" : "7.8"
+}
+]

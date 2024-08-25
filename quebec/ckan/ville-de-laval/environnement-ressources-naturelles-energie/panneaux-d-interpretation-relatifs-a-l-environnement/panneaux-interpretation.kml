@@ -1,0 +1,3252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="panneaux_interpretation" id="panneaux_interpretation">
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="EMPLACEMENT" type="string"></SimpleField>
+	<SimpleField name="PROPRIETAIRE" type="string"></SimpleField>
+</Schema>
+<Folder><name>panneaux_interpretation</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661586278181176,45.608608506555868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">Le paillis de cèdre</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661346650014565,45.608504490577104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">La pervenche rampante</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661267481574853,45.608479714963842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">L'ajuga rampant</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66124697100814,45.608475129605914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Aménagement écologique</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661106100798619,45.608443865022849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Halte environnementale</SimpleData>
+		<SimpleData name="NOM">Baril de récupération d'eau de pluie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661119844698263,45.608346805658449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Aménagement modèle 3 Zone ensoleillée et sèche</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661462908311378,45.608617750338958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Aménagement modèle 2 Zone ombragée et humide</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661318897418255,45.608545179427885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">Le thym serpolet</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66120561139266,45.608464157904152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Pratiquer l'herbicyclage</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661230531353837,45.608328828434345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661244107252472,45.608285082207566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Le composteur domestique</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660956100546542,45.608444620855501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">Le bois raméal fragmenté</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661307350593816,45.608491722648466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">La marche à suivre</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66092069761936,45.608441343172011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rivière en fête</SimpleData>
+		<SimpleData name="NOM">Rive naturelle</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge aux Quatre-Vents</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.880826749101146,45.547976700437985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Accueil</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.844598344159067,45.573465921706948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846466890345582,45.57336438554168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Halte environnementale</SimpleData>
+		<SimpleData name="NOM">Bénéfice d'une toiture végétale</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661093805031641,45.6083409854105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">La paille et les autres paillis de résidus de végétaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661367379790732,45.608512191706325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Qu'est-ce que le compostage ?</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661007695063091,45.6083867082083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Un compost sans tracas</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66091206534648,45.608406289095541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Les usages du compost</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660921920448416,45.608384764863068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">Le paillis forestier</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661327766336086,45.608498109581923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Le Bouthillier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.772183575910375,45.541500547614895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Végétation riveraine</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Goélands</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.871571701600189,45.55766882480652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">L'eau, source de loisir</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Plage-Idéale</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.758426638237509,45.650597541871498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Gagné</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.698866150745303,45.550048138115301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Oiseaux rapaces</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.847525002539783,45.574280360805361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Historique</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.844958539530793,45.572679485302743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Un castor et son château</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.822729967885138,45.538077634604811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">ACBP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67912775501128,45.605245793794083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Les forêts et leur importance</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824651444853785,45.539074022349538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE"></SimpleData>
+		<SimpleData name="NOM"></SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660974437524175,45.608340125170351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Les oiseaux d'hiver</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.823124570755311,45.537480983058025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Le secteur du Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.82181607344954,45.537277634956261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Les oiseaux d'hiver</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824852466969162,45.53767212464102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Les milieux humides du Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boisé Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824644180252506,45.538185243660266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Réduire, réutiliser, récupérer (6)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.659685526174428,45.605195489427132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Fougères</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.848528965079353,45.575059500933079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Ostryer de Virginie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Prince-Rupert</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.749911440933829,45.640711402945797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Benjamin-Dion</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84299350534809,45.526125447698767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Ma rue, mes arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Saint-Martin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.767820492659936,45.553034974211677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Agir aujourd'hui pour bâtir demain (2)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.662157178116814,45.608927118889206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Cardinaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.761108168381611,45.599942672026913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.679782679705468,45.605583634414941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Lotbinière</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.687686980918414,45.60170048778587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Twin-Oaks</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.816879966568948,45.575439516358365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Chopin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.732541737096184,45.570295628407429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Milieux humides, milieux de vie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Berthiaume-du-Tremblay</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.747117985110336,45.527881010665027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Érable rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Notre-Dame-du-Sourire</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.60078301269445,45.657387771982265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Le Bouthillier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.775483033073513,45.545138094241452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Le Bouthillier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.771173083509453,45.539807791539779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Mammifères de la rivière</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Goélands</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.871611504904223,45.557693231123928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Amélanchier du Canada</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Chopin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.732817708319772,45.570228529985201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Écosystème forestier exceptionnel - Chomedey</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Chomedey</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.732522307749889,45.548483342158725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école du Coeur-Soleil</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.806005246267262,45.571867048985688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Notre-Dame-du-Sourire</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.601123019441104,45.65776687465187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Saint-François</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.804280533670934,45.520260052218504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Cerisier de Virginie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Notre-Dame-du-Sourire</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.600833453997552,45.657432115526895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Écosystème forestier exceptionnel - Papineau</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boisé Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.680424557615083,45.604544553281237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Chêne des marais</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Marie-Curie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.776699124030188,45.536213755528067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Le Bouthillier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.772414369135163,45.541835675399653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Pourquoi composter ?</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660997922381782,45.608407902095713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">Eau potable, source de vie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Baigneurs</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.787203020269089,45.616521824200127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">FFQ</SimpleData>
+		<SimpleData name="NOM">Sauvagine</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Plage-Idéale</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.758598601883648,45.654585109847289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Érable rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Laval-Catholic</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.749333594034184,45.565472551468197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">FFQ</SimpleData>
+		<SimpleData name="NOM">Poissons d'eau vive</SimpleData>
+		<SimpleData name="EMPLACEMENT">Barrage du Grand-Moulin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.881154239143783,45.532163108255602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Oiseaux terrestres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.845391904569794,45.573177517967473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Amphibiens et reptiles</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.848049073469355,45.575356160211356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Accueil</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846946344096352,45.575581270099804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Exceptionnel pourquoi ?</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849152664756289,45.575619526972311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Poissons</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Vieux-Moulin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.570994718467858,45.666206885573352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Plantes printanières</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846383879939879,45.572925767496528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Épinette blanche</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Saint-Martin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.765574000986774,45.550666539378447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Des milieux naturels d'intérêts (3)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.662488690265519,45.6083470066812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Garrot</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.795884847762423,45.610124931179605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc de la Volière</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.776924662706804,45.598402849516873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Émile-Zola</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.778507723629517,45.571558475284625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Tortues</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.850516576059562,45.57127582839842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Ma rue, mes arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Horizon-Jeunesse</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.759905268155478,45.627697115320643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Pourquoi acheter local (9)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.659896027841953,45.606732856839102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Boire de l'eau du robinet (5)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.662270259899302,45.606377218818643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Giovanni-Caboto</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.673493808763197,45.618768693722473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Mammifères</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.845812417533921,45.573000036123965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Vieux-Moulin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.57069533277199,45.666357490968785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Ma rue, mes arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Dollard-des-Ormeaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67424170625354,45.594967222551965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Économiser l'eau potable (8)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660228137609849,45.606131587105381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Marche, vélo, autobus, métro (7)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.657830602488005,45.605348435470447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Stéphanie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.838214716878525,45.563486047053196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Route bleue</SimpleData>
+		<SimpleData name="NOM">De bonne famille</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de l'Alose</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.653788907643602,45.595612551156051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Ma rue, mes arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Saint-Martin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.767803701072054,45.552786787708968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Route bleue</SimpleData>
+		<SimpleData name="NOM">Poissons aux aguets</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Chênes</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.883069280015036,45.523544267982984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Buteau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.792738021327708,45.553191151801613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Espèce en péril</SimpleData>
+		<SimpleData name="NOM">Lézardelle penchée</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Léonard-Éthier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.636472822370521,45.688368518092936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Route bleue</SimpleData>
+		<SimpleData name="NOM">L'appât du gain</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Gagné</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.699493051314079,45.549674183725742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Végétation riveraine</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.850591571838024,45.571290525581382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Espace vert et biodiversité</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846808542852244,45.573688329519889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">Richesse végétale en rive</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846699458777891,45.575612896478489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Cerisier de Virginie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Pépin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.798376997280798,45.575659577004345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Prince-Rupert</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.750415168634902,45.640432258683298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">Une rivière aux mille îles</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Maurice</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.662470152566584,45.686038544952993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Saint-Martin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763601664291855,45.551661713267137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Milieux humides</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.848063535539822,45.574781244118036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Espèces à statut précaire</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.847512144897678,45.575338344972238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Amélanchier du Canada</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Marc-Aurèle-Fortin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.801152520805502,45.583576931230922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Émile-Zola</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.777115061485347,45.571824686938854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">La rivière a son lit</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Léonard-Éthier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.636569484875906,45.688117224067952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Chêne rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Laval-Catholic</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.751364369884413,45.564184728901331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">Au temps des plages</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge aux Quatre-Vents</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.878489738330813,45.545342878847073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Liste des matières organiques recommandées</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660987815610667,45.608426593135917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Compostage</SimpleData>
+		<SimpleData name="NOM">Quatre principes de base</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660975206220542,45.608369968630498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">L'arénaire rampante</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661286412072926,45.608485438129797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Aire de démonstration de jardins écologiques</SimpleData>
+		<SimpleData name="NOM">Aménagement modèle 1 Pelouse sans entretien</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661160538724118,45.608490256175379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Halte environnementale</SimpleData>
+		<SimpleData name="NOM">Halte environnementale</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661156858461027,45.608246438098426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Halte environnementale</SimpleData>
+		<SimpleData name="NOM">Les toits verts</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66110067941446,45.608341896238947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Paillis et couvre-sol</SimpleData>
+		<SimpleData name="NOM">La lysimaque rampante</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661225272058275,45.60847057021676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye des rivières</SimpleData>
+		<SimpleData name="NOM">Interceptons cette polution</SimpleData>
+		<SimpleData name="EMPLACEMENT">Terrasse Brissette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">CIEAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.750647418992273,45.661741251830186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Plantes</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.844668828780286,45.572564468572864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Oiseaux aquatiques</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.848067389615139,45.575726371718922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Code d'éthique sur la rivière des Mille Îles</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de l'Anse</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.880422834575668,45.540538241998803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bassin Le Corbusier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.720246095562999,45.551250454459286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="NOM">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.680322421424307,45.604557026877785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.829779264768135,45.540177768943025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">ACBP</SimpleData>
+		<SimpleData name="NOM">Une forêt précoloniale au sommet d'un coteau de sable</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">ACBP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.681354063033979,45.603616399917911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Le castor: la petite histoire d'un architecte</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824999718606279,45.538685372981625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="NOM">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Plage-des-îles</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.83001865412281,45.58124051684208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.764025379466986,45.607458994738124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">ACBP</SimpleData>
+		<SimpleData name="NOM">Un peu d'histoire</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">ACBP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.681428195220292,45.603567928195503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Oiseaux cavicoles</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824599831500592,45.536439122758495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Crécerelles</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.769650640129072,45.599362032430342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">ACBP</SimpleData>
+		<SimpleData name="NOM">Bienvenue dans une forêt ancienne</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">ACBP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.681399033486798,45.603572643707942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.834085359428855,45.540271261859068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Crécerelles</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.769650680768208,45.600019458315778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Les cavités, les nichoirs: des habitats</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824905872902335,45.539268228089178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.761491446296048,45.604107546082219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">ACBP</SimpleData>
+		<SimpleData name="NOM">Les services écosystémiques offerts par les bois urbains</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">ACBP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.681370792641559,45.603624844331925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="NOM">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.679736471201622,45.604865259196934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="NOM">Zone de regénération de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Papineau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">ACBP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.679830317252794,45.605484616270552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.821210541545568,45.537146032772924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Chauves-souris</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.823511774993364,45.537434125883919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.824938024294141,45.534985142282736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Crécerelles</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.770393090206923,45.602253517097644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Roseaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.777167464629827,45.518111918059525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Roseaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.775526860118404,45.518485357114223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Roseaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.776452265934566,45.517116482572455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Anémones</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.776975013627265,45.517219209090698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.752678518521989,45.610442195184092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Un climatiseur naturel</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763700596046817,45.607631442628616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.751879103075922,45.605777885560443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Bienvenue</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763787199502659,45.607513209723855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.762686098338875,45.609258979098712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.754573512200963,45.607217250018309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Jeu : Lassier sa trace</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763681390701166,45.60757031494218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76096525777389,45.608709536115448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.754573587701245,45.607217502701374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.757840333329781,45.613114644565556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">L'arche de l'Équerre</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763731261611895,45.607532273927397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Bois de l'Équerre depuis 100 ans</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763721004740844,45.607519826907733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">De génération en regénération</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763710877618436,45.607533973965218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Vivre les pieds dans l'eau</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76370282069729,45.607570498531835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Monnayer la nature</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763717415596972,45.607637858259316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.752011391584631,45.60860938538476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Les arbres sauvent des vies</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763717032188282,45.607615406669431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.761549248412322,45.604180145893615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des Sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.755115104772216,45.609856081532982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.757593516893792,45.608970638257254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.759732703437493,45.607030972233808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.762284661821653,45.606729548558938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.758892060119635,45.604654021422057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.756624587436193,45.599149866798186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Les arbres, des îlots de fraîcheur en ville (4)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.662917251243044,45.607350774271296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Rallye de l'écocitoyen</SimpleData>
+		<SimpleData name="NOM">Protégons notre planète (1)</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661102592863955,45.608167904897975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bassin Le Corbusier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.720613142512164,45.551167863864755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Prairies</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.693850912102249,45.552639974116445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Berthiaume-du-Tremblay</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.745964552826536,45.527672440054765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Arbres Canada</SimpleData>
+		<SimpleData name="NOM">Ma rue, mes arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Chomedey</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Arbres Canada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.731855705682491,45.547361981525974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868407727035859,45.539449602394136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Écores</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.671305475937558,45.570404309195055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868680911640539,45.53941927834309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Écores</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.671124196387012,45.57156715528928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868474296134821,45.539415796747789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boulevard Mattawa</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.822206304280471,45.600593247144722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Information</SimpleData>
+		<SimpleData name="NOM">Coyote</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Alain</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.669014901682175,45.68038067918831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868807290395836,45.539491028367053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Écores</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.671434365743409,45.570826317209502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Grand Brochet</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.880375586705881,45.549930325169548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue des Érables</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.879075784090162,45.533031165590302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Amélanchier du Canada</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école du Coeur-Soleil</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.805024255952645,45.571949122361133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Couvrette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.806123296330242,45.524299977919348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Cerisier de Virginie</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Jean-Lemonde</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.807203986112683,45.530588638509833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Halte à la Rivière</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.791759691194272,45.515773588614486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue des Érables</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.880789523437912,45.531969252162376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.869236662744498,45.539428578325328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Balades</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.858855522153078,45.562724032549177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue d'Osaka</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.829275510768511,45.586900539829017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Collin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.658747083422185,45.614532647057501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Pierre-Laporte</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.80243282667162,45.524708122291202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Sylvie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.804216290652292,45.528080245935634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Avenue Bellevue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.642833507406536,45.613299340987069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Balades</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.858596595167,45.562962395491311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849983451094246,45.570367085228312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Antoine-Forestier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.700553759901709,45.607171520448325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Saint-Vincent</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.642395124208633,45.610795597366476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Délia-Tétreault</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.676444773843301,45.562566893589143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Havre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.743374924435088,45.530106370679249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Jetté</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.803216903837793,45.517091430413615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue de Saint-Servan</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.794493093527095,45.515539659719693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Sylvie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.804450930198897,45.528510052619843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Place de l'Eau-Vive</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.821794751694839,45.518210928720244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Baigneurs</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.790454003146323,45.614454821330661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Charles-Bruneau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.751726029059554,45.620173397729602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de l'Anse-Bleue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.692814795087685,45.551693081644238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Antoine-Dalmas</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.865659269830005,45.525159743389793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Terrasse Germaine</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.799452869602732,45.521293970254696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">31e Avenue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868669111579806,45.545326694965865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84863246422988,45.569016826642567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boulevard Mattawa</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.822507699216231,45.600290081495942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc de la Mauricie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.683124498013171,45.595826081487239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Berthiaume-du-Tremblay</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.746087399551143,45.527333327491796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Berthiaume-du-Tremblay</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.745982264960872,45.527470446486014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc du Sablon</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.769217735893989,45.530132018053415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc du Sablon</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.769646983859971,45.530219981686415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Montgolfier</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.783392472082141,45.53405686200248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc de Mingan</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.856752574296252,45.529906699069549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Rivièra</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87680715323269,45.557808904402037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Goélands</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.872159598523055,45.558159239380672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Goélands</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.870501882597424,45.557536492959976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue du Panorama</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.652680816589935,45.684352612524265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rie Rivièra</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.877526723292021,45.556740776865468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">3e Avenue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.867226816347852,45.559043670438371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Balades</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8582536535625,45.563262147958092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre d'interprétation de l'eau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.785130931837898,45.616258622887656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Plage-Idéale</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.758317590364499,45.65096576351872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école de l'Odyssée-des-Jeunes</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.743299538427877,45.613680478115626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Pinsons</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.610761293996759,45.647792035120716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue de Saint-Servan</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.79443743981183,45.515485040645366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Goélands</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8758355169916,45.558434035881888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Délia-Tétreault</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.674925524235391,45.563356328931974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Délia-Tétreault</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.672337668618965,45.563854925091221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc de la Canardière</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.781555863275599,45.598385673127261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Couvrette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.805932960843677,45.521862687007932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Couvrette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.805894623633435,45.522270387604458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Pierre-Laporte</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.802047529978225,45.525307698038979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849598909056709,45.571386025563356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Accueil</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.844239285707346,45.572460366408514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Clubs 4H</SimpleData>
+		<SimpleData name="NOM">Accueil</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Clubs 4H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.847034081449891,45.57223230986591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue des Charmes</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.826788154636702,45.588611798119651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Chêne rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Florent</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.821426058261096,45.527568795879382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge aux Quatre-Vents</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.878401791049697,45.543446359176002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Mammifères de la rivière</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Baigneurs</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.786056313332296,45.619161182496448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Chêne rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Horizon-Jeunesse</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.759904591784135,45.627444198965847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école de l'Odyssée-des-Jeunes</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.743496156431505,45.614151234908803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Mammifères de la rivière</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Saint-Maxime</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.732942783844138,45.533291982469223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">11e Avenue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.862279004139907,45.562130570787723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Jean-Lemonde</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.806681478295431,45.529733056568396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Érable rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Jean-Lemonde</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.806123938812433,45.529532453596438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Amélanchier du Canada</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Florent</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.821133310561066,45.527272421179148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue d'Osaka</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.829329257051683,45.58948462689834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Végétation riveraine</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Baigneurs</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.785999924062438,45.618918218887259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Dollard-des-Ormeaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67384105628507,45.595321277485709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Marie-Curie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.776503119815189,45.53497053335812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Chêne rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Saint-Martin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.767314477429991,45.553009673680847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Information</SimpleData>
+		<SimpleData name="NOM">Coyote</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Rondeau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.670019248326028,45.679981911611264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Rivièra</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87681399244704,45.557560424876264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">3e Avenue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.867169419791125,45.559026436839076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849662951607144,45.571305937923171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Amélanchier du Canada</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Twin-Oaks</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.817395469134013,45.576285164366013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Érable rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Pépin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.799265667429694,45.575321859904577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Marc-Aurèle-Fortin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.801523744945754,45.58455791266929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Amélanchier du Canada</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Marie-Curie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.777627771988065,45.534817278849502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Plage-des-Iles</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.830171005697451,45.580918649794945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école de l'Odyssée-des-Jeunes</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.744338399840501,45.614013593542595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Laval-Catholic</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.750028617139691,45.564854076040305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Végétation riveraine</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-Saint-Maxime</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.733310649756234,45.533255322778544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Florent</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.821318732340231,45.527332584934406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre communautaire Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868398274453384,45.54365667078892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84684887757453,45.57573480203741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Pépin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.798874525418327,45.575460857821739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Érable rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Marc-Aurèle-Fortin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.801941031740782,45.584948537236883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Micocoulier occidental</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Horizon-Jeunesse</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.759786203886947,45.627471002238046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Chêne rouge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Dollard-des-Ormeaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.674402560574578,45.594832549007528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.869051331583449,45.539719122886133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Gagné</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.699628660761661,45.549469369164363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Aquarelle</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.800405028846953,45.598102184051051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Écores</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.670915120067193,45.571285613824799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Aquarelle</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.800118734693143,45.598816140345178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Aquarelle</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.800064764865255,45.598120247034771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.869227306426382,45.539440927344195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Gagné</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.699401435643509,45.54973326492572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Gagné</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.699291057243585,45.54982567270789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="NOM">Le castor: ingénieur forestier et maître nageur</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois Sainte-Dorothée</SimpleData>
+		<SimpleData name="PROPRIETAIRE">APBSD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.825866548910497,45.53771505425884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Information</SimpleData>
+		<SimpleData name="NOM">Coyote</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rondeau St-François</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.761553237229307,45.604108286458107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Couvrette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.811029325871559,45.519272140244844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Poissons</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Couvrette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.81103171897027,45.519261586696295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Information</SimpleData>
+		<SimpleData name="NOM">L'eau et la terre</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Couvrette</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.810588003761922,45.519930422646048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Espèce en péril</SimpleData>
+		<SimpleData name="NOM">Faucon pélerin</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Olivier-Charbonneau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.529281420541565,45.697883763176279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Épinette blanche</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Dollard-des-Ormeaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.673895979061967,45.595699665350914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Espèce en péril</SimpleData>
+		<SimpleData name="NOM">Tortue géographique</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Olivier-Charbonneau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.529842746627935,45.697988612519538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Barcelone</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.829620859645672,45.583440441388774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Twin-Oaks</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.817654692019289,45.575201263241865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Garrot</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.796346403330148,45.609475606963528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Destruction de la végétation - Vandalisme</SimpleData>
+		<SimpleData name="EMPLACEMENT">43e Avenue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.84235113837083,45.577327290913246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Benjamin-Dion</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.840904908428158,45.525764270121982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Ma rue, mes arbres</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Prince-Rupert</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.749246069166588,45.639645936376702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Route bleue</SimpleData>
+		<SimpleData name="NOM">L'appât du gain</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Brise</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Éco-Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.637783233240953,45.627302905313613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Terrasse Coutu</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.743155430879568,45.66677946966329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Épinette blanche</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Prince-Rupert</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.749314833805116,45.639776877737617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Parc-École</SimpleData>
+		<SimpleData name="NOM">Frêne d'Amérique</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc-école Horizon-Jeunesse</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.759546952388263,45.627814409393935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc du Moulin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.580159347390463,45.674335125296032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Maskinongé</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.679834536412031,45.593275107118885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.850011851567743,45.570799702538935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Zone de compensation</SimpleData>
+		<SimpleData name="NOM">Zone de préservation de la végétation</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Émile-Zola</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.781521364485869,45.573943389357211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.755816959071652,45.613029669733415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846846616134769,45.575737518297302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Orée-des-Bois</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.846952758731021,45.57557572295066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Cosmodôme</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.745833763982347,45.567783491677289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Bienville</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.752129782808595,45.657271463932922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Charles-Bruneau</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.751425066621835,45.620282427276578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Havre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.742300681999595,45.530705550713797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Île Paton</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.750830339302624,45.525371914701665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Aréna Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86616484569619,45.547637399672887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.659844025831774,45.605361149058055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661734698582251,45.606729831234588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Prairies</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.693546250448122,45.553957553341711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="NOM">Préservation de la végétation en berge</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de l'Harmonie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.583511038805398,45.659678636930302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.663253730681987,45.608247192412485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Boutin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.63545197559398,45.683155092064908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660416414786667,45.606129058916757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.662588094016115,45.608275178778761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661287182025532,45.606687827438265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661330822782148,45.605656462647673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.661873708308875,45.607475525838645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Île Paton</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.750674281735499,45.524573339086899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Centre de la Nature</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.663469603655372,45.606801566088912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Camille-Barbe</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849746927704061,45.570086107994143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue les Érables</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.878348388518177,45.535238650112554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge des Baigneurs</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.786550338337065,45.617923232150289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Gare AMT Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.861486214200426,45.525887404475725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boulevard Marc-Aurèle-Fortin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.800653016480894,45.599521397440377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Île Paton</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.757367179105927,45.523016124951781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boulevard Marc-Aurèle-Fortin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.801013652800137,45.600033959770805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Gare AMT Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.861261484997925,45.52503063289145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Piste cyclable sous le boulevard Curé-Labelle</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.793319785847999,45.613197910282757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Équinox</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.776440636464415,45.603275395938411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge Délia-Tétreault</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.671573339973477,45.565291182946602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Sylvie</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.804166215864228,45.528023926063867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">École Léon-Guilbault</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.692228873034622,45.557708708036557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.75971387832449,45.607065428906701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Moulin</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.569469405148112,45.668320453329109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de l'Anse Bleue</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.692454588178222,45.551519391839363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Boulevard Lévesques est</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.569695601296488,45.668125380128323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge du Grand Brochet</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.880143300289333,45.550159480363199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge aux Quatre-vents</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87872423483519,45.545642748769552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Diversité d'habitat, diversité d'habitant</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763691464198132,45.607557306291945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Sentier</SimpleData>
+		<SimpleData name="NOM">Carte des sentiers</SimpleData>
+		<SimpleData name="EMPLACEMENT">Bois de l'Équerre</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.760120104742597,45.612777022227341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Chien en laisse</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc des Cardinaux</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.76545477013785,45.598973698954715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Règlement</SimpleData>
+		<SimpleData name="NOM">Interdiction de nourrir les oiseaux</SimpleData>
+		<SimpleData name="EMPLACEMENT">Berge de la Plage-des-îles</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.83008668576845,45.580644041887496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Biodiversité</SimpleData>
+		<SimpleData name="NOM">Poissons</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Gagné</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.699179714483293,45.549913474904535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Rue Rivièra</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.879708502700794,45.552624169150704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#panneaux_interpretation">
+		<SimpleData name="TYPE">Herbe à puce</SimpleData>
+		<SimpleData name="NOM">Herbe à puce</SimpleData>
+		<SimpleData name="EMPLACEMENT">Parc Laval-Ouest</SimpleData>
+		<SimpleData name="PROPRIETAIRE">Ville de Laval</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.868816711024607,45.540340462560636</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><ListeAnalysesTurbidite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AnalyseTurbidite>
+    <annee-mois>2016-01-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-02-01</annee-mois>
+    <nombre-echantillon>3</nombre-echantillon>
+    <chomedey>0.4</chomedey>
+    <pont-viau>0.2</pont-viau>
+    <sainte-rose>0.3</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-03-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-04-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-05-01</annee-mois>
+    <nombre-echantillon>3</nombre-echantillon>
+    <chomedey>0.2</chomedey>
+    <pont-viau>0.2</pont-viau>
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-06-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-07-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-08-01</annee-mois>
+    <nombre-echantillon>3</nombre-echantillon>
+    <chomedey>0.2</chomedey>
+    <pont-viau>0.2</pont-viau>
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-09-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-10-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-11-01</annee-mois>
+    <nombre-echantillon>3</nombre-echantillon>
+    <chomedey>0.4</chomedey>
+    <pont-viau>0.2</pont-viau>
+    <sainte-rose>0.3</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2016-12-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-01-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-02-01</annee-mois>
+    <nombre-echantillon>3</nombre-echantillon>
+    <chomedey>0.2</chomedey>
+    <pont-viau>0.2</pont-viau>
+    <sainte-rose>0.3</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-03-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.2</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-04-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-05-01</annee-mois>
+    <nombre-echantillon>3</nombre-echantillon>
+    <chomedey>0.9</chomedey>
+    <pont-viau>0.4</pont-viau>
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-06-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.16</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+  <AnalyseTurbidite>
+    <annee-mois>2017-07-01</annee-mois>
+    <nombre-echantillon>1</nombre-echantillon>
+    <chomedey xsi:nil="true" />
+    <pont-viau xsi:nil="true" />
+    <sainte-rose>0.1</sainte-rose>
+    <nombre-depassement>0</nombre-depassement>
+  </AnalyseTurbidite>
+</ListeAnalysesTurbidite>
