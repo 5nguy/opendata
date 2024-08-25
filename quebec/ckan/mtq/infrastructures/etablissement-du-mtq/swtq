@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:WFS_Capabilities xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:ows="http://www.opengis.net/ows/1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fes="http://www.opengis.net/fes/2.0" xmlns:ms="http://mapserver.gis.umn.edu/mapserver" xmlns="http://www.opengis.net/wfs/2.0" version="2.0.0" xsi:schemaLocation="http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd">
+  <ows:ServiceIdentification>
+    <ows:Title>Service Web de Transports Québec</ows:Title>
+    <ows:Abstract>Service  Web de Transports Québec</ows:Abstract>
+    <!--WARNING: Optional metadata "ows_keywordlist" was missing for ows:KeywordList-->
+    <ows:ServiceType codeSpace="OGC">WFS</ows:ServiceType>
+    <ows:ServiceTypeVersion>2.0.0</ows:ServiceTypeVersion>
+    <ows:Fees/>
+    <!--WARNING: Optional metadata "ows_fees" was missing for ows:Fees-->
+    <ows:AccessConstraints/>
+    <!--WARNING: Optional metadata "ows_accessconstraints" was missing for ows:AccessConstraints-->
+  </ows:ServiceIdentification>
+  <ows:ServiceProvider>
+    <ows:ProviderName/>
+    <!--WARNING: Mandatory metadata "ows_contactorganization" was missing for ows:ProviderName-->
+    <ows:ProviderSite xlink:type="simple" xlink:href=""/>
+    <!--WARNING: Optional metadata "ows_service_onlineresource" was missing for ows:ProviderSite/@xlink:href-->
+    <ows:ServiceContact>
+      <ows:IndividualName/>
+      <!--WARNING: Optional metadata "ows_contactperson" was missing for ows:IndividualName-->
+      <ows:PositionName/>
+      <!--WARNING: Optional metadata "ows_contactposition" was missing for ows:PositionName-->
+      <ows:ContactInfo>
+        <ows:Phone>
+          <ows:Voice/>
+          <!--WARNING: Optional metadata "ows_contactvoicetelephone" was missing for ows:Voice-->
+          <ows:Facsimile/>
+          <!--WARNING: Optional metadata "ows_contactfacsimiletelephone" was missing for ows:Facsimile-->
+        </ows:Phone>
+        <ows:Address>
+          <ows:DeliveryPoint/>
+          <!--WARNING: Optional metadata "ows_address" was missing for ows:DeliveryPoint-->
+          <ows:City/>
+          <!--WARNING: Optional metadata "ows_city" was missing for ows:City-->
+          <ows:AdministrativeArea/>
+          <!--WARNING: Optional metadata "ows_stateorprovince" was missing for ows:AdministrativeArea-->
+          <ows:PostalCode/>
+          <!--WARNING: Optional metadata "ows_postcode" was missing for ows:PostalCode-->
+          <ows:Country/>
+          <!--WARNING: Optional metadata "ows_country" was missing for ows:Country-->
+          <ows:ElectronicMailAddress/>
+          <!--WARNING: Optional metadata "ows_contactelectronicmailaddress" was missing for ows:ElectronicMailAddress-->
+        </ows:Address>
+        <ows:OnlineResource xlink:type="simple" xlink:href=""/>
+        <!--WARNING: Optional metadata "ows_service_onlineresource" was missing for ows:OnlineResource/@xlink:href-->
+        <ows:HoursOfService/>
+        <!--WARNING: Optional metadata "ows_hoursofservice" was missing for ows:HoursOfService-->
+        <ows:ContactInstructions/>
+        <!--WARNING: Optional metadata "ows_contactinstructions" was missing for ows:ContactInstructions-->
+      </ows:ContactInfo>
+      <ows:Role/>
+      <!--WARNING: Optional metadata "ows_role" was missing for ows:Role-->
+    </ows:ServiceContact>
+  </ows:ServiceProvider>
+  <ows:OperationsMetadata>
+    <ows:Operation name="GetCapabilities">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+          <ows:Post xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="AcceptVersions">
+        <ows:AllowedValues>
+          <ows:Value>2.0.0</ows:Value>
+          <ows:Value>1.1.0</ows:Value>
+          <ows:Value>1.0.0</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+      <ows:Parameter name="AcceptFormats">
+        <ows:AllowedValues>
+          <ows:Value>text/xml</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+      <ows:Parameter name="Sections">
+        <ows:AllowedValues>
+          <ows:Value>ServiceIdentification</ows:Value>
+          <ows:Value>ServiceProvider</ows:Value>
+          <ows:Value>OperationsMetadata</ows:Value>
+          <ows:Value>FeatureTypeList</ows:Value>
+          <ows:Value>Filter_Capabilities</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="DescribeFeatureType">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+          <ows:Post xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="outputFormat">
+        <ows:AllowedValues>
+          <ows:Value>application/gml+xml; version=3.2</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.2.1</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.1.1</ows:Value>
+          <ows:Value>text/xml; subtype=gml/2.1.2</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetFeature">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+          <ows:Post xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="outputFormat">
+        <ows:AllowedValues>
+          <ows:Value>application/gml+xml; version=3.2</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.2.1</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.1.1</ows:Value>
+          <ows:Value>text/xml; subtype=gml/2.1.2</ows:Value>
+          <ows:Value>geopackage</ows:Value>
+          <ows:Value>application/geo+json</ows:Value>
+          <ows:Value>application/json</ows:Value>
+          <ows:Value>csv</ows:Value>
+          <ows:Value>csvzip</ows:Value>
+          <ows:Value>shp</ows:Value>
+          <ows:Value>csv_geom</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetPropertyValue">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+          <ows:Post xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="outputFormat">
+        <ows:AllowedValues>
+          <ows:Value>application/gml+xml; version=3.2</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.2.1</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.1.1</ows:Value>
+          <ows:Value>text/xml; subtype=gml/2.1.2</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="ListStoredQueries">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+          <ows:Post xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Operation name="DescribeStoredQueries">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+          <ows:Post xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Parameter name="version">
+      <ows:AllowedValues>
+        <ows:Value>2.0.0</ows:Value>
+        <ows:Value>1.1.0</ows:Value>
+        <ows:Value>1.0.0</ows:Value>
+      </ows:AllowedValues>
+    </ows:Parameter>
+    <ows:Constraint name="ImplementsBasicWFS">
+      <ows:NoValues/>
+      <ows:DefaultValue>TRUE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsTransactionalWFS">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsLockingWFS">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="KVPEncoding">
+      <ows:NoValues/>
+      <ows:DefaultValue>TRUE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="XMLEncoding">
+      <ows:NoValues/>
+      <ows:DefaultValue>TRUE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="SOAPEncoding">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsInheritance">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsRemoteResolve">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsResultPaging">
+      <ows:NoValues/>
+      <ows:DefaultValue>TRUE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsStandardJoins">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsSpatialJoins">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsTemporalJoins">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ImplementsFeatureVersioning">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="ManageStoredQueries">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="PagingIsTransactionSafe">
+      <ows:NoValues/>
+      <ows:DefaultValue>FALSE</ows:DefaultValue>
+    </ows:Constraint>
+    <ows:Constraint name="QueryExpressions">
+      <ows:AllowedValues>
+        <ows:Value>wfs:Query</ows:Value>
+        <ows:Value>wfs:StoredQuery</ows:Value>
+      </ows:AllowedValues>
+    </ows:Constraint>
+  </ows:OperationsMetadata>
+  <FeatureTypeList>
+    <FeatureType>
+      <Name>ms:lieuhabite</Name>
+      <Title>Lieu habité</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5049659996193 44.9920840005879</ows:LowerCorner>
+        <ows:UpperCorner>-57.1524880003336 62.4178750009239</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=lieuhabite"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:villagerelais</Name>
+      <Title>Village-relais</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.205796145996 45.0184908751269</ows:LowerCorner>
+        <ows:UpperCorner>-64.3855013282498 50.2762897965559</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=villagerelais"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:zpegt_cgt_s</Name>
+      <Title>Potentiel de glissement – Surface</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4982847730202 45.3454036483474</ows:LowerCorner>
+        <ows:UpperCorner>-63.5602429827616 50.2550670111328</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zpegt_cgt_s"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:zpegt_cgt_l</Name>
+      <Title>Potentiel de glissement – Ligne</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4981772483664 45.3482572509274</ows:LowerCorner>
+        <ows:UpperCorner>-63.5602429840417 50.254558805927</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zpegt_cgt_l"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:zpegt_index_cgt_s</Name>
+      <Title>Potentiel de glissement – Index</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.9822236162756 45.0345674651129</ows:LowerCorner>
+        <ows:UpperCorner>-63.5560711184712 50.4313672812588</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zpegt_index_cgt_s"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:stations_meteoroutieres</Name>
+      <Title>Station météoroutière - Année courante</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-80 40</ows:LowerCorner>
+        <ows:UpperCorner>-60 80</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=stations_meteoroutieres"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:histo_stations_meteoroutieres</Name>
+      <Title>Station météoroutière - Archive</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-80 40</ows:LowerCorner>
+        <ows:UpperCorner>-60 80</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=histo_stations_meteoroutieres"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:site_inv_geotech_p</Name>
+      <Title>Site d’investigation géotechnique</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4543259893529 45.0002676653206</ows:LowerCorner>
+        <ows:UpperCorner>-59.3205669916733 50.702208995249</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=site_inv_geotech_p"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:site_inv_geotech_bdg_p</Name>
+      <Title>Site d’investigation géotechnique BDG</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4834670912332 45.1857109019366</ows:LowerCorner>
+        <ows:UpperCorner>-63.7150497347574 50.2891273451509</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=site_inv_geotech_bdg_p"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:telephone_urg</Name>
+      <Title>Téléphone d’urgence</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-78.1227121506296 45.5451070177943</ows:LowerCorner>
+        <ows:UpperCorner>-66.1151523225113 53.361631463254</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=telephone_urg"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:circulation_routier</Name>
+      <Title>Débit de circulation</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.517714526815 44.9920755603886</ows:LowerCorner>
+        <ows:UpperCorner>-57.1074458323135 54.8607939999949</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=circulation_routier"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:aeroport</Name>
+      <Title>Aéroport</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4180558823633 45.0265481765522</ows:LowerCorner>
+        <ows:UpperCorner>-57.1861102935332 62.4164713857202</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=aeroport"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:liaison_maritime</Name>
+      <Title>Port - Liaison maritime</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-76.2288459871326 45.1233449702291</ows:LowerCorner>
+        <ows:UpperCorner>-56.7720904147245 51.4156473555794</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=liaison_maritime"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:parc_routier</Name>
+      <Title>Parc routier</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4376744468324 45.024472997373</ows:LowerCorner>
+        <ows:UpperCorner>-57.1082495755971 53.5645887459018</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=parc_routier"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:repere_km</Name>
+      <Title>Repère kilométrique</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5129703080494 45.0102815078393</ows:LowerCorner>
+        <ows:UpperCorner>-61.3066644205462 53.8116996034599</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=repere_km"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:zones_degel</Name>
+      <Title>Zone de dégel</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5176109010674 46.0635961233739</ows:LowerCorner>
+        <ows:UpperCorner>-56.94685485676 51.9999998224923</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zones_degel"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:zone_degel</Name>
+      <Title>Zone de dégel</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.7653243025564 44.9913583373254</ows:LowerCorner>
+        <ows:UpperCorner>-56.9349268615719 62.58246569539</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zone_degel"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:aeroport_piste</Name>
+      <Title>Aéroport - Piste</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4270664494407 45.0257756964198</ows:LowerCorner>
+        <ows:UpperCorner>-57.1813482835634 62.4206172437628</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=aeroport_piste"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:etablissement_mtq</Name>
+      <Title>Établissement</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4387937527034 45.1270768322391</ows:LowerCorner>
+        <ows:UpperCorner>-57.1881445671993 62.4154186723633</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=etablissement_mtq"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:reseau_chfer_qc</Name>
+      <Title>Réseau ferroviaire</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5175810593665 44.9976025470279</ows:LowerCorner>
+        <ows:UpperCorner>-63.4169093645194 54.8920506401807</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=reseau_chfer_qc"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:port_installation</Name>
+      <Title>Port - Installation</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-78.8930406286644 45.123046129672</ows:LowerCorner>
+        <ows:UpperCorner>-57.147463256347 62.4155411353198</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=port_installation"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:aq_camion</Name>
+      <Title>Réseau de camionnage</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.8822118487191 44.9295341151518</ows:LowerCorner>
+        <ows:UpperCorner>-55.8344297314516 62.4278557058922</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=aq_camion"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:sortie_aut</Name>
+      <Title>Sortie d’autoroute</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-75.9401822018548 45.0165124944965</ows:LowerCorner>
+        <ows:UpperCorner>-68.3508822208555 48.540976644382</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=sortie_aut"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:convivialite_velo</Name>
+      <Title>Convivialité des routes pour les cyclistes</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5177130909918 44.9920837671403</ows:LowerCorner>
+        <ows:UpperCorner>-57.1074458322973 62.4162898787608</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=convivialite_velo"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:iit_v_drang_condu_permn_ligne</Name>
+      <Title>Élément de drainage </Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.51484 44.9942709600195</ows:LowerCorner>
+        <ows:UpperCorner>-57.106981 62.1825319999912</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=iit_v_drang_condu_permn_ligne"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:refuge_route_blanche</Name>
+      <Title>Refuge de la Route blanche</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-82.5081837380717 41.3060343675665</ows:LowerCorner>
+        <ows:UpperCorner>-51.8188320741812 66.093347561749</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=refuge_route_blanche"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_route_blanche</Name>
+      <Title>Route blanche</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-61.278351003771 50.1919970901428</ows:LowerCorner>
+        <ows:UpperCorner>-57.1047400047407 51.5442349980084</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_route_blanche"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_mtq_annotation</Name>
+      <Title>Écusson</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5177130902139 44.9921057384621</ows:LowerCorner>
+        <ows:UpperCorner>-57.1047400047407 62.4208487869504</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_mtq_annotation"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_v_sous_route_res_sup_act_internet</Name>
+      <Title>Réseau routier supérieur</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5177130902139 44.9921057384621</ows:LowerCorner>
+        <ows:UpperCorner>-57.1047400047407 62.4208487869504</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_sous_route_res_sup_act_internet"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_v_dirct_genrl_geomt_act</Name>
+      <Title>Sous-ministériat aux territoires</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.7653243019311 44.9913583373896</ows:LowerCorner>
+        <ows:UpperCorner>-56.9349268611556 62.5824656955644</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_dirct_genrl_geomt_act"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_v_dirct_terrt_geomt_act</Name>
+      <Title>Direction générale</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.7653244994689 44.991358432911</ows:LowerCorner>
+        <ows:UpperCorner>-56.9349274666917 62.582466158354</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_dirct_terrt_geomt_act"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_v_centr_servc_geomt_act</Name>
+      <Title>Centre de services</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.7653244994689 44.991358432911</ows:LowerCorner>
+        <ows:UpperCorner>-56.9349274666917 62.582466158354</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_centr_servc_geomt_act"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:gsq_v_desc_strct_tri</Name>
+      <Title>Structure</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5144406289358 44.9950002341705</ows:LowerCorner>
+        <ows:UpperCorner>-57.1460836675064 58.6732277443582</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=gsq_v_desc_strct_tri"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:bgr_v_sous_route_res_sup_act</Name>
+      <Title>Réseau routier - RTSS</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5177130902139 44.9921057384621</ows:LowerCorner>
+        <ows:UpperCorner>-57.1047400047407 62.4208487869504</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_sous_route_res_sup_act"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:chantiers_mtmdet</Name>
+      <Title>Travaux routiers ↺</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.293902 45.083757</ows:LowerCorner>
+        <ows:UpperCorner>-61.474245 52.820487</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=chantiers_mtmdet"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:radars_photos</Name>
+      <Title>Radar photo</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-75.828313 45.063511</ows:LowerCorner>
+        <ows:UpperCorner>-70.17675 47.674182</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=radars_photos"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:evenements</Name>
+      <Title>Avertissement routier ↺</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.328866 45.439682</ows:LowerCorner>
+        <ows:UpperCorner>-64.59275 50.272555</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=evenements"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:evenements_inondation</Name>
+      <Title>Avertissement routier - Inondation (511) ↺</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.328866 45.439682</ows:LowerCorner>
+        <ows:UpperCorner>-64.59275 50.272555</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=evenements_inondation"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:conditions_routieres</Name>
+      <Title>Condition routière hivernale du réseau routier ↺</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.5176112104778 44.9925662110072</ows:LowerCorner>
+        <ows:UpperCorner>-57.1074458323134 52.8647169477161</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=conditions_routieres"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:infos_cameras</Name>
+      <Title>Caméra de circulation</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-75.97135 45.01267</ows:LowerCorner>
+        <ows:UpperCorner>-61.45509 52.81793</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=infos_cameras"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:e_rtss_c</Name>
+      <Title>e_rtss_c</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+        <Format>geopackage</Format>
+        <Format>application/geo+json</Format>
+        <Format>application/json</Format>
+        <Format>csv</Format>
+        <Format>csvzip</Format>
+        <Format>shp</Format>
+        <Format>csv_geom</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox dimensions="2">
+        <ows:LowerCorner>-79.4639549369418 44.4964361606807</ows:LowerCorner>
+        <ows:UpperCorner>-61.556273309993 50.9375869865795</ows:UpperCorner>
+      </ows:WGS84BoundingBox>
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=e_rtss_c"/>
+    </FeatureType>
+    <FeatureType>
+      <Name>ms:toponymie_structure</Name>
+      <Title>Structure avec toponyme officiel</Title>
+      <DefaultCRS>urn:ogc:def:crs:EPSG::3857</DefaultCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3798</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::3799</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::42105</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4326</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::4269</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32198</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32184</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32185</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32186</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32187</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32188</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32189</OtherCRS>
+      <OtherCRS>urn:ogc:def:crs:EPSG::32190</OtherCRS>
+      <OutputFormats>
+        <Format>application/gml+xml; version=3.2</Format>
+        <Format>text/xml; subtype=gml/3.2.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/2.1.2</Format>
+      </OutputFormats>
+      <ows:WGS84BoundingBox/>
+      <!--WARNING: Optional WGS84BoundingBox could not be established for this layer.  Consider setting the EXTENT in the LAYER object, or wfs_extent metadata. Also check that your data exists in the DATA statement-->
+      <MetadataURL xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=toponymie_structure"/>
+    </FeatureType>
+  </FeatureTypeList>
+  <fes:Filter_Capabilities>
+    <fes:Conformance>
+      <fes:Constraint name="ImplementsQuery">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsAdHocQuery">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsFunctions">
+        <ows:NoValues/>
+        <ows:DefaultValue>FALSE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsResourceId">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsMinStandardFilter">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsStandardFilter">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsMinSpatialFilter">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsSpatialFilter">
+        <ows:NoValues/>
+        <ows:DefaultValue>FALSE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsMinTemporalFilter">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsTemporalFilter">
+        <ows:NoValues/>
+        <ows:DefaultValue>FALSE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsVersionNav">
+        <ows:NoValues/>
+        <ows:DefaultValue>FALSE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsSorting">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsExtendedOperators">
+        <ows:NoValues/>
+        <ows:DefaultValue>FALSE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsMinimumXPath">
+        <ows:NoValues/>
+        <ows:DefaultValue>TRUE</ows:DefaultValue>
+      </fes:Constraint>
+      <fes:Constraint name="ImplementsSchemaElementFunc">
+        <ows:NoValues/>
+        <ows:DefaultValue>FALSE</ows:DefaultValue>
+      </fes:Constraint>
+    </fes:Conformance>
+    <fes:Id_Capabilities>
+      <fes:ResourceIdentifier name="fes:ResourceId"/>
+    </fes:Id_Capabilities>
+    <fes:Scalar_Capabilities>
+      <fes:LogicalOperators/>
+      <fes:ComparisonOperators>
+        <fes:ComparisonOperator name="PropertyIsEqualTo"/>
+        <fes:ComparisonOperator name="PropertyIsNotEqualTo"/>
+        <fes:ComparisonOperator name="PropertyIsLessThan"/>
+        <fes:ComparisonOperator name="PropertyIsGreaterThan"/>
+        <fes:ComparisonOperator name="PropertyIsLessThanOrEqualTo"/>
+        <fes:ComparisonOperator name="PropertyIsGreaterThanOrEqualTo"/>
+        <fes:ComparisonOperator name="PropertyIsLike"/>
+        <fes:ComparisonOperator name="PropertyIsBetween"/>
+      </fes:ComparisonOperators>
+    </fes:Scalar_Capabilities>
+    <fes:Spatial_Capabilities>
+      <fes:GeometryOperands>
+        <fes:GeometryOperand name="gml:Point"/>
+        <fes:GeometryOperand name="gml:MultiPoint"/>
+        <fes:GeometryOperand name="gml:LineString"/>
+        <fes:GeometryOperand name="gml:MultiLineString"/>
+        <fes:GeometryOperand name="gml:Curve"/>
+        <fes:GeometryOperand name="gml:MultiCurve"/>
+        <fes:GeometryOperand name="gml:Polygon"/>
+        <fes:GeometryOperand name="gml:MultiPolygon"/>
+        <fes:GeometryOperand name="gml:Surface"/>
+        <fes:GeometryOperand name="gml:MultiSurface"/>
+        <fes:GeometryOperand name="gml:Box"/>
+        <fes:GeometryOperand name="gml:Envelope"/>
+      </fes:GeometryOperands>
+      <fes:SpatialOperators>
+        <fes:SpatialOperator name="Equals"/>
+        <fes:SpatialOperator name="Disjoint"/>
+        <fes:SpatialOperator name="Touches"/>
+        <fes:SpatialOperator name="Within"/>
+        <fes:SpatialOperator name="Overlaps"/>
+        <fes:SpatialOperator name="Crosses"/>
+        <fes:SpatialOperator name="Intersects"/>
+        <fes:SpatialOperator name="Contains"/>
+        <fes:SpatialOperator name="DWithin"/>
+        <fes:SpatialOperator name="Beyond"/>
+        <fes:SpatialOperator name="BBOX"/>
+      </fes:SpatialOperators>
+    </fes:Spatial_Capabilities>
+    <fes:Temporal_Capabilities>
+      <fes:TemporalOperands>
+        <fes:TemporalOperand name="gml:TimePeriod"/>
+        <fes:TemporalOperand name="gml:TimeInstant"/>
+      </fes:TemporalOperands>
+      <fes:TemporalOperators>
+        <fes:TemporalOperator name="During"/>
+      </fes:TemporalOperators>
+    </fes:Temporal_Capabilities>
+  </fes:Filter_Capabilities>
+</wfs:WFS_Capabilities>
