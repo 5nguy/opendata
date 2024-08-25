@@ -1,0 +1,56 @@
+groupe,poste,DESCRIPTION
+CP,PFRAT0111,RFU par unité d'évaluation imposable et compensable
+CP,PRC1410,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+CP,PRC1510,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+CP,PRC1610,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+CP,PRC2010,Évaluation moyenne uniformisée par logement
+CP,PRC2210,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+CP,PRC2310,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+MAR,PFRAT0121,RFU par unité d'évaluation imposable et compensable
+MAR,PRC1420,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+MAR,PRC1520,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+MAR,PRC1620,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+MAR,PRC2020,Évaluation moyenne uniformisée par logement
+MAR,PRC2220,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+MAR,PRC2320,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+MUNICI,IND0102,Indice RFU par unité d'évaluation imposable et compensable
+MUNICI,PRC1400,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+MUNICI,PRC1401,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables - agglomération
+MUNICI,PRC1500,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+MUNICI,PRC1501,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables - agglomération
+MUNICI,PRC1600,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+MUNICI,PRC1601,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables - agglomération
+MUNICI,PRC2000,Évaluation moyenne uniformisée par logement
+MUNICI,PRC2200,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+MUNICI,PRC2201,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables - agglomération
+MUNICI,PRC2300,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+MUNICI,PRR0202,Évaluation imposable uniformisée résidentielle
+MUNICI,PRR0203,Évaluation imposable uniformisée résidentielle - agglomération
+MUNICI,RAT0130,RFU par unité d'évaluation imposable et compensable
+MUNICI,RAT0131,RFU par unité d'évaluation imposable et compensable - agglomération
+MUNICI,RFU0400,Évaluation imposable uniformisée industrielle et commerciale
+MUNICI,RFU0401,Évaluation imposable uniformisée industrielle et commerciale - agglomération
+MUNICI,RFU0500,Évaluation imposable uniformisée agricole
+MUNICI,RFU0501,Évaluation imposable uniformisée agricole - agglomération
+MUNICI,RFU0600,Évaluation imposable uniformisée autre
+MUNICI,RFU0601,Évaluation imposable uniformisée autre - agglomération
+MUNICI,RFU0700,Évaluation uniformisée des immeubles imposables
+MUNICI,RFU0702,Évaluation uniformisée des immeubles imposables - agglomération
+MUNICI,RFU3000,Richesse foncière uniformisée (RFU)
+MUNICI,RFU3001,Richesse foncière uniformisée (RFU) - agglomération
+MUNICI,RFU3002,Nombre d'unité d'évaluation imposable et compensable
+MUNICI,RFU3003,Nombre d'unité d'évaluation imposable et compensable - agglomération
+PROV,PFRAT0151,RFU par unité d'évaluation imposable et compensable
+PROV,PRC1450,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+PROV,PRC1550,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+PROV,PRC1650,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+PROV,PRC2050,Évaluation moyenne uniformisée par logement
+PROV,PRC2250,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+PROV,PRC2350,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
+RAD,PFRAT0171,RFU par unité d'évaluation imposable et compensable
+RAD,PRC1470,Évaluation imposable uniformisée résidentielle / Évaluation uniformisée des immeubles imposables
+RAD,PRC1570,Évaluation imposable uniformisée industrielle et commerciale / Évaluation uniformisée des immeubles imposables
+RAD,PRC1670,Évaluation imposable uniformisée agricole / Évaluation uniformisée des immeubles imposables
+RAD,PRC2070,Évaluation moyenne uniformisée par logement
+RAD,PRC2270,Évaluation imposable uniformisée autre / Évaluation uniformisée des immeubles imposables
+RAD,PRC2370,Évaluation moyenne uniformisée des résidences d'un logement (incluant condominiums)
