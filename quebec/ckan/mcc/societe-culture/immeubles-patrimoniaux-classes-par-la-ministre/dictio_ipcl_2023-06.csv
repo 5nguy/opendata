@@ -1,0 +1,37 @@
+Champ,type_prioritaire,Description,ipcl.csv,immeubles classes_pT.geojson,terrains_proteges_pG.geojson,aires_protection_pG.geojson,Liste_valeur
+nom_bien,Texte,Nom du bien,x,x,x,x,
+bien_id,Texte,NumÃ©ro d'identification unique du bien,x,x,x,x,
+url_rpcq,URL,Lien URL du bien au RÃ©pertoire du patrimoine culturel du QuÃ©bec,x,x,x,x,
+description_bien,Texte,Description sommaire du bien,x,x,,,
+synthese_historique,Texte,SynthÃ¨se historique du bien,x,x,,,
+statut_juridique_princ,CatÃ©gorielle,Statut juridique principal du bien en fonction de la Loi sur le patrimoine culturel,x,x,,,Classement
+date_attri_stat_jurid_princ,Date,Date dâattribution du statut juridique principal,x,x,,,
+categorie,CatÃ©gorielle,CatÃ©gorie du statut juridique du bien ,x,x,,,Immeuble patrimonial
+autorite_protection,CatÃ©gorielle,AutoritÃ© ayant attribuÃ© le statut juridique,x,x,,,Ministre de la Culture et des Communications
+Wkt_Multipoint_XY,GÃ©omÃ©trie,Localisation gÃ©ographique ponctuelle (Latitude-Longitude) des immeubles classÃ© en format Â«Â Well-known textÂ Â» (WKT) Multipoint,x,x,,,
+no_regn_admin,CatÃ©gorielle,NumÃ©ro de la rÃ©gion administrative oÃ¹ se situe le bien,x,x,x,x,01 Ã  17
+region_admin,CatÃ©gorielle,Nom de la rÃ©gion administrative oÃ¹ se situe le bien,x,x,x,x,
+municipalite,CatÃ©gorielle,Nom de la municipalitÃ© oÃ¹ se situe le bien,x,x,x,x,
+adresse,Texte,Adresse actuelle du bien,x,x,x,,
+debut_construction,Texte,Date de dÃ©but de la construction du bien,x,x,,,
+fin_construction,Texte,Date de fin de la construction du bien,x,x,,,
+usage_princ,CatÃ©gorielle,CatÃ©gorie fonctionnelle du bien,x,x,,,"divers, multiple"
+sous_usage,CatÃ©gorielle,Sous-catÃ©gorie fonctionnelle du bien,x,x,,,"divers, multiple"
+detenteur_photo,Texte,Nom du dÃ©tenteur des droits de la photographie,x,x,,,
+auteur_photo,Texte,Nom de l'auteur de la photographie,x,x,,,
+licence_photo,CatÃ©gorielle,Type de licence de droit d'utilisation de la photographie,x,x,,,
+date_licence_photo,Texte,AnnÃ©e d'entrÃ©e en vigueur de la licence de droit d'utilisation de la photographie,x,x,,,
+url_photo,URL,Lien URL de la photographie au RÃ©pertoire du patrimone culturel du QuÃ©bec,x,x,,,
+terrain_protege_situation,CatÃ©gorielle,Indicateur de protection du terrain associÃ© au bien,x,x,x,,"[Terrain protÃ©gÃ©]Â : le terrain de lâimmeuble est protÃ©gÃ© 
+[non]Â : le terrain nâest pas visÃ© par la protection"
+maj_pg_terrain_protege,CatÃ©gorielle,Ãtat de la disponibilitÃ©/diffusion du polygone (pg) du terrain protÃ©gÃ©,x,,x,,"[Pg prÃ©sent]Â : la dÃ©limitation du terrain est disponible (voir Wkt_Pg_terrain_protege)
+[Pg rÃ©visÃ©]Â : la reprÃ©sentation gÃ©omÃ©trique du polygone Ã  rÃ©cement Ã©tÃ© amÃ©liorÃ©
+[Pg Ã  venir]Â : le polygone nâa pas Ã©tÃ© produit Ã  ce jour
+[s.o.]Â : sans objet, le terrain de lâimmeuble ne bÃ©nÃ©ficie pas dâune protection."
+Wkt_Pg_terrain_protege,GÃ©omÃ©trie,DÃ©limitation (polygonale) du terrain protÃ©gÃ© de lâimmeuble classÃ© en format Â«Â Well-known textÂ Â» (WKT) Multipolygone,x,,x,,
+aire_de_protection_situation,CatÃ©gorielle,Indicateur de prÃ©sence dâune dÃ©limitation dâaire de protection associÃ© au bien,x,x,x,x,"[Aire de protection]Â : lâimmeuble bÃ©nÃ©ficie dâune aire de protection (voir Wkt_pg_aire_de_protection)
+[s.o.]Â : sans objet, lâimmeuble ne bÃ©nÃ©ficie pas dâune aire de protection"
+maj_pg_aire_de_protection,CatÃ©gorielle,Version de la reprÃ©sentation de lâaire de protection diffusÃ©e,x,,,x,
+Wkt_pg_aire_de_protection,GÃ©omÃ©trie,DÃ©limitation (polygonale) de lâaire de protection de lâimmeuble classÃ© en format Â«Â Well-known textÂ Â» (WKT) Multipolygone,x,,,x,
+date_attri_aire_protection,date,Date dâattribution du statut juridique de la dÃ©limitation de lâaire de protection de lâimmeuble classÃ©,x,,,x,
+version,date,Date des donnÃ©es sources au RÃ©pertoire du patrimoine culturel du QuÃ©bec,x,x,x,x,

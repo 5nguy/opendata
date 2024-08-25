@@ -1,0 +1,30 @@
+Champ,type_prioritaire,Description,Liste_valeur
+nom_bien,Texte,Nom du bien,
+bien_id,Texte,NumÃ©ro d'identification unique du bien,
+url_rpcq,URL,Lien URL du bien au RÃ©pertoire du patrimoine culturel du QuÃ©bec,
+description_bien,Texte,Description sommaire du bien,
+synthese_historique,Texte,SynthÃ¨se historique du bien,
+statut_juridique_princ,CatÃ©gorielle,Statut juridique principal du bien en fonction de la Loi sur le patrimoine culturel,Classement
+date_attri_stat_jurid_princ,Date,Date dâattribution du statut juridique principal,
+categorie,CatÃ©gorielle,CatÃ©gorie du statut juridique du bien ,Site patrimonial
+autorite_protection,CatÃ©gorielle,AutoritÃ© ayant attribuÃ© le statut juridique,Ministre de la Culture et des Communications
+Wkt_Multipoint_XY,GÃ©omÃ©trie,Localisation gÃ©ographique ponctuelle (Latitude-Longitude) du site classÃ© en format Â«Â Well-known textÂ Â» (WKT) Multipoint,
+no_regn_admin,CatÃ©gorielle,NumÃ©ro de la rÃ©gion administrative oÃ¹ se situe le bien,01 Ã  17
+region_admin,CatÃ©gorielle,Nom de la rÃ©gion administrative oÃ¹ se situe le bien,
+municipalite,CatÃ©gorielle,Nom de la municipalitÃ© oÃ¹ se situe le bien,
+adresse,Texte,Adresse actuelle du bien,
+debut_construction,Texte,Date de dÃ©but de la construction du bien,
+fin_construction,Texte,Date de fin de la construction du bien,
+usage_princ,CatÃ©gorielle,CatÃ©gorie fonctionnelle du bien,"divers, multiple"
+sous_usage,CatÃ©gorielle,Sous-catÃ©gorie fonctionnelle du bien,"divers, multiple"
+detenteur_photo,Texte,Nom du dÃ©tenteur des droits de la photographie,
+auteur_photo,Texte,Nom de l'auteur de la photographie,
+licence_photo,CatÃ©gorielle,Type de licence de droit d'utilisation de la photographie,
+date_licence_photo,Texte,AnnÃ©e d'entrÃ©e en vigueur de la licence de droit d'utilisation de la photographie,
+url_photo,URL,Lien URL de la photographie au RÃ©pertoire du patrimone culturel du QuÃ©bec,
+Wkt_pg_site_classe,GÃ©omÃ©trie,DÃ©limitation (polygonale) du pÃ©rimÃ¨tre du site classÃ© en format Â«Â Well-known textÂ Â» (WKT) Multipolygone,
+maj_pg_site_classe,CatÃ©gorielle,Ãtat de la disponibilitÃ©/diffusion/revision du polygone (pg) dÃ©limitant le pÃ©rimÃ¨tre du site classÃ©,"[oui]Â : la reprÃ©sentation gÃ©omÃ©trique du polygone Ã  rÃ©cement Ã©tÃ© amÃ©liorÃ©
+[en cours]Â : la rÃ©vision du polygone nâa pas Ã©tÃ© complÃ©tÃ©
+[non]Â : la rÃ©vision du polygone nâa pas Ã©tÃ© effectuÃ©
+[s.o.]Â : sans objet, la localisation du site est confidentielle"
+version_wkt_pg_date,date,Date de la version de la gÃ©omÃ©trie du pÃ©rimÃ¨tre du site (Wkt_pg_site_classe),

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="site_patrimonial_national_s_reencode_merge" id="site_patrimonial_national_s_reencode_merge">
+	<SimpleField name="nom_bien" type="string"></SimpleField>
+	<SimpleField name="bien_id" type="string"></SimpleField>
+	<SimpleField name="url_rpcq" type="string"></SimpleField>
+	<SimpleField name="description_bien" type="string"></SimpleField>
+	<SimpleField name="synthese_historique" type="string"></SimpleField>
+	<SimpleField name="statut_juridique" type="string"></SimpleField>
+	<SimpleField name="date_attribution_stat_jurid_principal_actuel" type="string"></SimpleField>
+	<SimpleField name="categorie" type="string"></SimpleField>
+	<SimpleField name="autorite" type="string"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="no_region_admin" type="string"></SimpleField>
+	<SimpleField name="region_admin" type="string"></SimpleField>
+	<SimpleField name="municipalite" type="string"></SimpleField>
+	<SimpleField name="adresse" type="string"></SimpleField>
+	<SimpleField name="debut_constrution" type="float"></SimpleField>
+	<SimpleField name="fin_construction" type="string"></SimpleField>
+	<SimpleField name="usage" type="string"></SimpleField>
+	<SimpleField name="sous_usage" type="string"></SimpleField>
+	<SimpleField name="detenteur_photo" type="string"></SimpleField>
+	<SimpleField name="auteur_photo" type="string"></SimpleField>
+	<SimpleField name="licence_photo" type="string"></SimpleField>
+	<SimpleField name="date_licence_photo" type="string"></SimpleField>
+	<SimpleField name="url_photo" type="string"></SimpleField>
+</Schema>
+<Folder><name>site_patrimonial_national_s_reencode_merge</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#site_patrimonial_national_s_reencode_merge">
+		<SimpleData name="nom_bien">Assemblée nationale du Québec</SimpleData>
+		<SimpleData name="bien_id">93579</SimpleData>
+		<SimpleData name="url_rpcq">http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&amp;id=93579&amp;type=bien</SimpleData>
+		<SimpleData name="description_bien">L'Assemblée nationale du Québec est un ensemble institutionnel érigé en plusieurs étapes à partir de 1877. Le site comprend l'Hôtel du Parlement (1877-1886), l'édifice Pamphile-Le May (1910-1915), l'édifice du restaurant Le Parlementaire (1912-1917), l'édifice Honoré-Mercier (1922-1925), l'édifice Jean-Antoine-Panet (1931-1932) et l'édifice André-Laurendeau (1934-1937). L'Hôtel du Parlement, dominé par une tour de huit étages, est une construction de style Second Empire formée de quatre corps de bâtiment (le Palais législatif et les trois ailes) autour d'une cour intérieure, tandis que les autres édifices s'inscrivent dans la tradition de l'architecture Beaux-Arts. Ces bâtiments, de plan carré ou rectangulaire, comptent de trois à neuf étages. Ils sont en pierre de taille, à l'exception de l'édifice du restaurant Le Parlementaire, situé dans la cour intérieure de l'Hôtel du Parlement. Des passerelles aériennes les relient.Une partie du site est ceinturée par un muret en granit gris. Le terrain est agrémenté d'arbres, d'aménagements paysagers, d'allées, de statues et de monuments. Il inclut une partie de la place de l'Assemblée-Nationale, qui s'étend devant l'Hôtel du Parlement, et une partie de la promenade des Premiers-Ministres.L'Assemblée nationale du Québec est située dans la ville de Québec, sur la colline Parlementaire, dans le périmètre formé par le boulevard René-Lévesque Est, l'avenue Honoré-Mercier, la Grande Allée Est, la rue des Parlementaires, la rue Saint-Amable et la rue Louis-Alexandre-Taschereau.Ce bien est déclaré site patrimonial national. Deux sites inscrits à l'Inventaire des sites archéologiques du Québec sont associés au lieu.L'Assemblée nationale du Québec est également le lieu de conservation de la collection Pierre-Joseph-Olivier-Chauveau, classée document patrimonial.</SimpleData>
+		<SimpleData name="synthese_historique">L'Assemblée nationale du Québec est le symbole de l'État du Québec et de ses institutions démocratiques. Leur origine remonte à 1791, alors que le régime parlementaire britannique est instauré dans le Bas-Canada et que la capitale est installée à Québec. À la suite de l'Acte d'Union en 1841, la capitale devient itinérante. Québec accueille les parlementaires de 1852 à 1855 et de 1860 à 1865. Pendant toutes ces années, les députés siègent dans un édifice situé côte de la Montagne, à l'endroit de l'actuel parc Montmorency.En 1867, l'Acte de l'Amérique du Nord britannique est sanctionné. La ville de Québec devient la capitale de la province qui porte son nom. Le siège du gouvernement provincial et les départements (ministères) s'installent dans l'ancien parlement. Dès 1869, on songe à la construction d'un nouveau bâtiment.Le gouvernement choisit d'abord l'emplacement de l'actuel hôtel de ville. Eugène-Étienne Taché (1836-1912), commissaire adjoint au département des Terres de la Couronne, présente ses plans en 1875. L'année suivante, la province fait l'acquisition du Cricket Field, situé à l'extérieur des fortifications. Taché adapte son projet au nouveau site et dépose des plans définitifs en 1877 et 1883.L'Hôtel du Parlement est construit en deux temps, entre 1877 et 1886. Les trois ailes destinées à accueillir les bureaux de l'exécutif, du lieutenant-gouverneur et des départements sont érigées entre 1877 et 1880. Le Palais législatif, qui doit loger l'Assemblée législative et le Conseil législatif, est élevé de 1883 à 1886. En 1885, les parlementaires siègent dans le nouvel édifice. Trois ans plus tard, l'horloge de la tour est fabriquée et installée par Cyrille Duquet (1841-1922), un horloger-bijoutier de Québec.Pour l'Hôtel du Parlement, Taché met en branle un vaste programme commémoratif. Sa réalisation va s'étirer jusqu'en 1969 et fera appel à des sculpteurs de renom. En 1912, ce programme s'étend au terrain avec la mise en place d'une première statue.Entre 1910 et 1925, le gouvernement aménage une cité administrative pavillonnaire autour de l'Hôtel du Parlement pour accueillir les effectifs croissants des ministères. L'homme politique Louis-Alexandre Taschereau (1867-1952) est à l'origine de la construction des bâtiments. Le premier est l'édifice Pamphile-Le May, conçu pour abriter la bibliothèque du Parlement et bâti de 1910 à 1915 selon les plans des architectes Jean-Omer Marchand (1873-1936) et Georges-Émile Tanguay (1857-1923). Ceux-ci réalisent aussi l'édifice du restaurant Le Parlementaire, qui est érigé de 1912 à 1917 dans la cour de l'Hôtel du Parlement pour loger les systèmes de chauffage et d'électricité et un restaurant. Enfin, l'édifice Honoré-Mercier est élevé de 1922 à 1925 selon les plans de l'architecte Raoul Chênevert (1889-1951). Il abritera notamment les bureaux du premier ministre jusqu'en 1972.En 1930, Chênevert propose un plan pour agrandir la cité parlementaire avec trois nouveaux édifices. Seulement deux bâtiments seront érigés selon les plans d'autres architectes. L'édifice Jean-Antoine-Panet est construit en 1931 et 1932 afin d'accueillir le ministère de l'Agriculture et l'édifice André-Laurendeau est bâti de 1934 à 1937 pour loger le ministère de la Voirie.Le 21 janvier 1948, le fleurdelisé devient le drapeau officiel du Québec et est hissé pour la première fois sur le mât de l'Hôtel du Parlement. Vingt ans plus tard, le Conseil législatif est aboli et l'Assemblée législative devient l'Assemblée nationale du Québec.L'Assemblée nationale est déclarée site historique national en 1985. Ce bien est devenu un site patrimonial national à l'entrée en vigueur de la Loi sur le patrimoine culturel en 2012. Au même moment, le périmètre du site est agrandi afin d'inclure les édifices Jean-Antoine-Panet et André-Laurendeau.Source : Répertoire du patrimoine culturel du Québec (www.patrimoine-culturel.gouv.qc.ca)</SimpleData>
+		<SimpleData name="statut_juridique">Déclaration par la Loi sur le patrimoine culturel</SimpleData>
+		<SimpleData name="date_attribution_stat_jurid_principal_actuel">2012-10-19</SimpleData>
+		<SimpleData name="categorie">Site patrimonial national</SimpleData>
+		<SimpleData name="autorite">Gouvernement du Québec</SimpleData>
+		<SimpleData name="latitude">46.809222</SimpleData>
+		<SimpleData name="longitude">-71.213222</SimpleData>
+		<SimpleData name="no_region_admin">03</SimpleData>
+		<SimpleData name="region_admin">Capitale-Nationale</SimpleData>
+		<SimpleData name="municipalite">Québec</SimpleData>
+		<SimpleData name="adresse">rue des Parlementaires</SimpleData>
+		<SimpleData name="debut_constrution">1877</SimpleData>
+		<SimpleData name="fin_construction">NULL</SimpleData>
+		<SimpleData name="usage">Services et institutions</SimpleData>
+		<SimpleData name="sous_usage">Hôtel du Parlement et ministères</SimpleData>
+		<SimpleData name="detenteur_photo">NULL</SimpleData>
+		<SimpleData name="auteur_photo">NULL</SimpleData>
+		<SimpleData name="licence_photo">NULL</SimpleData>
+		<SimpleData name="date_licence_photo">NULL</SimpleData>
+		<SimpleData name="url_photo">NULL</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.215790781785898,46.809475749840928 -71.214343312244736,46.810067881080883 -71.214276761921013,46.810096348764702 -71.213769315702535,46.810307009156872 -71.213521627267923,46.810188499094039 -71.213119275382823,46.809835692048182 -71.213042800352284,46.809709696423781 -71.213056415793744,46.809684943016101 -71.213076138780139,46.80960384735711 -71.213050022444278,46.809499678555518 -71.212936625118971,46.809387231941798 -71.212724721539828,46.809320608780126 -71.212542252216281,46.809331294949189 -71.212151513896174,46.808989862108291 -71.214339487334499,46.807682130670749 -71.214444424507207,46.807735689279973 -71.214496172522686,46.807783101577293 -71.214633199106174,46.807908647158463 -71.214735556211053,46.808037503356985 -71.214905571864819,46.808253436681639 -71.21503679889193,46.808209420613835 -71.215036561549354,46.808182890642463 -71.215054828360437,46.808165849283654 -71.215125055206755,46.808131192914743 -71.215182316364704,46.808107480070596 -71.215225094829748,46.808081824086507 -71.21525977439866,46.808064709920146 -71.215297832600271,46.808045928411822 -71.215358986760222,46.808020703882718 -71.215381249586954,46.8080231306512 -71.215417580969344,46.808048342969514 -71.215470447562282,46.808099411614045 -71.215506116763521,46.808144608456402 -71.215610692917096,46.808284192952335 -71.215813585749046,46.808558720101921 -71.216247514389551,46.809145448079335 -71.216334983476514,46.809270539545466 -71.216169272364738,46.809327248273185 -71.216064612715172,46.809375002944904 -71.215790781785898,46.809475749840928</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
