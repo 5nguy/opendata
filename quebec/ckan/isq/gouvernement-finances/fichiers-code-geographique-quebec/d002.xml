@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Date de l'image de la banque de données : 2024-06-30 -->
+<!-- Date de l'image de la banque de données : 2024-07-31 -->
 <Municipalites>
 	<Municipalite>
 		<Code_municipalite_provenance>5618</Code_municipalite_provenance>
@@ -36774,25 +36774,6 @@
 		<Date_incorportation>19720115</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
 		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31H12W</Ref_cartographique>
-		<Latitude >45° 34' </Latitude>
-		<Longitude>73° 54' </Longitude>
-		<Superficie_terre_km2>70.525</Superficie_terre_km2>
-		<Superficie_totale_km2>70.525</Superficie_totale_km2>
-		<Ref_juridique_transformation>G84-18</Ref_juridique_transformation>
-		<Date_transformation>19840505</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>73180</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.23</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>73120</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Saint-Eustache</Nom_municipalite>
-		<Population_estimee>0</Population_estimee>
-		<Date_incorportation>19720115</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
 		<Ref_cartographique></Ref_cartographique>
 		<Latitude ></Latitude>
 		<Longitude></Longitude>
@@ -36803,6 +36784,25 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>73180</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.19</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>73120</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Saint-Eustache</Nom_municipalite>
+		<Population_estimee>0</Population_estimee>
+		<Date_incorportation>19720115</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31H12W</Ref_cartographique>
+		<Latitude >45° 34' </Latitude>
+		<Longitude>73° 54' </Longitude>
+		<Superficie_terre_km2>70.525</Superficie_terre_km2>
+		<Superficie_totale_km2>70.525</Superficie_totale_km2>
+		<Ref_juridique_transformation>G84-18</Ref_juridique_transformation>
+		<Date_transformation>19840505</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>73180</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.23</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>73180</Code_municipalite_provenance>
@@ -37382,25 +37382,6 @@
 		<Date_incorportation>18550701</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
 		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique></Ref_cartographique>
-		<Latitude ></Latitude>
-		<Longitude></Longitude>
-		<Superficie_terre_km2>15.11</Superficie_terre_km2>
-		<Superficie_totale_km2>15.11</Superficie_totale_km2>
-		<Ref_juridique_transformation>G84-36</Ref_juridique_transformation>
-		<Date_transformation>19840908</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>65660</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>65600</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Kirkland</Nom_municipalite>
-		<Population_estimee>0</Population_estimee>
-		<Date_incorportation>18550701</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
 		<Ref_cartographique>31H05W</Ref_cartographique>
 		<Latitude >45° 27' </Latitude>
 		<Longitude>73° 52' </Longitude>
@@ -37413,22 +37394,22 @@
 		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
-		<Code_municipalite_provenance>65660</Code_municipalite_provenance>
+		<Code_municipalite_provenance>65600</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Sainte-Anne-de-Bellevue</Nom_municipalite>
+		<Nom_municipalite>Kirkland</Nom_municipalite>
 		<Population_estimee>0</Population_estimee>
-		<Date_incorportation>18780418</Date_incorportation>
+		<Date_incorportation>18550701</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
 		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31H05W</Ref_cartographique>
-		<Latitude >45° 25' </Latitude>
-		<Longitude>73° 56' </Longitude>
-		<Superficie_terre_km2>15.119</Superficie_terre_km2>
-		<Superficie_totale_km2>15.119</Superficie_totale_km2>
+		<Ref_cartographique></Ref_cartographique>
+		<Latitude ></Latitude>
+		<Longitude></Longitude>
+		<Superficie_terre_km2>15.11</Superficie_terre_km2>
+		<Superficie_totale_km2>15.11</Superficie_totale_km2>
 		<Ref_juridique_transformation>G84-36</Ref_juridique_transformation>
 		<Date_transformation>19840908</Date_transformation>
 		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>65600</Code_municipalite_destination>
+		<Code_municipalite_destination>65660</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
@@ -37447,6 +37428,25 @@
 		<Ref_juridique_transformation>G84-36</Ref_juridique_transformation>
 		<Date_transformation>19840908</Date_transformation>
 		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>65600</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>65660</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Sainte-Anne-de-Bellevue</Nom_municipalite>
+		<Population_estimee>0</Population_estimee>
+		<Date_incorportation>18780418</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31H05W</Ref_cartographique>
+		<Latitude >45° 25' </Latitude>
+		<Longitude>73° 56' </Longitude>
+		<Superficie_terre_km2>15.119</Superficie_terre_km2>
+		<Superficie_totale_km2>15.119</Superficie_totale_km2>
+		<Ref_juridique_transformation>G84-36</Ref_juridique_transformation>
+		<Date_transformation>19840908</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>65600</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
 	</Municipalite>
@@ -38263,7 +38263,7 @@
 		<Superficie_totale_km2>83.321</Superficie_totale_km2>
 		<Ref_juridique_transformation>G85-13</Ref_juridique_transformation>
 		<Date_transformation>19850330</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>20350</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
 	</Municipalite>
@@ -38282,7 +38282,7 @@
 		<Superficie_totale_km2>83.321</Superficie_totale_km2>
 		<Ref_juridique_transformation>G85-13</Ref_juridique_transformation>
 		<Date_transformation>19850330</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>20350</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
 	</Municipalite>
@@ -38981,13 +38981,13 @@
 		<Ref_cartographique>31H11W</Ref_cartographique>
 		<Latitude >45° 32' </Latitude>
 		<Longitude>73° 17' </Longitude>
-		<Superficie_terre_km2>34.835</Superficie_terre_km2>
-		<Superficie_totale_km2>34.835</Superficie_totale_km2>
+		<Superficie_terre_km2>34.82</Superficie_terre_km2>
+		<Superficie_totale_km2>34.82</Superficie_totale_km2>
 		<Ref_juridique_transformation>G85-45</Ref_juridique_transformation>
 		<Date_transformation>19851109</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>56310</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.02</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.01</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>56280</Code_municipalite_provenance>
@@ -39000,13 +39000,13 @@
 		<Ref_cartographique>31H11W</Ref_cartographique>
 		<Latitude >45° 32' </Latitude>
 		<Longitude>73° 17' </Longitude>
-		<Superficie_terre_km2>34.82</Superficie_terre_km2>
-		<Superficie_totale_km2>34.82</Superficie_totale_km2>
+		<Superficie_terre_km2>34.835</Superficie_terre_km2>
+		<Superficie_totale_km2>34.835</Superficie_totale_km2>
 		<Ref_juridique_transformation>G85-45</Ref_juridique_transformation>
 		<Date_transformation>19851109</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>56310</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.01</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.02</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>56310</Code_municipalite_provenance>
@@ -39171,13 +39171,13 @@
 		<Ref_cartographique>31G08E</Ref_cartographique>
 		<Latitude >45° 30' </Latitude>
 		<Longitude>74° 05' </Longitude>
-		<Superficie_terre_km2>54.324</Superficie_terre_km2>
-		<Superficie_totale_km2>54.324</Superficie_totale_km2>
+		<Superficie_terre_km2>62.535</Superficie_terre_km2>
+		<Superficie_totale_km2>62.535</Superficie_totale_km2>
 		<Ref_juridique_transformation>G85-51</Ref_juridique_transformation>
 		<Date_transformation>19851221</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>73380</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.005</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.006</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>73420</Code_municipalite_provenance>
@@ -39190,13 +39190,13 @@
 		<Ref_cartographique>31G08E</Ref_cartographique>
 		<Latitude >45° 30' </Latitude>
 		<Longitude>74° 05' </Longitude>
-		<Superficie_terre_km2>62.535</Superficie_terre_km2>
-		<Superficie_totale_km2>62.535</Superficie_totale_km2>
+		<Superficie_terre_km2>54.324</Superficie_terre_km2>
+		<Superficie_totale_km2>54.324</Superficie_totale_km2>
 		<Ref_juridique_transformation>G85-51</Ref_juridique_transformation>
 		<Date_transformation>19851221</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>73380</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.006</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.005</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>75700</Code_municipalite_provenance>
@@ -44571,9 +44571,9 @@
 		<Superficie_totale_km2>2.693</Superficie_totale_km2>
 		<Ref_juridique_transformation>G87-41</Ref_juridique_transformation>
 		<Date_transformation>19871010</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>42340</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.003</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>42300</Code_municipalite_provenance>
@@ -44590,9 +44590,9 @@
 		<Superficie_totale_km2>2.693</Superficie_totale_km2>
 		<Ref_juridique_transformation>G87-41</Ref_juridique_transformation>
 		<Date_transformation>19871010</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>42340</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.003</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>42340</Code_municipalite_provenance>
@@ -47493,13 +47493,13 @@
 		<Ref_cartographique>21L04W</Ref_cartographique>
 		<Latitude >46° 02' </Latitude>
 		<Longitude>71° 55' </Longitude>
-		<Superficie_terre_km2>8.839</Superficie_terre_km2>
-		<Superficie_totale_km2>8.839</Superficie_totale_km2>
+		<Superficie_terre_km2>8.923</Superficie_terre_km2>
+		<Superficie_totale_km2>8.923</Superficie_totale_km2>
 		<Ref_juridique_transformation>G90-03</Ref_juridique_transformation>
 		<Date_transformation>19900120</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>34460</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.066</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.084</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>34320</Code_municipalite_provenance>
@@ -47512,13 +47512,13 @@
 		<Ref_cartographique>21L04W</Ref_cartographique>
 		<Latitude >46° 02' </Latitude>
 		<Longitude>71° 55' </Longitude>
-		<Superficie_terre_km2>8.923</Superficie_terre_km2>
-		<Superficie_totale_km2>8.923</Superficie_totale_km2>
+		<Superficie_terre_km2>8.839</Superficie_terre_km2>
+		<Superficie_totale_km2>8.839</Superficie_totale_km2>
 		<Ref_juridique_transformation>G90-03</Ref_juridique_transformation>
 		<Date_transformation>19900120</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>34460</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.084</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.066</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>34460</Code_municipalite_provenance>
@@ -47752,6 +47752,25 @@
 		<Code_municipalite_provenance>23580</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
 		<Nom_municipalite>Saint-Joseph-de-Beauce</Nom_municipalite>
+		<Population_estimee>3183</Population_estimee>
+		<Date_incorportation>18891003</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>2</Code_juridiction>
+		<Ref_cartographique>21L07W</Ref_cartographique>
+		<Latitude >46° 18' </Latitude>
+		<Longitude>70° 53' </Longitude>
+		<Superficie_terre_km2>3.397</Superficie_terre_km2>
+		<Superficie_totale_km2>3.397</Superficie_totale_km2>
+		<Ref_juridique_transformation>G90-14</Ref_juridique_transformation>
+		<Date_transformation>19900407</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>23600</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.082</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>23580</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Saint-Joseph-de-Beauce</Nom_municipalite>
 		<Population_estimee>0</Population_estimee>
 		<Date_incorportation>18891003</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
@@ -47768,23 +47787,23 @@
 		<Superficie_terre_implique_km2>0.084</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
-		<Code_municipalite_provenance>23580</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
+		<Code_municipalite_provenance>23600</Code_municipalite_provenance>
+		<Statut_municipalite>P</Statut_municipalite>
 		<Nom_municipalite>Saint-Joseph-de-Beauce</Nom_municipalite>
-		<Population_estimee>3183</Population_estimee>
-		<Date_incorportation>18891003</Date_incorportation>
+		<Population_estimee>0</Population_estimee>
+		<Date_incorportation>18550701</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>2</Code_juridiction>
+		<Code_juridiction>3</Code_juridiction>
 		<Ref_cartographique>21L07W</Ref_cartographique>
 		<Latitude >46° 18' </Latitude>
 		<Longitude>70° 53' </Longitude>
-		<Superficie_terre_km2>3.397</Superficie_terre_km2>
-		<Superficie_totale_km2>3.397</Superficie_totale_km2>
+		<Superficie_terre_km2>0</Superficie_terre_km2>
+		<Superficie_totale_km2>0</Superficie_totale_km2>
 		<Ref_juridique_transformation>G90-14</Ref_juridique_transformation>
 		<Date_transformation>19900407</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
-		<Code_municipalite_destination>23600</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.082</Superficie_terre_implique_km2>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>23580</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.084</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>23600</Code_municipalite_provenance>
@@ -47804,25 +47823,6 @@
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>23580</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.082</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>23600</Code_municipalite_provenance>
-		<Statut_municipalite>P</Statut_municipalite>
-		<Nom_municipalite>Saint-Joseph-de-Beauce</Nom_municipalite>
-		<Population_estimee>0</Population_estimee>
-		<Date_incorportation>18550701</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>3</Code_juridiction>
-		<Ref_cartographique>21L07W</Ref_cartographique>
-		<Latitude >46° 18' </Latitude>
-		<Longitude>70° 53' </Longitude>
-		<Superficie_terre_km2>0</Superficie_terre_km2>
-		<Superficie_totale_km2>0</Superficie_totale_km2>
-		<Ref_juridique_transformation>G90-14</Ref_juridique_transformation>
-		<Date_transformation>19900407</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>23580</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.084</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>90310</Code_municipalite_provenance>
@@ -49507,13 +49507,13 @@
 		<Ref_cartographique>31H11W</Ref_cartographique>
 		<Latitude >45° 30' </Latitude>
 		<Longitude>73° 25' </Longitude>
-		<Superficie_terre_km2>62.877</Superficie_terre_km2>
-		<Superficie_totale_km2>62.877</Superficie_totale_km2>
+		<Superficie_terre_km2>63.299</Superficie_terre_km2>
+		<Superficie_totale_km2>63.299</Superficie_totale_km2>
 		<Ref_juridique_transformation>G91-47</Ref_juridique_transformation>
 		<Date_transformation>19911123</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>58030</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.338</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.422</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>58020</Code_municipalite_provenance>
@@ -49526,31 +49526,12 @@
 		<Ref_cartographique>31H11W</Ref_cartographique>
 		<Latitude >45° 30' </Latitude>
 		<Longitude>73° 25' </Longitude>
-		<Superficie_terre_km2>63.299</Superficie_terre_km2>
-		<Superficie_totale_km2>63.299</Superficie_totale_km2>
+		<Superficie_terre_km2>62.877</Superficie_terre_km2>
+		<Superficie_totale_km2>62.877</Superficie_totale_km2>
 		<Ref_juridique_transformation>G91-47</Ref_juridique_transformation>
 		<Date_transformation>19911123</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>58030</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.422</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>58030</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Longueuil</Nom_municipalite>
-		<Population_estimee>125441</Population_estimee>
-		<Date_incorportation>19690816</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31H11W</Ref_cartographique>
-		<Latitude >45° 32' </Latitude>
-		<Longitude>73° 30' </Longitude>
-		<Superficie_terre_km2>43.105</Superficie_terre_km2>
-		<Superficie_totale_km2>43.105</Superficie_totale_km2>
-		<Ref_juridique_transformation>G91-47</Ref_juridique_transformation>
-		<Date_transformation>19911123</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>58020</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.338</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
@@ -49571,6 +49552,25 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>58020</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.422</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>58030</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Longueuil</Nom_municipalite>
+		<Population_estimee>125441</Population_estimee>
+		<Date_incorportation>19690816</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31H11W</Ref_cartographique>
+		<Latitude >45° 32' </Latitude>
+		<Longitude>73° 30' </Longitude>
+		<Superficie_terre_km2>43.105</Superficie_terre_km2>
+		<Superficie_totale_km2>43.105</Superficie_totale_km2>
+		<Ref_juridique_transformation>G91-47</Ref_juridique_transformation>
+		<Date_transformation>19911123</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>58020</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.338</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>34095</Code_municipalite_provenance>
@@ -51533,25 +51533,6 @@
 		<Code_municipalite_provenance>36055</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
 		<Nom_municipalite>Grand-Mère</Nom_municipalite>
-		<Population_estimee>14290</Population_estimee>
-		<Date_incorportation>19700328</Date_incorportation>
-		<Ref_juridique>G70-13</Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31I10E</Ref_cartographique>
-		<Latitude >46° 37' </Latitude>
-		<Longitude>72° 42' </Longitude>
-		<Superficie_terre_km2>63.247</Superficie_terre_km2>
-		<Superficie_totale_km2>63.247</Superficie_totale_km2>
-		<Ref_juridique_transformation>G93-42</Ref_juridique_transformation>
-		<Date_transformation>19931016</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>36060</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.005</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>36055</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Grand-Mère</Nom_municipalite>
 		<Population_estimee>14275</Population_estimee>
 		<Date_incorportation>19700328</Date_incorportation>
 		<Ref_juridique>G70-13</Ref_juridique>
@@ -51566,6 +51547,25 @@
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>36060</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.335</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>36055</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Grand-Mère</Nom_municipalite>
+		<Population_estimee>14290</Population_estimee>
+		<Date_incorportation>19700328</Date_incorportation>
+		<Ref_juridique>G70-13</Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31I10E</Ref_cartographique>
+		<Latitude >46° 37' </Latitude>
+		<Longitude>72° 42' </Longitude>
+		<Superficie_terre_km2>63.247</Superficie_terre_km2>
+		<Superficie_totale_km2>63.247</Superficie_totale_km2>
+		<Ref_juridique_transformation>G93-42</Ref_juridique_transformation>
+		<Date_transformation>19931016</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>36060</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.005</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>36060</Code_municipalite_provenance>
@@ -53307,13 +53307,13 @@
 		<Ref_cartographique>31H12E</Ref_cartographique>
 		<Latitude >45° 38' </Latitude>
 		<Longitude>73° 31' </Longitude>
-		<Superficie_terre_km2>12.38</Superficie_terre_km2>
-		<Superficie_totale_km2>12.38</Superficie_totale_km2>
+		<Superficie_terre_km2>12.319</Superficie_terre_km2>
+		<Superficie_totale_km2>12.319</Superficie_totale_km2>
 		<Ref_juridique_transformation>G94-31</Ref_juridique_transformation>
 		<Date_transformation>19941231</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>66025</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.061</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.037</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>66005</Code_municipalite_provenance>
@@ -53326,32 +53326,13 @@
 		<Ref_cartographique>31H12E</Ref_cartographique>
 		<Latitude >45° 38' </Latitude>
 		<Longitude>73° 31' </Longitude>
-		<Superficie_terre_km2>12.319</Superficie_terre_km2>
-		<Superficie_totale_km2>12.319</Superficie_totale_km2>
+		<Superficie_terre_km2>12.38</Superficie_terre_km2>
+		<Superficie_totale_km2>12.38</Superficie_totale_km2>
 		<Ref_juridique_transformation>G94-31</Ref_juridique_transformation>
 		<Date_transformation>19941231</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>66025</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.037</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>66010</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Anjou</Nom_municipalite>
-		<Population_estimee>37210</Population_estimee>
-		<Date_incorportation>18860410</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31H12E</Ref_cartographique>
-		<Latitude >45° 36' </Latitude>
-		<Longitude>73° 33' </Longitude>
-		<Superficie_terre_km2>13.51</Superficie_terre_km2>
-		<Superficie_totale_km2>13.51</Superficie_totale_km2>
-		<Ref_juridique_transformation>G94-31</Ref_juridique_transformation>
-		<Date_transformation>19941231</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
-		<Code_municipalite_destination>66025</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.03</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.061</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>66010</Code_municipalite_provenance>
@@ -53371,6 +53352,25 @@
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>66025</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.139</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>66010</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Anjou</Nom_municipalite>
+		<Population_estimee>37210</Population_estimee>
+		<Date_incorportation>18860410</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31H12E</Ref_cartographique>
+		<Latitude >45° 36' </Latitude>
+		<Longitude>73° 33' </Longitude>
+		<Superficie_terre_km2>13.51</Superficie_terre_km2>
+		<Superficie_totale_km2>13.51</Superficie_totale_km2>
+		<Ref_juridique_transformation>G94-31</Ref_juridique_transformation>
+		<Date_transformation>19941231</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>66025</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.03</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>66025</Code_municipalite_provenance>
@@ -53611,13 +53611,13 @@
 		<Ref_cartographique>31H05E</Ref_cartographique>
 		<Latitude >45° 23' </Latitude>
 		<Longitude>73° 31' </Longitude>
-		<Superficie_terre_km2>16.472</Superficie_terre_km2>
-		<Superficie_totale_km2>16.472</Superficie_totale_km2>
+		<Superficie_terre_km2>16.322</Superficie_terre_km2>
+		<Superficie_totale_km2>16.322</Superficie_totale_km2>
 		<Ref_juridique_transformation>G95-04</Ref_juridique_transformation>
 		<Date_transformation>19950128</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>67010</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.15</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.08</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>67020</Code_municipalite_provenance>
@@ -53630,13 +53630,13 @@
 		<Ref_cartographique>31H05E</Ref_cartographique>
 		<Latitude >45° 23' </Latitude>
 		<Longitude>73° 31' </Longitude>
-		<Superficie_terre_km2>16.322</Superficie_terre_km2>
-		<Superficie_totale_km2>16.322</Superficie_totale_km2>
+		<Superficie_terre_km2>16.472</Superficie_terre_km2>
+		<Superficie_totale_km2>16.472</Superficie_totale_km2>
 		<Ref_juridique_transformation>G95-04</Ref_juridique_transformation>
 		<Date_transformation>19950128</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>67010</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.08</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.15</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>57025</Code_municipalite_provenance>
@@ -56138,13 +56138,13 @@
 		<Ref_cartographique>21L11W</Ref_cartographique>
 		<Latitude >46° 41' </Latitude>
 		<Longitude>71° 21' </Longitude>
-		<Superficie_terre_km2>95.071</Superficie_terre_km2>
-		<Superficie_totale_km2>117.924</Superficie_totale_km2>
+		<Superficie_terre_km2>95.069</Superficie_terre_km2>
+		<Superficie_totale_km2>117.922</Superficie_totale_km2>
 		<Ref_juridique_transformation>G96-24</Ref_juridique_transformation>
 		<Date_transformation>19960615</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>25035</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.002</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>25043</Code_municipalite_provenance>
@@ -56157,13 +56157,13 @@
 		<Ref_cartographique>21L11W</Ref_cartographique>
 		<Latitude >46° 41' </Latitude>
 		<Longitude>71° 21' </Longitude>
-		<Superficie_terre_km2>95.069</Superficie_terre_km2>
-		<Superficie_totale_km2>117.922</Superficie_totale_km2>
+		<Superficie_terre_km2>95.071</Superficie_terre_km2>
+		<Superficie_totale_km2>117.924</Superficie_totale_km2>
 		<Ref_juridique_transformation>G96-24</Ref_juridique_transformation>
 		<Date_transformation>19960615</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>25035</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.002</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>89040</Code_municipalite_provenance>
@@ -56891,25 +56891,6 @@
 		<Code_municipalite_provenance>43010</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
 		<Nom_municipalite>Lennoxville</Nom_municipalite>
-		<Population_estimee>4453</Population_estimee>
-		<Date_incorportation>18710101</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>21E05W</Ref_cartographique>
-		<Latitude >45° 22' </Latitude>
-		<Longitude>71° 51' </Longitude>
-		<Superficie_terre_km2>18.799</Superficie_terre_km2>
-		<Superficie_totale_km2>18.799</Superficie_totale_km2>
-		<Ref_juridique_transformation>G97-01</Ref_juridique_transformation>
-		<Date_transformation>19970104</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
-		<Code_municipalite_destination>43015</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>10.42</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>43010</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Lennoxville</Nom_municipalite>
 		<Population_estimee>4105</Population_estimee>
 		<Date_incorportation>18710101</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
@@ -56924,6 +56905,25 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>43015</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>6.46</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>43010</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Lennoxville</Nom_municipalite>
+		<Population_estimee>4453</Population_estimee>
+		<Date_incorportation>18710101</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>21E05W</Ref_cartographique>
+		<Latitude >45° 22' </Latitude>
+		<Longitude>71° 51' </Longitude>
+		<Superficie_terre_km2>18.799</Superficie_terre_km2>
+		<Superficie_totale_km2>18.799</Superficie_totale_km2>
+		<Ref_juridique_transformation>G97-01</Ref_juridique_transformation>
+		<Date_transformation>19970104</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>43015</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>10.42</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>43015</Code_municipalite_provenance>
@@ -56948,25 +56948,6 @@
 		<Code_municipalite_provenance>43015</Code_municipalite_provenance>
 		<Statut_municipalite>M</Statut_municipalite>
 		<Nom_municipalite>Ascot</Nom_municipalite>
-		<Population_estimee>8812</Population_estimee>
-		<Date_incorportation>18550701</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>3</Code_juridiction>
-		<Ref_cartographique>21E05W</Ref_cartographique>
-		<Latitude >45° 22' </Latitude>
-		<Longitude>71° 53' </Longitude>
-		<Superficie_terre_km2>45.179</Superficie_terre_km2>
-		<Superficie_totale_km2>45.179</Superficie_totale_km2>
-		<Ref_juridique_transformation>G97-01</Ref_juridique_transformation>
-		<Date_transformation>19970104</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>43010</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>6.46</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>43015</Code_municipalite_provenance>
-		<Statut_municipalite>M</Statut_municipalite>
-		<Nom_municipalite>Ascot</Nom_municipalite>
 		<Population_estimee>8464</Population_estimee>
 		<Date_incorportation>18550701</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
@@ -56981,6 +56962,25 @@
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>43010</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>10.42</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>43015</Code_municipalite_provenance>
+		<Statut_municipalite>M</Statut_municipalite>
+		<Nom_municipalite>Ascot</Nom_municipalite>
+		<Population_estimee>8812</Population_estimee>
+		<Date_incorportation>18550701</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>3</Code_juridiction>
+		<Ref_cartographique>21E05W</Ref_cartographique>
+		<Latitude >45° 22' </Latitude>
+		<Longitude>71° 53' </Longitude>
+		<Superficie_terre_km2>45.179</Superficie_terre_km2>
+		<Superficie_totale_km2>45.179</Superficie_totale_km2>
+		<Ref_juridique_transformation>G97-01</Ref_juridique_transformation>
+		<Date_transformation>19970104</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>43010</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>6.46</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>43015</Code_municipalite_provenance>
@@ -57575,25 +57575,6 @@
 		<Code_municipalite_provenance>23060</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
 		<Nom_municipalite>Sainte-Foy</Nom_municipalite>
-		<Population_estimee>73546</Population_estimee>
-		<Date_incorportation>19701226</Date_incorportation>
-		<Ref_juridique>G71-52</Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>21L14W</Ref_cartographique>
-		<Latitude >46° 47' </Latitude>
-		<Longitude>71° 17' </Longitude>
-		<Superficie_terre_km2>84.2</Superficie_terre_km2>
-		<Superficie_totale_km2>84.2</Superficie_totale_km2>
-		<Ref_juridique_transformation>G97-29</Ref_juridique_transformation>
-		<Date_transformation>19970719</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
-		<Code_municipalite_destination>23070</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.037</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>23060</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Sainte-Foy</Nom_municipalite>
 		<Population_estimee>73574</Population_estimee>
 		<Date_incorportation>19701226</Date_incorportation>
 		<Ref_juridique>G71-52</Ref_juridique>
@@ -57610,22 +57591,22 @@
 		<Superficie_terre_implique_km2>0.006</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
-		<Code_municipalite_provenance>23070</Code_municipalite_provenance>
-		<Statut_municipalite>M</Statut_municipalite>
-		<Nom_municipalite>Saint-Augustin-de-Desmaures</Nom_municipalite>
-		<Population_estimee>15239</Population_estimee>
-		<Date_incorportation>18550701</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>3</Code_juridiction>
-		<Ref_cartographique>21L11W</Ref_cartographique>
-		<Latitude >46° 45' </Latitude>
-		<Longitude>71° 30' </Longitude>
-		<Superficie_terre_km2>86.281</Superficie_terre_km2>
-		<Superficie_totale_km2>102.281</Superficie_totale_km2>
+		<Code_municipalite_provenance>23060</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Sainte-Foy</Nom_municipalite>
+		<Population_estimee>73546</Population_estimee>
+		<Date_incorportation>19701226</Date_incorportation>
+		<Ref_juridique>G71-52</Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>21L14W</Ref_cartographique>
+		<Latitude >46° 47' </Latitude>
+		<Longitude>71° 17' </Longitude>
+		<Superficie_terre_km2>84.2</Superficie_terre_km2>
+		<Superficie_totale_km2>84.2</Superficie_totale_km2>
 		<Ref_juridique_transformation>G97-29</Ref_juridique_transformation>
 		<Date_transformation>19970719</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>23060</Code_municipalite_destination>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>23070</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.037</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
@@ -57646,6 +57627,25 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>23060</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.006</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>23070</Code_municipalite_provenance>
+		<Statut_municipalite>M</Statut_municipalite>
+		<Nom_municipalite>Saint-Augustin-de-Desmaures</Nom_municipalite>
+		<Population_estimee>15239</Population_estimee>
+		<Date_incorportation>18550701</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>3</Code_juridiction>
+		<Ref_cartographique>21L11W</Ref_cartographique>
+		<Latitude >46° 45' </Latitude>
+		<Longitude>71° 30' </Longitude>
+		<Superficie_terre_km2>86.281</Superficie_terre_km2>
+		<Superficie_totale_km2>102.281</Superficie_totale_km2>
+		<Ref_juridique_transformation>G97-29</Ref_juridique_transformation>
+		<Date_transformation>19970719</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>23060</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.037</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>29010</Code_municipalite_provenance>
@@ -60843,25 +60843,6 @@
 		<Code_municipalite_provenance>37055</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
 		<Nom_municipalite>Cap-de-la-Madeleine</Nom_municipalite>
-		<Population_estimee>33207</Population_estimee>
-		<Date_incorportation>18550701</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31I07E</Ref_cartographique>
-		<Latitude >46° 22' </Latitude>
-		<Longitude>72° 31' </Longitude>
-		<Superficie_terre_km2>18</Superficie_terre_km2>
-		<Superficie_totale_km2>20.214</Superficie_totale_km2>
-		<Ref_juridique_transformation>G99-29</Ref_juridique_transformation>
-		<Date_transformation>19990717</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
-		<Code_municipalite_destination>37050</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.014</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>37055</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Cap-de-la-Madeleine</Nom_municipalite>
 		<Population_estimee>34013</Population_estimee>
 		<Date_incorportation>18550701</Date_incorportation>
 		<Ref_juridique></Ref_juridique>
@@ -60876,6 +60857,25 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>37050</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.17</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>37055</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Cap-de-la-Madeleine</Nom_municipalite>
+		<Population_estimee>33207</Population_estimee>
+		<Date_incorportation>18550701</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31I07E</Ref_cartographique>
+		<Latitude >46° 22' </Latitude>
+		<Longitude>72° 31' </Longitude>
+		<Superficie_terre_km2>18</Superficie_terre_km2>
+		<Superficie_totale_km2>20.214</Superficie_totale_km2>
+		<Ref_juridique_transformation>G99-29</Ref_juridique_transformation>
+		<Date_transformation>19990717</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>37050</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.014</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>70010</Code_municipalite_provenance>
@@ -72611,13 +72611,13 @@
 		<Ref_cartographique>31H12</Ref_cartographique>
 		<Latitude >45° 30' 06" </Latitude>
 		<Longitude>73° 30' 48" </Longitude>
-		<Superficie_terre_km2>7.64</Superficie_terre_km2>
-		<Superficie_totale_km2>10.082</Superficie_totale_km2>
+		<Superficie_terre_km2>7.593</Superficie_terre_km2>
+		<Superficie_totale_km2>10.035</Superficie_totale_km2>
 		<Ref_juridique_transformation>G18-02</Ref_juridique_transformation>
 		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>58227</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.047</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>58012</Code_municipalite_provenance>
@@ -72630,13 +72630,13 @@
 		<Ref_cartographique>31H12</Ref_cartographique>
 		<Latitude >45° 30' 06" </Latitude>
 		<Longitude>73° 30' 48" </Longitude>
-		<Superficie_terre_km2>7.593</Superficie_terre_km2>
-		<Superficie_totale_km2>10.035</Superficie_totale_km2>
+		<Superficie_terre_km2>7.64</Superficie_terre_km2>
+		<Superficie_totale_km2>10.082</Superficie_totale_km2>
 		<Ref_juridique_transformation>G18-02</Ref_juridique_transformation>
 		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>58227</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.047</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>58037</Code_municipalite_provenance>
@@ -72680,6 +72680,25 @@
 		<Code_municipalite_provenance>58227</Code_municipalite_provenance>
 		<Statut_municipalite>V</Statut_municipalite>
 		<Nom_municipalite>Longueuil</Nom_municipalite>
+		<Population_estimee>245094</Population_estimee>
+		<Date_incorportation>20020101</Date_incorportation>
+		<Ref_juridique>L00-56</Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31H11</Ref_cartographique>
+		<Latitude >45° 30' 50" </Latitude>
+		<Longitude>73° 25' 53" </Longitude>
+		<Superficie_terre_km2>115.851</Superficie_terre_km2>
+		<Superficie_totale_km2>122.687</Superficie_totale_km2>
+		<Ref_juridique_transformation>G18-02</Ref_juridique_transformation>
+		<Date_transformation>20060101</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>58012</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.047</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>58227</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Longueuil</Nom_municipalite>
 		<Population_estimee>388198</Population_estimee>
 		<Date_incorportation>20020101</Date_incorportation>
 		<Ref_juridique>L00-56</Ref_juridique>
@@ -72713,25 +72732,6 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>58012</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>58227</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Longueuil</Nom_municipalite>
-		<Population_estimee>245094</Population_estimee>
-		<Date_incorportation>20020101</Date_incorportation>
-		<Ref_juridique>L00-56</Ref_juridique>
-		<Code_juridiction>1</Code_juridiction>
-		<Ref_cartographique>31H11</Ref_cartographique>
-		<Latitude >45° 30' 50" </Latitude>
-		<Longitude>73° 25' 53" </Longitude>
-		<Superficie_terre_km2>115.851</Superficie_terre_km2>
-		<Superficie_totale_km2>122.687</Superficie_totale_km2>
-		<Ref_juridique_transformation>G18-02</Ref_juridique_transformation>
-		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>58012</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.047</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>58227</Code_municipalite_provenance>
@@ -73086,13 +73086,13 @@
 		<Ref_cartographique>31G16E</Ref_cartographique>
 		<Latitude >45° 52' </Latitude>
 		<Longitude>74° 05' </Longitude>
-		<Superficie_terre_km2>34.471</Superficie_terre_km2>
-		<Superficie_totale_km2>35.481</Superficie_totale_km2>
+		<Superficie_terre_km2>34.63</Superficie_terre_km2>
+		<Superficie_totale_km2>35.64</Superficie_totale_km2>
 		<Ref_juridique_transformation>G05-41</Ref_juridique_transformation>
 		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>77035</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.135</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.159</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>75040</Code_municipalite_provenance>
@@ -73105,13 +73105,13 @@
 		<Ref_cartographique>31G16E</Ref_cartographique>
 		<Latitude >45° 52' </Latitude>
 		<Longitude>74° 05' </Longitude>
-		<Superficie_terre_km2>34.63</Superficie_terre_km2>
-		<Superficie_totale_km2>35.64</Superficie_totale_km2>
+		<Superficie_terre_km2>34.471</Superficie_terre_km2>
+		<Superficie_totale_km2>35.481</Superficie_totale_km2>
 		<Ref_juridique_transformation>G05-41</Ref_juridique_transformation>
 		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>77035</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.159</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.135</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>77012</Code_municipalite_provenance>
@@ -73162,13 +73162,13 @@
 		<Ref_cartographique>31G16E</Ref_cartographique>
 		<Latitude >45° 51' </Latitude>
 		<Longitude>74° 08' </Longitude>
-		<Superficie_terre_km2>23.73</Superficie_terre_km2>
-		<Superficie_totale_km2>26.94</Superficie_totale_km2>
+		<Superficie_terre_km2>23.889</Superficie_terre_km2>
+		<Superficie_totale_km2>27.099</Superficie_totale_km2>
 		<Ref_juridique_transformation>G05-41</Ref_juridique_transformation>
 		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>75040</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.159</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.135</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>77035</Code_municipalite_provenance>
@@ -73181,13 +73181,13 @@
 		<Ref_cartographique>31G16E</Ref_cartographique>
 		<Latitude >45° 51' </Latitude>
 		<Longitude>74° 08' </Longitude>
-		<Superficie_terre_km2>23.889</Superficie_terre_km2>
-		<Superficie_totale_km2>27.099</Superficie_totale_km2>
+		<Superficie_terre_km2>23.73</Superficie_terre_km2>
+		<Superficie_totale_km2>26.94</Superficie_totale_km2>
 		<Ref_juridique_transformation>G05-41</Ref_juridique_transformation>
 		<Date_transformation>20060101</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>75040</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.135</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.159</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>78032</Code_municipalite_provenance>
@@ -73599,13 +73599,13 @@
 		<Ref_cartographique>21L08W</Ref_cartographique>
 		<Latitude >46° 19' </Latitude>
 		<Longitude>70° 25' </Longitude>
-		<Superficie_terre_km2>114.48</Superficie_terre_km2>
-		<Superficie_totale_km2>115.57</Superficie_totale_km2>
+		<Superficie_terre_km2>114.586</Superficie_terre_km2>
+		<Superficie_totale_km2>115.676</Superficie_totale_km2>
 		<Ref_juridique_transformation>G07-35</Ref_juridique_transformation>
 		<Date_transformation>20070829</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>28045</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.106</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.126</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>28030</Code_municipalite_provenance>
@@ -73618,13 +73618,13 @@
 		<Ref_cartographique>21L08W</Ref_cartographique>
 		<Latitude >46° 19' </Latitude>
 		<Longitude>70° 25' </Longitude>
-		<Superficie_terre_km2>114.586</Superficie_terre_km2>
-		<Superficie_totale_km2>115.676</Superficie_totale_km2>
+		<Superficie_terre_km2>114.48</Superficie_terre_km2>
+		<Superficie_totale_km2>115.57</Superficie_totale_km2>
 		<Ref_juridique_transformation>G07-35</Ref_juridique_transformation>
 		<Date_transformation>20070829</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>28045</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.126</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.106</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>28045</Code_municipalite_provenance>
@@ -77095,13 +77095,13 @@
 		<Ref_cartographique>31G16</Ref_cartographique>
 		<Latitude >45° 48' 55" </Latitude>
 		<Longitude>74° 13' 14" </Longitude>
-		<Superficie_terre_km2>58.324</Superficie_terre_km2>
-		<Superficie_totale_km2>61.949</Superficie_totale_km2>
+		<Superficie_terre_km2>58.334</Superficie_terre_km2>
+		<Superficie_totale_km2>61.959</Superficie_totale_km2>
 		<Ref_juridique_transformation>G16-25</Ref_juridique_transformation>
 		<Date_transformation>20160618</Date_transformation>
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>77043</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.008</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.01</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>76030</Code_municipalite_provenance>
@@ -77114,13 +77114,13 @@
 		<Ref_cartographique>31G16</Ref_cartographique>
 		<Latitude >45° 48' 55" </Latitude>
 		<Longitude>74° 13' 14" </Longitude>
-		<Superficie_terre_km2>58.334</Superficie_terre_km2>
-		<Superficie_totale_km2>61.959</Superficie_totale_km2>
+		<Superficie_terre_km2>58.324</Superficie_terre_km2>
+		<Superficie_totale_km2>61.949</Superficie_totale_km2>
 		<Ref_juridique_transformation>G16-25</Ref_juridique_transformation>
 		<Date_transformation>20160618</Date_transformation>
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>77043</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.01</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.008</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>77043</Code_municipalite_provenance>
@@ -77266,13 +77266,13 @@
 		<Ref_cartographique>21L13</Ref_cartographique>
 		<Latitude >46° 52' 07" </Latitude>
 		<Longitude>71° 37' 13" </Longitude>
-		<Superficie_terre_km2>11.175</Superficie_terre_km2>
-		<Superficie_totale_km2>13.732</Superficie_totale_km2>
+		<Superficie_terre_km2>11.186</Superficie_terre_km2>
+		<Superficie_totale_km2>13.743</Superficie_totale_km2>
 		<Ref_juridique_transformation>G16-36</Ref_juridique_transformation>
 		<Date_transformation>20160903</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>22020</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.009</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.011</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>22010</Code_municipalite_provenance>
@@ -77285,31 +77285,12 @@
 		<Ref_cartographique>21L13</Ref_cartographique>
 		<Latitude >46° 52' 07" </Latitude>
 		<Longitude>71° 37' 13" </Longitude>
-		<Superficie_terre_km2>11.186</Superficie_terre_km2>
-		<Superficie_totale_km2>13.743</Superficie_totale_km2>
+		<Superficie_terre_km2>11.175</Superficie_terre_km2>
+		<Superficie_totale_km2>13.732</Superficie_totale_km2>
 		<Ref_juridique_transformation>G16-36</Ref_juridique_transformation>
 		<Date_transformation>20160903</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>22020</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.011</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>22020</Code_municipalite_provenance>
-		<Statut_municipalite>M</Statut_municipalite>
-		<Nom_municipalite>Shannon</Nom_municipalite>
-		<Population_estimee>5817</Population_estimee>
-		<Date_incorportation>19470101</Date_incorportation>
-		<Ref_juridique></Ref_juridique>
-		<Code_juridiction>3</Code_juridiction>
-		<Ref_cartographique>21L13</Ref_cartographique>
-		<Latitude >46° 53' 22" </Latitude>
-		<Longitude>71° 31' 07" </Longitude>
-		<Superficie_terre_km2>63.469</Superficie_terre_km2>
-		<Superficie_totale_km2>65.028</Superficie_totale_km2>
-		<Ref_juridique_transformation>G16-36</Ref_juridique_transformation>
-		<Date_transformation>20160903</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>22010</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.009</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
@@ -77330,6 +77311,25 @@
 		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>22010</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.011</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>22020</Code_municipalite_provenance>
+		<Statut_municipalite>M</Statut_municipalite>
+		<Nom_municipalite>Shannon</Nom_municipalite>
+		<Population_estimee>5817</Population_estimee>
+		<Date_incorportation>19470101</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>3</Code_juridiction>
+		<Ref_cartographique>21L13</Ref_cartographique>
+		<Latitude >46° 53' 22" </Latitude>
+		<Longitude>71° 31' 07" </Longitude>
+		<Superficie_terre_km2>63.469</Superficie_terre_km2>
+		<Superficie_totale_km2>65.028</Superficie_totale_km2>
+		<Ref_juridique_transformation>G16-36</Ref_juridique_transformation>
+		<Date_transformation>20160903</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>22010</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.009</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>52080</Code_municipalite_provenance>
@@ -77627,25 +77627,6 @@
 		<Ref_cartographique>21L13</Ref_cartographique>
 		<Latitude >46° 53' 29" </Latitude>
 		<Longitude>71° 49' 57" </Longitude>
-		<Superficie_terre_km2>670.557</Superficie_terre_km2>
-		<Superficie_totale_km2>697.181</Superficie_totale_km2>
-		<Ref_juridique_transformation>G16-40</Ref_juridique_transformation>
-		<Date_transformation>20161005</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
-		<Code_municipalite_destination>22005</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
-	</Municipalite>
-	<Municipalite>
-		<Code_municipalite_provenance>34128</Code_municipalite_provenance>
-		<Statut_municipalite>V</Statut_municipalite>
-		<Nom_municipalite>Saint-Raymond</Nom_municipalite>
-		<Population_estimee>10123</Population_estimee>
-		<Date_incorportation>19950329</Date_incorportation>
-		<Ref_juridique>G95-13</Ref_juridique>
-		<Code_juridiction>2</Code_juridiction>
-		<Ref_cartographique>21L13</Ref_cartographique>
-		<Latitude >46° 53' 29" </Latitude>
-		<Longitude>71° 49' 57" </Longitude>
 		<Superficie_terre_km2>670.556</Superficie_terre_km2>
 		<Superficie_totale_km2>697.18</Superficie_totale_km2>
 		<Ref_juridique_transformation>G16-40</Ref_juridique_transformation>
@@ -77669,8 +77650,8 @@
 		<Superficie_totale_km2>697.181</Superficie_totale_km2>
 		<Ref_juridique_transformation>G16-40</Ref_juridique_transformation>
 		<Date_transformation>20161005</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
-		<Code_municipalite_destination>34120</Code_municipalite_destination>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>22005</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
@@ -77691,6 +77672,25 @@
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>34120</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.016</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>34128</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Saint-Raymond</Nom_municipalite>
+		<Population_estimee>10123</Population_estimee>
+		<Date_incorportation>19950329</Date_incorportation>
+		<Ref_juridique>G95-13</Ref_juridique>
+		<Code_juridiction>2</Code_juridiction>
+		<Ref_cartographique>21L13</Ref_cartographique>
+		<Latitude >46° 53' 29" </Latitude>
+		<Longitude>71° 49' 57" </Longitude>
+		<Superficie_terre_km2>670.557</Superficie_terre_km2>
+		<Superficie_totale_km2>697.181</Superficie_totale_km2>
+		<Ref_juridique_transformation>G16-40</Ref_juridique_transformation>
+		<Date_transformation>20161005</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>34120</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>67010</Code_municipalite_provenance>
@@ -78033,6 +78033,44 @@
 		<Code_transformation>M2</Code_transformation>
 		<Code_municipalite_destination>68005</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>85010</Code_municipalite_provenance>
+		<Statut_municipalite>M</Statut_municipalite>
+		<Nom_municipalite>Kipawa</Nom_municipalite>
+		<Population_estimee>432</Population_estimee>
+		<Date_incorportation>19850101</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>3</Code_juridiction>
+		<Ref_cartographique>31L11</Ref_cartographique>
+		<Latitude >46° 44' 56" </Latitude>
+		<Longitude>79° 03' 03" </Longitude>
+		<Superficie_terre_km2>36.091</Superficie_terre_km2>
+		<Superficie_totale_km2>47.233</Superficie_totale_km2>
+		<Ref_juridique_transformation>L1185</Ref_juridique_transformation>
+		<Date_transformation>20170922</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>85802</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.297</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>85802</Code_municipalite_provenance>
+		<Statut_municipalite>R</Statut_municipalite>
+		<Nom_municipalite>Kebaowek</Nom_municipalite>
+		<Population_estimee>342</Population_estimee>
+		<Date_incorportation>19751211</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>5</Code_juridiction>
+		<Ref_cartographique>31L15</Ref_cartographique>
+		<Latitude >46° 47' 09" </Latitude>
+		<Longitude>78° 59' 01" </Longitude>
+		<Superficie_terre_km2>0.21</Superficie_terre_km2>
+		<Superficie_totale_km2>0.21</Superficie_totale_km2>
+		<Ref_juridique_transformation>L1185</Ref_juridique_transformation>
+		<Date_transformation>20170922</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>85010</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.297</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>51070</Code_municipalite_provenance>
@@ -78596,13 +78634,13 @@
 		<Ref_cartographique>21L13</Ref_cartographique>
 		<Latitude >46° 45' 22" </Latitude>
 		<Longitude>71° 49' 34" </Longitude>
-		<Superficie_terre_km2>98.752</Superficie_terre_km2>
-		<Superficie_totale_km2>98.948</Superficie_totale_km2>
+		<Superficie_terre_km2>98.738</Superficie_terre_km2>
+		<Superficie_totale_km2>98.934</Superficie_totale_km2>
 		<Ref_juridique_transformation>G19-04</Ref_juridique_transformation>
 		<Date_transformation>20190126</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>34030</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.021</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.014</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>34038</Code_municipalite_provenance>
@@ -78615,13 +78653,13 @@
 		<Ref_cartographique>21L13</Ref_cartographique>
 		<Latitude >46° 45' 22" </Latitude>
 		<Longitude>71° 49' 34" </Longitude>
-		<Superficie_terre_km2>98.738</Superficie_terre_km2>
-		<Superficie_totale_km2>98.934</Superficie_totale_km2>
+		<Superficie_terre_km2>98.752</Superficie_terre_km2>
+		<Superficie_totale_km2>98.948</Superficie_totale_km2>
 		<Ref_juridique_transformation>G19-04</Ref_juridique_transformation>
 		<Date_transformation>20190126</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>34030</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.014</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.021</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>61013</Code_municipalite_provenance>
@@ -79907,13 +79945,13 @@
 		<Ref_cartographique>21L15</Ref_cartographique>
 		<Latitude >46° 46' 21" </Latitude>
 		<Longitude>70° 56' 31" </Longitude>
-		<Superficie_terre_km2>93.61</Superficie_terre_km2>
-		<Superficie_totale_km2>95.007</Superficie_totale_km2>
+		<Superficie_terre_km2>93.612</Superficie_terre_km2>
+		<Superficie_totale_km2>95.009</Superficie_totale_km2>
 		<Ref_juridique_transformation>G23-06</Ref_juridique_transformation>
 		<Date_transformation>20230211</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>19090</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.002</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>19097</Code_municipalite_provenance>
@@ -79926,13 +79964,13 @@
 		<Ref_cartographique>21L15</Ref_cartographique>
 		<Latitude >46° 46' 21" </Latitude>
 		<Longitude>70° 56' 31" </Longitude>
-		<Superficie_terre_km2>93.612</Superficie_terre_km2>
-		<Superficie_totale_km2>95.009</Superficie_totale_km2>
+		<Superficie_terre_km2>93.61</Superficie_terre_km2>
+		<Superficie_totale_km2>95.007</Superficie_totale_km2>
 		<Ref_juridique_transformation>G23-06</Ref_juridique_transformation>
 		<Date_transformation>20230211</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>19090</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.002</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.001</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>60013</Code_municipalite_provenance>
@@ -79983,13 +80021,13 @@
 		<Ref_cartographique>31H14</Ref_cartographique>
 		<Latitude >45° 49' 54" </Latitude>
 		<Longitude>73° 25' 25" </Longitude>
-		<Superficie_terre_km2>98.958</Superficie_terre_km2>
-		<Superficie_totale_km2>101.027</Superficie_totale_km2>
+		<Superficie_terre_km2>98.618</Superficie_terre_km2>
+		<Superficie_totale_km2>100.687</Superficie_totale_km2>
 		<Ref_juridique_transformation>G23-18</Ref_juridique_transformation>
 		<Date_transformation>20230506</Date_transformation>
-		<Code_transformation>D8</Code_transformation>
+		<Code_transformation>E8</Code_transformation>
 		<Code_municipalite_destination>60013</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.035</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.34</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>60028</Code_municipalite_provenance>
@@ -80002,13 +80040,13 @@
 		<Ref_cartographique>31H14</Ref_cartographique>
 		<Latitude >45° 49' 54" </Latitude>
 		<Longitude>73° 25' 25" </Longitude>
-		<Superficie_terre_km2>98.618</Superficie_terre_km2>
-		<Superficie_totale_km2>100.687</Superficie_totale_km2>
+		<Superficie_terre_km2>98.958</Superficie_terre_km2>
+		<Superficie_totale_km2>101.027</Superficie_totale_km2>
 		<Ref_juridique_transformation>G23-18</Ref_juridique_transformation>
 		<Date_transformation>20230506</Date_transformation>
-		<Code_transformation>E8</Code_transformation>
+		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>60013</Code_municipalite_destination>
-		<Superficie_terre_implique_km2>0.34</Superficie_terre_implique_km2>
+		<Superficie_terre_implique_km2>0.035</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance>30030</Code_municipalite_provenance>
@@ -80351,6 +80389,82 @@
 		<Code_transformation>D8</Code_transformation>
 		<Code_municipalite_destination>87070</Code_municipalite_destination>
 		<Superficie_terre_implique_km2>0.036</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>69045</Code_municipalite_provenance>
+		<Statut_municipalite>M</Statut_municipalite>
+		<Nom_municipalite>Hinchinbrooke</Nom_municipalite>
+		<Population_estimee>2293</Population_estimee>
+		<Date_incorportation>18550701</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>3</Code_juridiction>
+		<Ref_cartographique>31G01</Ref_cartographique>
+		<Latitude >45° 01' 36" </Latitude>
+		<Longitude>74° 05' 40" </Longitude>
+		<Superficie_terre_km2>148.212</Superficie_terre_km2>
+		<Superficie_totale_km2>149.657</Superficie_totale_km2>
+		<Ref_juridique_transformation>G24-26</Ref_juridique_transformation>
+		<Date_transformation>20240629</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>69055</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.058</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>69055</Code_municipalite_provenance>
+		<Statut_municipalite>V</Statut_municipalite>
+		<Nom_municipalite>Huntingdon</Nom_municipalite>
+		<Population_estimee>2735</Population_estimee>
+		<Date_incorportation>18550701</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>1</Code_juridiction>
+		<Ref_cartographique>31G01</Ref_cartographique>
+		<Latitude >45° 05' 14" </Latitude>
+		<Longitude>74° 10' 31" </Longitude>
+		<Superficie_terre_km2>2.804</Superficie_terre_km2>
+		<Superficie_totale_km2>2.909</Superficie_totale_km2>
+		<Ref_juridique_transformation>G24-26</Ref_juridique_transformation>
+		<Date_transformation>20240629</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>69045</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.058</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>87075</Code_municipalite_provenance>
+		<Statut_municipalite>M</Statut_municipalite>
+		<Nom_municipalite>Clerval</Nom_municipalite>
+		<Population_estimee>376</Population_estimee>
+		<Date_incorportation>19270912</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>3</Code_juridiction>
+		<Ref_cartographique>32D11</Ref_cartographique>
+		<Latitude >48° 44' 57" </Latitude>
+		<Longitude>79° 26' 17" </Longitude>
+		<Superficie_terre_km2>99.364</Superficie_terre_km2>
+		<Superficie_totale_km2>130.926</Superficie_totale_km2>
+		<Ref_juridique_transformation>G24-28</Ref_juridique_transformation>
+		<Date_transformation>20240713</Date_transformation>
+		<Code_transformation>E8</Code_transformation>
+		<Code_municipalite_destination>87990</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.126</Superficie_terre_implique_km2>
+	</Municipalite>
+	<Municipalite>
+		<Code_municipalite_provenance>87990</Code_municipalite_provenance>
+		<Statut_municipalite>G</Statut_municipalite>
+		<Nom_municipalite>TNO aquatique de la MRC d'Abitibi-Ouest</Nom_municipalite>
+		<Population_estimee>0</Population_estimee>
+		<Date_incorportation>20020325</Date_incorportation>
+		<Ref_juridique></Ref_juridique>
+		<Code_juridiction>6</Code_juridiction>
+		<Ref_cartographique>32D11</Ref_cartographique>
+		<Latitude >48° 40' 52" </Latitude>
+		<Longitude>79° 24' 23" </Longitude>
+		<Superficie_terre_km2>0.126</Superficie_terre_km2>
+		<Superficie_totale_km2>24.167</Superficie_totale_km2>
+		<Ref_juridique_transformation>G24-28</Ref_juridique_transformation>
+		<Date_transformation>20240713</Date_transformation>
+		<Code_transformation>D8</Code_transformation>
+		<Code_municipalite_destination>87075</Code_municipalite_destination>
+		<Superficie_terre_implique_km2>0.126</Superficie_terre_implique_km2>
 	</Municipalite>
 	<Municipalite>
 		<Code_municipalite_provenance/>
