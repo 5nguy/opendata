@@ -1,0 +1,43 @@
+ï»¿Caracteristique,Valeur,Fin_prest_assurance_emploi,Perte_emp_sans_assurance_emploi,Prest_assurance_emploi_insuffi,Perte_du_conjoint,Fin_etudes_temps_complet,Revenus_insuffisants,Attente_revenus,Autres_raison
+Programme,Programme objectif emploi,77,104,55,6,27,277,2,46
+Programme,Programme d'aide sociale,420,327,249,94,129,3497,13,469
+Programme,Programme de solidaritÃ© sociale,23,16,15,6,6,122,3,72
+Programme,Programme de revenu de base,7,4,2,1,1,17,1,40
+Programme,Programme inconnu,0,0,0,0,0,4,0,1
+Type d'allocation,Prestation de base (Objectif emploi et Aide social,360,348,243,53,121,3470,7,418
+Type d'allocation,Alloc. pour contraintes temporaires,137,83,60,47,35,296,8,94
+Type d'allocation,Alloc. mixte (2 adultes avec cont. tempo.),0,0,1,0,0,8,0,3
+Type d'allocation,Alloc. de solidaritÃ© sociale,23,16,15,6,6,116,3,67
+Type d'allocation,Prestations de base HÃ©bergÃ©s (SolidaritÃ© sociale),0,0,0,0,0,6,0,5
+Type d'allocation,Prestation du Programme de revenu de base,7,4,2,1,1,17,1,40
+Type d'allocation,Inconnu,0,0,0,0,0,4,0,1
+Situation familiale,Personnes seules,457,377,275,55,114,3279,15,552
+Situation familiale,Couples sans enfants,3,14,2,1,1,180,0,13
+Situation familiale,Familles monoparentales,63,52,37,51,44,230,4,40
+Situation familiale,Couples avec enfants,4,8,7,0,4,224,0,21
+Situation familiale,Conjoint d'Ã©tudiant,0,0,0,0,0,4,0,2
+Type de rÃ©sidence,Locataire,260,222,153,47,80,757,10,143
+Type de rÃ©sidence,Locataire HLM ou coopÃ©rative,36,35,22,15,28,74,0,26
+Type de rÃ©sidence,Chambreur ou pensionnaire,187,166,128,43,51,2969,5,278
+Type de rÃ©sidence,Temporairement sans adresse,15,13,10,0,2,76,0,83
+Type de rÃ©sidence,PropriÃ©tÃ©,25,8,4,1,1,21,2,9
+Type de rÃ©sidence,En hÃ©bergement,4,7,4,1,1,18,2,89
+Type de rÃ©sidence,Inconnue,0,0,0,0,0,2,0,0
+RÃ©gion,01 - Bas-Saint-Laurent,10,5,5,1,7,17,1,7
+RÃ©gion,02 - Saguenay-Lac-Saint-Jean,11,17,14,4,6,28,1,19
+RÃ©gion,03 - Capitale-Nationale,36,36,42,12,8,150,4,88
+RÃ©gion,04 - Mauricie,15,19,19,5,8,43,0,30
+RÃ©gion,05 - Estrie,35,27,23,5,10,87,1,62
+RÃ©gion,06 - MontrÃ©al,137,119,65,27,53,2617,2,153
+RÃ©gion,07 - Outaouais,34,28,23,3,17,103,1,30
+RÃ©gion,08 - Abitibi-TÃ©miscamingue,6,6,8,3,1,14,1,19
+RÃ©gion,09 - CÃ´te-Nord,3,4,0,1,3,9,0,5
+RÃ©gion,10 - Nord-du-QuÃ©bec,1,3,1,3,0,11,0,2
+RÃ©gion,11 - GaspÃ©sie-Ãles-de-la-Madeleine,15,9,5,4,7,21,0,6
+RÃ©gion,12 - ChaudiÃ¨re-Appalaches,25,29,17,7,4,48,1,19
+RÃ©gion,13 - Laval,21,21,4,5,1,175,1,21
+RÃ©gion,14 - LanaudiÃ¨re,44,28,31,9,10,109,0,33
+RÃ©gion,15 - Laurentides,34,26,22,5,15,83,2,47
+RÃ©gion,16 - MontÃ©rÃ©gie,76,50,32,8,11,331,3,64
+RÃ©gion,17 - Centre-du-QuÃ©bec,23,23,10,5,2,62,1,23
+RÃ©gion,RÃ©gion inconnue,1,1,0,0,0,9,0,0

@@ -1,0 +1,44 @@
+ï»¿Caracteristique,Valeur,Nb_menages,Nb_adultes,Nb_enfants,Nb_prestataires,Prestation_totale_versee,Prestations_de_base,Alloc_CTE,Alloc_mixte,Alloc_SS,Prest_base_Heberges
+Programme,Programme d'aide sociale,125637,136854,50252,187106,103504592.07,83138,40824,1675,0,0
+Programme,Programme de solidaritÃ© sociale,111586,116420,6245,122665,137627539.32,0,0,0,109443,2143
+Situation familiale,Personnes seules,198060,198060,0,198060,196721216.69,65083,29050,0,101784,2143
+Situation familiale,Couples sans enfants,7681,15362,0,15362,9878983.4586,2026,714,1312,3629,0
+Situation familiale,Familles monoparentales,23022,23022,39079,62101,23003573.267,9964,10249,0,2809,0
+Situation familiale,Couples avec enfants,8370,16740,17418,34158,11497683.249,6007,795,363,1205,0
+Situation familiale,Conjoint d'Ã©tudiant,90,90,0,90,30674.719998,58,16,0,16,0
+Type de rÃ©sidence,Locataire,93040,102932,33876,136808,93801763.157,33991,20148,941,37960,0
+Type de rÃ©sidence,Locataire HLM ou coopÃ©rative,30790,33140,12916,46056,32384003.875,7389,7234,273,15894,0
+Type de rÃ©sidence,Chambreur ou pensionnaire,100452,103279,8003,111282,103541991.18,37484,11457,353,51158,0
+Type de rÃ©sidence,Temporairement sans adresse,3567,3581,24,3605,3136930.5998,2219,482,2,864,0
+Type de rÃ©sidence,PropriÃ©tÃ©,6389,7357,1678,9035,6449286.5186,1213,1503,106,3567,0
+Type de rÃ©sidence,En hÃ©bergement,2985,2985,0,2985,1818156.0595,842,0,0,0,2143
+RÃ©gion,01 - Bas-Saint-Laurent,5522,5810,813,6623,5896330.2392,1251,899,22,3350,0
+RÃ©gion,02 - Saguenay-Lac-Saint-Jean,7506,7824,1095,8919,7802880.6991,2107,1331,36,4028,4
+RÃ©gion,03 - Capitale-Nationale,14935,15465,2387,17852,15436912.468,4251,2586,68,8021,9
+RÃ©gion,04 - Mauricie,10561,11036,2246,13282,10732611.219,3631,1853,55,5013,9
+RÃ©gion,05 - Estrie,14364,15166,3359,18525,15141710.638,4404,2425,80,7423,32
+RÃ©gion,06 - MontrÃ©al,77984,86242,23744,109986,76885070.425,37707,13249,644,26362,22
+RÃ©gion,07 - Outaouais,11404,12008,3282,15290,11505792.159,3940,2256,73,5134,1
+RÃ©gion,08 - Abitibi-TÃ©miscamingue,3501,3649,665,4314,3596487.6896,989,622,8,1881,1
+RÃ©gion,09 - CÃ´te-Nord,1823,1890,341,2231,1890667.9798,506,330,7,980,0
+RÃ©gion,10 - Nord-du-QuÃ©bec,917,975,342,1317,865502.61993,432,170,5,310,0
+RÃ©gion,11 - GaspÃ©sie-Ãles-de-la-Madeleine,3040,3246,417,3663,3288082.1796,610,521,19,1890,0
+RÃ©gion,12 - ChaudiÃ¨re-Appalaches,7698,8029,1291,9320,8128410.779,1971,1133,26,4564,4
+RÃ©gion,13 - Laval,8019,8706,1884,10590,8480485.0792,2197,1633,185,4004,0
+RÃ©gion,14 - LanaudiÃ¨re,11364,11912,2748,14660,11569946.039,3179,2325,72,5782,6
+RÃ©gion,15 - Laurentides,13599,14218,2764,16982,14031470.108,3952,2538,70,7027,12
+RÃ©gion,16 - MontÃ©rÃ©gie,29392,30756,6783,37539,30324456.197,8733,5187,162,15295,15
+RÃ©gion,17 - Centre-du-QuÃ©bec,7334,7658,1540,9198,7513035.969,2369,1272,25,3659,9
+RÃ©gion,Directions centrales,1,1,0,1,751.07999992,1,0,0,0,0
+RÃ©gion,98 - Direction provinciale Ã  distance,1517,1870,778,2648,1356084.3795,903,492,118,4,0
+RÃ©gion,Directions centrales,6742,6813,18,6831,6685443.4395,5,2,0,4716,2019
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_aide_emploi,551,552,251,803,454984.43995,333,30,0,187,1
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_soutien,1697,1697,113,1810,2159813.5398,340,8,0,1340,9
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_travail,7310,7345,2260,9605,6281976.8985,2476,1629,114,3083,8
+ClientÃ¨le supplÃ©mentÃ©e,Prestations_assurance_emploi,358,359,103,462,229066.56997,143,99,3,113,0
+ClientÃ¨le supplÃ©mentÃ©e,Contribution_parentale,83,83,0,83,39070.479999,58,25,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,Pension_alimentaire,7129,7131,12144,19275,6827621.7188,2742,3184,18,1184,1
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_invalidite,10768,10788,456,11244,6231332.8354,0,1,0,10760,7
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_retraite,30366,30853,1173,32026,29763229.857,43,13892,601,15625,205
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_autres,10511,10387,1488,11875,9951898.5777,1306,1566,152,7473,14
+ClientÃ¨le supplÃ©mentÃ©e,Total_distinct,63332,64199,16504,80703,57968926.879,7101,18868,751,36371,241

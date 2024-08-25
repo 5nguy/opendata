@@ -1,0 +1,40 @@
+ï»¿Caracteristique,Valeur,Nb_menages,Nb_adultes,Nb_enfants,Nb_prestataires,Prestation_totale_versee
+Situation familiale,Personnes seules,3895,3895,0,3895,2843079.5699
+Situation familiale,Couples sans enfants,101,202,0,202,111181.87999
+Situation familiale,Familles monoparentales,511,511,851,1362,390881.69996
+Situation familiale,Couples avec enfants,314,628,809,1437,365736.89996
+Situation familiale,Conjoint d'Ã©tudiant,16,16,0,16,11799.669999
+Type de rÃ©sidence,Locataire,2001,2331,1219,3550,1601648.2499
+Type de rÃ©sidence,Locataire HLM ou coopÃ©rative,136,156,115,271,111271.71
+Type de rÃ©sidence,Chambreur ou pensionnaire,2462,2512,269,2781,1834693.9699
+Type de rÃ©sidence,Temporairement sans adresse,129,130,0,130,97003.319998
+Type de rÃ©sidence,PropriÃ©tÃ©,107,121,57,178,76522.469989
+Type de rÃ©sidence,En hÃ©bergement,2,2,0,2,1540
+RÃ©gion,01 - Bas-Saint-Laurent,69,75,18,93,52763.749995
+RÃ©gion,02 - Saguenay-Lac-Saint-Jean,132,137,22,159,98412.949996
+RÃ©gion,03 - Capitale-Nationale,447,484,169,653,340819.74998
+RÃ©gion,04 - Mauricie,208,225,77,302,162212.55999
+RÃ©gion,05 - Estrie,327,372,165,537,267969.66999
+RÃ©gion,06 - MontrÃ©al,1441,1578,400,1978,1114919.4599
+RÃ©gion,07 - Outaouais,391,414,136,550,300070.77999
+RÃ©gion,08 - Abitibi-TÃ©miscamingue,66,70,20,90,51453.129999
+RÃ©gion,09 - CÃ´te-Nord,35,36,4,40,25839.579999
+RÃ©gion,10 - Nord-du-QuÃ©bec,13,16,1,17,9981.4999991
+RÃ©gion,11 - GaspÃ©sie-Ãles-de-la-Madeleine,46,46,2,48,31911.439998
+RÃ©gion,12 - ChaudiÃ¨re-Appalaches,156,167,45,212,118247.28999
+RÃ©gion,13 - Laval,227,255,112,367,179457.27999
+RÃ©gion,14 - LanaudiÃ¨re,252,268,74,342,193073.31999
+RÃ©gion,15 - Laurentides,242,263,94,357,181203.34999
+RÃ©gion,16 - MontÃ©rÃ©gie,562,603,194,797,426388.53998
+RÃ©gion,17 - Centre-du-QuÃ©bec,220,240,126,366,165648.03999
+RÃ©gion,RÃ©gion inconnue,3,3,1,4,2307.3299999
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_aide_emploi,93,96,56,152,47723.309996
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_soutien,0,0,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_travail,228,231,109,340,144425.66997
+ClientÃ¨le supplÃ©mentÃ©e,Prestations_assurance_emploi,18,18,2,20,10992.839999
+ClientÃ¨le supplÃ©mentÃ©e,Contribution_parentale,0,0,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,Pension_alimentaire,123,123,206,329,94616.469991
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_invalidite,0,0,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_retraite,36,36,3,39,20440.629984
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_autres,85,84,36,120,48357.469984
+ClientÃ¨le supplÃ©mentÃ©e,Total_distinct,545,553,387,940,346254.32993

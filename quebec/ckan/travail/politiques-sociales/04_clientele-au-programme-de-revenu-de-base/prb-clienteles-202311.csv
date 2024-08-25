@@ -1,0 +1,43 @@
+ï»¿Caracteristique,Valeur,Nb_adultes,Nb_enfants,Nb_prestataires,Prestation_totale_versee
+Situation familiale,Personnes seules,78698,0,78698,112750563.88
+Situation familiale,Couples sans enfants,3052,0,3052,3370994.2296
+Situation familiale,Familles monoparentales,1561,2138,3699,2429376.5899
+Situation familiale,Couples avec enfants,774,1313,2087,937452.68994
+Situation maritale,Adultes seuls,80259,2138,82397,115179940.47
+Situation maritale,Adultes avec conjoint Ã  lâAFDR,2362,1053,3415,2662938.4397
+Situation maritale,Adultes avec conjoint au PRB,1030,76,1106,1166138.1999
+Situation maritale,Adultes avec conjoint hors Assistance sociale,434,184,618,479370.27995
+Type de rÃ©sidence,Locataire,27367,1855,29222,38182864.326
+Type de rÃ©sidence,Locataire HLM ou coopÃ©rative,12711,1025,13736,17710868.818
+Type de rÃ©sidence,Chambreur ou pensionnaire,39118,312,39430,58767602.977
+Type de rÃ©sidence,Temporairement sans adresse,591,0,591,876592.78994
+Type de rÃ©sidence,PropriÃ©tÃ©,2600,259,2859,3383121.2594
+Type de rÃ©sidence,En hÃ©bergement,1698,0,1698,567337.21994
+RÃ©gion,01 - Bas-Saint-Laurent,2688,82,2770,3815809.7597
+RÃ©gion,02 - Saguenay-Lac-Saint-Jean,3343,82,3425,4863322.1896
+RÃ©gion,03 - Capitale-Nationale,6782,164,6946,9582967.3692
+RÃ©gion,04 - Mauricie,4108,182,4290,5917785.0595
+RÃ©gion,05 - Estrie,6145,258,6403,8657405.3192
+RÃ©gion,06 - MontrÃ©al,20769,1059,21828,29566722.748
+RÃ©gion,07 - Outaouais,3969,212,4181,5676483.3094
+RÃ©gion,08 - Abitibi-TÃ©miscamingue,1515,39,1554,2127845.1998
+RÃ©gion,09 - CÃ´te-Nord,849,13,862,1205815.4099
+RÃ©gion,10 - Nord-du-QuÃ©bec,241,5,246,350469.56998
+RÃ©gion,11 - GaspÃ©sie-Ãles-de-la-Madeleine,1483,52,1535,2099982.0398
+RÃ©gion,12 - ChaudiÃ¨re-Appalaches,3783,101,3884,5308513.0495
+RÃ©gion,13 - Laval,3131,149,3280,4486161.7197
+RÃ©gion,14 - LanaudiÃ¨re,4641,174,4815,6565734.2795
+RÃ©gion,15 - Laurentides,5588,203,5791,7949998.8693
+RÃ©gion,16 - MontÃ©rÃ©gie,11988,545,12533,16992358.199
+RÃ©gion,17 - Centre-du-QuÃ©bec,2951,131,3082,4161550.5296
+RÃ©gion,RÃ©gion inconnue,111,0,111,159462.76999
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_aide_emploi,131,16,147,139112.08999
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_soutien,1181,26,1207,1791991.3599
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_travail,0,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,Prestations_assurance_emploi,33,2,35,20733.679991
+ClientÃ¨le supplÃ©mentÃ©e,Contribution_parentale,0,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,Pension_alimentaire,0,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_invalidite,7975,278,8253,5717717.4564
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_retraite,11789,155,11944,16595260.025
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_autres,6210,249,6459,8274302.6289
+ClientÃ¨le supplÃ©mentÃ©e,Total_distinct,25744,569,26313,31008983.251

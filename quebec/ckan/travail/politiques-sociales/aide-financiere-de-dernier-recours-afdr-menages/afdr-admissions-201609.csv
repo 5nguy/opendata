@@ -1,0 +1,40 @@
+﻿Caracteristique,Valeur,Fin_prest_assurance_emploi,Perte_emp_sans_assurance_emploi,Prest_assurance_emploi_insuffi,Perte_du_conjoint,Fin_etudes_temps_complet,Revenus_insuffisants,Attente_revenus,Autres_raison
+Programme,Programme d'aide sociale,865,1036,447,286,292,1224,58,1288
+Programme,Programme de solidarité sociale,44,40,17,25,19,183,4,259
+Programme,Programme inconnu,0,2,1,1,1,1,0,6
+Type d'allocation,Prestation de base (incluant les hébergés),580,836,331,124,223,922,29,996
+Type d'allocation,Alloc. pour contraintes temporaires,278,193,113,161,69,292,29,278
+Type d'allocation,Alloc. mixte (2 adultes avec cont. tempo.),7,7,3,1,0,10,0,14
+Type d'allocation,Alloc. de solidarité sociale,44,40,17,24,19,182,4,251
+Type d'allocation,Prestations de base Hébergés,0,0,0,1,0,1,0,8
+Type d'allocation,Inconnu,0,2,1,1,1,1,0,6
+Situation familiale,Personnes seules,710,888,363,146,208,1068,40,1216
+Situation familiale,Couples sans enfants,23,19,11,1,4,50,2,43
+Situation familiale,Familles monoparentales,138,129,70,164,79,174,19,135
+Situation familiale,Couples avec enfants,37,41,21,1,19,107,1,136
+Situation familiale,Conjoint d'étudiant,1,1,0,0,2,9,0,23
+Type de résidence,Locataire,550,593,274,139,159,537,38,557
+Type de résidence,Locataire HLM ou coopérative,44,52,18,24,20,60,7,61
+Type de résidence,Chambreur ou pensionnaire,262,381,150,133,124,721,13,757
+Type de résidence,Temporairement sans adresse,4,8,7,3,0,30,1,96
+Type de résidence,Propriété,42,34,13,10,7,43,3,20
+Type de résidence,En hébergement,7,10,3,3,2,17,0,60
+Type de résidence,Inconnue,0,0,0,0,0,0,0,2
+Région,01 - Bas-Saint-Laurent,22,27,10,9,5,45,3,25
+Région,02 - Saguenay - Lac-St-Jean,31,76,21,17,18,60,1,29
+Région,03 - Capitale-Nationale,72,82,32,16,14,74,4,111
+Région,04 - Mauricie,36,50,23,10,15,78,2,47
+Région,05 - Estrie,38,74,25,15,18,82,1,39
+Région,06 - Île-de-Montréal,245,256,111,82,115,512,20,651
+Région,07 - Outaouais,51,55,46,19,15,92,7,36
+Région,08 - Abitibi-Témiscamingue,21,16,8,5,5,15,0,24
+Région,09 - Côte-Nord,17,22,5,5,6,15,1,16
+Région,10 - Nord-du-Québec,0,8,2,4,1,10,0,11
+Région,11 - Gaspésie - Îles-de-la-Madeleine,21,26,5,6,5,27,1,10
+Région,12 - Chaudières-Appalaches,30,39,27,13,9,51,4,42
+Région,13 - Laval,30,29,15,10,13,13,1,92
+Région,14 - Lanaudière,52,53,30,17,17,85,5,33
+Région,15 - Laurentides,78,93,25,24,14,27,3,124
+Région,16 - Montérégie,138,121,67,46,31,161,7,165
+Région,17 - Centre-du-Québec,27,50,12,11,11,18,2,68
+Région,99 - Central,0,1,1,3,0,43,0,30

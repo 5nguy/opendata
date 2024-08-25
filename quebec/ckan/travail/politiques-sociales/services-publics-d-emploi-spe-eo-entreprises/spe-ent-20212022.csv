@@ -1,0 +1,66 @@
+ï»¿clientele,caracteristique,valeur,nouveau_participant,participant_actif,nouvelle_participation,participation_active
+Entreprise,RÃ©gion,01 - Bas-Saint-Laurent,589,704,907,1155
+Entreprise,RÃ©gion,02 - Saguenay - Lac-St-Jean,580,692,784,1006
+Entreprise,RÃ©gion,03 - Capitale-Nationale,1316,1507,1898,2250
+Entreprise,RÃ©gion,04 - Mauricie,489,584,670,853
+Entreprise,RÃ©gion,05 - Estrie,1077,1296,1538,1998
+Entreprise,RÃ©gion,06 - Ãle-de-MontrÃ©al,2863,3769,3788,5409
+Entreprise,RÃ©gion,07 - Outaouais,534,820,818,1289
+Entreprise,RÃ©gion,08 - Abitibi-TÃ©miscamingue,467,556,652,827
+Entreprise,RÃ©gion,09 - CÃ´te-Nord,330,366,454,525
+Entreprise,RÃ©gion,10 - Nord-du-QuÃ©bec,119,166,237,337
+Entreprise,RÃ©gion,11 - GaspÃ©sie - Ãles-de-la-Madeleine,554,617,1214,1404
+Entreprise,RÃ©gion,12 - ChaudiÃ¨re-Appalaches,744,952,1334,1839
+Entreprise,RÃ©gion,13 - Laval,462,514,634,760
+Entreprise,RÃ©gion,14 - LanaudiÃ¨re,815,967,1141,1452
+Entreprise,RÃ©gion,15 - Laurentides,1089,1482,1485,2165
+Entreprise,RÃ©gion,16 - MontÃ©rÃ©gie,1943,2627,2729,3964
+Entreprise,RÃ©gion,17 - Centre-du-QuÃ©bec,590,759,893,1260
+Entreprise,RÃ©gion,99 - Central,60,76,132,208
+Entreprise,Type d`entreprise ou d`organisme,Entreprise ou organisme Ã  but lucratif,10613,13515,15308,20629
+Entreprise,Type d`entreprise ou d`organisme,Entreprise ou organisme Ã  but non lucratif,3696,4425,5998,8070
+Entreprise,Type d`entreprise ou d`organisme,Intervenant externe,2,2,2,2
+Entreprise,Genre d`entreprise ou d`organisme,Entreprise d`entraÃ®nement,7,9,9,11
+Entreprise,Genre d`entreprise ou d`organisme,Entreprise d`insertion,31,41,46,71
+Entreprise,Genre d`entreprise ou d`organisme,Entreprise d`enseignement privÃ©,112,130,151,205
+Entreprise,Genre d`entreprise ou d`organisme,Entreprise d`enseignement public,137,153,393,564
+Entreprise,Genre d`entreprise ou d`organisme,Ãconomie sociale,304,357,490,660
+Entreprise,Genre d`entreprise ou d`organisme,Non applicable,11652,14310,18015,23912
+Entreprise,Genre d`entreprise ou d`organisme,Inconnu,2068,2942,2204,3278
+Entreprise,Code Scian Ã  2 chiffres,"Agriculture, foresterie, pÃªche et chasse",637,785,884,1151
+Entreprise,Code Scian Ã  2 chiffres,Extraction miniÃ¨re et extraction de pÃ©trole et de gaz,64,78,110,144
+Entreprise,Code Scian Ã  2 chiffres,Services publics,39,45,57,76
+Entreprise,Code Scian Ã  2 chiffres,Construction,779,973,1116,1494
+Entreprise,Code Scian Ã  2 chiffres,Fabrication,541,689,824,1136
+Entreprise,Code Scian Ã  2 chiffres,Fabrication,642,792,1104,1463
+Entreprise,Code Scian Ã  2 chiffres,Fabrication,1181,1413,2029,2694
+Entreprise,Code Scian Ã  2 chiffres,Commerce de gros,635,788,919,1241
+Entreprise,Code Scian Ã  2 chiffres,Commerce de dÃ©tail,940,1212,1214,1647
+Entreprise,Code Scian Ã  2 chiffres,Commerce de dÃ©tail,264,339,338,449
+Entreprise,Code Scian Ã  2 chiffres,Transport et entreposage,334,446,465,637
+Entreprise,Code Scian Ã  2 chiffres,Transport et entreposage,21,23,31,43
+Entreprise,Code Scian Ã  2 chiffres,Industrie de l'information et industrie culturelle,718,966,999,1415
+Entreprise,Code Scian Ã  2 chiffres,Finance et assurances,229,284,314,416
+Entreprise,Code Scian Ã  2 chiffres,Services immobiliers et services de location et de location Ã  bail,257,344,344,484
+Entreprise,Code Scian Ã  2 chiffres,"Services professionnels, scientifiques et techniques",1463,1812,2140,2851
+Entreprise,Code Scian Ã  2 chiffres,Gestion de sociÃ©tÃ©s et d'entreprises,275,342,401,512
+Entreprise,Code Scian Ã  2 chiffres,"Services administratifs, services de soutien, services de gestion des dÃ©chets et services d'assainissement",474,597,722,960
+Entreprise,Code Scian Ã  2 chiffres,Services d'enseignement,288,343,597,848
+Entreprise,Code Scian Ã  2 chiffres,Soins de santÃ© et assistance sociale,962,1214,1373,1821
+Entreprise,Code Scian Ã  2 chiffres,"Arts, spectacles et loisirs",671,849,1042,1520
+Entreprise,Code Scian Ã  2 chiffres,HÃ©bergement et services de restauration,382,487,573,743
+Entreprise,Code Scian Ã  2 chiffres,"Autres services, sauf les administrations publiques",1809,2177,2849,3759
+Entreprise,Code Scian Ã  2 chiffres,Administrations publiques,214,261,339,436
+Entreprise,Code Scian Ã  2 chiffres,Inconnu,492,683,524,761
+Entreprise,Taille de l`entreprise ou de l`organisme,Aucun employÃ©,1211,1763,1416,2136
+Entreprise,Taille de l`entreprise ou de l`organisme,1 Ã  5 employÃ©s,3292,4242,4373,5910
+Entreprise,Taille de l`entreprise ou de l`organisme,6 Ã  10 employÃ©s,2092,2550,2981,3936
+Entreprise,Taille de l`entreprise ou de l`organisme,11 Ã  25 employÃ©s,2878,3493,4398,5754
+Entreprise,Taille de l`entreprise ou de l`organisme,26 Ã  49 employÃ©s,1749,2124,2777,3638
+Entreprise,Taille de l`entreprise ou de l`organisme,50 Ã  99 employÃ©s,1228,1472,2157,2890
+Entreprise,Taille de l`entreprise ou de l`organisme,100 Ã  249 employÃ©s,859,1019,1614,2202
+Entreprise,Taille de l`entreprise ou de l`organisme,250 Ã  499 employÃ©s,251,316,513,724
+Entreprise,Taille de l`entreprise ou de l`organisme,500 Ã  999 employÃ©s,98,127,189,277
+Entreprise,Taille de l`entreprise ou de l`organisme,1000 Ã  2499 employÃ©s,45,60,76,121
+Entreprise,Taille de l`entreprise ou de l`organisme,2500 employÃ©s et +,28,33,48,72
+Entreprise,Taille de l`entreprise ou de l`organisme,Inconnue,580,743,766,1041

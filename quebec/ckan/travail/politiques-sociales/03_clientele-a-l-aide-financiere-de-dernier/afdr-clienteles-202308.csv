@@ -1,0 +1,42 @@
+ï»¿Caracteristique,Valeur,Nb_menages,Nb_adultes,Nb_enfants,Nb_prestataires,Prestation_totale_versee,Prestations_de_base,Alloc_CTE,Alloc_mixte,Alloc_SS,Prest_base_Heberges
+Programme,Programme d'aide sociale,143087,155915,51956,207871,125049958.99,100217,41286,1584,0,0
+Programme,Programme de solidaritÃ© sociale,25038,26144,2217,28361,27365906.477,0,0,0,24609,429
+Situation familiale,Personnes seules,130226,130226,0,130226,109760192.7,78423,29011,0,22363,429
+Situation familiale,Couples sans enfants,7561,13174,0,13174,8540538.069,3821,1605,1271,864,0
+Situation familiale,Familles monoparentales,21330,21330,36925,58255,21715005.177,10525,9829,0,976,0
+Situation familiale,Couples avec enfants,8948,17269,17248,34517,12383665.619,7400,833,313,402,0
+Situation familiale,Conjoint d'Ã©tudiant,60,60,0,60,16463.899999,48,8,0,4,0
+Type de rÃ©sidence,Locataire,70297,79753,33711,113464,65811713.549,40807,20202,972,8316,0
+Type de rÃ©sidence,Locataire HLM ou coopÃ©rative,18434,19901,11735,31636,17213580.828,7678,7378,236,3142,0
+Type de rÃ©sidence,Chambreur ou pensionnaire,70467,73055,7310,80365,61513242.164,46775,11477,289,11926,0
+Type de rÃ©sidence,Temporairement sans adresse,3707,3716,29,3745,3128007.1898,2716,600,2,389,0
+Type de rÃ©sidence,PropriÃ©tÃ©,3858,4272,1388,5660,3379300.7193,1308,1629,85,836,0
+Type de rÃ©sidence,En hÃ©bergement,1362,1362,0,1362,1370021.0197,933,0,0,0,429
+RÃ©gion,01 - Bas-Saint-Laurent,2962,3103,722,3825,2640891.9497,1327,873,17,740,5
+RÃ©gion,02 - Saguenay-Lac-Saint-Jean,4339,4478,1089,5567,3802446.0596,2164,1330,24,818,3
+RÃ©gion,03 - Capitale-Nationale,9708,10163,2442,12605,8576667.3188,5162,2639,64,1811,32
+RÃ©gion,04 - Mauricie,6721,7011,2089,9100,5972021.2793,3797,1848,41,1029,6
+RÃ©gion,05 - Estrie,9301,9867,3222,13089,8660579.2189,5062,2539,74,1597,29
+RÃ©gion,06 - MontrÃ©al,67209,74985,21870,96855,61349981.623,46432,13449,682,6438,208
+RÃ©gion,07 - Outaouais,8105,8598,3286,11884,7206413.5291,4544,2345,76,1135,5
+RÃ©gion,08 - Abitibi-TÃ©miscamingue,2150,2214,605,2819,1888172.5198,1028,628,10,477,7
+RÃ©gion,09 - CÃ´te-Nord,1059,1090,306,1396,914627.64988,500,345,6,201,7
+RÃ©gion,10 - Nord-du-QuÃ©bec,705,751,307,1058,619462.01996,425,164,7,105,4
+RÃ©gion,11 - GaspÃ©sie-Ãles-de-la-Madeleine,1739,1812,365,2177,1576305.7898,718,531,15,473,2
+RÃ©gion,12 - ChaudiÃ¨re-Appalaches,4493,4701,1264,5965,3993288.7495,2303,1167,24,996,3
+RÃ©gion,13 - Laval,6844,7776,2478,10254,6501528.9987,3846,1739,174,1061,24
+RÃ©gion,14 - LanaudiÃ¨re,7584,8015,2624,10639,6759619.779,3661,2398,76,1435,14
+RÃ©gion,15 - Laurentides,8963,9418,2620,12038,8102863.2789,4567,2567,80,1724,25
+RÃ©gion,16 - MontÃ©rÃ©gie,21090,22662,7270,29932,19299213.307,11710,5434,192,3707,47
+RÃ©gion,17 - Centre-du-QuÃ©bec,5066,5324,1590,6914,4470554.8393,2924,1273,22,840,7
+RÃ©gion,RÃ©gion inconnue,87,91,24,115,81227.559986,47,17,0,22,1
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_aide_emploi,383,382,211,593,290271.91995,299,36,1,47,0
+ClientÃ¨le supplÃ©mentÃ©e,Allocations_soutien,629,629,70,699,678883.71997,346,8,0,273,2
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_travail,5255,5277,2089,7366,4244599.8689,2531,1667,99,956,2
+ClientÃ¨le supplÃ©mentÃ©e,Prestations_assurance_emploi,254,255,101,356,166807.26997,114,89,4,46,1
+ClientÃ¨le supplÃ©mentÃ©e,Contribution_parentale,94,94,0,94,50198.22,57,37,0,0,0
+ClientÃ¨le supplÃ©mentÃ©e,Pension_alimentaire,6390,6393,11646,18039,6275405.7292,2821,3102,21,445,1
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_invalidite,2417,2416,183,2599,943698.46916,0,1,0,2413,3
+ClientÃ¨le supplÃ©mentÃ©e,RRQ_retraite,17437,17673,868,18541,14147558.752,37,13935,522,2885,58
+ClientÃ¨le supplÃ©mentÃ©e,Revenus_autres,4526,4466,1196,5662,3071697.1087,1514,1591,141,1263,17
+ClientÃ¨le supplÃ©mentÃ©e,Total_distinct,34445,34856,15127,49983,27838982.209,7391,18822,658,7497,77

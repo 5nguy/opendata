@@ -1,0 +1,61 @@
+ï»¿Caracteristique,Valeur,NHC_moins_5ans,NHC_5ans_et_plus,Femmes,Hommes,Moins_de_25ans,Age_moyen,Duree_cumul_moyenne
+Situation familiale,Personnes seules,442,544,1327,2315,1533,29.718835805,7.1600768808
+Situation familiale,Couples sans enfants,38,41,97,93,49,39.378947368,19.610526316
+Situation familiale,Familles monoparentales,138,89,409,82,73,35.560081466,6.8553971487
+Situation familiale,Couples avec enfants,416,132,354,354,49,38.638418079,12.254237288
+Situation familiale,Conjoint d'Ã©tudiant,6,1,6,6,2,33.583333333,5.6666666667
+Sexe,Hommes,473,450,0,2850,921,32.372982456,8.458245614
+Sexe,Femmes,567,357,2193,0,785,31.315093479,8.1199270406
+Ãge,Moins de 20 ans,87,55,340,378,718,18.480501393,6.4066852368
+Ãge,De 20 Ã  24 ans,159,82,445,543,988,21.782388664,7.3906882591
+Ãge,De 25 Ã  29 ans,100,109,322,480,0,26.920199501,7.1346633416
+Ãge,De 30 Ã  34 ans,147,113,313,392,0,31.95177305,8.3333333333
+Ãge,De 35 Ã  39 ans,159,123,260,309,0,36.989455185,7.7785588752
+Ãge,De 40 Ã  44 ans,166,95,201,242,0,41.794582393,8.841986456
+Ãge,De 45 Ã  49 ans,103,73,132,187,0,46.664576803,8.5141065831
+Ãge,De 50 Ã  54 ans,64,67,99,142,0,52.029045643,13.12033195
+Ãge,55 ans et plus,55,90,81,177,0,58.310077519,16.251937984
+Ãge,35 ans et moins,518,382,1476,1858,1706,24.937312537,7.3575284943
+Ãge,36 ans et plus,522,425,717,992,0,45.521357519,10.17144529
+ScolaritÃ©,Primaire,165,41,166,200,158,31.426229508,7.9234972678
+ScolaritÃ©,Secondaire I Ã  IV,112,146,606,955,795,27.468930173,9.6969891095
+ScolaritÃ©,Secondaire V,109,163,401,595,236,33.370481928,8.5030120482
+ScolaritÃ©,CollÃ©giale,43,104,203,236,51,36.382687927,8.3530751708
+ScolaritÃ©,Universitaire,139,167,230,239,15,40.330490405,7.4307036247
+ScolaritÃ©,Inconnue,472,186,587,625,451,31.709570957,6.8110561056
+DiplÃ´me maximum obtenu,Aucun diplÃ´me,327,228,828,1269,981,28.786361469,9.4620886981
+DiplÃ´me maximum obtenu,Secondaire - DES,62,117,348,454,222,32.507481297,7.9401496259
+DiplÃ´me maximum obtenu,Secondaire - DEP,3,25,56,91,18,35.598639456,8.9591836735
+DiplÃ´me maximum obtenu,Secondaire - ASP,0,0,0,5,1,33.6,9.2
+DiplÃ´me maximum obtenu,CollÃ©gial - AEC,7,24,40,56,3,38.927083333,8.6145833333
+DiplÃ´me maximum obtenu,CollÃ©gial - DEC gÃ©nÃ©ral,6,13,36,30,7,35.121212121,6.4848484848
+DiplÃ´me maximum obtenu,CollÃ©gial - DEC professionnel,5,19,35,49,2,38.976190476,8.619047619
+DiplÃ´me maximum obtenu,Universitaire - Certificat,4,5,14,14,0,36.464285714,7.75
+DiplÃ´me maximum obtenu,Universitaire - BaccalaurÃ©at,45,72,99,95,6,40.278350515,8.6288659794
+DiplÃ´me maximum obtenu,Universitaire - MaÃ®trise ou doctorat,18,28,28,27,1,43.345454545,5.9818181818
+DiplÃ´me maximum obtenu,Inconnu,563,276,709,760,465,33.05105514,6.9033356025
+DurÃ©e cumulative,Premier mois,104,66,213,281,148,31.619433198,1
+DurÃ©e cumulative,De 2 Ã  3 mois,343,154,493,638,361,31.901856764,2.5552608311
+DurÃ©e cumulative,De 4 Ã  6 mois,295,194,565,673,442,31.226171244,4.8586429725
+DurÃ©e cumulative,De 7 Ã  9 mois,128,123,339,444,284,30.985951469,7.9425287356
+DurÃ©e cumulative,De 10 Ã  12 mois,93,97,263,359,246,30.554662379,10.969453376
+DurÃ©e cumulative,Plus de 12 mois,77,173,320,455,225,35.24,25.12516129
+Statut au programme,Participants,979,722,2061,2730,1667,31.602588186,6.967438948
+Statut au programme,Non participants,61,85,132,120,39,37.813492063,33.857142857
+RÃ©gion,01 - Bas-Saint-Laurent,6,1,24,45,33,28.31884058,8.2753623188
+RÃ©gion,02 - Saguenay-Lac-Saint-Jean,0,3,54,63,66,26.692307692,7.1111111111
+RÃ©gion,03 - Capitale-Nationale,164,37,205,280,146,32.616494845,8.0309278351
+RÃ©gion,04 - Mauricie,39,7,99,96,108,26.717948718,8.1179487179
+RÃ©gion,05 - Estrie,89,22,121,176,130,29.771043771,6.8720538721
+RÃ©gion,06 - MontrÃ©al,364,522,708,895,402,34.123518403,9.0174672489
+RÃ©gion,07 - Outaouais,80,54,171,261,125,33.037037037,9.625
+RÃ©gion,08 - Abitibi-TÃ©miscamingue,0,1,23,32,30,26.890909091,7.5090909091
+RÃ©gion,09 - CÃ´te-Nord,0,0,15,20,15,28.428571429,9.8571428571
+RÃ©gion,10 - Nord-du-QuÃ©bec,0,0,5,6,3,36.090909091,18.909090909
+RÃ©gion,11 - GaspÃ©sie-Ãles-de-la-Madeleine,0,0,18,40,30,30.810344828,11.965517241
+RÃ©gion,12 - ChaudiÃ¨re-Appalaches,2,6,47,87,45,31.805970149,8
+RÃ©gion,13 - Laval,72,62,113,118,46,36.12987013,7.9480519481
+RÃ©gion,14 - LanaudiÃ¨re,21,11,119,149,108,29.895522388,6.8805970149
+RÃ©gion,15 - Laurentides,18,13,108,154,105,30.301526718,7.7175572519
+RÃ©gion,16 - MontÃ©rÃ©gie,126,60,258,322,210,30.937931034,7.7862068966
+RÃ©gion,17 - Centre-du-QuÃ©bec,59,8,105,106,104,27.753554502,6.7677725118
