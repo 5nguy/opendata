@@ -1,0 +1,292 @@
+<html lang="en">
+<head>
+<title>Territoire/AdressesQuebec_Geocodage (GeocodeServer)</title>
+<link href="/pes/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/pes/rest/services">Home</a>
+&gt; <a href="/pes/rest/services">services</a>
+&gt; <a href="/pes/rest/services/Territoire">Territoire</a>
+&gt; <a href="/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer">AdressesQuebec_Geocodage (GeocodeServer)</a>
+</td>
+<td align="right">
+<a href="https://servicescarto.mern.gouv.qc.ca/pes/sdk/rest/02ss/02ss00000057000000.htm" target="_blank">Help</a> | <a href="https://servicescarto.mern.gouv.qc.ca/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer?f=help" target="_blank">API Reference</a>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+| <a href="https://servicescarto.mern.gouv.qc.ca/pes/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer?wsdl" >SOAP</a>
+</td>
+</tr>
+</table>
+<h2>Territoire/AdressesQuebec_Geocodage (GeocodeServer)</h2>
+<div class="rbody">
+<b>Service Description: </b> Service de recherche par adresse basé sur la géobase Adresses Québec. <br/><br/>
+<b>Address Fields:</b>
+<ul>
+<li>
+Street
+<i>
+(
+type: esriFieldTypeString
+, alias: Street or Intersection
+, required: true
+, length: 100
+)
+</i>
+</li>
+<li>
+City
+<i>
+(
+type: esriFieldTypeString
+, alias: City or Placename
+, required: false
+, length: 40
+)
+</i>
+</li>
+<li>
+ZIP
+<i>
+(
+type: esriFieldTypeString
+, alias: ZIP Code
+, required: false
+, length: 10
+)
+</i>
+</li>
+</ul>
+<b>Single Line Address Field:</b>
+<ul>
+<li>
+SingleLine
+<i>
+(
+type: esriFieldTypeString
+, alias: Single Line Input
+, required: false
+, length: 100
+)
+</i></li>
+</ul>
+<b>Candidate Fields:</b>
+<ul>
+<li>
+Loc_name
+<i>
+(
+type: esriFieldTypeString
+, alias: Loc_name
+, required: false
+, length: 14
+)
+</i>
+</li>
+<li>
+Shape
+<i>
+(
+type: esriFieldTypeGeometry
+, alias: Shape
+, required: false
+)
+</i>
+</li>
+<li>
+Score
+<i>
+(
+type: esriFieldTypeDouble
+, alias: Score
+, required: false
+)
+</i>
+</li>
+<li>
+Match_addr
+<i>
+(
+type: esriFieldTypeString
+, alias: Match_addr
+, required: false
+, length: 120
+)
+</i>
+</li>
+<li>
+House
+<i>
+(
+type: esriFieldTypeString
+, alias: House
+, required: false
+, length: 12
+)
+</i>
+</li>
+<li>
+Side
+<i>
+(
+type: esriFieldTypeString
+, alias: Side
+, required: false
+, length: 1
+)
+</i>
+</li>
+<li>
+PreDir
+<i>
+(
+type: esriFieldTypeString
+, alias: PreDir
+, required: false
+, length: 6
+)
+</i>
+</li>
+<li>
+PreType
+<i>
+(
+type: esriFieldTypeString
+, alias: PreType
+, required: false
+, length: 6
+)
+</i>
+</li>
+<li>
+StreetName
+<i>
+(
+type: esriFieldTypeString
+, alias: StreetName
+, required: false
+, length: 32
+)
+</i>
+</li>
+<li>
+SufType
+<i>
+(
+type: esriFieldTypeString
+, alias: SufType
+, required: false
+, length: 6
+)
+</i>
+</li>
+<li>
+SufDir
+<i>
+(
+type: esriFieldTypeString
+, alias: SufDir
+, required: false
+, length: 6
+)
+</i>
+</li>
+<li>
+City
+<i>
+(
+type: esriFieldTypeString
+, alias: City
+, required: false
+, length: 20
+)
+</i>
+</li>
+<li>
+State
+<i>
+(
+type: esriFieldTypeString
+, alias: State
+, required: false
+, length: 2
+)
+</i>
+</li>
+<li>
+ZIP
+<i>
+(
+type: esriFieldTypeString
+, alias: ZIP
+, required: false
+, length: 5
+)
+</i>
+</li>
+<li>
+User_fld
+<i>
+(
+type: esriFieldTypeString
+, alias: User_fld
+, required: false
+, length: 120
+)
+</i>
+</li>
+<li>
+Addr_type
+<i>
+(
+type: esriFieldTypeString
+, alias: Addr_type
+, required: false
+, length: 20
+)
+</i>
+</li>
+</ul>
+<b>Spatial Reference:</b> 32198
+&nbsp;(32198)
+<br/>
+<br/><br/>
+<b>Locator Properties: </b>
+<ul>
+<li>UICLSID: <b>{3D486637-6BCF-4A0C-83DB-A02D437FB8FC}</b></li>
+<li>SuggestedBatchSize: <b>1000</b></li>
+<li>MaxBatchSize: <b>1000</b></li>
+<li>LoadBalancerTimeOut: <b>60</b></li>
+<li>WriteXYCoordFields: <b>FALSE</b></li>
+<li>WriteStandardizedAddressField: <b>FALSE</b></li>
+<li>WriteReferenceIDField: <b>FALSE</b></li>
+<li>WritePercentAlongField: <b>FALSE</b></li>
+</ul>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer/findAddressCandidates">Find Address Candidates</a>
+&nbsp;&nbsp;<a href="/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer/reverseGeocode">Reverse Geocode</a>
+&nbsp;&nbsp;<a href="/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer/geocodeAddresses">Geocode Addresses</a>
+&nbsp;&nbsp;<a href="/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer/suggest">Suggest</a>
+<br/><br/>
+<b>Child Resources</b>:
+&nbsp;&nbsp;<a href="/pes/rest/services/Territoire/AdressesQuebec_Geocodage/GeocodeServer/info">Info</a>
+</div>
+<br/><br/>
+</body>
+</html>
