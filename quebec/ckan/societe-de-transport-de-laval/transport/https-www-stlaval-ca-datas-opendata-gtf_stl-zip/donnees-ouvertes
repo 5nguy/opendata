@@ -1,0 +1,504 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<script src=https://platform.illow.io/banner.js?siteId=4aef1163-bdae-4557-bd2c-627e71341b86></script>
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PTWQL9P');
+	</script>
+	<!-- End Google Tag Manager -->
+	<script src="https://www.google.com/recaptcha/api.js?render=6LfzIyccAAAAADSy3CNxb7w1A_CooAx093iQ7N-T"></script>
+	<script>
+	SetCaptchaToken();
+	setInterval(function () { SetCaptchaToken(); }, 1 * 59 * 1000);
+	
+	function SetCaptchaToken(){
+	grecaptcha.ready(function() {
+		grecaptcha.execute('6LfzIyccAAAAADSy3CNxb7w1A_CooAx093iQ7N-T', {action: 'submit'}).then(function(token){
+			$('input[name=g-recaptcha-response]').val(token);
+		});
+	});
+	}
+	</script>
+	<title>Données ouvertes | STL - Société de transport de Laval</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="La STL partage ses données de trajets et d'horaires planifiés et en temps réel pour faciliter vos déplacements. Consultez les Conditions d'utilisation." />
+	<meta name="viewport" content="width=device-width, user-scalable=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="author" content="Baracci Solutions" />
+	<link rel="canonical" href="https://stlaval.ca/a-propos/diffusion/donnees-ouvertes" />
+	<link rel="shortcut icon" href="https://stlaval.ca/favicon.ico" />
+	<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:400,900&display=swap" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/1665665749dddabab940a9a268f9d0c18889cc48eb.css" media="screen, print" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/165643656139516f4c3cec3fecf072a09f7b1d9f51.css" media="screen and (max-width: 480px)" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/1610737087685451077dbc49a7f71c9ff26baf2fff.css" media="screen and (min-width: 481px) and (max-width: 767px)" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/1649266471c23686103044552dd3db4ce2a866cf19.css" media="screen and (min-width: 768px) and (max-width: 1024px)" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/160443122852e0ecdddf8954d2193e02e3077a2a43.css" media="screen and (min-width: 1025px)" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/1591042402b3559561e0a1fe4bf5983c7d111b3adc.css" media="screen" />
+	<link type="text/css" rel="stylesheet" href="https://stlaval.ca/public/cache/1606484865c333a9d41fdb00f9462ec9dc65f32f57.css" media="print" />
+	<script type="text/javascript" charset="UTF-8" src="//stlaval.ca/public/stl/js/_language/fr.js"></script>
+	<script type="text/javascript" charset="UTF-8" src="https://stlaval.ca/public/cache/170731893734950bb49aafdd03b89ea0323dfa9137.js"></script>
+	<meta name="application-name" content=""
+		data-page="page"
+		data-home="false"
+		data-is_mobile="false"
+		data-public_url="//stlaval.ca/"
+		data-page_url="//stlaval.ca/a-propos/diffusion/donnees-ouvertes/"
+		data-lang="fr"
+		data-token_name="stl_security_f4J8ht9Kv3"
+		data-csrf_hash="d15ed955e31152a156e9071e8b560c3c"
+		data-like_not_connected="<p>Pour utiliser cette fonctionnalité, veuillez vous créer un compte.</p>"
+	/>
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Données ouvertes | STL" />
+	<meta property="og:description" content="La STL partage ses données de trajets et d'horaires planifiés et en temps réel pour faciliter vos déplacements. Consultez les Conditions d'utilisation." />
+	<meta property="og:url" content="https://stlaval.ca/a-propos/diffusion/donnees-ouvertes" />
+	<meta property="og:sitename" content="STL - Société de transport de Laval" />
+	<meta property="og:image" content="https://stlaval.ca/public/stl/img/societe-de-transport-de-laval.jpg" />
+	<meta property="og:locale" content="fr_CA" />
+	<meta property="fb:app_id" content="159277776689" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@stlsynchro" />
+	<meta name="twitter:creator" content="@stlsynchro" />
+	<meta name="twitter:title" content="Données ouvertes | STL" />
+	<meta name="twitter:description" content="La STL partage ses données de trajets et d'horaires planifiés et en temps réel pour faciliter vos déplacements. Consultez les Conditions d'utilisation." />
+	<meta name="twitter:image" content="https://stlaval.ca/public/stl/img/societe-de-transport-de-laval.jpg" />
+	<meta name="google-site-verification" content="MKQ87jJP1TIALW4ZXWuqHROefl-YHRcgZfLyD7SL3Gc" />
+<script type="text/javascript">
+	var accessibility_bus = '{"0301":"0","0302":"0","0303":"0","0304":"0","0305":"0","0306":"0","0307":"0","0308":"0","0309":"0","0310":"0","0311":"0","0312":"0","0313":"0","0314":"0","0401":"0","0402":"0","0403":"0","0404":"0","0405":"0","0407":"0","0408":"0","0409":"0","0410":"0","0411":"0","0412":"0","0413":"0","0414":"0","0501":"0","0502":"0","0503":"0","0504":"0","0505":"0","0506":"0","0507":"0","0508":"0","0509":"0","0510":"0","0511":"0","0512":"0","0601":"0","0602":"0","0603":"0","0604":"0","0605":"0","0606":"0","0607":"0","0608":"0","0610":"0","0611":"0","0612":"0","0701":"0","0702":"0","0703":"0","0704":"0","0705":"0","0706":"0","0707":"0","0708":"0","0709":"0","0710":"0","0801":"0","0802":"0","0803":"0","0804":"0","0805":"0","0806":"0","0807":"0","0808":"0","0809":"0","0810":"0","0812":"0","0813":"0","0814":"0","0815":"0","0816":"0","0817":"0","0901":"0","0902":"0","0903":"0","0904":"0","0905":"0","0906":"0","0907":"0","0908":"0","0909":"0","0910":"0","0911":"0","0912":"0","0913":"0","0914":"0","0915":"0","0916":"0","0917":"0","0918":"0","0919":"0","0920":"0","0921":"0","0922":"0","0923":"0","0924":"0","1001":"1","1002":"1","1003":"1","1004":"1","1005":"1","1006":"1","1007":"1","1008":"1","1009":"1","1010":"1","1011":"1","1012":"1","1013":"1","1014":"1","1101":"1","1102":"1","1103":"1","1104":"1","1105":"1","1106":"1","1107":"1","1108":"1","1109":"1","1110":"1","1111":"1","1112":"1","1113":"1","1114":"1","1115":"1","1116":"1","1117":"1","1118":"1","1119":"1","1120":"1","1201":"1","1202":"1","1203":"1","1204":"1","1205":"1","1206":"1","1207":"1","1208":"1","1209":"1","1210":"1","1211":"1","1212":"1","1213":"1","1214":"1","1215":"1","1216":"1","1217":"1","1218":"1","1219":"1","1220":"1","1221":"1","1222":"1","1223":"1","1224":"1","1225":"1","1226":"1","1227":"1","1228":"1","1301":"1","1302":"1","1303":"1","1304":"1","1305":"1","1306":"1","1307":"1","1308":"1","1309":"1","1310":"1","1311":"1","1312":"1","1313":"1","1401":"1","1402":"1","1403":"1","1404":"1","1405":"1","1406":"1","1407":"1","1408":"1","1409":"1","1410":"1","1411":"1","1412":"1","1413":"1","1414":"1","1415":"1","1416":"1","1417":"1","1418":"1","1419":"1","1501":"1","1502":"1","1503":"1","1504":"1","1505":"1","1506":"1","1507":"1","1508":"1","1509":"1","1510":"1","1511":"1","1512":"1","1513":"1","1514":"1","1515":"1","1516":"1","1517":"1","1518":"1","1519":"1","1520":"1","1601":"1","1602":"1","1603":"1","1604":"1","1605":"1","1606":"1","1607":"1","1608":"1","1609":"1","1610":"1","1611":"1","1612":"1","1613":"1","1614":"1","1615":"1","1616":"1","1617":"1","1618":"1","1619":"1","1620":"1","1621":"1","1622":"1","1623":"1","1624":"1","1625":"1","1626":"1","1627":"1","1628":"1","1701":"1","1702":"1","1703":"1","1704":"1","1705":"1","1706":"1","1707":"1","1708":"1","1709":"1","1710":"1","1711":"1","1712":"1","1713":"1","1714":"1","1715":"1","1716":"1","1717":"1","1718":"1","1719":"1","1720":"1","1721":"1","1722":"1","1801":"1","1802":"1","1803":"1","1804":"1","1805":"1","1806":"1","1807":"1","1808":"1","1809":"1","1810":"1","1811":"1","1812":"1","1813":"1","1814":"1","1815":"1","1816":"1","1817":"1","1818":"1","1819":"1","1820":"1","1821":"1","1822":"1","1901":"1","1902":"1","1903":"1","1904":"1","1905":"1","1906":"1","1907":"1","1908":"1","1909":"1","1910":"1","1911":"1","1912":"1","1913":"1","1914":"1","1915":"1","1916":"1","1917":"1","1918":"1","1919":"1","1920":"1","1921":"1","1922":"1","1923":"1","2001":"1","2002":"1","2003":"1","2004":"1","2005":"1","2006":"1","2007":"1","2008":"1","2009":"1","2010":"1","2011":"1","2012":"1","2013":"1","2014":"1","2015":"1","2016":"1","2017":"1","2018":"1","2051":"1","2052":"1","2053":"1","2054":"1","2055":"1","2056":"1","2057":"1","2058":"1","2059":"1","2060":"1","2101":"1","2102":"1","2103":"1","2104":"1","2105":"1","2106":"1","2107":"1","2108":"1","2109":"1","2110":"1","2111":"1","2112":"1","2113":"1","2114":"1","2115":"1","2116":"1","2117":"1","2118":"1","2119":"1","2120":"1","2121":"1","2122":"1","2123":"1","2124":"1","2125":"1","2126":"1","2127":"1","2128":"1"}';
+</script>
+</head>
+<body class="show-alert">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTWQL9P" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<!-- // Header -->
+	<div class="dynamic-left-img no_deco"><!--empty--></div>
+	<header class="small-header">
+		<div class="container-grid">
+			<div class="top-nav-box">
+				<form action="//stlaval.ca/recherche" class="search-form" method="get" enctype="application/x-www-form-urlencoded">
+					<label for="top-search">Recherche</label>
+					<input type="submit" value="" />
+					<input type="text" name="q" id="top-search" />
+				</form>
+				<ul class="top-nav">
+					<li><a class="lang" href="//stlaval.ca/about-us/public-information/open-data">English</a></li>
+					<li><a href="//stlaval.ca/plan-site" target="_self">Plan du site</a></li>
+					<li><a href="//stlaval.ca/carriere" target="_self">Carrière</a></li>
+					<li><a href="//stlaval.ca/nouvelles" target="_self">Nouvelles</a></li>
+					<li><a href="//stlaval.ca/a-propos" target="_self">À propos</a></li>
+					<li><a href="//stlaval.ca/contact/service-clientele" target="_self">Nous joindre</a></li>
+				</ul>
+			</div>
+			<img class="logo-print" src="https://stlaval.ca/public/stl//img/STL-logo-horizontal-color.png" alt="STL - Société de transport de Laval" />
+		</div>
+		<div class="masthead-inner container-grid">
+			<div class="site-title">
+				<h1><a href="//stlaval.ca/" title="STL">STL</a></h1>
+			</div>
+			<div class="cd-dropdown-wrapper">
+				<a class="cd-dropdown-trigger">Menu</a>
+				<nav class="cd-dropdown">
+					<a class="cd-close">Fermer</a>
+					<ul class="cd-dropdown-content">
+						<li class="menu-quicklilnks">
+							<form action="//stlaval.ca/recherche" class="search-form" method="get" enctype="application/x-www-form-urlencoded">
+								<input value="" type="submit" />
+								<input name="q" type="text" />
+							</form>
+						</li>
+						<li><a href="//stlaval.ca/planificateur" target="_self">Planificateur</a></li>
+						<li class="has-children">
+							<a>Horaires et réseau</a>
+							<ul class="cd-secondary-dropdown is-hidden">
+								<li class="go-back"><a>Horaires et réseau</a></li>
+								<li class="has-children">
+									<a href="//stlaval.ca/reseau/horaires-autobus">Horaires</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/reseau/horaires-autobus">Horaires</a></li>
+										<li><a href="//stlaval.ca/reseau/horaires-autobus" target="_self">Autobus</a></li>
+										<li><a href="//stlaval.ca/reseau/horaires-taxis-collectifs" target="_self">Taxis collectifs</a></li>
+										<li><a href="//stlaval.ca/reseau/horaires-scolaire" target="_self">Scolaire intégré</a></li>
+										<li><a href="//stlaval.ca/reseau/horaires-residences" target="_self">Résidences pour aînés</a></li>
+										<li><a href="//stlaval.ca/reseau/metro" target="_self">Métro</a></li>
+										<li><a href="//stlaval.ca/reseau/train" target="_self">Trains de banlieue</a></li>
+										<li><a href="//stlaval.ca/reseau/horaires-jours-feries" target="_self">Jours fériés</a></li>
+									</ul>
+								</li>
+								<li class="has-children">
+									<a href="//stlaval.ca/reseau/avis">État du service</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/reseau/avis">État du service</a></li>
+										<li><a href="//stlaval.ca/reseau/avis" target="_self">Avis et alertes réseau</a></li>
+										<li><a href="//stlaval.ca/reseau/detours" target="_self">Détours</a></li>
+										<li><a href="//stlaval.ca/reseau/info-rem" target="_self">Info mobilité REM</a></li>
+									</ul>
+								</li>
+								<li><a href="//stlaval.ca/reseau/temps-reel" target="_self">Info en temps réel</a></li>
+								<li><a href="//stlaval.ca/reseau/lignes-accessibles" target="_self">Réseau accessible</a></li>
+								<li class="has-children">
+									<a href="//stlaval.ca/reseau/transport">Solutions de transport</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/reseau/transport">Solutions de transport</a></li>
+										<li><a href="//stlaval.ca/reseau/transport/covoiturage" target="_self">Covoiturage</a></li>
+										<li><a href="//stlaval.ca/reseau/transport/stationnement-gratuit" target="_self">Stationnements incitatifs</a></li>
+										<li><a href="//stlaval.ca/reseau/transport/velo" target="_self">Vélo et transport actif</a></li>
+										<li><a href="//stlaval.ca/reseau/transport/communauto" target="_self">Communauto</a></li>
+									</ul>
+								</li>
+								<li class="has-children">
+									<a href="//stlaval.ca/reseau/mpb">Priorité aux autobus</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/reseau/mpb">Priorité aux autobus</a></li>
+										<li><a href="//stlaval.ca/reseau/mpb/service-rapide" target="_self">Service rapide par bus</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="has-children">
+							<a>Tarifs et achat</a>
+							<ul class="cd-secondary-dropdown is-hidden">
+								<li class="go-back"><a>Tarifs et achat</a></li>
+								<li class="has-children">
+									<a href="//stlaval.ca/tarifs/grille">Tarifs</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/tarifs/grille">Tarifs</a></li>
+										<li><a href="//stlaval.ca/tarifs/grille/type/ordinaire" target="_self">Tarif ordinaire</a></li>
+										<li><a href="//stlaval.ca/tarifs/grille/type/enfants" target="_self">Enfants 6-11 ans</a></li>
+										<li><a href="//stlaval.ca/tarifs/grille/type/jeunes" target="_self">Jeunes 12-17 ans</a></li>
+										<li><a href="//stlaval.ca/tarifs/grille/type/etudiants" target="_self">Étudiants 18 ans et +</a></li>
+										<li><a href="//stlaval.ca/tarifs/grille/type/aines" target="_self">Aînés 65 ans et +</a></li>
+									</ul>
+								</li>
+								<li><a href="//stlaval.ca/tarifs/paiement" target="_self">Modes de paiement</a></li>
+								<li><a href="//stlaval.ca/tarifs/acheter" target="_self">Points de vente</a></li>
+								<li><a href="//stlaval.ca/tarifs/carte-opus" target="_self">Carte Opus</a></li>
+								<li><a href="//stlaval.ca/tarifs/zones" target="_self">Validité des titres</a></li>
+							</ul>
+						</li>
+						<li class="has-children">
+							<a>Infos pratiques</a>
+							<ul class="cd-secondary-dropdown is-hidden">
+								<li class="go-back"><a>Infos pratiques</a></li>
+								<li class="has-children">
+									<a href="//stlaval.ca/infos-pratiques/promos">Promotions</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/infos-pratiques/promos">Promotions</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/famille" target="_self">Sorties en famille</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/navette360" target="_self">Navette 360</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/xtra" target="_self">L'été c'est XTRA</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/smog" target="_self">Alertes au smog</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/evenements" target="_self">Événements</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/bixi" target="_self">Vélos BIXI</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/promos/rabais-communauto" target="_self">Rabais Communauto</a></li>
+									</ul>
+								</li>
+								<li class="has-children">
+									<a href="//stlaval.ca/infos-pratiques/etudiants">Étudiants</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/infos-pratiques/etudiants">Étudiants</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/etudiants" target="_self">Carte OPUS pour étudiants</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/lignes-scolaires" target="_self">Écoles secondaires</a></li>
+									</ul>
+								</li>
+								<li class="has-children">
+									<a href="//stlaval.ca/infos-pratiques/aines">65 ans ou +</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/infos-pratiques/aines">65 ans ou +</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/aines" target="_self">Tarifs et carte Opus</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/compagnon-65" target="_self">Projet pilote</a></li>
+									</ul>
+								</li>
+								<li class="has-children">
+									<a href="//stlaval.ca/infos-pratiques/accessibilite/mobilite-reduite">Accessibilité</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/infos-pratiques/accessibilite/mobilite-reduite">Accessibilité</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/accessibilite/mobilite-reduite" target="_self">Mobilité réduite</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/accessibilite/accompagnement" target="_self">Accompagnement</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/accessibilite/programme-compagnon" target="_self">STL Compagnon</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/accessibilite/mobilite-inclusive" target="_self">Mobilité inclusive</a></li>
+									</ul>
+								</li>
+								<li class="has-children">
+									<a href="//stlaval.ca/infos-pratiques/terminus-billetteries">Terminus et billetteries</a>
+									<ul class="is-hidden">
+										<li class="go-back"><a href="//stlaval.ca/infos-pratiques/terminus-billetteries">Terminus et billetteries</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/terminus-billetteries/montmorency" target="_self">Terminus Montmorency</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/terminus-billetteries/cartier" target="_self">Terminus Cartier</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/terminus-billetteries/carrefour" target="_self">Terminus Le Carrefour</a></li>
+										<li><a href="//stlaval.ca/infos-pratiques/terminus-billetteries/billetteries-metropolitaines" target="_self">Billetteries métropolitaines</a></li>
+									</ul>
+								</li>
+								<li><a href="//stlaval.ca/infos-pratiques/bonnes-habitudes-transport-collectif" target="_self">Bonnes habitudes</a></li>
+								<li><a href="//stlaval.ca/infos-pratiques/prendre-autobus-laval" target="_self">Bienvenue à Laval!</a></li>
+							</ul>
+						</li>
+						<li class="has-children">
+							<a>Transport adapté</a>
+							<ul class="cd-secondary-dropdown is-hidden">
+								<li class="go-back"><a>Transport adapté</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/info" target="_self">Infos générales</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/admission" target="_self">Admission</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/deplacements" target="_self">Déplacements</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/opus" target="_self">Tarifs et carte Opus</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/reservation" target="_self">Réservation</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/violence-conjugale" target="_self">Violence conjugale</a></li>
+								<li><a href="//stlaval.ca/transport-adapte/coordonnees" target="_self">Service à la clientèle</a></li>
+							</ul>
+						</li>
+						<li class="profil"><a href="//stlaval.ca/connexion">Mon compte</a></li>
+						<li class="menu-quicklilnks menu-inline">
+							<a href="//stlaval.ca/plan-site" target="_self">Plan du site</a>
+							<a href="//stlaval.ca/carriere" target="_self">Carrière</a>
+							<a href="//stlaval.ca/nouvelles" target="_self">Nouvelles</a>
+							<a href="//stlaval.ca/a-propos" target="_self">À propos</a>
+							<a href="//stlaval.ca/contact/service-clientele" target="_self">Nous joindre</a>
+							<a class="lang" href="//stlaval.ca/about-us/public-information/open-data">English</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+	<!-- Header // -->
+	<!-- // Content -->
+	<!-- // Breadcrumb -->
+	<section class="breadcrumb">
+		<div class="container-grid">
+			<ul>
+				<li><a href="//stlaval.ca/">Accueil</a></li>
+				<li><i class="icon-arrowright"><!--empty--></i></li>
+				<li><a href="//stlaval.ca/a-propos">À propos de la STL</a></li>
+				<li><i class="icon-arrowright"><!--empty--></i></li>
+				<li>Diffusion de l'information</li>
+				<li><i class="icon-arrowright"><!--empty--></i></li>
+				<li>Données ouvertes</li>
+			</ul>
+		</div>
+	</section>
+	<!-- // Dynamic alert -->
+	<div class="dynamic-alert-msg">
+		<p style="width: 150%;">
+			Changements importants - Nouveaux horaires en vigueur - STLaval.ca/automne
+		</p>
+		<div class="close-alert"><a class="close-alert">X</a></div>
+	</div>
+	<!-- Dynamic alert // -->
+	<!-- Breadcrumb // -->
+	<div class="content-box">
+		<h1 class="page-title">Données ouvertes</h1>
+		<div class="container-layout">
+			<div class="col-3">
+				<!-- // Colonne de gauche -->
+				<section class="sidebar">
+					<!-- // wgt Collapse colonne gauche -->
+					<div class="dropdown">
+						<a class="dropbtn">Données ouvertes<i class="icon-arrowright"><!--empty--></i></a>
+						<ul class="dropdown-content">
+							<li class="children">
+								<a class="dd_title">Nous sommes la STL</a>
+								<ul>
+									<li><a href="//stlaval.ca/a-propos/organisation">Mission, vision, valeurs</a></li>
+									<li><a href="//stlaval.ca/a-propos/50">50e anniversaire</a></li>
+									<li><a href="//stlaval.ca/a-propos/conseil-administration">Conseil d'administration</a></li>
+									<li><a href="//stlaval.ca/a-propos/direction">Équipe de direction</a></li>
+									<li><a href="//stlaval.ca/a-propos/comites">Comités administratifs</a></li>
+									<li><a href="//stlaval.ca/a-propos/communaute">Implication sociale</a></li>
+								</ul>
+							</li>
+							<li><a href="//stlaval.ca/a-propos/engagement-qualite">Engagement qualité</a></li>
+							<li class="children active">
+								<a class="dd_title">Diffusion de l'information</a>
+								<ul>
+									<li><a href="//stlaval.ca/a-propos/diffusion/gouvernance">Gouvernance</a></li>
+									<li><a href="//stlaval.ca/a-propos/diffusion/publications">Publications et documents</a></li>
+									<li><a href="//stlaval.ca/a-propos/diffusion/politiques">Politiques et règlements</a></li>
+									<li><a href="//stlaval.ca/a-propos/diffusion/acces-a-linformation-et-protection-des-renseignements-personnels">Accès à l'information et protection des renseignements personnels</a></li>
+									<li><a href="//stlaval.ca/a-propos/diffusion/donnees-ouvertes">Données ouvertes</a></li>
+								</ul>
+							</li>
+							<li class="children">
+								<a class="dd_title">Projets et partenaires</a>
+								<ul>
+									<li><a href="//stlaval.ca/a-propos/projets/innovations">Innovations</a></li>
+									<li><a href="//stlaval.ca/a-propos/projets/electrification">Électrification</a></li>
+									<li><a href="//stlaval.ca/a-propos/projets/partenaires">Grands partenaires</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<!-- wgt Collapse colonne gauche // -->
+				</section>
+				<!-- Colonne de gauche // -->
+			</div>
+			<div class="col-9 nomargin"><!-- bg-whwite-->
+					<div class="text-bloc">
+						<h2>Des données pour faciliter la vie des gens</h2>
+<style type="text/css">.stl-external-link:after {
+    background: url(/public/wbms/js/kcfinder/upload/images/Divers/icones/icone-externe.png) 0 0 no-repeat;
+    display: inline-block;
+    padding: 0 10px;
+    position: relative;
+    left: 5px;
+    content: "";
+    height:15px;
+    width:15px;
+    bottom: 0;
+    top:1px;
+}
+</style>
+<p>La STL met à la disposition des développeurs ses données de trajets et d&#39;horaires planifiés et en temps réel pour ses autobus, afin de faciliter les déplacements de la clientèle du transport collectif dans le Grand Montréal.</p>
+
+<p>Avant de télécharger et d&#39;utiliser nos données ouvertes, <strong>veuillez prendre connaissance des conditions d&#39;utilisation</strong> au bas de cette page.</p>
+
+					</div>
+					<div class="text-bloc">
+						<h2>Conditions d'utilisation</h2>
+<p><strong>En téléchargeant et en utilisant nos données ouvertes, vous confirmez avoir lu et accepté les Conditions d&#39;utilisation des outils numériques, la Politique de confidentialité et les conditions d&#39;utilisation suivantes.</strong></p>
+
+<p>Sans restreindre la généralité des Conditions d’utilisation des outils numériques et de la Politique de confidentialité, la STL vous octroie les droits non exclusifs, limités et révocables d’utilisation, de reproduction et de redistribution des informations portant sur les horaires et tracés d’autobus (ci-après <em>informations</em>) en format GTFS, assujettis aux termes suivants :</p>
+
+<ul>
+ <li>La STL conserve tous les droits, titres et intérêts de quelque nature sur les informations, y compris sans restreindre la généralité qui précède, ses droits sur la propriété intellectuelle liée aux informations, incluant tout droit d’auteur. Vous n’acquérez aucun droit en utilisant, modifiant ou redistribuant les informations. Aucune utilisation commerciale ou quasi commerciale des informations n’est autorisée sans l’autorisation au préalable et par écrit de la STL.</li>
+ <li>Toute marque officielle de la STL et tout matériel protégé par des droits d’auteur ne peuvent être utilisés sans l’autorisation au préalable et par écrit de la STL.</li>
+ <li>Les informations sont fournies de manière « telles qu’elles ». La STL ne garantit pas que les informations sont exemptes d’anomalies, d’erreurs ou de bogues, ni que celles-ci pourront être corrigées, ni que le site fonctionnera sans interruptions ou pannes. En aucun cas la STL ou ses employés ne seront tenus responsables de tout type de dommage prévisible ou imprévisible (incluant la perte de profits ou d’opportunités) découlant de l’utilisation ou de l’impossibilité totale ou partielle d’utiliser les informations.</li>
+ <li>La STL se réserve le droit de modifier ou de retirer les informations à n’importe quel moment sans avis préalable.</li>
+ <li>Les termes contenus dans ces conditions d&#39;utilisation remplacent toute discussion, entente ou représentation antérieure entre la STL et vous, et ne peuvent être amendés qu’avec l’approbation au préalable et par écrit de la STL.</li>
+ <li>En raison d’impondérables, les informations portant sur les horaires d’autobus sont sujettes à changements sans préavis.</li>
+</ul>
+
+					</div>
+					<div class="text-bloc">
+						<h2>Jeux de données ouvertes</h2>
+<p>Flux de transport en commun (GTFS - <em>General Transit Feed Specification</em>)</p>
+
+<p><a href="https://www.stlaval.ca/datas/opendata/GTF_STL.zip">Téléchargez les fichiers d&#39;horaires de la STL</a></p>
+
+<p>Aussi disponibles sur le site <a class="stl-external-link" href="https://www.donneesquebec.ca/recherche/dataset/https-www-stlaval-ca-datas-opendata-gtf_stl-zip" target="_blank">Données Québec</a>.</p>
+
+<p>Afin de bien comprendre la structure de ces données et d&#39;en maximiser l&#39;utilisation, <a class="stl-external-link" href="https://developers.google.com/transit/gtfs/reference" target="_blank">consultez le site de Google</a> consacré aux spécifications de ce format de données ouvertes.</p>
+
+<h4>Flux XML des horaires en temps réel</h4>
+
+<p>Pour accéder à notre flux XML, veuillez lire la documentation : l&#39;affichage de résultats requiert des commandes et paramètres précis. Utilisez le paramètre <strong>a=stl</strong> comme code d&#39;agence de transport pour effectuer des requêtes spécifiques aux données de la STL.</p>
+
+<p><a class="stl-external-link" href="http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf" target="_blank">Consultez la documentation de NextBus (PDF - anglais seulement)</a></p>
+
+					</div>
+			</div>
+		</div>
+	</div>
+	<!-- Content // -->
+	<!-- // Footer -->
+	<div class="tootip_explications">
+<table>
+ <tbody>
+  <tr>
+   <th colspan="2">Voici des exemples de recherches valides pour activer les suggestions de lieux de départ et d’arrivée et obtenir votre trajet.</th>
+  </tr>
+  <tr>
+   <td>Adresse</td>
+   <td>900, boul. St-Martin Ouest<br>
+   900 st-martin<br>
+   3225 A440<br>
+   3225 a440</td>
+  </tr>
+  <tr>
+   <td>Intersection</td>
+   <td>boul. Industriel et rue Michelin<br>
+   industriel et michelin<br>
+   industriel/michelin</td>
+  </tr>
+  <tr>
+   <td>Lieu</td>
+   <td>Centre Laval<br>
+   centre lav</td>
+  </tr>
+  <tr>
+   <td>Métro</td>
+   <td>Métro Cartier<br>
+   métro car</td>
+  </tr>
+  <tr>
+   <td>Gare</td>
+   <td>Gare Centrale<br>
+   gare</td>
+  </tr>
+  <tr>
+   <td>Numéro d’arrêt</td>
+   <td>41649</td>
+  </tr>
+  <tr>
+   <td>Code postal</td>
+   <td>H7S 1Y9<br>
+   h7s1y9</td>
+  </tr>
+ </tbody>
+</table>
+	</div>
+	<div class="cb"><!--clear--></div>
+	<footer>
+		<span class="footer-icon">STL icon</span>
+		<div class="container-grid">
+			<span class="footer-logo">STL Logo</span>
+			<ul class="footer-nav">
+				<li class="opened">
+					<a>Liens utiles<span>-</span></a>
+					<ul>
+						<li><a href="//stlaval.ca/connexion" target="_self">Votre espace personnalisé</a></li>
+						<li><a href="//stlaval.ca/contact/service-clientele" target="_self">Centre contact clients</a></li>
+						<li><a href="//stlaval.ca/reseau/temps-reel" target="_self">Temps réel sur mobile</a></li>
+						<li><a href="//stlaval.ca/a-propos/engagement-qualite" target="_self">Engagement qualité</a></li>
+					</ul>
+				</li>
+				<li>
+					<a>Espace affaires<span>+</span></a>
+					<ul>
+						<li><a href="//stlaval.ca/partenariats-commandites" target="_self">Partenariats et commandites</a></li>
+						<li><a href="//stlaval.ca/a-propos/diffusion/donnees-ouvertes" target="_self">Développeurs</a></li>
+						<li><a href="//stlaval.ca/fournisseurs" target="_self">Fournisseurs</a></li>
+					</ul>
+				</li>
+				<li>
+					<a>Espace médias<span>+</span></a>
+					<ul>
+						<li><a href="//stlaval.ca/communiques" target="_self">Communiqués</a></li>
+						<li><a href="//stlaval.ca/a-propos/diffusion/gouvernance" target="_self">Diffusion de l'information</a></li>
+						<li><a href="//stlaval.ca/nouvelles" target="_self">Nouvelles</a></li>
+					</ul>
+				</li>
+				<li>
+					<a>Suivez-nous<span>+</span></a>
+					<ul>
+						<li><a href="//stlaval.ca/infolettre" target="_self">Infolettre</a></li>
+						<li><a href="//stlaval.ca/reseau/temps-reel" target="_self">Sur mobile</a></li>
+						<li><a href="//stlaval.ca/reseau/avis" target="_self">Avis à la clientèle</a></li>
+						<li><a href="//stlaval.ca/carriere" target="_self">Emplois</a></li>
+					</ul>
+				</li>
+			</ul>
+			<div class="social-links">
+				<a class="facebook" href="https://www.facebook.com/STLSynchro" target="_blank" title="STL Facebook">STL Facebook</a>
+				<a class="linkedin" href="https://www.linkedin.com/company/soci-t-de-transport-de-laval" target="_blank" title="STL Linkedin">STL Linkedin</a>
+				<a class="twitter" href="https://twitter.com/stlsynchro" target="_blank" title="STL Twitter">STL Twitter</a>
+				<a class="youtube" href="https://www.youtube.com/STLsynchro" target="_blank" title="STL YouTube">STL YouTube</a>
+				<a class="instagram" href="https://www.instagram.com/stlsynchro/" target="_blank" title="STL Instagram">STL Instagram</a>
+			</div>
+			<div class="footer-legal">
+				<a href="//stlaval.ca/legal/confidentialite" target="_self">Vie privée et conditions d'utilisation</a>
+				<span class="hidemobile">|</span>
+				<a href="//stlaval.ca/plan-site" target="_self">Plan du site</a>
+				<span class="copyright">© 2024 STL - Tous droits réservés.</span>
+			</div>
+		</div>
+	</footer>
+	<!-- Footer // -->
+</body>
+</html>
