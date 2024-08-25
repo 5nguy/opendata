@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <!-- Responsive -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <meta content="yes" name="mobile-web-app-capable">
+  <meta content="yes" name="apple-mobile-web-app-capable">
+  <meta content="default" name="apple-mobile-web-app-status-bar-style">
+  <!-- End Responsive -->
+  <!-- Use protocol relative urls that way if the browser is viewing the page via HTTPS the js/css file will be requested using the HTTPS protocol -->
+  <link href="https://js.arcgis.com/3.36/esri/themes/calcite/dijit/calcite.css" rel="stylesheet">
+  <link href="https://js.arcgis.com/3.36/esri/css/esri.css" rel="stylesheet">
+  <!-- Load any application specific styles -->
+  <link href="css/main.css" rel="stylesheet">
+</head>
+
+<body class="calcite app-loading">
+  <div class="loading-indicator">
+    <div class="loading-message" id="loading_message"></div>
+  </div>
+  <!-- The ArcGIS API for JavaScript provides bidirectional support.  When viewing the application in an right to left (rtl) language like Hebrew and Arabic the map needs to remain in left-to-right (ltr) mode. Specify this by setting the dir attribute on the div to ltr. -->
+  <div data-dojo-props="design:'headline', gutters:false" data-dojo-type="dijit/layout/BorderContainer" id="bc">
+
+    <div class="title-header" data-dojo-props="region:'top'" data-dojo-type="dijit/layout/ContentPane" id="header"
+      role="banner">
+      <h1 id="titleDiv"></h1>
+      <div id="toolbarDiv">
+        <div class="bg toolbar" id="toolbar-trailing">
+          <span id="toolbar-leading">
+            <span id="editDiv"></span>
+            <span id="legendDiv"></span>
+            <span id="detailsDiv"></span>
+          </span>
+          <span class="tools-menu" id="toolbar-menu">
+            <span class="hidden" id="basemapBtnDiv"></span>
+            <span class="hidden" id="bookmarkBtnDiv"></span>
+            <span class="hidden" id="measureBtnDiv"></span>
+            <span class="hidden" id="shareBtnDiv"></span>
+            <span class="hidden" id="layerListBtnDiv"></span>
+            <span class="hidden" id="tableBtnDiv"></span>
+            <span class="hidden" id="printBtnDiv"></span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="sidepanel" data-dojo-props='region:"left"' data-dojo-type="dijit/layout/ContentPane" id="sideDiv">
+      <div class="sidepanel_content" data-dojo-props='region:"center"' data-dojo-type="dijit/layout/StackContainer"
+        id="stackContainer">
+        <div data-dojo-props='region:"center"' data-dojo-type="dijit/layout/ContentPane" id="legendPanel"></div>
+        <div data-dojo-props='region:"center", selected:true' data-dojo-type="dijit/layout/ContentPane"
+          id="detailsPanel"></div>
+        <div data-dojo-props='region:"center"' data-dojo-type="dijit/layout/ContentPane" id="editorPanel"></div>
+      </div>
+    </div>
+    <div data-dojo-props="region:'center',design:'headline', gutters:false"
+      data-dojo-type="dijit/layout/BorderContainer" id="mapbc" role="main">
+      <div data-dojo-props='region:"center"' data-dojo-type="dijit/layout/ContentPane" dir="ltr" id="mapDiv"></div>
+      <div data-dojo-props='region:"bottom",splitter:true' data-dojo-type="dijit/layout/ContentPane" id="tableDiv">
+        <div id="featureTable"></div>
+      </div>
+    </div>
+    <!--Modal Splash Screen-->
+    <div aria-describedby="modalContent" aria-labelledby="modalTitle" class="hide dialog-modal" id="modal" role="dialog"
+      tabindex="-1">
+      <div class="modal-content">
+        <header class="modal-header bg fc">
+          <h2 class="dialog-modal" id="modalTitle"></h2>
+        </header>
+        <div class="copy">
+          <div class="dialog-modal" id="modalContent"></div>
+          <input class="dialog-modal bg fc" id="closeOverlay" type="button">
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script type="text/javascript">
+    var webgl = location.search.match(/webgl=([\w-]+)/) ? (RegExp.$1).toLowerCase() === "false" ? 0 : 1 : 1;
+    var package_path = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/'));
+    var dojoConfig = {
+      has: {
+        "esri-featurelayer-webgl": webgl
+      },
+      async: true,
+      // The locationPath logic below may look confusing but all its doing is
+      // enabling us to load the api from a CDN and load local modules from the correct location.
+      packages: [{
+        name: "application",
+        location: package_path + '/js'
+      }, {
+        name: "config",
+        location: package_path + '/config'
+      }, {
+        name: "arcgis_templates",
+        location: package_path + '/..'
+      }]
+    };
+    // Have to handle a locale parameter before dojo is loaded
+    if (location.search.match(/locale=([\w\-]+)/)) {
+      dojoConfig.locale = RegExp.$1;
+    }
+
+  </script>
+  <script src="https://js.arcgis.com/3.36/" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+    require([
+      "dojo/parser",
+      "config/templateConfig",
+      "application/template",
+      "application/main",
+      "dijit/layout/BorderContainer",
+      "dijit/layout/ContentPane"
+    ], function (
+      parser,
+      templateConfig,
+      Template,
+      Main
+    ) {
+      parser.parse();
+      // create the template. This will take care of all the logic required for template applications
+      var myTemplate = new Template(templateConfig);
+      // create my main application. Start placing your logic in the main.js file.
+      var myApp = new Main();
+      // start template
+      myTemplate.startup().then(function (config) {
+        // The config object contains the following properties: helper services, (optionally)
+        // i18n, appid, webmap and any custom values defined by the application.
+        // In this example we have one called theme.
+        myApp.startup(config);
+      }, function (error) {
+        // something went wrong. Let's report it.
+        myApp.reportError(error);
+      });
+    });
+
+  </script>
+</body>
+
+</html>
