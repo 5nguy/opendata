@@ -1,0 +1,875 @@
+ï»¿code_region,nom_region,code_regroupe_scian,tri,nom_industrie,codes_scian,emploi_arrondi_2020,Taux_de_croissance_annuel_moyen_2022_2026
+400,Ensemble du QuÃ©bec,00,0,Total,Total,4270000,1.5
+400,Ensemble du QuÃ©bec,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",52600,0.9
+400,Ensemble du QuÃ©bec,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",15500,0.9
+400,Ensemble du QuÃ©bec,03,3,Extraction miniÃ¨re,21,26200,1.4
+400,Ensemble du QuÃ©bec,04,4,Services publics,22,27000,-0.1
+400,Ensemble du QuÃ©bec,05,5,Construction,23,282800,0.7
+400,Ensemble du QuÃ©bec,06,8,"      Aliments, boissons et tabac","311, 312",83200,2.8
+400,Ensemble du QuÃ©bec,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",24700,2
+400,Ensemble du QuÃ©bec,08,10,      Papier,322,22300,2.6
+400,Ensemble du QuÃ©bec,09,11,      Impression et activitÃ©s connexes de soutien,323,11000,0.5
+400,Ensemble du QuÃ©bec,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",32000,2.1
+400,Ensemble du QuÃ©bec,11,13,      Produits en plastique et en caoutchouc,326,30900,0.8
+400,Ensemble du QuÃ©bec,12,15,      Produits en bois,321,39200,0
+400,Ensemble du QuÃ©bec,13,16,      Produits minÃ©raux non mÃ©talliques,327,12600,1.4
+400,Ensemble du QuÃ©bec,14,17,      PremiÃ¨re transformation des mÃ©taux,331,24900,2.8
+400,Ensemble du QuÃ©bec,15,18,      Produits mÃ©talliques,332,39700,1.6
+400,Ensemble du QuÃ©bec,16,19,      Machines,333,38300,3.9
+400,Ensemble du QuÃ©bec,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",27900,3.4
+400,Ensemble du QuÃ©bec,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,33600,6.3
+400,Ensemble du QuÃ©bec,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),26600,3.2
+400,Ensemble du QuÃ©bec,20,23,      Meubles et produits connexes,337,22300,3.2
+400,Ensemble du QuÃ©bec,21,24,      ActivitÃ©s diverses de fabrication,339,25200,2.4
+400,Ensemble du QuÃ©bec,22,26,   Commerce de gros,41,144200,-0.4
+400,Ensemble du QuÃ©bec,23,27,   Commerce de dÃ©tail,"44, 45",493600,-0.6
+400,Ensemble du QuÃ©bec,24,28,Transport et entreposage,"48, 49",230100,2.3
+400,Ensemble du QuÃ©bec,25,29,Finances,"521, 522, 52A",144600,0.8
+400,Ensemble du QuÃ©bec,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,72000,3.1
+400,Ensemble du QuÃ©bec,27,31,Services immobiliers et services de location et de location Ã  bail,53,61800,0.8
+400,Ensemble du QuÃ©bec,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",75400,1.2
+400,Ensemble du QuÃ©bec,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",82900,1.5
+400,Ensemble du QuÃ©bec,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,113000,2
+400,Ensemble du QuÃ©bec,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",46500,1.8
+400,Ensemble du QuÃ©bec,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",48900,0.5
+400,Ensemble du QuÃ©bec,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",162100,0.2
+400,Ensemble du QuÃ©bec,34,38,Services d'enseignement,61,349200,1.4
+400,Ensemble du QuÃ©bec,35,39,Soins de santÃ©,"621,  622, 623",446700,2
+400,Ensemble du QuÃ©bec,36,40,Assistance sociale,624,147200,0.7
+400,Ensemble du QuÃ©bec,37,41,Industrie de l'information et industrie culturelle,51,86000,1.1
+400,Ensemble du QuÃ©bec,38,42,"Arts, spectacles et loisirs",71,70900,6.9
+400,Ensemble du QuÃ©bec,39,43,HÃ©bergement et restauration,72,182300,3.6
+400,Ensemble du QuÃ©bec,40,44,Autres services (sauf les administrations publiques),81,149000,2.6
+400,Ensemble du QuÃ©bec,41,45,Administrations publiques,91,265100,1
+400,Ensemble du QuÃ©bec,BD,14,   Biens durables,,290300,2.9
+400,Ensemble du QuÃ©bec,BN,7,   Biens non Durables,,204100,2.1
+400,Ensemble du QuÃ©bec,CO,25,Commerce,,637800,-0.6
+400,Ensemble du QuÃ©bec,FB,6,Fabrication,,494400,2.6
+410,GaspÃ©-Ã®les-de-la-Madeleine,00,0,Total,Total,34100,0.7
+410,GaspÃ©-Ã®les-de-la-Madeleine,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,03,3,Extraction miniÃ¨re,21,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,04,4,Services publics,22,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,05,5,Construction,23,2700,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,06,8,"      Aliments, boissons et tabac","311, 312",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,08,10,      Papier,322,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,11,13,      Produits en plastique et en caoutchouc,326,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,12,15,      Produits en bois,321,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,15,18,      Produits mÃ©talliques,332,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,16,19,      Machines,333,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,20,23,      Meubles et produits connexes,337,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,22,26,   Commerce de gros,41,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,23,27,   Commerce de dÃ©tail,"44, 45",4500,-1.8
+410,GaspÃ©-Ã®les-de-la-Madeleine,24,28,Transport et entreposage,"48, 49",1800,1.1
+410,GaspÃ©-Ã®les-de-la-Madeleine,25,29,Finances,"521, 522, 52A",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,34,38,Services d'enseignement,61,2500,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,35,39,Soins de santÃ©,"621,  622, 623",5200,0.8
+410,GaspÃ©-Ã®les-de-la-Madeleine,36,40,Assistance sociale,624,1700,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,37,41,Industrie de l'information et industrie culturelle,51,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,38,42,"Arts, spectacles et loisirs",71,,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,39,43,HÃ©bergement et restauration,72,2100,3.5
+410,GaspÃ©-Ã®les-de-la-Madeleine,40,44,Autres services (sauf les administrations publiques),81,1600,1.2
+410,GaspÃ©-Ã®les-de-la-Madeleine,41,45,Administrations publiques,91,1800,0
+410,GaspÃ©-Ã®les-de-la-Madeleine,BD,14,   Biens durables,,1800,2.1
+410,GaspÃ©-Ã®les-de-la-Madeleine,BN,7,   Biens non Durables,,1600,2.4
+410,GaspÃ©-Ã®les-de-la-Madeleine,CO,25,Commerce,,4700,-1.8
+410,GaspÃ©-Ã®les-de-la-Madeleine,FB,6,Fabrication,,3400,2.2
+415,Bas-Saint-Laurent,00,0,Total,Total,88600,0.4
+415,Bas-Saint-Laurent,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",2300,-0.9
+415,Bas-Saint-Laurent,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",2300,-1.8
+415,Bas-Saint-Laurent,03,3,Extraction miniÃ¨re,21,,0
+415,Bas-Saint-Laurent,04,4,Services publics,22,,0
+415,Bas-Saint-Laurent,05,5,Construction,23,6000,0
+415,Bas-Saint-Laurent,06,8,"      Aliments, boissons et tabac","311, 312",2300,2.5
+415,Bas-Saint-Laurent,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+415,Bas-Saint-Laurent,08,10,      Papier,322,,0
+415,Bas-Saint-Laurent,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+415,Bas-Saint-Laurent,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+415,Bas-Saint-Laurent,11,13,      Produits en plastique et en caoutchouc,326,,0
+415,Bas-Saint-Laurent,12,15,      Produits en bois,321,3100,-0.7
+415,Bas-Saint-Laurent,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+415,Bas-Saint-Laurent,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+415,Bas-Saint-Laurent,15,18,      Produits mÃ©talliques,332,,0
+415,Bas-Saint-Laurent,16,19,      Machines,333,,0
+415,Bas-Saint-Laurent,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+415,Bas-Saint-Laurent,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+415,Bas-Saint-Laurent,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+415,Bas-Saint-Laurent,20,23,      Meubles et produits connexes,337,,0
+415,Bas-Saint-Laurent,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+415,Bas-Saint-Laurent,22,26,   Commerce de gros,41,1600,-1.3
+415,Bas-Saint-Laurent,23,27,   Commerce de dÃ©tail,"44, 45",12300,-0.8
+415,Bas-Saint-Laurent,24,28,Transport et entreposage,"48, 49",6100,1.3
+415,Bas-Saint-Laurent,25,29,Finances,"521, 522, 52A",1500,0
+415,Bas-Saint-Laurent,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+415,Bas-Saint-Laurent,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+415,Bas-Saint-Laurent,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",,0
+415,Bas-Saint-Laurent,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",,0
+415,Bas-Saint-Laurent,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,,0
+415,Bas-Saint-Laurent,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+415,Bas-Saint-Laurent,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+415,Bas-Saint-Laurent,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",1700,-1.2
+415,Bas-Saint-Laurent,34,38,Services d'enseignement,61,7100,0.6
+415,Bas-Saint-Laurent,35,39,Soins de santÃ©,"621,  622, 623",13500,0.6
+415,Bas-Saint-Laurent,36,40,Assistance sociale,624,4100,0.5
+415,Bas-Saint-Laurent,37,41,Industrie de l'information et industrie culturelle,51,,0
+415,Bas-Saint-Laurent,38,42,"Arts, spectacles et loisirs",71,,0
+415,Bas-Saint-Laurent,39,43,HÃ©bergement et restauration,72,3400,2.8
+415,Bas-Saint-Laurent,40,44,Autres services (sauf les administrations publiques),81,4700,0.8
+415,Bas-Saint-Laurent,41,45,Administrations publiques,91,4700,0
+415,Bas-Saint-Laurent,BD,14,   Biens durables,,7400,0.8
+415,Bas-Saint-Laurent,BN,7,   Biens non Durables,,2900,2
+415,Bas-Saint-Laurent,CO,25,Commerce,,13900,-0.9
+415,Bas-Saint-Laurent,FB,6,Fabrication,,10300,1.1
+420,CapitaleâNationale,00,0,Total,Total,380700,1
+420,CapitaleâNationale,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",1800,1.1
+420,CapitaleâNationale,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+420,CapitaleâNationale,03,3,Extraction miniÃ¨re,21,,0
+420,CapitaleâNationale,04,4,Services publics,22,1700,0
+420,CapitaleâNationale,05,5,Construction,23,25900,0.1
+420,CapitaleâNationale,06,8,"      Aliments, boissons et tabac","311, 312",4100,1.9
+420,CapitaleâNationale,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+420,CapitaleâNationale,08,10,      Papier,322,,0
+420,CapitaleâNationale,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+420,CapitaleâNationale,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",2100,1.8
+420,CapitaleâNationale,11,13,      Produits en plastique et en caoutchouc,326,,0
+420,CapitaleâNationale,12,15,      Produits en bois,321,3000,0
+420,CapitaleâNationale,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+420,CapitaleâNationale,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+420,CapitaleâNationale,15,18,      Produits mÃ©talliques,332,2000,1.9
+420,CapitaleâNationale,16,19,      Machines,333,1700,2.2
+420,CapitaleâNationale,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",4100,2.3
+420,CapitaleâNationale,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+420,CapitaleâNationale,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+420,CapitaleâNationale,20,23,      Meubles et produits connexes,337,,0
+420,CapitaleâNationale,21,24,      ActivitÃ©s diverses de fabrication,339,1800,1.1
+420,CapitaleâNationale,22,26,   Commerce de gros,41,10000,-0.6
+420,CapitaleâNationale,23,27,   Commerce de dÃ©tail,"44, 45",42400,-0.9
+420,CapitaleâNationale,24,28,Transport et entreposage,"48, 49",18400,1.4
+420,CapitaleâNationale,25,29,Finances,"521, 522, 52A",8600,0.5
+420,CapitaleâNationale,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,15400,3.1
+420,CapitaleâNationale,27,31,Services immobiliers et services de location et de location Ã  bail,53,4800,0.8
+420,CapitaleâNationale,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",4600,0.9
+420,CapitaleâNationale,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",10500,1.1
+420,CapitaleâNationale,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,12500,0.8
+420,CapitaleâNationale,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",5400,1.4
+420,CapitaleâNationale,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",5800,0.3
+420,CapitaleâNationale,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",15900,-0.1
+420,CapitaleâNationale,34,38,Services d'enseignement,61,32100,1
+420,CapitaleâNationale,35,39,Soins de santÃ©,"621,  622, 623",39000,1.3
+420,CapitaleâNationale,36,40,Assistance sociale,624,11800,0.5
+420,CapitaleâNationale,37,41,Industrie de l'information et industrie culturelle,51,2900,0
+420,CapitaleâNationale,38,42,"Arts, spectacles et loisirs",71,7800,5.7
+420,CapitaleâNationale,39,43,HÃ©bergement et restauration,72,16400,3.2
+420,CapitaleâNationale,40,44,Autres services (sauf les administrations publiques),81,11800,2.3
+420,CapitaleâNationale,41,45,Administrations publiques,91,46300,1.1
+420,CapitaleâNationale,BD,14,   Biens durables,,17100,1.7
+420,CapitaleâNationale,BN,7,   Biens non Durables,,10300,1.3
+420,CapitaleâNationale,CO,25,Commerce,,52400,-0.9
+420,CapitaleâNationale,FB,6,Fabrication,,27400,1.6
+425,ChaudiÃ¨reâAppalaches,00,0,Total,Total,216000,0.4
+425,ChaudiÃ¨reâAppalaches,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",5700,0
+425,ChaudiÃ¨reâAppalaches,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",1500,0
+425,ChaudiÃ¨reâAppalaches,03,3,Extraction miniÃ¨re,21,,0
+425,ChaudiÃ¨reâAppalaches,04,4,Services publics,22,,0
+425,ChaudiÃ¨reâAppalaches,05,5,Construction,23,16300,0.1
+425,ChaudiÃ¨reâAppalaches,06,8,"      Aliments, boissons et tabac","311, 312",6500,0.6
+425,ChaudiÃ¨reâAppalaches,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+425,ChaudiÃ¨reâAppalaches,08,10,      Papier,322,,0
+425,ChaudiÃ¨reâAppalaches,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+425,ChaudiÃ¨reâAppalaches,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+425,ChaudiÃ¨reâAppalaches,11,13,      Produits en plastique et en caoutchouc,326,3200,0.6
+425,ChaudiÃ¨reâAppalaches,12,15,      Produits en bois,321,6500,-0.3
+425,ChaudiÃ¨reâAppalaches,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+425,ChaudiÃ¨reâAppalaches,14,17,      PremiÃ¨re transformation des mÃ©taux,331,2000,1.9
+425,ChaudiÃ¨reâAppalaches,15,18,      Produits mÃ©talliques,332,5100,0.8
+425,ChaudiÃ¨reâAppalaches,16,19,      Machines,333,4100,1
+425,ChaudiÃ¨reâAppalaches,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+425,ChaudiÃ¨reâAppalaches,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+425,ChaudiÃ¨reâAppalaches,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),3500,2.2
+425,ChaudiÃ¨reâAppalaches,20,23,      Meubles et produits connexes,337,3400,1.1
+425,ChaudiÃ¨reâAppalaches,21,24,      ActivitÃ©s diverses de fabrication,339,1600,1.2
+425,ChaudiÃ¨reâAppalaches,22,26,   Commerce de gros,41,5600,-0.7
+425,ChaudiÃ¨reâAppalaches,23,27,   Commerce de dÃ©tail,"44, 45",27900,-1.5
+425,ChaudiÃ¨reâAppalaches,24,28,Transport et entreposage,"48, 49",11100,0.7
+425,ChaudiÃ¨reâAppalaches,25,29,Finances,"521, 522, 52A",6400,0.3
+425,ChaudiÃ¨reâAppalaches,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,5700,1.4
+425,ChaudiÃ¨reâAppalaches,27,31,Services immobiliers et services de location et de location Ã  bail,53,1800,0
+425,ChaudiÃ¨reâAppalaches,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",3400,0.6
+425,ChaudiÃ¨reâAppalaches,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",2500,1.6
+425,ChaudiÃ¨reâAppalaches,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,3400,0
+425,ChaudiÃ¨reâAppalaches,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+425,ChaudiÃ¨reâAppalaches,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",1500,0
+425,ChaudiÃ¨reâAppalaches,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",4800,-0.4
+425,ChaudiÃ¨reâAppalaches,34,38,Services d'enseignement,61,15600,0.6
+425,ChaudiÃ¨reâAppalaches,35,39,Soins de santÃ©,"621,  622, 623",23400,1.3
+425,ChaudiÃ¨reâAppalaches,36,40,Assistance sociale,624,6800,0.3
+425,ChaudiÃ¨reâAppalaches,37,41,Industrie de l'information et industrie culturelle,51,1800,-1.1
+425,ChaudiÃ¨reâAppalaches,38,42,"Arts, spectacles et loisirs",71,2200,4.2
+425,ChaudiÃ¨reâAppalaches,39,43,HÃ©bergement et restauration,72,6800,1.4
+425,ChaudiÃ¨reâAppalaches,40,44,Autres services (sauf les administrations publiques),81,7900,1
+425,ChaudiÃ¨reâAppalaches,41,45,Administrations publiques,91,10500,0.6
+425,ChaudiÃ¨reâAppalaches,BD,14,   Biens durables,,27800,0.9
+425,ChaudiÃ¨reâAppalaches,BN,7,   Biens non Durables,,13200,0.6
+425,ChaudiÃ¨reâAppalaches,CO,25,Commerce,,33500,-1.3
+425,ChaudiÃ¨reâAppalaches,FB,6,Fabrication,,41000,0.8
+430,Estrie,00,0,Total,Total,161100,1.2
+430,Estrie,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",4500,0.4
+430,Estrie,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+430,Estrie,03,3,Extraction miniÃ¨re,21,,0
+430,Estrie,04,4,Services publics,22,,0
+430,Estrie,05,5,Construction,23,11100,0.7
+430,Estrie,06,8,"      Aliments, boissons et tabac","311, 312",1600,1.2
+430,Estrie,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+430,Estrie,08,10,      Papier,322,2400,1.6
+430,Estrie,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+430,Estrie,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+430,Estrie,11,13,      Produits en plastique et en caoutchouc,326,3900,0.5
+430,Estrie,12,15,      Produits en bois,321,2800,0
+430,Estrie,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+430,Estrie,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+430,Estrie,15,18,      Produits mÃ©talliques,332,1600,2.4
+430,Estrie,16,19,      Machines,333,1700,3.3
+430,Estrie,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+430,Estrie,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+430,Estrie,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),3200,1.8
+430,Estrie,20,23,      Meubles et produits connexes,337,1700,2.2
+430,Estrie,21,24,      ActivitÃ©s diverses de fabrication,339,1600,1.2
+430,Estrie,22,26,   Commerce de gros,41,2900,0.7
+430,Estrie,23,27,   Commerce de dÃ©tail,"44, 45",18100,-0.4
+430,Estrie,24,28,Transport et entreposage,"48, 49",9200,1.9
+430,Estrie,25,29,Finances,"521, 522, 52A",3700,0.5
+430,Estrie,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+430,Estrie,27,31,Services immobiliers et services de location et de location Ã  bail,53,2000,1
+430,Estrie,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",2900,1.3
+430,Estrie,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",3400,1.7
+430,Estrie,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,2800,2.7
+430,Estrie,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+430,Estrie,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",1700,1.1
+430,Estrie,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",5300,0.4
+430,Estrie,34,38,Services d'enseignement,61,13100,1.2
+430,Estrie,35,39,Soins de santÃ©,"621,  622, 623",22000,2.2
+430,Estrie,36,40,Assistance sociale,624,5800,1
+430,Estrie,37,41,Industrie de l'information et industrie culturelle,51,1700,1.1
+430,Estrie,38,42,"Arts, spectacles et loisirs",71,2500,2.3
+430,Estrie,39,43,HÃ©bergement et restauration,72,5600,2.1
+430,Estrie,40,44,Autres services (sauf les administrations publiques),81,6500,1.5
+430,Estrie,41,45,Administrations publiques,91,6600,0.6
+430,Estrie,BD,14,   Biens durables,,15100,1.8
+430,Estrie,BN,7,   Biens non Durables,,10500,1.1
+430,Estrie,CO,25,Commerce,,21000,-0.3
+430,Estrie,FB,6,Fabrication,,25600,1.5
+433,Centre-du-QuÃ©bec,00,0,Total,Total,129700,1.5
+433,Centre-du-QuÃ©bec,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",5400,1.1
+433,Centre-du-QuÃ©bec,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",1800,1.1
+433,Centre-du-QuÃ©bec,03,3,Extraction miniÃ¨re,21,,0
+433,Centre-du-QuÃ©bec,04,4,Services publics,22,,0
+433,Centre-du-QuÃ©bec,05,5,Construction,23,13200,0.2
+433,Centre-du-QuÃ©bec,06,8,"      Aliments, boissons et tabac","311, 312",4600,3.3
+433,Centre-du-QuÃ©bec,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+433,Centre-du-QuÃ©bec,08,10,      Papier,322,3700,2.6
+433,Centre-du-QuÃ©bec,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+433,Centre-du-QuÃ©bec,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",1600,2.4
+433,Centre-du-QuÃ©bec,11,13,      Produits en plastique et en caoutchouc,326,1500,1.3
+433,Centre-du-QuÃ©bec,12,15,      Produits en bois,321,1600,0
+433,Centre-du-QuÃ©bec,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+433,Centre-du-QuÃ©bec,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+433,Centre-du-QuÃ©bec,15,18,      Produits mÃ©talliques,332,2900,2.6
+433,Centre-du-QuÃ©bec,16,19,      Machines,333,3000,5.4
+433,Centre-du-QuÃ©bec,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+433,Centre-du-QuÃ©bec,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+433,Centre-du-QuÃ©bec,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),1900,3.9
+433,Centre-du-QuÃ©bec,20,23,      Meubles et produits connexes,337,,0
+433,Centre-du-QuÃ©bec,21,24,      ActivitÃ©s diverses de fabrication,339,1700,3.3
+433,Centre-du-QuÃ©bec,22,26,   Commerce de gros,41,4300,-0.5
+433,Centre-du-QuÃ©bec,23,27,   Commerce de dÃ©tail,"44, 45",14600,-0.7
+433,Centre-du-QuÃ©bec,24,28,Transport et entreposage,"48, 49",7400,2.8
+433,Centre-du-QuÃ©bec,25,29,Finances,"521, 522, 52A",2000,1
+433,Centre-du-QuÃ©bec,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,2000,3.7
+433,Centre-du-QuÃ©bec,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+433,Centre-du-QuÃ©bec,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",1600,1.2
+433,Centre-du-QuÃ©bec,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",,0
+433,Centre-du-QuÃ©bec,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,2100,0.9
+433,Centre-du-QuÃ©bec,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+433,Centre-du-QuÃ©bec,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+433,Centre-du-QuÃ©bec,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",2700,-0.8
+433,Centre-du-QuÃ©bec,34,38,Services d'enseignement,61,13100,1.9
+433,Centre-du-QuÃ©bec,35,39,Soins de santÃ©,"621,  622, 623",10000,1.7
+433,Centre-du-QuÃ©bec,36,40,Assistance sociale,624,5400,0.4
+433,Centre-du-QuÃ©bec,37,41,Industrie de l'information et industrie culturelle,51,,0
+433,Centre-du-QuÃ©bec,38,42,"Arts, spectacles et loisirs",71,,0
+433,Centre-du-QuÃ©bec,39,43,HÃ©bergement et restauration,72,4200,4
+433,Centre-du-QuÃ©bec,40,44,Autres services (sauf les administrations publiques),81,5100,3
+433,Centre-du-QuÃ©bec,41,45,Administrations publiques,91,2400,0.8
+433,Centre-du-QuÃ©bec,BD,14,   Biens durables,,15200,3.2
+433,Centre-du-QuÃ©bec,BN,7,   Biens non Durables,,12300,2.6
+433,Centre-du-QuÃ©bec,CO,25,Commerce,,18900,-0.6
+433,Centre-du-QuÃ©bec,FB,6,Fabrication,,27500,2.9
+435,MontÃ©rÃ©gie,00,0,Total,Total,810600,1.6
+435,MontÃ©rÃ©gie,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",14200,1.4
+435,MontÃ©rÃ©gie,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+435,MontÃ©rÃ©gie,03,3,Extraction miniÃ¨re,21,2100,0.9
+435,MontÃ©rÃ©gie,04,4,Services publics,22,6800,-0.3
+435,MontÃ©rÃ©gie,05,5,Construction,23,62500,0.1
+435,MontÃ©rÃ©gie,06,8,"      Aliments, boissons et tabac","311, 312",21600,3.3
+435,MontÃ©rÃ©gie,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",5000,2.3
+435,MontÃ©rÃ©gie,08,10,      Papier,322,3600,4.1
+435,MontÃ©rÃ©gie,09,11,      Impression et activitÃ©s connexes de soutien,323,3100,0.6
+435,MontÃ©rÃ©gie,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",7700,2.2
+435,MontÃ©rÃ©gie,11,13,      Produits en plastique et en caoutchouc,326,6400,0.3
+435,MontÃ©rÃ©gie,12,15,      Produits en bois,321,4500,0
+435,MontÃ©rÃ©gie,13,16,      Produits minÃ©raux non mÃ©talliques,327,3100,1.9
+435,MontÃ©rÃ©gie,14,17,      PremiÃ¨re transformation des mÃ©taux,331,7200,3.4
+435,MontÃ©rÃ©gie,15,18,      Produits mÃ©talliques,332,8200,1.4
+435,MontÃ©rÃ©gie,16,19,      Machines,333,6900,5.5
+435,MontÃ©rÃ©gie,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",8300,3.6
+435,MontÃ©rÃ©gie,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,9700,7
+435,MontÃ©rÃ©gie,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),5300,3.5
+435,MontÃ©rÃ©gie,20,23,      Meubles et produits connexes,337,3600,4.1
+435,MontÃ©rÃ©gie,21,24,      ActivitÃ©s diverses de fabrication,339,4800,3.1
+435,MontÃ©rÃ©gie,22,26,   Commerce de gros,41,32200,-0.1
+435,MontÃ©rÃ©gie,23,27,   Commerce de dÃ©tail,"44, 45",92600,-0.6
+435,MontÃ©rÃ©gie,24,28,Transport et entreposage,"48, 49",53900,2.2
+435,MontÃ©rÃ©gie,25,29,Finances,"521, 522, 52A",32000,0.7
+435,MontÃ©rÃ©gie,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,13600,4.1
+435,MontÃ©rÃ©gie,27,31,Services immobiliers et services de location et de location Ã  bail,53,9200,1.1
+435,MontÃ©rÃ©gie,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",13900,1.1
+435,MontÃ©rÃ©gie,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",16500,1.8
+435,MontÃ©rÃ©gie,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,17700,0.9
+435,MontÃ©rÃ©gie,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",7800,1.7
+435,MontÃ©rÃ©gie,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",10300,0.4
+435,MontÃ©rÃ©gie,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",29400,0.1
+435,MontÃ©rÃ©gie,34,38,Services d'enseignement,61,56800,1.8
+435,MontÃ©rÃ©gie,35,39,Soins de santÃ©,"621,  622, 623",75700,2.2
+435,MontÃ©rÃ©gie,36,40,Assistance sociale,624,27600,0.6
+435,MontÃ©rÃ©gie,37,41,Industrie de l'information et industrie culturelle,51,15000,0.4
+435,MontÃ©rÃ©gie,38,42,"Arts, spectacles et loisirs",71,11600,7.8
+435,MontÃ©rÃ©gie,39,43,HÃ©bergement et restauration,72,32100,4.1
+435,MontÃ©rÃ©gie,40,44,Autres services (sauf les administrations publiques),81,27500,3.1
+435,MontÃ©rÃ©gie,41,45,Administrations publiques,91,40000,1.1
+435,MontÃ©rÃ©gie,BD,14,   Biens durables,,61600,3.7
+435,MontÃ©rÃ©gie,BN,7,   Biens non Durables,,47400,2.5
+435,MontÃ©rÃ©gie,CO,25,Commerce,,124800,-0.5
+435,MontÃ©rÃ©gie,FB,6,Fabrication,,109000,3.2
+440,MontrÃ©al,00,0,Total,Total,1078400,1.9
+440,MontrÃ©al,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",1800,2.1
+440,MontrÃ©al,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+440,MontrÃ©al,03,3,Extraction miniÃ¨re,21,,0
+440,MontrÃ©al,04,4,Services publics,22,5500,0
+440,MontrÃ©al,05,5,Construction,23,38000,0.1
+440,MontrÃ©al,06,8,"      Aliments, boissons et tabac","311, 312",21000,3
+440,MontrÃ©al,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",11500,2.3
+440,MontrÃ©al,08,10,      Papier,322,2200,2.6
+440,MontrÃ©al,09,11,      Impression et activitÃ©s connexes de soutien,323,1500,0
+440,MontrÃ©al,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",10600,2
+440,MontrÃ©al,11,13,      Produits en plastique et en caoutchouc,326,5200,0.8
+440,MontrÃ©al,12,15,      Produits en bois,321,2100,0.9
+440,MontrÃ©al,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+440,MontrÃ©al,14,17,      PremiÃ¨re transformation des mÃ©taux,331,2600,2.2
+440,MontrÃ©al,15,18,      Produits mÃ©talliques,332,7900,1.7
+440,MontrÃ©al,16,19,      Machines,333,6700,3.1
+440,MontrÃ©al,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",9100,3.7
+440,MontrÃ©al,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,8700,6.6
+440,MontrÃ©al,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),3000,3.1
+440,MontrÃ©al,20,23,      Meubles et produits connexes,337,4900,3.8
+440,MontrÃ©al,21,24,      ActivitÃ©s diverses de fabrication,339,6500,3.2
+440,MontrÃ©al,22,26,   Commerce de gros,41,42100,0
+440,MontrÃ©al,23,27,   Commerce de dÃ©tail,"44, 45",103800,-0.2
+440,MontrÃ©al,24,28,Transport et entreposage,"48, 49",52200,3.4
+440,MontrÃ©al,25,29,Finances,"521, 522, 52A",54200,0.9
+440,MontrÃ©al,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,18700,3.3
+440,MontrÃ©al,27,31,Services immobiliers et services de location et de location Ã  bail,53,24000,0.8
+440,MontrÃ©al,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",31200,1.2
+440,MontrÃ©al,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",22200,1.8
+440,MontrÃ©al,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,51000,3
+440,MontrÃ©al,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",16600,1.7
+440,MontrÃ©al,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",17400,0.7
+440,MontrÃ©al,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",54600,0.2
+440,MontrÃ©al,34,38,Services d'enseignement,61,102400,1.5
+440,MontrÃ©al,35,39,Soins de santÃ©,"621,  622, 623",105100,2.3
+440,MontrÃ©al,36,40,Assistance sociale,624,31900,2.7
+440,MontrÃ©al,37,41,Industrie de l'information et industrie culturelle,51,39400,1.9
+440,MontrÃ©al,38,42,"Arts, spectacles et loisirs",71,23900,7.5
+440,MontrÃ©al,39,43,HÃ©bergement et restauration,72,54400,4.1
+440,MontrÃ©al,40,44,Autres services (sauf les administrations publiques),81,34400,3.3
+440,MontrÃ©al,41,45,Administrations publiques,91,48000,1.2
+440,MontrÃ©al,BD,14,   Biens durables,,52900,3.5
+440,MontrÃ©al,BN,7,   Biens non Durables,,52000,2.3
+440,MontrÃ©al,CO,25,Commerce,,145900,-0.1
+440,MontrÃ©al,FB,6,Fabrication,,104900,2.9
+445,Laval,00,0,Total,Total,227400,1.6
+445,Laval,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",,0
+445,Laval,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+445,Laval,03,3,Extraction miniÃ¨re,21,,0
+445,Laval,04,4,Services publics,22,2100,0
+445,Laval,05,5,Construction,23,8000,10.5
+445,Laval,06,8,"      Aliments, boissons et tabac","311, 312",4400,3
+445,Laval,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",1600,2.4
+445,Laval,08,10,      Papier,322,,0
+445,Laval,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+445,Laval,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",1800,3.1
+445,Laval,11,13,      Produits en plastique et en caoutchouc,326,1800,1.1
+445,Laval,12,15,      Produits en bois,321,,0
+445,Laval,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+445,Laval,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+445,Laval,15,18,      Produits mÃ©talliques,332,,0
+445,Laval,16,19,      Machines,333,3500,4.2
+445,Laval,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+445,Laval,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,1900,5.6
+445,Laval,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+445,Laval,20,23,      Meubles et produits connexes,337,,0
+445,Laval,21,24,      ActivitÃ©s diverses de fabrication,339,1800,3.1
+445,Laval,22,26,   Commerce de gros,41,14800,-2.7
+445,Laval,23,27,   Commerce de dÃ©tail,"44, 45",29300,-0.6
+445,Laval,24,28,Transport et entreposage,"48, 49",12200,3.7
+445,Laval,25,29,Finances,"521, 522, 52A",11800,2.1
+445,Laval,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,4500,0.9
+445,Laval,27,31,Services immobiliers et services de location et de location Ã  bail,53,4100,0
+445,Laval,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",4000,1.5
+445,Laval,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",6000,-1.4
+445,Laval,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,6400,3.8
+445,Laval,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",1900,4.8
+445,Laval,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",2300,0.9
+445,Laval,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",8100,2.4
+445,Laval,34,38,Services d'enseignement,61,19500,0.8
+445,Laval,35,39,Soins de santÃ©,"621,  622, 623",19900,4
+445,Laval,36,40,Assistance sociale,624,11400,-4.8
+445,Laval,37,41,Industrie de l'information et industrie culturelle,51,4200,0.5
+445,Laval,38,42,"Arts, spectacles et loisirs",71,2500,6.3
+445,Laval,39,43,HÃ©bergement et restauration,72,13600,1.4
+445,Laval,40,44,Autres services (sauf les administrations publiques),81,8200,1
+445,Laval,41,45,Administrations publiques,91,9200,1.3
+445,Laval,BD,14,   Biens durables,,12200,3.7
+445,Laval,BN,7,   Biens non Durables,,10600,2.7
+445,Laval,CO,25,Commerce,,44100,-1.3
+445,Laval,FB,6,Fabrication,,22800,3.2
+450,LanaudiÃ¨re,00,0,Total,Total,260000,1.7
+450,LanaudiÃ¨re,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",3300,1.2
+450,LanaudiÃ¨re,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+450,LanaudiÃ¨re,03,3,Extraction miniÃ¨re,21,,0
+450,LanaudiÃ¨re,04,4,Services publics,22,2100,0
+450,LanaudiÃ¨re,05,5,Construction,23,27000,0.7
+450,LanaudiÃ¨re,06,8,"      Aliments, boissons et tabac","311, 312",4700,3.6
+450,LanaudiÃ¨re,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+450,LanaudiÃ¨re,08,10,      Papier,322,3300,3.9
+450,LanaudiÃ¨re,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+450,LanaudiÃ¨re,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",2800,2.1
+450,LanaudiÃ¨re,11,13,      Produits en plastique et en caoutchouc,326,5200,0.8
+450,LanaudiÃ¨re,12,15,      Produits en bois,321,2200,0
+450,LanaudiÃ¨re,13,16,      Produits minÃ©raux non mÃ©talliques,327,1500,2.5
+450,LanaudiÃ¨re,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+450,LanaudiÃ¨re,15,18,      Produits mÃ©talliques,332,3000,1.9
+450,LanaudiÃ¨re,16,19,      Machines,333,3600,5.5
+450,LanaudiÃ¨re,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+450,LanaudiÃ¨re,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,1600,7.5
+450,LanaudiÃ¨re,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),1900,3.9
+450,LanaudiÃ¨re,20,23,      Meubles et produits connexes,337,2300,4.7
+450,LanaudiÃ¨re,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+450,LanaudiÃ¨re,22,26,   Commerce de gros,41,9000,0
+450,LanaudiÃ¨re,23,27,   Commerce de dÃ©tail,"44, 45",35400,-0.5
+450,LanaudiÃ¨re,24,28,Transport et entreposage,"48, 49",14200,2.3
+450,LanaudiÃ¨re,25,29,Finances,"521, 522, 52A",7300,0.8
+450,LanaudiÃ¨re,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,2800,4.6
+450,LanaudiÃ¨re,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+450,LanaudiÃ¨re,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",1700,2.2
+450,LanaudiÃ¨re,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",3000,1.9
+450,LanaudiÃ¨re,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,2400,1.6
+450,LanaudiÃ¨re,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",2500,1.6
+450,LanaudiÃ¨re,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+450,LanaudiÃ¨re,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",7700,0.3
+450,LanaudiÃ¨re,34,38,Services d'enseignement,61,22900,1.9
+450,LanaudiÃ¨re,35,39,Soins de santÃ©,"621,  622, 623",31200,2.3
+450,LanaudiÃ¨re,36,40,Assistance sociale,624,8500,0.7
+450,LanaudiÃ¨re,37,41,Industrie de l'information et industrie culturelle,51,4800,0.4
+450,LanaudiÃ¨re,38,42,"Arts, spectacles et loisirs",71,3100,8.2
+450,LanaudiÃ¨re,39,43,HÃ©bergement et restauration,72,8200,4
+450,LanaudiÃ¨re,40,44,Autres services (sauf les administrations publiques),81,11200,3.2
+450,LanaudiÃ¨re,41,45,Administrations publiques,91,14000,1.4
+450,LanaudiÃ¨re,BD,14,   Biens durables,,17600,3.8
+450,LanaudiÃ¨re,BN,7,   Biens non Durables,,16600,2.4
+450,LanaudiÃ¨re,CO,25,Commerce,,44400,-0.4
+450,LanaudiÃ¨re,FB,6,Fabrication,,34200,3.1
+455,Laurentides,00,0,Total,Total,317600,1.8
+455,Laurentides,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",4200,1.4
+455,Laurentides,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+455,Laurentides,03,3,Extraction miniÃ¨re,21,,0
+455,Laurentides,04,4,Services publics,22,,0
+455,Laurentides,05,5,Construction,23,29100,0.9
+455,Laurentides,06,8,"      Aliments, boissons et tabac","311, 312",5400,2.8
+455,Laurentides,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+455,Laurentides,08,10,      Papier,322,,0
+455,Laurentides,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+455,Laurentides,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",2200,1.8
+455,Laurentides,11,13,      Produits en plastique et en caoutchouc,326,,0
+455,Laurentides,12,15,      Produits en bois,321,3600,0.5
+455,Laurentides,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+455,Laurentides,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+455,Laurentides,15,18,      Produits mÃ©talliques,332,2500,1.6
+455,Laurentides,16,19,      Machines,333,2900,3.8
+455,Laurentides,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+455,Laurentides,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,9700,5.7
+455,Laurentides,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),3700,3.5
+455,Laurentides,20,23,      Meubles et produits connexes,337,,0
+455,Laurentides,21,24,      ActivitÃ©s diverses de fabrication,339,2900,1.3
+455,Laurentides,22,26,   Commerce de gros,41,10700,0.4
+455,Laurentides,23,27,   Commerce de dÃ©tail,"44, 45",47100,-0.4
+455,Laurentides,24,28,Transport et entreposage,"48, 49",16900,1.2
+455,Laurentides,25,29,Finances,"521, 522, 52A",7400,1.1
+455,Laurentides,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,2900,4.4
+455,Laurentides,27,31,Services immobiliers et services de location et de location Ã  bail,53,7200,1.4
+455,Laurentides,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",4900,3.1
+455,Laurentides,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",7900,1.9
+455,Laurentides,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,8500,1.1
+455,Laurentides,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",5500,1.4
+455,Laurentides,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",4100,0.5
+455,Laurentides,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",9900,0.4
+455,Laurentides,34,38,Services d'enseignement,61,18300,2.2
+455,Laurentides,35,39,Soins de santÃ©,"621,  622, 623",36600,2.4
+455,Laurentides,36,40,Assistance sociale,624,9400,1
+455,Laurentides,37,41,Industrie de l'information et industrie culturelle,51,8100,0.5
+455,Laurentides,38,42,"Arts, spectacles et loisirs",71,5600,8.2
+455,Laurentides,39,43,HÃ©bergement et restauration,72,9400,6.5
+455,Laurentides,40,44,Autres services (sauf les administrations publiques),81,9400,3.6
+455,Laurentides,41,45,Administrations publiques,91,11200,1.7
+455,Laurentides,BD,14,   Biens durables,,28300,3.6
+455,Laurentides,BN,7,   Biens non Durables,,12600,2.3
+455,Laurentides,CO,25,Commerce,,57800,-0.2
+455,Laurentides,FB,6,Fabrication,,40900,3.2
+460,Outaouais,00,0,Total,Total,198300,1.4
+460,Outaouais,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",1700,1.1
+460,Outaouais,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+460,Outaouais,03,3,Extraction miniÃ¨re,21,,0
+460,Outaouais,04,4,Services publics,22,,0
+460,Outaouais,05,5,Construction,23,16700,0.4
+460,Outaouais,06,8,"      Aliments, boissons et tabac","311, 312",1500,3.7
+460,Outaouais,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+460,Outaouais,08,10,      Papier,322,,0
+460,Outaouais,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+460,Outaouais,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+460,Outaouais,11,13,      Produits en plastique et en caoutchouc,326,,0
+460,Outaouais,12,15,      Produits en bois,321,,0
+460,Outaouais,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+460,Outaouais,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+460,Outaouais,15,18,      Produits mÃ©talliques,332,,0
+460,Outaouais,16,19,      Machines,333,,0
+460,Outaouais,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+460,Outaouais,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+460,Outaouais,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+460,Outaouais,20,23,      Meubles et produits connexes,337,,0
+460,Outaouais,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+460,Outaouais,22,26,   Commerce de gros,41,2300,0
+460,Outaouais,23,27,   Commerce de dÃ©tail,"44, 45",19900,-0.4
+460,Outaouais,24,28,Transport et entreposage,"48, 49",9000,2.3
+460,Outaouais,25,29,Finances,"521, 522, 52A",3500,1.1
+460,Outaouais,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+460,Outaouais,27,31,Services immobiliers et services de location et de location Ã  bail,53,2300,0.9
+460,Outaouais,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",1700,1.1
+460,Outaouais,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",2300,1.7
+460,Outaouais,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,2800,0.7
+460,Outaouais,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",1600,1.2
+460,Outaouais,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",1500,0
+460,Outaouais,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",8800,0
+460,Outaouais,34,38,Services d'enseignement,61,17300,1.8
+460,Outaouais,35,39,Soins de santÃ©,"621,  622, 623",18200,2.2
+460,Outaouais,36,40,Assistance sociale,624,9000,0.7
+460,Outaouais,37,41,Industrie de l'information et industrie culturelle,51,3900,0.5
+460,Outaouais,38,42,"Arts, spectacles et loisirs",71,3400,7.6
+460,Outaouais,39,43,HÃ©bergement et restauration,72,7000,4.2
+460,Outaouais,40,44,Autres services (sauf les administrations publiques),81,6200,3.3
+460,Outaouais,41,45,Administrations publiques,91,48200,1.1
+460,Outaouais,BD,14,   Biens durables,,4000,2.8
+460,Outaouais,BN,7,   Biens non Durables,,4000,1.5
+460,Outaouais,CO,25,Commerce,,22200,-0.4
+460,Outaouais,FB,6,Fabrication,,8000,2.2
+465,AbitibiâTÃ©miscamingue,00,0,Total,Total,73800,0.8
+465,AbitibiâTÃ©miscamingue,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",,0
+465,AbitibiâTÃ©miscamingue,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+465,AbitibiâTÃ©miscamingue,03,3,Extraction miniÃ¨re,21,8900,2.2
+465,AbitibiâTÃ©miscamingue,04,4,Services publics,22,,0
+465,AbitibiâTÃ©miscamingue,05,5,Construction,23,5800,1
+465,AbitibiâTÃ©miscamingue,06,8,"      Aliments, boissons et tabac","311, 312",,0
+465,AbitibiâTÃ©miscamingue,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+465,AbitibiâTÃ©miscamingue,08,10,      Papier,322,,0
+465,AbitibiâTÃ©miscamingue,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+465,AbitibiâTÃ©miscamingue,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+465,AbitibiâTÃ©miscamingue,11,13,      Produits en plastique et en caoutchouc,326,,0
+465,AbitibiâTÃ©miscamingue,12,15,      Produits en bois,321,,0
+465,AbitibiâTÃ©miscamingue,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+465,AbitibiâTÃ©miscamingue,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+465,AbitibiâTÃ©miscamingue,15,18,      Produits mÃ©talliques,332,,0
+465,AbitibiâTÃ©miscamingue,16,19,      Machines,333,,0
+465,AbitibiâTÃ©miscamingue,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+465,AbitibiâTÃ©miscamingue,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+465,AbitibiâTÃ©miscamingue,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+465,AbitibiâTÃ©miscamingue,20,23,      Meubles et produits connexes,337,,0
+465,AbitibiâTÃ©miscamingue,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+465,AbitibiâTÃ©miscamingue,22,26,   Commerce de gros,41,2200,1.8
+465,AbitibiâTÃ©miscamingue,23,27,   Commerce de dÃ©tail,"44, 45",9200,-1.3
+465,AbitibiâTÃ©miscamingue,24,28,Transport et entreposage,"48, 49",4100,0.5
+465,AbitibiâTÃ©miscamingue,25,29,Finances,"521, 522, 52A",,0
+465,AbitibiâTÃ©miscamingue,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+465,AbitibiâTÃ©miscamingue,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+465,AbitibiâTÃ©miscamingue,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",,0
+465,AbitibiâTÃ©miscamingue,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",1700,2.2
+465,AbitibiâTÃ©miscamingue,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,,0
+465,AbitibiâTÃ©miscamingue,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+465,AbitibiâTÃ©miscamingue,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+465,AbitibiâTÃ©miscamingue,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",2500,-0.8
+465,AbitibiâTÃ©miscamingue,34,38,Services d'enseignement,61,4900,0.8
+465,AbitibiâTÃ©miscamingue,35,39,Soins de santÃ©,"621,  622, 623",9500,1.4
+465,AbitibiâTÃ©miscamingue,36,40,Assistance sociale,624,2400,0
+465,AbitibiâTÃ©miscamingue,37,41,Industrie de l'information et industrie culturelle,51,,0
+465,AbitibiâTÃ©miscamingue,38,42,"Arts, spectacles et loisirs",71,,0
+465,AbitibiâTÃ©miscamingue,39,43,HÃ©bergement et restauration,72,3100,1.3
+465,AbitibiâTÃ©miscamingue,40,44,Autres services (sauf les administrations publiques),81,2300,0.9
+465,AbitibiâTÃ©miscamingue,41,45,Administrations publiques,91,3700,0
+465,AbitibiâTÃ©miscamingue,BD,14,   Biens durables,,4400,1.3
+465,AbitibiâTÃ©miscamingue,BN,7,   Biens non Durables,,,0
+465,AbitibiâTÃ©miscamingue,CO,25,Commerce,,11400,-0.7
+465,AbitibiâTÃ©miscamingue,FB,6,Fabrication,,5400,1.4
+470,Mauricie,00,0,Total,Total,120700,0.8
+470,Mauricie,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",3000,0.7
+470,Mauricie,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+470,Mauricie,03,3,Extraction miniÃ¨re,21,,0
+470,Mauricie,04,4,Services publics,22,1500,0
+470,Mauricie,05,5,Construction,23,7700,0
+470,Mauricie,06,8,"      Aliments, boissons et tabac","311, 312",2000,1.9
+470,Mauricie,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+470,Mauricie,08,10,      Papier,322,1500,1.3
+470,Mauricie,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+470,Mauricie,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+470,Mauricie,11,13,      Produits en plastique et en caoutchouc,326,,0
+470,Mauricie,12,15,      Produits en bois,321,,0
+470,Mauricie,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+470,Mauricie,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+470,Mauricie,15,18,      Produits mÃ©talliques,332,1500,1.3
+470,Mauricie,16,19,      Machines,333,,0
+470,Mauricie,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+470,Mauricie,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+470,Mauricie,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+470,Mauricie,20,23,      Meubles et produits connexes,337,,0
+470,Mauricie,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+470,Mauricie,22,26,   Commerce de gros,41,2300,-0.9
+470,Mauricie,23,27,   Commerce de dÃ©tail,"44, 45",15200,-1.1
+470,Mauricie,24,28,Transport et entreposage,"48, 49",5700,2
+470,Mauricie,25,29,Finances,"521, 522, 52A",2500,0
+470,Mauricie,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,1600,1.2
+470,Mauricie,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+470,Mauricie,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",,0
+470,Mauricie,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",2000,1
+470,Mauricie,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,,0
+470,Mauricie,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+470,Mauricie,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+470,Mauricie,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",5000,0
+470,Mauricie,34,38,Services d'enseignement,61,11000,0.4
+470,Mauricie,35,39,Soins de santÃ©,"621,  622, 623",17900,1
+470,Mauricie,36,40,Assistance sociale,624,5300,0
+470,Mauricie,37,41,Industrie de l'information et industrie culturelle,51,,0
+470,Mauricie,38,42,"Arts, spectacles et loisirs",71,1600,7.5
+470,Mauricie,39,43,HÃ©bergement et restauration,72,6600,2.9
+470,Mauricie,40,44,Autres services (sauf les administrations publiques),81,4200,2.7
+470,Mauricie,41,45,Administrations publiques,91,7100,0.6
+470,Mauricie,BD,14,   Biens durables,,8700,2.4
+470,Mauricie,BN,7,   Biens non Durables,,4900,1.6
+470,Mauricie,CO,25,Commerce,,17500,-1.1
+470,Mauricie,FB,6,Fabrication,,13600,2.1
+475,SaguenayâLacâSaint-Jean,00,0,Total,Total,123000,0.8
+475,SaguenayâLacâSaint-Jean,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",2500,0.8
+475,SaguenayâLacâSaint-Jean,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",2700,1.4
+475,SaguenayâLacâSaint-Jean,03,3,Extraction miniÃ¨re,21,,0
+475,SaguenayâLacâSaint-Jean,04,4,Services publics,22,,0
+475,SaguenayâLacâSaint-Jean,05,5,Construction,23,9700,1
+475,SaguenayâLacâSaint-Jean,06,8,"      Aliments, boissons et tabac","311, 312",1700,2.2
+475,SaguenayâLacâSaint-Jean,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+475,SaguenayâLacâSaint-Jean,08,10,      Papier,322,,0
+475,SaguenayâLacâSaint-Jean,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+475,SaguenayâLacâSaint-Jean,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+475,SaguenayâLacâSaint-Jean,11,13,      Produits en plastique et en caoutchouc,326,,0
+475,SaguenayâLacâSaint-Jean,12,15,      Produits en bois,321,2800,0
+475,SaguenayâLacâSaint-Jean,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+475,SaguenayâLacâSaint-Jean,14,17,      PremiÃ¨re transformation des mÃ©taux,331,4300,2.6
+475,SaguenayâLacâSaint-Jean,15,18,      Produits mÃ©talliques,332,1600,1.2
+475,SaguenayâLacâSaint-Jean,16,19,      Machines,333,,0
+475,SaguenayâLacâSaint-Jean,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+475,SaguenayâLacâSaint-Jean,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+475,SaguenayâLacâSaint-Jean,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+475,SaguenayâLacâSaint-Jean,20,23,      Meubles et produits connexes,337,,0
+475,SaguenayâLacâSaint-Jean,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+475,SaguenayâLacâSaint-Jean,22,26,   Commerce de gros,41,3000,-1.4
+475,SaguenayâLacâSaint-Jean,23,27,   Commerce de dÃ©tail,"44, 45",15900,-1.6
+475,SaguenayâLacâSaint-Jean,24,28,Transport et entreposage,"48, 49",4800,2.4
+475,SaguenayâLacâSaint-Jean,25,29,Finances,"521, 522, 52A",1800,-1.1
+475,SaguenayâLacâSaint-Jean,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+475,SaguenayâLacâSaint-Jean,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+475,SaguenayâLacâSaint-Jean,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",1600,0
+475,SaguenayâLacâSaint-Jean,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",2300,0.9
+475,SaguenayâLacâSaint-Jean,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,,0
+475,SaguenayâLacâSaint-Jean,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+475,SaguenayâLacâSaint-Jean,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+475,SaguenayâLacâSaint-Jean,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",4200,0
+475,SaguenayâLacâSaint-Jean,34,38,Services d'enseignement,61,9300,0.6
+475,SaguenayâLacâSaint-Jean,35,39,Soins de santÃ©,"621,  622, 623",14300,1.4
+475,SaguenayâLacâSaint-Jean,36,40,Assistance sociale,624,4200,0
+475,SaguenayâLacâSaint-Jean,37,41,Industrie de l'information et industrie culturelle,51,1500,0
+475,SaguenayâLacâSaint-Jean,38,42,"Arts, spectacles et loisirs",71,2500,6.3
+475,SaguenayâLacâSaint-Jean,39,43,HÃ©bergement et restauration,72,7100,1.9
+475,SaguenayâLacâSaint-Jean,40,44,Autres services (sauf les administrations publiques),81,6000,2.2
+475,SaguenayâLacâSaint-Jean,41,45,Administrations publiques,91,7500,0
+475,SaguenayâLacâSaint-Jean,BD,14,   Biens durables,,11800,1.8
+475,SaguenayâLacâSaint-Jean,BN,7,   Biens non Durables,,3500,1.7
+475,SaguenayâLacâSaint-Jean,CO,25,Commerce,,18900,-1.5
+475,SaguenayâLacâSaint-Jean,FB,6,Fabrication,,15300,1.8
+480,CÃ´te-Nord & Nord-du-QC,00,0,Total,Total,50000,0.5
+480,CÃ´te-Nord & Nord-du-QC,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",,0
+480,CÃ´te-Nord & Nord-du-QC,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+480,CÃ´te-Nord & Nord-du-QC,03,3,Extraction miniÃ¨re,21,7100,1.4
+480,CÃ´te-Nord & Nord-du-QC,04,4,Services publics,22,,0
+480,CÃ´te-Nord & Nord-du-QC,05,5,Construction,23,3100,1.9
+480,CÃ´te-Nord & Nord-du-QC,06,8,"      Aliments, boissons et tabac","311, 312",,0
+480,CÃ´te-Nord & Nord-du-QC,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+480,CÃ´te-Nord & Nord-du-QC,08,10,      Papier,322,,0
+480,CÃ´te-Nord & Nord-du-QC,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+480,CÃ´te-Nord & Nord-du-QC,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",,0
+480,CÃ´te-Nord & Nord-du-QC,11,13,      Produits en plastique et en caoutchouc,326,,0
+480,CÃ´te-Nord & Nord-du-QC,12,15,      Produits en bois,321,1800,1.1
+480,CÃ´te-Nord & Nord-du-QC,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+480,CÃ´te-Nord & Nord-du-QC,14,17,      PremiÃ¨re transformation des mÃ©taux,331,1900,0
+480,CÃ´te-Nord & Nord-du-QC,15,18,      Produits mÃ©talliques,332,,0
+480,CÃ´te-Nord & Nord-du-QC,16,19,      Machines,333,,0
+480,CÃ´te-Nord & Nord-du-QC,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",,0
+480,CÃ´te-Nord & Nord-du-QC,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+480,CÃ´te-Nord & Nord-du-QC,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),,0
+480,CÃ´te-Nord & Nord-du-QC,20,23,      Meubles et produits connexes,337,,0
+480,CÃ´te-Nord & Nord-du-QC,21,24,      ActivitÃ©s diverses de fabrication,339,,0
+480,CÃ´te-Nord & Nord-du-QC,22,26,   Commerce de gros,41,,0
+480,CÃ´te-Nord & Nord-du-QC,23,27,   Commerce de dÃ©tail,"44, 45",5400,-1.1
+480,CÃ´te-Nord & Nord-du-QC,24,28,Transport et entreposage,"48, 49",3100,0
+480,CÃ´te-Nord & Nord-du-QC,25,29,Finances,"521, 522, 52A",,0
+480,CÃ´te-Nord & Nord-du-QC,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,,0
+480,CÃ´te-Nord & Nord-du-QC,27,31,Services immobiliers et services de location et de location Ã  bail,53,,0
+480,CÃ´te-Nord & Nord-du-QC,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",,0
+480,CÃ´te-Nord & Nord-du-QC,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",,0
+480,CÃ´te-Nord & Nord-du-QC,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,,0
+480,CÃ´te-Nord & Nord-du-QC,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",,0
+480,CÃ´te-Nord & Nord-du-QC,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",,0
+480,CÃ´te-Nord & Nord-du-QC,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",,0
+480,CÃ´te-Nord & Nord-du-QC,34,38,Services d'enseignement,61,3300,0
+480,CÃ´te-Nord & Nord-du-QC,35,39,Soins de santÃ©,"621,  622, 623",5200,0.4
+480,CÃ´te-Nord & Nord-du-QC,36,40,Assistance sociale,624,1900,1
+480,CÃ´te-Nord & Nord-du-QC,37,41,Industrie de l'information et industrie culturelle,51,,0
+480,CÃ´te-Nord & Nord-du-QC,38,42,"Arts, spectacles et loisirs",71,,0
+480,CÃ´te-Nord & Nord-du-QC,39,43,HÃ©bergement et restauration,72,2300,2.5
+480,CÃ´te-Nord & Nord-du-QC,40,44,Autres services (sauf les administrations publiques),81,2000,1
+480,CÃ´te-Nord & Nord-du-QC,41,45,Administrations publiques,91,3900,0.5
+480,CÃ´te-Nord & Nord-du-QC,BD,14,   Biens durables,,4400,0.5
+480,CÃ´te-Nord & Nord-du-QC,BN,7,   Biens non Durables,,,0
+480,CÃ´te-Nord & Nord-du-QC,CO,25,Commerce,,6400,-1
+480,CÃ´te-Nord & Nord-du-QC,FB,6,Fabrication,,5100,0.4
+498,RMR QuÃ©bec,00,0,Total,Total,432900,1.4
+498,RMR QuÃ©bec,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",,0
+498,RMR QuÃ©bec,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+498,RMR QuÃ©bec,03,3,Extraction miniÃ¨re,21,,0
+498,RMR QuÃ©bec,04,4,Services publics,22,1800,0
+498,RMR QuÃ©bec,05,5,Construction,23,27100,0.1
+498,RMR QuÃ©bec,06,8,"      Aliments, boissons et tabac","311, 312",6700,3.1
+498,RMR QuÃ©bec,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",,0
+498,RMR QuÃ©bec,08,10,      Papier,322,,0
+498,RMR QuÃ©bec,09,11,      Impression et activitÃ©s connexes de soutien,323,,0
+498,RMR QuÃ©bec,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",2500,2.3
+498,RMR QuÃ©bec,11,13,      Produits en plastique et en caoutchouc,326,,0
+498,RMR QuÃ©bec,12,15,      Produits en bois,321,2600,0
+498,RMR QuÃ©bec,13,16,      Produits minÃ©raux non mÃ©talliques,327,,0
+498,RMR QuÃ©bec,14,17,      PremiÃ¨re transformation des mÃ©taux,331,,0
+498,RMR QuÃ©bec,15,18,      Produits mÃ©talliques,332,3200,1.8
+498,RMR QuÃ©bec,16,19,      Machines,333,2100,5.2
+498,RMR QuÃ©bec,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",4600,3.6
+498,RMR QuÃ©bec,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,,0
+498,RMR QuÃ©bec,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),2500,3.7
+498,RMR QuÃ©bec,20,23,      Meubles et produits connexes,337,2900,4.4
+498,RMR QuÃ©bec,21,24,      ActivitÃ©s diverses de fabrication,339,2100,2.7
+498,RMR QuÃ©bec,22,26,   Commerce de gros,41,12500,-0.5
+498,RMR QuÃ©bec,23,27,   Commerce de dÃ©tail,"44, 45",48600,-0.8
+498,RMR QuÃ©bec,24,28,Transport et entreposage,"48, 49",21000,2.3
+498,RMR QuÃ©bec,25,29,Finances,"521, 522, 52A",12000,0.3
+498,RMR QuÃ©bec,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,19800,3.8
+498,RMR QuÃ©bec,27,31,Services immobiliers et services de location et de location Ã  bail,53,5200,0.8
+498,RMR QuÃ©bec,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",5600,0.7
+498,RMR QuÃ©bec,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",11300,1.5
+498,RMR QuÃ©bec,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,15100,0.7
+498,RMR QuÃ©bec,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",6300,1.2
+498,RMR QuÃ©bec,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",5800,0.3
+498,RMR QuÃ©bec,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",16600,-0.2
+498,RMR QuÃ©bec,34,38,Services d'enseignement,61,37600,1.4
+498,RMR QuÃ©bec,35,39,Soins de santÃ©,"621,  622, 623",44200,1.9
+498,RMR QuÃ©bec,36,40,Assistance sociale,624,13600,0.3
+498,RMR QuÃ©bec,37,41,Industrie de l'information et industrie culturelle,51,4000,-0.5
+498,RMR QuÃ©bec,38,42,"Arts, spectacles et loisirs",71,8000,7.7
+498,RMR QuÃ©bec,39,43,HÃ©bergement et restauration,72,17000,4.1
+498,RMR QuÃ©bec,40,44,Autres services (sauf les administrations publiques),81,12600,2.8
+498,RMR QuÃ©bec,41,45,Administrations publiques,91,49600,1
+498,RMR QuÃ©bec,BD,14,   Biens durables,,22200,3.2
+498,RMR QuÃ©bec,BN,7,   Biens non Durables,,12700,2.3
+498,RMR QuÃ©bec,CO,25,Commerce,,61100,-0.8
+498,RMR QuÃ©bec,FB,6,Fabrication,,34900,2.9
+499,RMR MontrÃ©al,00,0,Total,Total,2264900,1.8
+499,RMR MontrÃ©al,01,1,"Agriculture, pÃªche et chasse","111A, 1114, 112A, 1125, 114, 115A",5100,0
+499,RMR MontrÃ©al,02,2,Foresterie et Exploitation forestiÃ¨re,"113, 1153",,0
+499,RMR MontrÃ©al,03,3,Extraction miniÃ¨re,21,2300,0
+499,RMR MontrÃ©al,04,4,Services publics,22,14400,-0.6
+499,RMR MontrÃ©al,05,5,Construction,23,124100,0.5
+499,RMR MontrÃ©al,06,8,"      Aliments, boissons et tabac","311, 312",42000,2.6
+499,RMR MontrÃ©al,07,9,      Textiles et produits textiles et VÃªtements et produits en cuir,"313, 314, 315, 316",16700,3.9
+499,RMR MontrÃ©al,08,10,      Papier,322,5500,3.4
+499,RMR MontrÃ©al,09,11,      Impression et activitÃ©s connexes de soutien,323,6100,-0.7
+499,RMR MontrÃ©al,10,12,"      PÃ©trole, charbon et produits chimiques","324, 325",20300,2
+499,RMR MontrÃ©al,11,13,      Produits en plastique et en caoutchouc,326,11000,2.3
+499,RMR MontrÃ©al,12,15,      Produits en bois,321,9100,0
+499,RMR MontrÃ©al,13,16,      Produits minÃ©raux non mÃ©talliques,327,4200,2.7
+499,RMR MontrÃ©al,14,17,      PremiÃ¨re transformation des mÃ©taux,331,6900,2.2
+499,RMR MontrÃ©al,15,18,      Produits mÃ©talliques,332,16800,3
+499,RMR MontrÃ©al,16,19,      Machines,333,18300,5.7
+499,RMR MontrÃ©al,17,20,"      Produits informatiques, Ã©lectroniques et Ã©lectriques","334, 335",18000,3.5
+499,RMR MontrÃ©al,18,21,      Produits aÃ©rospatiaux et leurs piÃ¨ces,3364,25400,8.2
+499,RMR MontrÃ©al,19,22,      Autres matÃ©riel de transport,336 (excluant 3364),7700,4.9
+499,RMR MontrÃ©al,20,23,      Meubles et produits connexes,337,7800,4.9
+499,RMR MontrÃ©al,21,24,      ActivitÃ©s diverses de fabrication,339,13100,3.7
+499,RMR MontrÃ©al,22,26,   Commerce de gros,41,99900,-1.2
+499,RMR MontrÃ©al,23,27,   Commerce de dÃ©tail,"44, 45",259800,-0.5
+499,RMR MontrÃ©al,24,28,Transport et entreposage,"48, 49",122300,3.3
+499,RMR MontrÃ©al,25,29,Finances,"521, 522, 52A",99600,1.7
+499,RMR MontrÃ©al,26,30,SociÃ©tÃ©s d'assurance et activitÃ©s connexes,524,39100,3
+499,RMR MontrÃ©al,27,31,Services immobiliers et services de location et de location Ã  bail,53,42100,0.7
+499,RMR MontrÃ©al,28,32,Services juridiques et de comptabilitÃ©,"5411, 5412",55400,-0.2
+499,RMR MontrÃ©al,29,33,"Architecture, gÃ©nie et services connexes et services spÃ©cialisÃ©s de design","5413, 5414",45700,1.9
+499,RMR MontrÃ©al,30,34,Conception de systÃ¨mes informatiques et services connexes,5415,80200,3
+499,RMR MontrÃ©al,31,35,Services de conseils en gestion et de conseils scientifiques et techniques ET Services de recherche et de dÃ©veloppement scientifiques,"5416, 5417",28400,3.2
+499,RMR MontrÃ©al,32,36,"PublicitÃ©, relations publiques et services connexes ET Autres services professionnels, scientifiques et techniques","5418, 5419",29800,1.3
+499,RMR MontrÃ©al,33,37,"Gestion de sociÃ©tÃ©s et d'entreprises ET Services administratifs, de soutien et autres","55, 56",92000,0.8
+499,RMR MontrÃ©al,34,38,Services d'enseignement,61,193700,1.4
+499,RMR MontrÃ©al,35,39,Soins de santÃ©,"621,  622, 623",228500,2.4
+499,RMR MontrÃ©al,36,40,Assistance sociale,624,76900,0.5
+499,RMR MontrÃ©al,37,41,Industrie de l'information et industrie culturelle,51,66500,1.2
+499,RMR MontrÃ©al,38,42,"Arts, spectacles et loisirs",71,37900,8.8
+499,RMR MontrÃ©al,39,43,HÃ©bergement et restauration,72,105300,3.6
+499,RMR MontrÃ©al,40,44,Autres services (sauf les administrations publiques),81,80600,1.9
+499,RMR MontrÃ©al,41,45,Administrations publiques,91,105800,2
+499,RMR MontrÃ©al,BD,14,   Biens durables,,127300,4.6
+499,RMR MontrÃ©al,BN,7,   Biens non Durables,,101600,2.5
+499,RMR MontrÃ©al,CO,25,Commerce,,359700,-0.7
+499,RMR MontrÃ©al,FB,6,Fabrication,,228900,3.7
