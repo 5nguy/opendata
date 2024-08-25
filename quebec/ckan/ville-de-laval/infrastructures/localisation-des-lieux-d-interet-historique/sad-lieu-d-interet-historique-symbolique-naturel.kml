@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_lieu_d_interet_historique_symbolique_naturel" id="sad_lieu_d_interet_historique_symbolique_naturel">
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="NUMERO" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_lieu_d_interet_historique_symbolique_naturel</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Stations de métro Montmorency, Concorde et Cartier</SimpleData>
+		<SimpleData name="NUMERO">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.721593274136239,45.55838568934913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Berge de la Plage Idéale</SimpleData>
+		<SimpleData name="NUMERO">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.758672171863878,45.652325177989148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Mont Laval</SimpleData>
+		<SimpleData name="NUMERO">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.826525770119318,45.534737864777206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Les trois grandes îles </SimpleData>
+		<SimpleData name="NUMERO">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67307343499337,45.689219804805226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Berge aux Quatre-Vents</SimpleData>
+		<SimpleData name="NUMERO">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.878842088112222,45.544964599193598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Les Îles-Laval</SimpleData>
+		<SimpleData name="NUMERO">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.854664137458215,45.517337063378065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Stations de métro Montmorency, Concorde et Cartier</SimpleData>
+		<SimpleData name="NUMERO">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.682017854070295,45.560490999139461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Stations de métro Montmorency, Concorde et Cartier</SimpleData>
+		<SimpleData name="NUMERO">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.709449266911065,45.56068931838773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Secteur du Marigot - Place Juge-Desnoyers</SimpleData>
+		<SimpleData name="NUMERO">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.676378870685653,45.564397138862226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Secteur de l'église Saint-Maurice-de-Duvernay</SimpleData>
+		<SimpleData name="NUMERO">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67646160893139,45.579048344081905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Secteur Mattawa</SimpleData>
+		<SimpleData name="NUMERO">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.823971247660381,45.605649193685935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_lieu_d_interet_historique_symbolique_naturel">
+		<SimpleData name="NOM">Archipel du Mitan</SimpleData>
+		<SimpleData name="NUMERO">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.536682364960356,45.685853279466926</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

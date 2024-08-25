@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_reseau_routier_metropolitain_rrm" id="sad_reseau_routier_metropolitain_rrm">
+	<SimpleField name="CATEG" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_reseau_routier_metropolitain_rrm</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.787539800351965,45.585711537059431 -73.774388072759564,45.580280934493324 -73.771335729645315,45.579757273623855 -73.768196558463416,45.579809682548309 -73.76463784365464,45.580573823009665 -73.762102749856183,45.581029626482525 -73.759308715312329,45.580901015209314 -73.756485731910587,45.580052556320311 -73.754596658667822,45.578859981131899 -73.751402053930832,45.575885356856119</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.650371835004776,45.688377815592595 -73.649804235780309,45.684234730182482 -73.650314459801862,45.668631279782858 -73.649418857931536,45.664844218428307 -73.647770734525409,45.659218447335654</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.809404548922828,45.554610156086326 -73.795252443307973,45.541614925849395</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.73786876374642,45.563284687564767 -73.729224056245513,45.567413466380565 -73.723839034007582,45.564048454606372 -73.723835091091914,45.563055580090925 -73.720145340140562,45.559289832174599</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.816622536059114,45.552272302479061 -73.809404548922828,45.554610156086326 -73.776890043686734,45.564165984714215</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.697820495570312,45.605193887514424 -73.668924020153739,45.61802497194455</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain projeté</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.709627302126691,45.617438449828967 -73.734648999902674,45.640213962779598 -73.737460977243032,45.643504965873277 -73.740060971579609,45.648521015650878 -73.743004978466786,45.652218987715628 -73.744663984625049,45.653924009043848 -73.746209998650727,45.655881043022809 -73.753647928814672,45.661309811849584</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.751402053930832,45.575885356856119 -73.73786876374642,45.563284687564767 -73.729000417412891,45.555023624906248 -73.719721897874038,45.547096343123727 -73.713667407889659,45.541141875113347 -73.712341788253795,45.54034197632118</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.666804235310096,45.576313410613743 -73.67368893583118,45.582512056102438 -73.675794720899475,45.583849531830005 -73.679117553958065,45.585014172425666 -73.68115835631157,45.58602777050821 -73.68618376837091,45.590428831680626 -73.69006769915913,45.594408702997121 -73.697821657137808,45.605193435546063 -73.699535203756909,45.607611043223692 -73.702471586979314,45.611322158177416 -73.706638133410976,45.614716007458256 -73.709627302126691,45.617438449828967</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.837716124502322,45.580730131974157 -73.834394088891145,45.577727442349968 -73.809404548922828,45.554610156086326</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.620204753639214,45.637221261360096 -73.628219387420771,45.644652060628907 -73.637131561211461,45.652265992314653 -73.638851093844593,45.653467809959309 -73.640830460189207,45.654559762911482 -73.643117223491799,45.655848106095256 -73.643799844101252,45.656209910945712 -73.645164643148931,45.656752177919465 -73.646082549782463,45.65722894777371 -73.646765766003242,45.657805001554877 -73.647378852114542,45.658513067812748 -73.647770734525409,45.659218447335654</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.675794720899475,45.583849531830005 -73.680630273680237,45.578025010498727 -73.692198860292535,45.570658926242956 -73.681990853059247,45.56154127664621</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.647770734525409,45.659218447335654 -73.645741396063073,45.652197559245707 -73.645773649418345,45.649821944764668 -73.647236838311755,45.64511400411692 -73.652194809211906,45.637899963055524 -73.663181049274044,45.622434966326345 -73.666136001297119,45.619766969841216 -73.668924020153739,45.61802497194455</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.776890043686734,45.564165984714215 -73.764936756172375,45.567831539475499 -73.762047877642033,45.569232988423259 -73.751405556407519,45.575888678846795</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain projeté</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.861871152790442,45.522861628842605 -73.861526749357097,45.524612447288121 -73.862792205809527,45.527857980028763 -73.863520395613406,45.530480299436796 -73.862999771962222,45.532481679962636 -73.857887252591595,45.539496798469784 -73.85558387418024,45.540878806052582 -73.851682027592034,45.542640607455702 -73.848662350211697,45.543274771176605 -73.842261628665611,45.54366912637726 -73.837639433787146,45.544057789946827 -73.834442387332871,45.544817101079005 -73.832312518169829,45.545573223120734 -73.818232402697973,45.551750789719286 -73.816779214674966,45.552221548206042 -73.816622536059114,45.552272302479061</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.795252443307973,45.541614925849395 -73.788148423995224,45.534796429576517 -73.76484819054896,45.511584746111168</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.751402053930832,45.575885356856119 -73.734906861280322,45.586208866221654 -73.73030150045831,45.588206789371384 -73.71487855534734,45.59349190084761 -73.711398855836961,45.595253048421256 -73.708420612580952,45.59747204239239 -73.703745283868827,45.601889698704134 -73.70033013876791,45.604028265234227 -73.697820495570312,45.605193887514424</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_reseau_routier_metropolitain_rrm">
+		<SimpleData name="CATEG">Réseau routier métropolitain actuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.812416162099126,45.609797528495889 -73.807552831057805,45.606444487445046 -73.806248713340551,45.60473824443946 -73.803178378325711,45.594029527388365 -73.801913211746239,45.592332216989313 -73.800034897093752,45.590996380611969 -73.787539800351965,45.585711537059431</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

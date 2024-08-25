@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Gare de la Concorde", "TYPE": "Transport", "ROT": "322", "ADR": "1240 Avenue Léo-Lacombe", "EX_VILLE": "Laval-des-Rapides", "DESCR": "" }, "geometry": { "type": "Point", "coordinates": [ -73.710080016579298, 45.560444382623288 ] } },
+{ "type": "Feature", "properties": { "NOM": "Gare de Sainte-Rose", "TYPE": "Transport", "ROT": "322", "ADR": "99 Boulevard Sainte-Rose Est", "EX_VILLE": "Sainte-Rose", "DESCR": "" }, "geometry": { "type": "Point", "coordinates": [ -73.764719613902272, 45.62520516160307 ] } },
+{ "type": "Feature", "properties": { "NOM": "Gare de l'Île-Bigras", "TYPE": "Transport", "ROT": "322", "ADR": "313 Chemin du Tour", "EX_VILLE": "Îles-Laval", "DESCR": "" }, "geometry": { "type": "Point", "coordinates": [ -73.852355784312422, 45.519668292985109 ] } },
+{ "type": "Feature", "properties": { "NOM": "Gare de Vimont", "TYPE": "Transport", "ROT": "322", "ADR": "150 Boulevard Bellerose Ouest", "EX_VILLE": "Vimont", "DESCR": "" }, "geometry": { "type": "Point", "coordinates": [ -73.74248942234675, 45.604005811605241 ] } },
+{ "type": "Feature", "properties": { "NOM": "Gare de Sainte-Dorothée", "TYPE": "Transport", "ROT": "322", "ADR": "1411 Chemin du Bord-de-l'Eau", "EX_VILLE": "Sainte-Dorothée", "DESCR": "" }, "geometry": { "type": "Point", "coordinates": [ -73.861493128920301, 45.523339886312151 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Maison Pierre-Paré", "CATEG": "Sans aire de protection", "ID_CARTE": "15" }, "geometry": { "type": "Point", "coordinates": [ -73.670106856326527, 45.636865924194282 ] } },
+{ "type": "Feature", "properties": { "NOM": "Maison Therrien", "CATEG": "Avec aire de protection", "ID_CARTE": "13" }, "geometry": { "type": "Point", "coordinates": [ -73.557551857314053, 45.698841195965407 ] } },
+{ "type": "Feature", "properties": { "NOM": "Maison Charbonneau", "CATEG": "Avec aire de protection", "ID_CARTE": "11" }, "geometry": { "type": "Point", "coordinates": [ -73.579284444387909, 45.69308592329967 ] } },
+{ "type": "Feature", "properties": { "NOM": "Église Sainte-Rose", "CATEG": "Sans aire de protection", "ID_CARTE": "14" }, "geometry": { "type": "Point", "coordinates": [ -73.78704681729026, 45.61394886105024 ] } },
+{ "type": "Feature", "properties": { "NOM": "Maison Joseph-Labelle", "CATEG": "Avec aire de protection", "ID_CARTE": "12" }, "geometry": { "type": "Point", "coordinates": [ -73.740394866543426, 45.662548185842553 ] } },
+{ "type": "Feature", "properties": { "NOM": "Maison André-Benjamin-Papineau", "CATEG": "Avec aire de protection", "ID_CARTE": "10" }, "geometry": { "type": "Point", "coordinates": [ -73.791520861353433, 45.54047222495609 ] } }
+]
+}

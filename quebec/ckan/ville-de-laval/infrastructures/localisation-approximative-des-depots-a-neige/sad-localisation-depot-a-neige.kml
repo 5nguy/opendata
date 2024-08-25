@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_localisation_depot_a_neige" id="sad_localisation_depot_a_neige">
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="ADD_DEP" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_localisation_depot_a_neige</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Lot 553</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">8</SimpleData>
+		<SimpleData name="ADD_DEP">Boul. Saint-Martn Ouest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.794871263527952,45.547220653875229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Sainte-Rose</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">6</SimpleData>
+		<SimpleData name="ADD_DEP">81, boul. Sainte-Rose</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763156209063212,45.621068038124086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Dagenais</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">7</SimpleData>
+		<SimpleData name="ADD_DEP">4026, boul. Dagenais Ouest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.825113162273908,45.559415371176108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Simard-Beaudry</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">0</SimpleData>
+		<SimpleData name="ADD_DEP">4080, rang Saint-Elzéar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.687573460169915,45.640764924691759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Demix Saulnier</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">5</SimpleData>
+		<SimpleData name="ADD_DEP">Boul. Saint-Martin</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.70634166182046,45.587097851235008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Demix Saint-Martin</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">2</SimpleData>
+		<SimpleData name="ADD_DEP">Boul. Saint-Martin</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.703010143305136,45.58705433134557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_depot_a_neige">
+		<SimpleData name="NOM">Carré Laval</SimpleData>
+		<SimpleData name="TYPE">Zone d'empilement</SimpleData>
+		<SimpleData name="CODE">3</SimpleData>
+		<SimpleData name="ADD_DEP">Boul. du Souvenir</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74086929022809,45.55646249954448</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

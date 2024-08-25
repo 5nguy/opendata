@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_localisation_generale_des_poles_de_quartier" id="sad_localisation_generale_des_poles_de_quartier">
+	<SimpleField name="TYPE" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_localisation_generale_des_poles_de_quartier</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Sainte-Dorothée</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.819104533859502,45.529604070459442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Arthur-Sauvé</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.865572720964991,45.548697804936843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Saint-Vincent-de-Paul</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.64526305581289,45.613007672584047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Fabreville</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.805951501988886,45.578920766100936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Saint-François</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.577047746300266,45.671192441619041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Chomedey</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.748602941936383,45.541061255480535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Samson</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.804782579648972,45.524729409525996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Saint-Martin</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.7677345824615,45.548854201607234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Sainte-Rose</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.782687861707245,45.616722632070129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_generale_des_poles_de_quartier">
+		<SimpleData name="TYPE">Pôle de quartier Duvernay</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.66519776857065,45.593483134680575</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

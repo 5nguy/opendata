@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_batiments_au_registre_du_patrimoine_culturel" id="sad_batiments_au_registre_du_patrimoine_culturel">
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="CATEG" type="string"></SimpleField>
+	<SimpleField name="ID_CARTE" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_batiments_au_registre_du_patrimoine_culturel</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_batiments_au_registre_du_patrimoine_culturel">
+		<SimpleData name="NOM">Maison Pierre-Paré</SimpleData>
+		<SimpleData name="CATEG">Sans aire de protection</SimpleData>
+		<SimpleData name="ID_CARTE">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.670106856326527,45.636865924194282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_batiments_au_registre_du_patrimoine_culturel">
+		<SimpleData name="NOM">Maison Therrien</SimpleData>
+		<SimpleData name="CATEG">Avec aire de protection</SimpleData>
+		<SimpleData name="ID_CARTE">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.557551857314053,45.698841195965407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_batiments_au_registre_du_patrimoine_culturel">
+		<SimpleData name="NOM">Maison Charbonneau</SimpleData>
+		<SimpleData name="CATEG">Avec aire de protection</SimpleData>
+		<SimpleData name="ID_CARTE">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.579284444387909,45.69308592329967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_batiments_au_registre_du_patrimoine_culturel">
+		<SimpleData name="NOM">Église Sainte-Rose</SimpleData>
+		<SimpleData name="CATEG">Sans aire de protection</SimpleData>
+		<SimpleData name="ID_CARTE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.78704681729026,45.61394886105024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_batiments_au_registre_du_patrimoine_culturel">
+		<SimpleData name="NOM">Maison Joseph-Labelle</SimpleData>
+		<SimpleData name="CATEG">Avec aire de protection</SimpleData>
+		<SimpleData name="ID_CARTE">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.740394866543426,45.662548185842553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_batiments_au_registre_du_patrimoine_culturel">
+		<SimpleData name="NOM">Maison André-Benjamin-Papineau</SimpleData>
+		<SimpleData name="CATEG">Avec aire de protection</SimpleData>
+		<SimpleData name="ID_CARTE">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.791520861353433,45.54047222495609</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

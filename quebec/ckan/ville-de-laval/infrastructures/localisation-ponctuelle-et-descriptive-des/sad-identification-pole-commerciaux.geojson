@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Quartier Laval", "GRAD": "Majeur", "NO_POLE": "5" }, "geometry": { "type": "Point", "coordinates": [ -73.727008188536956, 45.556157746097007 ] } },
+{ "type": "Feature", "properties": { "NOM": "Smartcentre Laval (Ouest)", "GRAD": "Intermédiaire", "NO_POLE": "7" }, "geometry": { "type": "Point", "coordinates": [ -73.781927318825808, 45.524873798116303 ] } },
+{ "type": "Feature", "properties": { "NOM": "Galeries Laval", "GRAD": "Majeur", "NO_POLE": "1" }, "geometry": { "type": "Point", "coordinates": [ -73.728769848427248, 45.565050800047501 ] } },
+{ "type": "Feature", "properties": { "NOM": "Carrefour Laval", "GRAD": "Majeur", "NO_POLE": "1" }, "geometry": { "type": "Point", "coordinates": [ -73.752371516018655, 45.570592558252891 ] } },
+{ "type": "Feature", "properties": { "NOM": "Centre Laval", "GRAD": "Majeur", "NO_POLE": "3" }, "geometry": { "type": "Point", "coordinates": [ -73.730629171266116, 45.560324360351451 ] } },
+{ "type": "Feature", "properties": { "NOM": "Smartcentre Laval (Est)", "GRAD": "Mineur", "NO_POLE": "8" }, "geometry": { "type": "Point", "coordinates": [ -73.693309899207122, 45.61318867225868 ] } },
+{ "type": "Feature", "properties": { "NOM": "Mégacentre Notre-Dame", "GRAD": "Intermédiaire", "NO_POLE": "6" }, "geometry": { "type": "Point", "coordinates": [ -73.790706999089053, 45.533426574282679 ] } },
+{ "type": "Feature", "properties": { "NOM": "Centropolis", "GRAD": "Majeur", "NO_POLE": "2" }, "geometry": { "type": "Point", "coordinates": [ -73.74361883149821, 45.562343569631501 ] } }
+]
+}

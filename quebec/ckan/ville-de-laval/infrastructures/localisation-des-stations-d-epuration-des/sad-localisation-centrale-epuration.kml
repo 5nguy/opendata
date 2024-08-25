@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_localisation_centrale_epuration" id="sad_localisation_centrale_epuration">
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_localisation_centrale_epuration</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_centrale_epuration">
+		<SimpleData name="NOM">Lapinière</SimpleData>
+		<SimpleData name="TYPE">Station d'épuration</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.644547472882294,45.62925215697922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_centrale_epuration">
+		<SimpleData name="NOM">Fabreville</SimpleData>
+		<SimpleData name="TYPE">Station d'épuration</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.835203445025343,45.576446270662203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_localisation_centrale_epuration">
+		<SimpleData name="NOM">Auteuil</SimpleData>
+		<SimpleData name="TYPE">Station d'épuration</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.747859099034216,45.659328277810936</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

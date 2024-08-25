@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "TOPONYME": "Poste Renaud", "TENSION": "120", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.724154000373616, 45.57577299957731 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste de Sainte-Rose", "TENSION": "120", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.760075000004292, 45.623153999830272 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste Landry", "TENSION": "120", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.677403000573804, 45.606439000190107 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste de Chomedey", "TENSION": "315", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.802510000586381, 45.56134699971431 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste de Duvernay", "TENSION": "735", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.672226000435202, 45.662568999865357 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste de la Rivière-des-Prairies", "TENSION": "69", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.657249999678669, 45.589514999649147 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste de Saint-François", "TENSION": "120", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.628885000398085, 45.673779000111999 ] } },
+{ "type": "Feature", "properties": { "TOPONYME": "Poste Plouffe", "TENSION": "120", "ETAT": "En exploitation", "PROP_PO": "HQTE", "SOURCE": "HQTE", "VERSION": "V2015-09-01", "RESEAU": "Relié" }, "geometry": { "type": "Point", "coordinates": [ -73.751069999654447, 45.556748000002159 ] } }
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Lot 553", "TYPE": "Zone d'empilement", "CODE": "8", "ADD_DEP": "Boul. Saint-Martn Ouest" }, "geometry": { "type": "Point", "coordinates": [ -73.794871263527952, 45.547220653875229 ] } },
+{ "type": "Feature", "properties": { "NOM": "Sainte-Rose", "TYPE": "Zone d'empilement", "CODE": "6", "ADD_DEP": "81, boul. Sainte-Rose" }, "geometry": { "type": "Point", "coordinates": [ -73.763156209063212, 45.621068038124086 ] } },
+{ "type": "Feature", "properties": { "NOM": "Dagenais", "TYPE": "Zone d'empilement", "CODE": "7", "ADD_DEP": "4026, boul. Dagenais Ouest" }, "geometry": { "type": "Point", "coordinates": [ -73.825113162273908, 45.559415371176108 ] } },
+{ "type": "Feature", "properties": { "NOM": "Simard-Beaudry", "TYPE": "Zone d'empilement", "CODE": "0", "ADD_DEP": "4080, rang Saint-Elzéar" }, "geometry": { "type": "Point", "coordinates": [ -73.687573460169915, 45.640764924691759 ] } },
+{ "type": "Feature", "properties": { "NOM": "Demix Saulnier", "TYPE": "Zone d'empilement", "CODE": "5", "ADD_DEP": "Boul. Saint-Martin" }, "geometry": { "type": "Point", "coordinates": [ -73.70634166182046, 45.587097851235008 ] } },
+{ "type": "Feature", "properties": { "NOM": "Demix Saint-Martin", "TYPE": "Zone d'empilement", "CODE": "2", "ADD_DEP": "Boul. Saint-Martin" }, "geometry": { "type": "Point", "coordinates": [ -73.703010143305136, 45.58705433134557 ] } },
+{ "type": "Feature", "properties": { "NOM": "Carré Laval", "TYPE": "Zone d'empilement", "CODE": "3", "ADD_DEP": "Boul. du Souvenir" }, "geometry": { "type": "Point", "coordinates": [ -73.74086929022809, 45.55646249954448 ] } }
+]
+}

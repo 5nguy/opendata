@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Stations de métro Montmorency, Concorde et Cartier", "NUMERO": "20" }, "geometry": { "type": "Point", "coordinates": [ -73.721593274136239, 45.55838568934913 ] } },
+{ "type": "Feature", "properties": { "NOM": "Berge de la Plage Idéale", "NUMERO": "23" }, "geometry": { "type": "Point", "coordinates": [ -73.758672171863878, 45.652325177989148 ] } },
+{ "type": "Feature", "properties": { "NOM": "Mont Laval", "NUMERO": "18" }, "geometry": { "type": "Point", "coordinates": [ -73.826525770119318, 45.534737864777206 ] } },
+{ "type": "Feature", "properties": { "NOM": "Les trois grandes îles ", "NUMERO": "24" }, "geometry": { "type": "Point", "coordinates": [ -73.67307343499337, 45.689219804805226 ] } },
+{ "type": "Feature", "properties": { "NOM": "Berge aux Quatre-Vents", "NUMERO": "16" }, "geometry": { "type": "Point", "coordinates": [ -73.878842088112222, 45.544964599193598 ] } },
+{ "type": "Feature", "properties": { "NOM": "Les Îles-Laval", "NUMERO": "17" }, "geometry": { "type": "Point", "coordinates": [ -73.854664137458215, 45.517337063378065 ] } },
+{ "type": "Feature", "properties": { "NOM": "Stations de métro Montmorency, Concorde et Cartier", "NUMERO": "20" }, "geometry": { "type": "Point", "coordinates": [ -73.682017854070295, 45.560490999139461 ] } },
+{ "type": "Feature", "properties": { "NOM": "Stations de métro Montmorency, Concorde et Cartier", "NUMERO": "20" }, "geometry": { "type": "Point", "coordinates": [ -73.709449266911065, 45.56068931838773 ] } },
+{ "type": "Feature", "properties": { "NOM": "Secteur du Marigot - Place Juge-Desnoyers", "NUMERO": "21" }, "geometry": { "type": "Point", "coordinates": [ -73.676378870685653, 45.564397138862226 ] } },
+{ "type": "Feature", "properties": { "NOM": "Secteur de l'église Saint-Maurice-de-Duvernay", "NUMERO": "22" }, "geometry": { "type": "Point", "coordinates": [ -73.67646160893139, 45.579048344081905 ] } },
+{ "type": "Feature", "properties": { "NOM": "Secteur Mattawa", "NUMERO": "19" }, "geometry": { "type": "Point", "coordinates": [ -73.823971247660381, 45.605649193685935 ] } },
+{ "type": "Feature", "properties": { "NOM": "Archipel du Mitan", "NUMERO": "25" }, "geometry": { "type": "Point", "coordinates": [ -73.536682364960356, 45.685853279466926 ] } }
+]
+}

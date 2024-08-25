@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "TYPE": "Privé", "DESCR": "Gaz naturel", "LABEL": "Gaz Propane Monin", "ID_SITE": "10" }, "geometry": { "type": "Point", "coordinates": [ -73.651314632407903, 45.623479733213891 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Privé", "DESCR": "Gaz naturel", "LABEL": "Supérieur Propane", "ID_SITE": "8" }, "geometry": { "type": "Point", "coordinates": [ -73.71949759297064, 45.589474401276483 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Public", "DESCR": "Station eau potable", "LABEL": "Usine de filtration Sainte-Rose", "ID_SITE": "5" }, "geometry": { "type": "Point", "coordinates": [ -73.786290160818453, 45.616837362674723 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Public", "DESCR": "Station eau potable", "LABEL": "Usine de filtration Pont-Viau", "ID_SITE": "9" }, "geometry": { "type": "Point", "coordinates": [ -73.678706122673404, 45.560543438585441 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Public", "DESCR": "Station eau potable", "LABEL": "Usine de filtration Chomedey", "ID_SITE": "4" }, "geometry": { "type": "Point", "coordinates": [ -73.737864925586777, 45.53357285506393 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Station d'épuration", "DESCR": "Station d'épuration des eaux usées", "LABEL": "Auteuil", "ID_SITE": "2" }, "geometry": { "type": "Point", "coordinates": [ -73.747859098835136, 45.65932827812064 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Station d'épuration", "DESCR": "Station d'épuration des eaux usées", "LABEL": "Lapinière", "ID_SITE": "3" }, "geometry": { "type": "Point", "coordinates": [ -73.644547472440479, 45.629252156586105 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Privé", "DESCR": "Industriel", "LABEL": "Les produits alimentaires Viau", "ID_SITE": "11" }, "geometry": { "type": "Point", "coordinates": [ -73.650660198804047, 45.631942537065896 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Privé", "DESCR": "Industriel", "LABEL": "Mapei Inc", "ID_SITE": "7" }, "geometry": { "type": "Point", "coordinates": [ -73.735844781345421, 45.590733977134306 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Privé", "DESCR": "Industriel", "LABEL": "Dyne-a-pak Inc,", "ID_SITE": "6" }, "geometry": { "type": "Point", "coordinates": [ -73.73831661062232, 45.595165903855296 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Public", "DESCR": "Station d'épuration des eaux usées", "LABEL": "Fabreville", "ID_SITE": "1" }, "geometry": { "type": "Point", "coordinates": [ -73.835203444826718, 45.576446270915824 ] } }
+]
+}

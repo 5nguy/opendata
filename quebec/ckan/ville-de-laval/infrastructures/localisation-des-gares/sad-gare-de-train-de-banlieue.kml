@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_gare_de_train_de_banlieue" id="sad_gare_de_train_de_banlieue">
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="ROT" type="string"></SimpleField>
+	<SimpleField name="ADR" type="string"></SimpleField>
+	<SimpleField name="EX_VILLE" type="string"></SimpleField>
+	<SimpleField name="DESCR" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_gare_de_train_de_banlieue</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_gare_de_train_de_banlieue">
+		<SimpleData name="NOM">Gare de la Concorde</SimpleData>
+		<SimpleData name="TYPE">Transport</SimpleData>
+		<SimpleData name="ROT">322</SimpleData>
+		<SimpleData name="ADR">1240 Avenue Léo-Lacombe</SimpleData>
+		<SimpleData name="EX_VILLE">Laval-des-Rapides</SimpleData>
+		<SimpleData name="DESCR"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.710080016579298,45.560444382623288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_gare_de_train_de_banlieue">
+		<SimpleData name="NOM">Gare de Sainte-Rose</SimpleData>
+		<SimpleData name="TYPE">Transport</SimpleData>
+		<SimpleData name="ROT">322</SimpleData>
+		<SimpleData name="ADR">99 Boulevard Sainte-Rose Est</SimpleData>
+		<SimpleData name="EX_VILLE">Sainte-Rose</SimpleData>
+		<SimpleData name="DESCR"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.764719613902272,45.62520516160307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_gare_de_train_de_banlieue">
+		<SimpleData name="NOM">Gare de l'Île-Bigras</SimpleData>
+		<SimpleData name="TYPE">Transport</SimpleData>
+		<SimpleData name="ROT">322</SimpleData>
+		<SimpleData name="ADR">313 Chemin du Tour</SimpleData>
+		<SimpleData name="EX_VILLE">Îles-Laval</SimpleData>
+		<SimpleData name="DESCR"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.852355784312422,45.519668292985109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_gare_de_train_de_banlieue">
+		<SimpleData name="NOM">Gare de Vimont</SimpleData>
+		<SimpleData name="TYPE">Transport</SimpleData>
+		<SimpleData name="ROT">322</SimpleData>
+		<SimpleData name="ADR">150 Boulevard Bellerose Ouest</SimpleData>
+		<SimpleData name="EX_VILLE">Vimont</SimpleData>
+		<SimpleData name="DESCR"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74248942234675,45.604005811605241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_gare_de_train_de_banlieue">
+		<SimpleData name="NOM">Gare de Sainte-Dorothée</SimpleData>
+		<SimpleData name="TYPE">Transport</SimpleData>
+		<SimpleData name="ROT">322</SimpleData>
+		<SimpleData name="ADR">1411 Chemin du Bord-de-l'Eau</SimpleData>
+		<SimpleData name="EX_VILLE">Sainte-Dorothée</SimpleData>
+		<SimpleData name="DESCR"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.861493128920301,45.523339886312151</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

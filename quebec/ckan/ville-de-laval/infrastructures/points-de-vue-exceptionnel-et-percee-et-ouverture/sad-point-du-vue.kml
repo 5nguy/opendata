@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_point_du_vue" id="sad_point_du_vue">
+	<SimpleField name="ANGLE" type="string"></SimpleField>
+	<SimpleField name="CATEG" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_point_du_vue</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">33</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67684748918937,45.559621199514787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">118</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.807618964733109,45.533487609104441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">68</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.67194803510391,45.571749190644475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">118</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.649237142984646,45.671817628486934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">73</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.737854671920971,45.533693146652844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">83</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.656360285692443,45.601646452179928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">238</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.880926174933435,45.531747496288205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">88</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.689237345553209,45.567715340042675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">73</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.575165632632689,45.664212942337471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">173</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.881666650460872,45.524345559970371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">168</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540697161943584,45.682001465495439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">108</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849580060603927,45.51974613092834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">13</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.533261070018341,45.696431386557705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">238</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.879514325852583,45.540472378443511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">198</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.849293275344678,45.571659401430345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">213</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.79802126909334,45.608610987582672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">58</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.638938452206105,45.628073234284258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">73</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.640802822419502,45.622527268555665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">243</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.848263822753538,45.574792218985564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">263</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.756876843513339,45.655123365751287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">53</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.644186057703308,45.609126971562524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">53</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.760619128385059,45.517377505495595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">223</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.763140585078432,45.650261515070341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">303</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.64066768120216,45.68821817772578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">88</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.651959002952196,45.623155080098741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">118</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.762506706121428,45.598614116462223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">278</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.870081863946325,45.55744318102925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">290</SimpleData>
+		<SimpleData name="CATEG">Point de vue vers le Mont-Royal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.737002848370267,45.559873057586749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_point_du_vue">
+		<SimpleData name="ANGLE">263</SimpleData>
+		<SimpleData name="CATEG">Percée et ouverture visuelle d'intérêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.78498260615838,45.61888898916046</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

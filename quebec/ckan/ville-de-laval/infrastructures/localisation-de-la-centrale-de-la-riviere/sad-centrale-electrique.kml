@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_centrale_electrique" id="sad_centrale_electrique">
+	<SimpleField name="CLASSE" type="string"></SimpleField>
+	<SimpleField name="OBJ_PRIN" type="string"></SimpleField>
+	<SimpleField name="OBJ_SECO" type="string"></SimpleField>
+	<SimpleField name="OBJ_TYP" type="string"></SimpleField>
+	<SimpleField name="PUIS_MW" type="string"></SimpleField>
+	<SimpleField name="TOP_OFF" type="string"></SimpleField>
+	<SimpleField name="STATUT" type="string"></SimpleField>
+	<SimpleField name="PROPRIO" type="string"></SimpleField>
+	<SimpleField name="DT_VERS" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_centrale_electrique</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_centrale_electrique">
+		<SimpleData name="CLASSE">Équipement</SimpleData>
+		<SimpleData name="OBJ_PRIN">centrale</SimpleData>
+		<SimpleData name="OBJ_SECO">Centrale hydroélectrique</SimpleData>
+		<SimpleData name="OBJ_TYP">Fil de l'eau</SimpleData>
+		<SimpleData name="PUIS_MW">49</SimpleData>
+		<SimpleData name="TOP_OFF">Centrale de la Rivière-des-Prairies</SimpleData>
+		<SimpleData name="STATUT">en exploitation</SimpleData>
+		<SimpleData name="PROPRIO">Hydro-Québec</SimpleData>
+		<SimpleData name="DT_VERS">V2015-09-08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.657145160014849,45.589516019950771</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

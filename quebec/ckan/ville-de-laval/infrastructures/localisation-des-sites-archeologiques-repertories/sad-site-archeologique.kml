@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_site_archeologique" id="sad_site_archeologique">
+	<SimpleField name="DESCR" type="string"></SimpleField>
+	<SimpleField name="LABEL" type="string"></SimpleField>
+	<SimpleField name="SITE_ID" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_site_archeologique</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFk-4</SimpleData>
+		<SimpleData name="LABEL">Île Darling</SimpleData>
+		<SimpleData name="SITE_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.791944000588472,45.618055999904051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BkFj-2</SimpleData>
+		<SimpleData name="LABEL">Île Jésus</SimpleData>
+		<SimpleData name="SITE_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.529444000455015,45.697777999756411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFk-2</SimpleData>
+		<SimpleData name="LABEL">Moulin Desbiens</SimpleData>
+		<SimpleData name="SITE_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.747777999757105,45.664443999884874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFj-24</SimpleData>
+		<SimpleData name="LABEL">Moulin Saint-François-de-Sales</SimpleData>
+		<SimpleData name="SITE_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.570000000415689,45.666388999707991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFj-30</SimpleData>
+		<SimpleData name="LABEL">Saint-François-de-Laval</SimpleData>
+		<SimpleData name="SITE_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.578363000555825,45.662513000010271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BkFj-16</SimpleData>
+		<SimpleData name="LABEL">Maison Therrien</SimpleData>
+		<SimpleData name="SITE_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.561336433346426,45.697060692545584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFl-1</SimpleData>
+		<SimpleData name="LABEL">Rivière des Mille Îles</SimpleData>
+		<SimpleData name="SITE_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.87891255211008,45.536185215007386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFl-g</SimpleData>
+		<SimpleData name="LABEL">Île Pariseau</SimpleData>
+		<SimpleData name="SITE_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.848611000603256,45.517221999683031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BjFk-3</SimpleData>
+		<SimpleData name="LABEL">Rive nord de l'Île Jésus</SimpleData>
+		<SimpleData name="SITE_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.806943999611207,45.60111099988211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_site_archeologique">
+		<SimpleData name="DESCR">BkFj-3</SimpleData>
+		<SimpleData name="LABEL">Domaine Seigneurial</SimpleData>
+		<SimpleData name="SITE_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.536111000206603,45.693056000400382</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

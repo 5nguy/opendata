@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_poste_electrique" id="sad_poste_electrique">
+	<SimpleField name="TOPONYME" type="string"></SimpleField>
+	<SimpleField name="TENSION" type="string"></SimpleField>
+	<SimpleField name="ETAT" type="string"></SimpleField>
+	<SimpleField name="PROP_PO" type="string"></SimpleField>
+	<SimpleField name="SOURCE" type="string"></SimpleField>
+	<SimpleField name="VERSION" type="string"></SimpleField>
+	<SimpleField name="RESEAU" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_poste_electrique</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste Renaud</SimpleData>
+		<SimpleData name="TENSION">120</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.724154000373616,45.57577299957731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste de Sainte-Rose</SimpleData>
+		<SimpleData name="TENSION">120</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.760075000004292,45.623153999830272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste Landry</SimpleData>
+		<SimpleData name="TENSION">120</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.677403000573804,45.606439000190107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste de Chomedey</SimpleData>
+		<SimpleData name="TENSION">315</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.802510000586381,45.56134699971431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste de Duvernay</SimpleData>
+		<SimpleData name="TENSION">735</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.672226000435202,45.662568999865357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste de la Rivière-des-Prairies</SimpleData>
+		<SimpleData name="TENSION">69</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.657249999678669,45.589514999649147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste de Saint-François</SimpleData>
+		<SimpleData name="TENSION">120</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.628885000398085,45.673779000111999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_poste_electrique">
+		<SimpleData name="TOPONYME">Poste Plouffe</SimpleData>
+		<SimpleData name="TENSION">120</SimpleData>
+		<SimpleData name="ETAT">En exploitation</SimpleData>
+		<SimpleData name="PROP_PO">HQTE</SimpleData>
+		<SimpleData name="SOURCE">HQTE</SimpleData>
+		<SimpleData name="VERSION">V2015-09-01</SimpleData>
+		<SimpleData name="RESEAU">Relié</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.751069999654447,45.556748000002159</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

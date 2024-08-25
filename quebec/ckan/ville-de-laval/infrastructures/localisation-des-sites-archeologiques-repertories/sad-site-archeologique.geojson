@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "DESCR": "BjFk-4", "LABEL": "Île Darling", "SITE_ID": "4" }, "geometry": { "type": "Point", "coordinates": [ -73.791944000588472, 45.618055999904051 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BkFj-2", "LABEL": "Île Jésus", "SITE_ID": "7" }, "geometry": { "type": "Point", "coordinates": [ -73.529444000455015, 45.697777999756411 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BjFk-2", "LABEL": "Moulin Desbiens", "SITE_ID": "5" }, "geometry": { "type": "Point", "coordinates": [ -73.747777999757105, 45.664443999884874 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BjFj-24", "LABEL": "Moulin Saint-François-de-Sales", "SITE_ID": "9" }, "geometry": { "type": "Point", "coordinates": [ -73.570000000415689, 45.666388999707991 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BjFj-30", "LABEL": "Saint-François-de-Laval", "SITE_ID": "10" }, "geometry": { "type": "Point", "coordinates": [ -73.578363000555825, 45.662513000010271 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BkFj-16", "LABEL": "Maison Therrien", "SITE_ID": "6" }, "geometry": { "type": "Point", "coordinates": [ -73.561336433346426, 45.697060692545584 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BjFl-1", "LABEL": "Rivière des Mille Îles", "SITE_ID": "2" }, "geometry": { "type": "Point", "coordinates": [ -73.87891255211008, 45.536185215007386 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BjFl-g", "LABEL": "Île Pariseau", "SITE_ID": "1" }, "geometry": { "type": "Point", "coordinates": [ -73.848611000603256, 45.517221999683031 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BjFk-3", "LABEL": "Rive nord de l'Île Jésus", "SITE_ID": "3" }, "geometry": { "type": "Point", "coordinates": [ -73.806943999611207, 45.60111099988211 ] } },
+{ "type": "Feature", "properties": { "DESCR": "BkFj-3", "LABEL": "Domaine Seigneurial", "SITE_ID": "8" }, "geometry": { "type": "Point", "coordinates": [ -73.536111000206603, 45.693056000400382 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Lapinière", "TYPE": "Station d'épuration" }, "geometry": { "type": "Point", "coordinates": [ -73.644547472882294, 45.62925215697922 ] } },
+{ "type": "Feature", "properties": { "NOM": "Fabreville", "TYPE": "Station d'épuration" }, "geometry": { "type": "Point", "coordinates": [ -73.835203445025343, 45.576446270662203 ] } },
+{ "type": "Feature", "properties": { "NOM": "Auteuil", "TYPE": "Station d'épuration" }, "geometry": { "type": "Point", "coordinates": [ -73.747859099034216, 45.659328277810936 ] } }
+]
+}

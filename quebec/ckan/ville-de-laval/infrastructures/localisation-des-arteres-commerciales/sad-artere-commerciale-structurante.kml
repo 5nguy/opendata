@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_artere_commerciale_structurante" id="sad_artere_commerciale_structurante">
+	<SimpleField name="TYP_ARTE" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_artere_commerciale_structurante</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale régionale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.792191415551741,45.611034209839318 -73.785972936107342,45.588908511102296 -73.785932818958557,45.588783500104583 -73.785901504158616,45.58865725499026 -73.78587907009836,45.588530081512395 -73.785865568266985,45.588402288188952 -73.785861033487208,45.588274182677651 -73.785865474963174,45.588146075397773 -73.785878882670744,45.588018275914827 -73.785901224804419,45.587891094746517 -73.785932445191833,45.587764838870235 -73.785972470993258,45.587639813503415 -73.786021202440452,45.587516320329655 -73.786078524385218,45.587394660169487 -73.786144296006384,45.587275124907691 -73.786218358540864,45.587158005572647 -73.789251894532015,45.58361486807658 -73.789319146769927,45.583502583390839 -73.789377518455183,45.583387876319648 -73.789426837126896,45.583271091948532 -73.789466950873816,45.583152583407553 -73.789497741120485,45.583032706439951 -73.789519113679262,45.582911823923553 -73.789531005128993,45.58279030045577 -73.789533378965132,45.582668501463282 -73.789526228166352,45.582546794095364 -73.789509573907537,45.582425546327343 -73.789483468103199,45.5823051233548 -73.789447988280898,45.582185887606649 -73.786966642633786,45.574299767595711 -73.786913618933497,45.574140091522715 -73.786852240265191,45.573981898627672 -73.78678258979312,45.57382540464814 -73.78670476220023,45.573670823491511 -73.786618864950455,45.573518363632687 -73.786525013200119,45.573368235325496 -73.78642333743457,45.573220640685591 -73.786313974544981,45.57307578271125 -73.786197072920956,45.572933858971936 -73.786072793726845,45.572795060705374 -73.785941305808635,45.572659579129372 -73.775061062931769,45.562544032517522 -73.77492927403965,45.562418168773242 -73.774789471186523,45.562296646053746 -73.774641945121289,45.5621797155843 -73.774487000631012,45.562067619558114 -73.774324959098379,45.56196059023047 -73.774156154650015,45.561858848128715 -73.773980938016962,45.561762605642599 -73.773799671380274,45.561672060738132 -73.773612729669722,45.561587400554046 -73.773420499283091,45.561508801405189 -73.773223379345637,45.561436424280622 -73.773021777898279,45.561370421151807 -73.771137493507283,45.560696376592524 -73.770974784893625,45.560613378639857 -73.770817277404078,45.560525570208604 -73.770665260027442,45.560433109006169 -73.770519010286918,45.560336167165168 -73.770378795464708,45.560234919542573 -73.770244872649485,45.560129553617536 -73.770117487412264,45.560020260495982 -73.764654437403678,45.555033331888211 -73.764446850847506,45.554894262619442 -73.764232522794345,45.554760334923927 -73.764011711443331,45.554631711937333 -73.76378468262358,45.554508546880385 -73.763551709819637,45.55439098845801 -73.763313074163079,45.554279179059954 -73.763069060577877,45.554173252070349 -73.762819965482109,45.554073335449516 -73.762607980519206,45.553980360691753 -73.762401476270526,45.553881484428665 -73.762200785250855,45.553776867896758 -73.762006231026334,45.55366667775359 -73.76181812696268,45.55355109237918 -73.761636774927453,45.55343029827943 -73.761462467847423,45.553304489180093 -73.761295487155309,45.553173867832129 -73.761136100224007,45.553038645117439 -73.760984564200712,45.55289903824012 -73.76066895809528,45.552622032775211 -73.760361058547062,45.552340778734575 -73.760060982553327,45.552055382993977 -73.759768841976111,45.551765951540638 -73.759484747409488,45.551472594863405 -73.759208804308429,45.551175421662485 -73.758941118140839,45.55087454513658 -73.758681789239972,45.550570077595381 -73.758430912821126,45.550262134058812 -73.758104750378408,45.54992892352589 -73.757773143030761,45.549598378844891 -73.75743613455893,45.549270541262665 -73.757093770041237,45.548945456522063 -73.756746095816638,45.54862316676352 -73.74541666379416,45.538112926778609 -73.745279678665412,45.538008096561974 -73.745135842025462,45.537907899748859 -73.744985473671804,45.537812558787529 -73.744828902294572,45.537722281710295 -73.744666474470904,45.537637269313251 -73.744498548231704,45.537557707971587 -73.744325494357895,45.537483773236417 -73.744147692531641,45.537415628043661 -73.74396553517802,45.537353422705976 -73.74377942490068,45.537297294018728 -73.743589771925357,45.537247366165445 -73.743396992812279,45.537203748921158 -73.743201513025326,45.537166539446659 -73.743003764352451,45.53713581779509 -73.742804181088431,45.537111652319176 -73.742603203868939,45.537094097863523 -73.742401275806955,45.537083190373899 -73.742198842536055,45.537078956795433 -73.741996349603937,45.537081404280116 -73.741794242507993,45.537090528285297 -73.741592967961068,45.537106308971637 -73.741392968770626,45.537128711213946 -73.741194686404171,45.537157685495437 -73.73403723570722,45.539029617122068</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale régionale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.755550284068946,45.643584093701989 -73.755628797855422,45.643446035778574 -73.755697753000533,45.64330548869156 -73.755756991974224,45.643162777646168 -73.755806376522884,45.643018234101049 -73.755845792779198,45.642872191257673 -73.755875148712221,45.642724987665105 -73.755894376679734,45.642576964514774 -73.755903434697998,45.642428462937936 -73.755902298764269,45.642279828522156 -73.755890971802941,45.642131404092389 -73.755869482402204,45.641983534213153 -73.755837878374493,45.64183655980397 -73.755796234468761,45.64169082172139 -73.751503676951629,45.626737118422135 -73.75146939791054,45.626610062299285 -73.751426674546579,45.626484271903806 -73.751375601770732,45.626360024163127 -73.751316289855993,45.626237590570348 -73.751248870865169,45.626117240769439 -73.751173492218001,45.625999238070399 -73.751090319271739,45.625883843043113 -73.750999535292422,45.625771307218699 -73.750901338913877,45.625661878494313 -73.750795945403681,45.625555797531213 -73.750683586654873,45.625453295955388 -73.737448657506434,45.612982417071287 -73.737300596391151,45.612790745986139 -73.737160801031806,45.612596042227082 -73.737029397753247,45.612398481028059 -73.736906505192877,45.612198240337271 -73.736792234297269,45.611995499917086 -73.736686687051645,45.611790444046143 -73.736589959021856,45.611583256114947 -73.736502138095261,45.611374124027364 -73.736423301897986,45.611163235706719 -73.736396749063601,45.611027356628817 -73.7363611746147,45.610892496814074 -73.736316656779124,45.610758951235312 -73.736263293005607,45.610627013023951 -73.736201198665967,45.610496969873545 -73.736130512190371,45.61036910582893 -73.736051384806288,45.610243700407807 -73.735963992076719,45.610121028576962 -73.735868524913784,45.61000135807172 -73.735765192146232,45.609884950290436 -73.735654217954973,45.609772060300251 -73.719822131140418,45.594804592228989 -73.716353449988475,45.592311372665414 -73.716107432174439,45.592081588272464 -73.715867878571089,45.591848462658021 -73.71563487920173,45.591612085675273 -73.715408524084282,45.591372547177123 -73.715188901963629,45.591129940617726 -73.714976095167756,45.590884358563002 -73.714770186023088,45.590635894478119 -73.71465307634864,45.590456844294195 -73.714527527137719,45.59028063619747 -73.714393680172321,45.590107465157296 -73.714251683626017,45.589937523430329 -73.714101694630344,45.589771001455901 -73.713943880535567,45.589608082454568 -73.7137784176563,45.589448949629499 -73.713605488680642,45.589293778972767 -73.713425287810139,45.589142742855252 -73.71323801435166,45.58899601003877 -73.696095384818335,45.573956214546165 -73.679266472901659,45.558770467742562 -73.679106531307013,45.558660144284424 -73.678940723502734,45.558554182287956 -73.678769288222639,45.558452736125751 -73.678592475693861,45.558355951154702 -73.678410542530415,45.558263969123132 -73.678223752999983,45.558176923669819 -73.678032379026959,45.558094941224041 -73.677836696347057,45.558018140111848 -73.677636992201499,45.557946633243802 -73.67743355379217,45.557880522734031</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale régionale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.75974240121748,45.551755505184708 -73.751625891125656,45.555416324364117 -73.751023313069012,45.555657694527419 -73.750425662072374,45.555905040001051 -73.749833059480423,45.556158312904934 -73.746958423116496,45.557521629445624 -73.746528286061775,45.557731164466382 -73.746103444842191,45.557945967579151 -73.745684031045542,45.558165972871514 -73.745270173696937,45.558391112638013 -73.744861999259001,45.55862131738013 -73.741751611672598,45.560389746464715 -73.739148210418165,45.561871331919349 -73.737152951566088,45.562923050085011 -73.734210566946075,45.564452842045995 -73.721358065147257,45.571430441756149 -73.72112573754994,45.571571862135428 -73.720888157887927,45.571708910010919 -73.72064549236849,45.571841491446584 -73.720397909759853,45.571969510702516 -73.720145586554807,45.572092880123222 -73.719888697970404,45.572211512056562 -73.719627425649207,45.572325322438445 -73.719361951263622,45.572434233504659 -73.719066962573024,45.572543783645216 -73.718776464079198,45.572659101344989 -73.7184906859965,45.572780097114148 -73.718209852115422,45.57290667517811 -73.717934182375629,45.573038736171831 -73.717663896702945,45.573176175332755 -73.717399204770075,45.573318885219699 -73.716938498357109,45.573580928283263 -73.716483801117278,45.573848100628545 -73.716035229344783,45.574120333719392 -73.715592896775604,45.574397558125554 -73.715156917149997,45.574679703517681 -73.714727399084055,45.57496669777705 -73.711819826412082,45.577067238138255 -73.711388443322363,45.577425916343941 -73.710962997886242,45.577788076877525 -73.710543547619039,45.578153671107771 -73.710130150044478,45.578522651303196 -73.708744725501177,45.579763211294853 -73.70856688191067,45.579920405463582 -73.708382359814323,45.580073757557663 -73.708191327824323,45.580223127763951 -73.707993959694846,45.580368378959463 -73.707790435613546,45.580509379408596 -73.707580942194824,45.580646000963682 -73.707365668632391,45.58077811817229 -73.707144811831455,45.580905610067695 -73.706918573852406,45.581028361973303 -73.70526056263931,45.581936059105978</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.571969133485993,45.666581461878614 -73.583834404781555,45.677572099487548</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.593136542063789,45.674192916546893 -73.597841664555801,45.672697822218431</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.645247154574875,45.61366603158951 -73.644779422973002,45.607159850545081 -73.64564333674096,45.605855362424123</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.65195000677835,45.60322745731915 -73.650261045727575,45.604230084053633 -73.649220752320119,45.604217785551768 -73.647995205468632,45.603253753679311 -73.647175272093293,45.602732759255417</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.66118803997783,45.595447692794359 -73.662888682566035,45.593933753902057 -73.664462706411669,45.593367841485481 -73.666437168712491,45.593463952279379 -73.668545007035192,45.592319886948246 -73.669916091058695,45.591532410386058 -73.670893524706514,45.589790803219195</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.754548019252141,45.637457270281153 -73.751358694712891,45.626352759294633 -73.748246189284572,45.623283451352734 -73.736786823973745,45.612355392005327 -73.736199091650192,45.610206361861728 -73.735080691297881,45.609033445199735</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.734955535954725,45.608942786911925 -73.731089998047139,45.605507570370698 -73.720874361495987,45.596109317935593 -73.71913512403718,45.594304381817182</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.720559900662749,45.609942980137156 -73.715322962333403,45.605331322893569 -73.714828618162016,45.604700856661474</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.678676109522982,45.580384918580933 -73.679350800722972,45.579926489868193 -73.680246327532188,45.578138516166852 -73.684974871402886,45.574663010469358 -73.68641881378592,45.573747161182389</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.697173315670014,45.568009127929002 -73.705051230429731,45.56356959486682</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.705298639464061,45.581688864787502 -73.692186387366277,45.570416509331608</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.692282739555566,45.57035100765772 -73.681879384637213,45.561039967238592</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.708362241336474,45.584587546068398 -73.705388874005578,45.581889701366691</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.705584648806848,45.581625502661105 -73.707695271298604,45.580583729124861 -73.713784787953401,45.575590516647317 -73.716671754355957,45.573758060743245</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.684953082297767,45.559343673418439 -73.687512357351409,45.5593731117633 -73.689134593931087,45.558925508081778 -73.691602159176782,45.558820592059057</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.695317361903193,45.558063833048791 -73.699997209522238,45.556585283672632 -73.702030601686261,45.554743474496682</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.708360901352748,45.551551599216097 -73.71449335765314,45.548690169015458</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.712727685260589,45.559593478612506 -73.7151421171246,45.561818622392074</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.728380297139722,45.567628176742829 -73.722721060894912,45.562103443333434 -73.724349137439859,45.561388985653736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.740255362054057,45.545447154817992 -73.738406211447938,45.543361991664106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.735288798004916,45.538665165667744 -73.739481833683087,45.537645838325034 -73.741769285310127,45.537071615227894 -73.7436613720525,45.537225653351122 -73.745161124477548,45.537974795212392 -73.747940194290535,45.540869308754935</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.759823829464253,45.547859270395278 -73.76068994328017,45.547269227233443 -73.761478820465584,45.545879081205157 -73.762836251558426,45.544495088582281</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.756056424109786,45.538160582815117 -73.762336559333278,45.537029917060785</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.73765084191578,45.534761599120671 -73.740598454897153,45.534327904053939 -73.742132239629854,45.533545545517462 -73.744805889898174,45.532642487709154 -73.745953194002112,45.532188854991077</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.7511523585069,45.532778662444862 -73.754328957854071,45.530548778990443 -73.756056337208321,45.529568529173197 -73.758731046707581,45.528598551608496 -73.760923203418457,45.528022908128975</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.804449271032027,45.524683321246954 -73.807244663550492,45.526184576424889 -73.809957241298832,45.526654480918452 -73.811738503429837,45.526599424503743 -73.813424357186165,45.526101740686393</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.813167004411682,45.528380712150664 -73.816958849588403,45.532320924752057</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.871457189714022,45.551125509903024 -73.8699510555697,45.55309784845084 -73.8719131443126,45.554515664666205 -73.865636362380215,45.548859814737071 -73.856050363239845,45.552374345816155 -73.865636362380215,45.548859814737071 -73.86409354485383,45.547446059877032</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.821802536070408,45.571158791915863 -73.810364446141705,45.576854702204166 -73.804969046435957,45.579227208210021 -73.7965861560821,45.579139194439222</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.792818598860734,45.578878635989355 -73.79040379933565,45.579073890759609</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.787255258820835,45.574403651278821 -73.789484861165022,45.582817796543388 -73.789476952623886,45.583185715920031 -73.785493287154736,45.588074676927199 -73.785580632613232,45.588885213283461 -73.787171899875858,45.592876557393453</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.787163973851349,45.593244476003321 -73.790399825705492,45.603656470811359 -73.790396662254622,45.603803638412565</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.782447834042969,45.617408864280073 -73.783308969654442,45.61638763580077 -73.786402144884164,45.613991729467045 -73.788422828642695,45.61268837344192 -73.789904946021139,45.612041680970108</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sad_artere_commerciale_structurante">
+		<SimpleData name="TYP_ARTE">Artère commerciale locale</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.724852142861693,45.543344682828135 -73.731176889565404,45.54028468568297</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

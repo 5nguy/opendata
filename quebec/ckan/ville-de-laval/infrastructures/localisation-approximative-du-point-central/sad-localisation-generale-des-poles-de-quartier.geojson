@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Sainte-Dorothée" }, "geometry": { "type": "Point", "coordinates": [ -73.819104533859502, 45.529604070459442 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Arthur-Sauvé" }, "geometry": { "type": "Point", "coordinates": [ -73.865572720964991, 45.548697804936843 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Saint-Vincent-de-Paul" }, "geometry": { "type": "Point", "coordinates": [ -73.64526305581289, 45.613007672584047 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Fabreville" }, "geometry": { "type": "Point", "coordinates": [ -73.805951501988886, 45.578920766100936 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Saint-François" }, "geometry": { "type": "Point", "coordinates": [ -73.577047746300266, 45.671192441619041 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Chomedey" }, "geometry": { "type": "Point", "coordinates": [ -73.748602941936383, 45.541061255480535 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Samson" }, "geometry": { "type": "Point", "coordinates": [ -73.804782579648972, 45.524729409525996 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Saint-Martin" }, "geometry": { "type": "Point", "coordinates": [ -73.7677345824615, 45.548854201607234 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Sainte-Rose" }, "geometry": { "type": "Point", "coordinates": [ -73.782687861707245, 45.616722632070129 ] } },
+{ "type": "Feature", "properties": { "TYPE": "Pôle de quartier Duvernay" }, "geometry": { "type": "Point", "coordinates": [ -73.66519776857065, 45.593483134680575 ] } }
+]
+}

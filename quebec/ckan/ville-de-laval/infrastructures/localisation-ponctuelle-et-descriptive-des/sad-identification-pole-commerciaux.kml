@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sad_identification_pole_commerciaux" id="sad_identification_pole_commerciaux">
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="GRAD" type="string"></SimpleField>
+	<SimpleField name="NO_POLE" type="string"></SimpleField>
+</Schema>
+<Folder><name>sad_identification_pole_commerciaux</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Quartier Laval</SimpleData>
+		<SimpleData name="GRAD">Majeur</SimpleData>
+		<SimpleData name="NO_POLE">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.727008188536956,45.556157746097007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Smartcentre Laval (Ouest)</SimpleData>
+		<SimpleData name="GRAD">Intermédiaire</SimpleData>
+		<SimpleData name="NO_POLE">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.781927318825808,45.524873798116303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Galeries Laval</SimpleData>
+		<SimpleData name="GRAD">Majeur</SimpleData>
+		<SimpleData name="NO_POLE">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.728769848427248,45.565050800047501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Carrefour Laval</SimpleData>
+		<SimpleData name="GRAD">Majeur</SimpleData>
+		<SimpleData name="NO_POLE">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.752371516018655,45.570592558252891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Centre Laval</SimpleData>
+		<SimpleData name="GRAD">Majeur</SimpleData>
+		<SimpleData name="NO_POLE">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.730629171266116,45.560324360351451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Smartcentre Laval (Est)</SimpleData>
+		<SimpleData name="GRAD">Mineur</SimpleData>
+		<SimpleData name="NO_POLE">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.693309899207122,45.61318867225868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Mégacentre Notre-Dame</SimpleData>
+		<SimpleData name="GRAD">Intermédiaire</SimpleData>
+		<SimpleData name="NO_POLE">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.790706999089053,45.533426574282679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sad_identification_pole_commerciaux">
+		<SimpleData name="NOM">Centropolis</SimpleData>
+		<SimpleData name="GRAD">Majeur</SimpleData>
+		<SimpleData name="NO_POLE">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.74361883149821,45.562343569631501</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
