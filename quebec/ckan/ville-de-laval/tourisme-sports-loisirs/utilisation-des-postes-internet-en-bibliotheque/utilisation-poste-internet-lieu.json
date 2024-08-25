@@ -1,0 +1,5570 @@
+[
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 9,
+    "nombre-connexion" : 26,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 610,
+    "nombre-connexion" : 1216,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 1614,
+    "nombre-connexion" : 3266,
+    "nombre-reservation" : 89
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 1683,
+    "nombre-connexion" : 3248,
+    "nombre-reservation" : 88
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 1561,
+    "nombre-connexion" : 2880,
+    "nombre-reservation" : 62
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 1777,
+    "nombre-connexion" : 3282,
+    "nombre-reservation" : 75
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 1554,
+    "nombre-connexion" : 3016,
+    "nombre-reservation" : 63
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 1509,
+    "nombre-connexion" : 2929,
+    "nombre-reservation" : 77
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 1465,
+    "nombre-connexion" : 2816,
+    "nombre-reservation" : 62
+},
+{
+    "lieu" : "EN",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 949,
+    "nombre-connexion" : 1896,
+    "nombre-reservation" : 28
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 11,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 206,
+    "nombre-connexion" : 437,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 544,
+    "nombre-connexion" : 1187,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 536,
+    "nombre-connexion" : 1132,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 483,
+    "nombre-connexion" : 935,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 566,
+    "nombre-connexion" : 1104,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 545,
+    "nombre-connexion" : 1118,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 495,
+    "nombre-connexion" : 1040,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 449,
+    "nombre-connexion" : 922,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 343,
+    "nombre-connexion" : 693,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 1136,
+    "nombre-connexion" : 2214,
+    "nombre-reservation" : 228
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 1245,
+    "nombre-connexion" : 2369,
+    "nombre-reservation" : 240
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 1310,
+    "nombre-connexion" : 2550,
+    "nombre-reservation" : 301
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 1221,
+    "nombre-connexion" : 2366,
+    "nombre-reservation" : 323
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 1111,
+    "nombre-connexion" : 2203,
+    "nombre-reservation" : 201
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 1159,
+    "nombre-connexion" : 2327,
+    "nombre-reservation" : 242
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 1220,
+    "nombre-connexion" : 2389,
+    "nombre-reservation" : 262
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 1250,
+    "nombre-connexion" : 2480,
+    "nombre-reservation" : 226
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 1160,
+    "nombre-connexion" : 2284,
+    "nombre-reservation" : 158
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 1201,
+    "nombre-connexion" : 2478,
+    "nombre-reservation" : 153
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 1290,
+    "nombre-connexion" : 2602,
+    "nombre-reservation" : 153
+},
+{
+    "lieu" : "GG",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 895,
+    "nombre-connexion" : 1770,
+    "nombre-reservation" : 101
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 68,
+    "nombre-connexion" : 144,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 149,
+    "nombre-connexion" : 323,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 224,
+    "nombre-connexion" : 445,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 219,
+    "nombre-connexion" : 416,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 148,
+    "nombre-connexion" : 284,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 953,
+    "nombre-connexion" : 1853,
+    "nombre-reservation" : 47
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 874,
+    "nombre-connexion" : 1698,
+    "nombre-reservation" : 56
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 1003,
+    "nombre-connexion" : 1992,
+    "nombre-reservation" : 47
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 1012,
+    "nombre-connexion" : 1988,
+    "nombre-reservation" : 75
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 977,
+    "nombre-connexion" : 1946,
+    "nombre-reservation" : 47
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 1007,
+    "nombre-connexion" : 1946,
+    "nombre-reservation" : 82
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 917,
+    "nombre-connexion" : 1784,
+    "nombre-reservation" : 57
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 1087,
+    "nombre-connexion" : 2157,
+    "nombre-reservation" : 47
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 917,
+    "nombre-connexion" : 1900,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 929,
+    "nombre-connexion" : 1917,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 963,
+    "nombre-connexion" : 1986,
+    "nombre-reservation" : 21
+},
+{
+    "lieu" : "GR",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 713,
+    "nombre-connexion" : 1466,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 1,
+    "nombre-connexion" : 3,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 33,
+    "nombre-connexion" : 79,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 185,
+    "nombre-connexion" : 388,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 215,
+    "nombre-connexion" : 461,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 238,
+    "nombre-connexion" : 489,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 176,
+    "nombre-connexion" : 354,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 1306,
+    "nombre-connexion" : 2498,
+    "nombre-reservation" : 87
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 1421,
+    "nombre-connexion" : 2607,
+    "nombre-reservation" : 128
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 1467,
+    "nombre-connexion" : 2846,
+    "nombre-reservation" : 112
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 1455,
+    "nombre-connexion" : 2859,
+    "nombre-reservation" : 90
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 1417,
+    "nombre-connexion" : 2768,
+    "nombre-reservation" : 80
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 1367,
+    "nombre-connexion" : 2749,
+    "nombre-reservation" : 73
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 1205,
+    "nombre-connexion" : 2362,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 1162,
+    "nombre-connexion" : 2344,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 1211,
+    "nombre-connexion" : 2405,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 1273,
+    "nombre-connexion" : 2498,
+    "nombre-reservation" : 37
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 1257,
+    "nombre-connexion" : 2507,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "LC",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 936,
+    "nombre-connexion" : 1874,
+    "nombre-reservation" : 23
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 98,
+    "nombre-connexion" : 192,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 130,
+    "nombre-connexion" : 255,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 160,
+    "nombre-connexion" : 324,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 232,
+    "nombre-connexion" : 452,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 237,
+    "nombre-connexion" : 461,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 261,
+    "nombre-connexion" : 481,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 231,
+    "nombre-connexion" : 433,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 303,
+    "nombre-connexion" : 608,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 493,
+    "nombre-connexion" : 943,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 559,
+    "nombre-connexion" : 1089,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 618,
+    "nombre-connexion" : 1182,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 367,
+    "nombre-connexion" : 685,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 422,
+    "nombre-connexion" : 815,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 492,
+    "nombre-connexion" : 949,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 635,
+    "nombre-connexion" : 1212,
+    "nombre-reservation" : 35
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 657,
+    "nombre-connexion" : 1244,
+    "nombre-reservation" : 48
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 620,
+    "nombre-connexion" : 1172,
+    "nombre-reservation" : 61
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 591,
+    "nombre-connexion" : 1133,
+    "nombre-reservation" : 58
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 570,
+    "nombre-connexion" : 1138,
+    "nombre-reservation" : 29
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 649,
+    "nombre-connexion" : 1322,
+    "nombre-reservation" : 45
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 608,
+    "nombre-connexion" : 1264,
+    "nombre-reservation" : 33
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 552,
+    "nombre-connexion" : 1132,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 590,
+    "nombre-connexion" : 1171,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "MB",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 398,
+    "nombre-connexion" : 833,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 2337,
+    "nombre-connexion" : 4334,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 2497,
+    "nombre-connexion" : 4719,
+    "nombre-reservation" : 48
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 3094,
+    "nombre-connexion" : 5742,
+    "nombre-reservation" : 158
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 2775,
+    "nombre-connexion" : 5248,
+    "nombre-reservation" : 122
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 2686,
+    "nombre-connexion" : 5067,
+    "nombre-reservation" : 88
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 2393,
+    "nombre-connexion" : 4530,
+    "nombre-reservation" : 73
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 2362,
+    "nombre-connexion" : 4466,
+    "nombre-reservation" : 48
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 3173,
+    "nombre-connexion" : 6007,
+    "nombre-reservation" : 63
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 2821,
+    "nombre-connexion" : 5466,
+    "nombre-reservation" : 45
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 3034,
+    "nombre-connexion" : 5767,
+    "nombre-reservation" : 91
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 3128,
+    "nombre-connexion" : 5867,
+    "nombre-reservation" : 51
+},
+{
+    "lieu" : "MC",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 2207,
+    "nombre-connexion" : 4210,
+    "nombre-reservation" : 40
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 516,
+    "nombre-connexion" : 865,
+    "nombre-reservation" : 212
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 529,
+    "nombre-connexion" : 921,
+    "nombre-reservation" : 188
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 609,
+    "nombre-connexion" : 1021,
+    "nombre-reservation" : 233
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 560,
+    "nombre-connexion" : 1013,
+    "nombre-reservation" : 232
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 598,
+    "nombre-connexion" : 1093,
+    "nombre-reservation" : 206
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 575,
+    "nombre-connexion" : 1048,
+    "nombre-reservation" : 191
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 561,
+    "nombre-connexion" : 1038,
+    "nombre-reservation" : 157
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 642,
+    "nombre-connexion" : 1200,
+    "nombre-reservation" : 186
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 729,
+    "nombre-connexion" : 1376,
+    "nombre-reservation" : 208
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 817,
+    "nombre-connexion" : 1449,
+    "nombre-reservation" : 281
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 746,
+    "nombre-connexion" : 1362,
+    "nombre-reservation" : 268
+},
+{
+    "lieu" : "PP",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 533,
+    "nombre-connexion" : 898,
+    "nombre-reservation" : 159
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 768,
+    "nombre-connexion" : 1469,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 735,
+    "nombre-connexion" : 1429,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 925,
+    "nombre-connexion" : 1776,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 757,
+    "nombre-connexion" : 1463,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 719,
+    "nombre-connexion" : 1432,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 657,
+    "nombre-connexion" : 1245,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 582,
+    "nombre-connexion" : 1188,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 666,
+    "nombre-connexion" : 1380,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 829,
+    "nombre-connexion" : 1718,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 806,
+    "nombre-connexion" : 1613,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 840,
+    "nombre-connexion" : 1671,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "SG",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 588,
+    "nombre-connexion" : 1162,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 550,
+    "nombre-connexion" : 1021,
+    "nombre-reservation" : 68
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 493,
+    "nombre-connexion" : 939,
+    "nombre-reservation" : 61
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 618,
+    "nombre-connexion" : 1144,
+    "nombre-reservation" : 121
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 557,
+    "nombre-connexion" : 1086,
+    "nombre-reservation" : 118
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 593,
+    "nombre-connexion" : 1229,
+    "nombre-reservation" : 88
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 574,
+    "nombre-connexion" : 1134,
+    "nombre-reservation" : 87
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 507,
+    "nombre-connexion" : 1004,
+    "nombre-reservation" : 54
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 560,
+    "nombre-connexion" : 1115,
+    "nombre-reservation" : 79
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 607,
+    "nombre-connexion" : 1343,
+    "nombre-reservation" : 25
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 568,
+    "nombre-connexion" : 1214,
+    "nombre-reservation" : 33
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 670,
+    "nombre-connexion" : 1348,
+    "nombre-reservation" : 31
+},
+{
+    "lieu" : "YT",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 491,
+    "nombre-connexion" : 1015,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Janv",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Févr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Mars",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Avr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Mai",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Juin",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Juil",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Août",
+    "temps-utilisation" : 10,
+    "nombre-connexion" : 12,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Sept",
+    "temps-utilisation" : 177,
+    "nombre-connexion" : 414,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Oct",
+    "temps-utilisation" : 155,
+    "nombre-connexion" : 340,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Nov",
+    "temps-utilisation" : 151,
+    "nombre-connexion" : 330,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2016,
+    "mois" : "Déc",
+    "temps-utilisation" : 122,
+    "nombre-connexion" : 266,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 1323.32555555555,
+    "nombre-connexion" : 2533,
+    "nombre-reservation" : 28
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 1381.48111111111,
+    "nombre-connexion" : 2641,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 1625.48611111111,
+    "nombre-connexion" : 3139,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 154.184444444444,
+    "nombre-connexion" : 2767,
+    "nombre-reservation" : 97
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 1527.75083333333,
+    "nombre-connexion" : 3064,
+    "nombre-reservation" : 70
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 1563.90277777778,
+    "nombre-connexion" : 3047,
+    "nombre-reservation" : 95
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 1518.71972222222,
+    "nombre-connexion" : 2891,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 1787.38944444444,
+    "nombre-connexion" : 3345,
+    "nombre-reservation" : 68
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 1746.28888888889,
+    "nombre-connexion" : 3304,
+    "nombre-reservation" : 113
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 1745.185,
+    "nombre-connexion" : 3389,
+    "nombre-reservation" : 187
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 1737.46694444444,
+    "nombre-connexion" : 3291,
+    "nombre-reservation" : 184
+},
+{
+    "lieu" : "EN",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 1331.90611111111,
+    "nombre-connexion" : 2508,
+    "nombre-reservation" : 178
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 383.843888888888,
+    "nombre-connexion" : 738,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 409.00111111111,
+    "nombre-connexion" : 816,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 482.795833333332,
+    "nombre-connexion" : 924,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 427.091666666666,
+    "nombre-connexion" : 830,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 454.295555555554,
+    "nombre-connexion" : 932,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 452.939444444443,
+    "nombre-connexion" : 888,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 450.383055555555,
+    "nombre-connexion" : 849,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 517.105555555554,
+    "nombre-connexion" : 1015,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 449.78611111111,
+    "nombre-connexion" : 898,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 473.591666666666,
+    "nombre-connexion" : 932,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 435.780277777777,
+    "nombre-connexion" : 853,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 392.400277777777,
+    "nombre-connexion" : 789,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 1128.11,
+    "nombre-connexion" : 2177,
+    "nombre-reservation" : 119
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 1076.82111111111,
+    "nombre-connexion" : 2106,
+    "nombre-reservation" : 104
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 1230.93777777778,
+    "nombre-connexion" : 2544,
+    "nombre-reservation" : 113
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 1426.31694444444,
+    "nombre-connexion" : 1998,
+    "nombre-reservation" : 145
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 1056.87555555555,
+    "nombre-connexion" : 2189,
+    "nombre-reservation" : 110
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 1147.61527777778,
+    "nombre-connexion" : 2359,
+    "nombre-reservation" : 75
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 1109.74888888889,
+    "nombre-connexion" : 2196,
+    "nombre-reservation" : 33
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 1249.11833333333,
+    "nombre-connexion" : 2534,
+    "nombre-reservation" : 58
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 1143.855,
+    "nombre-connexion" : 2350,
+    "nombre-reservation" : 37
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 1287.81,
+    "nombre-connexion" : 2613,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 1316.96472222222,
+    "nombre-connexion" : 2638,
+    "nombre-reservation" : 46
+},
+{
+    "lieu" : "GG",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 914.665277777777,
+    "nombre-connexion" : 1921,
+    "nombre-reservation" : 17
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 240.334722222222,
+    "nombre-connexion" : 438,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 244.592222222222,
+    "nombre-connexion" : 482,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 309.017777777777,
+    "nombre-connexion" : 585,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 379.973888888888,
+    "nombre-connexion" : 717,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 391.924166666666,
+    "nombre-connexion" : 761,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 275.009444444444,
+    "nombre-connexion" : 556,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 303.199999999999,
+    "nombre-connexion" : 574,
+    "nombre-reservation" : 24
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 383.638888888888,
+    "nombre-connexion" : 758,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 337.680833333332,
+    "nombre-connexion" : 735,
+    "nombre-reservation" : 53
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 308.251666666666,
+    "nombre-connexion" : 709,
+    "nombre-reservation" : 55
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 347.454166666666,
+    "nombre-connexion" : 728,
+    "nombre-reservation" : 72
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 245.366388888888,
+    "nombre-connexion" : 570,
+    "nombre-reservation" : 56
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 887.306666666665,
+    "nombre-connexion" : 1786,
+    "nombre-reservation" : 30
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 901.343055555554,
+    "nombre-connexion" : 1847,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 943.015277777777,
+    "nombre-connexion" : 1993,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 973.974999999999,
+    "nombre-connexion" : 1868,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 906.670833333332,
+    "nombre-connexion" : 1844,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 934.993888888888,
+    "nombre-connexion" : 1945,
+    "nombre-reservation" : 22
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 779.437499999999,
+    "nombre-connexion" : 1634,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 878.534166666665,
+    "nombre-connexion" : 1876,
+    "nombre-reservation" : 8
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 914.257499999999,
+    "nombre-connexion" : 1939,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 824.405277777777,
+    "nombre-connexion" : 1829,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 850.367222222221,
+    "nombre-connexion" : 1752,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "GR",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 722.491388888888,
+    "nombre-connexion" : 1566,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 225.906944444444,
+    "nombre-connexion" : 410,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 265.443888888888,
+    "nombre-connexion" : 505,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 285.346666666666,
+    "nombre-connexion" : 588,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 262.753333333333,
+    "nombre-connexion" : 505,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 274.848888888889,
+    "nombre-connexion" : 542,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 357.337777777777,
+    "nombre-connexion" : 680,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 279.952777777777,
+    "nombre-connexion" : 554,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 310.044444444444,
+    "nombre-connexion" : 634,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 292.193888888888,
+    "nombre-connexion" : 583,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 240.557777777777,
+    "nombre-connexion" : 491,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 273.170555555555,
+    "nombre-connexion" : 533,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 223.096666666666,
+    "nombre-connexion" : 426,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 1202.31472222222,
+    "nombre-connexion" : 2271,
+    "nombre-reservation" : 45
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 1180.34305555555,
+    "nombre-connexion" : 2297,
+    "nombre-reservation" : 51
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 1398.18916666667,
+    "nombre-connexion" : 2713,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 924.217222222221,
+    "nombre-connexion" : 2266,
+    "nombre-reservation" : 53
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 1233.39944444444,
+    "nombre-connexion" : 2544,
+    "nombre-reservation" : 57
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 1255.31222222222,
+    "nombre-connexion" : 2479,
+    "nombre-reservation" : 44
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 1195.17694444444,
+    "nombre-connexion" : 2368,
+    "nombre-reservation" : 47
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 1215.80083333333,
+    "nombre-connexion" : 2484,
+    "nombre-reservation" : 50
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 1189.02361111111,
+    "nombre-connexion" : 2401,
+    "nombre-reservation" : 44
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 1347.66444444444,
+    "nombre-connexion" : 2654,
+    "nombre-reservation" : 50
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 1293.59055555555,
+    "nombre-connexion" : 2587,
+    "nombre-reservation" : 44
+},
+{
+    "lieu" : "LC",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 1027.02166666667,
+    "nombre-connexion" : 2080,
+    "nombre-reservation" : 44
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 443.838055555555,
+    "nombre-connexion" : 826,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 436.198888888888,
+    "nombre-connexion" : 898,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 522.619166666665,
+    "nombre-connexion" : 1064,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 429.630555555555,
+    "nombre-connexion" : 858,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 486.160277777777,
+    "nombre-connexion" : 981,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 409.707777777777,
+    "nombre-connexion" : 844,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 338.179444444444,
+    "nombre-connexion" : 669,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 520.457499999999,
+    "nombre-connexion" : 1067,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 549.16611111111,
+    "nombre-connexion" : 1085,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 619.162222222221,
+    "nombre-connexion" : 1251,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 546.363055555554,
+    "nombre-connexion" : 1069,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 451.822499999999,
+    "nombre-connexion" : 936,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 518.675555555554,
+    "nombre-connexion" : 1023,
+    "nombre-reservation" : 56
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 549.070277777777,
+    "nombre-connexion" : 1068,
+    "nombre-reservation" : 55
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 717.14111111111,
+    "nombre-connexion" : 1404,
+    "nombre-reservation" : 87
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 1128.08111111111,
+    "nombre-connexion" : 1123,
+    "nombre-reservation" : 61
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 582.214722222221,
+    "nombre-connexion" : 1195,
+    "nombre-reservation" : 68
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 705.985555555554,
+    "nombre-connexion" : 1387,
+    "nombre-reservation" : 104
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 548.079722222221,
+    "nombre-connexion" : 1077,
+    "nombre-reservation" : 35
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 638.378333333332,
+    "nombre-connexion" : 1271,
+    "nombre-reservation" : 29
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 512.882222222221,
+    "nombre-connexion" : 1059,
+    "nombre-reservation" : 49
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 547.144722222221,
+    "nombre-connexion" : 1138,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 518.765833333332,
+    "nombre-connexion" : 1071,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "MB",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 412.224166666666,
+    "nombre-connexion" : 828,
+    "nombre-reservation" : 28
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 3004.99249999999,
+    "nombre-connexion" : 5629,
+    "nombre-reservation" : 111
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 3009.49416666666,
+    "nombre-connexion" : 5691,
+    "nombre-reservation" : 96
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 3539.12805555555,
+    "nombre-connexion" : 6703,
+    "nombre-reservation" : 136
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 566.962222222221,
+    "nombre-connexion" : 6253,
+    "nombre-reservation" : 94
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 3206.97888888888,
+    "nombre-connexion" : 6150,
+    "nombre-reservation" : 71
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 2727.83722222222,
+    "nombre-connexion" : 5310,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 2553.01194444444,
+    "nombre-connexion" : 4941,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 2997.8261111111,
+    "nombre-connexion" : 5798,
+    "nombre-reservation" : 49
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 2820.08277777777,
+    "nombre-connexion" : 5509,
+    "nombre-reservation" : 48
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 3260.06277777777,
+    "nombre-connexion" : 6365,
+    "nombre-reservation" : 99
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 2865.62277777777,
+    "nombre-connexion" : 5552,
+    "nombre-reservation" : 30
+},
+{
+    "lieu" : "MC",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 2155.23055555555,
+    "nombre-connexion" : 4309,
+    "nombre-reservation" : 37
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 677.475555555554,
+    "nombre-connexion" : 1143,
+    "nombre-reservation" : 184
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 619.768888888888,
+    "nombre-connexion" : 1111,
+    "nombre-reservation" : 167
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 728.055833333333,
+    "nombre-connexion" : 1373,
+    "nombre-reservation" : 200
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 3289.6486111111,
+    "nombre-connexion" : 1172,
+    "nombre-reservation" : 187
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 649.098333333332,
+    "nombre-connexion" : 1281,
+    "nombre-reservation" : 173
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 655.013333333332,
+    "nombre-connexion" : 1190,
+    "nombre-reservation" : 182
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 572.087222222221,
+    "nombre-connexion" : 1110,
+    "nombre-reservation" : 108
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 716.004999999999,
+    "nombre-connexion" : 1346,
+    "nombre-reservation" : 144
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 582.386944444443,
+    "nombre-connexion" : 1146,
+    "nombre-reservation" : 92
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 661.562222222221,
+    "nombre-connexion" : 1351,
+    "nombre-reservation" : 150
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 587.73611111111,
+    "nombre-connexion" : 1138,
+    "nombre-reservation" : 101
+},
+{
+    "lieu" : "PP",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 502.393055555555,
+    "nombre-connexion" : 977,
+    "nombre-reservation" : 76
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 534.304166666666,
+    "nombre-connexion" : 1021,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 482.264444444443,
+    "nombre-connexion" : 914,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 664.211666666665,
+    "nombre-connexion" : 1330,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 611.977499999999,
+    "nombre-connexion" : 1163,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 573.415277777777,
+    "nombre-connexion" : 1138,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 662.199444444443,
+    "nombre-connexion" : 1317,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 543.955833333332,
+    "nombre-connexion" : 1111,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 669.840555555554,
+    "nombre-connexion" : 1341,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 596.483055555554,
+    "nombre-connexion" : 1245,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 674.99111111111,
+    "nombre-connexion" : 1382,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 614.028333333332,
+    "nombre-connexion" : 1243,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "SG",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 356.753055555555,
+    "nombre-connexion" : 755,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 671.313888888888,
+    "nombre-connexion" : 1318,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 602.955833333333,
+    "nombre-connexion" : 1256,
+    "nombre-reservation" : 33
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 760.634722222221,
+    "nombre-connexion" : 1493,
+    "nombre-reservation" : 61
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 594.032222222221,
+    "nombre-connexion" : 1181,
+    "nombre-reservation" : 29
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 599.624999999999,
+    "nombre-connexion" : 1294,
+    "nombre-reservation" : 41
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 554.705555555554,
+    "nombre-connexion" : 1137,
+    "nombre-reservation" : 29
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 406.432222222221,
+    "nombre-connexion" : 886,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 594.467777777777,
+    "nombre-connexion" : 1242,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 559.139722222221,
+    "nombre-connexion" : 1193,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 590.131944444443,
+    "nombre-connexion" : 1294,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 571.331944444443,
+    "nombre-connexion" : 1185,
+    "nombre-reservation" : 18
+},
+{
+    "lieu" : "YT",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 427.032222222221,
+    "nombre-connexion" : 888,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Janv",
+    "temps-utilisation" : 156.8125,
+    "nombre-connexion" : 326,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Févr",
+    "temps-utilisation" : 191.413333333333,
+    "nombre-connexion" : 401,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Mars",
+    "temps-utilisation" : 353.302777777777,
+    "nombre-connexion" : 681,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Avr",
+    "temps-utilisation" : 218.524166666666,
+    "nombre-connexion" : 429,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Mai",
+    "temps-utilisation" : 248.965277777777,
+    "nombre-connexion" : 512,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Juin",
+    "temps-utilisation" : 249.805555555555,
+    "nombre-connexion" : 504,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Juil",
+    "temps-utilisation" : 140.334444444444,
+    "nombre-connexion" : 285,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Août",
+    "temps-utilisation" : 240.276666666666,
+    "nombre-connexion" : 477,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Sept",
+    "temps-utilisation" : 213.071944444444,
+    "nombre-connexion" : 396,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Oct",
+    "temps-utilisation" : 195.972222222222,
+    "nombre-connexion" : 407,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Nov",
+    "temps-utilisation" : 186.102777777778,
+    "nombre-connexion" : 373,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2017,
+    "mois" : "Déc",
+    "temps-utilisation" : 139.553055555555,
+    "nombre-connexion" : 273,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 1072.869,
+    "nombre-connexion" : 2043,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 1382.689,
+    "nombre-connexion" : 2618,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 1679.834,
+    "nombre-connexion" : 3207,
+    "nombre-reservation" : 102
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 1498.793,
+    "nombre-connexion" : 2849,
+    "nombre-reservation" : 84
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 1646.321,
+    "nombre-connexion" : 3190,
+    "nombre-reservation" : 71
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 1357.371,
+    "nombre-connexion" : 2742,
+    "nombre-reservation" : 56
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 1401.362,
+    "nombre-connexion" : 2808,
+    "nombre-reservation" : 24
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 1413.722,
+    "nombre-connexion" : 2743,
+    "nombre-reservation" : 44
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 1498.579,
+    "nombre-connexion" : 2971,
+    "nombre-reservation" : 35
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 1643.978,
+    "nombre-connexion" : 3187,
+    "nombre-reservation" : 97
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 1551.034,
+    "nombre-connexion" : 2977,
+    "nombre-reservation" : 71
+},
+{
+    "lieu" : "EN",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 1137.348,
+    "nombre-connexion" : 2180,
+    "nombre-reservation" : 43
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 356.593,
+    "nombre-connexion" : 717,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 446.025,
+    "nombre-connexion" : 879,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 525.423,
+    "nombre-connexion" : 1055,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 483.119,
+    "nombre-connexion" : 966,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 566.688,
+    "nombre-connexion" : 1084,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 461.663,
+    "nombre-connexion" : 920,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 448.973,
+    "nombre-connexion" : 845,
+    "nombre-reservation" : 8
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 511.284,
+    "nombre-connexion" : 1026,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 494.997,
+    "nombre-connexion" : 972,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 506.331,
+    "nombre-connexion" : 977,
+    "nombre-reservation" : 23
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 469.726,
+    "nombre-connexion" : 926,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 324.762,
+    "nombre-connexion" : 621,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 721.128,
+    "nombre-connexion" : 1483,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 917.808,
+    "nombre-connexion" : 1893,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 1021.767,
+    "nombre-connexion" : 2108,
+    "nombre-reservation" : 35
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 1166.916,
+    "nombre-connexion" : 2399,
+    "nombre-reservation" : 32
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 1299.197,
+    "nombre-connexion" : 2596,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 1072.586,
+    "nombre-connexion" : 2176,
+    "nombre-reservation" : 25
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 1268.044,
+    "nombre-connexion" : 2443,
+    "nombre-reservation" : 49
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 1243.473,
+    "nombre-connexion" : 2455,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 1022.291,
+    "nombre-connexion" : 2025,
+    "nombre-reservation" : 24
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 1094.69,
+    "nombre-connexion" : 2259,
+    "nombre-reservation" : 30
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 946.127,
+    "nombre-connexion" : 1890,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "GG",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 863.985,
+    "nombre-connexion" : 1717,
+    "nombre-reservation" : 39
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 215.752,
+    "nombre-connexion" : 459,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 255.27,
+    "nombre-connexion" : 533,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 329.628,
+    "nombre-connexion" : 658,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 321.498,
+    "nombre-connexion" : 697,
+    "nombre-reservation" : 34
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 381.186,
+    "nombre-connexion" : 836,
+    "nombre-reservation" : 58
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 351.092,
+    "nombre-connexion" : 753,
+    "nombre-reservation" : 63
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 393.707,
+    "nombre-connexion" : 788,
+    "nombre-reservation" : 66
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 401.618,
+    "nombre-connexion" : 875,
+    "nombre-reservation" : 69
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 345.923,
+    "nombre-connexion" : 734,
+    "nombre-reservation" : 46
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 338.723,
+    "nombre-connexion" : 722,
+    "nombre-reservation" : 54
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 361.511,
+    "nombre-connexion" : 742,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 325.049,
+    "nombre-connexion" : 616,
+    "nombre-reservation" : 43
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 611.043,
+    "nombre-connexion" : 1282,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 804.179,
+    "nombre-connexion" : 1703,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 889.969,
+    "nombre-connexion" : 1906,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 801.41,
+    "nombre-connexion" : 1715,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 854.376,
+    "nombre-connexion" : 1826,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 687.168,
+    "nombre-connexion" : 1475,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 673.303,
+    "nombre-connexion" : 1494,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 691.45,
+    "nombre-connexion" : 1492,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 793.913,
+    "nombre-connexion" : 1720,
+    "nombre-reservation" : 8
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 857.116,
+    "nombre-connexion" : 1819,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 826.855,
+    "nombre-connexion" : 1739,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "GR",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 610.642,
+    "nombre-connexion" : 1313,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 174.85,
+    "nombre-connexion" : 322,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 262.935,
+    "nombre-connexion" : 515,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 292.564,
+    "nombre-connexion" : 588,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 300.326,
+    "nombre-connexion" : 575,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 346.978,
+    "nombre-connexion" : 667,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 252.237,
+    "nombre-connexion" : 471,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 186.714,
+    "nombre-connexion" : 356,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 264.875,
+    "nombre-connexion" : 508,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 279.434,
+    "nombre-connexion" : 555,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 295.085,
+    "nombre-connexion" : 564,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 251.483,
+    "nombre-connexion" : 503,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 257.572,
+    "nombre-connexion" : 484,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 955.042,
+    "nombre-connexion" : 1910,
+    "nombre-reservation" : 32
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 1228.326,
+    "nombre-connexion" : 2412,
+    "nombre-reservation" : 45
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 1279.375,
+    "nombre-connexion" : 2577,
+    "nombre-reservation" : 59
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 1267.164,
+    "nombre-connexion" : 2577,
+    "nombre-reservation" : 47
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 1273.847,
+    "nombre-connexion" : 2555,
+    "nombre-reservation" : 51
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 1359.878,
+    "nombre-connexion" : 2707,
+    "nombre-reservation" : 48
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 1337.889,
+    "nombre-connexion" : 2639,
+    "nombre-reservation" : 40
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 1206.246,
+    "nombre-connexion" : 2472,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 1155.572,
+    "nombre-connexion" : 2461,
+    "nombre-reservation" : 18
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 1309.683,
+    "nombre-connexion" : 2762,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 1236.179,
+    "nombre-connexion" : 2560,
+    "nombre-reservation" : 23
+},
+{
+    "lieu" : "LC",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 1064.444,
+    "nombre-connexion" : 2206,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 436.876,
+    "nombre-connexion" : 846,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 547.244,
+    "nombre-connexion" : 1113,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 531.355,
+    "nombre-connexion" : 1084,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 537.225,
+    "nombre-connexion" : 1064,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 536.288,
+    "nombre-connexion" : 1055,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 574.12,
+    "nombre-connexion" : 1112,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 576.016,
+    "nombre-connexion" : 1118,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 850.175,
+    "nombre-connexion" : 1631,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 782.204,
+    "nombre-connexion" : 1456,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 821.01,
+    "nombre-connexion" : 1564,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 645.066,
+    "nombre-connexion" : 1211,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 456.075,
+    "nombre-connexion" : 845,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 349.811,
+    "nombre-connexion" : 709,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 522.258,
+    "nombre-connexion" : 1001,
+    "nombre-reservation" : 45
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 738.131,
+    "nombre-connexion" : 1452,
+    "nombre-reservation" : 81
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 527.474,
+    "nombre-connexion" : 1047,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 570.552,
+    "nombre-connexion" : 1175,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 604.108,
+    "nombre-connexion" : 1215,
+    "nombre-reservation" : 49
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 674.42,
+    "nombre-connexion" : 1304,
+    "nombre-reservation" : 59
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 728.089,
+    "nombre-connexion" : 1498,
+    "nombre-reservation" : 95
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 680.053,
+    "nombre-connexion" : 1297,
+    "nombre-reservation" : 166
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 631.445,
+    "nombre-connexion" : 1189,
+    "nombre-reservation" : 212
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 598.983,
+    "nombre-connexion" : 1132,
+    "nombre-reservation" : 132
+},
+{
+    "lieu" : "MB",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 476.873,
+    "nombre-connexion" : 960,
+    "nombre-reservation" : 80
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 2111.008,
+    "nombre-connexion" : 3976,
+    "nombre-reservation" : 79
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 2663.815,
+    "nombre-connexion" : 5190,
+    "nombre-reservation" : 62
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 3463.121,
+    "nombre-connexion" : 6667,
+    "nombre-reservation" : 161
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 2670.014,
+    "nombre-connexion" : 5120,
+    "nombre-reservation" : 170
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 2593.091,
+    "nombre-connexion" : 4958,
+    "nombre-reservation" : 189
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 2470.703,
+    "nombre-connexion" : 4720,
+    "nombre-reservation" : 142
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 2779.824,
+    "nombre-connexion" : 5184,
+    "nombre-reservation" : 141
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 2861.779,
+    "nombre-connexion" : 5485,
+    "nombre-reservation" : 118
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 2623.016,
+    "nombre-connexion" : 4901,
+    "nombre-reservation" : 183
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 2875.804,
+    "nombre-connexion" : 5282,
+    "nombre-reservation" : 309
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 2403.817,
+    "nombre-connexion" : 4497,
+    "nombre-reservation" : 192
+},
+{
+    "lieu" : "MC",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 2000.577,
+    "nombre-connexion" : 3739,
+    "nombre-reservation" : 186
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 0,
+    "nombre-connexion" : 0,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 418.399,
+    "nombre-connexion" : 758,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 455.293,
+    "nombre-connexion" : 819,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 433.9,
+    "nombre-connexion" : 835,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 666.863,
+    "nombre-connexion" : 1189,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 638.907,
+    "nombre-connexion" : 1188,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 509.442,
+    "nombre-connexion" : 947,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 562.61,
+    "nombre-connexion" : 1009,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 445.881,
+    "nombre-connexion" : 823,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 373.877,
+    "nombre-connexion" : 680,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 471.19,
+    "nombre-connexion" : 880,
+    "nombre-reservation" : 121
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 544.872,
+    "nombre-connexion" : 1009,
+    "nombre-reservation" : 127
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 733.198,
+    "nombre-connexion" : 1387,
+    "nombre-reservation" : 162
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 594.134,
+    "nombre-connexion" : 1158,
+    "nombre-reservation" : 128
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 641.196,
+    "nombre-connexion" : 1237,
+    "nombre-reservation" : 87
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 555.847,
+    "nombre-connexion" : 1081,
+    "nombre-reservation" : 77
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 682.19,
+    "nombre-connexion" : 1246,
+    "nombre-reservation" : 129
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 676.938,
+    "nombre-connexion" : 1294,
+    "nombre-reservation" : 137
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 675.973,
+    "nombre-connexion" : 1208,
+    "nombre-reservation" : 179
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 643.704,
+    "nombre-connexion" : 1206,
+    "nombre-reservation" : 157
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 591.332,
+    "nombre-connexion" : 1105,
+    "nombre-reservation" : 124
+},
+{
+    "lieu" : "PP",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 495.336,
+    "nombre-connexion" : 885,
+    "nombre-reservation" : 116
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 378.583,
+    "nombre-connexion" : 776,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 512.169,
+    "nombre-connexion" : 1046,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 667.636,
+    "nombre-connexion" : 1355,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 706.559,
+    "nombre-connexion" : 1445,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 780.911,
+    "nombre-connexion" : 1570,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 655.928,
+    "nombre-connexion" : 1379,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 704.543,
+    "nombre-connexion" : 1417,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 772.601,
+    "nombre-connexion" : 1516,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 745.363,
+    "nombre-connexion" : 1442,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 730.593,
+    "nombre-connexion" : 1451,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 561.17,
+    "nombre-connexion" : 1109,
+    "nombre-reservation" : 16
+},
+{
+    "lieu" : "SG",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 516.21,
+    "nombre-connexion" : 1042,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 396.924,
+    "nombre-connexion" : 810,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 480.97,
+    "nombre-connexion" : 957,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 627.973,
+    "nombre-connexion" : 1241,
+    "nombre-reservation" : 25
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 493.53,
+    "nombre-connexion" : 1009,
+    "nombre-reservation" : 23
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 589.591,
+    "nombre-connexion" : 1182,
+    "nombre-reservation" : 32
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 496.134,
+    "nombre-connexion" : 1001,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 499.793,
+    "nombre-connexion" : 1013,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 681.292,
+    "nombre-connexion" : 1296,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 660.289,
+    "nombre-connexion" : 1291,
+    "nombre-reservation" : 18
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 587.566,
+    "nombre-connexion" : 1150,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 624.427,
+    "nombre-connexion" : 1166,
+    "nombre-reservation" : 30
+},
+{
+    "lieu" : "YT",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 455.081,
+    "nombre-connexion" : 897,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Janv",
+    "temps-utilisation" : 129.602,
+    "nombre-connexion" : 265,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Févr",
+    "temps-utilisation" : 154.079,
+    "nombre-connexion" : 303,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Mars",
+    "temps-utilisation" : 202.164,
+    "nombre-connexion" : 394,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Avr",
+    "temps-utilisation" : 163.216,
+    "nombre-connexion" : 325,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Mai",
+    "temps-utilisation" : 169.223,
+    "nombre-connexion" : 360,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Juin",
+    "temps-utilisation" : 190.539,
+    "nombre-connexion" : 376,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Juil",
+    "temps-utilisation" : 186.39,
+    "nombre-connexion" : 346,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Août",
+    "temps-utilisation" : 264.633,
+    "nombre-connexion" : 514,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Sept",
+    "temps-utilisation" : 180.363,
+    "nombre-connexion" : 368,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Oct",
+    "temps-utilisation" : 184.659,
+    "nombre-connexion" : 368,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Nov",
+    "temps-utilisation" : 175.545,
+    "nombre-connexion" : 362,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2018,
+    "mois" : "Déc",
+    "temps-utilisation" : 148.451,
+    "nombre-connexion" : 302,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 1388.085,
+    "nombre-connexion" : 2680,
+    "nombre-reservation" : 50
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 1347.058,
+    "nombre-connexion" : 2570,
+    "nombre-reservation" : 71
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 1662.61,
+    "nombre-connexion" : 3194,
+    "nombre-reservation" : 170
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 1442.024,
+    "nombre-connexion" : 2860,
+    "nombre-reservation" : 98
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 1390.773,
+    "nombre-connexion" : 2753,
+    "nombre-reservation" : 29
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 1257.888,
+    "nombre-connexion" : 2547,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 1189.843,
+    "nombre-connexion" : 2365,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 1258.464,
+    "nombre-connexion" : 2443,
+    "nombre-reservation" : 21
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 1150.218,
+    "nombre-connexion" : 2323,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 1475.77,
+    "nombre-connexion" : 2905,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 1339.918,
+    "nombre-connexion" : 2595,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "EN",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 921.208,
+    "nombre-connexion" : 1840,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 889.274,
+    "nombre-connexion" : 1749,
+    "nombre-reservation" : 38
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 941.804,
+    "nombre-connexion" : 1913,
+    "nombre-reservation" : 31
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 1178.171,
+    "nombre-connexion" : 2453,
+    "nombre-reservation" : 58
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 1093.588,
+    "nombre-connexion" : 2263,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 1278.322,
+    "nombre-connexion" : 2522,
+    "nombre-reservation" : 93
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 1089.107,
+    "nombre-connexion" : 2222,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 1154.374,
+    "nombre-connexion" : 2282,
+    "nombre-reservation" : 58
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 1109.129,
+    "nombre-connexion" : 2257,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 1097.804,
+    "nombre-connexion" : 2301,
+    "nombre-reservation" : 41
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 1093.923,
+    "nombre-connexion" : 2223,
+    "nombre-reservation" : 61
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 1058.49,
+    "nombre-connexion" : 2124,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "GG",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 823.065,
+    "nombre-connexion" : 1622,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 631.701,
+    "nombre-connexion" : 1353,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 546.902,
+    "nombre-connexion" : 1258,
+    "nombre-reservation" : 5
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 729.031,
+    "nombre-connexion" : 1626,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 768.112,
+    "nombre-connexion" : 1632,
+    "nombre-reservation" : 43
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 770.631,
+    "nombre-connexion" : 1663,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 636.733,
+    "nombre-connexion" : 1385,
+    "nombre-reservation" : 10
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 630.667,
+    "nombre-connexion" : 1359,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 623.753,
+    "nombre-connexion" : 1370,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 713.806,
+    "nombre-connexion" : 1563,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 549.592,
+    "nombre-connexion" : 1216,
+    "nombre-reservation" : 22
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 396.168,
+    "nombre-connexion" : 889,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "GR",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 413.906,
+    "nombre-connexion" : 904,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 1027.502,
+    "nombre-connexion" : 2149,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 1093.398,
+    "nombre-connexion" : 2275,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 1391.046,
+    "nombre-connexion" : 2880,
+    "nombre-reservation" : 66
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 1407.784,
+    "nombre-connexion" : 2810,
+    "nombre-reservation" : 102
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 1491.114,
+    "nombre-connexion" : 2923,
+    "nombre-reservation" : 86
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 1224.421,
+    "nombre-connexion" : 2548,
+    "nombre-reservation" : 24
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 1124.771,
+    "nombre-connexion" : 2391,
+    "nombre-reservation" : 18
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 1076.766,
+    "nombre-connexion" : 2299,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 1088.714,
+    "nombre-connexion" : 2287,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 1136.708,
+    "nombre-connexion" : 2353,
+    "nombre-reservation" : 23
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 992.202,
+    "nombre-connexion" : 2052,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "LC",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 878.661,
+    "nombre-connexion" : 1824,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 481.043,
+    "nombre-connexion" : 921,
+    "nombre-reservation" : 63
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 482.771,
+    "nombre-connexion" : 971,
+    "nombre-reservation" : 72
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 738.564,
+    "nombre-connexion" : 1408,
+    "nombre-reservation" : 148
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 599.85,
+    "nombre-connexion" : 1181,
+    "nombre-reservation" : 145
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 622.436,
+    "nombre-connexion" : 1300,
+    "nombre-reservation" : 107
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 563.89,
+    "nombre-connexion" : 1128,
+    "nombre-reservation" : 60
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 618.961,
+    "nombre-connexion" : 1189,
+    "nombre-reservation" : 53
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 611.612,
+    "nombre-connexion" : 1294,
+    "nombre-reservation" : 64
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 541.593,
+    "nombre-connexion" : 1157,
+    "nombre-reservation" : 40
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 662.174,
+    "nombre-connexion" : 1330,
+    "nombre-reservation" : 84
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 600.786,
+    "nombre-connexion" : 1209,
+    "nombre-reservation" : 108
+},
+{
+    "lieu" : "MB",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 414.073,
+    "nombre-connexion" : 827,
+    "nombre-reservation" : 37
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 2133.598,
+    "nombre-connexion" : 4081,
+    "nombre-reservation" : 136
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 2295.909,
+    "nombre-connexion" : 4260,
+    "nombre-reservation" : 200
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 2696.572,
+    "nombre-connexion" : 5332,
+    "nombre-reservation" : 221
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 2476.834,
+    "nombre-connexion" : 4606,
+    "nombre-reservation" : 161
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 2595.517,
+    "nombre-connexion" : 4974,
+    "nombre-reservation" : 111
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 2263.069,
+    "nombre-connexion" : 4393,
+    "nombre-reservation" : 96
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 2443.736,
+    "nombre-connexion" : 4676,
+    "nombre-reservation" : 67
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 2238.617,
+    "nombre-connexion" : 4372,
+    "nombre-reservation" : 44
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 2290.497,
+    "nombre-connexion" : 4473,
+    "nombre-reservation" : 77
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 2677.164,
+    "nombre-connexion" : 5081,
+    "nombre-reservation" : 170
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 2490.024,
+    "nombre-connexion" : 4802,
+    "nombre-reservation" : 67
+},
+{
+    "lieu" : "MC",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 2124.821,
+    "nombre-connexion" : 4015,
+    "nombre-reservation" : 92
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 502.067,
+    "nombre-connexion" : 958,
+    "nombre-reservation" : 92
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 496.629,
+    "nombre-connexion" : 898,
+    "nombre-reservation" : 98
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 628.843,
+    "nombre-connexion" : 1193,
+    "nombre-reservation" : 149
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 618.954,
+    "nombre-connexion" : 1172,
+    "nombre-reservation" : 143
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 641.279,
+    "nombre-connexion" : 1193,
+    "nombre-reservation" : 121
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 605.264,
+    "nombre-connexion" : 1126,
+    "nombre-reservation" : 135
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 606.827,
+    "nombre-connexion" : 1164,
+    "nombre-reservation" : 120
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 582.999,
+    "nombre-connexion" : 1139,
+    "nombre-reservation" : 95
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 526.294,
+    "nombre-connexion" : 1068,
+    "nombre-reservation" : 81
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 695.671,
+    "nombre-connexion" : 1327,
+    "nombre-reservation" : 130
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 625.155,
+    "nombre-connexion" : 1183,
+    "nombre-reservation" : 146
+},
+{
+    "lieu" : "PP",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 480.521,
+    "nombre-connexion" : 901,
+    "nombre-reservation" : 94
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 546.526,
+    "nombre-connexion" : 1066,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 597.332,
+    "nombre-connexion" : 1188,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 792.203,
+    "nombre-connexion" : 1519,
+    "nombre-reservation" : 22
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 666.839,
+    "nombre-connexion" : 1286,
+    "nombre-reservation" : 25
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 702.047,
+    "nombre-connexion" : 1361,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 530.554,
+    "nombre-connexion" : 1011,
+    "nombre-reservation" : 22
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 607.992,
+    "nombre-connexion" : 1218,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 590.839,
+    "nombre-connexion" : 1241,
+    "nombre-reservation" : 3
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 353.365,
+    "nombre-connexion" : 716,
+    "nombre-reservation" : 8
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 638.219,
+    "nombre-connexion" : 1314,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 711.108,
+    "nombre-connexion" : 1398,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "SG",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 468.026,
+    "nombre-connexion" : 939,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 460.497,
+    "nombre-connexion" : 890,
+    "nombre-reservation" : 27
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 431.402,
+    "nombre-connexion" : 842,
+    "nombre-reservation" : 19
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 592.351,
+    "nombre-connexion" : 1161,
+    "nombre-reservation" : 26
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 593.835,
+    "nombre-connexion" : 1173,
+    "nombre-reservation" : 31
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 713.271,
+    "nombre-connexion" : 1344,
+    "nombre-reservation" : 35
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 472.146,
+    "nombre-connexion" : 1010,
+    "nombre-reservation" : 20
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 473.365,
+    "nombre-connexion" : 948,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 496.424,
+    "nombre-connexion" : 1042,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 475.423,
+    "nombre-connexion" : 962,
+    "nombre-reservation" : 11
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 544.75,
+    "nombre-connexion" : 1126,
+    "nombre-reservation" : 23
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 518.312,
+    "nombre-connexion" : 1079,
+    "nombre-reservation" : 30
+},
+{
+    "lieu" : "YT",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 414.739,
+    "nombre-connexion" : 804,
+    "nombre-reservation" : 31
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 438.946,
+    "nombre-connexion" : 852,
+    "nombre-reservation" : 13
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 423.409,
+    "nombre-connexion" : 803,
+    "nombre-reservation" : 15
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 579.833,
+    "nombre-connexion" : 1084,
+    "nombre-reservation" : 53
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 506.946,
+    "nombre-connexion" : 946,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 491.486,
+    "nombre-connexion" : 938,
+    "nombre-reservation" : 12
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 459.311,
+    "nombre-connexion" : 930,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 457.941,
+    "nombre-connexion" : 916,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 459.214,
+    "nombre-connexion" : 944,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 462.116,
+    "nombre-connexion" : 948,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 520.346,
+    "nombre-connexion" : 1053,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 462.228,
+    "nombre-connexion" : 898,
+    "nombre-reservation" : 9
+},
+{
+    "lieu" : "EN-ADO",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 356.184,
+    "nombre-connexion" : 670,
+    "nombre-reservation" : 14
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 458.678,
+    "nombre-connexion" : 831,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 620.936,
+    "nombre-connexion" : 1151,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 643.621,
+    "nombre-connexion" : 1231,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 654.972,
+    "nombre-connexion" : 1259,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 704.75,
+    "nombre-connexion" : 1320,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 610.641,
+    "nombre-connexion" : 1199,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 365.588,
+    "nombre-connexion" : 705,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 596.11,
+    "nombre-connexion" : 1210,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 629.292,
+    "nombre-connexion" : 1337,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 721.849,
+    "nombre-connexion" : 1445,
+    "nombre-reservation" : 25
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 569.503,
+    "nombre-connexion" : 1173,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "LC-ADO",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 574.038,
+    "nombre-connexion" : 1150,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 203.768,
+    "nombre-connexion" : 394,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 275.541,
+    "nombre-connexion" : 513,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 297.214,
+    "nombre-connexion" : 560,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 296.451,
+    "nombre-connexion" : 574,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 236.324,
+    "nombre-connexion" : 450,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 246.421,
+    "nombre-connexion" : 468,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 214.595,
+    "nombre-connexion" : 390,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 213.217,
+    "nombre-connexion" : 417,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 331.586,
+    "nombre-connexion" : 674,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 386.37,
+    "nombre-connexion" : 806,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 288.308,
+    "nombre-connexion" : 579,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GR-ADO",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 283.219,
+    "nombre-connexion" : 591,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 333.348,
+    "nombre-connexion" : 671,
+    "nombre-reservation" : 41
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 350.185,
+    "nombre-connexion" : 678,
+    "nombre-reservation" : 51
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 377.358,
+    "nombre-connexion" : 770,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 396.598,
+    "nombre-connexion" : 775,
+    "nombre-reservation" : 37
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 471.53,
+    "nombre-connexion" : 915,
+    "nombre-reservation" : 38
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 357.926,
+    "nombre-connexion" : 690,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 260.164,
+    "nombre-connexion" : 508,
+    "nombre-reservation" : 35
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 330.978,
+    "nombre-connexion" : 646,
+    "nombre-reservation" : 52
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 364.313,
+    "nombre-connexion" : 730,
+    "nombre-reservation" : 42
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 374.17,
+    "nombre-connexion" : 756,
+    "nombre-reservation" : 38
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 353.121,
+    "nombre-connexion" : 685,
+    "nombre-reservation" : 36
+},
+{
+    "lieu" : "GG-ADO",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 274.558,
+    "nombre-connexion" : 553,
+    "nombre-reservation" : 29
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 133.935,
+    "nombre-connexion" : 254,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 139.546,
+    "nombre-connexion" : 289,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 186.12,
+    "nombre-connexion" : 357,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 176.458,
+    "nombre-connexion" : 355,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 213.503,
+    "nombre-connexion" : 432,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 153.939,
+    "nombre-connexion" : 311,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 110.638,
+    "nombre-connexion" : 204,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 185.011,
+    "nombre-connexion" : 362,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 180.189,
+    "nombre-connexion" : 350,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 167.637,
+    "nombre-connexion" : 340,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 176.378,
+    "nombre-connexion" : 355,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "YT-ADO",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 141.933,
+    "nombre-connexion" : 257,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Janv",
+    "temps-utilisation" : 384.991,
+    "nombre-connexion" : 702,
+    "nombre-reservation" : 6
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Févr",
+    "temps-utilisation" : 391.69,
+    "nombre-connexion" : 717,
+    "nombre-reservation" : 7
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Mars",
+    "temps-utilisation" : 568.039,
+    "nombre-connexion" : 1070,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Avr",
+    "temps-utilisation" : 522.696,
+    "nombre-connexion" : 987,
+    "nombre-reservation" : 4
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Mai",
+    "temps-utilisation" : 471.577,
+    "nombre-connexion" : 886,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Juin",
+    "temps-utilisation" : 510.594,
+    "nombre-connexion" : 922,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Juil",
+    "temps-utilisation" : 548.396,
+    "nombre-connexion" : 972,
+    "nombre-reservation" : 0
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Août",
+    "temps-utilisation" : 604.366,
+    "nombre-connexion" : 1138,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Sept",
+    "temps-utilisation" : 482.918,
+    "nombre-connexion" : 904,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Oct",
+    "temps-utilisation" : 573.118,
+    "nombre-connexion" : 1098,
+    "nombre-reservation" : 2
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Nov",
+    "temps-utilisation" : 524.01,
+    "nombre-connexion" : 990,
+    "nombre-reservation" : 1
+},
+{
+    "lieu" : "MC-ADO",
+    "annee" : 2019,
+    "mois" : "Déc",
+    "temps-utilisation" : 444.279,
+    "nombre-connexion" : 802,
+    "nombre-reservation" : 8
+}
+]

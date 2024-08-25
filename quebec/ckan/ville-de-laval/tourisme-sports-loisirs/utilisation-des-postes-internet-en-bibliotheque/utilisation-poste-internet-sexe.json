@@ -1,0 +1,74 @@
+[
+{
+    "genre" : "Homme",
+    "annee" : 2016,
+    "temps-utilisation" : 74491,
+    "nombre-connexion" : 142462
+},
+{
+    "genre" : "Femme",
+    "annee" : 2016,
+    "temps-utilisation" : 51949,
+    "nombre-connexion" : 102754
+},
+{
+    "genre" : "Ind�termin�",
+    "annee" : 2016,
+    "temps-utilisation" : 2471,
+    "nombre-connexion" : 4554
+},
+{
+    "genre" : "Homme",
+    "annee" : 2017,
+    "temps-utilisation" : 81350,
+    "nombre-connexion" : 158561
+},
+{
+    "genre" : "Femme",
+    "annee" : 2017,
+    "temps-utilisation" : 59398,
+    "nombre-connexion" : 119158
+},
+{
+    "genre" : "Ind�termin�",
+    "annee" : 2017,
+    "temps-utilisation" : 2545,
+    "nombre-connexion" : 4605
+},
+{
+    "genre" : "Homme",
+    "annee" : 2018,
+    "temps-utilisation" : 77882.1691666666,
+    "nombre-connexion" : 151556
+},
+{
+    "genre" : "Femme",
+    "annee" : 2018,
+    "temps-utilisation" : 60293.9108333333,
+    "nombre-connexion" : 119745
+},
+{
+    "genre" : "Ind�termin�",
+    "annee" : 2018,
+    "temps-utilisation" : 1274.28416666666,
+    "nombre-connexion" : 2287
+},
+{
+    "genre" : "Homme",
+    "annee" : 2019,
+    "temps-utilisation" : 74713.8513888888,
+    "nombre-connexion" : 146263
+},
+{
+    "genre" : "Femme",
+    "annee" : 2019,
+    "temps-utilisation" : 59008.3175,
+    "nombre-connexion" : 118402
+},
+{
+    "genre" : "Ind�termin�",
+    "annee" : 2019,
+    "temps-utilisation" : 1334.43666666666,
+    "nombre-connexion" : 2237
+}
+]

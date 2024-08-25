@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?><ListeServicesTechnologiquesBibliotheque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>MC</lieu>
+    <nom-bibliotheque>Multiculturelle</nom-bibliotheque>
+    <no-civique>1535</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>Chomedey</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7V 3Z4</code-postal>
+    <nombre-poste-internet-bureautique>16</nombre-poste-internet-bureautique>
+    <nombre-poste-ado>4</nombre-poste-ado>
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.0</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>10</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>6</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>LC</lieu>
+    <nom-bibliotheque>Laure-Conan</nom-bibliotheque>
+    <no-civique>4660</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>des Laurentides</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7K 2J4</code-postal>
+    <nombre-poste-internet-bureautique>9</nombre-poste-internet-bureautique>
+    <nombre-poste-ado>7</nombre-poste-ado>
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.1</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>6</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>5</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>GG</lieu>
+    <nom-bibliotheque>Germaine-Guèvremont</nom-bibliotheque>
+    <no-civique>2900</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>de la Concorde</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7E 2B6</code-postal>
+    <nombre-poste-internet-bureautique>8</nombre-poste-internet-bureautique>
+    <nombre-poste-ado>3</nombre-poste-ado>
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.2</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>10</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>5</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>EN</lieu>
+    <nom-bibliotheque>Émile-Nelligan</nom-bibliotheque>
+    <no-civique>325</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>Cartier</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7N 2J5</code-postal>
+    <nombre-poste-internet-bureautique>12</nombre-poste-internet-bureautique>
+    <nombre-poste-ado>4</nombre-poste-ado>
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.3</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>4</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>4</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>GR</lieu>
+    <nom-bibliotheque>Gabrielle-Roy</nom-bibliotheque>
+    <no-civique>3505</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>Dagenais</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7P 4V9</code-postal>
+    <nombre-poste-internet-bureautique>7</nombre-poste-internet-bureautique>
+    <nombre-poste-ado>3</nombre-poste-ado>
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.4</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>4</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>4</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>SG</lieu>
+    <nom-bibliotheque>Sylvain-Garneau</nom-bibliotheque>
+    <no-civique>187</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>Sainte-Rose</nom-voie>
+    <bureau>100</bureau>
+    <code-postal>H7L 1L5</code-postal>
+    <nombre-poste-internet-bureautique>8</nombre-poste-internet-bureautique>
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.5</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>4</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>3</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>PP</lieu>
+    <nom-bibliotheque>Philippe-Panneton</nom-bibliotheque>
+    <no-civique>4747</no-civique>
+    <generique>boulevard</generique>
+    <nom-voie>Arthur-Sauvé</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7R 5P8</code-postal>
+    <nombre-poste-internet-bureautique>5</nombre-poste-internet-bureautique>
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.6</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>3</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>3</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>YT</lieu>
+    <nom-bibliotheque>Yves-Thériault</nom-bibliotheque>
+    <no-civique>670</no-civique>
+    <generique>Rue</generique>
+    <nom-voie>de la Place-Publique</nom-voie>
+    <bureau xsi:nil="true" />
+    <code-postal>H7X 1G1</code-postal>
+    <nombre-poste-internet-bureautique>6</nombre-poste-internet-bureautique>
+    <nombre-poste-ado>3</nombre-poste-ado>
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.7</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>4</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>3</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu>MB</lieu>
+    <nom-bibliotheque>Marius-Barbeau</nom-bibliotheque>
+    <no-civique>1245</no-civique>
+    <generique>Montée</generique>
+    <nom-voie>du Moulin</nom-voie>
+    <bureau>100</bureau>
+    <code-postal>H7A 3V6</code-postal>
+    <nombre-poste-internet-bureautique>6</nombre-poste-internet-bureautique>
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel>Windows 7\, Suite Microsoft Office 2013\, OpenOffice 4.1\, Internet Explorer\, Chrome\, Firefox\, Gimp</info-logiciel>
+    <info-materiel>Écran 21 pouces\, lecteur CD/DVD\, 2 X port USB 3.8</info-materiel>
+    <tarif-impression-noir>0\,10 ¢/page</tarif-impression-noir>
+    <tarif-impression-couleur>0\,25 ¢/page</tarif-impression-couleur>
+    <tarif-photocopie-noir>0\,10 ¢/page</tarif-photocopie-noir>
+    <tarif-photocopie-couleur>s.o. pour le moment</tarif-photocopie-couleur>
+    <tarif-numerisation>Gratuit</tarif-numerisation>
+    <nombre-poste-catalogue>3</nombre-poste-catalogue>
+    <nombre-borne-libre-service-pret>2</nombre-borne-libre-service-pret>
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu xsi:nil="true" />
+    <nom-bibliotheque xsi:nil="true" />
+    <no-civique xsi:nil="true" />
+    <generique xsi:nil="true" />
+    <nom-voie xsi:nil="true" />
+    <bureau xsi:nil="true" />
+    <code-postal xsi:nil="true" />
+    <nombre-poste-internet-bureautique xsi:nil="true" />
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel xsi:nil="true" />
+    <info-materiel xsi:nil="true" />
+    <tarif-impression-noir xsi:nil="true" />
+    <tarif-impression-couleur xsi:nil="true" />
+    <tarif-photocopie-noir xsi:nil="true" />
+    <tarif-photocopie-couleur xsi:nil="true" />
+    <tarif-numerisation xsi:nil="true" />
+    <nombre-poste-catalogue xsi:nil="true" />
+    <nombre-borne-libre-service-pret xsi:nil="true" />
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu xsi:nil="true" />
+    <nom-bibliotheque xsi:nil="true" />
+    <no-civique xsi:nil="true" />
+    <generique xsi:nil="true" />
+    <nom-voie xsi:nil="true" />
+    <bureau xsi:nil="true" />
+    <code-postal xsi:nil="true" />
+    <nombre-poste-internet-bureautique xsi:nil="true" />
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel xsi:nil="true" />
+    <info-materiel xsi:nil="true" />
+    <tarif-impression-noir xsi:nil="true" />
+    <tarif-impression-couleur xsi:nil="true" />
+    <tarif-photocopie-noir xsi:nil="true" />
+    <tarif-photocopie-couleur xsi:nil="true" />
+    <tarif-numerisation xsi:nil="true" />
+    <nombre-poste-catalogue xsi:nil="true" />
+    <nombre-borne-libre-service-pret xsi:nil="true" />
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu xsi:nil="true" />
+    <nom-bibliotheque xsi:nil="true" />
+    <no-civique xsi:nil="true" />
+    <generique xsi:nil="true" />
+    <nom-voie xsi:nil="true" />
+    <bureau xsi:nil="true" />
+    <code-postal xsi:nil="true" />
+    <nombre-poste-internet-bureautique xsi:nil="true" />
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel xsi:nil="true" />
+    <info-materiel xsi:nil="true" />
+    <tarif-impression-noir xsi:nil="true" />
+    <tarif-impression-couleur xsi:nil="true" />
+    <tarif-photocopie-noir xsi:nil="true" />
+    <tarif-photocopie-couleur xsi:nil="true" />
+    <tarif-numerisation xsi:nil="true" />
+    <nombre-poste-catalogue xsi:nil="true" />
+    <nombre-borne-libre-service-pret xsi:nil="true" />
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu xsi:nil="true" />
+    <nom-bibliotheque xsi:nil="true" />
+    <no-civique xsi:nil="true" />
+    <generique xsi:nil="true" />
+    <nom-voie xsi:nil="true" />
+    <bureau xsi:nil="true" />
+    <code-postal xsi:nil="true" />
+    <nombre-poste-internet-bureautique xsi:nil="true" />
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel xsi:nil="true" />
+    <info-materiel xsi:nil="true" />
+    <tarif-impression-noir xsi:nil="true" />
+    <tarif-impression-couleur xsi:nil="true" />
+    <tarif-photocopie-noir xsi:nil="true" />
+    <tarif-photocopie-couleur xsi:nil="true" />
+    <tarif-numerisation xsi:nil="true" />
+    <nombre-poste-catalogue xsi:nil="true" />
+    <nombre-borne-libre-service-pret xsi:nil="true" />
+  </ServiceTechnologiqueBibliotheque>
+  <ServiceTechnologiqueBibliotheque>
+    <lieu xsi:nil="true" />
+    <nom-bibliotheque xsi:nil="true" />
+    <no-civique xsi:nil="true" />
+    <generique xsi:nil="true" />
+    <nom-voie xsi:nil="true" />
+    <bureau xsi:nil="true" />
+    <code-postal xsi:nil="true" />
+    <nombre-poste-internet-bureautique xsi:nil="true" />
+    <nombre-poste-ado xsi:nil="true" />
+    <info-logiciel xsi:nil="true" />
+    <info-materiel xsi:nil="true" />
+    <tarif-impression-noir xsi:nil="true" />
+    <tarif-impression-couleur xsi:nil="true" />
+    <tarif-photocopie-noir xsi:nil="true" />
+    <tarif-photocopie-couleur xsi:nil="true" />
+    <tarif-numerisation xsi:nil="true" />
+    <nombre-poste-catalogue xsi:nil="true" />
+    <nombre-borne-libre-service-pret xsi:nil="true" />
+  </ServiceTechnologiqueBibliotheque>
+</ListeServicesTechnologiquesBibliotheque>
