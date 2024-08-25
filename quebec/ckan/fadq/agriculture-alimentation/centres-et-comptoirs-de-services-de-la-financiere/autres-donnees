@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr-CA">
+<head><meta http-equiv="X-UA-Compatible" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/fileadmin/templates/images/quebec.ico" type="image/vnd.microsoft.icon">
+<title>La Financière agricole du Québec: Autres données</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="description" content="Voici d'autres données de La Financière agricole en format fichiers de formes (Shapefiles)." />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sanchez:400,400i|Roboto:400,400i,700,700i&amp;display=swap" media="all">
+<link rel="stylesheet" href="/fileadmin/templates/css/piv.css?1692797257" media="screen">
+<link rel="stylesheet" href="/fileadmin/templates/css/styles.css?1721845166" media="screen">
+<link rel="stylesheet" href="/fileadmin/templates/font-awesome/css/font-awesome.min.css?1501767510" media="all">
+<link rel="stylesheet" href="/fileadmin/templates/css/styles-impression.css?1674674480" media="print">
+<link rel="stylesheet" href="/fileadmin/templates/css/magnific-popup.css?1521576551" media="all">
+
+
+
+
+
+
+<meta name="google-site-verification" content="Mh4hvUDW8jpmXKFXhhV9rmHbXjUnd1rjbVlhNHzWfW8" /><!-- Matomo -->
+<script type="text/javascript">
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+  var u="https://stats.fadq.qc.ca/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', '15']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- End Matomo Code -->
+<link rel="canonical" href="https://www.fadq.qc.ca/documents/donnees/autres-donnees"/>
+
+<link rel="alternate" hreflang="fr-CA" href="https://www.fadq.qc.ca/documents/donnees/autres-donnees"/>
+<link rel="alternate" hreflang="en-US" href="https://www.fadq.qc.ca/en/documents/data/other-data"/>
+<link rel="alternate" hreflang="x-default" href="https://www.fadq.qc.ca/documents/donnees/autres-donnees"/>
+</head>
+<body>
+
+
+
+
+
+
+
+
+<div class="piv--blanc new">
+  <div class="contenu-fixe">
+    <a href="#contenu" class="visuallyHidden passer-au-contenu" tabindex="1">Passer au contenu</a>
+    <div class="lignepiv" id="entetePiv">
+      <div class="identificationpiv">
+        <a href="https://www.quebec.ca/"><img id="pivImage" alt="Logo du gouvernement du Québec. Accéder à Québec.ca" src="/fileadmin/templates/images/quebec-couleur.svg" width="197" height="71"></a>
+        <div class="identite bureau">
+          <a href="/accueil">La Financière agricole <br>du Québec</a>
+        </div>
+      </div>
+      <div class="menupiv">
+        <ul>
+          
+              <li>
+                <a class="insecable" href="/pour-nous-joindre">
+                  Nous joindre
+            	</a>
+              </li>
+            
+          <li>
+            
+                <a href="/en/documents/data/other-data" hreflang="en" lang="en">English</a>
+              
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="identite mobile">La Financière agricole du Québec</div>
+  </div>
+</div>
+<div id="contenant">
+  
+      <a href="#" id="retour-en-haut" title="Retour en haut de la page" aria-label="Retour en haut de la page"><i class="fa fa-arrow-up fa-lg"></i></a>
+    
+  
+
+
+
+
+
+
+  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+<!-- Fond gris pour fenêtre modale -->
+<div class="modal-bg" id="3"></div>
+
+<!-- Message important - page d'accueil -->
+
+
+
+
+<!-- Bloc image - Début -->
+<div id="bloc-image" class="image-centre-documentation">
+<!-- Bloc image - Fin -->
+
+
+    <!-- Barre d'éléments - Début -->
+    <div id="barre-elements">       
+    <!-- Menu mobile - Début -->
+      <button class="navigation-mobile" aria-label="Afficher la navigation"><i class="fa fa-bars fa-2x" aria-hidden="true"></i></button>
+      <div id="menu-mobile">
+        <ul><li><button class="fermer-menu-mobile" aria-label="Fermer le menu"><i class="fa fa-arrow-left fa-lg"></i></button></li><li><a href="/accueil">Accueil</a></li><li><button class="afficher-cacher">Assurances et protection du revenu <i class="fa fa-angle-down fa-lg"></i></button><ul class="cacher sous-menu-mobile"><li><a href="/assurance-stabilisation/description">Assurance stabilisation (ASRA)</a></li><li><a href="/assurance-recolte/description">Assurance récolte (ASREC)</a></li><li><a href="/agri-stabilite/description">Agri-stabilité</a></li><li><a href="/agri-quebec-plus/description">Agri-Québec Plus</a></li><li><a href="/agri-investissement/description">Agri-investissement</a></li><li><a href="/agri-quebec/description">Agri-Québec</a></li><li><a href="/fonds-durgence-relatif-a-la-diarrhee-epidemique-porcine-au-delta-coronavirus-porcin-et-au-senecavirus-a-au-quebec/description">Fonds d'urgence relatif à la Diarrhée épidémique porcine, au Delta coronavirus porcin et au Senecavirus A au Québec</a></li><li><a href="/sauvagine/description">Sauvagine</a></li><li><a href="/soutien-aux-eleveurs-pour-leradication-de-la-maladie-debilitante-chronique-des-cervides/description">Soutien aux éleveurs pour l’éradication de la maladie débilitante chronique des cervidés</a></li><li><a href="/appui-au-secteur-pomicole-visant-lamelioration-de-la-profitabilite-et-des-pratiques-agroenvironnementales">Appui au secteur pomicole visant l'amélioration de la profitabilité et des pratiques agroenvironnementales</a></li><li><a href="/appui-financier-relatif-a-la-prevention-et-preparation-a-la-peste-porcine-africaine">Appui financier relatif à la prévention et préparation à la peste porcine africaine</a></li><li><a href="/initiative-ministerielle-de-retribution-des-pratiques-agroenvironnementales/description">Initiative ministérielle de rétribution des pratiques agroenvironnementales (RPA)</a></li><li><a href="/programme-de-soutien-aux-entreprises-apicoles">Programme de soutien aux entreprises apicoles</a></li><li><a href="/aide-pour-des-portraits-technico-economiques/description">Aide pour des portraits technico-économiques</a></li></ul></li><li><button class="afficher-cacher">Filiale <i class="fa fa-angle-down fa-lg"></i></button><ul class="cacher sous-menu-mobile"><li><a href="/capital-financiere-agricole/accueil-cfai">Capital Financière agricole</a></li></ul></li><li><button class="afficher-cacher">Financement <i class="fa fa-angle-down fa-lg"></i></button><ul class="cacher sous-menu-mobile"><li><a href="/garantie-de-pret/description">Garantie de prêt</a></li><li><a href="/appui-financier-a-la-releve-agricole/description">Appui financier à la relève agricole</a></li><li><a href="/appui-capital-releve/description">Appui Capital Relève</a></li><li><a href="/investissement-croissance/description">Investissement Croissance</a></li><li><a href="/appui-a-la-diversification-et-au-developpement-regional">Appui à la diversification et au développement régional</a></li><li><a href="/appui-au-developpement-des-entreprises-agricoles-du-quebec">Appui au développement des entreprises agricoles du Québec</a></li><li><a href="/formule-vendeur-preteur/description">Formule vendeur-prêteur</a></li><li><a href="/ouverture-de-credit/description">Ouverture de crédit</a></li><li><a href="/protection-contre-la-hausse-des-taux-dinteret/description">Protection contre la hausse des taux d'intérêt</a></li><li><a href="/marge-de-credit-a-linvestissement/description">Marge de crédit à l'investissement</a></li><li><a href="/financement-forestier/description">Financement forestier</a></li></ul></li><li><button class="afficher-cacher">Relève agricole <i class="fa fa-angle-down fa-lg"></i></button><ul class="cacher sous-menu-mobile"><li><a href="/releve-agricole">Tout pour la relève agricole</a></li><li><a href="/tout-pour-la-releve-agricole/notre-accompagnement">Notre accompagnement</a></li><li><a href="/tout-pour-la-releve-agricole/nos-solutions">Nos solutions</a></li><li><a href="/releve-agricole/concours">Concours</a></li><li><a href="/tout-pour-la-releve-agricole/vos-histoires">Vos histoires</a></li><li><a href="/tout-pour-la-releve-agricole/vos-ressources">Vos ressources</a></li></ul></li><li><button class="afficher-cacher">Références <i class="fa fa-angle-down fa-lg"></i></button><ul class="cacher sous-menu-mobile"><li><a href="/aide-psychologique">Aide psychologique</a></li><li><a href="/a-propos-de-nous/mission">À propos de nous</a></li><li><a href="/collecte-des-donnees-financieres/quest-ce-que-la-collecte-des-donnees-financieres">Collecte des données financières</a></li><li><a href="/documents/dates-importantes">Dates importantes</a></li><li><a href="/documents/agri-investissement/documents-en-vigueur">Documents</a></li><li><a href="/formulaires/clientele-agricole">Formulaires</a></li><li><a href="/regles-daffaires">Règles d'affaires</a></li><li><a href="/salle-de-presse">Salle de presse</a></li><li><a href="/statistiques/agri-investissement">Statistiques</a></li><li><a href="/webinaires">Webinaires</a></li></ul></li><li><button class="afficher-cacher">Se connecter <i class="fa fa-angle-down fa-lg"></i></button><ul class="cacher sous-menu-mobile"><li><a rel="nofollow" href="https://client.fadq.qc.ca">Accéder au dossier en ligne</a></li><li><a href="/services-en-ligne/producteurs/quest-ce-que-mon-dossier-en-ligne">Qu'est-ce que mon dossier en ligne?</a></li><li><a href="/services-en-ligne/producteurs/comment-minscrire-au-dossier-en-ligne">Comment m'inscrire au dossier en ligne?</a></li><li><a href="/services-en-ligne/producteurs/informations-supplementaires-sur-nos-services-en-ligne">Informations supplémentaires sur nos services en ligne</a></li><li><a rel="nofollow" href="https://partenaire.fadq.qc.ca">Accéder aux services en ligne pour les partenaires</a></li><li><a href="/services-en-ligne/partenaires/liste-des-services-en-ligne">Liste des services en ligne</a></li></ul></li></ul>
+      </div>
+    <!-- Menu mobile - Fin -->
+
+    <!-- Naviguer - Début -->  
+      <div id="naviguer" class="element">
+        <button class="bouton-menu">
+          Naviguer
+          <i class="fa fa-angle-down fa-lg" aria-hidden="true"></i>
+        </button>
+        <div class="sous-menu afficher-contenu cacher">
+          <div><dl><dt>Financement</dt><dd><a href="/garantie-de-pret/description">Garantie de prêt</a></dd><dd><a href="/appui-financier-a-la-releve-agricole/description">Appui financier à la relève agricole</a></dd><dd><a href="/appui-capital-releve/description">Appui Capital Relève</a></dd><dd><a href="/investissement-croissance/description">Investissement Croissance</a></dd><dd><a href="/investissement-croissance-durable/description">Investissement Croissance Durable</a></dd><dd><a href="/appui-a-la-diversification-et-au-developpement-regional">Appui à la diversification et au développement régional</a></dd><dd><a href="/appui-au-developpement-des-entreprises-agricoles-du-quebec">Appui au développement des entreprises agricoles du Québec</a></dd><dd><a href="/formule-vendeur-preteur/description">Formule vendeur-prêteur</a></dd><dd><a href="/ouverture-de-credit/description">Ouverture de crédit</a></dd><dd><a href="/protection-contre-la-hausse-des-taux-dinteret/description">Protection contre la hausse des taux d'intérêt</a></dd><dd><a href="/marge-de-credit-a-linvestissement/description">Marge de crédit à l'investissement</a></dd><dd><a href="/financement-forestier/description">Financement forestier</a></dd></dl><dl><dt>Relève agricole</dt><dd><a href="/releve-agricole">Accueil</a></dd><dd><a href="/tout-pour-la-releve-agricole/notre-accompagnement">Notre accompagnement</a></dd><dd><a href="/tout-pour-la-releve-agricole/nos-solutions">Nos solutions</a></dd><dd><a href="/releve-agricole/concours">Concours</a></dd><dd><a href="/tout-pour-la-releve-agricole/vos-histoires">Vos histoires</a></dd><dd><a href="/tout-pour-la-releve-agricole/vos-ressources">Vos ressources</a></dd></dl></div><dl><dt>Assurances et protection du revenu</dt><dd><a href="/assurance-stabilisation/description">Assurance stabilisation (ASRA)</a></dd><dd><a href="/assurance-recolte/description">Assurance récolte (ASREC)</a></dd><dd><a href="/agri-stabilite/description">Agri-stabilité</a></dd><dd><a href="/agri-investissement/description">Agri-investissement</a></dd><dd><a href="/agri-quebec/description">Agri-Québec</a></dd><dd><a href="/agri-quebec-plus/description">Agri-Québec Plus</a></dd><dd><a href="/mesure-de-remboursement-des-frais-de-preparation-des-donnees-financieres/description">Mesure de remboursement des frais de préparation des données financières</a></dd><dd><a href="/initiative-ministerielle-de-retribution-des-pratiques-agroenvironnementales/description">Initiative ministérielle de rétribution des pratiques agroenvironnementales (RPA)</a></dd><dd><a href="/aide-pour-des-portraits-technico-economiques/description">Aide pour des portraits technico-économiques</a></dd><dd><a href="/fonds-durgence-relatif-a-la-diarrhee-epidemique-porcine-au-delta-coronavirus-porcin-et-au-senecavirus-a-au-quebec/description">Fonds d'urgence relatif à la Diarrhée épidémique porcine, au Delta coronavirus porcin et au Senecavirus A au Québec</a></dd><dd><a href="/sauvagine/description">Sauvagine</a></dd><dd><a href="/soutien-aux-eleveurs-pour-leradication-de-la-maladie-debilitante-chronique-des-cervides/description">Soutien aux éleveurs pour l’éradication de la maladie débilitante chronique des cervidés</a></dd><dd><a href="/appui-au-secteur-pomicole-visant-lamelioration-de-la-profitabilite-et-des-pratiques-agroenvironnementales">Appui au secteur pomicole visant l'amélioration de la profitabilité et des pratiques agroenvironnementales</a></dd><dd><a href="/appui-financier-relatif-a-la-prevention-et-preparation-a-la-peste-porcine-africaine">Appui financier relatif à la prévention et préparation à la peste porcine africaine</a></dd><dd><a href="/programme-de-soutien-aux-entreprises-apicoles">Programme de soutien aux entreprises apicoles</a></dd></dl><div><dl><dt>Références</dt><dd><a href="/aide-psychologique">Aide psychologique</a></dd><dd><a href="/a-propos-de-nous/mission">À propos de nous</a></dd><dd><a href="/collecte-des-donnees-financieres/quest-ce-que-la-collecte-des-donnees-financieres">Collecte des données financières</a></dd><dd><a href="/documents/dates-importantes">Dates importantes</a></dd><dd><a href="/documents/agri-investissement/documents-en-vigueur">Documents</a></dd><dd><a href="/formulaires/clientele-agricole">Formulaires</a></dd><dd><a href="/regles-daffaires">Règles d'affaires</a></dd><dd><a href="/salle-de-presse">Salle de presse</a></dd><dd><a href="/statistiques/agri-investissement">Statistiques</a></dd><dd><a href="/webinaires">Webinaires</a></dd></dl><dl><dt>Filiale</dt><dd><a href="/capital-financiere-agricole/accueil-cfai">Capital Financière agricole</a></dd></dl></div>
+        </div>
+      </div>  
+    <!-- Naviguer - Fin -->
+
+
+    <!-- Trouver un centre de services - Début -->
+      <div id="trouver-centre-services" class="element">
+        <a class="lien-menu" href="/pour-nous-joindre#centre-de-services">
+          <i class="fa fa-map-marker fa-lg" aria-hidden="true"></i>&nbsp;
+          Trouver un centre de services      
+        </a>
+      </div>
+    <!-- Trouver un centre de services - Fin -->
+
+      <!-- Recherche - Début -->
+      <button class="afficher-recherche-mobile" aria-label="Afficher la recherche"><i class="fa fa-search fa-lg" aria-hidden="true"></i></button>        
+      <div id="recherche" class="element">
+        <form method="get" id="tx-solr-search-form-pi-results" action="/rechercher" accept-charset="utf-8">
+          <input type="text" maxlength="400" name="tx_solr[q]" value="" placeholder="Recherche" aria-label="Recherche">
+          <input type="hidden" name="L" value="0">
+          <button type="submit" value="Recherche" class="recherche" aria-label="Recherche"></button>
+        </form>
+      </div>
+    <!-- Recherche - Fin -->
+
+    <!-- Options d'accessibilité - Début -->   
+      <div id="options-accessibilite" class="element">
+        <button class="bouton-menu" aria-label="Options d&#039;accessibilite"><i class="fa fa-cog" aria-hidden="true"></i></button>
+        <div class="sous-menu afficher-contenu cacher">
+          <p class="sous-menu-titre">Options d&#039;accessibilite</p>
+          <p>
+            Les options suivantes peuvent améliorer votre expérience de navigation dans notre site. Sélectionnez celles qui vous conviennent.
+          </p>
+          <dl>
+          
+              <dt>Feuille de style</dt>
+              <dd><button class="contraste normal">De base</button></dd>
+              <dd><button class="contraste eleve">Contraste élevé</button></dd>
+              <dd><button class="contraste inverse">Contraste inversé</button></dd>
+            
+          </dl>
+          <p class="sous-menu-titre">Taille du texte</p>
+          <p>
+            <button class="taille-texte normal" aria-label="Taille normale">A</button><button class="taille-texte pourcent-110" aria-label="Taille moyenne">A</button><button class="taille-texte pourcent-120" aria-label="Grande taille">A</button>
+          </p>
+        </div>
+      </div>
+    <!-- Options d'accessibilité - Fin -->
+
+    <!-- Se connecter - Début -->
+      <div id="se-connecter" class="element dernier">
+        <button class="bouton-menu">
+          <i class="fa fa-user fa-lg" aria-hidden="true"></i>&nbsp;
+          Se connecter      
+        </button>
+        <div class="sous-menu afficher-contenu cacher">
+          <p class="sous-menu-titre">
+            Producteurs
+          </p>
+          <div class="affichage-table">
+            <div class="affichage-cellule valign-middle">
+              <a href="https://client.fadq.qc.ca" class="acceder" rel="nofollow" aria-label="Accéder au dossier en ligne">
+                Accéder
+              </a>
+            </div>
+            <ul class="affichage-cellule"><li><a href="/services-en-ligne/producteurs/quest-ce-que-mon-dossier-en-ligne">Qu'est-ce que mon dossier en ligne?</a></li><li><a href="/services-en-ligne/producteurs/comment-minscrire-au-dossier-en-ligne">Comment m'inscrire au dossier en ligne?</a></li><li><a href="/services-en-ligne/producteurs/comment-minscrire-au-depot-direct">Comment m'inscrire au dépôt direct</a></li><li><a href="/services-en-ligne/producteurs/comment-minscrire-au-zero-papier">Comment m'inscrire au Zéro Papier</a></li><li><a href="/services-en-ligne/producteurs/informations-supplementaires-sur-nos-services-en-ligne">Informations supplémentaires sur nos services en ligne</a></li></ul>
+          </div>
+          <p class="sous-menu-titre partenaires">
+            Partenaires
+          </p>
+          <div class="affichage-table">
+            <div class="affichage-cellule valign-middle">
+              <a href="https://partenaire.fadq.qc.ca" class="acceder" rel="nofollow" aria-label="Accéder au services en ligne">
+                Accéder
+              </a>
+            </div>
+            <ul class="affichage-cellule"><li><a href="/services-en-ligne/partenaires/liste-des-services-en-ligne">Liste des services en ligne</a></li></ul>
+          </div>
+        </div>
+      </div>
+    <!-- Se connecter - Fin -->
+
+    </div>
+  
+      
+
+    <div id="titre-section"><p>Documents</p></div>
+  
+</div>   
+  
+      <ul class="filariane"><li><a href="/accueil">Accueil</a></li><li><a href="/documents/agri-investissement/documents-en-vigueur" title="Documents">Documents</a></li><li><a href="/documents/donnees/base-de-donnees-des-parcelles-et-productions-agricoles-declarees" title="Données">Données</a></li><li>Autres données</li></ul>
+    
+  
+  <div id="contenu" class="deux-colonnes">
+    <button class="afficher-menu-section">Menu de la section&nbsp;<i class="fa fa-angle-down fa-2x"></i></button>
+    <div id="menu-gauche" class="affichage-cellule">
+      <nav>
+        <ul><li><button class="afficher-cacher majuscule">Agri-investissement&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/agri-investissement/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/agri-investissement/agri-investissement-archives-2023">Archives 2023</a></li><li><a href="/documents/agri-investissement/agri-investissement-archives-2022">Archives 2022</a></li><li><a href="/documents/agri-investissement/archives-2021">Archives 2021</a></li><li><a href="/documents/agri-investissement/archives-2020">Archives 2020</a></li></ul></li><li><button class="afficher-cacher majuscule">Agri-Québec&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/agri-quebec/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/agri-quebec/agri-quebec-archives-2023">Archives 2023</a></li><li><a href="/documents/agri-quebec/agri-quebec-archives-2022">Archives 2022</a></li><li><a href="/documents/agri-quebec/archives-2021">Archives 2021</a></li><li><a href="/documents/agri-quebec/archives-2020">Archives 2020</a></li></ul></li><li><button class="afficher-cacher majuscule">Agri-Québec Plus&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/agri-quebec-plus/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/agri-quebec-plus/agri-quebec-plus-archives-2023">Archives 2023</a></li><li><a href="/documents/agri-quebec-plus/agri-quebec-plus-archives-2022">Archives 2022</a></li><li><a href="/documents/agri-quebec-plus/archives-2021">Archives 2021</a></li><li><a href="/documents/agri-quebec-plus/archives-2020">Archives 2020</a></li></ul></li><li><button class="afficher-cacher majuscule">Agri-stabilité&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/agri-stabilite/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/agri-stabilite/agri-stabilite-archives-2023">Archives 2023</a></li><li><a href="/documents/agri-stabilite/agri-stabilite-archives-2022">Archives 2022</a></li><li><a href="/documents/agri-stabilite/archives-2021">Archives 2021</a></li><li><a href="/documents/agri-stabilite/archives-2020">Archives 2020</a></li></ul></li><li><a href="/documents/aide-pour-des-portraits-technico-economiques">Aide pour des portraits technico-économiques</a></li><li><a href="/documents/appui-au-secteur-pomicole-visant-lamelioration-de-la-profitabilite-et-des-pratiques-agroenvironnementales">Appui au secteur pomicole visant l'amélioration de la profitabilité et des pratiques agroenvironnementales</a></li><li><a href="/documents/appui-financier-relatif-a-la-prevention-et-preparation-a-la-peste-porcine-africaine">Appui financier relatif à la prévention et préparation à la peste porcine africaine</a></li><li><a href="/documents/appui-financier-a-la-releve-agricole">Appui financier à la relève agricole</a></li><li><button class="afficher-cacher majuscule">Assurance stabilisation&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/assurance-stabilisation/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/assurance-stabilisation/archives-2023">Archives 2023</a></li><li><a href="/documents/assurance-stabilisation/archives-2022">Archives 2022</a></li><li><a href="/documents/assurance-stabilisation/archives-2021">Archives 2021</a></li><li><a href="/documents/assurance-stabilisation/archives-2020">Archives 2020</a></li></ul></li><li><button class="afficher-cacher majuscule">Assurance récolte&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/assurance-recolte/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/assurance-recolte/assurance-recolte-archives-2023">Archives 2023</a></li><li><a href="/documents/assurance-recolte/archives-2022">Archives 2022</a></li><li><a href="/documents/assurance-recolte/archives-2021">Archives 2021</a></li><li><a href="/documents/assurance-recolte/archives-2020">Archives 2020</a></li></ul></li><li><button class="afficher-cacher majuscule">Cartes thématiques&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/cartes-thematiques/cartes-provinciales">Cartes provinciales</a></li><li><a href="/documents/cartes-thematiques/cartes-regionales">Cartes régionales</a></li></ul></li><li><button class="afficher-cacher majuscule">Collecte des données financières&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/collecte-des-donnees-financieres/trousse-de-travail">Trousse de travail</a></li><li><a href="/documents/collecte-des-donnees-financieres/formations">Formations</a></li></ul></li><li><a href="/documents/dates-importantes">Dates importantes</a></li><li><button class="afficher-cacher menu-gauche-lien-actif majuscule">Données&nbsp;<i class="fa fa-angle-up"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/donnees/base-de-donnees-des-parcelles-et-productions-agricoles-declarees">Base de données des parcelles et productions agricoles déclarées</a></li><li><a href="/documents/donnees/autres-donnees" class="menu-gauche-lien-actif">Autres données</a></li></ul></li><li><a href="/documents/financement-forestier">Financement forestier</a></li><li><a href="/documents/fonds-durgence-pour-les-mesures-de-soutien-a-la-ferme">Fonds d’urgence pour les mesures de soutien à la ferme</a></li><li><a href="/documents/fonds-durgence-relatif-a-la-diarrhee-epidemique-porcine-au-delta-coronavirus-porcin-et-au-senecavirus-a-au-quebec">Fonds d'urgence relatif à la Diarrhée épidémique porcine, au Delta coronavirus porcin et au Senecavirus A au Québec</a></li><li><a href="/documents/garantie-de-pret">Garantie de prêt</a></li><li><a href="/documents/guides-operationnels">Guides opérationnels</a></li><li><a href="/documents/initiative-ministerielle-de-retribution-des-pratiques-agroenvironnementales">Initiative ministérielle de rétribution des pratiques agroenvironnementales</a></li><li><a href="/documents/investissement-croissance">Investissement Croissance</a></li><li><a href="/documents/investissement-croissance-durable">Investissement Croissance Durable</a></li><li><a href="/documents/mesure-de-remboursement-des-frais-de-preparation-des-donnees-financieres">Mesure de remboursement des frais de préparation des données financières</a></li><li><button class="afficher-cacher majuscule">Modèles d'actes&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/modeles-dactes/institutions-financieres">Institutions financières</a></li><li><a href="/documents/modeles-dactes/notaires">Notaires</a></li></ul></li><li><button class="afficher-cacher majuscule">Normes et procédures&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/normes-et-procedures/agri-investissement-et-agri-quebec">Agri-investissement et Agri-Québec</a></li><li><a href="/documents/normes-et-procedures/agri-stabilite-et-agri-quebec-plus">Agri-stabilité et Agri-Québec Plus</a></li><li><a href="/documents/normes-et-procedures/assurance-recolte">Assurance récolte</a></li><li><a href="/documents/normes-et-procedures/assurance-stabilisation">Assurance stabilisation</a></li><li><a href="/documents/normes-et-procedures/autres-procedures">Autres procédures</a></li></ul></li><li><a href="/documents/ouverture-de-credit">Ouverture de crédit</a></li><li><a href="/documents/plan-strategique">Plan stratégique</a></li><li><a href="/documents/plans-daction">Plans d'action</a></li><li><a href="/documents/politiques-et-directives">Politiques et directives</a></li><li><a href="/documents/protection-contre-la-hausse-des-taux-dinteret">Protection contre la hausse des taux d'intérêt</a></li><li><a href="/documents/rapports-annuels">Rapports annuels</a></li><li><button class="afficher-cacher majuscule">Sauvagine&nbsp;<i class="fa fa-angle-down"></i></button><ul class="sous-menu-section cacher"><li><a href="/documents/sauvagine/documents-en-vigueur">Documents en vigueur</a></li><li><a href="/documents/sauvagine/archives-2022">Archives 2022</a></li><li><a href="/documents/sauvagine/archives-2021">Archives 2021</a></li></ul></li><li><a href="/documents/soutien-aux-eleveurs-pour-leradication-de-la-maladie-debilitante-chronique-des-cervides">Soutien aux éleveurs pour l'éradication de la maladie débilitante chronique des cervidés</a></li><li><a href="/documents/soutien-aux-entreprises-apicoles">Soutien aux entreprises apicoles</a></li><li><a href="/documents/soutien-aux-producteurs-de-mais-grain-pour-attenuer-limpact-de-la-hausse-du-prix-du-propane-au-quebec-en-2019">Soutien aux producteurs de maïs-grain pour atténuer l’impact de la hausse du prix du propane au Québec en 2019</a></li></ul>
+      </nav>
+    </div>
+    <div id="contenu-principal" class="affichage-cellule">
+      <!--TYPO3SEARCH_begin-->
+      <section>
+        <h1>Autres données</h1>
+        
+        
+                   
+                
+  <div id="c1078" class="frame frame-default frame-type-text frame-layout-0"><p>Il est possible de télécharger gratuitement certains jeux de données de La&nbsp;Financière agricole en format fichiers de formes (Shapefiles).</p><ul class="ul-sans-indentation"><li><a href="https://www.donneesquebec.ca/fr/licence/" target="_blank" class="lien-externe" rel="noreferrer">Licence sur l'utilisation des données ouvertes</a></li></ul></div>
+
+  <div id="c1079" class="frame frame-default frame-type-uploads frame-layout-0"><table class="documents"><caption>Téléchargement</caption><thead><tr><th>
+                  Nom du document
+                </th><th class="entete-date">Version</th><th class="entete-format">Format</th></tr></thead><tbody><tr><td><a href="/fileadmin/geo4tb/CCS/ccs_FADQ_p_240702.zip"  title="Centres et comptoirs de services de La Financière agricole">
+                      Centres et comptoirs de services de La Financière agricole
+                    </a></td><td>
+                    
+                      août 2024
+                    
+                  </td><td>ZIP&nbsp;2 Ko</td></tr><tr><td><a href="/fileadmin/geo4tb/ZCOL_CMF/ZCOL1_s_221207.zip"  title="Zonage système collectif céréales et maïs fourrager">
+                      Zonage système collectif céréales et maïs fourrager
+                    </a></td><td>
+                    
+                      février 2023
+                    
+                  </td><td>ZIP&nbsp;3 Mo</td></tr><tr><td><a href="/fileadmin/geo4tb/ZCOL_MG/ZCOL2_s_221207.zip"  title="Zonage système collectif maïs-grain">
+                      Zonage système collectif maïs-grain
+                    </a></td><td>
+                    
+                      février 2023
+                    
+                  </td><td>ZIP&nbsp;766 Ko</td></tr></tbody></table></div>
+
+                 
+              
+      </section>
+      <!--TYPO3SEARCH_end--> 
+    
+    
+          <div class="form-contact-block">
+    <h2 class="form-contact-header">Aidez-nous à améliorer notre site Web</h2>
+    <form class="form-contact">
+      <fieldset>
+        <legend>Cette page vous a-t-elle été utile?</legend>
+        <ul class="form-contact-input-list fcil-inline">
+          <li>
+            <input class="form-contact-q1" type="radio" id="q1rep1" name="q4732" value="AO01">
+            <label for="q1rep1">Oui</label>
+          </li>
+          <li>
+            <input class="form-contact-q1" type="radio" id="q1rep2" name="q4732" value="AO02">
+            <label for="q1rep2">Non</label>
+          </li>
+        </ul>
+        <span id="errq4732" class="texte-erreur-formulaire"></span>
+      </fieldset>
+      <div class="form-contact-cacher">
+        <fieldset>
+          <legend>L'information est-elle facile à comprendre?</legend>
+          <ul class="form-contact-input-list fcil-inline">
+            <li>
+              <input type="radio" id="q2rep1" name="q5096" value="AO01">
+              <label for="q2rep1">Oui</label>
+            </li>
+            <li>
+              <input type="radio" id="q2rep2" name="q5096" value="AO02">
+              <label for="q2rep2">Non</label>
+            </li>
+          </ul>
+          <span id="errq4732" class="texte-erreur-formulaire"></span>
+        </fieldset>
+        <div>
+          <label for="repq4733" class="sdg-label">
+            Quels sont vos commentaires?
+            <span class="form-contact-label-info">N’inscrivez aucun renseignement personnel. Vous ne recevrez aucune réponse.</span>
+          </label>
+          <textarea id="repq4733" name="q4733" rows="3" cols="50"></textarea>
+        </div>
+        <div>
+          <label for="repq4734" class="sdg-label">Quel est votre profil?</label>
+          <select id="repq4734" name="q4734" class="sdg-select">
+            <option selected disabled>Choisir</option>
+            <option value="SQ00">Producteur(-trice) agricole</option>
+            <option value="SQ01">Producteur(-trice) agricole de la relève (40 ans et moins)</option>
+            <option value="SQ02">Futur(e) producteur(-trice) agricole</option>
+            <option value="SQ03">Préparateur(-trice) de données financières</option>
+            <option value="SQ04">Partenaire</option>
+            <option value="SQ05">Autre</option>
+            <optgroup label=""></optgroup>
+          </select>
+          <span id="errq4734" class="texte-erreur-formulaire"></span>
+        </div>
+        <input type="hidden" id="lsqi" name="lsqi" value="345957">
+        <input type="hidden" id="lsqi" name="lsgi" value="511">
+        <input type="hidden" id="repq4833" name="q4833" value="/documents/donnees/autres-donnees">
+        <button class="form-contact-send">Envoyer ma réponse</button>
+      </div>
+    </form>
+  </div>
+      
+      
+    </div>
+  </div>
+
+</div>
+
+
+
+
+<footer>
+  <div id="bande">
+    <div  id="bande-contenu">
+      <div class="affichage-table largeur-table trois-colonnes">
+        <div class="affichage-cellule largeur-cellule">
+          <h2>Suivez-nous</h2>
+          <nav>
+            <ul id="suivez-nous">
+              <li><a target="_blank" href="https://www.facebook.com/LaFADQ" aria-label="Facebook de La Financière agricole du Québec, ce lien s'ouvre dans un nouvel onglet"><i class="fa fa-facebook fa-lg"></i></a></li>
+              <li><a target="_blank" href="https://twitter.com/fadq_com" aria-label="X de La Financière agricole du Québec, ce lien s'ouvre dans un nouvel onglet"><img class="logo-x" alt="Logo X" src="/fileadmin/templates/images/logo-x.svg" width="16" height="16"></a></li>
+              <li><a aria-label="RSS de La Financière agricole du Québec" class="lien-menu" href="/fils-rss"><i class="fa fa-rss fa-lg"></i></a></li>
+              <li><a target="_blank" href="https://www.youtube.com/user/FinanciereAgricole" aria-label="YouTube de La Financière agricole du Québec, ce lien s'ouvre dans un nouvel onglet"><i class="fa fa-youtube-play fa-lg"></i></a></li>
+              <li><a target="_blank" href="https://www.instagram.com/lafadq/" aria-label="Instagram de La Financière agricole du Québec, ce lien s'ouvre dans un nouvel onglet"><i class="fa fa-instagram fa-lg"></i></a></li>
+              <li><a target="_blank" href="https://fr.linkedin.com/company/la-financiere-agricole-du-quebec" aria-label="Linkedin de La Financière agricole du Québec, ce lien s'ouvre dans un nouvel onglet"><i class="fa fa-linkedin-square fa-lg"></i></a></li>
+              <li class="page-sdp"><a href="/salle-de-presse">Salle de presse</a></li>
+              <li class="page-videos"><a href="/salle-de-presse/videos">Vidéos</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div id="nous-joindre" class="affichage-cellule largeur-cellule">
+          <h2>
+            
+                Nous joindre
+              
+          </h2>
+          <a class="trouvez-centre-services-footer" href="/pour-nous-joindre#centre-de-services">
+            Trouver un centre de services      
+          </a>
+          <p>1400, boulevard Guillaume-Couture<br />Lévis (Québec), Canada G6W 8K7</p>
+          <p>Téléphone : 1 800 749-3646<br />Télécopieur : 418 833-3871</p>
+        </div>
+        <div id="references" class="affichage-cellule">
+          <h2>Centre de documentation</h2>
+          <nav>
+            <ul><li><a href="/documents/agri-investissement/documents-en-vigueur">Documents</a></li><li><a href="/formulaires/clientele-agricole">Formulaires</a></li><li><a href="/statistiques/agri-investissement">Statistiques</a></li><li><a href="/webinaires">Webinaires</a></li></ul>
+          </nav>
+          <h2><a href="/aide-psychologique">Aide psychologique</a></h2>
+          <h2><a id="carfoot" href="/a-propos-de-nous/carrieres">Carrières</a></h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="piv-bas">
+
+    
+
+    <ul class="liste-sans-puce">
+      <li><a href="/a-propos-de-nous/acces-a-linformation/acces-aux-documents-des-organismes-publics">Accès à l'information</a></li>
+      <li><a href="/politiques-et-conditions-dutilisation/accessibilite">Accessibilité</a></li>
+      
+      		<li><a href="/a-propos-de-nous/mission">À propos de nous</a></li>
+      		<li><a href="/plan-du-site">Plan du site</a></li>
+        
+      <li><a href="/politiques-et-conditions-dutilisation/a-propos">Politiques et conditions d'utilisation</a></li>
+    </ul>
+    <a href="/accueil"><img class="logofadq" src="/fileadmin/templates/images/fadqlogo.svg" width="130" height="40" alt="La Financière agricole du Québec" /></a>
+    <p>© Gouvernement du Québec, 2023</p>
+  </div>
+  
+</footer>
+
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1716918659" defer="defer"></script>
+<script src="/fileadmin/templates/js/jquery-3.7.1.min.js?1719348209"></script>
+<script src="/fileadmin/templates/js/general.js?1721846448"></script>
+<script src="/fileadmin/templates/js/menus.js?1650648219"></script>
+<script src="/fileadmin/templates/js/responsive.js?1506091797"></script>
+<script src="/fileadmin/templates/js/magnific-popup.js?1501767510"></script>
+<script src="/fileadmin/templates/js/magnific-popup-config.js?1570037752"></script>
+<script src="/fileadmin/templates/js/sdgfm.js?1716402773"></script>
+
+
+</body>
+</html>
