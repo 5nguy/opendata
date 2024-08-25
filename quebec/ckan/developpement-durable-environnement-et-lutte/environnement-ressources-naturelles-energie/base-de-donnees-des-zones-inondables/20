@@ -1,0 +1,147 @@
+<html lang="en">
+
+<head>
+<title>Layer: Base de donn&eacute;es sur les zones inondables - BDZI (ID: 20)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+<table width="100%" class="userTable">
+ <tr>
+ <td class="titlecell">
+ ArcGIS REST Services Directory
+ </td>
+ <td align="right">
+   
+        Logged in user : Invite | 
+        </td>
+ </tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+
+  &gt; <a href="/donnees/rest/services">services</a>
+  
+  &gt; <a href="/donnees/rest/services/Public">Public</a>
+  
+  &gt; <a href="/donnees/rest/services/Public/Themes_publics/MapServer">Themes_publics (MapServer)</a>
+  
+  &gt; <a href="/donnees/rest/services/Public/Themes_publics/MapServer/20">Base de donn&eacute;es sur les zones inondables - BDZI</a>
+  </td>
+<td align="right">
+<a href="https://www.servicesgeo.enviroweb.gouv.qc.ca/donnees/sdk/rest/02ss/02ss00000057000000.htm" target="_blank">Help</a> | <a href="https://www.servicesgeo.enviroweb.gouv.qc.ca/donnees/rest/services/Public/Themes_publics/MapServer/20?f=help" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+  <tr>
+  <td class="apiref">
+  <a href="?f=pjson" target="_blank">JSON</a>
+    </td>
+  </tr>
+  </table>
+  <h2>Layer: Base de donn&eacute;es sur les zones inondables - BDZI (ID: 20)</h2>
+
+<div class="rbody">
+
+<b>Parent Layer:</b>
+	<a href="/donnees/rest/services/Public/Themes_publics/MapServer/41">Eau</a>
+	<br/><br/>
+<b>Sub Layers:</b>
+ 	<ul>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/42">Limites des plaines inondables</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/22">Polygones de zones inondables</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/71">Localisation des &eacute;tudes de zones inondables</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/70">Limites des feuillets cartographiques des zones inondables</a></li>
+</ul>
+<b>Name:</b> Base de donn&eacute;es sur les zones inondables - BDZI<br/><br/>
+
+<b>Display Field:</b> <br/><br/>
+
+<b>Type: </b> Group Layer<br/><br/>
+
+<b>Geometry Type:</b> null<br/><br/>
+
+<b>Description: </b> Base de donn&eacute;es sur les zones inondables - BDZI.<br/><br/>
+
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec<br/><br/>
+
+<b>Default Visibility: true</b> <br/><br/>
+<b>MaxRecordCount: </b> 0<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Advanced Queries: </b> false<br/><br/>
+<b>Supports Statistics: </b> false<br/><br/>
+<b>Has Labels: </b> false<br/><br/>
+<b>Can Modify Layer: </b> false<br/><br/>
+<b>Can Scale Symbols: </b> false<br/><br/>
+<b>Use Standardized Queries: </b> true<br/><br/>
+<b>Extent:</b>
+<ul>
+
+
+XMin: -8851795.4444<br/>
+YMin: 5620161.6285<br/>
+XMax: -7157914.378799999<br/>
+YMax: 6470501.978500001<br/>
+
+	Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+	</ul>
+<br/>
+
+<b>Drawing Info: </b>
+<ul>
+N/A</ul>
+
+
+<b>Advanced Query Capabilities: </b>
+<ul>
+  
+
+Supports Statistics: false<br/>
+Supports OrderBy: false<br/>
+Supports Distinct: false<br/>
+Supports Pagination: false<br/>
+Supports TrueCurve: false<br/>
+Supports Returning Query Extent: true<br/>
+Supports Query With Distance: true<br/>
+Supports Sql Expression: false<br/>
+Supports Query With ResultType: false<br/>
+Supports Returning Geometry Centroid: false<br/>
+</ul>
+
+<br/>
+<b>HasZ: false</b><br/><br/>
+<b>HasM: false</b> <br/><br/>
+
+<b>Has Attachments: </b> false<br/><br/>
+
+<b>HTML Popup Type: </b> esriServerHTMLPopupTypeNone<br/><br/>
+
+<b>Type ID Field: </b> null<br/><br/>
+
+<b>Fields: </b>
+<i>None</i><br/><br/>
+  <br/>
+
+<b>Supported Operations</b>:
+
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20/query">Query</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20/queryAttachments">Query Attachments</a>
+
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20/generateRenderer">Generate Renderer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20?f=pjson&returnUpdates=true&">Return Updates</a><br/><br/>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20/iteminfo">Iteminfo</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20/thumbnail">Thumbnail</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/20/metadata">Metadata</a></div>
+
+<br/><br/>
+
+</body>
+
+</html>

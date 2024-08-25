@@ -1,0 +1,148 @@
+<html lang="en">
+
+<head>
+<title>Layer: Cadre &eacute;cologique de r&eacute;f&eacute;rence (ID: 89)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+<table width="100%" class="userTable">
+ <tr>
+ <td class="titlecell">
+ ArcGIS REST Services Directory
+ </td>
+ <td align="right">
+   
+        Logged in user : Invite | 
+        </td>
+ </tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+
+  &gt; <a href="/donnees/rest/services">services</a>
+  
+  &gt; <a href="/donnees/rest/services/Public">Public</a>
+  
+  &gt; <a href="/donnees/rest/services/Public/Themes_publics/MapServer">Themes_publics (MapServer)</a>
+  
+  &gt; <a href="/donnees/rest/services/Public/Themes_publics/MapServer/89">Cadre &eacute;cologique de r&eacute;f&eacute;rence</a>
+  </td>
+<td align="right">
+<a href="https://www.servicesgeo.enviroweb.gouv.qc.ca/donnees/sdk/rest/02ss/02ss00000057000000.htm" target="_blank">Help</a> | <a href="https://www.servicesgeo.enviroweb.gouv.qc.ca/donnees/rest/services/Public/Themes_publics/MapServer/89?f=help" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+  <tr>
+  <td class="apiref">
+  <a href="?f=pjson" target="_blank">JSON</a>
+    </td>
+  </tr>
+  </table>
+  <h2>Layer: Cadre &eacute;cologique de r&eacute;f&eacute;rence (ID: 89)</h2>
+
+<div class="rbody">
+
+<b>Parent Layer:</b>
+	<a href="/donnees/rest/services/Public/Themes_publics/MapServer/74">Milieu naturel et biodiversit&eacute;</a>
+	<br/><br/>
+<b>Sub Layers:</b>
+ 	<ul>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/90">Niveau 1 - Provinces naturelles</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/91">Niveau 2 - R&eacute;gions naturelles</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/92">Niveau 3 - Ensembles physiographiques</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/93">Niveau 4 - Districts &eacute;cologiques</a></li>
+<li><a href="/donnees/rest/services/Public/Themes_publics/MapServer/94">Niveau 5 - Ensembles topographiques</a></li>
+</ul>
+<b>Name:</b> Cadre &eacute;cologique de r&eacute;f&eacute;rence<br/><br/>
+
+<b>Display Field:</b> <br/><br/>
+
+<b>Type: </b> Group Layer<br/><br/>
+
+<b>Geometry Type:</b> null<br/><br/>
+
+<b>Description: </b> Cartographie des quatre niveaux de perception du cadre &eacute;cologique de r&eacute;f&eacute;rence terrestre, &agrave; l'int&eacute;rieur de la limite administrative provinciale qu&eacute;b&eacute;coise.<br/><br/>
+
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec, Minist&egrave;re de l'Environnement et de la Lutte contre les changements climatiques<br/><br/>
+
+<b>Default Visibility: false</b> <br/><br/>
+<b>MaxRecordCount: </b> 0<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Advanced Queries: </b> false<br/><br/>
+<b>Supports Statistics: </b> false<br/><br/>
+<b>Has Labels: </b> false<br/><br/>
+<b>Can Modify Layer: </b> false<br/><br/>
+<b>Can Scale Symbols: </b> false<br/><br/>
+<b>Use Standardized Queries: </b> true<br/><br/>
+<b>Extent:</b>
+<ul>
+
+
+XMin: -8879435.284<br/>
+YMin: 5620161.134900004<br/>
+XMax: -6337967.0671<br/>
+YMax: 8998594.8948<br/>
+
+	Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+	</ul>
+<br/>
+
+<b>Drawing Info: </b>
+<ul>
+N/A</ul>
+
+
+<b>Advanced Query Capabilities: </b>
+<ul>
+  
+
+Supports Statistics: false<br/>
+Supports OrderBy: false<br/>
+Supports Distinct: false<br/>
+Supports Pagination: false<br/>
+Supports TrueCurve: false<br/>
+Supports Returning Query Extent: true<br/>
+Supports Query With Distance: true<br/>
+Supports Sql Expression: false<br/>
+Supports Query With ResultType: false<br/>
+Supports Returning Geometry Centroid: false<br/>
+</ul>
+
+<br/>
+<b>HasZ: false</b><br/><br/>
+<b>HasM: false</b> <br/><br/>
+
+<b>Has Attachments: </b> false<br/><br/>
+
+<b>HTML Popup Type: </b> esriServerHTMLPopupTypeNone<br/><br/>
+
+<b>Type ID Field: </b> null<br/><br/>
+
+<b>Fields: </b>
+<i>None</i><br/><br/>
+  <br/>
+
+<b>Supported Operations</b>:
+
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89/query">Query</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89/queryAttachments">Query Attachments</a>
+
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89/generateRenderer">Generate Renderer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89?f=pjson&returnUpdates=true&">Return Updates</a><br/><br/>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89/iteminfo">Iteminfo</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89/thumbnail">Thumbnail</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/89/metadata">Metadata</a></div>
+
+<br/><br/>
+
+</body>
+
+</html>

@@ -1,0 +1,379 @@
+<html lang="en">
+
+<head>
+<title>Layer: Puits et forages - SIH (ID: 78)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+<table width="100%" class="userTable">
+ <tr>
+ <td class="titlecell">
+ ArcGIS REST Services Directory
+ </td>
+ <td align="right">
+   
+        Logged in user : Invite | 
+        </td>
+ </tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+
+  &gt; <a href="/donnees/rest/services">services</a>
+  
+  &gt; <a href="/donnees/rest/services/Public">Public</a>
+  
+  &gt; <a href="/donnees/rest/services/Public/Themes_publics/MapServer">Themes_publics (MapServer)</a>
+  
+  &gt; <a href="/donnees/rest/services/Public/Themes_publics/MapServer/78">Puits et forages - SIH</a>
+  </td>
+<td align="right">
+<a href="https://www.servicesgeo.enviroweb.gouv.qc.ca/donnees/sdk/rest/02ss/02ss00000057000000.htm" target="_blank">Help</a> | <a href="https://www.servicesgeo.enviroweb.gouv.qc.ca/donnees/rest/services/Public/Themes_publics/MapServer/78?f=help" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+  <tr>
+  <td class="apiref">
+  <a href="?f=pjson" target="_blank">JSON</a>
+    </td>
+  </tr>
+  </table>
+  <h2>Layer: Puits et forages - SIH (ID: 78)</h2>
+
+<div class="rbody">
+
+<b>Parent Layer:</b>
+	<a href="/donnees/rest/services/Public/Themes_publics/MapServer/41">Eau</a>
+	<br/><br/>
+<b>Name:</b> Puits et forages - SIH<br/><br/>
+
+<b>Display Field:</b> CLE_PUITS<br/><br/>
+
+<b>Type: </b> Feature Layer<br/><br/>
+
+<b>Geometry Type:</b> esriGeometryPoint<br/><br/>
+
+<b>Description: </b> Information hydrog&eacute;ologique (localisation et description) issue du syst&egrave;me d'information hydrog&eacute;ologique (SIH). Provient de rapports de forages r&eacute;alis&eacute;s par les puisatiers pour des ouvrages de captage desservant des r&eacute;sidences priv&eacute;es en eau potable. Attention : donn&eacute;es incompl&egrave;tes.<br/><br/>
+
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec<br/><br/>
+
+<b>Default Visibility: false</b> <br/><br/>
+<b>MaxRecordCount: </b> 1000<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON<br/><br/>
+<b>Min Scale: </b> 100000<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Advanced Queries: </b> true<br/><br/>
+<b>Supports Statistics: </b> true<br/><br/>
+<b>Has Labels: </b> true<br/><br/>
+<b>Can Modify Layer: </b> true<br/><br/>
+<b>Can Scale Symbols: </b> false<br/><br/>
+<b>Use Standardized Queries: </b> true<br/><br/>
+<b>Supports Datum Transformation: </b> true<br/><br/>
+<b>Extent:</b>
+<ul>
+
+
+XMin: -8856044.0287<br/>
+YMin: 5620387.8389<br/>
+XMax: -6604323.6414<br/>
+YMax: 6988707.004500002<br/>
+
+	Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+	</ul>
+<br/>
+
+<b>Drawing Info: </b>
+<ul>
+<i>Renderer: </i>
+<ul><i>Simple Renderer:</i><br/>
+  <i>Symbol: </i> <ul><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAJRJREFUKJHNjjEKwkAQRZ8QGEkVtvQEnkGw0TaXsfMGkk48gBew1MIDeAsL+wQGUk5n4WYJC4kkTfJgGfifN7MJI0k68hRYARVQDxF3wB04AOch4l+mE49RvvZzDyyj7gqUjXjqWJz7F3DOPVX1J4rItl2a2QYoROQC3Nqdqr7DV83sFV3KfP4B4o4gjmE+4gNY9IlfNKEeXA8dDegAAAAASUVORK5CYII=" alt="Picture Symbol" />
+  </ul>
+<i>Label: </i> <br/>
+<i>Description: </i> </ul>
+<i>Transparency: </i> 0<br/>
+<i>Labeling Info: </i>
+<ul>
+<i>Label Placement: </i> esriServerPointLabelPlacementAboveRight<br/>
+<i>Label Expression: </i> [CLE_PUITS]<br/>
+<i>Use Coded Values: </i> true<br/>
+<i>Symbol: </i>
+<ul> 
+  <i>Color: </i> 
+[0, 0, 0, 255] <br/>
+<i>Background Color: </i> N/A<br/>
+<i>Outline Color: </i> N/A<br/>
+<i>Vertical Alignment: </i> bottom<br/>
+<i>Horizontal Alignment: </i> center<br/>
+<i>Right to Left: </i> false<br/>
+<i>Angle: </i> 0<br/>
+<i>XOffset: </i> 0<br/>
+<i>YOffset: </i> 0<br/>
+<i>Size: </i> 8<br/>
+  <i>Font Family: </i> Arial<br/>
+  <i>Font Style: </i> normal<br/>
+  <i>Font Weight: </i> bold<br/>
+  <i>Font Decoration: </i> none<br/>
+  </ul>
+<i>Min. Scale: </i> 50000.0<br/>
+<i>Max. Scale: </i> 0.0<br/></ul></ul>
+
+
+<b>Advanced Query Capabilities: </b>
+<ul>
+  
+
+Supports Statistics: true<br/>
+Supports OrderBy: true<br/>
+Supports Distinct: true<br/>
+Supports Pagination: true<br/>
+Supports TrueCurve: true<br/>
+Supports Returning Query Extent: true<br/>
+Supports Query With Distance: true<br/>
+Supports Sql Expression: true<br/>
+Supports Query With ResultType: false<br/>
+Supports Returning Geometry Centroid: false<br/>
+</ul>
+
+<br/>
+<b>HasZ: false</b><br/><br/>
+<b>HasM: false</b> <br/><br/>
+
+<b>Has Attachments: </b> false<br/><br/>
+
+<b>HTML Popup Type: </b> esriServerHTMLPopupTypeAsHTMLText<br/><br/>
+
+<b>Type ID Field: </b> null<br/><br/>
+
+<b>Fields: </b>
+<ul>
+<li>
+    CLE_PUITS<i>
+(
+type: esriFieldTypeString, alias: Numéro_du_forage, length: 16
+)
+</i></li>
+  <li>
+    CONTEXTE<i>
+(
+type: esriFieldTypeString, alias: Contexte_de_réalisation, length: 255
+)
+</i></li>
+  <li>
+    NO_PERM_MUNCP<i>
+(
+type: esriFieldTypeString, alias: Numéro_du_permis_municipal, length: 25
+)
+</i></li>
+  <li>
+    ENTREPRISE<i>
+(
+type: esriFieldTypeString, alias: Nom_entreprise_de_forage, length: 161
+)
+</i></li>
+  <li>
+    METHODE_FORAGE<i>
+(
+type: esriFieldTypeString, alias: Méthode_de_forage, length: 45
+)
+</i></li>
+  <li>
+    DATE_FORAGE<i>
+(
+type: esriFieldTypeString, alias: Date_du_forage, length: 10
+)
+</i></li>
+  <li>
+    NOM<i>
+(
+type: esriFieldTypeString, alias: Nom_du_propriétaire, length: 100
+)
+</i></li>
+  <li>
+    ADRESSE<i>
+(
+type: esriFieldTypeString, alias: Adresse_du_forage, length: 60
+)
+</i></li>
+  <li>
+    VILLE<i>
+(
+type: esriFieldTypeString, alias: Municipalité, length: 30
+)
+</i></li>
+  <li>
+    CODE_POSTAL<i>
+(
+type: esriFieldTypeString, alias: Code_postal, length: 7
+)
+</i></li>
+  <li>
+    DIVERS<i>
+(
+type: esriFieldTypeString, alias: Informations_diverses, length: 80
+)
+</i></li>
+  <li>
+    LATITUDE<i>
+(
+type: esriFieldTypeDouble, alias: Latitude
+)
+</i></li>
+  <li>
+    LONGITUDE<i>
+(
+type: esriFieldTypeDouble, alias: Longitude
+)
+</i></li>
+  <li>
+    PROFOND_PUITS<i>
+(
+type: esriFieldTypeSingle, alias: Profondeur_du_forage_(m)
+)
+</i></li>
+  <li>
+    LONG_TUBAGE<i>
+(
+type: esriFieldTypeSingle, alias: Longueur_du_tubage_(m)
+)
+</i></li>
+  <li>
+    DIAM_TUBAGE<i>
+(
+type: esriFieldTypeSingle, alias: Diamètre_du_tubage_(cm)
+)
+</i></li>
+  <li>
+    TYPE_TUBAGE<i>
+(
+type: esriFieldTypeString, alias: Type_de_tubage, length: 60
+)
+</i></li>
+  <li>
+    EXCEDE_SOL<i>
+(
+type: esriFieldTypeSingle, alias: Longueur_hors_sol_(cm)
+)
+</i></li>
+  <li>
+    LONG_CIMENT<i>
+(
+type: esriFieldTypeSingle, alias: Cimentation_longueur_(m)
+)
+</i></li>
+  <li>
+    MATERIAU_CIMENT<i>
+(
+type: esriFieldTypeString, alias: Cimentation_matériau, length: 50
+)
+</i></li>
+  <li>
+    BENTONITE_CIMENT<i>
+(
+type: esriFieldTypeSmallInteger, alias: Cimentation_pourcentage_bentonite
+)
+</i></li>
+  <li>
+    LONG_CREPINE<i>
+(
+type: esriFieldTypeSingle, alias: Longueur_de_la_crépine_(m)
+)
+</i></li>
+  <li>
+    DIAM_CREPINE<i>
+(
+type: esriFieldTypeSingle, alias: Diamètre_de_la_crépine_(cm)
+)
+</i></li>
+  <li>
+    PROF_CREPINE<i>
+(
+type: esriFieldTypeSingle, alias: Profondeur_de_la_crépine_(m)
+)
+</i></li>
+  <li>
+    LONG_CUV_SOUT<i>
+(
+type: esriFieldTypeSingle, alias: Tubage_de_soutènement_longueur_(m)
+)
+</i></li>
+  <li>
+    DIAM_CUV_SOUT<i>
+(
+type: esriFieldTypeSingle, alias: Tubage_de_soutènement_diamètre_(cm)
+)
+</i></li>
+  <li>
+    DATE_ESSAI_POMP<i>
+(
+type: esriFieldTypeString, alias: Date_essai, length: 10
+)
+</i></li>
+  <li>
+    DUREE_ESSAI_POMP<i>
+(
+type: esriFieldTypeSingle, alias: Durée_essai_(heures)
+)
+</i></li>
+  <li>
+    NIVEAU<i>
+(
+type: esriFieldTypeString, alias: Niveau_à_la_fin_des_travaux_(mètres_sous_le_sol), length: 41
+)
+</i></li>
+  <li>
+    DEBT_ESSAI_POMP<i>
+(
+type: esriFieldTypeDouble, alias: Débit_(litres_par_min)
+)
+</i></li>
+  <li>
+    METH_POMPAGE<i>
+(
+type: esriFieldTypeString, alias: Méthode_de_pompage, length: 25
+)
+</i></li>
+  <li>
+    OBJECTID<i>
+(
+type: esriFieldTypeOID, alias: Clé_primaire
+)
+</i></li>
+  <li>
+    Shape<i>
+(
+type: esriFieldTypeGeometry, alias: Géométrie
+)
+</i></li>
+  </ul><b>Relationships: </b> 
+  <ul>
+  <li>
+  	Materiaux_recoupes (0) -- <i>Related To</i>:
+  	<a href="/donnees/rest/services/Public/Themes_publics/MapServer/82">Mat&eacute;riaux recoup&eacute;s</a> (82)
+  	</li>
+  </ul>
+  <br/>
+
+<b>Supported Operations</b>:
+
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/query">Query</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/queryAttachments">Query Attachments</a>
+
+  &nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/queryRelatedRecords">Query Related Records</a>
+  
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/generateRenderer">Generate Renderer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78?f=pjson&returnUpdates=true&">Return Updates</a><br/><br/>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/iteminfo">Iteminfo</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/thumbnail">Thumbnail</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Public/Themes_publics/MapServer/78/metadata">Metadata</a></div>
+
+<br/><br/>
+
+</body>
+
+</html>

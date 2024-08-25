@@ -1,0 +1,205 @@
+<html lang="en">
+<head>
+<title>Biodiversite/Aires_protegees (MapServer)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/login?returnUrl=https://geo.environnement.gouv.qc.ca/donnees/rest/services">Login</a>
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+&gt; <a href="/donnees/rest/services">services</a>
+&gt; <a href="/donnees/rest/services/Biodiversite">Biodiversite</a>
+&gt; <a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer">Aires_protegees (MapServer)</a>
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/help/en/rest/router.html?f=rest/services/Biodiversite/Aires_protegees/MapServer" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Biodiversite/Aires_protegees/MapServer?wsdl" >SOAP</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Biodiversite/Aires_protegees/MapServer/WMSServer?request=GetCapabilities&service=WMS" >WMS</a>
+</td>
+</tr>
+</table>
+<h2>Biodiversite/Aires_protegees (MapServer)</h2>
+<div class="rbody">
+<b>View In:</b>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer?f=jsapi" target="_blank">ArcGIS JavaScript</a>
+&nbsp;&nbsp;<a href="https://www.arcgis.com/home/webmap/viewer.html?url=https://geo.environnement.gouv.qc.ca/donnees/rest/services/Biodiversite/Aires_protegees/MapServer&source=sd" target="_blank">ArcGIS Online Map Viewer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/kml/mapImage.kmz">ArcGIS Earth</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer?f=pitemx" target="_blank">ArcGIS Pro</a>
+<br/><br/>
+<b>Service Description: </b> <DIV STYLE="text-align:Left;font-size:12pt"><DIV><DIV><P><SPAN>Les aires protégées regroupent diverses désignations juridiques ou administratives différentes. Les territoires inscrits au Registre des aires protégées doivent répondre à la définition d’aire protégée de la Loi sur la conservation du patrimoine naturel (LCPN; RLRQ, chapitre C-61.01) ou à celle de l’Union internationale pour la conservation de la nature (UICN). </SPAN></P><P><SPAN /></P><P><SPAN>La définition de la LCPN est «</SPAN><SPAN> </SPAN><SPAN>Une aire protégée est un territoire, en milieu terrestre ou aquatique, géographiquement délimité, dont l’encadrement juridique et l’administration visent spécifiquement à assurer la protection et le maintien de la diversité biologique et des ressources naturelles et culturelles associées</SPAN><SPAN> </SPAN><SPAN>». Alors que l’UICN la définit comme «</SPAN><SPAN> </SPAN><SPAN>Un espace géographique clairement défini, reconnu, consacré et géré, par tout moyen efficace, juridique ou autre, afin d’assurer à long terme la conservation de la nature ainsi que les services écosystémiques et les valeurs culturelles qui lui sont associés</SPAN><SPAN> </SPAN><SPAN>». </SPAN></P><P><SPAN /></P><P><SPAN>Un territoire d’importance pour la conservation est un territoire géographiquement délimité, pour lequel le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) ou une instance du gouvernement du Québec a exprimé son intention d’en prioriser l’affectation aux fins d’aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Pour plus d’information sur les aires protégées, consulter le site du Ministère à l’adresse suivante</SPAN><SPAN> :</SPAN><SPAN> </SPAN><A href="http://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/index.htm" STYLE="text-decoration:underline;"><SPAN>http://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/index.htm</SPAN></A><SPAN>.</SPAN></P><P><SPAN /></P><P><SPAN>Les aires protégées et les territoires d’importance pour la conservation sont présentés dans 2</SPAN><SPAN>1</SPAN><SPAN> couches distinctes :</SPAN></P><P><SPAN /></P><P><SPAN>Ensemble des aires protégées : Ensemble des aires protégées décrites </SPAN><SPAN>ci-dessous</SPAN><SPAN>.</SPAN></P><P><SPAN /></P><P><SPAN>Territoires d’importance pour la conservation : Territoires géographiquement délimités pour lesquels le MELCCFP ou une instance du gouvernement du Québec a exprimé son intention d’en prioriser l’affectation aux fins d’aires protégées. Est aussi considéré comme un territoire importance pour la conservation, tout plan d’un habitat d’une espèce floristique menacée ou vulnérable, non-inscrit au Registre des aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Aires protégées du MELCCFP</SPAN></P><P><SPAN /></P><P><SPAN>Habitats espèces floristiques men. ou vuln. - MELCCFP : Habitat d’une espèce floristique menacée ou vulnérable inscrit au Registre des aires protégées. </SPAN></P><P><SPAN /></P><P><SPAN>Habitats fauniques - MELCCFP Faune : Habitats fauniques reconnus comme aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Parc marin du Saguenay–Saint-Laurent</SPAN><SPAN> </SPAN><SPAN>- MELCCFP Parcs : Aire protégée visant à rehausser le niveau de protection et mettre en valeur un milieu exclusivement marin.</SPAN></P><P><SPAN /></P><P><SPAN>Parcs nationaux du Québec - MELCCFP Parcs : Parcs et réserves de parc national du Québec qui ont pour vocation de protéger et mettre en valeur des territoires représentatifs des régions naturelles du Québec ou des sites à caractère exceptionnel.</SPAN></P><P><SPAN /></P><P><SPAN>Paysages humanisés - MELCCFP : Aires protégées visant la protection de la biodiversité d’un territoire habité, terrestre ou aquatique, dont le paysage et les composantes naturelles ont été façonnés, au fil du temps, par des activités humaines en harmonie avec la nature.</SPAN></P><P><SPAN /></P><P><SPAN>Refuges fauniques - MELCCFP Faune : Refuges fauniques reconnus comme aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves aquatiques - MELCCFP : Aires protégées axées principalement sur la protection de la biodiversité en milieu aquatique d’eau douce et d’eau salée et des milieux naturels adjacents.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves de biodiversité - MELCCFP : Aires protégées constituées dans le but de favoriser le maintien de la biodiversité en milieu terrestre et, plus spécialement, d’assurer la représentativité de la diversité biologique des différentes régions naturelles.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves de territoire aux fins d’aire protégée - MELCCFP : Territoires en attente d’un statut légal de protection. Ils sont désignés «</SPAN><SPAN> </SPAN><SPAN>Réserve de territoire aux fins d’aire protégée</SPAN><SPAN> </SPAN><SPAN>» par le gouvernement dans le cadre de la Stratégie québécoise sur les aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves écologiques - MELCCFP : Territoires conservés à l’état naturel dans le but de préserver les caractéristiques écologiques distinctes qu’ils présentent.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves marines - MELCCFP : Aires protégées qui visent la protection d’un milieu composé principalement d’eau salée ou saumâtre en raison de l’intérêt de ses caractéristiques biophysiques et dans le but d’assurer la représentativité de la biodiversité marine.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves naturelles reconnues - MELCCFP : Propriétés privées reconnues par le MELCCFP pour leurs valeurs biologique, faunique, floristique, géologique ou autre.</SPAN></P><P /><P><SPAN>Territoires mis en réserve - MELCCFP : La mise en réserve est effectuée en vertu de la Loi sur la conservation du patrimoine naturel afin de protéger rapidement un territoire avant l’attribution d’un statut permanent de protection.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Aires protégées du MRNF</SPAN></P><P><SPAN /></P><P><SPAN>Écosystèmes forestiers exceptionnels - MRNF Forêts : Forêts rares, anciennes ou forêts refuges d’espèces menacées ou vulnérables situées en terre privée ou publique dont le but est de maintenir la diversité biologique des écosystèmes.</SPAN></P><P><SPAN /></P><P><SPAN>Refuges biologiques - MRNF Forêts : Petites aires forestières, d’environ 200 hectares, soustraites aux activités d’aménagement forestier dans lesquelles des habitats et des espèces sont protégés de façon permanente.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Aires protégées fédérales</SPAN></P><P><SPAN /></P><P><SPAN>Parcs fédéraux : Parcs de la Commission de la capitale nationale (Canada), parcs nationaux et réserves de parc national du Canada qui ont pour vocation de protéger des territoires représentatifs des différentes régions naturelles du pays.</SPAN></P><P><SPAN /></P><P><SPAN>Refuges d’oiseaux migrateurs : Territoires privés ou publics dont le principal objectif est de protéger les habitats qui sont particulièrement déterminants pour la survie de certaines espèces aviaires, sensibles et vulnérables à l’une ou l’autre étape de leur nidification ou de leur migration.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves nationales de faune : Territoires fédéraux dont le but premier est la conservation et la protection des espèces sauvages et de leurs habitats.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Autres</SPAN></P><P><SPAN /></P><P><SPAN>Autres aires protégées : Propriétés privées où les organismes de conservation assistent les propriétaires qui veulent s’assurer de la protection de leur terre pour les générations à venir. La conservation volontaire est une approche qui permet au propriétaire de s’engager envers la préservation du patrimoine naturel de sa propriété par une approche non gouvernementale.</SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Map Name: </b> Aires_protegees<br/><br/>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/legend">Legend</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/layers">All Layers and Tables</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/legend?dynamicLayers=%5B%5D&">Dynamic Legend</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/layers?dynamicLayers=%5B%5D&">Dynamic All Layers</a><br/><br/>
+<b>Layers: </b>
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/23">Ensemble des aires prot&eacute;g&eacute;es</a> (23)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/24">Territoires d&rsquo;importance pour la conservation</a> (24)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/0">Aires prot&eacute;g&eacute;es du MELCCFP</a> (0)
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/1">AP - Habitats esp&egrave;ces floristiques men. ou vuln. - MELCCFP</a> (1)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/2">AP - Habitats fauniques - MELCCFP Faune</a> (2)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/3">AP - Parc marin du Saguenay&ndash;Saint-Laurent - MELCCFP Parcs</a> (3)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/4">AP - Parcs nationaux du Qu&eacute;bec - MELCCFP Parcs</a> (4)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/5">AP - Paysages humanis&eacute;s - MELCCFP</a> (5)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/6">AP - Refuges fauniques - MELCCFP Faune</a> (6)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/7">AP - R&eacute;serves aquatiques - MELCCFP</a> (7)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/8">AP - R&eacute;serves de biodiversit&eacute; - MELCCFP</a> (8)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/9">AP - R&eacute;serves de territoire aux fins d&rsquo;aire prot&eacute;g&eacute;e - MELCCFP</a> (9)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/10">AP - R&eacute;serves &eacute;cologiques - MELCCFP</a> (10)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/11">AP - R&eacute;serves marines - MELCCFP</a> (11)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/12">AP - R&eacute;serves naturelles reconnues - MELCCFP</a> (12)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/13">AP - Territoires mis en r&eacute;serve - MELCCFP</a> (13)
+</li>
+</ul>
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/14">Aires prot&eacute;g&eacute;es du MRNF For&ecirc;ts</a> (14)
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/15">AP - &Eacute;cosyst&egrave;mes forestiers exceptionnels - MRNF For&ecirc;ts</a> (15)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/16">AP - Refuges biologiques - MRNF For&ecirc;ts</a> (16)
+</li>
+</ul>
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/17">Aires prot&eacute;g&eacute;es f&eacute;d&eacute;rales</a> (17)
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/18">AP - Parcs f&eacute;d&eacute;raux</a> (18)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/19">AP - Refuges d&rsquo;oiseaux migrateurs - F&eacute;d&eacute;ral</a> (19)
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/20">AP - R&eacute;serves nationales de faune - F&eacute;d&eacute;ral</a> (20)
+</li>
+</ul>
+</li>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/21">Autres aires prot&eacute;g&eacute;es</a> (21)
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/22">AP - Autres aires prot&eacute;g&eacute;es</a> (22)
+</li>
+</ul>
+</li>
+</ul>
+<b>Description: </b> <DIV STYLE="text-align:Left;font-size:12pt"><DIV><DIV><P><SPAN>Les aires protégées regroupent diverses désignations juridiques ou administratives différentes. Les territoires inscrits au Registre des aires protégées doivent répondre à la définition d’aire protégée de la Loi sur la conservation du patrimoine naturel (LCPN; RLRQ, chapitre C-61.01) ou à celle de l’Union internationale pour la conservation de la nature (UICN). </SPAN></P><P><SPAN /></P><P><SPAN>La définition de la LCPN est «</SPAN><SPAN> </SPAN><SPAN>Une aire protégée est un territoire, en milieu terrestre ou aquatique, géographiquement délimité, dont l’encadrement juridique et l’administration visent spécifiquement à assurer la protection et le maintien de la diversité biologique et des ressources naturelles et culturelles associées</SPAN><SPAN> </SPAN><SPAN>». Alors que l’UICN la définit comme «</SPAN><SPAN> </SPAN><SPAN>Un espace géographique clairement défini, reconnu, consacré et géré, par tout moyen efficace, juridique ou autre, afin d’assurer à long terme la conservation de la nature ainsi que les services écosystémiques et les valeurs culturelles qui lui sont associés</SPAN><SPAN> </SPAN><SPAN>». </SPAN></P><P><SPAN /></P><P><SPAN>Un territoire d’importance pour la conservation est un territoire géographiquement délimité, pour lequel le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) ou une instance du gouvernement du Québec a exprimé son intention d’en prioriser l’affectation aux fins d’aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Pour plus d’information sur les aires protégées, consulter le site du Ministère à l’adresse suivante</SPAN><SPAN> :</SPAN><SPAN> </SPAN><A href="http://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/index.htm" STYLE="text-decoration:underline;"><SPAN>http://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/index.htm</SPAN></A><SPAN>.</SPAN></P><P><SPAN /></P><P><SPAN>Les aires protégées et les territoires d’importance pour la conservation sont présentés dans 2</SPAN><SPAN>1</SPAN><SPAN> couches distinctes :</SPAN></P><P><SPAN /></P><P><SPAN>Ensemble des aires protégées : Ensemble des aires protégées décrites </SPAN><SPAN>ci-dessous</SPAN><SPAN>.</SPAN></P><P><SPAN /></P><P><SPAN>Territoires d’importance pour la conservation : Territoires géographiquement délimités pour lesquels le MELCCFP ou une instance du gouvernement du Québec a exprimé son intention d’en prioriser l’affectation aux fins d’aires protégées. Est aussi considéré comme un territoire importance pour la conservation, tout plan d’un habitat d’une espèce floristique menacée ou vulnérable, non-inscrit au Registre des aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Aires protégées du MELCCFP</SPAN></P><P><SPAN /></P><P><SPAN>Habitats espèces floristiques men. ou vuln. - MELCCFP : Habitat d’une espèce floristique menacée ou vulnérable inscrit au Registre des aires protégées. </SPAN></P><P><SPAN /></P><P><SPAN>Habitats fauniques - MELCCFP Faune : Habitats fauniques reconnus comme aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Parc marin du Saguenay–Saint-Laurent</SPAN><SPAN> </SPAN><SPAN>- MELCCFP Parcs : Aire protégée visant à rehausser le niveau de protection et mettre en valeur un milieu exclusivement marin.</SPAN></P><P><SPAN /></P><P><SPAN>Parcs nationaux du Québec - MELCCFP Parcs : Parcs et réserves de parc national du Québec qui ont pour vocation de protéger et mettre en valeur des territoires représentatifs des régions naturelles du Québec ou des sites à caractère exceptionnel.</SPAN></P><P><SPAN /></P><P><SPAN>Paysages humanisés - MELCCFP : Aires protégées visant la protection de la biodiversité d’un territoire habité, terrestre ou aquatique, dont le paysage et les composantes naturelles ont été façonnés, au fil du temps, par des activités humaines en harmonie avec la nature.</SPAN></P><P><SPAN /></P><P><SPAN>Refuges fauniques - MELCCFP Faune : Refuges fauniques reconnus comme aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves aquatiques - MELCCFP : Aires protégées axées principalement sur la protection de la biodiversité en milieu aquatique d’eau douce et d’eau salée et des milieux naturels adjacents.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves de biodiversité - MELCCFP : Aires protégées constituées dans le but de favoriser le maintien de la biodiversité en milieu terrestre et, plus spécialement, d’assurer la représentativité de la diversité biologique des différentes régions naturelles.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves de territoire aux fins d’aire protégée - MELCCFP : Territoires en attente d’un statut légal de protection. Ils sont désignés «</SPAN><SPAN> </SPAN><SPAN>Réserve de territoire aux fins d’aire protégée</SPAN><SPAN> </SPAN><SPAN>» par le gouvernement dans le cadre de la Stratégie québécoise sur les aires protégées.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves écologiques - MELCCFP : Territoires conservés à l’état naturel dans le but de préserver les caractéristiques écologiques distinctes qu’ils présentent.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves marines - MELCCFP : Aires protégées qui visent la protection d’un milieu composé principalement d’eau salée ou saumâtre en raison de l’intérêt de ses caractéristiques biophysiques et dans le but d’assurer la représentativité de la biodiversité marine.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves naturelles reconnues - MELCCFP : Propriétés privées reconnues par le MELCCFP pour leurs valeurs biologique, faunique, floristique, géologique ou autre.</SPAN></P><P /><P><SPAN>Territoires mis en réserve - MELCCFP : La mise en réserve est effectuée en vertu de la Loi sur la conservation du patrimoine naturel afin de protéger rapidement un territoire avant l’attribution d’un statut permanent de protection.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Aires protégées du MRNF</SPAN></P><P><SPAN /></P><P><SPAN>Écosystèmes forestiers exceptionnels - MRNF Forêts : Forêts rares, anciennes ou forêts refuges d’espèces menacées ou vulnérables situées en terre privée ou publique dont le but est de maintenir la diversité biologique des écosystèmes.</SPAN></P><P><SPAN /></P><P><SPAN>Refuges biologiques - MRNF Forêts : Petites aires forestières, d’environ 200 hectares, soustraites aux activités d’aménagement forestier dans lesquelles des habitats et des espèces sont protégés de façon permanente.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Aires protégées fédérales</SPAN></P><P><SPAN /></P><P><SPAN>Parcs fédéraux : Parcs de la Commission de la capitale nationale (Canada), parcs nationaux et réserves de parc national du Canada qui ont pour vocation de protéger des territoires représentatifs des différentes régions naturelles du pays.</SPAN></P><P><SPAN /></P><P><SPAN>Refuges d’oiseaux migrateurs : Territoires privés ou publics dont le principal objectif est de protéger les habitats qui sont particulièrement déterminants pour la survie de certaines espèces aviaires, sensibles et vulnérables à l’une ou l’autre étape de leur nidification ou de leur migration.</SPAN></P><P><SPAN /></P><P><SPAN>Réserves nationales de faune : Territoires fédéraux dont le but premier est la conservation et la protection des espèces sauvages et de leurs habitats.</SPAN></P><P><SPAN /></P><P><SPAN STYLE="font-weight:bold;">Autres</SPAN></P><P><SPAN /></P><P><SPAN>Autres aires protégées : Propriétés privées où les organismes de conservation assistent les propriétaires qui veulent s’assurer de la protection de leur terre pour les générations à venir. La conservation volontaire est une approche qui permet au propriétaire de s’engager envers la préservation du patrimoine naturel de sa propriété par une approche non gouvernementale.</SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Service Item Id: </b> 7e367217e7e5438dadc492f9b7770613<br/><br/>
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec<br/> <br/>
+<b>Spatial Reference: </b>
+32198
+&nbsp;(32198)
+<br/><br/><br/>
+<b>Single Fused Map Cache: </b> false<br/><br/>
+<b>Initial Extent: </b>
+<ul>
+XMin: -1487051.0110965476<br/>
+YMin: 7921.241458207369<br/>
+XMax: 1444560.4116878316<br/>
+YMax: 2198812.178085733<br/>
+Spatial Reference: 32198
+&nbsp;(32198)
+<br/><br/>
+</ul>
+<b>Full Extent: </b>
+<ul>
+XMin: -826213.6372191459<br/>
+YMin: 119629.76034825668<br/>
+XMax: 783723.0378104352<br/>
+YMax: 2087103.659195684<br/>
+Spatial Reference: 32198
+&nbsp;(32198)
+<br/><br/>
+</ul>
+<b>Units: </b> esriMeters<br/><br/>
+<b>Supported Image Format Types: </b> PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP<br/><br/>
+<b>Document Info: </b>
+<ul>
+Title: Aires_prot&eacute;g&eacute;es<br/>
+Author: <br/>
+Comments: &lt;DIV STYLE=&quot;text-align:Left;font-size:12pt&quot;&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Les aires prot&eacute;g&eacute;es regroupent diverses d&eacute;signations juridiques ou administratives diff&eacute;rentes. Les territoires inscrits au Registre des aires prot&eacute;g&eacute;es doivent r&eacute;pondre &agrave; la d&eacute;finition d&rsquo;aire prot&eacute;g&eacute;e de la Loi sur la conservation du patrimoine naturel (LCPN; RLRQ, chapitre C-61.01) ou &agrave; celle de l&rsquo;Union internationale pour la conservation de la nature (UICN). &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;La d&eacute;finition de la LCPN est &laquo;&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;SPAN&gt;Une aire prot&eacute;g&eacute;e est un territoire, en milieu terrestre ou aquatique, g&eacute;ographiquement d&eacute;limit&eacute;, dont l&rsquo;encadrement juridique et l&rsquo;administration visent sp&eacute;cifiquement &agrave; assurer la protection et le maintien de la diversit&eacute; biologique et des ressources naturelles et culturelles associ&eacute;es&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;SPAN&gt;&raquo;. Alors que l&rsquo;UICN la d&eacute;finit comme &laquo;&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;SPAN&gt;Un espace g&eacute;ographique clairement d&eacute;fini, reconnu, consacr&eacute; et g&eacute;r&eacute;, par tout moyen efficace, juridique ou autre, afin d&rsquo;assurer &agrave; long terme la conservation de la nature ainsi que les services &eacute;cosyst&eacute;miques et les valeurs culturelles qui lui sont associ&eacute;s&lt;/SPAN&gt;&lt;SPAN&gt;&nbsp;&lt;/SPAN&gt;&lt;SPAN&gt;&raquo;. &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Un territoire d&rsquo;importance pour la conservation est un territoire g&eacute;ographiquement d&eacute;limit&eacute;, pour lequel le minist&egrave;re de l&rsquo;Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) ou une instance du gouvernement du Qu&eacute;bec a exprim&eacute; son intention d&rsquo;en prioriser l&rsquo;affectation aux fins d&rsquo;aires prot&eacute;g&eacute;es.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Pour plus d&rsquo;information sur les aires prot&eacute;g&eacute;es, consulter le site du Minist&egrave;re &agrave; l&rsquo;adresse suivante&lt;/SPAN&gt;&lt;SPAN&gt; :&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;A href=&quot;http://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/index.htm&quot; STYLE=&quot;text-decoration:underline;&quot;&gt;&lt;SPAN&gt;http://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/index.htm&lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt;.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Les aires prot&eacute;g&eacute;es et les territoires d&rsquo;importance pour la conservation sont pr&eacute;sent&eacute;s dans 2&lt;/SPAN&gt;&lt;SPAN&gt;1&lt;/SPAN&gt;&lt;SPAN&gt; couches distinctes :&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Ensemble des aires prot&eacute;g&eacute;es : Ensemble des aires prot&eacute;g&eacute;es d&eacute;crites &lt;/SPAN&gt;&lt;SPAN&gt;ci-dessous&lt;/SPAN&gt;&lt;SPAN&gt;.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Territoires d&rsquo;importance pour la conservation : Territoires g&eacute;ographiquement d&eacute;limit&eacute;s pour lesquels le MELCCFP ou une instance du gouvernement du Qu&eacute;bec a exprim&eacute; son intention d&rsquo;en prioriser l&rsquo;affectation aux fins d&rsquo;aires prot&eacute;g&eacute;es. Est aussi consid&eacute;r&eacute; comme un territoire importance pour la conservation, tout plan d&rsquo;un habitat d&rsquo;une esp&egrave;ce floristique menac&eacute;e ou vuln&eacute;rable, non-inscrit au Registre des aires prot&eacute;g&eacute;es.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN STYLE=&quot;font-weight:bold;&quot;&gt;Aires prot&eacute;g&eacute;es du MELCCFP&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Habitats esp&egrave;ces floristiques men. ou vuln. - MELCCFP : Habitat d&rsquo;une esp&egrave;ce floristique menac&eacute;e ou vuln&eacute;rable inscrit au Registre des aires prot&eacute;g&eacute;es. &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Habitats fauniques - MELCCFP Faune : Habitats fauniques reconnus comme aires prot&eacute;g&eacute;es.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Parc marin du Saguenay&ndash;Saint-Laurent&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;SPAN&gt;- MELCCFP Parcs : Aire prot&eacute;g&eacute;e visant &agrave; rehausser le niveau de protection et mettre en valeur un milieu exclusivement marin.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Parcs nationaux du Qu&eacute;bec - MELCCFP Parcs : Parcs et r&eacute;serves de parc national du Qu&eacute;bec qui ont pour vocation de prot&eacute;ger et mettre en valeur des territoires repr&eacute;sentatifs des r&eacute;gions naturelles du Qu&eacute;bec ou des sites &agrave; caract&egrave;re exceptionnel.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Paysages humanis&eacute;s - MELCCFP : Aires prot&eacute;g&eacute;es visant la protection de la biodiversit&eacute; d&rsquo;un territoire habit&eacute;, terrestre ou aquatique, dont le paysage et les composantes naturelles ont &eacute;t&eacute; fa&ccedil;onn&eacute;s, au fil du temps, par des activit&eacute;s humaines en harmonie avec la nature.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Refuges fauniques - MELCCFP Faune : Refuges fauniques reconnus comme aires prot&eacute;g&eacute;es.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves aquatiques - MELCCFP : Aires prot&eacute;g&eacute;es ax&eacute;es principalement sur la protection de la biodiversit&eacute; en milieu aquatique d&rsquo;eau douce et d&rsquo;eau sal&eacute;e et des milieux naturels adjacents.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves de biodiversit&eacute; - MELCCFP : Aires prot&eacute;g&eacute;es constitu&eacute;es dans le but de favoriser le maintien de la biodiversit&eacute; en milieu terrestre et, plus sp&eacute;cialement, d&rsquo;assurer la repr&eacute;sentativit&eacute; de la diversit&eacute; biologique des diff&eacute;rentes r&eacute;gions naturelles.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves de territoire aux fins d&rsquo;aire prot&eacute;g&eacute;e - MELCCFP : Territoires en attente d&rsquo;un statut l&eacute;gal de protection. Ils sont d&eacute;sign&eacute;s &laquo;&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;SPAN&gt;R&eacute;serve de territoire aux fins d&rsquo;aire prot&eacute;g&eacute;e&lt;/SPAN&gt;&lt;SPAN&gt; &lt;/SPAN&gt;&lt;SPAN&gt;&raquo; par le gouvernement dans le cadre de la Strat&eacute;gie qu&eacute;b&eacute;coise sur les aires prot&eacute;g&eacute;es.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves &eacute;cologiques - MELCCFP : Territoires conserv&eacute;s &agrave; l&rsquo;&eacute;tat naturel dans le but de pr&eacute;server les caract&eacute;ristiques &eacute;cologiques distinctes qu&rsquo;ils pr&eacute;sentent.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves marines - MELCCFP : Aires prot&eacute;g&eacute;es qui visent la protection d&rsquo;un milieu compos&eacute; principalement d&rsquo;eau sal&eacute;e ou saum&acirc;tre en raison de l&rsquo;int&eacute;r&ecirc;t de ses caract&eacute;ristiques biophysiques et dans le but d&rsquo;assurer la repr&eacute;sentativit&eacute; de la biodiversit&eacute; marine.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves naturelles reconnues - MELCCFP : Propri&eacute;t&eacute;s priv&eacute;es reconnues par le MELCCFP pour leurs valeurs biologique, faunique, floristique, g&eacute;ologique ou autre.&lt;/SPAN&gt;&lt;/P&gt;&lt;P /&gt;&lt;P&gt;&lt;SPAN&gt;Territoires mis en r&eacute;serve - MELCCFP : La mise en r&eacute;serve est effectu&eacute;e en vertu de la Loi sur la conservation du patrimoine naturel afin de prot&eacute;ger rapidement un territoire avant l&rsquo;attribution d&rsquo;un statut permanent de protection.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN STYLE=&quot;font-weight:bold;&quot;&gt;Aires prot&eacute;g&eacute;es du MRNF&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;&Eacute;cosyst&egrave;mes forestiers exceptionnels - MRNF For&ecirc;ts : For&ecirc;ts rares, anciennes ou for&ecirc;ts refuges d&rsquo;esp&egrave;ces menac&eacute;es ou vuln&eacute;rables situ&eacute;es en terre priv&eacute;e ou publique dont le but est de maintenir la diversit&eacute; biologique des &eacute;cosyst&egrave;mes.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Refuges biologiques - MRNF For&ecirc;ts : Petites aires foresti&egrave;res, d&rsquo;environ 200 hectares, soustraites aux activit&eacute;s d&rsquo;am&eacute;nagement forestier dans lesquelles des habitats et des esp&egrave;ces sont prot&eacute;g&eacute;s de fa&ccedil;on permanente.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN STYLE=&quot;font-weight:bold;&quot;&gt;Aires prot&eacute;g&eacute;es f&eacute;d&eacute;rales&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Parcs f&eacute;d&eacute;raux : Parcs de la Commission de la capitale nationale (Canada), parcs nationaux et r&eacute;serves de parc national du Canada qui ont pour vocation de prot&eacute;ger des territoires repr&eacute;sentatifs des diff&eacute;rentes r&eacute;gions naturelles du pays.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Refuges d&rsquo;oiseaux migrateurs : Territoires priv&eacute;s ou publics dont le principal objectif est de prot&eacute;ger les habitats qui sont particuli&egrave;rement d&eacute;terminants pour la survie de certaines esp&egrave;ces aviaires, sensibles et vuln&eacute;rables &agrave; l&rsquo;une ou l&rsquo;autre &eacute;tape de leur nidification ou de leur migration.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;R&eacute;serves nationales de faune : Territoires f&eacute;d&eacute;raux dont le but premier est la conservation et la protection des esp&egrave;ces sauvages et de leurs habitats.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN STYLE=&quot;font-weight:bold;&quot;&gt;Autres&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Autres aires prot&eacute;g&eacute;es : Propri&eacute;t&eacute;s priv&eacute;es o&ugrave; les organismes de conservation assistent les propri&eacute;taires qui veulent s&rsquo;assurer de la protection de leur terre pour les g&eacute;n&eacute;rations &agrave; venir. La conservation volontaire est une approche qui permet au propri&eacute;taire de s&rsquo;engager envers la pr&eacute;servation du patrimoine naturel de sa propri&eacute;t&eacute; par une approche non gouvernementale.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;<br/>
+Subject: Compilation des aires prot&eacute;g&eacute;es du Qu&eacute;bec et des territoires d&rsquo;importance pour la conservation<br/>
+Category: <br/>
+Keywords: Biodiversité,Conservation,Diversité biologique,Écosystème forestier exceptionnel,Écosystèmes,EFE,Faune,Flore,Habitat,Habitat faunique,Habitat floristique,Intégrité écologique,Milieu naturel,Parcs Canada,Parc fédéral,Parc marin,Parc national,Paysage humanisé,Préservation,Projet de réserve,Protection de la nature,Refuge biologique,Refuge faunique,Refuge d’oiseaux migrateurs,Réserve aquatique,Réserve de biodiversité,Réserve écologique,Réserve marine,Réserve nationale de faune,Réserve naturelle,Réserve de parc national,Réserve de territoire pour fin d’aire protégée,RNF,ROM,Territoire d'importance pour la conservation,UICN<br/>
+AntialiasingMode: Fast<br/>
+TextAntialiasingMode: Force<br/></ul>
+<b>Supports Dynamic Layers: </b> true<br/><br/>
+<b>MaxRecordCount: </b> 2000<br/><br/>
+<b>MaxImageHeight: </b> 4096<br/><br/>
+<b>MaxImageWidth: </b> 4096<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON, PBF<br/><br/>
+<b>Supports Query Data Elements: </b> true<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Datum Transformation: </b> true<br/><br/>
+<br/><br/>
+<b>Child Resources</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/info">Info</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/dynamicLayer">Dynamic Layer</a>
+<br/> <br/>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/export?bbox=-1487051.0110965476,7921.241458207369,1444560.4116878316,2198812.178085733">Export Map</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/identify">Identify</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/queryLegends">QueryLegends</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/queryDomains">QueryDomains</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/find">Find</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer?f=pjson&returnUpdates=true&">Return Updates</a>
+<!--
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/Aires_protegees/MapServer/queryDataElements">Query Data Elements</a>
+-->
+</div>
+<br/><br/>
+</body>
+</html>

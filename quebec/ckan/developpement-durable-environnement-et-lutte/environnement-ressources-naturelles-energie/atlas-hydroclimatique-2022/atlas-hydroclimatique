@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+
+<script type="text/javascript" src="/script/switchTextSize.js"></script>
+<script type="text/javascript" src="/script/styleswitcher.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/menu.css" />
+<link rel="stylesheet" type="text/css" href="/print.css" media="print"/>
+<link rel="stylesheet" type="text/css" href="/css/generale.css" />
+<link rel="stylesheet" href="/css/monCss1.css" type="text/css" />
+<link rel="alternate stylesheet" href="/css/monCss2.css" type="text/css" title="css-astuces2" />
+
+<style type="text/css">
+.lien {
+	text-align:center;
+}
+.gauche {
+	width:183px;
+	background-image:url('/interface/fondcell_menugauche.gif');
+	background-repeat:no-repeat;
+	float:left;
+}
+
+.centre li a {
+	text-decoration:none;
+}
+.droite {
+	float:right;
+	width:192px;
+	background-image:url('/interface/fondcell_menugauche.gif');
+	background-repeat:repeat-x;
+}
+
+.deco {
+	width:100%;
+	height:30px;
+	background-image:url('/interface/top_fondcell_milieu.gif');
+	background-repeat:repeat-x;
+}
+
+.contenu {
+	height:auto;
+	background:#F0F7FE;
+	width:100%;
+	min-height:375px;
+}
+#icone {
+	background-color:#fff;
+	width:100%;
+	padding-right:10px;
+	text-align:right;
+}
+.style9 {
+	font-size: xx-small;
+}
+
+.bte-g{
+	
+	width:740px;
+	margin:0 auto;
+	height:430px;
+	}
+#bte-1, #bte-2, #bte-3{
+	
+	width:230px;
+	float:left;
+	padding:0 8px}
+#bte-1 h2, #bte-2 h2, #bte-3 h2{
+	text-align:center
+	}
+
+.img-bte{
+	width:210px;
+	margin-left:10px
+	}
+
+</style>
+<title>Atlas hydroclimatique du Québec méridional</title>
+</head>
+
+<body>
+
+<div style="background-color:#FFF;width:100%">
+<a name="haut"></a>
+<div class="access">
+				<a href="#contenu">Aller au contenu</a> </div>
+
+<!--webbot bot="Include" U-Include="/images/cehq/entete-cehq.htm" TAG="BODY" startspan -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P596M5D');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) --><noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P596M5D" height="0" width="0" style="display: none; visibility: hidden">
+</iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Clarity Tag -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "jrejjedp9x");
+</script>
+<!-- End Clarity Tag -->
+<div id="bandeauPIV-conteneur">
+	<div id="bandeauPIV-bleu">
+		<div id="centre-no-txt">
+&nbsp;<div id="melcc-piv">
+				<a href="http://www.environnement.gouv.qc.ca">Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs</a></div>
+			<a href="/recherche.htm">
+			<img id="loupe-banniere" alt="Recherche" src="../images/cehq/loupe-piv.jpg" width="50" height="38" /></a>
+			<div id="piv-menu">
+				<a target="_blank" href="http://www.environnement.gouv.qc.ca/eau/hydrique-barrage/index.htm">
+				Nous joindre</a>
+				<img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/cehq/lien-externe.gif" width="10" height="10"><br>
+				<a href="/index_en.asp">English</a><br>
+			</div>
+			<a target="_blank" href="https://www.quebec.ca/">
+			<img id="quebec-ca" alt="Quebec.ca" src="../images/cehq/QUEBEC_blanc.png" /></a>
+		</div>
+	</div>
+	<div class="nom-bandeau">
+		<div class="accueil-entete"><a href="/index.asp">Accueil</a></div>
+		<div id="nom-cehq">Expertise hydrique et barrages</div>
+	</div>
+</div>
+
+<!--webbot bot="Include" i-checksum="10477" endspan -->
+</div>
+
+<div class="contenant">
+
+<div id="icone">
+	<!--webbot bot="Include" U-Include="/interface/taille_du_texte.htm" TAG="BODY" startspan -->
+
+<!--webbot bot="Include" i-checksum="96" endspan -->
+</div>
+
+<div class="deco"></div>
+<div class="gauche">
+	<!--webbot bot="Include" U-Include="/Menu/nouveau_menu/mnu_css.htm" TAG="BODY" startspan -->
+
+
+<div class="menu_dyn" id="menu">
+<div id="menuEau" class="menu">
+<ul id="nav">
+
+   <li><a target="_blank" href="http://www.environnement.gouv.qc.ca/eau/hydrique-barrage/index.htm">À propos</a></li>
+   <li><a target="_blank" href="https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/eau/gestion-domaine-hydrique-etat">Domaine hydrique de l'État<img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" class="img-target-blank" /></a></li>
+ <li style="left: 0px; top: 0px"><a href="/hydrometrie/index.htm">Niveau d'eau et débit</a></li>
+ <li><a href="/prevision/index.asp">Prévisions hydrologiques</a></li>
+ <li class="menu"><a href="#"> 
+    <img src="/menu/tri3.gif" border="0" class="img_menu" width="5" height="10" />Lois et règlements</a>
+    <ul>
+        <li><a href="/securite-barrages/lois-reglements.htm">Sécurité des barrages - Loi et réglement</a></li>
+       
+
+		<li><a href="/loisreglements/regime-eaux/index.htm">Loi sur le régime des eaux</a></li>
+        <li><a href="https://www.environnement.gouv.qc.ca/eau/haut-richelieu/" target="_blank">Délimitation du domaine hydrique de l'État et protection de milieux humides - Rivière Richelieu</a></li>
+      
+        <li class="dernier"><a href="/loisreglements/reg-hydrique/index.htm">Règlement sur le domaine hydrique de l’État</a></li>
+     </ul>
+ </li>
+ <li><a href="/barrages/default.asp">Répertoire des barrages</a></li>
+ <li class="menu"><a href="../securite-barrages/index.htm"> 
+    Sécurité des barrages</a>
+    
+ </li>
+ <li class="menu"><a href="#"> 
+   <img src="/menu/tri3.gif" border="0" class="img_menu" width="5" height="10" />Zones inondables</a>
+	<ul>
+		
+				<li><a href="/zones-inond/info-crue/index.htm">Projet INFO-Crue</a></li>
+
+			<li><a href="/zones-inond/rapports-carto.htm">Rapports et cartographie</a></li>
+	</ul>
+ </li>
+ <li class="dernier"><a href="/glossaire.htm">Glossaire</a></li>
+ 
+
+</ul>
+</div>
+</div>
+<!--webbot bot="Include" i-checksum="9315" endspan -->
+</div>
+
+<div class="centre">
+
+<a name="contenu"></a>
+    <h1>Atlas hydroclimatique du Québec méridional</h1>
+<p>L’Atlas hydroclimatique est un outil cartographique présentant le régime hydrique des rivières du Québec méridional, en climat actuel et futur.</p>
+<p>De manière générale, les cours d’eau du Québec méridional seront sujets à des redoux hivernaux plus fréquents, à une hausse des précipitations sous forme de pluie en hiver et au printemps, ainsi qu’à des épisodes de pluies extrêmes plus intenses en été et en automne. Ces changements seront variables selon les saisons et les régions.</p>
+<p>En prévoyant l’impact des changements climatiques sur les débits des rivières, l’Atlas hydroclimatique permet de soutenir la mise en œuvre de pratiques de gestion de l’eau résilientes aux changements climatiques. Il comporte trois outils :
+</p>
+
+<div class="bte-g">
+	<div id="bte-1">
+	<h2>
+	<a  title="Stations hydrométriques"  href="stations-hydrometriques/index.htm">Stations hydrométriques</a>
+</h2>
+	<a title="Stations hydrométriques"href="stations-hydrometriques/index.htm">
+	<img  class="img-bte" alt="Stations hydrométriques" src="images/carte-hydro.jpg" width="210" height="160" /></a>
+<p>Carte des stations hydrométriques (débit et niveau), avec les informations sur les stations et les liens vers les données.</p>
+	</div>
+	<div id="bte-2">
+<h2>
+<a title="Portrait" href="carte-portrait/index.htm">Portrait</a>
+</h2>
+<a title="Portrait"  href="carte-portrait/index.htm"><img  class="img-bte"  alt="Portrait" src="images/portrait.jpg" width="210" height="160" /></a>
+<p>Séries temporelles de débit journalier pour la période 1970-2022, pour près de 10 000 tronçons de rivières jaugés et non jaugés. Vous pouvez donc avoir accès à des valeurs de débit historique pour un tronçon de rivière sans station ou pour une période où les données d’une station n’étaient pas disponibles.</p>
+		</div>
+	<div id="bte-3">
+<h2>
+<a title="Indicateurs" href="carte-indicateurs/index.htm">Indicateurs</a></h2>
+<a title="Indicateurs" href="carte-indicateurs/index.htm"><img  class="img-bte"  alt="Indicateurs" src="images/indicateurs.jpg" width="210" height="160" /></a>
+<p>Indicateurs hydrologiques (crue, étiage, etc.) pour la période historique et estimés pour le climat futur avec l’impact des changements climatiques, pour près de 10 000 tronçons de rivières jaugés et non jaugés.</p>
+		</div>
+</div>
+<h2>Documentation
+</h2>
+<ul>
+	<li><a target="_blank" href="tutoriel/index.html">Tutoriel</a> <span class="style9">  <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+	<li><a href="faits-saillants.htm">Faits saillants</a></li>
+	<li><a target="_blank" href="guide-atlas-hydroclimatique-2022.pdf">Guide de l'Atlas hydroclimatique du Québec méridional 2022</a><span class="style9">  (PDF, 2,7 Mo) <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+	<li><a href="rapport-atlas-hydroclimatique-2022.pdf">Atlas hydroclimatique du Québec méridional 2022 – Rapport technique</a><span class="style9">  (PDF, 10,6 Mo) <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+	<li><a href="glossaire.htm">Glossaire</a></li>
+	<li><a href="definitions-indicateurs.htm">Définition des indicateurs</a></li>
+	<li><a href="usages-limitation.htm">Usages et limitation</a></li>
+	<li><a target="_blank" href="https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2022">Données de l'Atlas (Données Québec)</a><span class="style9">  <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+	<li><a href="remerciements.htm">Remerciements</a></li>
+</ul>
+<h2>Liens utiles</h2>
+<ul>
+	<li>
+	<a target="_blank" href="https://www.ouranos.ca/fr/portraits-climatiques#/">Portraits climatiques (Ouranos)</a>&nbsp;<span class="style9"><img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span> <https://portclim.ouranos.ca/#/fr>
+	: Cette plateforme présente de l’information climatique touchant la province 
+	de Québec. Elle vise à faciliter la visualisation des changements 
+	climatiques, à sensibiliser les différents acteurs et à appuyer l'adaptation 
+	sur le territoire québécois.</li>
+	<li>Atlas précédents&nbsp;:<ul>
+		<li>2018<ul>
+			<li><a target="_blank" href="doc-accompagnement.pdf">Document d'accompagnement</a><span class="style9">  (PDF, 1,5 Mo) <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+			<li><a target="_blank" href="https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2018">Archive des données de l'Atlas 2018 (Données Québec)</a> <span class="style9">  <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+		</ul>
+		</li>
+		<li>
+		<a target="_blank" href="../hydrometrie/atlas/Atlas_hydroclimatique_2015.pdf">2015</a> 
+		<span class="style9">(<img alt="format PDF" src="../images/pdf.gif" width="16" height="16" />PDF, 15 Mo) <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+		<li>
+		<a target="_blank" href="../hydrometrie/atlas/Atlas_hydroclimatique_2013.pdf">2013</a><span class="style9"> (<img alt="format PDF"  src="../images/pdf.gif" width="16" height="16" />PDF, 6 Mo) <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span></li>
+	</ul>
+	</li>
+	<li>
+	<a target="_blank" href="https://www.environnement.gouv.qc.ca/eau/atlas/atlas-argis/index.html">Atlas de l’eau</a><span class="style9"> <img alt="Cet hyperlien s'ouvrira dans une nouvelle fenêtre." src="../images/icon-target-blank.gif" width="11" height="11" /></span>   : Cet Atlas diffuse les informations d’intérêt public concernant, notamment, les sources de pollution du milieu aquatique, la qualité de l’eau et des écosystèmes ainsi que les problématiques prioritaires identifiées par zone de gestion intégrée de l’eau par bassin versant.</li>
+</ul>
+<p>Pour que l’Atlas hydroclimatique demeure un outil adapté aux besoins des utilisateurs et qu’il rende disponibles les données les plus à jour, des améliorations y sont apportées en continu.</p>
+<p>Le Ministère invite donc les utilisateurs à émettre des commentaires ou des recommandations à propos de l’interface Web, de la méthodologie de conception de l’Atlas ou des outils d’accompagnement.</p>
+<p>La prochaine version de l’Atlas pourra ainsi bénéficier de la rétroaction de sa communauté d’utilisateurs.
+</p>
+<p>Pour nous joindre :
+<a href="mailto:atlas.hydroclimatique@environnement.gouv.qc.ca">atlas.hydroclimatique@environnement.gouv.qc.ca</a>.</p>
+<p><br />
+</p>
+</div>
+</div>
+<div class="bdp">
+<div style="clear:both; background-image:url('/interface/lignebleu_baspage.gif'); background-repeat:repeat-x; width:100%; height:2px;"></div>
+<a href="#haut">
+<img src="/images/cfleche-haut.gif" alt="Barre de navigation" border="0" hspace="5" width="22" height="26" /></a>
+
+<!--webbot bot="Include" U-Include="/images/cehq/basdepageCEHQ.htm" TAG="BODY" startspan -->
+
+
+<div class="quebec">
+	<ul>
+		<li><a title="Accueil" href="/index.asp">Accueil</a> | <a title="Plan du site" href="../accueil/plan.htm">Plan du site</a> |
+		<a title="Accessibilité" href="../accueil/accessibilite.htm">Accessibilité</a> | <a  title="Nous joindre" href="http://www.environnement.gouv.qc.ca/eau/hydrique-barrage/index.htm">Nous joindre</a>&nbsp;| <a title="Politique de confidentialité" href="http://www.environnement.gouv.qc.ca/accueil/apropos/politique.htm">Politique de confidentialité</a> |
+		<a title="Recherche" target="_blank" href="https://cse.google.com/cse?cx=000692685005083833700:tgb628aiyva&amp;gs_l=partner.3...12568.13264.0.13777.3.3.0.0.0.0.40.79.3.3.0.gsnos%2Cn%3D13...0.704j298370j3..1ac.1.25.partner..2.1.39.fh9p2B6qv4U#gsc.tab=0">
+		Recherche</a></li>
+	</ul>
+
+				<a title="Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs" target="_blank" href="https://www.environnement.gouv.qc.ca/">
+	<img alt="Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs" src="../images/cehq/MELCCFP.jpg" width="190" height="88" /></a><br />
+				<a title="Gouvernement du Québec" target="_blank" href="https://www.quebec.ca/droit-auteur">
+				© Gouvernement du Québec, 2024</a> </div>
+
+<!--webbot bot="Include" i-checksum="17537" endspan -->
+</div>
+</body>
+</html>

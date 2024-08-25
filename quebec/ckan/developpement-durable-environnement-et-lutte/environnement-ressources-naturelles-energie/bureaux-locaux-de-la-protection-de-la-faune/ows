@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><WMS_Capabilities version="1.3.0" updateSequence="57825" xmlns="http://www.opengis.net/wms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wms https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/schemas/wms/1.3.0/capabilities_1_3_0.xsd">
+  <Service>
+    <Name>WMS</Name>
+    <Title>Gestion de la faune et habitat</Title>
+    <Abstract>L'utilisation des données de ce service WMS est sujette aux conditions d'utilisation stipulées par la licence du ministère des Forêts, de la Faune et des Parcs du Québec (MFFP).&#13;
+Le MFFP ne peut garantir l’exactitude des données du service WMS et il ne peut être tenu responsable des conclusions obtenues à la suite de l’utilisation de celles-ci. Le MFFP n’assumera aucune responsabilité à l’égard de tout dommage subi à la suite de l’utilisation de ces données. Cette compilation cartographique n’a aucune portée légale, seuls les documents déposés ont force de loi.</Abstract>
+    <KeywordList>
+      <Keyword>WFS</Keyword>
+      <Keyword>WMS</Keyword>
+      <Keyword>GEOSERVER</Keyword>
+    </KeywordList>
+    <OnlineResource xlink:type="simple" xlink:href="http://geoserver.org"/>
+    <ContactInformation>
+      <ContactPersonPrimary>
+        <ContactPerson>Dominique Richard</ContactPerson>
+        <ContactOrganization>MFFP</ContactOrganization>
+      </ContactPersonPrimary>
+      <ContactPosition/>
+      <ContactAddress>
+        <AddressType/>
+        <Address/>
+        <City>Quebec</City>
+        <StateOrProvince/>
+        <PostCode/>
+        <Country>Canada</Country>
+      </ContactAddress>
+      <ContactVoiceTelephone/>
+      <ContactFacsimileTelephone/>
+      <ContactElectronicMailAddress/>
+    </ContactInformation>
+    <Fees>NONE</Fees>
+    <AccessConstraints>NONE</AccessConstraints>
+  </Service>
+  <Capability>
+    <Request>
+      <GetCapabilities>
+        <Format>text/xml</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?SERVICE=WMS&amp;"/>
+            </Get>
+            <Post>
+              <OnlineResource xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?SERVICE=WMS&amp;"/>
+            </Post>
+          </HTTP>
+        </DCPType>
+      </GetCapabilities>
+      <GetMap>
+        <Format>image/png</Format>
+        <Format>application/atom+xml</Format>
+        <Format>application/json;type=geojson</Format>
+        <Format>application/json;type=topojson</Format>
+        <Format>application/json;type=utfgrid</Format>
+        <Format>application/pdf</Format>
+        <Format>application/rss+xml</Format>
+        <Format>application/vnd.google-earth.kml+xml</Format>
+        <Format>application/vnd.google-earth.kml+xml;mode=networklink</Format>
+        <Format>application/vnd.google-earth.kmz</Format>
+        <Format>application/x-protobuf;type=mapbox-vector</Format>
+        <Format>image/geotiff</Format>
+        <Format>image/geotiff8</Format>
+        <Format>image/gif</Format>
+        <Format>image/jpeg</Format>
+        <Format>image/png; mode=8bit</Format>
+        <Format>image/svg+xml</Format>
+        <Format>image/tiff</Format>
+        <Format>image/tiff8</Format>
+        <Format>image/vnd.jpeg-png</Format>
+        <Format>text/html; subtype=openlayers</Format>
+        <Format>text/html; subtype=openlayers2</Format>
+        <Format>text/html; subtype=openlayers3</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?SERVICE=WMS&amp;"/>
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetMap>
+      <GetFeatureInfo>
+        <Format>text/plain</Format>
+        <Format>application/vnd.ogc.gml</Format>
+        <Format>text/xml</Format>
+        <Format>application/vnd.ogc.gml/3.1.1</Format>
+        <Format>text/xml; subtype=gml/3.1.1</Format>
+        <Format>text/html</Format>
+        <Format>application/json</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?SERVICE=WMS&amp;"/>
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetFeatureInfo>
+    </Request>
+    <Exception>
+      <Format>XML</Format>
+      <Format>INIMAGE</Format>
+      <Format>BLANK</Format>
+      <Format>JSON</Format>
+    </Exception>
+    <Layer>
+      <Title>Gestion de la faune et habitat</Title>
+      <Abstract>L'utilisation des données de ce service WMS est sujette aux conditions d'utilisation stipulées par la licence du ministère des Forêts, de la Faune et des Parcs du Québec (MFFP).&#13;
+Le MFFP ne peut garantir l’exactitude des données du service WMS et il ne peut être tenu responsable des conclusions obtenues à la suite de l’utilisation de celles-ci. Le MFFP n’assumera aucune responsabilité à l’égard de tout dommage subi à la suite de l’utilisation de ces données. Cette compilation cartographique n’a aucune portée légale, seuls les documents déposés ont force de loi.</Abstract>
+      <!--Limited list of EPSG projections:-->
+      <CRS>EPSG:4326</CRS>
+      <CRS>EPSG:3857</CRS>
+      <CRS>EPSG:32198</CRS>
+      <CRS>CRS:84</CRS>
+      <EX_GeographicBoundingBox>
+        <westBoundLongitude>-84.40158802863279</westBoundLongitude>
+        <eastBoundLongitude>-53.40925534306087</eastBoundLongitude>
+        <southBoundLatitude>44.513231971596866</southBoundLatitude>
+        <northBoundLatitude>62.84305092210318</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox CRS="CRS:84" minx="-84.40158802863279" miny="44.513231971596866" maxx="-53.40925534306087" maxy="62.84305092210318"/>
+      <Layer queryable="1" opaque="0">
+        <Name>Bureaux_protection_faune</Name>
+        <Title>Bureaux de la Protection de la faune du Québec</Title>
+        <Abstract>Localisation des bureaux de la Protection de la faune du Québec.</Abstract>
+        <KeywordList>
+          <Keyword>protection</Keyword>
+          <Keyword>faune</Keyword>
+          <Keyword>bureau</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.4318547723337</westBoundLongitude>
+          <eastBoundLongitude>-57.2038059611108</eastBoundLongitude>
+          <southBoundLatitude>45.2675694292284</southBoundLatitude>
+          <northBoundLatitude>58.109141</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.4318547723337" miny="45.2675694292284" maxx="-57.2038059611108" maxy="58.109141"/>
+        <BoundingBox CRS="EPSG:4269" minx="45.2675694292284" miny="-79.4318547723337" maxx="58.109141" maxy="-57.2038059611108"/>
+        <Style>
+          <Name>SmartFaune:bureaux_protection_faune</Name>
+          <Title>SmartFaune:bureaux_protection_faune</Title>
+          <LegendURL width="113" height="40">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Bureaux_protection_faune"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>1.0E7</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>Chasse_Interdite</Name>
+        <Title>Chasse interdite</Title>
+        <Abstract>Territoires où toute activité de chasse est interdite.</Abstract>
+        <KeywordList>
+          <Keyword>faune</Keyword>
+          <Keyword>chasse</Keyword>
+          <Keyword>interdite</Keyword>
+          <Keyword>interdiction</Keyword>
+        </KeywordList>
+        <CRS>EPSG:32198</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-83.68733543263089</westBoundLongitude>
+          <eastBoundLongitude>-53.988240414719684</eastBoundLongitude>
+          <southBoundLatitude>44.62675064833965</southBoundLatitude>
+          <northBoundLatitude>61.54986528502946</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-83.68733543263089" miny="44.62675064833965" maxx="-53.988240414719684" maxy="61.54986528502946"/>
+        <BoundingBox CRS="EPSG:32198" minx="-823117.5754000023" miny="129695.77199999988" maxx="785455.4290162585" maxy="1946054.833"/>
+        <Style>
+          <Name>SmartFaune:ChasseInterdite</Name>
+          <Title>SmartFaune:ChasseInterdite</Title>
+          <LegendURL width="20" height="20">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Chasse_Interdite"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>Chemins_Forestiers</Name>
+        <Title>Chemins_Forestiers</Title>
+        <Abstract/>
+        <KeywordList>
+          <Keyword>features</Keyword>
+          <Keyword>Chemins_Forestiersz</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.534020829917</westBoundLongitude>
+          <eastBoundLongitude>-57.1072198861048</eastBoundLongitude>
+          <southBoundLatitude>45.0052777945769</southBoundLatitude>
+          <northBoundLatitude>62.4018694851256</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.534020829917" miny="45.0052777945769" maxx="-57.1072198861048" maxy="62.4018694851256"/>
+        <BoundingBox CRS="EPSG:4269" minx="45.0052777945769" miny="-79.534020829917" maxx="62.4018694851256" maxy="-57.1072198861048"/>
+        <Style>
+          <Name>SmartFaune:CheminForestiers</Name>
+          <Title>SmartFaune:CheminForestiers</Title>
+          <LegendURL width="142" height="200">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Chemins_Forestiers"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>1000000.0</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>DISTRICTS_PFQ</Name>
+        <Title>Districts de la Protection de la faune</Title>
+        <Abstract>Limites des districts de la Protection de la faune du Québec (PFQ).</Abstract>
+        <KeywordList>
+          <Keyword>features</Keyword>
+          <Keyword>DISTRICTS_PFQ</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.7653242659999</westBoundLongitude>
+          <eastBoundLongitude>-56.934926886</eastBoundLongitude>
+          <southBoundLatitude>44.9913583260001</southBoundLatitude>
+          <northBoundLatitude>62.582465701</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.7653242659999" miny="44.9913583260001" maxx="-56.934926886" maxy="62.582465701"/>
+        <BoundingBox CRS="EPSG:4269" minx="44.9913583260001" miny="-79.7653242659999" maxx="62.582465701" maxy="-56.934926886"/>
+        <Style>
+          <Name>SmartFaune:DISTRICTS_PFQ</Name>
+          <Title>SmartFaune:DISTRICTS_PFQ</Title>
+          <LegendURL width="145" height="120">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=DISTRICTS_PFQ"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>4.0E7</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>Habitats_Fauniques</Name>
+        <Title>Habitats fauniques</Title>
+        <Abstract>La couche des habitats fauniques (HAFA) contient les données des 11 habitats fauniques légaux situés sur les terres du domaine de l’État qui respectent la définition du Règlement sur les habitats fauniques (RHF). On trouve aussi les HAFA situés sur terres mixtes et privées à titre informationnel.</Abstract>
+        <KeywordList>
+          <Keyword>faune</Keyword>
+          <Keyword>habitat</Keyword>
+          <Keyword>faunique</Keyword>
+          <Keyword>HAFA</Keyword>
+          <Keyword>héronnière</Keyword>
+          <Keyword>vasière</Keyword>
+          <Keyword>aire confinement</Keyword>
+          <Keyword>cerf virginie</Keyword>
+          <Keyword>caribou</Keyword>
+          <Keyword>oiseaux aquatiques</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.5175811605749</westBoundLongitude>
+          <eastBoundLongitude>-57.2304010536903</eastBoundLongitude>
+          <southBoundLatitude>44.9913398816882</southBoundLatitude>
+          <northBoundLatitude>62.3171723377581</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.5175811605749" miny="44.9913398816882" maxx="-57.2304010536903" maxy="62.3171723377581"/>
+        <BoundingBox CRS="EPSG:4269" minx="44.9913398816882" miny="-79.5175811605749" maxx="62.3171723377581" maxy="-57.2304010536903"/>
+        <Style>
+          <Name>SmartFaune:Habitats_Fauniques</Name>
+          <Title>SmartFaune:Habitats_Fauniques</Title>
+          <LegendURL width="332" height="220">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Habitats_Fauniques"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>4000000.0</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>IGT_UGAF</Name>
+        <Title>Unités de gestion des animaux à fourrure</Title>
+        <Abstract>Délimitation territoriale adaptée à la gestion des animaux à fourrure (réglementation, enregistrement de données, déclaration sur la récolte, etc.)</Abstract>
+        <KeywordList>
+          <Keyword>UGAF</Keyword>
+          <Keyword>faune</Keyword>
+          <Keyword>territoire piégeage</Keyword>
+          <Keyword>trappe</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.7594147</westBoundLongitude>
+          <eastBoundLongitude>-56.9342891</eastBoundLongitude>
+          <southBoundLatitude>44.991343</southBoundLatitude>
+          <northBoundLatitude>62.5861932</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.7594147" miny="44.991343" maxx="-56.9342891" maxy="62.5861932"/>
+        <BoundingBox CRS="EPSG:4269" minx="44.991343" miny="-79.7594147" maxx="62.5861932" maxy="-56.9342891"/>
+        <Style>
+          <Name>SmartFaune:UGAF</Name>
+          <Title>SmartFaune:UGAF</Title>
+          <LegendURL width="20" height="20">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=IGT_UGAF"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>LIMITE_REGIONS_PFQ</Name>
+        <Title>Directions régionales de la Protection de la faune</Title>
+        <Abstract>Limites des directions régionales de la Protection de la faune du Québec (PFQ).</Abstract>
+        <KeywordList>
+          <Keyword>faune</Keyword>
+          <Keyword>PFQ</Keyword>
+          <Keyword>direction régionale</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.7652469997736</westBoundLongitude>
+          <eastBoundLongitude>-56.934954</eastBoundLongitude>
+          <southBoundLatitude>44.9913610001171</southBoundLatitude>
+          <northBoundLatitude>62.5862040006254</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.7652469997736" miny="44.9913610001171" maxx="-56.934954" maxy="62.5862040006254"/>
+        <BoundingBox CRS="EPSG:4269" minx="44.9913610001171" miny="-79.7652469997736" maxx="62.5862040006254" maxy="-56.934954"/>
+        <Style>
+          <Name>SmartFaune:limite_region_pfq</Name>
+          <Title>SmartFaune:limite_region_pfq</Title>
+          <LegendURL width="20" height="20">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=LIMITE_REGIONS_PFQ"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>TFS</Name>
+        <Title>Territoires fauniques structurés</Title>
+        <Abstract>Territoires établis en vertu du chapitre IV de la Loi sur la conservation et la mise en valeur de la faune pour la conservation, la mise en valeur de la faune et accessoirement pour la pratique d'activités récréatives.</Abstract>
+        <KeywordList>
+          <Keyword>TFS</Keyword>
+          <Keyword>faune</Keyword>
+          <Keyword>zec</Keyword>
+          <Keyword>pourvoirie</Keyword>
+          <Keyword>petit lac aménagée</Keyword>
+          <Keyword>réserve faunique</Keyword>
+          <Keyword>aire faunique communautaire</Keyword>
+          <Keyword>territoire exclusif chasse</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-79.0572502</westBoundLongitude>
+          <eastBoundLongitude>-57.5686539</eastBoundLongitude>
+          <southBoundLatitude>45.2291333</southBoundLatitude>
+          <northBoundLatitude>52.1488198</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-79.0572502" miny="45.2291333" maxx="-57.5686539" maxy="52.1488198"/>
+        <BoundingBox CRS="EPSG:4269" minx="45.2291333" miny="-79.0572502" maxx="52.1488198" maxy="-57.5686539"/>
+        <Style>
+          <Name>SmartFaune:TFS</Name>
+          <Title>TFS</Title>
+          <LegendURL width="195" height="120">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=TFS"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>5000000.0</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>Zone_chasse_da3_sefaq</Name>
+        <Title>Zones et parties de zones de chasse</Title>
+        <Abstract>Délimitation du territoire Québécois en 29 zones, et leurs parties de zones, en vertu de la Loi sur la conservation et la mise en valeur de la faune, L.R.Q., ch. C-61.1. Toutefois, la zone 25 constitue uniquement une zone de pêche.</Abstract>
+        <KeywordList>
+          <Keyword>features</Keyword>
+          <Keyword>zones_de_chasse_2022_03_23_Qlite</Keyword>
+        </KeywordList>
+        <CRS>EPSG:32198</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-84.40158802863279</westBoundLongitude>
+          <eastBoundLongitude>-53.40925534306087</eastBoundLongitude>
+          <southBoundLatitude>44.513231971596866</southBoundLatitude>
+          <northBoundLatitude>62.84305092210318</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-84.40158802863279" miny="44.513231971596866" maxx="-53.40925534306087" maxy="62.84305092210318"/>
+        <BoundingBox CRS="EPSG:32198" minx="-830340.2509685084" miny="117964.15103721619" maxx="786683.3819669809" maxy="2091058.4830454448"/>
+        <Style>
+          <Name>SmartFaune:zoneChasseDA3</Name>
+          <Title>SmartFaune:zoneChasseDA3</Title>
+          <LegendURL width="20" height="20">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Zone_chasse_da3_sefaq"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0">
+        <Name>secteur_chasse_anticosti</Name>
+        <Title>secteur_chasse_anticosti</Title>
+        <Abstract/>
+        <KeywordList>
+          <Keyword>features</Keyword>
+          <Keyword>Secteurs_de_chasse_Anticosti_2024</Keyword>
+        </KeywordList>
+        <CRS>EPSG:4269</CRS>
+        <CRS>CRS:84</CRS>
+        <EX_GeographicBoundingBox>
+          <westBoundLongitude>-64.52430042189741</westBoundLongitude>
+          <eastBoundLongitude>-61.66946301761518</eastBoundLongitude>
+          <southBoundLatitude>49.06220511785659</southBoundLatitude>
+          <northBoundLatitude>49.95206815007116</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="CRS:84" minx="-64.52430042189741" miny="49.06220511785659" maxx="-61.66946301761518" maxy="49.95206815007116"/>
+        <BoundingBox CRS="EPSG:4269" minx="49.06220511785659" miny="-64.52430042189741" maxx="49.95206815007116" maxy="-61.66946301761518"/>
+        <Style>
+          <Name>SmartFaune:ZoneChasseAnticosti</Name>
+          <Title>SmartFaune:ZoneChasseAnticosti</Title>
+          <LegendURL width="20" height="20">
+            <Format>image/png</Format>
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://servicesvecto3.mern.gouv.qc.ca:443/geoserver/SmartFaunePub/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=secteur_chasse_anticosti"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+    </Layer>
+  </Capability>
+</WMS_Capabilities>

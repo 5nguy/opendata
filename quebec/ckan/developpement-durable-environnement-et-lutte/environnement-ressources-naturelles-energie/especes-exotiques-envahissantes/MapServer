@@ -1,0 +1,129 @@
+<html lang="en">
+<head>
+<title>Biodiversite/EEE (MapServer)</title>
+<link href="/donnees/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/login?returnUrl=https://geo.environnement.gouv.qc.ca/donnees/rest/services">Login</a>
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/donnees/rest/services">Home</a>
+&gt; <a href="/donnees/rest/services">services</a>
+&gt; <a href="/donnees/rest/services/Biodiversite">Biodiversite</a>
+&gt; <a href="/donnees/rest/services/Biodiversite/EEE/MapServer">EEE (MapServer)</a>
+</td>
+<td align="right">
+<a href="https://geo.environnement.gouv.qc.ca/donnees/help/en/rest/router.html?f=rest/services/Biodiversite/EEE/MapServer" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Biodiversite/EEE/MapServer?wsdl" >SOAP</a>
+| <a href="https://geo.environnement.gouv.qc.ca/donnees/services/Biodiversite/EEE/MapServer/WMSServer?request=GetCapabilities&service=WMS" >WMS</a>
+</td>
+</tr>
+</table>
+<h2>Biodiversite/EEE (MapServer)</h2>
+<div class="rbody">
+<b>View In:</b>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer?f=jsapi" target="_blank">ArcGIS JavaScript</a>
+&nbsp;&nbsp;<a href="https://www.arcgis.com/home/webmap/viewer.html?url=https://geo.environnement.gouv.qc.ca/donnees/rest/services/Biodiversite/EEE/MapServer&source=sd" target="_blank">ArcGIS Online Map Viewer</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/kml/mapImage.kmz">ArcGIS Earth</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer?f=pitemx" target="_blank">ArcGIS Pro</a>
+<br/><br/>
+<b>Service Description: </b> <div style='text-align:Left;font-size:12pt'><div><div><p><span>Une espèce exotique envahissante (EEE) est un végétal, un animal ou un micro-organisme (virus, bactérie ou champignon) qui est introduit hors de son aire de répartition naturelle, qui colonise de nouveaux sites ou de nouvelles régions à un rythme rapide et qui peut former des populations dominantes. L’environnement, l’économie et la société peuvent être touchés par l’introduction ou la propagation des espèces exotiques envahissantes. Par exemple, celles-ci peuvent dégrader des habitats, nuire aux espèces du Québec et nuire à l’agriculture, la foresterie, l’industrie de la pêche, la navigation de plaisance et le tourisme. Certaines espèces peuvent transmettre des maladies et des parasites à la faune et à la flore et représenter un danger pour la santé humaine.</span></p><p><span /></p><p><span>Les espèces répertoriées sont des espèces de la faune et de la flore préoccupantes (ou potentiellement préoccupantes) pour la biodiversité du Québec. Il s'agit de plus de 70 espèces, présentes au Québec et ou à risque de s'y introduire. </span></p><p><span /></p><p><span>Pour plus d’information sur les espèces exotiques envahissantes, consulter le site du Ministère à l’adresse suivante : </span><a href='https://www.environnement.gouv.qc.ca/biodiversite/especes-exotiques-envahissantes/index.asp' style='text-decoration:underline;'><span>https://www.environnement.gouv.qc.ca/biodiversite/especes-exotiques-envahissantes/index.asp</span></a><span>.</span></p></div></div></div><br/><br/>
+<b>Map Name: </b> EEE<br/><br/>
+<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/legend">Legend</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/layers">All Layers and Tables</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/legend?dynamicLayers=%5B%5D&">Dynamic Legend</a><br/><br/>
+<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/layers?dynamicLayers=%5B%5D&">Dynamic All Layers</a><br/><br/>
+<b>Layers: </b>
+<ul>
+<li>
+<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/0">Sentinelle - Esp&egrave;ces exotiques envahissantes</a> (0)
+</li>
+</ul>
+<b>Tables: </b>
+<ul>
+<li><a href="/donnees/rest/services/Biodiversite/EEE/MapServer/1">Photos des observations</a> (1)</li>
+</ul>
+<b>Description: </b> <DIV STYLE="text-align:Left;font-size:12pt"><DIV><DIV><P><SPAN>Une espèce exotique envahissante (EEE) est un végétal, un animal ou un micro-organisme (virus, bactérie ou champignon) qui est introduit hors de son aire de répartition naturelle, qui colonise de nouveaux sites ou de nouvelles régions à un rythme rapide et qui peut former des populations dominantes. L’environnement, l’économie et la société peuvent être touchés par l’introduction ou la propagation des espèces exotiques envahissantes. Par exemple, celles-ci peuvent dégrader des habitats, nuire aux espèces du Québec et nuire à l’agriculture, la foresterie, l’industrie de la pêche, la navigation de plaisance et le tourisme. Certaines espèces peuvent transmettre des maladies et des parasites à la faune et à la flore et représenter un danger pour la santé humaine.</SPAN></P><P><SPAN /></P><P><SPAN>Les espèces répertoriées sont des espèces de la faune et de la flore préoccupantes (ou potentiellement préoccupantes) pour la biodiversité du Québec. Il s'agit de plus de 70 espèces, présentes au Québec et ou à risque de s'y introduire. </SPAN></P><P><SPAN /></P><P><SPAN>Pour plus d’information sur les espèces exotiques envahissantes, consulter le site du Ministère à l’adresse suivante : </SPAN><A href="https://www.environnement.gouv.qc.ca/biodiversite/especes-exotiques-envahissantes/index.asp" STYLE="text-decoration:underline;"><SPAN>https://www.environnement.gouv.qc.ca/biodiversite/especes-exotiques-envahissantes/index.asp</SPAN></A><SPAN>.</SPAN></P></DIV></DIV></DIV><br/><br/>
+<b>Service Item Id: </b> f345bf422b9a428189cf4abe5b211324<br/><br/>
+<b>Copyright Text: </b> &copy; Gouvernement du Qu&eacute;bec<br/> <br/>
+<b>Spatial Reference: </b>
+102100
+&nbsp;(3857)
+<br/><br/><br/>
+<b>Single Fused Map Cache: </b> false<br/><br/>
+<b>Initial Extent: </b>
+<ul>
+XMin: -9430579.076912431<br/>
+YMin: 4980714.628914006<br/>
+XMax: -6103522.591718919<br/>
+YMax: 7215727.063695362<br/>
+Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+</ul>
+<b>Full Extent: </b>
+<ul>
+XMin: -8867432.337865189<br/>
+YMin: 5614290.025601692<br/>
+XMax: -6836124.36364039<br/>
+YMax: 6489565.266316989<br/>
+Spatial Reference: 102100
+&nbsp;(3857)
+<br/><br/>
+</ul>
+<b>Units: </b> esriMeters<br/><br/>
+<b>Supported Image Format Types: </b> PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP<br/><br/>
+<b>Document Info: </b>
+<ul>
+Title: EEE<br/>
+Author: <br/>
+Comments: &lt;DIV STYLE=&quot;text-align:Left;font-size:12pt&quot;&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Une esp&egrave;ce exotique envahissante (EEE) est un v&eacute;g&eacute;tal, un animal ou un micro-organisme (virus, bact&eacute;rie ou champignon) qui est introduit hors de son aire de r&eacute;partition naturelle, qui colonise de nouveaux sites ou de nouvelles r&eacute;gions &agrave; un rythme rapide et qui peut former des populations dominantes. L&rsquo;environnement, l&rsquo;&eacute;conomie et la soci&eacute;t&eacute; peuvent &ecirc;tre touch&eacute;s par l&rsquo;introduction ou la propagation des esp&egrave;ces exotiques envahissantes. Par exemple, celles-ci peuvent d&eacute;grader des habitats, nuire aux esp&egrave;ces du Qu&eacute;bec et nuire &agrave; l&rsquo;agriculture, la foresterie, l&rsquo;industrie de la p&ecirc;che, la navigation de plaisance et le tourisme. Certaines esp&egrave;ces peuvent transmettre des maladies et des parasites &agrave; la faune et &agrave; la flore et repr&eacute;senter un danger pour la sant&eacute; humaine.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Les esp&egrave;ces r&eacute;pertori&eacute;es sont des esp&egrave;ces de la faune et de la flore pr&eacute;occupantes (ou potentiellement pr&eacute;occupantes) pour la biodiversit&eacute; du Qu&eacute;bec. Il s'agit de plus de 70 esp&egrave;ces, pr&eacute;sentes au Qu&eacute;bec et ou &agrave; risque de s'y introduire. &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Pour plus d&rsquo;information sur les esp&egrave;ces exotiques envahissantes, consulter le site du Minist&egrave;re &agrave; l&rsquo;adresse suivante : &lt;/SPAN&gt;&lt;A href=&quot;https://www.environnement.gouv.qc.ca/biodiversite/especes-exotiques-envahissantes/index.asp&quot; STYLE=&quot;text-decoration:underline;&quot;&gt;&lt;SPAN&gt;https://www.environnement.gouv.qc.ca/biodiversite/especes-exotiques-envahissantes/index.asp&lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt;.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;<br/>
+Subject: Observations d&rsquo;esp&egrave;ces exotiques envahissantes transmises et valid&eacute;es par Sentinelle, un outil de d&eacute;tection des esp&egrave;ces les plus pr&eacute;occupantes pour la biodiversit&eacute; du Qu&eacute;bec<br/>
+Category: <br/>
+Keywords: Animaux,Crustacés,EFEE,Insectes,Mollusques,Plantes,Plante aquatique flottante,Plante aquatique submergée,Plante de milieux terrestres,Plante émergente,Poissons,Reptiles<br/>
+AntialiasingMode: Fast<br/>
+TextAntialiasingMode: Force<br/></ul>
+<b>Supports Dynamic Layers: </b> true<br/><br/>
+<b>MaxRecordCount: </b> 2000<br/><br/>
+<b>MaxImageHeight: </b> 4096<br/><br/>
+<b>MaxImageWidth: </b> 4096<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON, PBF<br/><br/>
+<b>Supports Query Data Elements: </b> true<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Datum Transformation: </b> true<br/><br/>
+<br/><br/>
+<b>Child Resources</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/info">Info</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/dynamicLayer">Dynamic Layer</a>
+<br/> <br/>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/export?bbox=-9430579.076912431,4980714.628914006,-6103522.591718919,7215727.063695362">Export Map</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/identify">Identify</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/queryLegends">QueryLegends</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/queryDomains">QueryDomains</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/find">Find</a>
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer?f=pjson&returnUpdates=true&">Return Updates</a>
+<!--
+&nbsp;&nbsp;<a href="/donnees/rest/services/Biodiversite/EEE/MapServer/queryDataElements">Query Data Elements</a>
+-->
+</div>
+<br/><br/>
+</body>
+</html>
