@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X01_PARAMETRE>
+ <designation>
+  <DESI>01</DESI>
+  <DESC_DESI>Canton</DESC_DESI>
+  <DESC_ABR>CT</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>03</DESI>
+  <DESC_DESI>Cité</DESC_DESI>
+  <DESC_ABR> C</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>04</DESI>
+  <DESC_DESI>Paroisse</DESC_DESI>
+  <DESC_ABR> P</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>05</DESI>
+  <DESC_DESI>Municipalité</DESC_DESI>
+  <DESC_ABR> M</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>06</DESI>
+  <DESC_DESI>Village</DESC_DESI>
+  <DESC_ABR>VL</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>09</DESI>
+  <DESC_DESI>Village nordique</DESC_DESI>
+  <DESC_ABR>VN</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>10</DESI>
+  <DESC_DESI>Ville</DESC_DESI>
+  <DESC_ABR> V</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>15</DESI>
+  <DESC_DESI>Arrondissement</DESC_DESI>
+  <DESC_ABR> A</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>16</DESI>
+  <DESC_DESI>Établissement indien</DESC_DESI>
+  <DESC_ABR>EI</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>20</DESI>
+  <DESC_DESI>Réserve indienne</DESC_DESI>
+  <DESC_ABR>RI</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>25</DESI>
+  <DESC_DESI>Territoire non organisé</DESC_DESI>
+  <DESC_ABR>NO</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>26</DESI>
+  <DESC_DESI>Territoire non organisé regroupé</DESC_DESI>
+  <DESC_ABR>TR</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>30</DESI>
+  <DESC_DESI>Administration régionale</DESC_DESI>
+  <DESC_ABR>ARg</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>31</DESI>
+  <DESC_DESI>Communauté régionale</DESC_DESI>
+  <DESC_ABR>CRg</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>32</DESI>
+  <DESC_DESI>Communauté urbaine</DESC_DESI>
+  <DESC_ABR>CUr</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>33</DESI>
+  <DESC_DESI>Communauté métropolitaine</DESC_DESI>
+  <DESC_ABR>CM</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>34</DESI>
+  <DESC_DESI>Agglomération</DESC_DESI>
+  <DESC_ABR>AG</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>35</DESI>
+  <DESC_DESI>Municipalité régionale de comté</DESC_DESI>
+  <DESC_ABR>MRC</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>40</DESI>
+  <DESC_DESI>Gouvernement régional</DESC_DESI>
+  <DESC_ABR>GR</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>02</DESI>
+  <DESC_DESI>Cantons unis</DESC_DESI>
+  <DESC_ABR>CU</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>21</DESI>
+  <DESC_DESI>Terre de la catégorie IA</DESC_DESI>
+  <DESC_ABR>TC</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>23</DESI>
+  <DESC_DESI>Terre de la catégorie I</DESC_DESI>
+  <DESC_ABR>TI</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>22</DESI>
+  <DESC_DESI>Terre de la catégorie IA-N</DESC_DESI>
+  <DESC_ABR>TK</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>07</DESI>
+  <DESC_DESI>Village cri (Terre de la catégorie</DESC_DESI>
+  <DESC_ABR>VC</DESC_ABR>
+ </designation>
+ <designation>
+  <DESI>08</DESI>
+  <DESC_DESI>Village naskapi (Terre de la catégo</DESC_DESI>
+  <DESC_ABR>VK</DESC_ABR>
+ </designation>
+ <categorie>
+  <CAT>50</CAT>
+  <DESC_CAT>Régie Intermunicipale</DESC_CAT>
+  <DESC_ABR>RgI</DESC_ABR>
+ </categorie>
+ <categorie>
+  <CAT>60</CAT>
+  <DESC_CAT>Conseil Intermunicipal de Transport</DESC_CAT>
+  <DESC_ABR>CIT</DESC_ABR>
+ </categorie>
+ <categorie>
+  <CAT>61</CAT>
+  <DESC_CAT>Société de Transport</DESC_CAT>
+  <DESC_ABR>ScT</DESC_ABR>
+ </categorie>
+ <categorie>
+  <CAT>62</CAT>
+  <DESC_CAT>Corporation de Transport</DESC_CAT>
+  <DESC_ABR>CpT</DESC_ABR>
+ </categorie>
+ <agglomeration>
+  <NO_AG_REG>403</NO_AG_REG>
+  <DESC_AG_R>Matane</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>404</NO_AG_REG>
+  <DESC_AG_R>Rimouski</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>405</NO_AG_REG>
+  <DESC_AG_R>Rivière-du-Loup</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>406</NO_AG_REG>
+  <DESC_AG_R>Baie-Comeau</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>408</NO_AG_REG>
+  <DESC_AG_R>Saguenay</DESC_AG_R>
+  <COMP>R</COMP>
+  <DESC_COMP>Région métropolitaine</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>410</NO_AG_REG>
+  <DESC_AG_R>Alma</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>411</NO_AG_REG>
+  <DESC_AG_R>Dolbeau-Mistassini</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>412</NO_AG_REG>
+  <DESC_AG_R>Sept-Îles</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>421</NO_AG_REG>
+  <DESC_AG_R>Québec</DESC_AG_R>
+  <COMP>R</COMP>
+  <DESC_COMP>Région métropolitaine</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>428</NO_AG_REG>
+  <DESC_AG_R>Saint-Georges</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>430</NO_AG_REG>
+  <DESC_AG_R>Thetford Mines</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>433</NO_AG_REG>
+  <DESC_AG_R>Sherbrooke</DESC_AG_R>
+  <COMP>R</COMP>
+  <DESC_COMP>Région métropolitaine</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>435</NO_AG_REG>
+  <DESC_AG_R>Magog</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>437</NO_AG_REG>
+  <DESC_AG_R>Cowansville</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>440</NO_AG_REG>
+  <DESC_AG_R>Victoriaville</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>442</NO_AG_REG>
+  <DESC_AG_R>Trois-Rivières</DESC_AG_R>
+  <COMP>R</COMP>
+  <DESC_COMP>Région métropolitaine</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>444</NO_AG_REG>
+  <DESC_AG_R>Shawinigan</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>446</NO_AG_REG>
+  <DESC_AG_R>La Tuque</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>447</NO_AG_REG>
+  <DESC_AG_R>Drummondville</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>450</NO_AG_REG>
+  <DESC_AG_R>Granby</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>452</NO_AG_REG>
+  <DESC_AG_R>Saint-Hyacinthe</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>454</NO_AG_REG>
+  <DESC_AG_R>Sorel-Tracy</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>456</NO_AG_REG>
+  <DESC_AG_R>Joliette</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>459</NO_AG_REG>
+  <DESC_AG_R>Saint-Jean-sur-Richelieu</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>462</NO_AG_REG>
+  <DESC_AG_R>Montréal</DESC_AG_R>
+  <COMP>R</COMP>
+  <DESC_COMP>Région métropolitaine</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>465</NO_AG_REG>
+  <DESC_AG_R>Salaberry-de-Valleyfield</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>468</NO_AG_REG>
+  <DESC_AG_R>Lachute</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>480</NO_AG_REG>
+  <DESC_AG_R>Val-d'Or</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>481</NO_AG_REG>
+  <DESC_AG_R>Amos</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>485</NO_AG_REG>
+  <DESC_AG_R>Rouyn-Noranda</DESC_AG_R>
+  <COMP>A</COMP>
+  <DESC_COMP>Agglomération</DESC_COMP>
+ </agglomeration>
+ <agglomeration>
+  <NO_AG_REG>505</NO_AG_REG>
+  <DESC_AG_R>Gatineau</DESC_AG_R>
+  <COMP>R</COMP>
+  <DESC_COMP>Région métropolitaine</DESC_COMP>
+ </agglomeration>
+ <region>
+  <NO_REG>01</NO_REG>
+  <DESC_REG>Bas-Saint-Laurent</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>02</NO_REG>
+  <DESC_REG>Saguenay--Lac-Saint-Jean</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>03</NO_REG>
+  <DESC_REG>Capitale-Nationale</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>04</NO_REG>
+  <DESC_REG>Mauricie</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>05</NO_REG>
+  <DESC_REG>Estrie</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>06</NO_REG>
+  <DESC_REG>Montréal</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>07</NO_REG>
+  <DESC_REG>Outaouais</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>08</NO_REG>
+  <DESC_REG>Abitibi-Témiscamingue</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>09</NO_REG>
+  <DESC_REG>Côte-Nord</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>10</NO_REG>
+  <DESC_REG>Nord-du-Québec</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>11</NO_REG>
+  <DESC_REG>Gaspésie--Îles-de-la-Madeleine</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>12</NO_REG>
+  <DESC_REG>Chaudière-Appalaches</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>13</NO_REG>
+  <DESC_REG>Laval</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>14</NO_REG>
+  <DESC_REG>Lanaudière</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>15</NO_REG>
+  <DESC_REG>Laurentides</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>16</NO_REG>
+  <DESC_REG>Montérégie</DESC_REG>
+ </region>
+ <region>
+  <NO_REG>17</NO_REG>
+  <DESC_REG>Centre-du-Québec</DESC_REG>
+ </region>
+ <fonction>
+  <FONCT>01000</FONCT>
+  <DESC_FONCT>Administration générale</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01010</FONCT>
+  <DESC_FONCT>Législation</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01020</FONCT>
+  <DESC_FONCT>Application de la loi</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01030</FONCT>
+  <DESC_FONCT>Gestion financière/administrative</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01040</FONCT>
+  <DESC_FONCT>Greffe</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01050</FONCT>
+  <DESC_FONCT>Évaluation</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01060</FONCT>
+  <DESC_FONCT>Gestion du personnel</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01070</FONCT>
+  <DESC_FONCT>Hôtel de ville</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01080</FONCT>
+  <DESC_FONCT>Infrastructure municipale</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>01990</FONCT>
+  <DESC_FONCT>Autres - Administration générale</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02000</FONCT>
+  <DESC_FONCT>Sécurité publique</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02010</FONCT>
+  <DESC_FONCT>Police</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02020</FONCT>
+  <DESC_FONCT>Protection incendie</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02030</FONCT>
+  <DESC_FONCT>Protection civile</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02040</FONCT>
+  <DESC_FONCT>Police et protection incendie</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02050</FONCT>
+  <DESC_FONCT>Protection civile et police</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>02990</FONCT>
+  <DESC_FONCT>Autres - Sécurité publique</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03000</FONCT>
+  <DESC_FONCT>Transports</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03010</FONCT>
+  <DESC_FONCT>Administration</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03020</FONCT>
+  <DESC_FONCT>Voirie municipale</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03030</FONCT>
+  <DESC_FONCT>Enlèvement de la neige</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03040</FONCT>
+  <DESC_FONCT>Éclairage des rues</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03050</FONCT>
+  <DESC_FONCT>Circulation</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03060</FONCT>
+  <DESC_FONCT>Stationnement</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03070</FONCT>
+  <DESC_FONCT>Transport terrestre des personnes</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03080</FONCT>
+  <DESC_FONCT>Transport aérien</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03090</FONCT>
+  <DESC_FONCT>Transport maritime</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>03990</FONCT>
+  <DESC_FONCT>Autres - Transports</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>04000</FONCT>
+  <DESC_FONCT>Hygiène du milieu</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>04010</FONCT>
+  <DESC_FONCT>Eau</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0401A</FONCT>
+  <DESC_FONCT>Aqueduc et égouts</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0401B</FONCT>
+  <DESC_FONCT>Purification/Traitement de l'eau</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0401C</FONCT>
+  <DESC_FONCT>Réseaux de distribution de l'eau</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0401D</FONCT>
+  <DESC_FONCT>Épuration des eaux usées</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0401E</FONCT>
+  <DESC_FONCT>Réseaux d'égouts</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>04020</FONCT>
+  <DESC_FONCT>Ordures</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0402A</FONCT>
+  <DESC_FONCT>Enlèvement des ordures</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>0402B</FONCT>
+  <DESC_FONCT>Destruction des ordures</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>04030</FONCT>
+  <DESC_FONCT>Enfouissement sanitaire</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>04990</FONCT>
+  <DESC_FONCT>Autres - Hygiène du milieu</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>05000</FONCT>
+  <DESC_FONCT>Santé et bien-être</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>06000</FONCT>
+  <DESC_FONCT>Urbanisme/Mise en valeur territoire</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>06010</FONCT>
+  <DESC_FONCT>Urbanisme et zonage</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>06020</FONCT>
+  <DESC_FONCT>Promotion/Développement industriels</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>06030</FONCT>
+  <DESC_FONCT>Rénovation urbaine/Restauration</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>06040</FONCT>
+  <DESC_FONCT>Logement</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>06990</FONCT>
+  <DESC_FONCT>Autres - Urbanisme/Mise valeur ter.</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07000</FONCT>
+  <DESC_FONCT>Loisirs et culture</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07010</FONCT>
+  <DESC_FONCT>Administration</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07020</FONCT>
+  <DESC_FONCT>Centres communautaires</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07030</FONCT>
+  <DESC_FONCT>Arénas et patinoires</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07040</FONCT>
+  <DESC_FONCT>Piscines/Plages/Marinas</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07050</FONCT>
+  <DESC_FONCT>Parcs et terrains de jeux</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07060</FONCT>
+  <DESC_FONCT>Expositions et foires</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07070</FONCT>
+  <DESC_FONCT>Bibliothèques</DESC_FONCT>
+ </fonction>
+ <fonction>
+  <FONCT>07990</FONCT>
+  <DESC_FONCT>Autres - Loisirs et culture</DESC_FONCT>
+ </fonction>
+ <recensement>
+  <NO_DIVIS>01</NO_DIVIS>
+  <DESC_DIVIS>Les Îles-de-la-Madeleine</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>02</NO_DIVIS>
+  <DESC_DIVIS>Le Rocher-Percé</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>03</NO_DIVIS>
+  <DESC_DIVIS>La Côte-de-Gaspé</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>04</NO_DIVIS>
+  <DESC_DIVIS>La Haute-Gaspésie</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>05</NO_DIVIS>
+  <DESC_DIVIS>Bonaventure</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>06</NO_DIVIS>
+  <DESC_DIVIS>Avignon</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>07</NO_DIVIS>
+  <DESC_DIVIS>La Matapédia</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>08</NO_DIVIS>
+  <DESC_DIVIS>Matane</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>09</NO_DIVIS>
+  <DESC_DIVIS>La Mitis</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>10</NO_DIVIS>
+  <DESC_DIVIS>Rimouski-Neigette</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>11</NO_DIVIS>
+  <DESC_DIVIS>Les Basques</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>12</NO_DIVIS>
+  <DESC_DIVIS>Rivière-du-Loup</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>13</NO_DIVIS>
+  <DESC_DIVIS>Témiscouata</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>14</NO_DIVIS>
+  <DESC_DIVIS>Kamouraska</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>15</NO_DIVIS>
+  <DESC_DIVIS>Charlevoix-Est</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>16</NO_DIVIS>
+  <DESC_DIVIS>Charlevoix</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>17</NO_DIVIS>
+  <DESC_DIVIS>L'Islet</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>18</NO_DIVIS>
+  <DESC_DIVIS>Montmagny</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>19</NO_DIVIS>
+  <DESC_DIVIS>Bellechasse</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>20</NO_DIVIS>
+  <DESC_DIVIS>L'Île-d'Orléans</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>21</NO_DIVIS>
+  <DESC_DIVIS>La Côte-de-Beaupré</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>22</NO_DIVIS>
+  <DESC_DIVIS>La Jacques-Cartier</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>23</NO_DIVIS>
+  <DESC_DIVIS>Québec</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>24</NO_DIVIS>
+  <DESC_DIVIS>Desjardins</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>25</NO_DIVIS>
+  <DESC_DIVIS>Lévis</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>26</NO_DIVIS>
+  <DESC_DIVIS>La Nouvelle-Beauce</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>27</NO_DIVIS>
+  <DESC_DIVIS>Robert-Cliche</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>28</NO_DIVIS>
+  <DESC_DIVIS>Les Etchemins</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>29</NO_DIVIS>
+  <DESC_DIVIS>Beauce-Sartigan</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>30</NO_DIVIS>
+  <DESC_DIVIS>Le Granit</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>31</NO_DIVIS>
+  <DESC_DIVIS>L'Amiante</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>32</NO_DIVIS>
+  <DESC_DIVIS>L'Érable</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>33</NO_DIVIS>
+  <DESC_DIVIS>Lotbinière</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>34</NO_DIVIS>
+  <DESC_DIVIS>Portneuf</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>35</NO_DIVIS>
+  <DESC_DIVIS>Mékinac</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>36</NO_DIVIS>
+  <DESC_DIVIS>Shawinigan</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>37</NO_DIVIS>
+  <DESC_DIVIS>Francheville</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>38</NO_DIVIS>
+  <DESC_DIVIS>Bécancour</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>39</NO_DIVIS>
+  <DESC_DIVIS>Arthabaska</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>40</NO_DIVIS>
+  <DESC_DIVIS>Asbestos</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>41</NO_DIVIS>
+  <DESC_DIVIS>Le Haut-Saint-François</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>42</NO_DIVIS>
+  <DESC_DIVIS>Le Val-Saint-François</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>43</NO_DIVIS>
+  <DESC_DIVIS>Sherbrooke</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>44</NO_DIVIS>
+  <DESC_DIVIS>Coaticook</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>45</NO_DIVIS>
+  <DESC_DIVIS>Memphrémagog</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>46</NO_DIVIS>
+  <DESC_DIVIS>Brome-Missisquoi</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>47</NO_DIVIS>
+  <DESC_DIVIS>La Haute-Yamaska</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>48</NO_DIVIS>
+  <DESC_DIVIS>Acton</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>49</NO_DIVIS>
+  <DESC_DIVIS>Drummond</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>50</NO_DIVIS>
+  <DESC_DIVIS>Nicolet-Yamaska</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>51</NO_DIVIS>
+  <DESC_DIVIS>Maskinongé</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>52</NO_DIVIS>
+  <DESC_DIVIS>D'Autray</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>53</NO_DIVIS>
+  <DESC_DIVIS>Le Bas-Richelieu</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>54</NO_DIVIS>
+  <DESC_DIVIS>Les Maskoutains</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>55</NO_DIVIS>
+  <DESC_DIVIS>Rouville</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>56</NO_DIVIS>
+  <DESC_DIVIS>Le Haut-Richelieu</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>57</NO_DIVIS>
+  <DESC_DIVIS>La Vallée-du-Richelieu</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>58</NO_DIVIS>
+  <DESC_DIVIS>Longueuil</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>59</NO_DIVIS>
+  <DESC_DIVIS>Lajemmerais</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>60</NO_DIVIS>
+  <DESC_DIVIS>L'Assomption</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>61</NO_DIVIS>
+  <DESC_DIVIS>Joliette</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>62</NO_DIVIS>
+  <DESC_DIVIS>Matawinie</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>63</NO_DIVIS>
+  <DESC_DIVIS>Montcalm</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>64</NO_DIVIS>
+  <DESC_DIVIS>Les Moulins</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>65</NO_DIVIS>
+  <DESC_DIVIS>Laval</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>66</NO_DIVIS>
+  <DESC_DIVIS>Montréal</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>67</NO_DIVIS>
+  <DESC_DIVIS>Roussillon</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>68</NO_DIVIS>
+  <DESC_DIVIS>Les Jardins-de-Napierville</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>69</NO_DIVIS>
+  <DESC_DIVIS>Le Haut-Saint-Laurent</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>70</NO_DIVIS>
+  <DESC_DIVIS>Beauharnois-Salaberry</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>71</NO_DIVIS>
+  <DESC_DIVIS>Vaudreuil-Soulanges</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>72</NO_DIVIS>
+  <DESC_DIVIS>Deux-Montagnes</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>73</NO_DIVIS>
+  <DESC_DIVIS>Thérèse-De Blainville</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>74</NO_DIVIS>
+  <DESC_DIVIS>Mirabel</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>75</NO_DIVIS>
+  <DESC_DIVIS>La Rivière-du-Nord</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>76</NO_DIVIS>
+  <DESC_DIVIS>Argenteuil</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>77</NO_DIVIS>
+  <DESC_DIVIS>Les Pays-d'en-Haut</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>78</NO_DIVIS>
+  <DESC_DIVIS>Les Laurentides</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>79</NO_DIVIS>
+  <DESC_DIVIS>Antoine-Labelle</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>80</NO_DIVIS>
+  <DESC_DIVIS>Papineau</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>81</NO_DIVIS>
+  <DESC_DIVIS>Gatineau</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>82</NO_DIVIS>
+  <DESC_DIVIS>Les Collines-de-l'Outaouais</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>83</NO_DIVIS>
+  <DESC_DIVIS>La Vallée-de-la-Gatineau</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>84</NO_DIVIS>
+  <DESC_DIVIS>Pontiac</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>85</NO_DIVIS>
+  <DESC_DIVIS>Témiscamingue</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>86</NO_DIVIS>
+  <DESC_DIVIS>Rouyn-Noranda</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>87</NO_DIVIS>
+  <DESC_DIVIS>Abitibi-Ouest</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>88</NO_DIVIS>
+  <DESC_DIVIS>Abitibi</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>89</NO_DIVIS>
+  <DESC_DIVIS>La Vallée-de-l'Or</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>90</NO_DIVIS>
+  <DESC_DIVIS>La Tuque</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>91</NO_DIVIS>
+  <DESC_DIVIS>Le Domaine-du-Roy</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>92</NO_DIVIS>
+  <DESC_DIVIS>Maria-Chapdelaine</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>93</NO_DIVIS>
+  <DESC_DIVIS>Lac-Saint-Jean-Est</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>94</NO_DIVIS>
+  <DESC_DIVIS>Le Saguenay-et-son-Fjord</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>95</NO_DIVIS>
+  <DESC_DIVIS>La Haute-Côte-Nord</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>96</NO_DIVIS>
+  <DESC_DIVIS>Manicouagan</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>97</NO_DIVIS>
+  <DESC_DIVIS>Sept-Rivières - Caniapiscau</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>98</NO_DIVIS>
+  <DESC_DIVIS>Minganie-Basse-Côte-Nord</DESC_DIVIS>
+ </recensement>
+ <recensement>
+  <NO_DIVIS>99</NO_DIVIS>
+  <DESC_DIVIS>Nord-du-Québec</DESC_DIVIS>
+ </recensement>
+ <poste>
+  <POST_TIT>026B</POST_TIT>
+  <DESC_POST>Conseillère n° 26</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>027A</POST_TIT>
+  <DESC_POST>Conseiller n° 27</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>027B</POST_TIT>
+  <DESC_POST>Conseillère n° 27</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>028A</POST_TIT>
+  <DESC_POST>Conseiller n° 28</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>028B</POST_TIT>
+  <DESC_POST>Conseillère n° 28</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>029A</POST_TIT>
+  <DESC_POST>Conseiller n° 29</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>029B</POST_TIT>
+  <DESC_POST>Conseillère n° 29</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>030A</POST_TIT>
+  <DESC_POST>Conseiller n° 30</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>030B</POST_TIT>
+  <DESC_POST>Conseillère n° 30</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>031A</POST_TIT>
+  <DESC_POST>Conseiller n° 31</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>031B</POST_TIT>
+  <DESC_POST>Conseillère n° 31</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>032A</POST_TIT>
+  <DESC_POST>Conseiller n° 32</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>032B</POST_TIT>
+  <DESC_POST>Conseillère n° 32</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>033A</POST_TIT>
+  <DESC_POST>Conseiller n° 33</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>033B</POST_TIT>
+  <DESC_POST>Conseillère n° 33</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>034A</POST_TIT>
+  <DESC_POST>Conseiller n° 34</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>034B</POST_TIT>
+  <DESC_POST>Conseillère n° 34</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>035A</POST_TIT>
+  <DESC_POST>Conseiller n° 35</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>035B</POST_TIT>
+  <DESC_POST>Conseillère n° 35</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>036A</POST_TIT>
+  <DESC_POST>Conseiller n° 36</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>036B</POST_TIT>
+  <DESC_POST>Conseillère n° 36</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>037A</POST_TIT>
+  <DESC_POST>Conseiller n° 37</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>037B</POST_TIT>
+  <DESC_POST>Conseillère n° 37</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>038A</POST_TIT>
+  <DESC_POST>Conseiller n° 38</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>038B</POST_TIT>
+  <DESC_POST>Conseillère n° 38</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>039A</POST_TIT>
+  <DESC_POST>Conseiller n° 39</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>039B</POST_TIT>
+  <DESC_POST>Conseillère n° 39</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>040A</POST_TIT>
+  <DESC_POST>Conseiller n° 40</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>040B</POST_TIT>
+  <DESC_POST>Conseillère n° 40</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>041A</POST_TIT>
+  <DESC_POST>Conseiller n° 41</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>041B</POST_TIT>
+  <DESC_POST>Conseillère n° 41</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>042A</POST_TIT>
+  <DESC_POST>Conseiller n° 42</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>042B</POST_TIT>
+  <DESC_POST>Conseillère n° 42</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>043A</POST_TIT>
+  <DESC_POST>Conseiller n° 43</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>043B</POST_TIT>
+  <DESC_POST>Conseillère n° 43</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>044A</POST_TIT>
+  <DESC_POST>Conseiller n° 44</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>044B</POST_TIT>
+  <DESC_POST>Conseillère n° 44</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>045A</POST_TIT>
+  <DESC_POST>Conseiller n° 45</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>045B</POST_TIT>
+  <DESC_POST>Conseillère n° 45</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>046A</POST_TIT>
+  <DESC_POST>Conseiller n° 46</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>046B</POST_TIT>
+  <DESC_POST>Conseillère n° 46</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>047A</POST_TIT>
+  <DESC_POST>Conseiller n° 47</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>047B</POST_TIT>
+  <DESC_POST>Conseillère n° 47</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>048A</POST_TIT>
+  <DESC_POST>Conseiller n° 48</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>048B</POST_TIT>
+  <DESC_POST>Conseillère n° 48</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>049A</POST_TIT>
+  <DESC_POST>Conseiller n° 49</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>049B</POST_TIT>
+  <DESC_POST>Conseillère n° 49</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>050A</POST_TIT>
+  <DESC_POST>Conseiller n° 50</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>050B</POST_TIT>
+  <DESC_POST>Conseillère n° 50</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>051A</POST_TIT>
+  <DESC_POST>Conseiller n° 51</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>051B</POST_TIT>
+  <DESC_POST>Conseillère n° 51</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>052A</POST_TIT>
+  <DESC_POST>Conseiller n° 52</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>052B</POST_TIT>
+  <DESC_POST>Conseillère n° 52</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>053A</POST_TIT>
+  <DESC_POST>Conseiller n° 53</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>053B</POST_TIT>
+  <DESC_POST>Conseillère n° 53</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>054A</POST_TIT>
+  <DESC_POST>Conseiller n° 54</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>054B</POST_TIT>
+  <DESC_POST>Conseillère n° 54</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>055A</POST_TIT>
+  <DESC_POST>Conseiller n° 55</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>055B</POST_TIT>
+  <DESC_POST>Conseillère n° 55</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>056A</POST_TIT>
+  <DESC_POST>Conseiller n° 56</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>056B</POST_TIT>
+  <DESC_POST>Conseillère n° 56</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>057A</POST_TIT>
+  <DESC_POST>Conseiller n° 57</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>057B</POST_TIT>
+  <DESC_POST>Conseillère n° 57</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>058A</POST_TIT>
+  <DESC_POST>Conseiller n° 58</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>058B</POST_TIT>
+  <DESC_POST>Conseillère n° 58</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>059A</POST_TIT>
+  <DESC_POST>Conseiller n° 59</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>059B</POST_TIT>
+  <DESC_POST>Conseillère n° 59</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>060A</POST_TIT>
+  <DESC_POST>Conseiller n° 60</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>060B</POST_TIT>
+  <DESC_POST>Conseillère n° 60</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>061A</POST_TIT>
+  <DESC_POST>Conseiller n° 61</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>061B</POST_TIT>
+  <DESC_POST>Conseillère n° 61</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>062A</POST_TIT>
+  <DESC_POST>Conseiller n° 62</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>062B</POST_TIT>
+  <DESC_POST>Conseillère n° 62</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>063A</POST_TIT>
+  <DESC_POST>Conseiller n° 63</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>063B</POST_TIT>
+  <DESC_POST>Conseillère n° 63</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>064A</POST_TIT>
+  <DESC_POST>Conseiller n° 64</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>064B</POST_TIT>
+  <DESC_POST>Conseillère n° 64</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>065A</POST_TIT>
+  <DESC_POST>Conseiller n° 65</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>065B</POST_TIT>
+  <DESC_POST>Conseillère n° 65</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>066A</POST_TIT>
+  <DESC_POST>Conseiller n° 66</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>066B</POST_TIT>
+  <DESC_POST>Conseillère n° 66</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>067A</POST_TIT>
+  <DESC_POST>Conseiller n° 67</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>067B</POST_TIT>
+  <DESC_POST>Conseillère n° 67</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>068A</POST_TIT>
+  <DESC_POST>Conseiller n° 68</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>068B</POST_TIT>
+  <DESC_POST>Conseillère n° 68</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>069A</POST_TIT>
+  <DESC_POST>Conseiller n° 69</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>069B</POST_TIT>
+  <DESC_POST>Conseillère n° 69</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>070A</POST_TIT>
+  <DESC_POST>Conseiller n° 70</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>070B</POST_TIT>
+  <DESC_POST>Conseillère n° 70</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>071A</POST_TIT>
+  <DESC_POST>Conseiller n° 71</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>071B</POST_TIT>
+  <DESC_POST>Conseillère n° 71</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>072A</POST_TIT>
+  <DESC_POST>Conseiller n° 72</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>072B</POST_TIT>
+  <DESC_POST>Conseillère n° 72</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>073A</POST_TIT>
+  <DESC_POST>Conseiller n° 73</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>073B</POST_TIT>
+  <DESC_POST>Conseillère n° 73</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>074A</POST_TIT>
+  <DESC_POST>Conseiller n° 74</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>074B</POST_TIT>
+  <DESC_POST>Conseillère n° 74</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>075A</POST_TIT>
+  <DESC_POST>Conseiller n° 75</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>075B</POST_TIT>
+  <DESC_POST>Conseillère n° 75</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>202A</POST_TIT>
+  <DESC_POST>Greffier adjoint</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>202B</POST_TIT>
+  <DESC_POST>Greffière adjointe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>208A</POST_TIT>
+  <DESC_POST>Trésorier adjoint</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>208B</POST_TIT>
+  <DESC_POST>Trésorière adjointe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>210A</POST_TIT>
+  <DESC_POST>Directeur général adjoint</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>210B</POST_TIT>
+  <DESC_POST>Directrice générale adjointe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>211A</POST_TIT>
+  <DESC_POST>Directeur général adjoint  n° 2</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>211B</POST_TIT>
+  <DESC_POST>Directrice générale adjointe  n° 2</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>214C</POST_TIT>
+  <DESC_POST>Directeur services sécurité publiqu</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>214D</POST_TIT>
+  <DESC_POST>Directrice serv. sécurité publique</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>215B</POST_TIT>
+  <DESC_POST>Directrice/Cheffe brigade des  pomp</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>248A</POST_TIT>
+  <DESC_POST>Inspecteur en bâtiment</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>248B</POST_TIT>
+  <DESC_POST>Inspectrice en bâtiment</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>307A</POST_TIT>
+  <DESC_POST>Président comité consult. urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>307B</POST_TIT>
+  <DESC_POST>Présidente com. consult. urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301G</POST_TIT>
+  <DESC_POST>Resp. serv. des relations publiques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>312A</POST_TIT>
+  <DESC_POST>Directeur techno, info, comm (TIC)</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>312B</POST_TIT>
+  <DESC_POST>Directrice des TIC</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>315A</POST_TIT>
+  <DESC_POST>Directeur service de l'ingénierie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>315B</POST_TIT>
+  <DESC_POST>Directrice service de l'ingénierie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>316A</POST_TIT>
+  <DESC_POST>Président comité consult. agricole</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>342A</POST_TIT>
+  <DESC_POST>Directeur serv. récréa et commun</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>342B</POST_TIT>
+  <DESC_POST>Directrice serv. récréa et commun</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>342C</POST_TIT>
+  <DESC_POST>Resp. serv. récréa et commun</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>346A</POST_TIT>
+  <DESC_POST>Directeur aff. publiques et greffe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>346B</POST_TIT>
+  <DESC_POST>Directrice aff. publiques et greffe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>001B</POST_TIT>
+  <DESC_POST>Conseillère n° 1</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>002A</POST_TIT>
+  <DESC_POST>Conseiller n° 2</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>001A</POST_TIT>
+  <DESC_POST>Conseiller n° 1</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>206A</POST_TIT>
+  <DESC_POST>Greffier-trésorier adjoint</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>206B</POST_TIT>
+  <DESC_POST>Greffière-trésorière adjointe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>206C</POST_TIT>
+  <DESC_POST>Secrétaire-trésorier adjoint</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>206D</POST_TIT>
+  <DESC_POST>Secrétaire-trésorière adjointe</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>216B</POST_TIT>
+  <DESC_POST>Évaluatrice signataire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>000A</POST_TIT>
+  <DESC_POST>Maire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>000B</POST_TIT>
+  <DESC_POST>Mairesse</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>000C</POST_TIT>
+  <DESC_POST>Administrateur</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>000D</POST_TIT>
+  <DESC_POST>Administratrice</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>101A</POST_TIT>
+  <DESC_POST>Conseiller régional</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>101B</POST_TIT>
+  <DESC_POST>Conseillère régionale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>111A</POST_TIT>
+  <DESC_POST>Maire suppléant</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>111B</POST_TIT>
+  <DESC_POST>Mairesse suppléante</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>112A</POST_TIT>
+  <DESC_POST>Président</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>112B</POST_TIT>
+  <DESC_POST>Présidente</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>113A</POST_TIT>
+  <DESC_POST>Vice-président</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>113B</POST_TIT>
+  <DESC_POST>Vice-présidente</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>114A</POST_TIT>
+  <DESC_POST>Préfet</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>114B</POST_TIT>
+  <DESC_POST>Préfète</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>115A</POST_TIT>
+  <DESC_POST>Préfet suppléant</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>115B</POST_TIT>
+  <DESC_POST>Préfète suppléante</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>201A</POST_TIT>
+  <DESC_POST>Greffier</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>201B</POST_TIT>
+  <DESC_POST>Greffière</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>203A</POST_TIT>
+  <DESC_POST>Secrétaire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>203B</POST_TIT>
+  <DESC_POST>Adjoint administratif</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>203C</POST_TIT>
+  <DESC_POST>Adjointe administrative</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>204A</POST_TIT>
+  <DESC_POST>Secrétaire général</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>204B</POST_TIT>
+  <DESC_POST>Secrétaire générale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>204C</POST_TIT>
+  <DESC_POST>Secrétaire comptable</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>002B</POST_TIT>
+  <DESC_POST>Conseillère n° 2</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>003A</POST_TIT>
+  <DESC_POST>Conseiller n° 3</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>207A</POST_TIT>
+  <DESC_POST>Trésorier</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>207B</POST_TIT>
+  <DESC_POST>Trésorière</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>209A</POST_TIT>
+  <DESC_POST>Directeur général</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>209B</POST_TIT>
+  <DESC_POST>Directrice générale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>212A</POST_TIT>
+  <DESC_POST>Vérificateur</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>212B</POST_TIT>
+  <DESC_POST>Vérificatrice</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>213A</POST_TIT>
+  <DESC_POST>Vérificateur général</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>213B</POST_TIT>
+  <DESC_POST>Vérificatrice générale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>214A</POST_TIT>
+  <DESC_POST>Directeur/Chef de police</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>214B</POST_TIT>
+  <DESC_POST>Directrice/Cheffe de police</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>215A</POST_TIT>
+  <DESC_POST>Directeur/Chef brigade des pompiers</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>215C</POST_TIT>
+  <DESC_POST>Directeur serv. sécurité incendie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>215D</POST_TIT>
+  <DESC_POST>Directrice serv. sécurité incendie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>216A</POST_TIT>
+  <DESC_POST>Évaluateur signataire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>223A</POST_TIT>
+  <DESC_POST>Coordonnateur mesures d'urgence</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>223B</POST_TIT>
+  <DESC_POST>Coordonnatrice mesures d'urgence</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>223C</POST_TIT>
+  <DESC_POST>Directeur protection des citoyens</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>223D</POST_TIT>
+  <DESC_POST>Directrice protection des citoyens</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>224A</POST_TIT>
+  <DESC_POST>Responsable accès aux documents</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>231A</POST_TIT>
+  <DESC_POST>Greffier de la cour municipale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>231B</POST_TIT>
+  <DESC_POST>Greffière de la cour municipale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>241A</POST_TIT>
+  <DESC_POST>Inspecteur agraire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>241B</POST_TIT>
+  <DESC_POST>Inspectrice agraire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>242A</POST_TIT>
+  <DESC_POST>Inspecteur destr. mauvaises herbes</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>242B</POST_TIT>
+  <DESC_POST>Inspectrice destr. mauvaises herbes</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>243A</POST_TIT>
+  <DESC_POST>Inspecteur municipal et de voirie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>243B</POST_TIT>
+  <DESC_POST>Inspectrice municipale et de voirie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>244A</POST_TIT>
+  <DESC_POST>Resp. règl. rel. install. septiques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>245A</POST_TIT>
+  <DESC_POST>Gardien d'enclos</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>245B</POST_TIT>
+  <DESC_POST>Gardienne d'enclos</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>246A</POST_TIT>
+  <DESC_POST>Resp. émission permis/certif. mun.</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>247A</POST_TIT>
+  <DESC_POST>Inspecteur municipal</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>247B</POST_TIT>
+  <DESC_POST>Inspectrice municipale</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>248C</POST_TIT>
+  <DESC_POST>Responsable des bâtiments</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>249A</POST_TIT>
+  <DESC_POST>Inspecteur d'arr. et de voirie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>249B</POST_TIT>
+  <DESC_POST>Inspectrice d'arr. et de voirie</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>250A</POST_TIT>
+  <DESC_POST>Inspecteur en urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>250B</POST_TIT>
+  <DESC_POST>Inspectrice en urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>251A</POST_TIT>
+  <DESC_POST>Inspecteur en environnement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>251B</POST_TIT>
+  <DESC_POST>Inspectrice en environnement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301A</POST_TIT>
+  <DESC_POST>Responsable des communications</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301B</POST_TIT>
+  <DESC_POST>Relationniste</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301C</POST_TIT>
+  <DESC_POST>Coordonnateur des communications</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301D</POST_TIT>
+  <DESC_POST>Coordonnatrice des communications</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301E</POST_TIT>
+  <DESC_POST>Directeur des communications</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>301F</POST_TIT>
+  <DESC_POST>Directrice des communications</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>302A</POST_TIT>
+  <DESC_POST>Directeur relations avec milieu</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>302B</POST_TIT>
+  <DESC_POST>Directrice relations avec milieu</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303A</POST_TIT>
+  <DESC_POST>Responsable de l'urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303B</POST_TIT>
+  <DESC_POST>Directeur de l'urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303C</POST_TIT>
+  <DESC_POST>Directrice de l'urbanisme</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303E</POST_TIT>
+  <DESC_POST>Directeur des services urbains</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303F</POST_TIT>
+  <DESC_POST>Directrice des services urbains</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303G</POST_TIT>
+  <DESC_POST>Directeur serv. urban. et permis</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>303H</POST_TIT>
+  <DESC_POST>Directrice serv. urban. et permis</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304A</POST_TIT>
+  <DESC_POST>Responsable des loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304B</POST_TIT>
+  <DESC_POST>Directeur des loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304C</POST_TIT>
+  <DESC_POST>Directrice des loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304D</POST_TIT>
+  <DESC_POST>Coordonnateur prog. et équipements</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304E</POST_TIT>
+  <DESC_POST>Coordonnatrice prog. et équipements</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304F</POST_TIT>
+  <DESC_POST>Coordonnateur des loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>304G</POST_TIT>
+  <DESC_POST>Coordonnatrice des loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>305A</POST_TIT>
+  <DESC_POST>Responsable des travaux publics</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>305B</POST_TIT>
+  <DESC_POST>Directeur des travaux publics</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>305C</POST_TIT>
+  <DESC_POST>Directrice des travaux publics</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>306A</POST_TIT>
+  <DESC_POST>Responsable de l'environnement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>306B</POST_TIT>
+  <DESC_POST>Directeur de l'environnement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>306C</POST_TIT>
+  <DESC_POST>Directrice de l'environnement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>309A</POST_TIT>
+  <DESC_POST>Resp. du développement économique</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>309B</POST_TIT>
+  <DESC_POST>Resp. planif. et développement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>309C</POST_TIT>
+  <DESC_POST>Directeur planif. et développement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>309D</POST_TIT>
+  <DESC_POST>Directrice planif. et développement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>309E</POST_TIT>
+  <DESC_POST>Directeur du développement durable</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>309F</POST_TIT>
+  <DESC_POST>Directrice du développement durable</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>310A</POST_TIT>
+  <DESC_POST>Directeur du dév. économique</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>310B</POST_TIT>
+  <DESC_POST>Directrice du dév. économique</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>311A</POST_TIT>
+  <DESC_POST>Responsable des services techniques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>311B</POST_TIT>
+  <DESC_POST>Directeur des services techniques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>311C</POST_TIT>
+  <DESC_POST>Directrice des services techniques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>315C</POST_TIT>
+  <DESC_POST>Resp. rés. aqueduc, égouts et ass.</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>315D</POST_TIT>
+  <DESC_POST>Responsable de l'hygiène du milieu</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>316B</POST_TIT>
+  <DESC_POST>Présidente comité consul. agricole</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>319A</POST_TIT>
+  <DESC_POST>Secrétaire d'arrondissement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>320A</POST_TIT>
+  <DESC_POST>Directeur d'arrondissement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>320B</POST_TIT>
+  <DESC_POST>Directrice d'arrondissement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>321A</POST_TIT>
+  <DESC_POST>Directeur des ressources humaines</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>321B</POST_TIT>
+  <DESC_POST>Directrice des ressources humaines</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>322A</POST_TIT>
+  <DESC_POST>Directeur culture et loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>322B</POST_TIT>
+  <DESC_POST>Directrice culture et loisirs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>323A</POST_TIT>
+  <DESC_POST>Directeur de la culture</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>323B</POST_TIT>
+  <DESC_POST>Directrice de la culture</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>331A</POST_TIT>
+  <DESC_POST>Directeur des finances</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>331B</POST_TIT>
+  <DESC_POST>Directrice des finances</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>340A</POST_TIT>
+  <DESC_POST>Directeur services administratifs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>340B</POST_TIT>
+  <DESC_POST>Directrice services administratifs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>340C</POST_TIT>
+  <DESC_POST>Resp. services administratifs</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>341A</POST_TIT>
+  <DESC_POST>Directeur des sports</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>341B</POST_TIT>
+  <DESC_POST>Directrice des sports</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>343A</POST_TIT>
+  <DESC_POST>Directeur des affaires juridiques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>343B</POST_TIT>
+  <DESC_POST>Directrice des affaires juridiques</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>344A</POST_TIT>
+  <DESC_POST>Directeur de gestion du territoire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>344B</POST_TIT>
+  <DESC_POST>Directrice de gestion du territoire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>344C</POST_TIT>
+  <DESC_POST>Directeur amén. et dév. territoire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>344D</POST_TIT>
+  <DESC_POST>Directrice amén. et dév. territoire</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>345A</POST_TIT>
+  <DESC_POST>Directeur de l'aménagement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>345B</POST_TIT>
+  <DESC_POST>Directrice de l'aménagement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>345C</POST_TIT>
+  <DESC_POST>Coordonnateur de l'aménagement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>345D</POST_TIT>
+  <DESC_POST>Coordonnatrice de l'aménagement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>345E</POST_TIT>
+  <DESC_POST>Responsable de l'aménagement</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>347A</POST_TIT>
+  <DESC_POST>Directeur des infrastructures</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>347B</POST_TIT>
+  <DESC_POST>Directrice des infrastructures</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>347C</POST_TIT>
+  <DESC_POST>Responsable des infrastructures</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>348A</POST_TIT>
+  <DESC_POST>Directeur services de transport</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>348B</POST_TIT>
+  <DESC_POST>Directrice services de transport</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>348C</POST_TIT>
+  <DESC_POST>Resp. Réseaux / Services publics</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>003B</POST_TIT>
+  <DESC_POST>Conseillère n° 3</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>004A</POST_TIT>
+  <DESC_POST>Conseiller n° 4</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>004B</POST_TIT>
+  <DESC_POST>Conseillère n° 4</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>205A</POST_TIT>
+  <DESC_POST>Greffier-trésorier</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>205B</POST_TIT>
+  <DESC_POST>Greffière-trésorière</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>205C</POST_TIT>
+  <DESC_POST>Secrétaire-trésorier</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>205D</POST_TIT>
+  <DESC_POST>Secrétaire-trésorière</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>005A</POST_TIT>
+  <DESC_POST>Conseiller n° 5</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>005B</POST_TIT>
+  <DESC_POST>Conseillère n° 5</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>006A</POST_TIT>
+  <DESC_POST>Conseiller n° 6</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>006B</POST_TIT>
+  <DESC_POST>Conseillère n° 6</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>007A</POST_TIT>
+  <DESC_POST>Conseiller n° 7</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>007B</POST_TIT>
+  <DESC_POST>Conseillère n° 7</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>008A</POST_TIT>
+  <DESC_POST>Conseiller n° 8</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>008B</POST_TIT>
+  <DESC_POST>Conseillère n° 8</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>009A</POST_TIT>
+  <DESC_POST>Conseiller n° 9</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>009B</POST_TIT>
+  <DESC_POST>Conseillère n° 9</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>010A</POST_TIT>
+  <DESC_POST>Conseiller n° 10</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>010B</POST_TIT>
+  <DESC_POST>Conseillère n° 10</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>011A</POST_TIT>
+  <DESC_POST>Conseiller n° 11</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>011B</POST_TIT>
+  <DESC_POST>Conseillère n° 11</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>012A</POST_TIT>
+  <DESC_POST>Conseiller n° 12</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>012B</POST_TIT>
+  <DESC_POST>Conseillère n° 12</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>013A</POST_TIT>
+  <DESC_POST>Conseiller n° 13</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>013B</POST_TIT>
+  <DESC_POST>Conseillère n° 13</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>014A</POST_TIT>
+  <DESC_POST>Conseiller n° 14</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>014B</POST_TIT>
+  <DESC_POST>Conseillère n° 14</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>015A</POST_TIT>
+  <DESC_POST>Conseiller n° 15</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>015B</POST_TIT>
+  <DESC_POST>Conseillère n° 15</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>016A</POST_TIT>
+  <DESC_POST>Conseiller n° 16</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>016B</POST_TIT>
+  <DESC_POST>Conseillère n° 16</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>017A</POST_TIT>
+  <DESC_POST>Conseiller n° 17</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>017B</POST_TIT>
+  <DESC_POST>Conseillère n° 17</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>018A</POST_TIT>
+  <DESC_POST>Conseiller n° 18</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>018B</POST_TIT>
+  <DESC_POST>Conseillère n° 18</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>019A</POST_TIT>
+  <DESC_POST>Conseiller n° 19</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>019B</POST_TIT>
+  <DESC_POST>Conseillère n° 19</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>020A</POST_TIT>
+  <DESC_POST>Conseiller n° 20</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>020B</POST_TIT>
+  <DESC_POST>Conseillère n° 20</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>021A</POST_TIT>
+  <DESC_POST>Conseiller n° 21</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>021B</POST_TIT>
+  <DESC_POST>Conseillère n° 21</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>022A</POST_TIT>
+  <DESC_POST>Conseiller n° 22</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>022B</POST_TIT>
+  <DESC_POST>Conseillère n° 22</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>023A</POST_TIT>
+  <DESC_POST>Conseiller n° 23</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>023B</POST_TIT>
+  <DESC_POST>Conseillère n° 23</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>024A</POST_TIT>
+  <DESC_POST>Conseiller n° 24</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>024B</POST_TIT>
+  <DESC_POST>Conseillère n° 24</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>025A</POST_TIT>
+  <DESC_POST>Conseiller n° 25</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>025B</POST_TIT>
+  <DESC_POST>Conseillère n° 25</DESC_POST>
+ </poste>
+ <poste>
+  <POST_TIT>026A</POST_TIT>
+  <DESC_POST>Conseiller n° 26</DESC_POST>
+ </poste>
+ <service>
+  <SER>111A</SER>
+  <DESC_S_L1>Conseil municipal</DESC_S_L1>
+ </service>
+ <service>
+  <SER>121A</SER>
+  <DESC_S_L1>Secrétariat</DESC_S_L1>
+ </service>
+ <service>
+  <SER>122A</SER>
+  <DESC_S_L1>Inspection municipale</DESC_S_L1>
+ </service>
+ <service>
+  <SER>131A</SER>
+  <DESC_S_L1>Trésorerie</DESC_S_L1>
+ </service>
+ <service>
+  <SER>131B</SER>
+  <DESC_S_L1>Direction des finances</DESC_S_L1>
+ </service>
+ <service>
+  <SER>131C</SER>
+  <DESC_S_L1>Service des finances</DESC_S_L1>
+ </service>
+ <service>
+  <SER>132A</SER>
+  <DESC_S_L1>Direction de l'administration</DESC_S_L1>
+ </service>
+ <service>
+  <SER>132B</SER>
+  <DESC_S_L1>Bureau de la direction générale</DESC_S_L1>
+ </service>
+ <service>
+  <SER>133A</SER>
+  <DESC_S_L1>Service des communications</DESC_S_L1>
+ </service>
+ <service>
+  <SER>133B</SER>
+  <DESC_S_L1>Direction des communications</DESC_S_L1>
+ </service>
+ <service>
+  <SER>133C</SER>
+  <DESC_S_L1>Service de l'information</DESC_S_L1>
+ </service>
+ <service>
+  <SER>134A</SER>
+  <DESC_S_L1>Service de l'informatique</DESC_S_L1>
+ </service>
+ <service>
+  <SER>134B</SER>
+  <DESC_S_L1>Service des systèmes</DESC_S_L1>
+ </service>
+ <service>
+  <SER>141A</SER>
+  <DESC_S_L1>Greffe</DESC_S_L1>
+ </service>
+ <service>
+  <SER>142A</SER>
+  <DESC_S_L1>Contentieux</DESC_S_L1>
+ </service>
+ <service>
+  <SER>142B</SER>
+  <DESC_S_L1>Service juridique</DESC_S_L1>
+ </service>
+ <service>
+  <SER>142C</SER>
+  <DESC_S_L1>Cour municipale</DESC_S_L1>
+ </service>
+ <service>
+  <SER>151A</SER>
+  <DESC_S_L1>Évaluation municipale</DESC_S_L1>
+ </service>
+ <service>
+  <SER>151B</SER>
+  <DESC_S_L1>Service de l'évaluation</DESC_S_L1>
+ </service>
+ <service>
+  <SER>151C</SER>
+  <DESC_S_L1>Service du cadastre</DESC_S_L1>
+ </service>
+ <service>
+  <SER>161A</SER>
+  <DESC_S_L1>Service du personnel</DESC_S_L1>
+ </service>
+ <service>
+  <SER>201A</SER>
+  <DESC_S_L1>Service de la sécurité publique</DESC_S_L1>
+ </service>
+ <service>
+  <SER>201B</SER>
+  <DESC_S_L1>Service de la protection publique</DESC_S_L1>
+ </service>
+ <service>
+  <SER>211A</SER>
+  <DESC_S_L1>Service de police</DESC_S_L1>
+ </service>
+ <service>
+  <SER>221A</SER>
+  <DESC_S_L1>Service de la protection incendie</DESC_S_L1>
+ </service>
+ <service>
+  <SER>301A</SER>
+  <DESC_S_L1>Services techniques</DESC_S_L1>
+ </service>
+ <service>
+  <SER>321A</SER>
+  <DESC_S_L1>Service de la voirie</DESC_S_L1>
+ </service>
+ <service>
+  <SER>331A</SER>
+  <DESC_S_L1>Service de l'enlèvement de la neige</DESC_S_L1>
+ </service>
+ <service>
+  <SER>351A</SER>
+  <DESC_S_L1>Service de la circulation</DESC_S_L1>
+ </service>
+ <service>
+  <SER>401A</SER>
+  <DESC_S_L1>Service des travaux publics</DESC_S_L1>
+ </service>
+ <service>
+  <SER>411A</SER>
+  <DESC_S_L1>Service de l'aqueduc</DESC_S_L1>
+ </service>
+ <service>
+  <SER>421A</SER>
+  <DESC_S_L1>Service de l'enlèvement des ordures</DESC_S_L1>
+ </service>
+ <service>
+  <SER>611A</SER>
+  <DESC_S_L1>Service de l'urbanisme</DESC_S_L1>
+ </service>
+ <service>
+  <SER>612A</SER>
+  <DESC_S_L1>Service de l'aménagement du territo</DESC_S_L1>
+  <DESC_S_L2>ire</DESC_S_L2>
+ </service>
+ <service>
+  <SER>613A</SER>
+  <DESC_S_L1>Service de l'émission des permis</DESC_S_L1>
+ </service>
+ <service>
+  <SER>711A</SER>
+  <DESC_S_L1>Service des loisirs</DESC_S_L1>
+ </service>
+ <service>
+  <SER>712A</SER>
+  <DESC_S_L1>Service des parcs</DESC_S_L1>
+ </service>
+</X01_PARAMETRE>
