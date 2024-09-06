@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ERDAS APOLLO Core 2016 -->
+<WMS_Capabilities xmlns="http://www.opengis.net/wms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wms http://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd" version="1.3.0">
+  <Service>
+    <Name>WMS</Name>
+    <Title>Imagerie</Title>
+    <Abstract>Service d'imagerie du gouvernement du QuÃ©bec</Abstract>
+    <OnlineResource xlink:type="simple" xlink:href="" />
+    <MaxWidth>4000</MaxWidth>
+    <MaxHeight>4000</MaxHeight>
+  </Service>
+  <Capability>
+    <Request>
+      <GetCapabilities>
+        <Format>text/xml</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:href="https://imagesgeo-atlas.mrnf.gouv.qc.ca/TERRITOIRE/Imagerie_2021_Rouyn-Noranda.xml" />
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetCapabilities>
+      <GetMap>
+        <Format>image/jpeg</Format>
+        <Format>image/png</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/ogc/wms/Imagerie?" />
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetMap>
+      <GetFeatureInfo>
+        <Format>text/plain</Format>
+        <Format>text/xml</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/ogc/wms/Imagerie?" />
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetFeatureInfo>
+    </Request>
+    <Exception>
+      <Format>XML</Format>
+    </Exception>
+    <Layer>
+      <Title>Imagerie</Title>
+      <Layer>
+        <Title>Orthomosaique</Title>
+        <Layer>
+          <Title>2021</Title>
+          <Layer queryable="1">
+            <Name>Orthomosaique_2021_2021_Partenariat_Rouyn-Noranda_20cm_RVB</Name>
+            <Title>2021_Partenariat_Rouyn-Noranda_20cm_RVB</Title>
+            <CRS>EPSG:32198</CRS>
+            <CRS>EPSG:6622</CRS>
+            <CRS>EPSG:4617</CRS>
+            <CRS>EPSG:4326</CRS>
+            <CRS>EPSG:3857</CRS>
+            <CRS>EPSG:2952</CRS>
+            <CRS>EPSG:2951</CRS>
+            <CRS>EPSG:2950</CRS>
+            <CRS>EPSG:2949</CRS>
+            <CRS>EPSG:2948</CRS>
+            <CRS>EPSG:2947</CRS>
+            <CRS>EPSG:2946</CRS>
+            <EX_GeographicBoundingBox>
+              <westBoundLongitude>-79.537962747643121</westBoundLongitude>
+              <eastBoundLongitude>-78.182331852214688</eastBoundLongitude>
+              <southBoundLatitude>47.687810569292338</southBoundLatitude>
+              <northBoundLatitude>48.594539878292103</northBoundLatitude>
+            </EX_GeographicBoundingBox>
+            <BoundingBox CRS="EPSG:2946" minx="-1046595.7312566587" miny="5420026.168879969" maxx="-923429.47930753278" maxy="5543188.576718132" resx="0.20409743352059789" resy="-0.20409743352059789" />
+            <BoundingBox CRS="EPSG:2947" minx="-822506.56084384816" miny="5374927.7439428773" maxx="-703238.27641453512" maxy="5494194.2052900735" resx="0.20280191786289983" resy="-0.20280191786289983" />
+            <BoundingBox CRS="EPSG:2948" minx="-598016.15394048905" miny="5338982.3142069979" maxx="-482619.15984455799" maxy="5454378.3533765674" resx="0.20175172142372189" resy="-0.20175172142372189" />
+            <BoundingBox CRS="EPSG:2949" minx="-373236.93796842732" miny="5312022.7393873297" maxx="-261691.53168794001" maxy="5423567.5782018071" resx="0.20094650332005332" resy="-0.20094650332005332" />
+            <BoundingBox CRS="EPSG:2950" minx="-148259.81369858509" miny="5293922.5726128779" maxx="-40555.898121998063" maxy="5401626.1439862" resx="0.20038615061829171" resy="-0.20038615061829171" />
+            <BoundingBox CRS="EPSG:2951" minx="76840.479764811869" miny="5284596.3877412211" maxx="180700.82390688983" maxy="5388456.5660467129" resx="0.20007064665058008" resy="-0.20007064665058008" />
+            <BoundingBox CRS="EPSG:2952" minx="302000" miny="5284000" maxx="402000" maxy="5384000" resx="0.20000000000000001" resy="-0.20000000000000001" />
+            <BoundingBox CRS="EPSG:3857" minx="-8854125.5118019953" miny="6055073.8984049754" maxx="-8703217.3708192725" maxy="6206341.2484202236" resx="0.29963463823735836" resy="-0.29963463823735836" />
+            <BoundingBox CRS="EPSG:4326" miny="-79.537962747643121" minx="47.687810569292338" maxy="-78.182331852214688" maxx="48.594539878292103" resy="2.2940331668563522E-006" resx="-2.2940331668563522E-006" />
+            <BoundingBox CRS="EPSG:4617" miny="-79.537962747643121" minx="47.687810570234454" maxy="-78.182331852214688" maxx="48.594539879230894" resy="2.2940331668563522E-006" resx="-2.2940331668563522E-006" />
+            <BoundingBox CRS="EPSG:6622" minx="-822696.50963366788" miny="459269.73210197315" maxx="-709032.83682737069" maxy="572930.31197084952" resx="0.19926654922372855" resy="-0.19926654922372855" />
+            <BoundingBox CRS="EPSG:32198" minx="-822696.50963366788" miny="459269.73210197315" maxx="-709032.83682737069" maxy="572930.31197084952" resx="0.19926654922372855" resy="-0.19926654922372855" />
+            <Dimension name="time" units="ISO8601" nearestValue="0">2021-01-01T00:00:00Z/2021-12-31T23:59:59Z/P1S</Dimension>
+            <Style>
+              <Name>default</Name>
+              <Title>default</Title>
+              <LegendURL width="100" height="100">
+                <Format>image/jpeg</Format>
+                <OnlineResource xlink:type="simple" xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/erdas/imagex/Imagerie?request=image&amp;type=jpg&amp;layers=/Orthomosaique/2021/2021_Partenariat_Rouyn-Noranda_20cm_RVB/&amp;style=default&amp;sizex=100&amp;sizey=100" />
+              </LegendURL>
+            </Style>
+          </Layer>
+        </Layer>
+      </Layer>
+    </Layer>
+  </Capability>
+</WMS_Capabilities>
