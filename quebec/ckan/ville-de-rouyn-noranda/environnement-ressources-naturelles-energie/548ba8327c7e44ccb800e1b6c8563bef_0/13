@@ -1,0 +1,159 @@
+<html lang="en">
+<head>
+<title>Layer: Aire de protection de pr&eacute;l&egrave;vement d'eau de surface municipale (ID: 13)</title>
+<link href="/arcgis/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+<a href="https://carte.rouyn-noranda.ca/arcgis/login?returnUrl=https://carte.rouyn-noranda.ca/arcgis/rest/services">Login</a>
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/arcgis/rest/services">Home</a>
+&gt; <a href="/arcgis/rest/services">services</a>
+&gt; <a href="/arcgis/rest/services/Donnees_ouvertes">Donnees_ouvertes</a>
+&gt; <a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer">Donnees_ouvertes (MapServer)</a>
+&gt; <a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13">Aire de protection de pr&eacute;l&egrave;vement d'eau de surface municipale</a>
+</td>
+<td align="right">
+<a href="https://carte.rouyn-noranda.ca/arcgis/sdk/rest/02ss/02ss00000057000000.htm" target="_blank">Help</a> | <a href="https://carte.rouyn-noranda.ca/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13?f=help" target="_blank">API Reference</a>
+</td>
+</tr>
+</table><table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+<h2>Layer: Aire de protection de pr&eacute;l&egrave;vement d'eau de surface municipale (ID: 13)</h2>
+<div class="rbody">
+<b>Name:</b> Aire de protection de pr&eacute;l&egrave;vement d'eau de surface municipale<br/><br/>
+<b>Display Field:</b> MUNICIPALITE<br/><br/>
+<b>Type: </b> Feature Layer<br/><br/>
+<b>Geometry Type:</b> esriGeometryPolygon<br/><br/>
+<b>Description: </b> D&eacute;limitation des aires de protection de prise d'eau potable de surface pour le territoire de la Ville de Rouyn-Noranda<br/><br/>
+<b>Service Item Id: </b> 28064d3685fe4b759b39c509db87dfe1<br/><br/>
+<b>Copyright Text: </b> Ville de Rouyn-Noranda<br/><br/>
+<b>Default Visibility: true</b> <br/><br/>
+<b>MaxRecordCount: </b> 2000<br/><br/>
+<b>Supported Query Formats: </b> JSON, geoJSON, PBF<br/><br/>
+<b>Min Scale: </b> 0<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Advanced Queries: </b> true<br/><br/>
+<b>Supports Statistics: </b> true<br/><br/>
+<b>Has Labels: </b> false<br/><br/>
+<b>Can Modify Layer: </b> true<br/><br/>
+<b>Can Scale Symbols: </b> false<br/><br/>
+<b>Use Standardized Queries: </b> true<br/><br/>
+<b>Supports Datum Transformation: </b> true<br/><br/>
+<b>Extent:</b>
+<ul>
+XMin: 329233.4062999999<br/>
+YMin: 5346054.9998<br/>
+XMax: 346966.1875<br/>
+YMax: 5362142.776900001<br/>
+Spatial Reference: 32190
+&nbsp;(32190)
+<br/><br/>
+</ul>
+<br/>
+<b>Drawing Info: </b>
+<ul>
+<i>Renderer: </i>
+<ul><i>Simple Renderer:</i><br/>
+<i>Symbol: </i> <ul><i>Style: </i> esriSFSSolid<br/>
+<i>Color: </i> [235, 201, 252, 255] <br/>
+<i>Outline: </i>
+<ul>
+<i>Style: </i> esriSLSSolid<br/>
+<i>Color: </i> [110, 110, 110, 255] <br/>
+<i>Width: </i> 0</ul>
+</ul>
+<i>Label: </i> N/A<br/>
+<i>Description: </i> N/A</ul>
+<i>Transparency: </i> 0<br/>
+<i>Labeling Info: </i>
+<ul>
+</ul></ul>
+<b>Advanced Query Capabilities: </b>
+<ul>
+Supports Statistics: true<br/>
+Supports OrderBy: true<br/>
+Supports Distinct: true<br/>
+Supports Pagination: true<br/>
+Supports TrueCurve: true<br/>
+Supports Returning Query Extent: true<br/>
+Supports Query With Distance: true<br/>
+Supports Sql Expression: true<br/>
+Supports Query With ResultType: false<br/>
+Supports Returning Geometry Centroid: false<br/>
+Supports Binning LOD: false<br/>
+Supports Query With LOD Spatial Reference: false<br/></ul>
+<br/>
+<b>HasZ: false</b><br/><br/>
+<b>HasM: false</b> <br/><br/>
+<b>Has Attachments: </b> false<br/><br/>
+<b>HTML Popup Type: </b> esriServerHTMLPopupTypeAsHTMLText<br/><br/>
+<b>Type ID Field: </b> null<br/><br/>
+<b>Fields: </b>
+<ul>
+<li>
+OBJECTID<i>
+(
+type: esriFieldTypeOID, alias: OBJECTID
+)
+</i></li>
+<li>
+Shape<i>
+(
+type: esriFieldTypeGeometry, alias: Shape
+)
+</i></li>
+<li>
+MUNICIPALITE<i>
+(
+type: esriFieldTypeString, alias: MUNICIPALITE, length: 5
+)
+</i></li>
+<li>
+PROTECTION<i>
+(
+type: esriFieldTypeString, alias: PROTECTION, length: 50
+)
+</i></li>
+<li>
+Shape.STArea()<i>
+(
+type: esriFieldTypeDouble, alias: Shape.STArea()
+)
+</i></li>
+<li>
+Shape.STLength()<i>
+(
+type: esriFieldTypeDouble, alias: Shape.STLength()
+)
+</i></li>
+</ul></ul>
+<br/>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/query">Query</a>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/queryAttachments">Query Attachments</a>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/queryAnalytic">Query Analytic</a>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/generateRenderer">Generate Renderer</a>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13?f=pjson&returnUpdates=true&">Return Updates</a><br/><br/>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/iteminfo">Iteminfo</a>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/thumbnail">Thumbnail</a>
+&nbsp;&nbsp;<a href="/arcgis/rest/services/Donnees_ouvertes/Donnees_ouvertes/MapServer/13/metadata">Metadata</a>
+</div>
+<br/><br/>
+</body>
+</html>
