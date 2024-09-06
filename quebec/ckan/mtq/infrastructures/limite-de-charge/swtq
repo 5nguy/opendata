@@ -1,0 +1,1485 @@
+<?xml version='1.0' encoding="UTF-8" standalone="no" ?>
+<WMS_Capabilities version="1.3.0"  xmlns="http://www.opengis.net/wms"   xmlns:sld="http://www.opengis.net/sld"   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"   xsi:schemaLocation="http://www.opengis.net/wms http://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd  http://www.opengis.net/sld http://schemas.opengis.net/sld/1.1.0/sld_capabilities.xsd  http://mapserver.gis.umn.edu/mapserver https://ws.mapserver.transports.gouv.qc.ca/swtq?service=WMS&amp;version=1.3.0&amp;request=GetSchemaExtension">
+
+<!-- MapServer version 7.6.5 OUTPUT=PNG OUTPUT=JPEG OUTPUT=KML SUPPORTS=PROJ SUPPORTS=AGG SUPPORTS=FREETYPE SUPPORTS=CAIRO SUPPORTS=SVG_SYMBOLS SUPPORTS=SVGCAIRO SUPPORTS=ICONV SUPPORTS=FRIBIDI SUPPORTS=WMS_SERVER SUPPORTS=WMS_CLIENT SUPPORTS=WFS_SERVER SUPPORTS=WFS_CLIENT SUPPORTS=WCS_SERVER SUPPORTS=SOS_SERVER SUPPORTS=FASTCGI SUPPORTS=THREADS SUPPORTS=GEOS SUPPORTS=POINT_Z_M SUPPORTS=PBF INPUT=JPEG INPUT=POSTGIS INPUT=ORACLESPATIAL INPUT=OGR INPUT=GDAL INPUT=SHAPEFILE -->
+
+<Service>
+  <Name>WMS</Name>
+  <Title>Service Web de Transports Québec</Title>
+  <Abstract>Service  Web de Transports Québec</Abstract>
+  <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/>
+  <ContactInformation>
+  <ContactElectronicMailAddress>geomatique@transports.gouv.qc.ca</ContactElectronicMailAddress>
+  </ContactInformation>
+  <MaxWidth>9999</MaxWidth>
+  <MaxHeight>9999</MaxHeight>
+</Service>
+
+<Capability>
+  <Request>
+    <GetCapabilities>
+      <Format>text/xml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetCapabilities>
+    <GetMap>
+      <Format>image/png</Format>
+      <Format>image/gif</Format>
+      <Format>image/jpeg</Format>
+      <Format>image/vnd.jpeg-png</Format>
+      <Format>image/vnd.jpeg-png8</Format>
+      <Format>application/x-pdf</Format>
+      <Format>image/svg+xml</Format>
+      <Format>image/tiff</Format>
+      <Format>application/vnd.google-earth.kml+xml</Format>
+      <Format>application/vnd.google-earth.kmz</Format>
+      <Format>application/x-protobuf</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetMap>
+    <GetFeatureInfo>
+      <Format>application/json</Format>
+      <Format>text/html</Format>
+      <Format>geojson</Format>
+      <Format>application/vnd.ogc.gml</Format>
+      <Format>text/plain</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Post>
+        </HTTP>
+      </DCPType>
+    </GetFeatureInfo>
+    <sld:DescribeLayer>
+      <Format>text/xml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Post>
+        </HTTP>
+      </DCPType>
+    </sld:DescribeLayer>
+    <sld:GetLegendGraphic>
+      <Format>image/png</Format>
+      <Format>image/gif</Format>
+      <Format>image/jpeg</Format>
+      <Format>image/vnd.jpeg-png</Format>
+      <Format>image/vnd.jpeg-png8</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Post>
+        </HTTP>
+      </DCPType>
+    </sld:GetLegendGraphic>
+    <ms:GetStyles>
+      <Format>text/xml</Format>
+      <DCPType>
+        <HTTP>
+          <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Get>
+          <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?"/></Post>
+        </HTTP>
+      </DCPType>
+    </ms:GetStyles>
+  </Request>
+  <Exception>
+    <Format>XML</Format>
+    <Format>INIMAGE</Format>
+    <Format>BLANK</Format>
+  </Exception>
+  <sld:UserDefinedSymbolization SupportSLD="1" UserLayer="0" UserStyle="1" RemoteWFS="0" InlineFeature="0" RemoteWCS="0"/>
+  <Layer queryable="1">
+    <Name>swtq</Name>
+    <Title>Service Web de Transports Québec</Title>
+    <Abstract>Service  Web de Transports Québec</Abstract>
+    <CRS>EPSG:3857</CRS>
+    <CRS>EPSG:3798</CRS>
+    <CRS>EPSG:3799</CRS>
+    <CRS>EPSG:42105</CRS>
+    <CRS>EPSG:4326</CRS>
+    <CRS>EPSG:4269</CRS>
+    <CRS>EPSG:32198</CRS>
+    <CRS>EPSG:32184</CRS>
+    <CRS>EPSG:32185</CRS>
+    <CRS>EPSG:32186</CRS>
+    <CRS>EPSG:32187</CRS>
+    <CRS>EPSG:32188</CRS>
+    <CRS>EPSG:32189</CRS>
+    <CRS>EPSG:32190</CRS>
+    <EX_GeographicBoundingBox>
+        <westBoundLongitude>-82.4897</westBoundLongitude>
+        <eastBoundLongitude>-55.2445</eastBoundLongitude>
+        <southBoundLatitude>42.5999</southBoundLatitude>
+        <northBoundLatitude>64.8759</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:3857"
+                minx="-9.18271e+06" miny="5.25127e+06" maxx="-6.14979e+06" maxy="9.57575e+06" />
+    <Layer queryable="1">
+      <Name>Contexte</Name>
+      <Title>Contexte</Title>
+      <Abstract>Contexte</Abstract>
+    <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL width="108" height="45">
+          <Format>image/png</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=Contexte&amp;format=image/png&amp;STYLE=default"/>
+       </LegendURL>
+    </Style>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>lieuhabite</Name>
+        <Title>Lieu habité</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.505</westBoundLongitude>
+            <eastBoundLongitude>-57.1525</eastBoundLongitude>
+            <southBoundLatitude>44.9921</southBoundLatitude>
+            <northBoundLatitude>62.4179</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85045e+06" miny="5.62028e+06" maxx="-6.36219e+06" maxy="8.95891e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=lieuhabite"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/lieu-habite"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="99" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=lieuhabite&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>villagerelais</Name>
+        <Title>Village-relais</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.2058</westBoundLongitude>
+            <eastBoundLongitude>-64.3855</eastBoundLongitude>
+            <southBoundLatitude>45.0185</southBoundLatitude>
+            <northBoundLatitude>50.2763</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.81715e+06" miny="5.62443e+06" maxx="-7.16736e+06" maxy="6.49426e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=villagerelais"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/village-relais"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="108" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=villagerelais&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+    </Layer>
+    <Layer queryable="1">
+      <Name>zpegt</Name>
+      <Title>Zone potentiellement exposée aux glissements de terrain (ZPEGT)</Title>
+      <Abstract>zpegt</Abstract>
+    <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL width="169" height="905">
+          <Format>image/png</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=zpegt&amp;format=image/png&amp;STYLE=default"/>
+       </LegendURL>
+    </Style>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>zpegt_cgt_s</Name>
+        <Title>Potentiel de glissement – Surface</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4983</westBoundLongitude>
+            <eastBoundLongitude>-63.5602</eastBoundLongitude>
+            <southBoundLatitude>45.3454</southBoundLatitude>
+            <northBoundLatitude>50.2551</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.84971e+06" miny="5.67606e+06" maxx="-7.07549e+06" maxy="6.49057e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zpegt_cgt_s"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/zone-potentiellement-exposee-aux-glissements-de-terrain-zpegt"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="110" height="765">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=zpegt_cgt_s&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>zpegt_cgt_l</Name>
+        <Title>Potentiel de glissement – Ligne</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4982</westBoundLongitude>
+            <eastBoundLongitude>-63.5602</eastBoundLongitude>
+            <southBoundLatitude>45.3483</southBoundLatitude>
+            <northBoundLatitude>50.2546</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.8497e+06" miny="5.67652e+06" maxx="-7.07549e+06" maxy="6.49048e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zpegt_cgt_l"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/zone-potentiellement-exposee-aux-glissements-de-terrain-zpegt"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="95" height="105">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=zpegt_cgt_l&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>zpegt_index_cgt_s</Name>
+        <Title>Potentiel de glissement – Index</Title>
+        <CRS>EPSG:3799</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.9822</westBoundLongitude>
+            <eastBoundLongitude>-63.5561</eastBoundLongitude>
+            <southBoundLatitude>45.0346</southBoundLatitude>
+            <northBoundLatitude>50.4314</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3799"
+                    minx="86538.8" miny="157121" maxx="1.25906e+06" maxy="715011" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zpegt_index_cgt_s"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/zone-potentiellement-exposee-aux-glissements-de-terrain-zpegt"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="169" height="45">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=zpegt_index_cgt_s&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+    </Layer>
+    <Layer queryable="1">
+      <Name>environnement</Name>
+      <Title>Environnement</Title>
+      <Abstract>environnement</Abstract>
+    <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL width="233" height="85">
+          <Format>image/png</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=environnement&amp;format=image/png&amp;STYLE=default"/>
+       </LegendURL>
+    </Style>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>stations_meteoroutieres</Name>
+        <Title>Station météoroutière - Année courante</Title>
+        <CRS>EPSG:3857</CRS>
+        <CRS>EPSG:3798</CRS>
+        <CRS>EPSG:3799</CRS>
+        <CRS>EPSG:42105</CRS>
+        <CRS>EPSG:4326</CRS>
+        <CRS>EPSG:4269</CRS>
+        <CRS>EPSG:32198</CRS>
+        <CRS>EPSG:32184</CRS>
+        <CRS>EPSG:32185</CRS>
+        <CRS>EPSG:32186</CRS>
+        <CRS>EPSG:32187</CRS>
+        <CRS>EPSG:32188</CRS>
+        <CRS>EPSG:32189</CRS>
+        <CRS>EPSG:32190</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-80</westBoundLongitude>
+            <eastBoundLongitude>-60</eastBoundLongitude>
+            <southBoundLatitude>40</southBoundLatitude>
+            <northBoundLatitude>80</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.90556e+06" miny="4.86594e+06" maxx="-6.67917e+06" maxy="1.55387e+07" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=stations_meteoroutieres"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/station-meteoroutiere"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="110" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=stations_meteoroutieres&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>histo_stations_meteoroutieres</Name>
+        <Title>Station météoroutière - Archive</Title>
+        <CRS>EPSG:3857</CRS>
+        <CRS>EPSG:3798</CRS>
+        <CRS>EPSG:3799</CRS>
+        <CRS>EPSG:42105</CRS>
+        <CRS>EPSG:4326</CRS>
+        <CRS>EPSG:4269</CRS>
+        <CRS>EPSG:32198</CRS>
+        <CRS>EPSG:32184</CRS>
+        <CRS>EPSG:32185</CRS>
+        <CRS>EPSG:32186</CRS>
+        <CRS>EPSG:32187</CRS>
+        <CRS>EPSG:32188</CRS>
+        <CRS>EPSG:32189</CRS>
+        <CRS>EPSG:32190</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-80</westBoundLongitude>
+            <eastBoundLongitude>-60</eastBoundLongitude>
+            <southBoundLatitude>40</southBoundLatitude>
+            <northBoundLatitude>80</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.90556e+06" miny="4.86594e+06" maxx="-6.67917e+06" maxy="1.55387e+07" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=histo_stations_meteoroutieres"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/station-meteoroutiere"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="110" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=histo_stations_meteoroutieres&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>site_inv_geotech_p</Name>
+        <Title>Site d’investigation géotechnique</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4543</westBoundLongitude>
+            <eastBoundLongitude>-59.3206</eastBoundLongitude>
+            <southBoundLatitude>45.0003</southBoundLatitude>
+            <northBoundLatitude>50.7022</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.84482e+06" miny="5.62156e+06" maxx="-6.60354e+06" maxy="6.56879e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=site_inv_geotech_p"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/site-d-investigation-geotechnique"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="206" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=site_inv_geotech_p&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>site_inv_geotech_bdg_p</Name>
+        <Title>Site d’investigation géotechnique BDG</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4835</westBoundLongitude>
+            <eastBoundLongitude>-63.715</eastBoundLongitude>
+            <southBoundLatitude>45.1857</southBoundLatitude>
+            <northBoundLatitude>50.2891</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.84806e+06" miny="5.65081e+06" maxx="-7.09273e+06" maxy="6.4965e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=site_inv_geotech_bdg_p"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/site-d-investigation-geotechnique"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="233" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=site_inv_geotech_bdg_p&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+    </Layer>
+    <Layer queryable="1">
+      <Name>transports</Name>
+      <Title>Transports</Title>
+      <Abstract>transports</Abstract>
+    <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL width="325" height="1965">
+          <Format>image/png</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=transports&amp;format=image/png&amp;STYLE=default"/>
+       </LegendURL>
+    </Style>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>telephone_urg</Name>
+        <Title>Téléphone d’urgence</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-78.1227</westBoundLongitude>
+            <eastBoundLongitude>-66.1152</eastBoundLongitude>
+            <southBoundLatitude>45.5451</southBoundLatitude>
+            <northBoundLatitude>53.3616</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.69658e+06" miny="5.70775e+06" maxx="-7.35991e+06" maxy="7.05017e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=telephone_urg"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/telephone-durgence"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="148" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=telephone_urg&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>circulation_routier</Name>
+        <Title>Débit de circulation</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5177</westBoundLongitude>
+            <eastBoundLongitude>-57.1074</eastBoundLongitude>
+            <southBoundLatitude>44.9921</southBoundLatitude>
+            <northBoundLatitude>54.8608</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85187e+06" miny="5.62027e+06" maxx="-6.35717e+06" maxy="7.3349e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=circulation_routier"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/debit-de-circulation"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="226" height="165">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=circulation_routier&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>aeroport</Name>
+        <Title>Aéroport</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4181</westBoundLongitude>
+            <eastBoundLongitude>-57.1861</eastBoundLongitude>
+            <southBoundLatitude>45.0265</southBoundLatitude>
+            <northBoundLatitude>62.4165</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.84078e+06" miny="5.6257e+06" maxx="-6.36593e+06" maxy="8.95858e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=aeroport"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/aeroport"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="213" height="65">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=aeroport&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>liaison_maritime</Name>
+        <Title>Port - Liaison maritime</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-76.2288</westBoundLongitude>
+            <eastBoundLongitude>-56.7721</eastBoundLongitude>
+            <southBoundLatitude>45.1233</southBoundLatitude>
+            <northBoundLatitude>51.4156</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.48576e+06" miny="5.64096e+06" maxx="-6.31984e+06" maxy="6.69515e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=liaison_maritime"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/liaison-maritime"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="155" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=liaison_maritime&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+        <MinScaleDenominator>1</MinScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>parc_routier</Name>
+        <Title>Parc routier</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4377</westBoundLongitude>
+            <eastBoundLongitude>-57.1082</eastBoundLongitude>
+            <southBoundLatitude>45.0245</southBoundLatitude>
+            <northBoundLatitude>53.5646</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.84296e+06" miny="5.62538e+06" maxx="-6.35726e+06" maxy="7.08812e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=parc_routier"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/parc-routier"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="202" height="125">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=parc_routier&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>repere_km</Name>
+        <Title>Repère kilométrique</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.513</westBoundLongitude>
+            <eastBoundLongitude>-61.3067</eastBoundLongitude>
+            <southBoundLatitude>45.0103</southBoundLatitude>
+            <northBoundLatitude>53.8117</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85134e+06" miny="5.62314e+06" maxx="-6.82463e+06" maxy="7.13457e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=repere_km"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/repere-kilometrique"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="143" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=repere_km&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>zones_degel</Name>
+        <Title>Zone de dégel</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5176</westBoundLongitude>
+            <eastBoundLongitude>-56.9469</eastBoundLongitude>
+            <southBoundLatitude>46.0636</southBoundLatitude>
+            <northBoundLatitude>52</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85186e+06" miny="5.79055e+06" maxx="-6.33929e+06" maxy="6.80013e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zones_degel"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/zone-de-degel"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="115" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=zones_degel&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>zone_degel</Name>
+        <Title>Zone de dégel</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.7653</westBoundLongitude>
+            <eastBoundLongitude>-56.9349</eastBoundLongitude>
+            <southBoundLatitude>44.9914</southBoundLatitude>
+            <northBoundLatitude>62.5825</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.87944e+06" miny="5.62016e+06" maxx="-6.33797e+06" maxy="8.99859e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=zone_degel"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/zone-de-degel"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="115" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=zone_degel&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>aeroport_piste</Name>
+        <Title>Aéroport - Piste</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.4271</westBoundLongitude>
+            <eastBoundLongitude>-57.1813</eastBoundLongitude>
+            <southBoundLatitude>45.0258</southBoundLatitude>
+            <northBoundLatitude>62.4206</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.84178e+06" miny="5.62558e+06" maxx="-6.3654e+06" maxy="8.95957e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=aeroport_piste"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/aeroport-piste"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="121" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=aeroport_piste&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>etablissement_mtq</Name>
+        <Title>Établissement</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-80.0992</westBoundLongitude>
+            <eastBoundLongitude>-56.4704</eastBoundLongitude>
+            <southBoundLatitude>44.6781</southBoundLatitude>
+            <northBoundLatitude>62.8461</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.9166e+06" miny="5.57099e+06" maxx="-6.28626e+06" maxy="9.06262e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=etablissement_mtq"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/etablissement-du-mtq"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="189" height="245">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=etablissement_mtq&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>reseau_chfer_qc</Name>
+        <Title>Réseau ferroviaire</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5176</westBoundLongitude>
+            <eastBoundLongitude>-63.4169</eastBoundLongitude>
+            <southBoundLatitude>44.9976</southBoundLatitude>
+            <northBoundLatitude>54.8921</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85186e+06" miny="5.62114e+06" maxx="-7.05954e+06" maxy="7.34094e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=reseau_chfer_qc"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/reseau-ferroviaire"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="108" height="85">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=reseau_chfer_qc&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>port_installation</Name>
+        <Title>Port - Installation</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-78.893</westBoundLongitude>
+            <eastBoundLongitude>-57.1475</eastBoundLongitude>
+            <southBoundLatitude>45.123</southBoundLatitude>
+            <northBoundLatitude>62.4155</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.78233e+06" miny="5.64091e+06" maxx="-6.36163e+06" maxy="8.95835e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=port_installation"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/port-installation"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="142" height="165">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=port_installation&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>aq_camion</Name>
+        <Title>Réseau de camionnage</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.8822</westBoundLongitude>
+            <eastBoundLongitude>-55.8344</eastBoundLongitude>
+            <southBoundLatitude>44.9295</southBoundLatitude>
+            <northBoundLatitude>62.4279</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.89245e+06" miny="5.61043e+06" maxx="-6.21546e+06" maxy="8.96131e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=aq_camion"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/reseau-camionnage"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="185" height="145">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=aq_camion&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>sortie_aut</Name>
+        <Title>Sortie d’autoroute</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-75.9402</westBoundLongitude>
+            <eastBoundLongitude>-68.3509</eastBoundLongitude>
+            <southBoundLatitude>45.0165</southBoundLatitude>
+            <northBoundLatitude>48.541</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.45362e+06" miny="5.62412e+06" maxx="-7.60879e+06" maxy="6.19733e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=sortie_aut"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/sortie-dautoroute"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="132" height="45">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=sortie_aut&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>1e+06</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>convivialite_velo</Name>
+        <Title>Convivialité des routes pour les cyclistes</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5177</westBoundLongitude>
+            <eastBoundLongitude>-57.1074</eastBoundLongitude>
+            <southBoundLatitude>44.9921</southBoundLatitude>
+            <northBoundLatitude>62.4163</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85187e+06" miny="5.62028e+06" maxx="-6.35717e+06" maxy="8.95853e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=convivialite_velo"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/convivialite-velo"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="230" height="105">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=convivialite_velo&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>iit_v_drang_condu_permn_ligne</Name>
+        <Title>Élément de drainage</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5148</westBoundLongitude>
+            <eastBoundLongitude>-57.107</eastBoundLongitude>
+            <southBoundLatitude>44.9943</southBoundLatitude>
+            <northBoundLatitude>62.1825</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85155e+06" miny="5.62062e+06" maxx="-6.35712e+06" maxy="8.90255e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=iit_v_drang_condu_permn_ligne"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/element-de-drainage"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="150" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=iit_v_drang_condu_permn_ligne&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>refuge_route_blanche</Name>
+        <Title>Refuge de la Route blanche</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-82.5082</westBoundLongitude>
+            <eastBoundLongitude>-51.8188</eastBoundLongitude>
+            <southBoundLatitude>41.306</southBoundLatitude>
+            <northBoundLatitude>66.0933</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-9.18477e+06" miny="5.05759e+06" maxx="-5.76845e+06" maxy="9.90244e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=refuge_route_blanche"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/refuge-de-la-route-blanche"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="81" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=refuge_route_blanche&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_route_blanche</Name>
+        <Title>Route blanche</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-61.2784</westBoundLongitude>
+            <eastBoundLongitude>-57.1047</eastBoundLongitude>
+            <southBoundLatitude>50.192</southBoundLatitude>
+            <northBoundLatitude>51.5442</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-6.82147e+06" miny="6.47959e+06" maxx="-6.35687e+06" maxy="6.71813e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_route_blanche"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/la-route-blanche"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="116" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_route_blanche&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="0" opaque="0" cascaded="0">
+        <Name>bgr_mtq_annotation</Name>
+        <Title>Écusson</Title>
+        <CRS>EPSG:3857</CRS>
+        <CRS>EPSG:3798</CRS>
+        <CRS>EPSG:4326</CRS>
+        <CRS>EPSG:4269</CRS>
+        <CRS>EPSG:3799</CRS>
+        <CRS>EPSG:42105</CRS>
+        <CRS>EPSG:32198</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-180</westBoundLongitude>
+            <eastBoundLongitude>180</eastBoundLongitude>
+            <southBoundLatitude>-85.0511</southBoundLatitude>
+            <northBoundLatitude>85.0511</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-2.00375e+07" miny="-2.00375e+07" maxx="2.00375e+07" maxy="2.00375e+07" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_mtq_annotation"/>
+        </MetadataURL>
+<!-- WARNING: Some mandatory elements for 'DataURL' are missing in this context. -->
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_v_sous_route_res_sup_act_internet</Name>
+        <Title>Réseau routier supérieur</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5177</westBoundLongitude>
+            <eastBoundLongitude>-57.1047</eastBoundLongitude>
+            <southBoundLatitude>44.9921</southBoundLatitude>
+            <northBoundLatitude>62.4208</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85187e+06" miny="5.62028e+06" maxx="-6.35687e+06" maxy="8.95963e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_sous_route_res_sup_act_internet"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/reseau-routier-rtss"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="224" height="125">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_v_sous_route_res_sup_act_internet&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>gsq_v_desc_strct_tri</Name>
+        <Title>Structure</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5144</westBoundLongitude>
+            <eastBoundLongitude>-57.1461</eastBoundLongitude>
+            <southBoundLatitude>44.995</southBoundLatitude>
+            <northBoundLatitude>58.6732</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85151e+06" miny="5.62073e+06" maxx="-6.36147e+06" maxy="8.11009e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=gsq_v_desc_strct_tri"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/structure"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="90" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=gsq_v_desc_strct_tri&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_v_sous_route_res_sup_act</Name>
+        <Title>Réseau routier - RTSS</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.5177</westBoundLongitude>
+            <eastBoundLongitude>-57.1047</eastBoundLongitude>
+            <southBoundLatitude>44.9921</southBoundLatitude>
+            <northBoundLatitude>62.4208</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.85187e+06" miny="5.62028e+06" maxx="-6.35687e+06" maxy="8.95963e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_sous_route_res_sup_act"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/reseau-routier-rtss"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="325" height="185">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_v_sous_route_res_sup_act&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>chantiers_mtmdet</Name>
+        <Title>Travaux routiers ↺</Title>
+        <CRS>EPSG:4326</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-90.2178</westBoundLongitude>
+            <eastBoundLongitude>42.8632</eastBoundLongitude>
+            <southBoundLatitude>-46.7822</southBoundLatitude>
+            <northBoundLatitude>64.2855</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:4326"
+                    minx="-46.7822" miny="-90.2178" maxx="64.2855" maxy="42.8632" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=chantiers_mtmdet"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/travaux-routiers"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="126" height="45">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=chantiers_mtmdet&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>radars_photos</Name>
+        <Title>Radar photo ↺</Title>
+        <CRS>EPSG:3857</CRS>
+        <CRS>EPSG:3798</CRS>
+        <CRS>EPSG:3799</CRS>
+        <CRS>EPSG:42105</CRS>
+        <CRS>EPSG:4326</CRS>
+        <CRS>EPSG:4269</CRS>
+        <CRS>EPSG:32198</CRS>
+        <CRS>EPSG:32184</CRS>
+        <CRS>EPSG:32185</CRS>
+        <CRS>EPSG:32186</CRS>
+        <CRS>EPSG:32187</CRS>
+        <CRS>EPSG:32188</CRS>
+        <CRS>EPSG:32189</CRS>
+        <CRS>EPSG:32190</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-90.2178</westBoundLongitude>
+            <eastBoundLongitude>42.8632</eastBoundLongitude>
+            <southBoundLatitude>-46.7822</southBoundLatitude>
+            <northBoundLatitude>64.2855</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-1.0043e+07" miny="-5.9066e+06" maxx="4.77151e+06" maxy="9.42264e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=radars_photos"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/radar-photo"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="264" height="85">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=radars_photos&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>pes_v_limtn_charg</Name>
+        <Title>Limite de charge ↺</Title>
+        <CRS>EPSG:3799</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-81.9595</westBoundLongitude>
+            <eastBoundLongitude>-57.0631</eastBoundLongitude>
+            <southBoundLatitude>44.5907</southBoundLatitude>
+            <northBoundLatitude>58.6732</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3799"
+                    minx="87651" miny="114512" maxx="1.57163e+06" maxy="1.63911e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=pes_v_limtn_charg"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/limite-de-charge"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="126" height="85">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=pes_v_limtn_charg&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>evenements</Name>
+        <Title>Avertissement routier ↺</Title>
+        <CRS>EPSG:4326</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-90.2178</westBoundLongitude>
+            <eastBoundLongitude>42.8632</eastBoundLongitude>
+            <southBoundLatitude>-46.7822</southBoundLatitude>
+            <northBoundLatitude>64.2855</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:4326"
+                    minx="-46.7822" miny="-90.2178" maxx="64.2855" maxy="42.8632" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=evenements"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/avertissement-routier"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="143" height="45">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=evenements&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>evenements_inondation</Name>
+        <Title>Avertissement routier - Inondation (511) ↺</Title>
+        <CRS>EPSG:4326</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-90.2178</westBoundLongitude>
+            <eastBoundLongitude>42.8632</eastBoundLongitude>
+            <southBoundLatitude>-46.7822</southBoundLatitude>
+            <northBoundLatitude>64.2855</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:4326"
+                    minx="-46.7822" miny="-90.2178" maxx="64.2855" maxy="42.8632" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=evenements_inondation"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/avertissement-routier"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="239" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=evenements_inondation&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>conditions_routieres</Name>
+        <Title>Condition routière hivernale du réseau routier ↺</Title>
+        <CRS>EPSG:4326</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-90.2178</westBoundLongitude>
+            <eastBoundLongitude>42.8632</eastBoundLongitude>
+            <southBoundLatitude>-46.7822</southBoundLatitude>
+            <northBoundLatitude>64.2855</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:4326"
+                    minx="-46.7822" miny="-90.2178" maxx="64.2855" maxy="42.8632" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=conditions_routieres"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/condition-routiere-hivernale-du-reseau-routier-mtq"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="158" height="65">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=conditions_routieres&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>infos_cameras</Name>
+        <Title>Caméra de circulation</Title>
+        <CRS>EPSG:4326</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-90.2178</westBoundLongitude>
+            <eastBoundLongitude>42.8632</eastBoundLongitude>
+            <southBoundLatitude>-46.7822</southBoundLatitude>
+            <northBoundLatitude>64.2855</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:4326"
+                    minx="-46.7822" miny="-90.2178" maxx="64.2855" maxy="42.8632" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=infos_cameras"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/dataset/camera-de-circulation"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="152" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=infos_cameras&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_reperage_metrique</Name>
+        <Title>Repérage métrique (RTSS-Ch)</Title>
+        <Abstract>Représentation ponctuelle du repérage métrique (valeur du chaînage) sur les routes inventoriées (RTSS, RTS, Sous-routes) de juridiction MTQ, représentant le réseau routier dont les statuts sont: Actif, Transitoire, Fermé ou Réfection). Les statuts Projeté et Inactif sont exclus. Des routes de juridiction fédérale (A-10 Bonaventure, et en partenariat-public-privé tels A-25, A-30 sont aussi présentes dans ce jeu de données).</Abstract>
+        <CRS>EPSG:3798</CRS>
+        <CRS>EPSG:4326</CRS>
+        <CRS>EPSG:4269</CRS>
+        <CRS>EPSG:3799</CRS>
+        <CRS>EPSG:42105</CRS>
+        <CRS>EPSG:32198</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.464</westBoundLongitude>
+            <eastBoundLongitude>-61.5563</eastBoundLongitude>
+            <southBoundLatitude>44.4964</southBoundLatitude>
+            <northBoundLatitude>50.9376</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3798"
+                    minx="48255.3" miny="55245.7" maxx="1.47105e+06" maxy="812167" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_reperage_metrique"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/reseau-routier-rtss"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="92" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_reperage_metrique&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+        <MaxScaleDenominator>70001</MaxScaleDenominator>
+      </Layer>
+    </Layer>
+    <Layer queryable="1">
+      <Name>limite_adm</Name>
+      <Title>Limites administratives du MTQ</Title>
+      <Abstract>limite_adm</Abstract>
+    <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL width="194" height="65">
+          <Format>image/png</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=limite_adm&amp;format=image/png&amp;STYLE=default"/>
+       </LegendURL>
+    </Style>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_v_dirct_genrl_geomt_act</Name>
+        <Title>Sous-ministériat aux territoires</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.7653</westBoundLongitude>
+            <eastBoundLongitude>-56.9349</eastBoundLongitude>
+            <southBoundLatitude>44.9914</southBoundLatitude>
+            <northBoundLatitude>62.5825</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.87944e+06" miny="5.62016e+06" maxx="-6.33797e+06" maxy="8.99859e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_dirct_genrl_geomt_act"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/territoire-administratif"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="194" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_v_dirct_genrl_geomt_act&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_v_dirct_terrt_geomt_act</Name>
+        <Title>Direction générale</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.7653</westBoundLongitude>
+            <eastBoundLongitude>-56.9349</eastBoundLongitude>
+            <southBoundLatitude>44.9914</southBoundLatitude>
+            <northBoundLatitude>62.5825</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.87944e+06" miny="5.62016e+06" maxx="-6.33797e+06" maxy="8.9986e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_dirct_terrt_geomt_act"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/territoire-administratif"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="134" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_v_dirct_terrt_geomt_act&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>bgr_v_centr_servc_geomt_act</Name>
+        <Title>Centre de services</Title>
+        <CRS>EPSG:3857</CRS>
+        <EX_GeographicBoundingBox>
+            <westBoundLongitude>-79.7653</westBoundLongitude>
+            <eastBoundLongitude>-56.9349</eastBoundLongitude>
+            <southBoundLatitude>44.9914</southBoundLatitude>
+            <northBoundLatitude>62.5825</northBoundLatitude>
+        </EX_GeographicBoundingBox>
+        <BoundingBox CRS="EPSG:3857"
+                    minx="-8.87944e+06" miny="5.62016e+06" maxx="-6.33797e+06" maxy="8.9986e+06" />
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=bgr_v_centr_servc_geomt_act"/>
+        </MetadataURL>
+        <DataURL>
+          <Format>text/html</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.donneesquebec.ca/recherche/fr/dataset/territoire-administratif"/>
+        </DataURL>
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="137" height="25">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=bgr_v_centr_servc_geomt_act&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+    </Layer>
+    <Layer queryable="1">
+      <Name>toponyme</Name>
+      <Title>Toponymie</Title>
+      <Abstract>toponyme</Abstract>
+    <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL width="132" height="45">
+          <Format>image/png</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=toponyme&amp;format=image/png&amp;STYLE=default"/>
+       </LegendURL>
+    </Style>
+      <Layer queryable="1" opaque="0" cascaded="0">
+        <Name>toponymie_structure</Name>
+        <Title>Structure avec toponyme officiel</Title>
+        <CRS>EPSG:3799</CRS>
+        <!-- WARNING: Optional Ex_GeographicBoundingBox could not be established for this layer.  Consider setting the EXTENT in the LAYER object, or wms_extent metadata. Also check that your data exists in the DATA statement -->
+        <MetadataURL type="TC211">
+          <Format>text/xml</Format>
+          <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?request=GetMetadata&amp;layer=toponymie_structure"/>
+        </MetadataURL>
+<!-- WARNING: Some mandatory elements for 'DataURL' are missing in this context. -->
+        <Style>
+          <Name>default</Name>
+          <Title>default</Title>
+          <LegendURL width="132" height="45">
+             <Format>image/png</Format>
+             <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://ws.mapserver.transports.gouv.qc.ca/swtq?version=1.3.0&amp;service=WMS&amp;request=GetLegendGraphic&amp;sld_version=1.1.0&amp;layer=toponymie_structure&amp;format=image/png&amp;STYLE=default"/>
+          </LegendURL>
+        </Style>
+      </Layer>
+    </Layer>
+  </Layer>
+</Capability>
+</WMS_Capabilities>
