@@ -1,0 +1,3692 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Installations_sportives_et_r_C3_A9cr_C3_A9atives" id="Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="DETAIL" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="SURFACE" type="string"></SimpleField>
+	<SimpleField name="ECLAIRAGE" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Installations_sportives_et_r_C3_A9cr_C3_A9atives</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Aréna Eugène-Lalonde</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8826421705435,45.4137245218794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Aréna Philippe-Bergeron</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9521855545892,45.4745139612811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Centre Julien-Ducharme </SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8534981592219,45.4317078407753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Aréna Ivan-Dugré </SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9066370485381,45.3884612136742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Centre récréatif Rock Forest </SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9905464127782,45.368120684758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Aréna Jane et Eric Molson de l'Université Bishop's </SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8422460497209,45.363653425441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Complexe sportif Thibault GM</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9461386081362,45.3800189384105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Aréna BCS</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8410750993413,45.3718008713924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Aréna</SimpleData>
+		<SimpleData name="NOM">Aréna Mont-Sainte-Anne</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9327625336555,45.3695103473698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tir à l'arc</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9093196430498,45.3785503546292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9484968718152,45.4108423283027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9483002034213,45.4110593981843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8501342621977,45.4080867244057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8500181288022,45.4084710791374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.948376269001,45.4752836168958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9168732715965,45.3973681945513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9420526902614,45.4689924033653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.942158781894,45.4688522128321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9418594968304,45.4689322596989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.98371308266,45.3809267285352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9845121798833,45.3813162059473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9367291176079,45.3990467522071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9367322146287,45.3992442619653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9177155918552,45.3947292588223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9093941177604,45.4011543958657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9093352756215,45.4013855768432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0225056442403,45.3109831299075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8926858396903,45.3965101732418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8921534025447,45.3741548540986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="OBJECTID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8939001680579,45.3950497329533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8796678677612,45.4015181388648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8848707743959,45.3914264860672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.887855090486,45.385465223682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9733949762462,45.3735334540985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.973168587068,45.3735199990409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9830087038037,45.380130136327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9739515883951,45.3852863655652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9825391317755,45.3916811571989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9826740228581,45.3917715601284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Plage</SimpleData>
+		<SimpleData name="OBJECTID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9272946821304,45.3950662861956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.948206474093,45.3882425743194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9482279326005,45.3878545279988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8922795369895,45.3745615281964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.892609460559,45.3745783327965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+		<SimpleData name="OBJECTID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8922312822217,45.3747698686538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8926368392478,45.3747787141253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9931151548043,45.3337090448581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9935463366096,45.3336839068348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9934600869963,45.3338404060326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0381968047119,45.3452456262927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0392253402386,45.3451825908412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Plage</SimpleData>
+		<SimpleData name="OBJECTID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0248251373227,45.3348455875082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9999382120003,45.3561029125714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0000086718946,45.3553637087527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.000461788527,45.3560002007777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0076480394867,45.3988009779567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0070753784347,45.3990417815007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0411759153582,45.393281407245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piste multifonctionnelle</SimpleData>
+		<SimpleData name="OBJECTID">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8712105531593,45.3927854888073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8526257115067,45.3677560054076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8888787989009,45.4066272848912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8890098585274,45.4066502778296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8679405565133,45.40455980924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8495641701587,45.4065098129785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8742459986953,45.4128515197791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8750283777277,45.413256547577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8898895087453,45.41559659449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8898493910983,45.4153673204966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8895220541711,45.4153403071683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8902913199638,45.4158705837529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8905589478204,45.4158426484722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9446031230935,45.3808278424534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8799309707642,45.3952603257599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8639673579419,45.4251326171721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Glissade sur tube</SimpleData>
+		<SimpleData name="OBJECTID">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.908498229272,45.3834372191551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Glissade sur tube</SimpleData>
+		<SimpleData name="OBJECTID">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9912706465441,45.3329459513048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de galets</SimpleData>
+		<SimpleData name="OBJECTID">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9143284184238,45.4141427891987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="OBJECTID">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9145819949804,45.4142002169765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9573975176723,45.4129528835699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9575861088656,45.4129654368273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piste multifonctionnelle</SimpleData>
+		<SimpleData name="OBJECTID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9008096099496,45.4056782092451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9493584850402,45.410329188297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piste multifonctionnelle</SimpleData>
+		<SimpleData name="OBJECTID">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9494147835846,45.4103178050153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+		<SimpleData name="OBJECTID">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9367876146523,45.3995031151389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9831223154593,45.3801372968676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8606878589055,45.3692497765486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8546358161319,45.4310587341859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8591049553134,45.3698763267742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9153317960048,45.4156072203188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piste multifonctionnelle</SimpleData>
+		<SimpleData name="OBJECTID">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9253023106125,45.4009086815328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9248665340747,45.402334133259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Préau et plancher de danse</SimpleData>
+		<SimpleData name="OBJECTID">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9251892682183,45.4027952116497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.961004288762,45.3643410122638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9608734822137,45.3642039809112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9330346193035,45.3883643604829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9332798189032,45.3886813102277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9332266830778,45.3883011103397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9043965346277,45.3879723702626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9048998843271,45.3882669290843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.890575734126,45.3744568859612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8906290021399,45.3747326330864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8536561330443,45.3769509664622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.853970666215,45.3770045385179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.87001675942,45.3934557594102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8657264243851,45.4016218172207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="OBJECTID">106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8502911011915,45.4063805092842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8505628681792,45.4067533054908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8627109136049,45.4163481657192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8620500925312,45.416259022468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8636672791097,45.4247505851328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.864020899578,45.4246401868663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8780696308219,45.4256337182719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.915539772611,45.4148441138083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9147941030684,45.415180366989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8937250979566,45.430844539023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8933817718452,45.4308389100913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9168820375739,45.4519518200228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9168558609172,45.4517918581022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piste multifonctionnelle</SimpleData>
+		<SimpleData name="OBJECTID">119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9406631623797,45.468290460525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9480797458347,45.4836587075994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8785866265347,45.4258071590083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8747047372939,45.4127159237884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8751073752413,45.4127298303293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.905062094663,45.3879267823576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9828891882663,45.3804491223852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9745984325795,45.3855393069049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Planche à roulettes</SimpleData>
+		<SimpleData name="OBJECTID">127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0114078675974,45.3909010425723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0409522463637,45.3932885956331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0412669558969,45.392682062034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.040003208499,45.3447924428168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9083849139929,45.4016706758536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8335635249834,45.4074917742999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="OBJECTID">133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.94072631626,45.4694410676189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9413200620049,45.4695417058692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0073177263445,45.3992439290479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+		<SimpleData name="OBJECTID">136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8625790948696,45.4163315413602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8656305611986,45.40190099629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0401961737461,45.3450949480316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de fers</SimpleData>
+		<SimpleData name="OBJECTID">139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8888922067141,45.406652797581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu de fers</SimpleData>
+		<SimpleData name="OBJECTID">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.862023357438,45.4162036960012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+		<SimpleData name="OBJECTID">141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8656585035773,45.4024298076654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0003883331657,45.3559762633832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pétanque</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0005666193766,45.3562533802241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes mobiles</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9479291832349,45.4833641646438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Patinoire à bandes fixes</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8336234862532,45.4066076062446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Poussière</SimpleData>
+		<SimpleData name="OBJECTID">146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.875218960213,45.4133849113768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Surface, anneau ou étang glacé</SimpleData>
+		<SimpleData name="SURFACE">Gazon</SimpleData>
+		<SimpleData name="OBJECTID">147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8938837383594,45.3947820625995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.93698790546,45.4146197726948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9369470222158,45.4147071884703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8627706412552,45.4242352882068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9486703497221,45.4111627307643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8626512921989,45.424275424248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8667202200292,45.3891000576584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.871875530042,45.4060070913022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8719270420478,45.4061278980202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9169657655212,45.3944631109065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9976643511199,45.3549119011007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9927120750325,45.3625242010673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9924036223159,45.3625411619453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.898571546931,45.3787448771833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9274807489173,45.394477979253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9147109119015,45.3871989541682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9443004446803,45.3661182120514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8788649311394,45.4260826633377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9441524639176,45.3659772295063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8933909378426,45.3967122597499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8934910338519,45.3967506627545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8902513283133,45.398268396565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9358611679002,45.407750054479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8783241996976,45.4159441816864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8908914647011,45.415541807227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8896698765657,45.414647094444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8478210835475,45.4129987294026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8502775726097,45.4028806830503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8340259784014,45.4063618792909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8342037928362,45.4071550720909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8264913833987,45.4130801074598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8520957920702,45.4308503083169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.852074071764,45.4307347564621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">180</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9819149668066,45.3915750397062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9817268331657,45.3916449545558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.86311686263,45.4166201477013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.892013651359,45.3744697334672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8918585601229,45.3741276361468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8799283912029,45.4206547425438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9050185585835,45.3871132618223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9320771289592,45.3879689406443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8878703471825,45.3849928252036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8879727453449,45.3848596987663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9729973068158,45.3852475599492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9733649004805,45.3853121011819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9280088854928,45.3945396193178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9567369022154,45.4123341766585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9417047494813,45.4692979715552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0120618173015,45.3914739958862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8952788448377,45.3883946368955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.885023537862,45.3915701396393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9448465921603,45.4723605511784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0118335120187,45.3916366446961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0119327532279,45.3916915516375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8604930752234,45.3693933511644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8604248821587,45.3694485686105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8604067608802,45.3694203234871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8368841522228,45.4227458320019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8792806007116,45.4018505808506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">206</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8942162284299,45.430334413131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">207</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8790945864677,45.4262546770401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9607839909019,45.364762045165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0078185721442,45.3988245839958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9889151983145,45.3880581078077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.007323040281,45.3987149966052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.878416135381,45.4160138334693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9291385799695,45.3974324448849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9291906237175,45.3974543765419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.896499103349,45.4307663361756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9743210508581,45.3735193682453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9849308225125,45.3806622449026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9848716267301,45.3805779637977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9989381783544,45.3888344082792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9988653096333,45.3887349983056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0416827549004,45.3927760472213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0526173913878,45.3715748859979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9516393777463,45.3992832361121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9369876200082,45.3997353001829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9172729052565,45.4517136096875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9173645870827,45.4516741353475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8262600272221,45.4130227602756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0018241658146,45.3381185177512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9909584162408,45.3331067385477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0386585343725,45.3456166201332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.038729881153,45.3454903498725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0389024304757,45.3453106446996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.882813188464,45.384911062876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0242405717969,45.3354957921484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0241100153927,45.3352945279406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.998012906376,45.3548497285713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0000444349379,45.3682869829873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">238</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0000127954851,45.3683986366578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9975216881124,45.3606555003165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">240</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9153244554152,45.4212999118997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9743157069787,45.3734179916337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8134380177418,45.3618257328916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9549618539532,45.3721809726962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.955201440464,45.3719830707898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0230612640831,45.3108380924652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8636840782268,45.3735783038605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">247</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8540380004016,45.3767487595695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8540195453963,45.3766684700771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.988972241601,45.3881791265694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">250</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.897422919306,45.3717032428948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9414151868239,45.4691686553856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9476205232501,45.4840538290758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9477475598664,45.4838409142726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9142921443539,45.4160624060276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9143507624861,45.4161029883867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">256</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9172042853479,45.3944117954014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8556525041423,45.4140091221356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">258</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8555789198459,45.4141320974281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8445560130064,45.4221469183267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">5-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.844710659676,45.4220938813618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.903747928086,45.401939965883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8741589490939,45.4126113400323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8702196172756,45.3929274080294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9731762878301,45.3852878618207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-12 ans</SimpleData>
+		<SimpleData name="OBJECTID">265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9275411777787,45.3946545048878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Jeu modulaire</SimpleData>
+		<SimpleData name="DETAIL">2-5 ans</SimpleData>
+		<SimpleData name="OBJECTID">266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9732235169225,45.3852589295078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine de la Claire-Fontaine du parc Victoria </SimpleData>
+		<SimpleData name="OBJECTID">267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8884995687911,45.4147271199958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc des Optimistes </SimpleData>
+		<SimpleData name="OBJECTID">268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8788702516429,45.4160330912555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc de Saint-Alphonse-de-Liguori </SimpleData>
+		<SimpleData name="OBJECTID">269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9147072763281,45.4148711608155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc de Ma-Villa </SimpleData>
+		<SimpleData name="OBJECTID">270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.007622231021,45.3997107322657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc Central </SimpleData>
+		<SimpleData name="OBJECTID">271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9983724201667,45.3542797324971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc de Mi-Vallon </SimpleData>
+		<SimpleData name="OBJECTID">272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9830922374272,45.380523161301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc du Cœur-Immaculé-de-Marie </SimpleData>
+		<SimpleData name="OBJECTID">273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.865667034309,45.4026476657598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc Centennial </SimpleData>
+		<SimpleData name="OBJECTID">274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8601427531642,45.3695029552399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc Alfred-Élie-Dufresne </SimpleData>
+		<SimpleData name="OBJECTID">275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8927481669234,45.3953854785393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine Sangster</SimpleData>
+		<SimpleData name="OBJECTID">276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9042231878043,45.3875348436248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc Paul-Marin </SimpleData>
+		<SimpleData name="OBJECTID">277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.932141532305,45.3883654729284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine Montcalm </SimpleData>
+		<SimpleData name="OBJECTID">278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.924023599562,45.4027192313488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Piscine</SimpleData>
+		<SimpleData name="NOM">Piscine du parc Nault </SimpleData>
+		<SimpleData name="OBJECTID">279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.940978066016,45.4698676223147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8785450439887,45.4255554987166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9182263644363,45.3946388317007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8642572893567,45.4251889154777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8936017398403,45.3955664384931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8722619164547,45.4060061340208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8745205227764,45.4133724801617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9842616798456,45.3810560299503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">287</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9051367514825,45.3874623579613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9361885684126,45.3997782741524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">289</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9969925677807,45.3554402530307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9973806135548,45.3554769607556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0386528110476,45.345037828865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8907144194363,45.3741179550803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9574349688037,45.4124840297233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9137438108214,45.4156087539356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9313145558775,45.3881280226803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : </SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8910655106485,45.3743932062738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 1</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9743348928328,45.3739804469296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0225184837682,45.3107819065294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">299</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8594596703153,45.3692844960414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0081238662905,45.3993587680483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8941149451772,45.4308663426902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9456485318663,45.4729912116817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : </SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="OBJECTID">303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9913104723602,45.3686761720221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9077642254665,45.3844041933013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9469231696908,45.3881021074603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 3</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.879026160537,45.4016045233457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Tennis</SimpleData>
+		<SimpleData name="DETAIL">Nombre de court(s) : 2</SimpleData>
+		<SimpleData name="SURFACE">Synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.834640582924,45.4074407405242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Naturelle</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8507181318886,45.4065396130479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.851801281917,45.4063278628737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">310</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8631394182798,45.4246265117962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">311</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9008490869596,45.4060545961308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.900817890577,45.4068025767236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="SURFACE">Gazon synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8817547582088,45.4117500057066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.872197327362,45.4062803357696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9008400191637,45.4064261262009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Naturelle</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8537589036237,45.4301184081961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Naturelle</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8553460533114,45.4302018629566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8751173429794,45.4126114416192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9738625024352,45.3853288713785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">320</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9911695655043,45.3333192356056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9828891882663,45.3804491223852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="OBJECTID">322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8497429461438,45.4071784181971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="OBJECTID">323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8495780839075,45.4071173344221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="OBJECTID">324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9155390261638,45.4147044134095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="OBJECTID">325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8928738894889,45.3966087175648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8549723490835,45.3770122715419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8549366518597,45.376597842487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8553885029492,45.3768231900052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="OBJECTID">329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0237120505583,45.3351231578159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8863779317902,45.4132916176753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8934868265551,45.4307719593343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9828346289333,45.3801215030387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Naturelle</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0419864598519,45.393670146319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">334</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9838697484029,45.3802220451791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9609144904264,45.4735819623964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9331945016049,45.3886794060422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">337</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9041750904328,45.3885309881779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8952803719475,45.3891912924224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9361257645137,45.3995633632297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8933875286324,45.4308291177864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.949038304453,45.4752270434647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8937541576598,45.3950547266399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8940821552473,45.3950787601726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8880874592768,45.3852327054059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="OBJECTID">345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8910026262244,45.3745301841396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0401938348422,45.3450975541104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9988619496626,45.354353770959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9746099895466,45.385537393936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Ultimate frisbee</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.973487027776,45.3738449971394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9825549212858,45.391679405347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="OBJECTID">351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0227721833977,45.3108308658478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8631668545161,45.3740090773395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9995552233319,45.3561925383272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">354</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9999875645532,45.3554519752736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0070753784587,45.3990417824002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8906379394553,45.3744613324111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8905350511998,45.3747279828718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.889658192267,45.3743468285738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Naturelle</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8887576064654,45.4133542092977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9575842461649,45.4129673764061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="OBJECTID">361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.924807121479,45.402601940206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="OBJECTID">362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9342563784626,45.374983965341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="OBJECTID">363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9243572901155,45.4013536445081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Naturelle</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8695850570352,45.3942429872643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9411222587846,45.469442871261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9995495642926,45.3546139135331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="OBJECTID">367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.930175142616,45.374684155639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="OBJECTID">368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9492427421723,45.3789294474518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Football</SimpleData>
+		<SimpleData name="OBJECTID">369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8411099815798,45.3649003002554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9168590638251,45.4517891628933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9051441114428,45.3878581466098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9267799344177,45.3944132129779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Baseball</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8795536163678,45.4256388388719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Volleyball</SimpleData>
+		<SimpleData name="SURFACE">Sable</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0071947564554,45.3997004386218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0116787922471,45.3910569075583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9412276675092,45.4696343916324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0071700269233,45.3992815918094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Terre battue</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">378</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8628540444608,45.4163222881702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9332291544249,45.3884094770098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8594667703591,45.3693289207457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9147595983857,45.4151803620669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8941640307736,45.3970261571471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8539420069099,45.3769429571794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Pickleball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8336241442814,45.406581706399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Basketball</SimpleData>
+		<SimpleData name="SURFACE">Asphalte</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9480513372166,45.4836581351122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Couturier 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.878583573625,45.4267592604954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">André-Viger 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9493351343348,45.4110463213928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Saint-Alphonse 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">388</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9157405076454,45.4156010708506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Atto-Beaver 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8538549831034,45.3757316367742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Central 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">390</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9986679896251,45.3561034120064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Nault 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9406524066572,45.4689126760825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 3 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Central 3</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0026420489305,45.3548462361046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">École de la Montée - pavillon le Ber</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="OBJECTID">393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8659591548677,45.4090492595094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9</SimpleData>
+		<SimpleData name="NOM">Debonair 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8926481724537,45.4308298737775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Atto-Beaver 3</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8533626102761,45.3763859900971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">4 terrains à 5</SimpleData>
+		<SimpleData name="NOM">Villageois 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0421996119631,45.3938580931355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Butte-aux-Bouleaux 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.054501846938,45.3713285362717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11</SimpleData>
+		<SimpleData name="NOM">Séminaire Salésien</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">398</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9516626453519,45.3987252130771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11</SimpleData>
+		<SimpleData name="NOM">Bureau 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">399</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8711201039004,45.3933311443389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Olympique 3</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8854504827259,45.4142007573553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">6 terrains à 5</SimpleData>
+		<SimpleData name="NOM">Base de plein air André-Nadeau 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9913918619409,45.3323185722259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Saint-Alphonse 2B</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">402</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9137800521574,45.4149945239511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Villageois 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0427143630293,45.392927568075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11</SimpleData>
+		<SimpleData name="NOM">Belvédère 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8913566866425,45.3734496494966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Jardins-Fleuris 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8620054421026,45.4156994064642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Marie-Reine 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8674739557156,45.3890924087755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Bishop's College School Gillards</SimpleData>
+		<SimpleData name="OBJECTID">407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8396087810263,45.3719563510207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Université de Sherbrooke Stade d'athlétisme</SimpleData>
+		<SimpleData name="OBJECTID">408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9307006480392,45.3746923237796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Université de Sherbrooke Nouveau Concorde</SimpleData>
+		<SimpleData name="OBJECTID">409</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.935605330554,45.3771814479404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Université de Sherbrooke synthétique</SimpleData>
+		<SimpleData name="OBJECTID">410</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9342646016257,45.3753550012157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Bishop's College School Grant</SimpleData>
+		<SimpleData name="OBJECTID">411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8472091183,45.3702479302497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">École du Phare</SimpleData>
+		<SimpleData name="OBJECTID">412</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8869686871127,45.3793148168492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">André-Viger 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9494641481502,45.410641276143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11</SimpleData>
+		<SimpleData name="NOM">Arsène-Goyette 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8878536808269,45.3842848574601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9</SimpleData>
+		<SimpleData name="NOM">Atto-Beaver 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8528052113365,45.3755235658108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">École Le Triolet synthétique</SimpleData>
+		<SimpleData name="OBJECTID">416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9496569794334,45.3791116588336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 4 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Central 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0020381967577,45.3557547250953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Debonair 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8951395950946,45.4306704324378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">4 terrains à 5</SimpleData>
+		<SimpleData name="NOM">Debonair 3</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.896186530619,45.4307296139605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Ernest-Bergeron 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">420</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.949407231102,45.4844557645888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Ernest-Bergeron 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9488374209046,45.484079438033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Jacques-Cartier 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.918108078815,45.3953158065566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Jacques-Cartier 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9180908959402,45.395753390452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Optimist 1</SimpleData>
+		<SimpleData name="OBJECTID">424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8517428556004,45.3668875863508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Jean-Claude-Quirion 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8683109354817,45.4005077228869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9</SimpleData>
+		<SimpleData name="NOM">Jules-Richard 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0394353493774,45.3448370069339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Marie-Médiatrice 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9483352414426,45.3879474261149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Olivier-Chauveau 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9734478505376,45.3849506304027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11</SimpleData>
+		<SimpleData name="NOM">Olympique synthétique 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon synthétique</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8818975918282,45.4120996136969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Olympique 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8814441535579,45.4106809482763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Paul-Marin 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9321567565153,45.389087125419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 9</SimpleData>
+		<SimpleData name="NOM">Paul-Marin 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9309851741725,45.3889046086488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11</SimpleData>
+		<SimpleData name="NOM">Quintal 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8513681122618,45.4310806497795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Quintal 2</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8515861423221,45.4319814962136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Quintal 3</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8524752922451,45.4300820341816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">Université Bishop's synthétique Coulter field</SimpleData>
+		<SimpleData name="OBJECTID">436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8410984970563,45.3652699567652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 7</SimpleData>
+		<SimpleData name="NOM">Saint-Alphonse 2A</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">437</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9138149173985,45.4145892873546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">Terrain à 11 avec 2 terrains à 7 intégrés</SimpleData>
+		<SimpleData name="NOM">Saint-Charles-Garnier 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9571415987932,45.4134768511595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="DETAIL">6 terrains à 5</SimpleData>
+		<SimpleData name="NOM">Saint-Boniface 1</SimpleData>
+		<SimpleData name="SURFACE">Gazon naturel</SimpleData>
+		<SimpleData name="ECLAIRAGE">Non</SimpleData>
+		<SimpleData name="OBJECTID">439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9364506063579,45.3991077858354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">École Le Triolet 1</SimpleData>
+		<SimpleData name="OBJECTID">440</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9449640240614,45.3815027506619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Installations_sportives_et_r_C3_A9cr_C3_A9atives">
+		<SimpleData name="TYPE">Soccer</SimpleData>
+		<SimpleData name="NOM">École Le Triolet 2</SimpleData>
+		<SimpleData name="OBJECTID">441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9446425333807,45.3833138713138</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "Ouvrages_routiers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 667, "SOUSTYPE": "Ouvrage routier", "NOM": "Échangeur Darche", "OBJECTID": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.957509506358804, 45.391465293759701 ] } },
+{ "type": "Feature", "properties": { "ID": 486, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Gingues", "OBJECTID": 2 }, "geometry": { "type": "Point", "coordinates": [ -71.955638878865599, 45.386695166185298 ] } },
+{ "type": "Feature", "properties": { "ID": 482, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Saint-François", "OBJECTID": 3 }, "geometry": { "type": "Point", "coordinates": [ -71.892854217795104, 45.408706564933901 ] } },
+{ "type": "Feature", "properties": { "ID": 465, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Aylmer", "OBJECTID": 4 }, "geometry": { "type": "Point", "coordinates": [ -71.886899852613595, 45.4030791165548 ] } },
+{ "type": "Feature", "properties": { "ID": 466, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Joffre", "OBJECTID": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.880685402699498, 45.395320019716898 ] } },
+{ "type": "Feature", "properties": { "ID": 483, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Hubert C. Cabana", "OBJECTID": 6 }, "geometry": { "type": "Point", "coordinates": [ -71.899320242701194, 45.401862989301399 ] } },
+{ "type": "Feature", "properties": { "ID": 487, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Montcalm", "OBJECTID": 7 }, "geometry": { "type": "Point", "coordinates": [ -71.8991979298887, 45.398462716562399 ] } },
+{ "type": "Feature", "properties": { "ID": 490, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Jacques-Cartier", "OBJECTID": 8 }, "geometry": { "type": "Point", "coordinates": [ -71.918630847561801, 45.392680463882598 ] } },
+{ "type": "Feature", "properties": { "ID": 879, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Mallory", "OBJECTID": 9 }, "geometry": { "type": "Point", "coordinates": [ -71.855978759860903, 45.360557967079103 ] } },
+{ "type": "Feature", "properties": { "ID": 880, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont St. Francis", "OBJECTID": 10 }, "geometry": { "type": "Point", "coordinates": [ -71.847023271537196, 45.367829255430898 ] } },
+{ "type": "Feature", "properties": { "ID": 881, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont de Monseigneur-Albert-Gravel", "OBJECTID": 11 }, "geometry": { "type": "Point", "coordinates": [ -71.940892016583902, 45.476869804348702 ] } },
+{ "type": "Feature", "properties": { "ID": 882, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Edmund-W.-Tobin", "OBJECTID": 12 }, "geometry": { "type": "Point", "coordinates": [ -71.923484317481197, 45.4425388053156 ] } },
+{ "type": "Feature", "properties": { "ID": 484, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Gilbert-Hyatt", "OBJECTID": 13 }, "geometry": { "type": "Point", "coordinates": [ -71.893907023545196, 45.404753978067397 ] } },
+{ "type": "Feature", "properties": { "ID": 11050, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont College", "OBJECTID": 14 }, "geometry": { "type": "Point", "coordinates": [ -71.850714578397103, 45.3661745384141 ] } },
+{ "type": "Feature", "properties": { "ID": 11051, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Bowers", "OBJECTID": 15 }, "geometry": { "type": "Point", "coordinates": [ -71.828050155643993, 45.327495719846802 ] } },
+{ "type": "Feature", "properties": { "ID": 11052, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Huntingville", "OBJECTID": 16 }, "geometry": { "type": "Point", "coordinates": [ -71.848807488286596, 45.340538149781899 ] } },
+{ "type": "Feature", "properties": { "ID": 11053, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Saint-Roch", "OBJECTID": 17 }, "geometry": { "type": "Point", "coordinates": [ -71.987197302956204, 45.347184882351002 ] } },
+{ "type": "Feature", "properties": { "ID": 11054, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Routes 143 108", "OBJECTID": 18 }, "geometry": { "type": "Point", "coordinates": [ -71.864074033146693, 45.349532015945201 ] } },
+{ "type": "Feature", "properties": { "ID": 11055, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Macdonald", "OBJECTID": 19 }, "geometry": { "type": "Point", "coordinates": [ -71.871823598778505, 45.337549642050597 ] } },
+{ "type": "Feature", "properties": { "ID": 11056, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Fuller", "OBJECTID": 20 }, "geometry": { "type": "Point", "coordinates": [ -71.883443466878703, 45.3299597746242 ] } },
+{ "type": "Feature", "properties": { "ID": 11057, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Capelton", "OBJECTID": 21 }, "geometry": { "type": "Point", "coordinates": [ -71.894502730545994, 45.318908455026801 ] } },
+{ "type": "Feature", "properties": { "ID": 11058, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont du Chemin du Pont-Couvert", "OBJECTID": 22 }, "geometry": { "type": "Point", "coordinates": [ -71.823053645185297, 45.315144997127902 ] } },
+{ "type": "Feature", "properties": { "ID": 11059, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont Orr", "OBJECTID": 23 }, "geometry": { "type": "Point", "coordinates": [ -71.8235057286402, 45.313458825796303 ] } },
+{ "type": "Feature", "properties": { "ID": 11202, "SOUSTYPE": "Ouvrage routier", "NOM": "Pont des Grandes-Fourches FERMÉE À LA CIRCULATION (MTQ, avril 2021)", "OBJECTID": 24 }, "geometry": { "type": "Point", "coordinates": [ -71.890806963550801, 45.405722072985398 ] } }
+]
+}

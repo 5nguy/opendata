@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Travaux" id="Travaux">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="MUNICIPALITE" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="SOUSTYPE" type="string"></SimpleField>
+	<SimpleField name="REALISATION" type="string"></SimpleField>
+	<SimpleField name="LOCALISATION" type="string"></SimpleField>
+	<SimpleField name="INTERSECTION" type="string"></SimpleField>
+	<SimpleField name="NO_CIVIQUE" type="string"></SimpleField>
+	<SimpleField name="VOIE_DE" type="string"></SimpleField>
+	<SimpleField name="VOIE_A" type="string"></SimpleField>
+	<SimpleField name="DATE_DEBUT" type="string"></SimpleField>
+	<SimpleField name="DATE_FIN" type="string"></SimpleField>
+	<SimpleField name="CIRCULATION" type="string"></SimpleField>
+	<SimpleField name="SIGNALEUR" type="string"></SimpleField>
+	<SimpleField name="VITESSE" type="string"></SimpleField>
+	<SimpleField name="POLICE" type="string"></SimpleField>
+	<SimpleField name="COUPUREEAU" type="string"></SimpleField>
+	<SimpleField name="PERTEACCES" type="string"></SimpleField>
+	<SimpleField name="TRANSPORTCOMMUN" type="string"></SimpleField>
+	<SimpleField name="ECOLE" type="string"></SimpleField>
+	<SimpleField name="COMMERCE" type="string"></SimpleField>
+	<SimpleField name="TRAVAUXSUBSEQUENT" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="REMARQUE" type="string"></SimpleField>
+</Schema>
+<Folder><name>Travaux</name>
+  <Placemark>
+	<description>Travaux privés - rue Galt Ouest</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5716</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Chantier non géré par la Ville</SimpleData>
+		<SimpleData name="SOUSTYPE">Occupation de l’emprise sans excavation</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Galt Ouest, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Saint-Raymond, Rue</SimpleData>
+		<SimpleData name="VOIE_A">Saint-Denis, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/01/18 12:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/12 19:30:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="SIGNALEUR">Oui</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="REMARQUE">Perte d'une voie en direction est sur la rue Galt Ouest. Les piétons seront redirigés vers le trottoir du côté nord de la rue.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9208193504266,45.3867701422255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Prolongement de la rue Seybal</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5953</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/04/17 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/12/13 05:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Oui</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9472521682209,45.4151509005715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rue Panneton - Travaux de chemisage incluant nettoyage, CCTV et alésage - Entre rues Galt Ouest et Descoteaux</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7052</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Panneton, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Galt Ouest, Rue</SimpleData>
+		<SimpleData name="VOIE_A">Descoteaux, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 11:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/30 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9395341768472,45.3866555136685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rue Descoteaux - Travaux de chemisage incluant nettoyage, CCTV et alésage - Entre rues Panneton et Godbout</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7051</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Descoteaux, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Panneton, Rue</SimpleData>
+		<SimpleData name="VOIE_A">Godbout, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 11:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/30 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9384371535848,45.3862806430819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rue Descoteaux - Travaux de chemisage incluant nettoyage, CCTV et alésage - Entre les rues Lisieux et Gamelin</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7050</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Descoteaux, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Lisieux, Rue de</SimpleData>
+		<SimpleData name="VOIE_A">Gamelin, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 11:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/30 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9464006506465,45.3860860879807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rue Lisieux - Travaux de chemisage incluant nettoyage, CCTV et alésage - Entre rues Galt Ouest et Savard</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7049</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Lisieux, Rue de</SimpleData>
+		<SimpleData name="VOIE_DE">Galt Ouest, Rue</SimpleData>
+		<SimpleData name="VOIE_A">Savard, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 11:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/30 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="ECOLE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.944139549496,45.3860823197681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rue Galt Ouest - Travaux de chemisage incluant nettoyage, CCTV et alésage - Entre rues Lisieux et Blais</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7046</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Galt Ouest, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Lisieux, Rue de</SimpleData>
+		<SimpleData name="VOIE_A">Blais, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 11:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/30 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Oui</SimpleData>
+		<SimpleData name="ECOLE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9390360538048,45.3870814094772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ferme, Lacharité, Laiterie</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6291</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/11/13 12:30:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/09/20 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Circulation en alternance</SimpleData>
+		<SimpleData name="SIGNALEUR">Non</SimpleData>
+		<SimpleData name="POLICE">Non</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="REMARQUE">Du 2023-11-14 (8H00) au 2023-11-15 (17H00)&lt;br&gt;Nettoyage des conduites d'égouts sur la rue de la laiterie et la rue Lacharité à partir de la rue des Semailles. &lt;br&gt;Un avis sera distribué le 2023-11-09 à toutes les propriétés touchées.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8476100663517,45.415515464403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Plantage de poteaux</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7055</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Hydro-Sherbrooke - Ligne électrique</SimpleData>
+		<SimpleData name="LOCALISATION">Acadie, Côte de l'</SimpleData>
+		<SimpleData name="INTERSECTION">Wellington Sud, Rue/Acadie, Côte de l'</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 13:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/05 19:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="SIGNALEUR">Oui</SimpleData>
+		<SimpleData name="COMMERCE">Oui</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8871232662365,45.3885650292609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Parc Alfred-Élie-Dufresne - Aménagement d'une espace famille</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5929</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Parc - Réaménagement partiel</SimpleData>
+		<SimpleData name="REALISATION">Ville Parcs</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/07/24 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/06/07 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Non</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8938001537103,45.3948083252899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Travaux privés - boulevard Jacques-Cartier Nord</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6928</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Chantier non géré par la Ville</SimpleData>
+		<SimpleData name="SOUSTYPE">Occupation de l’emprise sans excavation</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Jacques-Cartier Nord, Boulevard</SimpleData>
+		<SimpleData name="NO_CIVIQUE">793</SimpleData>
+		<SimpleData name="VOIE_DE">Vermont, Rue du</SimpleData>
+		<SimpleData name="VOIE_A">Prospect, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/17 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="REMARQUE">Perte d'une voie en direction sud sur le boulevard Jacques-Cartier Nord.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9185427958255,45.4103539760248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Prolongement des rues Gisèle-Trudeau et Jospeh-Émond</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5669</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/02/06 05:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/09/20 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="REMARQUE">Le jeudi 27 avril 2023, une coupure d'eau sera réalisée sur la rue Joseph-Émond de 8h à 16h entre les adresses civiques 55 à 110 rue Joseph-Émond. Des avis seront distribués aux résidents.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9417448375567,45.4832895608879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Travaux privés - rue Letendre</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6912</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Chantier non géré par la Ville</SimpleData>
+		<SimpleData name="SOUSTYPE">Occupation de l’emprise sans excavation</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Letendre, Rue</SimpleData>
+		<SimpleData name="NO_CIVIQUE">1470</SimpleData>
+		<SimpleData name="VOIE_DE">Galt Ouest, Rue</SimpleData>
+		<SimpleData name="VOIE_A">Iberville, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/02 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/09 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9498393771148,45.3844457435108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Construction d'une nouvelle caserne au coin du chemin Galvin et de la rue Galt Est</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5871</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="LOCALISATION">Galvin, Chemin</SimpleData>
+		<SimpleData name="INTERSECTION">Galt Est, Rue/Galvin, Chemin</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/03/01 12:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/12/01 22:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Trottoir ou voie cyclable fermé</SimpleData>
+		<SimpleData name="SIGNALEUR">Oui</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="REMARQUE">La portion de trottoir et de voie cyclable du chemin Galvin qui est adjacente au chantier est fermée pour toute la durée des travaux. Les piétons et les cyclistes sont invités à emprunter le trottoir situé de l'autre côté du chemin Galvin. Des livraisons ponctuelles, en dehors des heures de pointe, pourraient entrainer un ralentissement de la circulation.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8517911086872,45.4064205295486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouverture de la rue des Cavaliers</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6009</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/05/02 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2025/05/01 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0011123951295,45.3802964330211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Construction du lieu de diffusion</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5870</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Sous-traitant de la ville</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/03/13 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/09/28 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8876675126837,45.3979659299977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Modification feux de circulation</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7036</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Hydro-Sherbrooke - Feu de circulation</SimpleData>
+		<SimpleData name="REALISATION">Hydro-Sherbrooke</SimpleData>
+		<SimpleData name="LOCALISATION">Belvédère Sud, Rue</SimpleData>
+		<SimpleData name="INTERSECTION">College, Rue/Belvédère Sud, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/03/19 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/05/04 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Perte d'une voie dans une direction</SimpleData>
+		<SimpleData name="SIGNALEUR">Oui</SimpleData>
+		<SimpleData name="VITESSE">Aucun changement</SimpleData>
+		<SimpleData name="POLICE">Non</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Non</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="REMARQUE">Réductions de voies, possibilité de circulation en alternance et feux non fonctionnel sporadiquement</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8952782726372,45.3626591542446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouvertures des rues André, Hallée, Chalmers, Golconda, Ells, Harold-Cooke et Prospecteurs</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">792</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2018/06/01 12:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/08/01 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Route fermée</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Oui</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Non</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="REMARQUE">Des travaux correctifs seront réalisés aux endroits suivants du 6 au 27 novembre 2023 :&lt;br&gt; En façade du 2217 Golconda.&lt;br&gt;En façade du 2209&lt;br&gt;En façade du 2203 Golconda.&lt;br&gt;En façade du 2351 Harold-Cooke.&lt;br&gt; En façade du 1100 Chalmers.&lt;br&gt; Chemins détours prévus.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9003396682399,45.3689368366856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Prolongement de la rue de la Golconda</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5445</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2022/11/16 05:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/12/31 05:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8983735393036,45.3700123843708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Parc Belvédère - Reconstruction du terrain de soccer</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5921</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Parc - Réaménagement partiel</SimpleData>
+		<SimpleData name="REALISATION">Ville Parcs</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/09/11 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/06/21 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Non</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8913382824404,45.3734764557843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Milles-ABeilles et Oiseaux-de-Neige</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6203</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/07/07 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/09/30 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8841576917047,45.3769984743815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Relocalisation de la cour municipale</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6388</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Divers</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/09/18 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/12/31 05:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8962878271445,45.4002511490502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouverture de la rue Irénée-Pelletier</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5269</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2022/09/27 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/10/25 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="REMARQUE">Des travaux de nettoyage des conduites auront lieu le 21 septembre de 7h30 à 18h. Des avis ont été distribués aux résidents concernés.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9556472104631,45.3659986722064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Aménagement d'une aire de jeux 5-12 ans au parc du Debonair</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">4683</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Parc - Jeu modulaire</SimpleData>
+		<SimpleData name="REALISATION">Ville Parcs</SimpleData>
+		<SimpleData name="DATE_DEBUT">2022/10/31 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/06/14 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Non</SimpleData>
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.893062764291,45.4303838895117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouverture des rues Étienne-Desmarteau, Jules-Huot et Lainé</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6437</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/09/22 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2025/09/26 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="OBJECTID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9463627481501,45.4499026102071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Travaux CIUSSE - piste cyclable (rue James-Quintin)</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6465</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Chantier non géré par la Ville</SimpleData>
+		<SimpleData name="SOUSTYPE">Occupation de l'emprise avec excavation</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="INTERSECTION">James-Quintin, Rue/Ida-Métivier, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/10/16 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/08/23 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Trottoir ou voie cyclable fermé</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="REMARQUE">Tronçon de la piste cyclable en direction de l'hôpital  sera barrée à partir du giratoire.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8699322093841,45.4449515313433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Travaux privés - rue Laure-Conan</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6485</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Chantier non géré par la Ville</SimpleData>
+		<SimpleData name="SOUSTYPE">Occupation de l’emprise sans excavation</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Autre</SimpleData>
+		<SimpleData name="LOCALISATION">Laure-Conan, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Chardonnay, Rue du</SimpleData>
+		<SimpleData name="VOIE_A">Nina-Owens, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/10/16 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/06/28 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Trottoir ou voie cyclable fermé</SimpleData>
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="REMARQUE">La piste multifonctionnelle sera fermée.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9503837186071,45.4218783802387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouverture des rues de Fleur-de-Fenouil et du Vent-du-Nord</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">596</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Entrepreneur privé - Excavation M. Toulouse</SimpleData>
+		<SimpleData name="DATE_DEBUT">2022/09/08 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/09/20 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8857639200775,45.3749634078321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Prolongement des rue de Fleur-de-Fenouil et du Vent-du-Nord</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">3133</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2022/10/19 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/10/25 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8828113680594,45.3751739329077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouverture de la rue du Centre-Équestre</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">2066</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2021/03/02 05:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/06/14 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0010752883553,45.3775039472603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ouverture de la rue Bossé.</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">5413</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2022/11/01 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/10/25 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="OBJECTID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8713476075428,45.4324468593148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Prolongement de la rue de Blois et construction de la rue de Beauregard</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6907</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Construction d'une nouvelle rue</SimpleData>
+		<SimpleData name="SOUSTYPE">Construction d'une nouvelle rue ou urbanisation</SimpleData>
+		<SimpleData name="REALISATION">Promoteur</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/03/18 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2026/06/01 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Aucun impact sur la circulation</SimpleData>
+		<SimpleData name="COUPUREEAU">Oui</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Non</SimpleData>
+		<SimpleData name="ECOLE">Non</SimpleData>
+		<SimpleData name="COMMERCE">Non</SimpleData>
+		<SimpleData name="OBJECTID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8409633113589,45.3970572107079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Travaux d'égout - 721 Papineau entre 10e Avenue Nord et 11e Avenue Nord</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">7062</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Autres travaux</SimpleData>
+		<SimpleData name="SOUSTYPE">Entretien des réseaux - Réparation d'un bris d'égout</SimpleData>
+		<SimpleData name="REALISATION">Ville SIU-entretien des réseaux</SimpleData>
+		<SimpleData name="LOCALISATION">Papineau, Rue</SimpleData>
+		<SimpleData name="INTERSECTION">10e Avenue Nord/Papineau, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">10e Nord, Avenue</SimpleData>
+		<SimpleData name="VOIE_A">11e Nord, Avenue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2024/04/05 11:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2024/04/05 21:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Circulation en alternance</SimpleData>
+		<SimpleData name="SIGNALEUR">Oui</SimpleData>
+		<SimpleData name="VITESSE">Aucun changement</SimpleData>
+		<SimpleData name="POLICE">Non</SimpleData>
+		<SimpleData name="COUPUREEAU">Non</SimpleData>
+		<SimpleData name="PERTEACCES">Non</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Oui</SimpleData>
+		<SimpleData name="ECOLE">Oui</SimpleData>
+		<SimpleData name="TRAVAUXSUBSEQUENT">Oui</SimpleData>
+		<SimpleData name="OBJECTID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8729641686411,45.4113123883944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Réaménagement de l'échangeur Darche</description>
+	<ExtendedData><SchemaData schemaUrl="#Travaux">
+		<SimpleData name="ID">6332</SimpleData>
+		<SimpleData name="MUNICIPALITE">43027</SimpleData>
+		<SimpleData name="TYPE">Chantier non géré par la Ville</SimpleData>
+		<SimpleData name="SOUSTYPE">Pont et ouvrage d'art</SimpleData>
+		<SimpleData name="REALISATION">MTQ</SimpleData>
+		<SimpleData name="LOCALISATION">King Ouest, Rue</SimpleData>
+		<SimpleData name="VOIE_DE">Sara-Adam, Rue</SimpleData>
+		<SimpleData name="VOIE_A">J.-A.-Bombardier, Rue</SimpleData>
+		<SimpleData name="DATE_DEBUT">2023/08/07 04:00:00+00</SimpleData>
+		<SimpleData name="DATE_FIN">2025/06/20 04:00:00+00</SimpleData>
+		<SimpleData name="CIRCULATION">Ralentissement à prévoir</SimpleData>
+		<SimpleData name="TRANSPORTCOMMUN">Oui</SimpleData>
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="REMARQUE">Chantier du ministère des Transports et de la Mobilité durable. Secteur à éviter si possible. Consultez le lien ci-haut pour en savoir plus, notamment sur les entraves et les différents échéanciers.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.957451854505,45.3915046228927</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

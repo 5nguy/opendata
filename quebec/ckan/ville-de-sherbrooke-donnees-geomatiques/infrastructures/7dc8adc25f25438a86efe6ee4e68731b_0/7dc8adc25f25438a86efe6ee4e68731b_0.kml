@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Ouvrages_routiers" id="Ouvrages_routiers">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="SOUSTYPE" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Ouvrages_routiers</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">667</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Échangeur Darche</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9575095063588,45.3914652937597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">486</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Gingues</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9556388788656,45.3866951661853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">482</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Saint-François</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8928542177951,45.4087065649339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">465</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Aylmer</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8868998526136,45.4030791165548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">466</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Joffre</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8806854026995,45.3953200197169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">483</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Hubert C. Cabana</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8993202427012,45.4018629893014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">487</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Montcalm</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8991979298887,45.3984627165624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">490</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Jacques-Cartier</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9186308475618,45.3926804638826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">879</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Mallory</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8559787598609,45.3605579670791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">880</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont St. Francis</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8470232715372,45.3678292554309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">881</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont de Monseigneur-Albert-Gravel</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9408920165839,45.4768698043487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">882</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Edmund-W.-Tobin</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9234843174812,45.4425388053156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">484</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Gilbert-Hyatt</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8939070235452,45.4047539780674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11050</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont College</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8507145783971,45.3661745384141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11051</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Bowers</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.828050155644,45.3274957198468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11052</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Huntingville</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8488074882866,45.3405381497819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11053</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Saint-Roch</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9871973029562,45.347184882351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11054</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Routes 143 108</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8640740331467,45.3495320159452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11055</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Macdonald</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8718235987785,45.3375496420506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11056</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Fuller</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8834434668787,45.3299597746242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11057</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Capelton</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.894502730546,45.3189084550268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11058</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont du Chemin du Pont-Couvert</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8230536451853,45.3151449971279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11059</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont Orr</SimpleData>
+		<SimpleData name="OBJECTID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8235057286402,45.3134588257963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Ouvrages_routiers">
+		<SimpleData name="ID">11202</SimpleData>
+		<SimpleData name="SOUSTYPE">Ouvrage routier</SimpleData>
+		<SimpleData name="NOM">Pont des Grandes-Fourches FERMÉE À LA CIRCULATION (MTQ, avril 2021)</SimpleData>
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8908069635508,45.4057220729854</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

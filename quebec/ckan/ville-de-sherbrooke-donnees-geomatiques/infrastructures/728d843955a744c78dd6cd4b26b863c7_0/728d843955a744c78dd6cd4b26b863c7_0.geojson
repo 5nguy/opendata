@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Stationnements_publics",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "NOM": "La Grenouillère", "NOMBREPLACE": 112, "OBJECTID": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.890812634615202, 45.404119068495802 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "NOM": "Webster", "NOMBREPLACE": 100, "OBJECTID": 2 }, "geometry": { "type": "Point", "coordinates": [ -71.890040380813204, 45.403099876083701 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "NOM": "Place de la Cité", "NOMBREPLACE": 235, "OBJECTID": 3 }, "geometry": { "type": "Point", "coordinates": [ -71.896398846837002, 45.399632166435403 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "NOM": "Dépôt", "NOMBREPLACE": 100, "OBJECTID": 4 }, "geometry": { "type": "Point", "coordinates": [ -71.887660077075594, 45.398664400497097 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "NOM": "Gillespie", "NOMBREPLACE": 40, "OBJECTID": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.893156635635506, 45.399301061182499 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "NOM": "Marché de la Gare", "NOMBREPLACE": 113, "OBJECTID": 6 }, "geometry": { "type": "Point", "coordinates": [ -71.896786433051204, 45.397036582409903 ] } },
+{ "type": "Feature", "properties": { "ID": 8, "NOM": "La Cigarerie", "NOMBREPLACE": 175, "OBJECTID": 7 }, "geometry": { "type": "Point", "coordinates": [ -71.894885751521898, 45.397113756102897 ] } },
+{ "type": "Feature", "properties": { "ID": 34, "NOM": "Stationnement Wellington Sud", "NOMBREPLACE": 724, "OBJECTID": 8 }, "geometry": { "type": "Point", "coordinates": [ -71.889105638844299, 45.400346488834103 ] } },
+{ "type": "Feature", "properties": { "ID": 37, "NOM": "des Abénaquis", "NOMBREPLACE": 26, "OBJECTID": 9 }, "geometry": { "type": "Point", "coordinates": [ -71.892504545875795, 45.4054671231669 ] } }
+]
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Stationnements_publics" id="Stationnements_publics">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="NOMBREPLACE" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Stationnements_publics</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="NOM">La Grenouillère</SimpleData>
+		<SimpleData name="NOMBREPLACE">112</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8908126346152,45.4041190684958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="NOM">Webster</SimpleData>
+		<SimpleData name="NOMBREPLACE">100</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8900403808132,45.4030998760837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="NOM">Place de la Cité</SimpleData>
+		<SimpleData name="NOMBREPLACE">235</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.896398846837,45.3996321664354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="NOM">Dépôt</SimpleData>
+		<SimpleData name="NOMBREPLACE">100</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8876600770756,45.3986644004971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="NOM">Gillespie</SimpleData>
+		<SimpleData name="NOMBREPLACE">40</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8931566356355,45.3993010611825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="NOM">Marché de la Gare</SimpleData>
+		<SimpleData name="NOMBREPLACE">113</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8967864330512,45.3970365824099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="NOM">La Cigarerie</SimpleData>
+		<SimpleData name="NOMBREPLACE">175</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8948857515219,45.3971137561029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="NOM">Stationnement Wellington Sud</SimpleData>
+		<SimpleData name="NOMBREPLACE">724</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8891056388443,45.4003464888341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Stationnements_publics">
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="NOM">des Abénaquis</SimpleData>
+		<SimpleData name="NOMBREPLACE">26</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8925045458758,45.4054671231669</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
