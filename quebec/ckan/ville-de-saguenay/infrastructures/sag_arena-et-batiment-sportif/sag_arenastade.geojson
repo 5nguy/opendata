@@ -1,0 +1,150 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "SAG_ArenaStade",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8810217053, 48.3375093078 ]
+			},
+			"properties" : {
+				"id" : 34451,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Aréna Valérie-Maltais",
+				"nbr_places" : "1000",
+				"adresse" : "990 - 1000 Rue Aimé-Gravel",
+				"arrondissement" : "La Baie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.228113961, 48.4259573908 ]
+			},
+			"properties" : {
+				"id" : 46228,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Pavillon sportif de Kénogami",
+				"nbr_places" : "500",
+				"adresse" : "1935 Rue Bourassa",
+				"arrondissement" : "Jonquière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0744577383, 48.4480489772 ]
+			},
+			"properties" : {
+				"id" : 46242,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Aréna Marina-Larouche",
+				"nbr_places" : "800",
+				"adresse" : "630 - 632 Rue de l'Aréna",
+				"arrondissement" : "Chicoutimi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0591558897, 48.4185483535 ]
+			},
+			"properties" : {
+				"id" : 46244,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Pavillon de l'Agriculture",
+				"nbr_places" : "200",
+				"adresse" : "350 Boulevard de l'Université Est",
+				"arrondissement" : "Chicoutimi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2528907989, 48.4089717737 ]
+			},
+			"properties" : {
+				"id" : 46320,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Palais des sports",
+				"nbr_places" : "2800",
+				"adresse" : "2315 Rue Pelletier",
+				"arrondissement" : "Jonquière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0599940323, 48.4197567794 ]
+			},
+			"properties" : {
+				"id" : 46353,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Centre Georges-Vézina",
+				"nbr_places" : "3759",
+				"adresse" : "643 Rue Bégin",
+				"arrondissement" : "Chicoutimi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1858094804, 48.4266436291 ]
+			},
+			"properties" : {
+				"id" : 46361,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Foyer des loisirs et de la culture",
+				"nbr_places" : "850",
+				"adresse" : "1910 Rue du Centre",
+				"arrondissement" : "Jonquière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0741961921, 48.3368545061 ]
+			},
+			"properties" : {
+				"id" : 54632,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Centre Paul-Étienne-Simard",
+				"nbr_places" : "",
+				"adresse" : "4667 Chemin de l'Église",
+				"arrondissement" : "Laterrière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8806936479, 48.3367088288 ]
+			},
+			"properties" : {
+				"id" : 60092,
+				"municipalite" : "94068",
+				"type_instal" : "Aréna",
+				"nom" : "Aréna Dean-Bergeron",
+				"nbr_places" : "300",
+				"adresse" : "995 Rue Aimé-Gravel",
+				"arrondissement" : "La Baie"
+			}
+		}
+	]
+}
