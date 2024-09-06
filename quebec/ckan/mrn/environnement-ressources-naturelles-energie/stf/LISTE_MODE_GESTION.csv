@@ -1,0 +1,55 @@
+MODE_GEST,DOMANIALIT,ORG_RS_MGE,DESC_MGE,IN_PRJ_MGE,DT_CRE,STATUT,DTMAJ_STA
+79,PU,MRNF,Territoire arctique,N,2019-10-11,A,
+36,PR,INUITS,Terres de catégorie 1 (Inuits),O,2019-10-31,A,
+25,PR,Prop. Privé,Source de semences sur terres privées,N,2019-11-07,A,
+64,PU,MRNF-OR,Source de semences sur pépinière publique forestière (PPU) ,N,2019-11-07,A,
+65,PU,MRNF-Forêts,Forêt d'expérimentation (FE) - Source de semences,O,2019-11-07,A,
+03,PU,MRNF-Forêts,Forêt d'expérimentation (FE) sur forêt d'enseignement et recherche (FER) ou sur station forestière,O,2021-12-15,A,
+01,PU,MRNF-Forêts,Unité d'aménagement (UA),N,1998-07-12,A,2016-01-06
+02,PU,MFFP-Forêts,Territoire forestier résiduel (TFR) libre de droits au sud de limite territ. des forêts attribuables,N,1998-07-12,A,2016-01-06
+04,PU,MRNF-OR,Pépinière publique forestière (PPU),N,2019-11-07,A,
+05,PU,MRNF-Forêts,Forêt d'expérimentation (FE) sur unité d'aménagement (UA) - Source de semences,O,2019-11-07,A,
+06,PU,MRNF-Forêts,Forêt d'expérimentation (FE) sur unité d'aménagement (UA),O,1998-07-12,A,2016-01-06
+07,PU,MRNF-Forêts,Forêt d'enseignement et de recherche (FER),N,1998-07-12,A,2016-01-06
+08,PU,MRNF,Station forestière,N,1998-07-12,A,2016-01-06
+09,PU,MRNF-Territ.,Bleuetière sur unité d'aménagement (UA),N,2001-02-02,A,2016-10-19
+10,PU,MRNF-OR,Érablière acéricole  sur unité d'aménagement (UA) (production mixte),O,2000-11-01,A,2016-01-06
+12,PU,MRNF,Territoire forestier résiduel (TFR) sous convention de gestion territoriale (CGT),N,2014-09-04,A,2016-01-06
+13,PU,MRNF-Forêts,Territoire forestier résiduel (TFR) avec entente de délégation (ED),N,1998-07-12,A,2016-04-08
+14,PU,MRNF-Forêts,Forêt de proximité (FP),N,2019-12-05,A,
+15,PU,MRNF-Forêts,Écosystème forestier exceptionnel (EFE) classé sur forêt publique (aire protégée),N,2000-09-29,A,2016-10-19
+20,PR,Prop. Privé,Petite propriété privée,N,1998-07-12,A,2015-08-04
+22,PR,Prop. Privé,Grande propriété privée,N,1998-07-12,A,2015-08-04
+26,PR,Prop. Privé,Terres de catégorie 1B (Cris) et 1B-N (Naskapis),O,1998-07-12,A,2019-11-07
+27,PR,Prop. Privé,Concession minière privée,N,1998-07-12,A,2015-08-04
+28,PU,MRNF,Concession minière publique sur unité d'aménagement (UA),N,1998-07-12,A,2016-01-06
+30,PU,MAPAQ,Terrain attribué au MAPAQ,N,1998-07-12,A,2016-10-19
+40,PU,MELCCFP-Parc,Parc national du Québec ou Réserve de parc national du Québec (aire protégée),O,1998-07-12,A,2017-09-20
+41,PU,Autres org.,"Autres terrains  (Faune, Parc et SEPAQ) - A revoir suite aux changements de ministères",N,1998-07-12,A,2023-04-18
+49,PU,MRNF-Forêts,Refuge biologique désigné (aire protégée) et Forêt d'expérimentation (FE),N,2016-01-06,A,
+50,PU,MELCCFP,Réserve écologique (aire protégée),O,1998-07-12,A,2019-07-23
+51,PU,MELCCFP,Terrain attibué au MELCC,N,1998-07-12,A,2019-07-23
+52,PU,MRNF,"Eaux douces (lacs importants, fleuve et réservoir)",N,1998-07-12,A,2019-07-23
+53,PU,MELCCFP,Réserve aquatique et/ou Habitat d'une espèce floristique menacée ou vulnérable (aire protégée),O,2004-01-27,A,2019-07-23
+54,PU,MELCCFP,Réserve de biodiversité et/ou Réserve de territoires pour fins d'aire protégée (aire protégée),O,2004-01-27,A,2019-07-23
+55,PU,MRNF-Forêts,Refuge biologique en projet exclu de la production forestière,O,2004-07-15,A,2016-06-27
+57,PU,MELCCFP,Territoire mis en réserve (aire protégée),O,2021-10-25,A,
+58,PU,MRNF-Forêts,Forêt d'expérimentation (FE) et Refuge biologique en projet,O,2004-09-28,A,2016-10-19
+59,PU,MRNF-Forêts,Refuge biologique désigné (aire protégée),N,2010-03-31,A,2016-01-06
+60,PU,Autres organ,"Terrain attribué aux autres ministères et organismes publics (Hydro, MTQ, MCC, etc)",N,1998-07-12,A,2016-10-19
+66,PU,MRNF-Forêts,Forêt d'expérimentation (FE),O,2004-07-19,A,2016-01-06
+68,PU,MRNF-Forêts,Concession minière publique sur territoire forestier résiduel (TFR),N,2005-02-17,A,2016-01-06
+69,PU,MRNF,Concession minière publique sur territoire forestier résiduel (TFR) et entente de délégation (ED),N,2008-11-24,A,2016-01-06
+70,PU,MRNF,Territoire forestier résiduel (TFR) au nord de la limite territoriale des forêts attribuables,N,2001-04-24,A,2016-01-07
+71,PP,Multiples,Lot mixte  (limite privée et publique indéterminée),N,2005-02-16,A,2015-08-04
+80,PU,MRNF-OR,Érablière acéricole sur territoire forestier résiduel (TFR),O,2004-01-27,A,2016-01-06
+81,PU,MRNF-Territ.,Bleuetière sur territoire forestier résiduel (TFR),N,2004-01-27,A,2016-10-19
+89,PU,MRNF et Féd.,Parc marin (gestion conjointe fédérale et provinciale) (aire protégée),N,2004-10-07,A,2017-09-20
+90,PU,AIN Canada,Réserve indienne,O,2000-11-01,A,2019-11-07
+91,PU,Parcs Canada,Parc national fédéral (aire protégée),N,1998-07-12,A,2015-08-04
+92,PU,Gouv. Fed.,Autre terrain fédéral,N,1998-07-12,A,2015-08-04
+93,PU,AIN Canada,Établissement indien,O,2004-05-07,A,2015-08-04
+94,PU,Gouv. Fed.,Aéroport fédéral,N,2004-10-08,A,2015-08-04
+95,PU,Gouv. Fed.,Réserve nationale de faune (aire protégée),N,2004-10-08,A,2015-08-04
+96,PU,Gouv. Fed.,Terres de catégorie 1A (Cris) et 1A-N (Naskapis),O,2019-11-07,A,
+99,PU,MELCCFP,"Eaux salines (fleuve ou golfe St-Laurent, eaux nordiques)",N,1998-07-20,A,2019-07-23
