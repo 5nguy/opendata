@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>stationnement</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Aires_de_stationnement">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Aires de stationnement" id="kml_schema_ft_Aires_de_stationnement">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="RESTRICTION">
+<displayName>RESTRICTION</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Aires_de_stationnement">
+<name>Aires de stationnement</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Catherine-Bousquet</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1350, rue Maria-Callas</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4192020019</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78911731900423</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Catherine-Bousquet</SimpleData>
+<SimpleData name="ADRESSE">1350, rue Maria-Callas</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.4192020019</SimpleData>
+<SimpleData name="LATITUDE">45.78911731900423</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4192020019,45.7891173190042,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Centre communautaire Laurent-Venne</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>225, boulevard J.-A.-Paré</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47676421903142</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76209024473596</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Centre communautaire Laurent-Venne</SimpleData>
+<SimpleData name="ADRESSE">225, boulevard J.-A.-Paré</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.47676421903142</SimpleData>
+<SimpleData name="LATITUDE">45.76209024473596</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4767642190314,45.762090244736,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Champigny</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>225, rue Champigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47577222293789</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72840376767249</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Champigny</SimpleData>
+<SimpleData name="ADRESSE">225, rue Champigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.47577222293789</SimpleData>
+<SimpleData name="LATITUDE">45.72840376767249</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4757722229379,45.7284037676725,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc de la Paix</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>170, rue de Berthier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44599105185657</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76310453825118</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc de la Paix</SimpleData>
+<SimpleData name="ADRESSE">170, rue de Berthier</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.44599105185657</SimpleData>
+<SimpleData name="LATITUDE">45.76310453825118</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4459910518566,45.7631045382512,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc des Moissons</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>935, rue Beauchesne</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42871586234307</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77293969864846</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc des Moissons</SimpleData>
+<SimpleData name="ADRESSE">935, rue Beauchesne</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.42871586234307</SimpleData>
+<SimpleData name="LATITUDE">45.77293969864846</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4287158623431,45.7729396986485,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc du Moulin</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1055, rue Rachel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41678055172918</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.774382028456955</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc du Moulin</SimpleData>
+<SimpleData name="ADRESSE">1055, rue Rachel</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.41678055172918</SimpleData>
+<SimpleData name="LATITUDE">45.774382028456955</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4167805517292,45.774382028457,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Entramis</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>655, boulevard de L’Assomption</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46125053955181</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75397466677103</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Entramis</SimpleData>
+<SimpleData name="ADRESSE">655, boulevard de L’Assomption</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.46125053955181</SimpleData>
+<SimpleData name="LATITUDE">45.75397466677103</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4612505395518,45.753974666771,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Frédéric-Coiteux</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1201, boulevard Basile-Routhier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43686735579254</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.778354603024574</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Frédéric-Coiteux</SimpleData>
+<SimpleData name="ADRESSE">1201, boulevard Basile-Routhier</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.43686735579254</SimpleData>
+<SimpleData name="LATITUDE">45.778354603024574</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4368673557925,45.7783546030246,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc régional de l'île-Lebel</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>396, rue Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44623615269026</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73702596715948</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc régional de l'île-Lebel</SimpleData>
+<SimpleData name="ADRESSE">396, rue Notre-Dame</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.44623615269026</SimpleData>
+<SimpleData name="LATITUDE">45.73702596715948</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4462361526903,45.7370259671595,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Laforest</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>175, rue Lorange</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47223773857044</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72242918138663</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Laforest</SimpleData>
+<SimpleData name="ADRESSE">175, rue Lorange</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.47223773857044</SimpleData>
+<SimpleData name="LATITUDE">45.72242918138663</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4722377385704,45.7224291813866,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Larochelle</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>366, rue Marquis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46766162169847</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.741781882819176</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Larochelle</SimpleData>
+<SimpleData name="ADRESSE">366, rue Marquis</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.46766162169847</SimpleData>
+<SimpleData name="LATITUDE">45.741781882819176</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4676616216985,45.7417818828192,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Laverdière</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>200, rue Saint-Paul</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47802947185458</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75581236949531</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Laverdière</SimpleData>
+<SimpleData name="ADRESSE">200, rue Saint-Paul</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.47802947185458</SimpleData>
+<SimpleData name="LATITUDE">45.75581236949531</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4780294718546,45.7558123694953,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Rivest</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>685, boulevard Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43677273085376</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75736823613807</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Rivest</SimpleData>
+<SimpleData name="ADRESSE">685, boulevard Iberville</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.43677273085376</SimpleData>
+<SimpleData name="LATITUDE">45.75736823613807</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4367727308538,45.7573682361381,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Rochefort</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1286, rue Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40488492688789</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77921995205601</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Rochefort</SimpleData>
+<SimpleData name="ADRESSE">1286, rue Notre-Dame</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.40488492688789</SimpleData>
+<SimpleData name="LATITUDE">45.77921995205601</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4048849268879,45.779219952056,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45746330609434</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72644706904398</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Saint-Laurent</SimpleData>
+<SimpleData name="ADRESSE">280, rue Notre-Dame</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.45746330609434</SimpleData>
+<SimpleData name="LATITUDE">45.72644706904398</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4574633060943,45.726447069044,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parc Thifault</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>457, rue Robillard</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Entre minuit et 7 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RESTRICTION</th>
+<td>Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Communications</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450 470-3140</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>communication@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45036282445929</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73973421213134</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Aires_de_stationnement</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Aires_de_stationnement">
+<SimpleData name="NOM">Parc Thifault</SimpleData>
+<SimpleData name="ADRESSE">457, rue Robillard</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Transport-collectif/Stationnement.html</SimpleData>
+<SimpleData name="HORAIRE">Entre minuit et 7 h</SimpleData>
+<SimpleData name="RESTRICTION">Il est interdit de se stationner dans les rues de la ville du 1er décembre au 31 mars entre minuit et 7 h. En période hivernale, les visiteurs ont accès aux aires de stationnement des parcs municipaux pour y garer leur véhicule entre minuit et 7 h.</SimpleData>
+<SimpleData name="CONTACT">Communications</SimpleData>
+<SimpleData name="TELEPHONE">450 470-3140</SimpleData>
+<SimpleData name="EMAIL">communication@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.45036282445929</SimpleData>
+<SimpleData name="LATITUDE">45.73973421213134</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4503628244593,45.7397342121313,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

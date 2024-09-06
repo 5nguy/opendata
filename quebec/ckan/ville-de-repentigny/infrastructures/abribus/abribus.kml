@@ -1,0 +1,2924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Abribus</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Abribus">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Abribus" id="kml_schema_ft_Abribus">
+<SimpleField type="xsd:int" name="ID">
+<displayName>ID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MUNICIPALITE">
+<displayName>MUNICIPALITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMPLACEMENT">
+<displayName>EMPLACEMENT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DATE_MODIFICATION">
+<displayName>DATE_MODIFICATION</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="GEOM">
+<displayName>GEOM</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Abribus">
+<name>Abribus</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>555 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4611</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75847</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">9</SimpleData>
+<SimpleData name="ADRESSE">555 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.4611</SimpleData>
+<SimpleData name="LATITUDE">45.75847</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4610950500373,45.7584733719076,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>127</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>582 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45826</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76208</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">127</SimpleData>
+<SimpleData name="ADRESSE">582 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45826</SimpleData>
+<SimpleData name="LATITUDE">45.76208</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4582603222422,45.7620849312171,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>269 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47567</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74709</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">22</SimpleData>
+<SimpleData name="ADRESSE">269 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47567</SimpleData>
+<SimpleData name="LATITUDE">45.74709</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4756717974542,45.7470935943986,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1301 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-est, Verdier / Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40468</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77999</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">36</SimpleData>
+<SimpleData name="ADRESSE">1301 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-est, Verdier / Notre-Dame</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.40468</SimpleData>
+<SimpleData name="LATITUDE">45.77999</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4046849808725,45.7799857170083,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>32</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>765 Basile-Routhier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45405</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75955</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">32</SimpleData>
+<SimpleData name="ADRESSE">765 Basile-Routhier</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45405</SimpleData>
+<SimpleData name="LATITUDE">45.75955</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.454052356392,45.7595465571035,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>907 Basile-Routhier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord, Valmont (315)/ Basile-Routhier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44588</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76836</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">15</SimpleData>
+<SimpleData name="ADRESSE">907 Basile-Routhier</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord, Valmont (315)/ Basile-Routhier</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44588</SimpleData>
+<SimpleData name="LATITUDE">45.76836</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4458777486149,45.7683619118579,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>72</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>586 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud-ouest, Montcalm / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44336</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74958</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">72</SimpleData>
+<SimpleData name="ADRESSE">586 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud-ouest, Montcalm / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44336</SimpleData>
+<SimpleData name="LATITUDE">45.74958</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4433582478426,45.7495848177045,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>76</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>447 St-Paul</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté est</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48865</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76155</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">76</SimpleData>
+<SimpleData name="ADRESSE">447 St-Paul</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté est</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.48865</SimpleData>
+<SimpleData name="LATITUDE">45.76155</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4886480851881,45.7615547752722,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>126</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>579 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45859</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76201</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">126</SimpleData>
+<SimpleData name="ADRESSE">579 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45859</SimpleData>
+<SimpleData name="LATITUDE">45.76201</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4585885285732,45.7620095572512,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>71</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1133 Basile-Routhier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est des Champs-Élysés</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43953</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7763</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">71</SimpleData>
+<SimpleData name="ADRESSE">1133 Basile-Routhier</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est des Champs-Élysés</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43953</SimpleData>
+<SimpleData name="LATITUDE">45.7763</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4395318157361,45.7762954752019,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>63</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>344 St-Paul</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48399</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75903</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">63</SimpleData>
+<SimpleData name="ADRESSE">344 St-Paul</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.48399</SimpleData>
+<SimpleData name="LATITUDE">45.75903</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4839917282137,45.7590279552401,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>125</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>535 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46282</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75654</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">125</SimpleData>
+<SimpleData name="ADRESSE">535 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.46282</SimpleData>
+<SimpleData name="LATITUDE">45.75654</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4628178941064,45.7565385813644,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>62</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>436 St-Paul</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48671</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76035</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">62</SimpleData>
+<SimpleData name="ADRESSE">436 St-Paul</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.48671</SimpleData>
+<SimpleData name="LATITUDE">45.76035</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4867146451572,45.7603545410839,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>61</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>318 St-Paul</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48102</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75754</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">61</SimpleData>
+<SimpleData name="ADRESSE">318 St-Paul</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.48102</SimpleData>
+<SimpleData name="LATITUDE">45.75754</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4810206931235,45.757537554936,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>60</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>649 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45244</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76873</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">60</SimpleData>
+<SimpleData name="ADRESSE">649 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45244</SimpleData>
+<SimpleData name="LATITUDE">45.76873</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4524425742771,45.7687316692007,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>85 Brien</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté est, Pharmaprix</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45246</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7434</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">40</SimpleData>
+<SimpleData name="ADRESSE">85 Brien</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté est, Pharmaprix</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45246</SimpleData>
+<SimpleData name="LATITUDE">45.7434</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.452461737902,45.7434002313466,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>37</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>579 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est de Ritchot</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43701</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74666</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">37</SimpleData>
+<SimpleData name="ADRESSE">579 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est de Ritchot</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43701</SimpleData>
+<SimpleData name="LATITUDE">45.74666</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4370096388099,45.7466571877537,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>313 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'ouest de Cherrier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45637</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72966</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">3</SimpleData>
+<SimpleData name="ADRESSE">313 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'ouest de Cherrier</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45637</SimpleData>
+<SimpleData name="LATITUDE">45.72966</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4563693890639,45.7296584508556,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>287 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est de d'Argenson, chalet parc St-Laurent</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45761</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72729</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">4</SimpleData>
+<SimpleData name="ADRESSE">287 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est de d'Argenson, chalet parc St-Laurent</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45761</SimpleData>
+<SimpleData name="LATITUDE">45.72729</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4576133573262,45.7272885286834,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>123</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>347 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45381</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7325</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">123</SimpleData>
+<SimpleData name="ADRESSE">347 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45381</SimpleData>
+<SimpleData name="LATITUDE">45.7325</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.453805765072,45.7324971483817,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>124</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>567 Pierre-Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48676</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73335</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">124</SimpleData>
+<SimpleData name="ADRESSE">567 Pierre-Le Gardeur</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.48676</SimpleData>
+<SimpleData name="LATITUDE">45.73335</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4867587195596,45.7333538287058,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>46</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>619 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est d'Industriel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44016</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75346</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">46</SimpleData>
+<SimpleData name="ADRESSE">619 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est d'Industriel</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44016</SimpleData>
+<SimpleData name="LATITUDE">45.75346</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4401615024264,45.7534588183291,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>49</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>193 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47965</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74432</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">49</SimpleData>
+<SimpleData name="ADRESSE">193 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47965</SimpleData>
+<SimpleData name="LATITUDE">45.74432</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4796479954366,45.7443152820433,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>50</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>55 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord, gare du train</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48345</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73596</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">50</SimpleData>
+<SimpleData name="ADRESSE">55 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord, gare du train</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.48345</SimpleData>
+<SimpleData name="LATITUDE">45.73596</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4834486341403,45.7359618665617,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>515 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est de Laurier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44645</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74655</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">47</SimpleData>
+<SimpleData name="ADRESSE">515 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est de Laurier</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44645</SimpleData>
+<SimpleData name="LATITUDE">45.74655</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4464526586196,45.746553422366,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>45</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>685 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43704</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75687</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">45</SimpleData>
+<SimpleData name="ADRESSE">685 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43704</SimpleData>
+<SimpleData name="LATITUDE">45.75687</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4370439610883,45.7568744829697,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>505 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44278</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74151</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">5</SimpleData>
+<SimpleData name="ADRESSE">505 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44278</SimpleData>
+<SimpleData name="LATITUDE">45.74151</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4427778940853,45.7415138331045,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>510 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud à l'ouest de Laurier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4464</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74625</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">6</SimpleData>
+<SimpleData name="ADRESSE">510 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud à l'ouest de Laurier</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.4464</SimpleData>
+<SimpleData name="LATITUDE">45.74625</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4463960512585,45.7462503587511,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>457 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46915</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75406</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">11</SimpleData>
+<SimpleData name="ADRESSE">457 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.46915</SimpleData>
+<SimpleData name="LATITUDE">45.75406</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4691467546674,45.7540631034121,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>533 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud-est, Village / Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46329</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75601</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">10</SimpleData>
+<SimpleData name="ADRESSE">533 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud-est, Village / Lacombe</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.46329</SimpleData>
+<SimpleData name="LATITUDE">45.75601</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4632860803662,45.7560104224506,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>742 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest devant JBM, 2 poubelles (collées à la piste cyclable)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43394</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76028</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">14</SimpleData>
+<SimpleData name="ADRESSE">742 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest devant JBM, 2 poubelles (collées à la piste cyclable)</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43394</SimpleData>
+<SimpleData name="LATITUDE">45.76028</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4339366516926,45.760283095654,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>662 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-ouest, Jordan / Le Bourg-Neuf</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45216</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77004</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">16</SimpleData>
+<SimpleData name="ADRESSE">662 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-ouest, Jordan / Le Bourg-Neuf</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45216</SimpleData>
+<SimpleData name="LATITUDE">45.77004</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4521649387992,45.7700376314027,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>301 J.-A.-Paré</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47768</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76788</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">12</SimpleData>
+<SimpleData name="ADRESSE">301 J.-A.-Paré</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47768</SimpleData>
+<SimpleData name="LATITUDE">45.76788</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4776815476036,45.7678814156845,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>663 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est de Prud'Homme</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4273</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75767</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">13</SimpleData>
+<SimpleData name="ADRESSE">663 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est de Prud'Homme</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.4273</SimpleData>
+<SimpleData name="LATITUDE">45.75767</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4273008243461,45.7576692203099,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>663 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'Ouest de Lefrançois</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43147</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75284</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">30</SimpleData>
+<SimpleData name="ADRESSE">663 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'Ouest de Lefrançois</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43147</SimpleData>
+<SimpleData name="LATITUDE">45.75284</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4314747187175,45.7528369407058,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>626 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud à l'ouest d'Industriel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4402</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75305</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">31</SimpleData>
+<SimpleData name="ADRESSE">626 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud à l'ouest d'Industriel</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.4402</SimpleData>
+<SimpleData name="LATITUDE">45.75305</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4402029228787,45.7530452354591,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>35 Lacombe</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.485</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7328</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">21</SimpleData>
+<SimpleData name="ADRESSE">35 Lacombe</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.485</SimpleData>
+<SimpleData name="LATITUDE">45.7328</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4850019384299,45.732797118989,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>129</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>140 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47141</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71635</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">129</SimpleData>
+<SimpleData name="ADRESSE">140 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47141</SimpleData>
+<SimpleData name="LATITUDE">45.71635</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4714134541944,45.7163510645149,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>80</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>125 Lafayette</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud, centre d'échange terminus Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45355</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74684</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">80</SimpleData>
+<SimpleData name="ADRESSE">125 Lafayette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud, centre d'échange terminus Repentigny</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45355</SimpleData>
+<SimpleData name="LATITUDE">45.74684</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4535502028686,45.7468431474964,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>106</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>86 Brien</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45361</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7436</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">106</SimpleData>
+<SimpleData name="ADRESSE">86 Brien</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45361</SimpleData>
+<SimpleData name="LATITUDE">45.7436</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4536073941959,45.7435962591457,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>84</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>415 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-est, Aubert / Iberville </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45229</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74016</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">84</SimpleData>
+<SimpleData name="ADRESSE">415 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-est, Aubert / Iberville </SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45229</SimpleData>
+<SimpleData name="LATITUDE">45.74016</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4522867422836,45.7401565979735,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>122</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>39 de l'Église</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45729</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74131</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">122</SimpleData>
+<SimpleData name="ADRESSE">39 de l'Église</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45729</SimpleData>
+<SimpleData name="LATITUDE">45.74131</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4572911037663,45.7413127919351,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>83</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>334 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-est, Aqueduc / Iberville </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45768</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73424</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">83</SimpleData>
+<SimpleData name="ADRESSE">334 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-est, Aqueduc / Iberville </SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45768</SimpleData>
+<SimpleData name="LATITUDE">45.73424</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4576792543198,45.7342447918982,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>305 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-est, Épicerie Métro</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46038</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73128</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">2</SimpleData>
+<SimpleData name="ADRESSE">305 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-est, Épicerie Métro</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.46038</SimpleData>
+<SimpleData name="LATITUDE">45.73128</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.460382811943,45.7312769571435,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>91</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>182 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Iberville direction ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4705</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7197</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">91</SimpleData>
+<SimpleData name="ADRESSE">182 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Iberville direction ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.4705</SimpleData>
+<SimpleData name="LATITUDE">45.7197</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4704966513647,45.7196957032038,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>141 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est de Claude-David, Place Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.471</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71688</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">20</SimpleData>
+<SimpleData name="ADRESSE">141 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est de Claude-David, Place Repentigny</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.471</SimpleData>
+<SimpleData name="LATITUDE">45.71688</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.471003732633,45.7168814599992,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>128</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>106 Claude-David </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47167</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71692</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">128</SimpleData>
+<SimpleData name="ADRESSE">106 Claude-David </SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47167</SimpleData>
+<SimpleData name="LATITUDE">45.71692</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4716723806843,45.7169223857224,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>39</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>10 Brien</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest, Brien / Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44567</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74016</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">39</SimpleData>
+<SimpleData name="ADRESSE">10 Brien</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest, Brien / Notre-Dame</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44567</SimpleData>
+<SimpleData name="LATITUDE">45.74016</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4456658637447,45.7401596213393,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>73</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>75 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord à l'est de Notre-Dame-des-Champ</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47456</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71488</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">73</SimpleData>
+<SimpleData name="ADRESSE">75 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord à l'est de Notre-Dame-des-Champ</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47456</SimpleData>
+<SimpleData name="LATITUDE">45.71488</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4745644955973,45.7148841924516,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>82 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47436</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71463</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">35</SimpleData>
+<SimpleData name="ADRESSE">82 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.47436</SimpleData>
+<SimpleData name="LATITUDE">45.71463</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4743571060522,45.7146251998052,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>358 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud, Marina</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45346</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73248</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">1</SimpleData>
+<SimpleData name="ADRESSE">358 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud, Marina</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.45346</SimpleData>
+<SimpleData name="LATITUDE">45.73248</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4534558854171,45.7324804409433,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>54</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>424 Notre-Dame</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44782</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73755</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">54</SimpleData>
+<SimpleData name="ADRESSE">424 Notre-Dame</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.44782</SimpleData>
+<SimpleData name="LATITUDE">45.73755</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4478168265321,45.737551621084,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>48</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>780 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud, Valmont / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43114</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76297</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">48</SimpleData>
+<SimpleData name="ADRESSE">780 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud, Valmont / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43114</SimpleData>
+<SimpleData name="LATITUDE">45.76297</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.431139434719,45.7629719658177,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>27</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>920 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud, Beauchesne / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42363</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77118</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">27</SimpleData>
+<SimpleData name="ADRESSE">920 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud, Beauchesne / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.42363</SimpleData>
+<SimpleData name="LATITUDE">45.77118</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4236261353644,45.7711753425789,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1124 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud, Noiseux / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41764</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77773</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">26</SimpleData>
+<SimpleData name="ADRESSE">1124 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud, Noiseux / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.41764</SimpleData>
+<SimpleData name="LATITUDE">45.77773</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4176448610986,45.7777274204043,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1440 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté sud, Jacques-Plante / Iberville CHSLD Emile-McDuff</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40806</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7882</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">28</SimpleData>
+<SimpleData name="ADRESSE">1440 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté sud, Jacques-Plante / Iberville CHSLD Emile-McDuff</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.40806</SimpleData>
+<SimpleData name="LATITUDE">45.7882</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4080610438149,45.7882014751732,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1429 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord-est, Jacques-Plante / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40882</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78783</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">29</SimpleData>
+<SimpleData name="ADRESSE">1429 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord-est, Jacques-Plante / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.40882</SimpleData>
+<SimpleData name="LATITUDE">45.78783</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4088173918588,45.7878324973421,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>86</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>250 Louis-Philippe-Picard</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté ouest, École Félix-Leclerc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41092</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.79148</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">86</SimpleData>
+<SimpleData name="ADRESSE">250 Louis-Philippe-Picard</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté ouest, École Félix-Leclerc</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.41092</SimpleData>
+<SimpleData name="LATITUDE">45.79148</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4109213136387,45.7914800320026,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>85</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1351 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord, Jacques-Cousteau / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41099</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78543</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">85</SimpleData>
+<SimpleData name="ADRESSE">1351 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord, Jacques-Cousteau / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.41099</SimpleData>
+<SimpleData name="LATITUDE">45.78543</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4109934038918,45.7854327912352,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1296 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78345</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">25</SimpleData>
+<SimpleData name="ADRESSE">1296 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.4128</SimpleData>
+<SimpleData name="LATITUDE">45.78345</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4128037891843,45.7834527839891,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>41</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1187 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41623</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77971</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">41</SimpleData>
+<SimpleData name="ADRESSE">1187 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.41623</SimpleData>
+<SimpleData name="LATITUDE">45.77971</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4162346260815,45.7797050982939,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>42</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1135 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord, Noiseux / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41773</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77807</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">42</SimpleData>
+<SimpleData name="ADRESSE">1135 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord, Noiseux / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.41773</SimpleData>
+<SimpleData name="LATITUDE">45.77807</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.417729372329,45.7780656016692,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>43</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>927 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord, Beauchesne / Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42366</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77157</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">43</SimpleData>
+<SimpleData name="ADRESSE">927 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord, Beauchesne / Iberville</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.42366</SimpleData>
+<SimpleData name="LATITUDE">45.77157</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4236578772798,45.7715730243661,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>44</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>784 Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="">
+<th>EMPLACEMENT</th>
+<td>Côté nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>2024-02-28</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43105</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76344</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Abribus</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Abribus">
+<SimpleData name="ID">44</SimpleData>
+<SimpleData name="ADRESSE">784 Iberville</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="EMPLACEMENT">Côté nord</SimpleData>
+<SimpleData name="DATE_MODIFICATION">2024-02-28</SimpleData>
+<SimpleData name="LONGITUDE">-73.43105</SimpleData>
+<SimpleData name="LATITUDE">45.76344</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4310533244249,45.7634378861915,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
