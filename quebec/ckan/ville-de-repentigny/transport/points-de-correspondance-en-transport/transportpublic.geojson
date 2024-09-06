@@ -1,0 +1,126 @@
+{
+	"name" : "Points de correspondance en transport",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47447808838001, 45.71514199537258 ]
+			},
+			"properties" : {
+				"NOM" : "Centre administratif RTCR ",
+				"PROPRIETAIRE" : "RCTR",
+				"ADRESSE" : "75 Rue Notre-Dame, Repentigny",
+				"SITEWEB" : "http://www.gortcr.info/index.html",
+				"HORAIRE" : "Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30, Jeu: 8 h 30 à 12 h et 13 h à 17 h 30, Ven: 8 h à 12 h, Centre d'appel du RTCR: Dim au Sam - 6 h à 22 h",
+				"CONTACT" : "Centre administratif RTCR",
+				"TELEPHONE" : "866-755-2917",
+				"EMAIL" : "info@gortcr.info",
+				"MISEAJOUR" : "20140213",
+				"LONGITUDE" : "-73.47447808838001",
+				"LATITUDE" : "45.71514199537258"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45341425325744, 45.7465505552456 ]
+			},
+			"properties" : {
+				"NOM" : "Terminus Repentigny",
+				"PROPRIETAIRE" : "RCTR",
+				"ADRESSE" : "475 Rue Leclerc, Repentigny",
+				"SITEWEB" : "http://www.gortcr.info/index.html",
+				"HORAIRE" : "6 circuits internes (1-5-8-11-14-15), 3 circuits externes (200-300-400), Stationnement incitatif de 291 places, Centre d'appel du RTCR: Dim au Sam - 6 h à 22 h",
+				"CONTACT" : "Centre administratif RTCR",
+				"TELEPHONE" : "866-755-2917",
+				"EMAIL" : "info@gortcr.info",
+				"MISEAJOUR" : "20140213",
+				"LONGITUDE" : "-73.45341425325744",
+				"LATITUDE" : "45.7465505552456"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47149502406995, 45.716991771909996 ]
+			},
+			"properties" : {
+				"NOM" : "Point de correspondance - Place Repentigny",
+				"PROPRIETAIRE" : "RCTR",
+				"ADRESSE" : "155 Rue Notre-Dame, Repentigny",
+				"SITEWEB" : "http://www.gortcr.info/index.html",
+				"HORAIRE" : "5 circuits internes (1-8-9-14-15), 2 circuits externes (300-400), Stationnement incitatif, Centre d'appel du RTCR: Dim au Sam - 6 h à 22 h",
+				"CONTACT" : "Centre administratif RTCR",
+				"TELEPHONE" : "866-755-2917",
+				"EMAIL" : "info@gortcr.info",
+				"MISEAJOUR" : "20140213",
+				"LONGITUDE" : "-73.47149502406995",
+				"LATITUDE" : "45.716991771909996"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40885121164945, 45.78789502210698 ]
+			},
+			"properties" : {
+				"NOM" : "Point de correspondance - Iberville/Jacques-Plante",
+				"PROPRIETAIRE" : "RCTR",
+				"ADRESSE" : "Boulevard Iberville, Repentigny",
+				"SITEWEB" : "http://www.gortcr.info/index.html",
+				"HORAIRE" : "6 circuits internes (1-2-5-6-8-15), 2 circuits externes (300-400), Centre d'appel du RTCR: Dim au Sam - 6 h à 22 h",
+				"CONTACT" : "Centre administratif RTCR",
+				"TELEPHONE" : "866-755-2917",
+				"EMAIL" : "info@gortcr.info",
+				"MISEAJOUR" : "20140213",
+				"LONGITUDE" : "-73.40885121164945",
+				"LATITUDE" : "45.78789502210698"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42037398174891, 45.82902376884575 ]
+			},
+			"properties" : {
+				"NOM" : "Point de correspondance - Cégep régional de Lanaudière à L'Assomption",
+				"PROPRIETAIRE" : "RCTR",
+				"ADRESSE" : "180 Rue Dorval, L'Assomption",
+				"SITEWEB" : "http://www.gortcr.info/index.html",
+				"HORAIRE" : "6 circuits internes (1-2-6-8-11-14), 3 circuits externes (100-101-400), Centre d'appel du RTCR: Dim au Sam de 6 h à 22 h",
+				"CONTACT" : "Centre administratif RTCR",
+				"TELEPHONE" : "866-755-2917",
+				"EMAIL" : "info@gortcr.info",
+				"MISEAJOUR" : "20140213",
+				"LONGITUDE" : "-73.42037398174891",
+				"LATITUDE" : "45.82902376884575"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.485639649497, 45.73571457601266 ]
+			},
+			"properties" : {
+				"NOM" : "Gare Repentigny",
+				"PROPRIETAIRE" : "RCTR",
+				"ADRESSE" : "55 Boulevard Lacombe, Repentigny",
+				"SITEWEB" : "https://www.amt.qc.ca/fr/planifier-trajet/train/mascouche/0/11630#InformationsGare",
+				"HORAIRE" : "Stationnement incitatif de 596 places, Temps de parcours d’environ 49 minutes jusqu’à la Gare Centrale, 8 départs et 8 retours quotidiens, La gare Repentigny se trouve dans la zone tarifaire 5",
+				"CONTACT" : "Centre administratif RTCR",
+				"TELEPHONE" : "866-755-2917",
+				"EMAIL" : "info@gortcr.info",
+				"MISEAJOUR" : "20141106",
+				"LONGITUDE" : "-73.485639649497",
+				"LATITUDE" : "45.73571457601266"
+			}
+		}
+	]
+}

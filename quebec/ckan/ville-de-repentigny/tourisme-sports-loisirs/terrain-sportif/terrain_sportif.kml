@@ -1,0 +1,5943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>terrain_sportif</name>
+<visibility>1</visibility>
+<Schema name="Terrain sportif" id="kml_schema_ft_Terrain_sportif">
+<SimpleField type="xsd:int" name="ID">
+<displayName>ID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TYPE">
+<displayName>TYPE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="REVETEMENT_SOL">
+<displayName>REVETEMENT_SOL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MUNICIPALITE">
+<displayName>MUNICIPALITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="GEOM">
+<displayName>GEOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DATE_CREATION">
+<displayName>DATE_CREATION</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DATE_MODIFICATION">
+<displayName>DATE_MODIFICATION</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Terrain_sportif">
+<name>Terrain sportif</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>406</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Volleyball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145407</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76939</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">406</SimpleData>
+<SimpleData name="TYPE">Volleyball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145407</SimpleData>
+<SimpleData name="LONGITUDE">-73.47222</SimpleData>
+<SimpleData name="LATITUDE">45.76939</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4722233265267,45.7693896011405,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>408</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20210816132230</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47569</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72774</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">408</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20210816132230</SimpleData>
+<SimpleData name="LONGITUDE">-73.47569</SimpleData>
+<SimpleData name="LATITUDE">45.72774</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4756894692917,45.7277358170913,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>412</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151543</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47718</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75508</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">412</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151543</SimpleData>
+<SimpleData name="LONGITUDE">-73.47718</SimpleData>
+<SimpleData name="LATITUDE">45.75508</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4771842498279,45.755078207695,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>425</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47198</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76898</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">425</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.47198</SimpleData>
+<SimpleData name="LATITUDE">45.76898</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.47197506985,45.7689771671537,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>433</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Dekhockey</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160914101323</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47958</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75567</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">433</SimpleData>
+<SimpleData name="TYPE">Dekhockey</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160914101323</SimpleData>
+<SimpleData name="LONGITUDE">-73.47958</SimpleData>
+<SimpleData name="LATITUDE">45.75567</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4795820443574,45.7556710385339,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>435</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47775</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7612</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">435</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.47775</SimpleData>
+<SimpleData name="LATITUDE">45.7612</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4777471350841,45.7611955467376,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>441</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41693</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78128</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">441</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.41693</SimpleData>
+<SimpleData name="LATITUDE">45.78128</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.416929852041,45.7812780219828,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>443</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42898</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77362</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">443</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.42898</SimpleData>
+<SimpleData name="LATITUDE">45.77362</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4289799442929,45.7736238140606,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>444</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43704</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75755</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">444</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.43704</SimpleData>
+<SimpleData name="LATITUDE">45.75755</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4370375065234,45.7575462924506,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>445</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.51367</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75617</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">445</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.51367</SimpleData>
+<SimpleData name="LATITUDE">45.75617</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.513671202184,45.7561738873864,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>446</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151705</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47437</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7276</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">446</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151705</SimpleData>
+<SimpleData name="LONGITUDE">-73.47437</SimpleData>
+<SimpleData name="LATITUDE">45.7276</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4743672379364,45.7275985721485,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>447</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151705</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46654</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74075</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">447</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151705</SimpleData>
+<SimpleData name="LONGITUDE">-73.46654</SimpleData>
+<SimpleData name="LATITUDE">45.74075</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4665419453842,45.7407511832182,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>460</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145303</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42529</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7647</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">460</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145303</SimpleData>
+<SimpleData name="LONGITUDE">-73.42529</SimpleData>
+<SimpleData name="LATITUDE">45.7647</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4252890778898,45.7646967472962,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>461</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145305</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42522</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76452</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">461</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145305</SimpleData>
+<SimpleData name="LONGITUDE">-73.42522</SimpleData>
+<SimpleData name="LATITUDE">45.76452</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4252239948382,45.7645193934043,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>462</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145306</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42517</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76436</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">462</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145306</SimpleData>
+<SimpleData name="LONGITUDE">-73.42517</SimpleData>
+<SimpleData name="LATITUDE">45.76436</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.425166454815,45.764361340208,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>466</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47591</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72689</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">466</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.47591</SimpleData>
+<SimpleData name="LATITUDE">45.72689</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4759098639742,45.7268862004,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>474</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45845</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77065</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">474</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.45845</SimpleData>
+<SimpleData name="LATITUDE">45.77065</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4584486879668,45.7706450222406,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>487</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.51416</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75641</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">487</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.51416</SimpleData>
+<SimpleData name="LATITUDE">45.75641</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.5141634618042,45.7564061183085,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>488</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145311</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44743</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7371</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">488</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145311</SimpleData>
+<SimpleData name="LONGITUDE">-73.44743</SimpleData>
+<SimpleData name="LATITUDE">45.7371</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4474277896044,45.7370999992849,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>489</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Football</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Synthétique</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152500</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41041</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78995</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">489</SimpleData>
+<SimpleData name="TYPE">Football</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Synthétique</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152500</SimpleData>
+<SimpleData name="LONGITUDE">-73.41041</SimpleData>
+<SimpleData name="LATITUDE">45.78995</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4104051252727,45.7899473654231,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>431</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47182</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72242</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">431</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.47182</SimpleData>
+<SimpleData name="LATITUDE">45.72242</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4718190043819,45.7224212352859,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>807</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140328102424</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44975</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74539</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">807</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140328102424</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.44975</SimpleData>
+<SimpleData name="LATITUDE">45.74539</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4497456353842,45.745390189538,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>440</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43732</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7788</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">440</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.43732</SimpleData>
+<SimpleData name="LATITUDE">45.7788</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4373245211555,45.778801469829,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>432</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46819</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74148</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">432</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.46819</SimpleData>
+<SimpleData name="LATITUDE">45.74148</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4681895968205,45.7414756624228,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>808</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140328104240</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145308</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47774</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76121</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">808</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140328104240</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145308</SimpleData>
+<SimpleData name="LONGITUDE">-73.47774</SimpleData>
+<SimpleData name="LATITUDE">45.76121</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4777449966378,45.7612144026881,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>436</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47134</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76913</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">436</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.47134</SimpleData>
+<SimpleData name="LATITUDE">45.76913</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4713427121445,45.7691296521841,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>414</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151543</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46004</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76837</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">414</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151543</SimpleData>
+<SimpleData name="LONGITUDE">-73.46004</SimpleData>
+<SimpleData name="LATITUDE">45.76837</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4600391602094,45.7683674377143,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2035</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Terre battue</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20141103150415</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901155010</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41139</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78909</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">2035</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Terre battue</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20141103150415</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901155010</SimpleData>
+<SimpleData name="LONGITUDE">-73.41139</SimpleData>
+<SimpleData name="LATITUDE">45.78909</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4113864116018,45.7890859263667,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2036</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Terre battue</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20141103150605</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901155012</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41142</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78951</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">2036</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Terre battue</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20141103150605</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901155012</SimpleData>
+<SimpleData name="LONGITUDE">-73.41142</SimpleData>
+<SimpleData name="LATITUDE">45.78951</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4114163997561,45.789506648154,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>454</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151705</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43787</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7572</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">454</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151705</SimpleData>
+<SimpleData name="LONGITUDE">-73.43787</SimpleData>
+<SimpleData name="LATITUDE">45.7572</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4378697004058,45.7571989052792,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>815</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140917112051</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151543</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45969</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76807</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">815</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140917112051</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151543</SimpleData>
+<SimpleData name="LONGITUDE">-73.45969</SimpleData>
+<SimpleData name="LATITUDE">45.76807</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4596946966433,45.7680651535088,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>839</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101659</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40846</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78865</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">839</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101659</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40846</SimpleData>
+<SimpleData name="LATITUDE">45.78865</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.408457233297,45.7886497252733,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>838</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101655</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40866</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78856</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">838</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101655</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40866</SimpleData>
+<SimpleData name="LATITUDE">45.78856</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4086627537034,45.7885647059938,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>837</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101649</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40886</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78848</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">837</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101649</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40886</SimpleData>
+<SimpleData name="LATITUDE">45.78848</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4088630249774,45.788481243756,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>836</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101626</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40907</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7884</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">836</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101626</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40907</SimpleData>
+<SimpleData name="LATITUDE">45.7884</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.409068896311,45.7883959806281,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>835</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101621</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40927</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78831</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">835</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101621</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40927</SimpleData>
+<SimpleData name="LATITUDE">45.78831</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4092744796189,45.7883109773909,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>834</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101613</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40947</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78823</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">834</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101613</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40947</SimpleData>
+<SimpleData name="LATITUDE">45.78823</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4094724694193,45.7882297522041,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>826</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918100400</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40967</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78846</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">826</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918100400</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40967</SimpleData>
+<SimpleData name="LATITUDE">45.78846</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4096730125954,45.7884600053286,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>827</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101452</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40948</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78854</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">827</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101452</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40948</SimpleData>
+<SimpleData name="LATITUDE">45.78854</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4094786776263,45.7885397073605,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>828</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101539</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40927</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78862</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">828</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101539</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40927</SimpleData>
+<SimpleData name="LATITUDE">45.78862</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4092737115968,45.7886245349791,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>829</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101545</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40907</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78871</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">829</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101545</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40907</SimpleData>
+<SimpleData name="LATITUDE">45.78871</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4090686035022,45.7887088458566,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>830</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101550</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40887</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78879</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">830</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101550</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40887</SimpleData>
+<SimpleData name="LATITUDE">45.78879</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4088710519941,45.7887899353793,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>831</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918101556</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40867</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78888</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">831</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918101556</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.40867</SimpleData>
+<SimpleData name="LATITUDE">45.78888</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4086666773843,45.7888752498424,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>472</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46543</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76216</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">472</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.46543</SimpleData>
+<SimpleData name="LATITUDE">45.76216</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4654256924528,45.7621642557525,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>456</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Football</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151614</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4202</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78827</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">456</SimpleData>
+<SimpleData name="TYPE">Football</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151614</SimpleData>
+<SimpleData name="LONGITUDE">-73.4202</SimpleData>
+<SimpleData name="LATITUDE">45.78827</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4201984676127,45.7882703516161,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>430</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.51367</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75617</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">430</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.51367</SimpleData>
+<SimpleData name="LATITUDE">45.75617</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.5136702275672,45.7561734724689,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>478</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43688</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77931</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">478</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.43688</SimpleData>
+<SimpleData name="LATITUDE">45.77931</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4368832817528,45.7793079227516,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>429</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43671</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76264</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">429</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.43671</SimpleData>
+<SimpleData name="LATITUDE">45.76264</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4367064386245,45.7626395824715,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>453</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151705</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43683</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76207</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">453</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151705</SimpleData>
+<SimpleData name="LONGITUDE">-73.43683</SimpleData>
+<SimpleData name="LATITUDE">45.76207</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4368312469662,45.7620701300668,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>482</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43715</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76133</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">482</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.43715</SimpleData>
+<SimpleData name="LATITUDE">45.76133</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4371500775745,45.7613275106947,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>469</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47999</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76147</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">469</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.47999</SimpleData>
+<SimpleData name="LATITUDE">45.76147</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4799927171148,45.7614702960685,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>470</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47916</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76105</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">470</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.47916</SimpleData>
+<SimpleData name="LATITUDE">45.76105</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4791588068437,45.7610479680311,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>476</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45011</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74574</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">476</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.45011</SimpleData>
+<SimpleData name="LATITUDE">45.74574</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4501103676203,45.7457356097174,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>803</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Dekhockey</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130605143010</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160914101330</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47886</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75536</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">803</SimpleData>
+<SimpleData name="TYPE">Dekhockey</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130605143010</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160914101330</SimpleData>
+<SimpleData name="LONGITUDE">-73.47886</SimpleData>
+<SimpleData name="LATITUDE">45.75536</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4788640089861,45.7553640119827,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>434</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Dekhockey</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160914101328</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48011</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75594</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">434</SimpleData>
+<SimpleData name="TYPE">Dekhockey</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160914101328</SimpleData>
+<SimpleData name="LONGITUDE">-73.48011</SimpleData>
+<SimpleData name="LATITUDE">45.75594</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4801062141161,45.755943539497,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>804</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140328101231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47805</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71495</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">804</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140328101231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.47805</SimpleData>
+<SimpleData name="LATITUDE">45.71495</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4780483172369,45.7149514785612,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>475</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44323</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74909</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">475</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.44323</SimpleData>
+<SimpleData name="LATITUDE">45.74909</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4432268173163,45.7490894399125,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>481</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41909</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77433</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">481</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41909</SimpleData>
+<SimpleData name="LATITUDE">45.77433</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4190936538479,45.7743287716868,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1226</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45931</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76845</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1226</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.45931</SimpleData>
+<SimpleData name="LATITUDE">45.76845</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4593114412001,45.7684530769035,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1225</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45956</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76862</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1225</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.45956</SimpleData>
+<SimpleData name="LATITUDE">45.76862</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4595598312836,45.7686243747287,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>437</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152356</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46007</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76773</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">437</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152356</SimpleData>
+<SimpleData name="LONGITUDE">-73.46007</SimpleData>
+<SimpleData name="LATITUDE">45.76773</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.460067969804,45.767727219841,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1216</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46007</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76771</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1216</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.46007</SimpleData>
+<SimpleData name="LATITUDE">45.76771</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4600693084356,45.7677079853719,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1224</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46014</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76798</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1224</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.46014</SimpleData>
+<SimpleData name="LATITUDE">45.76798</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4601422510792,45.7679813183505,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1222</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46037</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76815</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1222</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.46037</SimpleData>
+<SimpleData name="LATITUDE">45.76815</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4603676651906,45.7681538837966,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1223</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46034</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76785</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1223</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.46034</SimpleData>
+<SimpleData name="LATITUDE">45.76785</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4603413439837,45.767854018642,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1221</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46057</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76803</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1221</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.46057</SimpleData>
+<SimpleData name="LATITUDE">45.76803</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4605674382507,45.7680266997834,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>842</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Volleyball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918112436</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145414</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46067</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76774</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">842</SimpleData>
+<SimpleData name="TYPE">Volleyball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918112436</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145414</SimpleData>
+<SimpleData name="LONGITUDE">-73.46067</SimpleData>
+<SimpleData name="LATITUDE">45.76774</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4606681031787,45.7677449487087,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>471</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47238</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76833</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">471</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.47238</SimpleData>
+<SimpleData name="LATITUDE">45.76833</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4723822497013,45.7683251620636,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>818</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085535</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41693</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78176</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">818</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085535</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41693</SimpleData>
+<SimpleData name="LATITUDE">45.78176</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4169311672377,45.7817619246029,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>819</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085555</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41667</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78203</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">819</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085555</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41667</SimpleData>
+<SimpleData name="LATITUDE">45.78203</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4166713683105,45.7820304871499,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>820</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085559</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41641</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7823</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">820</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085559</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41641</SimpleData>
+<SimpleData name="LATITUDE">45.7823</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4164100507762,45.7823047799264,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>821</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085603</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41615</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78257</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">821</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085603</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41615</SimpleData>
+<SimpleData name="LATITUDE">45.78257</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4161464214116,45.7825702985942,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>823</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085611</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41563</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78233</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">823</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085611</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41563</SimpleData>
+<SimpleData name="LATITUDE">45.78233</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4156327640239,45.7823260469797,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_74">
+<name>kml_74</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>822</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085608</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41589</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78206</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">822</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085608</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41589</SimpleData>
+<SimpleData name="LATITUDE">45.78206</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4158876224972,45.7820576758406,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_75">
+<name>kml_75</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>824</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085617</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41615</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78178</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">824</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085617</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41615</SimpleData>
+<SimpleData name="LATITUDE">45.78178</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4161539034414,45.7817825867308,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_76">
+<name>kml_76</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>825</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140918085620</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41641</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78151</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">825</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140918085620</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.41641</SimpleData>
+<SimpleData name="LATITUDE">45.78151</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.416408999142,45.7815129546338,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_77">
+<name>kml_77</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>427</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41602</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.781</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">427</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.41602</SimpleData>
+<SimpleData name="LATITUDE">45.781</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.416016308244,45.7809953677056,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_78">
+<name>kml_78</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3696</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160811095747</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151559</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41589</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78113</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">3696</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160811095747</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151559</SimpleData>
+<SimpleData name="LONGITUDE">-73.41589</SimpleData>
+<SimpleData name="LATITUDE">45.78113</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4158927705556,45.7811333741721,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_79">
+<name>kml_79</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>467</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4784</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72647</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">467</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.4784</SimpleData>
+<SimpleData name="LATITUDE">45.72647</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.478399321135,45.7264653722447,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_80">
+<name>kml_80</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3699</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160811103934</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901151643</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46119</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76084</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">3699</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160811103934</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901151643</SimpleData>
+<SimpleData name="LONGITUDE">-73.46119</SimpleData>
+<SimpleData name="LATITUDE">45.76084</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.461189108526,45.760835377412,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_81">
+<name>kml_81</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>455</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Football</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Synthétique</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901152523</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47898</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76214</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">455</SimpleData>
+<SimpleData name="TYPE">Football</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Synthétique</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901152523</SimpleData>
+<SimpleData name="LONGITUDE">-73.47898</SimpleData>
+<SimpleData name="LATITUDE">45.76214</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4789792940694,45.7621448660729,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_82">
+<name>kml_82</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>4091</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Course</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160901143500</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901144330</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47907</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76218</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">4091</SimpleData>
+<SimpleData name="TYPE">Course</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160901143500</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901144330</SimpleData>
+<SimpleData name="LONGITUDE">-73.47907</SimpleData>
+<SimpleData name="LATITUDE">45.76218</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4790657156407,45.7621833718985,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_83">
+<name>kml_83</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>4092</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Course</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Tuile caoutchouté</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160901144424</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901144644</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43712</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76137</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">4092</SimpleData>
+<SimpleData name="TYPE">Course</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Tuile caoutchouté</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160901144424</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901144644</SimpleData>
+<SimpleData name="LONGITUDE">-73.43712</SimpleData>
+<SimpleData name="LATITUDE">45.76137</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4371169092045,45.7613678669864,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_84">
+<name>kml_84</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5293</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20161012101512</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20161012102641</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41696</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77508</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">5293</SimpleData>
+<SimpleData name="TYPE">Fers</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20161012101512</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20161012102641</SimpleData>
+<SimpleData name="LONGITUDE">-73.41696</SimpleData>
+<SimpleData name="LATITUDE">45.77508</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4169624683558,45.7750750074021,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_85">
+<name>kml_85</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5294</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20161012101525</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20161012102644</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41699</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77505</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">5294</SimpleData>
+<SimpleData name="TYPE">Fers</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20161012101525</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20161012102644</SimpleData>
+<SimpleData name="LONGITUDE">-73.41699</SimpleData>
+<SimpleData name="LATITUDE">45.77505</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4169900699483,45.7750453873708,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_86">
+<name>kml_86</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5295</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20161012101532</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20161012102646</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41702</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77502</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">5295</SimpleData>
+<SimpleData name="TYPE">Fers</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20161012101532</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20161012102646</SimpleData>
+<SimpleData name="LONGITUDE">-73.41702</SimpleData>
+<SimpleData name="LATITUDE">45.77502</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4170166519194,45.775015052376,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_87">
+<name>kml_87</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>419</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20161012154855</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43802</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75805</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">419</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20161012154855</SimpleData>
+<SimpleData name="LONGITUDE">-73.43802</SimpleData>
+<SimpleData name="LATITUDE">45.75805</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4380205270792,45.7580510760242,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_88">
+<name>kml_88</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5299</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20161223105828</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20210723081844</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43675</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75818</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">5299</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20161223105828</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20210723081844</SimpleData>
+<SimpleData name="LONGITUDE">-73.43675</SimpleData>
+<SimpleData name="LATITUDE">45.75818</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4367483081247,45.7581791759654,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_89">
+<name>kml_89</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>428</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20170921105505</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42801</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77303</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">428</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20170921105505</SimpleData>
+<SimpleData name="LONGITUDE">-73.42801</SimpleData>
+<SimpleData name="LATITUDE">45.77303</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4280131339039,45.7730296061685,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_90">
+<name>kml_90</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6103</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170921105505</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160927144941</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42837</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77292</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6103</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170921105505</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160927144941</SimpleData>
+<SimpleData name="LONGITUDE">-73.42837</SimpleData>
+<SimpleData name="LATITUDE">45.77292</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4283700861406,45.7729207666038,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_91">
+<name>kml_91</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6105</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Volleyball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170921111203</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20160901145405</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45596</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72791</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6105</SimpleData>
+<SimpleData name="TYPE">Volleyball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170921111203</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20160901145405</SimpleData>
+<SimpleData name="LONGITUDE">-73.45596</SimpleData>
+<SimpleData name="LATITUDE">45.72791</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4559557766142,45.727907568327,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_92">
+<name>kml_92</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2437</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Volleyball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160121144129</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20170921111227</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45563</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72804</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">2437</SimpleData>
+<SimpleData name="TYPE">Volleyball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160121144129</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20170921111227</SimpleData>
+<SimpleData name="LONGITUDE">-73.45563</SimpleData>
+<SimpleData name="LATITUDE">45.72804</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4556295007035,45.7280431631894,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_93">
+<name>kml_93</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6106</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Volleyball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170921111227</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20170921111203</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45579</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72798</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6106</SimpleData>
+<SimpleData name="TYPE">Volleyball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170921111227</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20170921111203</SimpleData>
+<SimpleData name="LONGITUDE">-73.45579</SimpleData>
+<SimpleData name="LATITUDE">45.72798</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4557926338743,45.7279752682441,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_94">
+<name>kml_94</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5704</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170105154249</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20171011134637</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40994</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78879</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">5704</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170105154249</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20171011134637</SimpleData>
+<SimpleData name="LONGITUDE">-73.40994</SimpleData>
+<SimpleData name="LATITUDE">45.78879</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4099439527728,45.7887912561831,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_95">
+<name>kml_95</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5703</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Basketball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Asphalte</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170105154102</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20171011134838</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78865</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">5703</SimpleData>
+<SimpleData name="TYPE">Basketball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Asphalte</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170105154102</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20171011134838</SimpleData>
+<SimpleData name="LONGITUDE">-73.41013</SimpleData>
+<SimpleData name="LATITUDE">45.78865</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4101321628834,45.7886459108788,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_96">
+<name>kml_96</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6903</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20171011134436</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20171011135715</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41004</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78872</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6903</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20171011134436</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20171011135715</SimpleData>
+<SimpleData name="LONGITUDE">-73.41004</SimpleData>
+<SimpleData name="LATITUDE">45.78872</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4100382767605,45.7887185766145,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_97">
+<name>kml_97</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6503</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170927093658</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20171012101945</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44337</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77423</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6503</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170927093658</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20171012101945</SimpleData>
+<SimpleData name="LONGITUDE">-73.44337</SimpleData>
+<SimpleData name="LATITUDE">45.77423</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4433656978642,45.7742269132843,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_98">
+<name>kml_98</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6505</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170927094405</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20171012102022</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44287</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77434</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6505</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170927094405</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20171012102022</SimpleData>
+<SimpleData name="LONGITUDE">-73.44287</SimpleData>
+<SimpleData name="LATITUDE">45.77434</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4428650526093,45.7743360874903,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_99">
+<name>kml_99</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>465</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20180809163100</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47246</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7301</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">465</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20180809163100</SimpleData>
+<SimpleData name="LONGITUDE">-73.47246</SimpleData>
+<SimpleData name="LATITUDE">45.7301</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4724552798511,45.7301019227961,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_100">
+<name>kml_100</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>485</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20180810095741</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43448</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76025</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">485</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20180810095741</SimpleData>
+<SimpleData name="LONGITUDE">-73.43448</SimpleData>
+<SimpleData name="LATITUDE">45.76025</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4344791499285,45.7602468399583,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_101">
+<name>kml_101</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>411</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190529085018</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47921</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75615</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">411</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190529085018</SimpleData>
+<SimpleData name="LONGITUDE">-73.47921</SimpleData>
+<SimpleData name="LATITUDE">45.75615</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4792079356644,45.7561467668554,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_102">
+<name>kml_102</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>413</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190529085107</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4762</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75449</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">413</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190529085107</SimpleData>
+<SimpleData name="LONGITUDE">-73.4762</SimpleData>
+<SimpleData name="LATITUDE">45.75449</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4762038320652,45.7544931537298,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_103">
+<name>kml_103</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2037</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150929100438</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190814162539</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47181</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72242</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">2037</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150929100438</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190814162539</SimpleData>
+<SimpleData name="LONGITUDE">-73.47181</SimpleData>
+<SimpleData name="LATITUDE">45.72242</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4718062864915,45.7224215020907,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_104">
+<name>kml_104</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>407</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Volleyball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190819161026</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46595</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76163</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">407</SimpleData>
+<SimpleData name="TYPE">Volleyball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190819161026</SimpleData>
+<SimpleData name="LONGITUDE">-73.46595</SimpleData>
+<SimpleData name="LATITUDE">45.76163</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4659488203834,45.7616305417224,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_105">
+<name>kml_105</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>450</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190820103348</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46361</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76599</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">450</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190820103348</SimpleData>
+<SimpleData name="LONGITUDE">-73.46361</SimpleData>
+<SimpleData name="LATITUDE">45.76599</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4636053792958,45.7659918412251,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_106">
+<name>kml_106</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8515</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Course</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20190826152447</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190826152841</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47808</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76239</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">8515</SimpleData>
+<SimpleData name="TYPE">Course</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20190826152447</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190826152841</SimpleData>
+<SimpleData name="LONGITUDE">-73.47808</SimpleData>
+<SimpleData name="LATITUDE">45.76239</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4780822109777,45.7623905743287,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_107">
+<name>kml_107</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8516</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Course</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20190826152502</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190826152849</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4787</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7615</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">8516</SimpleData>
+<SimpleData name="TYPE">Course</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20190826152502</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190826152849</SimpleData>
+<SimpleData name="LONGITUDE">-73.4787</SimpleData>
+<SimpleData name="LATITUDE">45.7615</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.478695296272,45.761499202169,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_108">
+<name>kml_108</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8514</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Course</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20190826152346</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190826152832</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47839</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76194</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">8514</SimpleData>
+<SimpleData name="TYPE">Course</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20190826152346</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190826152832</SimpleData>
+<SimpleData name="LONGITUDE">-73.47839</SimpleData>
+<SimpleData name="LATITUDE">45.76194</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4783889849146,45.7619448404693,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_109">
+<name>kml_109</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>423</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190827095642</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42839</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76161</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">423</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190827095642</SimpleData>
+<SimpleData name="LONGITUDE">-73.42839</SimpleData>
+<SimpleData name="LATITUDE">45.76161</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4283929100632,45.7616068922074,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_110">
+<name>kml_110</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>448</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190827133331</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46731</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74029</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">448</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190827133331</SimpleData>
+<SimpleData name="LONGITUDE">-73.46731</SimpleData>
+<SimpleData name="LATITUDE">45.74029</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4673088796587,45.740291248881,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_111">
+<name>kml_111</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>410</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190828135527</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48007</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75657</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">410</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190828135527</SimpleData>
+<SimpleData name="LONGITUDE">-73.48007</SimpleData>
+<SimpleData name="LATITUDE">45.75657</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4800697803367,45.7565706662575,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_112">
+<name>kml_112</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>486</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Soccer</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190828143936</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42474</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76525</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">486</SimpleData>
+<SimpleData name="TYPE">Soccer</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190828143936</SimpleData>
+<SimpleData name="LONGITUDE">-73.42474</SimpleData>
+<SimpleData name="LATITUDE">45.76525</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4247369682077,45.7652498956569,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_113">
+<name>kml_113</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>813</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Skateboard</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Béton</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20140728144211</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190830111812</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40888</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78952</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">813</SimpleData>
+<SimpleData name="TYPE">Skateboard</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Béton</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20140728144211</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190830111812</SimpleData>
+<SimpleData name="LONGITUDE">-73.40888</SimpleData>
+<SimpleData name="LATITUDE">45.78952</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4088769493966,45.78952324289,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_114">
+<name>kml_114</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>442</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190926170609</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41744</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77427</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">442</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190926170609</SimpleData>
+<SimpleData name="LONGITUDE">-73.41744</SimpleData>
+<SimpleData name="LATITUDE">45.77427</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4174400880527,45.7742727947188,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_115">
+<name>kml_115</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>418</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190926170759</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41788</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.77396</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">418</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190926170759</SimpleData>
+<SimpleData name="LONGITUDE">-73.41788</SimpleData>
+<SimpleData name="LATITUDE">45.77396</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4178779429163,45.7739575485952,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_116">
+<name>kml_116</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>439</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Patinoire extérieure</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Glace</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190927101523</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4458</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76302</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">439</SimpleData>
+<SimpleData name="TYPE">Patinoire extérieure</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Glace</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190927101523</SimpleData>
+<SimpleData name="LONGITUDE">-73.4458</SimpleData>
+<SimpleData name="LATITUDE">45.76302</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4458008987844,45.7630171665262,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_117">
+<name>kml_117</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8517</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20190927101625</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190927102251</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44638</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76219</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">8517</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20190927101625</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190927102251</SimpleData>
+<SimpleData name="LONGITUDE">-73.44638</SimpleData>
+<SimpleData name="LATITUDE">45.76219</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4463789917831,45.7621891859805,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_118">
+<name>kml_118</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8518</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Baseball</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gazon</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20190927101726</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20190927102253</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44651</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76252</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">8518</SimpleData>
+<SimpleData name="TYPE">Baseball</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gazon</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20190927101726</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20190927102253</SimpleData>
+<SimpleData name="LONGITUDE">-73.44651</SimpleData>
+<SimpleData name="LATITUDE">45.76252</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4465085262192,45.7625166506727,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_119">
+<name>kml_119</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1231</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20150615151231</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20191008094102</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.461</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76732</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">1231</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20150615151231</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20191008094102</SimpleData>
+<SimpleData name="LONGITUDE">-73.461</SimpleData>
+<SimpleData name="LATITUDE">45.76732</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4609999415142,45.7673238513503,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_120">
+<name>kml_120</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>451</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20130101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20191008100805</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46046</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76747</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">451</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20130101</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20191008100805</SimpleData>
+<SimpleData name="LONGITUDE">-73.46046</SimpleData>
+<SimpleData name="LATITUDE">45.76747</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4604617089483,45.7674678234051,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_121">
+<name>kml_121</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3293</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Sable</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160808135951</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20191008102122</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4608</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76717</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">3293</SimpleData>
+<SimpleData name="TYPE">Fers</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Sable</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160808135951</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20191008102122</SimpleData>
+<SimpleData name="LONGITUDE">-73.4608</SimpleData>
+<SimpleData name="LATITUDE">45.76717</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4608041362076,45.7671681006258,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_122">
+<name>kml_122</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3295</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Pétanque</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Gravelette</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20160808140140</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20191008102131</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.46091</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76725</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">3295</SimpleData>
+<SimpleData name="TYPE">Pétanque</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Gravelette</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20160808140140</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20191008102131</SimpleData>
+<SimpleData name="LONGITUDE">-73.46091</SimpleData>
+<SimpleData name="LATITUDE">45.76725</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4609089457508,45.7672513592614,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_123">
+<name>kml_123</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6102</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Tennis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>REVETEMENT_SOL</th>
+<td>Surface dure</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOM</th>
+<td>Point</td>
+</tr><tr bgcolor="">
+<th>DATE_CREATION</th>
+<td>20170817132150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE_MODIFICATION</th>
+<td>20191009152903</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45075</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74076</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Terrain_sportif">
+<SimpleData name="ID">6102</SimpleData>
+<SimpleData name="TYPE">Tennis</SimpleData>
+<SimpleData name="REVETEMENT_SOL">Surface dure</SimpleData>
+<SimpleData name="MUNICIPALITE">Repentigny</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+<SimpleData name="DATE_CREATION">20170817132150</SimpleData>
+<SimpleData name="DATE_MODIFICATION">20191009152903</SimpleData>
+<SimpleData name="LONGITUDE">-73.45075</SimpleData>
+<SimpleData name="LATITUDE">45.74076</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4507511822054,45.7407644131927,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,26 @@
+{
+	"name" : "Cour municipale",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47786256487478, 45.74667143283121 ]
+			},
+			"properties" : {
+				"NOM" : "Cour municipale",
+				"ADRESSE" : "1 Montée des Arsenaux, Repentigny",
+				"HORAIRE" : "Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30; Jeu: 8 h 30 à 12 h et 13 h à 17 h 30; Ven: 8 h à 12 h",
+				"NOTES" : "Porte C : Cour municipale (salle d'audience); Porte E : Paiement des constats, perception des amendes, administration de la cour",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Cour-municipale.html",
+				"CONTACT" : "Cour municipale",
+				"TELEPHONE" : "450-470-3500",
+				"EMAIL" : "cour-municipale@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140319",
+				"LONGITUDE" : "-73.47786256487478",
+				"LATITUDE" : "45.74667143283121"
+			}
+		}
+	]
+}

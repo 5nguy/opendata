@@ -1,0 +1,78 @@
+[
+	{
+		"json_featuretype" : "Stations de polices et casernes de pompiers",
+		"NOM" : "Police (quartier général)",
+		"ADRESSE" : "1 Montée des Arsenaux, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Police/Contactez-nous.html",
+		"HORAIRE" : "24 heures / 24, 7 jours / 7",
+		"NOTES" : "Le quartier général de la police et la cour municipale partagent la même adresse. La gestion et le paiement de la perception des amendes, dont les constats d’infraction, relèvent de la cour municipale.",
+		"CONTACT" : "Police (quartier général)",
+		"TELEPHONE" : "450-470-3600",
+		"EMAIL" : "police@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140219",
+		"LONGITUDE" : "-73.47755679272512",
+		"LATITUDE" : "45.74666394608386",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47755679272512, 45.74666394608386 ]
+		}
+	},
+	{
+		"json_featuretype" : "Stations de polices et casernes de pompiers",
+		"NOM" : "Caserne 30",
+		"ADRESSE" : "338 Rue Saint-Paul, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx",
+		"HORAIRE" : "24 heures / 24, 7 jours / 7",
+		"NOTES" : "Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.",
+		"CONTACT" : "Poste d’incendie principal",
+		"TELEPHONE" : "450-470-3620",
+		"EMAIL" : "incendie@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140219",
+		"LONGITUDE" : "-73.48339654455445",
+		"LATITUDE" : "45.75836247326902",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.48339654455445, 45.75836247326902 ]
+		}
+	},
+	{
+		"json_featuretype" : "Stations de polices et casernes de pompiers",
+		"NOM" : "Caserne 50",
+		"ADRESSE" : "270 Rue Valmont, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx",
+		"HORAIRE" : "24 heures / 24, 7 jours / 7",
+		"NOTES" : "Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.",
+		"CONTACT" : "Poste d’incendie principal",
+		"TELEPHONE" : "450-470-3620",
+		"EMAIL" : "incendie@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140219",
+		"LONGITUDE" : "-73.43748631927781",
+		"LATITUDE" : "45.765666074301905",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.43748631927781, 45.765666074301905 ]
+		}
+	},
+	{
+		"json_featuretype" : "Stations de polices et casernes de pompiers",
+		"NOM" : "Caserne 70",
+		"ADRESSE" : "520 Route 341, L'Épiphanie",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx",
+		"HORAIRE" : "24 heures / 24, 7 jours / 7",
+		"NOTES" : "Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.",
+		"CONTACT" : "Poste d’incendie principal",
+		"TELEPHONE" : "450-470-3620",
+		"EMAIL" : "incendie@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140219",
+		"LONGITUDE" : "-73.48793366017006",
+		"LATITUDE" : "45.84263273907848",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.48793366017006, 45.84263273907848 ]
+		}
+	}
+]

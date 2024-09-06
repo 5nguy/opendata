@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>cour_municipale</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Cour_municipale">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Cour municipale" id="kml_schema_ft_Cour_municipale">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOTES">
+<displayName>NOTES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Cour_municipale">
+<name>Cour municipale</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Cour municipale</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1 Montée des Arsenaux, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td>Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30; Jeu: 8 h 30 à 12 h et 13 h à 17 h 30; Ven: 8 h à 12 h</td>
+</tr><tr bgcolor="">
+<th>NOTES</th>
+<td>Porte C : Cour municipale (salle d'audience); Porte E : Paiement des constats, perception des amendes, administration de la cour</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Cour-municipale.html</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Cour municipale</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3500</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>cour-municipale@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140319</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47786256487478</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74667143283121</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Cour_municipale</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Cour_municipale">
+<SimpleData name="NOM">Cour municipale</SimpleData>
+<SimpleData name="ADRESSE">1 Montée des Arsenaux, Repentigny</SimpleData>
+<SimpleData name="HORAIRE">Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30; Jeu: 8 h 30 à 12 h et 13 h à 17 h 30; Ven: 8 h à 12 h</SimpleData>
+<SimpleData name="NOTES">Porte C : Cour municipale (salle d'audience); Porte E : Paiement des constats, perception des amendes, administration de la cour</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Cour-municipale.html</SimpleData>
+<SimpleData name="CONTACT">Cour municipale</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3500</SimpleData>
+<SimpleData name="EMAIL">cour-municipale@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140319</SimpleData>
+<SimpleData name="LONGITUDE">-73.47786256487478</SimpleData>
+<SimpleData name="LATITUDE">45.74667143283121</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4778625648748,45.7466714328312,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

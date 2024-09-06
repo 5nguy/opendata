@@ -1,0 +1,402 @@
+[
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "1",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Champigny",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Saisonnier",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.47527867355106",
+		"LATITUDE" : "45.727354608916535",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47527867355106, 45.727354608916535 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "2",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Charles-De Gaulle",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Saisonnier",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.44771239341779",
+		"LATITUDE" : "45.7382879677622",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.44771239341779, 45.7382879677622 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "3",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Jean-Claude-Crevier",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Saisonnier",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.47850208270422",
+		"LATITUDE" : "45.76156599050191",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47850208270422, 45.76156599050191 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "4",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Larochelle",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Saisonnier",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.46753510549313",
+		"LATITUDE" : "45.74058845990154",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.46753510549313, 45.74058845990154 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "5",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Saint-Laurent",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Saisonnier",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.45660216650914",
+		"LATITUDE" : "45.72682371297327",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45660216650914, 45.72682371297327 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "6",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Thifault",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Saisonnier",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.45104560334349",
+		"LATITUDE" : "45.73989789806509",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45104560334349, 45.73989789806509 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "7",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Laforest",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.47243434055666",
+		"LATITUDE" : "45.72284942863645",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47243434055666, 45.72284942863645 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "8",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Laverdière",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.47816631376551",
+		"LATITUDE" : "45.7554404676845",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47816631376551, 45.7554404676845 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "9",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Maurice-Richard",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.41002308059863",
+		"LATITUDE" : "45.789175821630316",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.41002308059863, 45.789175821630316 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "10",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc régional de l'Île-Lebel",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.44496186596476",
+		"LATITUDE" : "45.7359655061914",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.44496186596476, 45.7359655061914 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "11",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Rivest",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.43722978937345",
+		"LATITUDE" : "45.757900662555656",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.43722978937345, 45.757900662555656 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "12",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Centre aquatique Jacques-Dupuis",
+		"TYPELIEU" : "Piscine",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.43558482208505",
+		"LATITUDE" : "45.764650531355585",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.43558482208505, 45.764650531355585 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "13",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Centre communautaire Laurent-Venne",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.47712126456192",
+		"LATITUDE" : "45.7625243237694",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47712126456192, 45.7625243237694 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "14",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Centre d'art Diane-Dufresne",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.44903660642952",
+		"LATITUDE" : "45.73877605927876",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.44903660642952, 45.73877605927876 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "15",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Centre récréatif",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.45250551829284",
+		"LATITUDE" : "45.756705165238614",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45250551829284, 45.756705165238614 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "16",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Complexe sportif Gilles-Tremblay",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.41222548153131",
+		"LATITUDE" : "45.789893853132206",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.41222548153131, 45.789893853132206 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "17",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Hôtel de ville",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.45132123721288",
+		"LATITUDE" : "45.74195209182337",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45132123721288, 45.74195209182337 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "18",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Bibliothèque Edmond-Archambault",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.47711600112862",
+		"LATITUDE" : "45.762864640634874",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47711600112862, 45.762864640634874 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "19",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Bibliothèque Robert-Lussier",
+		"TYPELIEU" : "Bâtiment municipal",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20170829",
+		"LONGITUDE" : "-73.45206530218456",
+		"LATITUDE" : "45.74111058118863",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45206530218456, 45.74111058118863 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "401",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Rochefort",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20180509",
+		"LONGITUDE" : "-73.40491084967289",
+		"LATITUDE" : "45.77871699988849",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.40491084967289, 45.77871699988849 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "402",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Marie-Soleil-Tougas",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20180509",
+		"LONGITUDE" : "-73.4711663674392",
+		"LATITUDE" : "45.769476729579914",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.4711663674392, 45.769476729579914 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "403",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc Frédéric-Coiteux",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20200128",
+		"LONGITUDE" : "-73.43766381421626",
+		"LATITUDE" : "45.77865627983897",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.43766381421626, 45.77865627983897 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "404",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc du Moulin",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20200128",
+		"LONGITUDE" : "-73.41815673464176",
+		"LATITUDE" : "45.77460162175881",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.41815673464176, 45.77460162175881 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "405",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc de la Seigneurie",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20200128",
+		"LONGITUDE" : "-73.46088247286345",
+		"LATITUDE" : "45.76756755129859",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.46088247286345, 45.76756755129859 ]
+		}
+	},
+	{
+		"json_featuretype" : "Zones wi-fi",
+		"ID" : "406",
+		"MUNICIPALITE" : "60013",
+		"NOM_LIEU" : "Parc des Artisans",
+		"TYPELIEU" : "Parc",
+		"PERIODICITE" : "Toute l'année",
+		"MISEAJOUR" : "20200128",
+		"LONGITUDE" : "-73.46621830184581",
+		"LATITUDE" : "45.76188700619551",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.46621830184581, 45.76188700619551 ]
+		}
+	}
+]

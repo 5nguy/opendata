@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>securite_publique</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Stations_de_police_et_casernes_de_pompiers">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Stations de police et casernes de pompiers" id="kml_schema_ft_Stations_de_police_et_casernes_de_pompiers">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOTES">
+<displayName>NOTES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Stations_de_police_et_casernes_de_pompiers">
+<name>Stations de police et casernes de pompiers</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Police (quartier général)</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1 Montée des Arsenaux, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Police/Contactez-nous.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>24 heures / 24, 7 jours / 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Le quartier général de la police et la cour municipale partagent la même adresse. La gestion et le paiement de la perception des amendes, dont les constats d’infraction, relèvent de la cour municipale.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Police (quartier général)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3600</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>police@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47755679272512</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74666394608386</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Stations_de_police_et_casernes_de_pompiers</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Stations_de_police_et_casernes_de_pompiers">
+<SimpleData name="NOM">Police (quartier général)</SimpleData>
+<SimpleData name="ADRESSE">1 Montée des Arsenaux, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Police/Contactez-nous.html</SimpleData>
+<SimpleData name="HORAIRE">24 heures / 24, 7 jours / 7</SimpleData>
+<SimpleData name="NOTES">Le quartier général de la police et la cour municipale partagent la même adresse. La gestion et le paiement de la perception des amendes, dont les constats d’infraction, relèvent de la cour municipale.</SimpleData>
+<SimpleData name="CONTACT">Police (quartier général)</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3600</SimpleData>
+<SimpleData name="EMAIL">police@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.47755679272512</SimpleData>
+<SimpleData name="LATITUDE">45.74666394608386</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4775567927251,45.7466639460839,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Caserne 30</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>338 Rue Saint-Paul, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>24 heures / 24, 7 jours / 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Poste d’incendie principal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3620</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>incendie@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48339654455445</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75836247326902</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Stations_de_police_et_casernes_de_pompiers</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Stations_de_police_et_casernes_de_pompiers">
+<SimpleData name="NOM">Caserne 30</SimpleData>
+<SimpleData name="ADRESSE">338 Rue Saint-Paul, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx</SimpleData>
+<SimpleData name="HORAIRE">24 heures / 24, 7 jours / 7</SimpleData>
+<SimpleData name="NOTES">Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.</SimpleData>
+<SimpleData name="CONTACT">Poste d’incendie principal</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3620</SimpleData>
+<SimpleData name="EMAIL">incendie@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.48339654455445</SimpleData>
+<SimpleData name="LATITUDE">45.75836247326902</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4833965445545,45.758362473269,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Caserne 50</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>270 Rue Valmont, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>24 heures / 24, 7 jours / 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Poste d’incendie principal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3620</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>incendie@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43748631927781</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.765666074301905</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Stations_de_police_et_casernes_de_pompiers</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Stations_de_police_et_casernes_de_pompiers">
+<SimpleData name="NOM">Caserne 50</SimpleData>
+<SimpleData name="ADRESSE">270 Rue Valmont, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx</SimpleData>
+<SimpleData name="HORAIRE">24 heures / 24, 7 jours / 7</SimpleData>
+<SimpleData name="NOTES">Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.</SimpleData>
+<SimpleData name="CONTACT">Poste d’incendie principal</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3620</SimpleData>
+<SimpleData name="EMAIL">incendie@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.43748631927781</SimpleData>
+<SimpleData name="LATITUDE">45.765666074301905</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4374863192778,45.7656660743019,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Caserne 70</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>520 Route 341, L'Épiphanie</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>24 heures / 24, 7 jours / 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Poste d’incendie principal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3620</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>incendie@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48793366017006</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.84263273907848</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Stations_de_police_et_casernes_de_pompiers</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Stations_de_police_et_casernes_de_pompiers">
+<SimpleData name="NOM">Caserne 70</SimpleData>
+<SimpleData name="ADRESSE">520 Route 341, L'Épiphanie</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Incendies/La-flotte.aspx</SimpleData>
+<SimpleData name="HORAIRE">24 heures / 24, 7 jours / 7</SimpleData>
+<SimpleData name="NOTES">Pour en apprendre davantage sur les programmes de prévention et les mesures de situation d'urgence, consultez la section INCENDIES du site web de la Ville de Repentigny en cliquant sur le lien ci-dessous.</SimpleData>
+<SimpleData name="CONTACT">Poste d’incendie principal</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3620</SimpleData>
+<SimpleData name="EMAIL">incendie@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.48793366017006</SimpleData>
+<SimpleData name="LATITUDE">45.84263273907848</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4879336601701,45.8426327390785,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

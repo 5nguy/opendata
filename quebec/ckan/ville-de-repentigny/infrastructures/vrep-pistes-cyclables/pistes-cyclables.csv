@@ -1,0 +1,783 @@
+ï»¿IdRte,NOM,TYPE,TYPEREVETEMENT,INTERSECTION,ROUTEVERTE,MISEAJOUR,STATUT,LONGUEUR
+14,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,37.5
+15,Archambault,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,20.41
+17,De la Presqu'Ã®le,Site propre,PavÃ©,Oui,Non,2019-01-16,Actif,11.18
+18,De Lyon,Site propre,PavÃ©,Oui,Non,2019-01-16,Actif,13.41
+21,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,13.6
+22,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Oui,Oui,2019-01-16,Actif,18.33
+23,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Non,Oui,2019-01-16,Actif,18.24
+24,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Oui,Oui,2019-01-16,Actif,12.02
+25,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Oui,Oui,2019-01-16,Actif,14.39
+26,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Non,Oui,2019-01-16,Actif,23.35
+27,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Non,Oui,2019-01-16,Actif,141.36
+28,Ricard,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,19.85
+29,Ricard,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,58.3
+30,Ricard,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,21.33
+31,Ricard,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,56
+32,Ricard,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,22.3
+33,Ricard,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,338.99
+34,Ricard,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,21.94
+35,Florence,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,86.51
+36,BeauprÃ©,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,34.89
+37,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,16.92
+38,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,8.81
+39,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,12.97
+40,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,13.23
+41,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,31.37
+42,Benjamin-Moreau,Voie cyclable,Asphalte,Non,Oui,2019-01-16,Actif,31.72
+43,Rivest,Voie cyclable,Asphalte,Non,Oui,2019-01-16,Actif,198.48
+44,Saint-Paul,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,11.49
+45,Saint-Paul,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,19.93
+46,Bourque,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,16.11
+47,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,11.5
+48,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,6.41
+49,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,7.58
+50,De la Paix,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,30.37
+51,De la Paix,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,53.65
+52,De la Paix,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.53
+53,De la Paix,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,233.15
+54,De la Paix,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,21.88
+55,Parc Marie-Soleil-Tougas,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,5.46
+56,De la Paix,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,39.53
+57,De la Paix,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,8.36
+58,De la Paix,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,51.46
+59,De la Paix,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,28.68
+80,Voie ferrÃ©e,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.91
+81,Voie ferrÃ©e,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,21.54
+82,Lefebvre,Site propre,Asphalte,Non,Non,2019-01-16,Actif,29.21
+83,Lefebvre,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.75
+84,Rivest,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,18
+85,Rivest,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,126.04
+86,Rivest,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.15
+87,Rivest,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,198.37
+113,Lemire,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,233.75
+114,Lemire,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.79
+115,Lemieux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,64.96
+116,Lemieux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.96
+117,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,258
+118,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,25.08
+119,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,55.39
+120,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.47
+121,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,5.77
+122,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,7.43
+123,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,38.01
+124,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,12.43
+125,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,78.37
+126,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,8.24
+127,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,127.59
+128,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,28.86
+129,Champigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,239.74
+130,Champigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.44
+131,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,48.56
+132,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.05
+133,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,17.98
+134,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,161.01
+135,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.28
+136,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,65.15
+137,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,32.03
+138,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,67.25
+139,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.26
+140,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,175.51
+141,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,19.5
+142,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,57.22
+143,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.31
+144,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,146.79
+145,Fiset,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.96
+146,Fiset,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,55.65
+147,Fiset,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,19.54
+148,Fiset,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,52.55
+149,GÃ©linas,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.17
+151,Devault,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,343.42
+153,SauvÃ©,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.56
+155,Gamelin,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,53.51
+156,Gamelin,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,21.45
+157,Gamelin,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,180.17
+158,Gamelin,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.35
+159,Gamelin,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,203.11
+160,Gamelin,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.26
+165,Lavigne,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,13.52
+166,Lavigne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,64.43
+167,Lavigne,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16
+168,Lavigne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,281.33
+169,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,37.86
+170,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.14
+171,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,47.24
+172,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,10.94
+173,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,97.99
+174,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,9.39
+175,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.05
+176,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,31.57
+177,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,22.22
+178,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,11.49
+179,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,74.14
+180,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,19.81
+181,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,59.75
+182,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,11.4
+183,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,44.88
+184,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.3
+185,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,52.93
+186,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.65
+187,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,206.13
+195,Providence,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,1064.01
+196,PrÃ©fontaine,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,21.72
+197,PrÃ©fontaine,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,161.73
+198,Pontbriand,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,71.66
+199,Pontbriand,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,10.06
+200,Pontbriand,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,95.41
+201,Pontbriand,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,9.65
+202,Pontbriand,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,128.17
+206,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,108.12
+216,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,26.61
+217,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,242.83
+218,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,26.02
+223,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,145.89
+224,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,26.29
+225,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,205.33
+226,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,10.64
+227,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,15.22
+228,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,25.76
+229,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,47.03
+230,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,13.28
+231,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,43.68
+232,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,26.93
+233,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,159.46
+234,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,28.23
+235,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,621.52
+237,Valmont,Site propre,Asphalte,Non,Non,2023-02-14,Actif,100.53
+240,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,26.75
+241,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,214.69
+242,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.2
+243,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,131.48
+244,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.65
+245,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,416.75
+246,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,20.61
+247,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-17,Actif,168.28
+248,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,21.77
+249,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-17,Actif,55.7
+250,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,20.74
+251,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-17,Actif,133.33
+252,Noiseux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,17.94
+253,Noiseux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,57.8
+254,Noiseux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.34
+255,Noiseux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,53.98
+256,Noiseux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,23.34
+257,Noiseux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,224.03
+258,Noiseux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,24.9
+259,Noiseux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,347.5
+260,Noiseux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,28.9
+261,Noiseux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,243.08
+262,Des Noyers,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,17.14
+264,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,284.65
+265,Martigny,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,19.29
+266,Martigny,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,200.75
+267,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.05
+268,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,511.96
+269,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.1
+270,Paradis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,56.79
+273,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,13.72
+274,Valmont,Site propre,Asphalte,Oui,Non,2023-02-14,Actif,11.28
+275,Valmont,Site propre,Asphalte,Non,Non,2023-02-14,Actif,78.05
+276,Valmont,Site propre,Asphalte,Oui,Non,2023-02-14,Actif,7.04
+277,Valmont,Site propre,Asphalte,Non,Non,2023-02-14,Actif,80.49
+278,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.01
+279,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,26.35
+280,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,61.55
+283,Avenue des RiviÃ¨res,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.44
+289,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,10.15
+290,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,22.67
+295,Pontbriand,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.55
+296,Paradis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,17.98
+297,Lalonde,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,136.48
+298,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,14.46
+300,Notre-Dame,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,2719.98
+301,Notre-Dame,Bande cyclable (marquage),Asphalte,Oui,Oui,2019-01-16,Actif,21.81
+302,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,10.54
+303,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,10.65
+304,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,12.94
+305,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,12.73
+306,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,12.39
+307,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,14.39
+308,Saint-Paul,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.53
+309,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,207.8
+310,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,129.34
+311,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,1099.49
+312,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,132.45
+313,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,105.78
+314,De la Presqu'Ã®le,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.21
+315,De la Presqu'Ã®le,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.59
+316,De la Presqu'Ã®le,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,21.52
+317,De la Presqu'Ã®le,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.85
+318,Benjamin-Moreau,Voie cyclable,Asphalte,Oui,Oui,2019-01-16,Actif,9.7
+319,Lefebvre,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,7.5
+320,Voie ferrÃ©e,Site propre,Asphalte,Non,Non,2019-01-16,Actif,18.33
+322,De la Paix,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,21.89
+325,Benjamin-Moreau,Voie cyclable,Asphalte,Oui,Oui,2019-01-16,Actif,27.33
+326,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,8.49
+333,De la Presqu'Ã®le,Site propre,PavÃ©,Oui,Non,2019-01-16,Actif,19.29
+334,Ricard,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,80.11
+335,Sainte-Marie,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,78.04
+336,Sainte-Marie,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,12.35
+337,Sainte-ThÃ©rÃ¨se,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,15.38
+338,Sainte-Marie,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,70.97
+341,Du SacrÃ©-Coeur,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,15.62
+342,Du SacrÃ©-Coeur,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,5.96
+343,Du SacrÃ©-Coeur,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,7.32
+345,Saint-Jacques,Voie cyclable,PavÃ©,Oui,Non,2019-01-16,Actif,14.64
+356,Voie ferrÃ©e,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,11.65
+357,Du SacrÃ©-Coeur,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,153.67
+358,Du SacrÃ©-Coeur,Voie cyclable,PavÃ©,Oui,Oui,2019-01-16,Actif,9.76
+359,Du SacrÃ©-Coeur,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,35.57
+360,Saint-Paul,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,184.07
+361,Boulevard CÃ©line-Dion,Site propre,PavÃ©,Oui,Oui,2019-01-16,Actif,11.29
+362,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,13.33
+363,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,8.99
+368,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,59.46
+369,SauvÃ©,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,217.23
+370,Lemieux,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,59.76
+371,Paradis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,13.4
+372,PrÃ©fontaine,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,214.28
+374,Fiset,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,60.65
+375,Des Noyers,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,58.91
+376,De Niagara,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,70.13
+377,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.12
+379,Ricard,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,30.89
+380,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,6.41
+381,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,2.97
+382,PrÃ©fontaine,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.85
+384,Valmont,Site propre,Asphalte,Oui,Non,2023-02-14,Actif,12.57
+385,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.2
+388,Noiseux,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,2.42
+389,Boulevard Brien,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.11
+390,Boulevard Brien,Voie cyclable,Asphalte,Non,Non,2021-04-09,ProjetÃ©,167.83
+391,De la Paix,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,3.39
+409,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,27.3
+410,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,52.82
+411,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.12
+412,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,50.61
+413,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,17.76
+414,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,41.58
+415,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,87.59
+416,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,21.15
+417,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,50.99
+418,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.43
+419,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,60.82
+420,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.49
+431,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.7
+447,Boulevard de La Rochelle,Voie cyclable,Asphalte,Oui,Non,2024-03-22,ProjetÃ©,25.12
+483,De la Presqu'Ã®le,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,38.64
+484,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,420.52
+485,De la Presqu'Ã®le,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,21.8
+503,Masson,Site propre,Asphalte,Oui,Non,2023-02-14,Actif,16.63
+504,Masson,Site propre,Asphalte,Non,Non,2023-02-14,Actif,14.73
+552,Rivest,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,10.96
+553,Rivest,Voie cyclable,Asphalte,Oui,Oui,2019-01-16,Actif,21.89
+554,Notre-Dame,Bande cyclable (marquage),Asphalte,Non,Oui,2019-01-16,Actif,29.85
+556,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,398.9
+557,Boulevard CÃ©line-Dion,Site propre,PavÃ©,Non,Oui,2019-01-16,Actif,118.32
+559,De la Presqu'Ã®le,Site propre,PavÃ©,Non,Non,2019-01-16,Actif,236.51
+560,De la Presqu'Ã®le,Site propre,PavÃ©,Non,Non,2019-01-16,Actif,264.38
+561,De Lyon,Site propre,PavÃ©,Non,Non,2019-01-16,Actif,217.1
+565,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,12.19
+566,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,148.82
+567,Boulevard Pierre-Le Gardeur,Voie cyclable,Asphalte,Non,Oui,2019-01-16,Actif,84.9
+568,Parc Jacques-Laurin,Voie cyclable,PavÃ©,Non,Oui,2024-03-22,Actif,228.13
+569,Sainte-Marie,Site propre,PavÃ©,Non,Oui,2019-01-16,Actif,48.67
+572,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,173.4
+573,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,190.46
+574,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,31.75
+575,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,76.7
+576,Parc LaverdiÃ¨re,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,530.17
+577,Saint-Paul,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,168.84
+578,Saint-Paul,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,305.38
+579,Saint-Paul,Site propre,Asphalte,Non,Non,2019-01-16,Actif,130.73
+580,Saint-Paul,Site propre,Asphalte,Non,Non,2019-01-16,Actif,661.35
+581,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,259.45
+582,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,55.28
+583,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,51.02
+584,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,611.58
+585,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,555.71
+586,De la Paix,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,51.67
+587,Parc Marie-Soleil-Tougas,Site propre,Asphalte,Non,Non,2019-01-16,Actif,46.59
+588,Parc Marie-Soleil-Tougas,Site propre,Asphalte,Non,Non,2019-01-16,Actif,32.99
+591,Voie ferrÃ©e,Site propre,Asphalte,Non,Non,2019-01-16,Actif,1054.27
+592,Voie ferrÃ©e,Site propre,Asphalte,Non,Non,2019-01-16,Actif,807.62
+593,Voie ferrÃ©e,Site propre,Asphalte,Non,Non,2019-01-16,Actif,386.19
+594,Lefebvre,Site propre,Asphalte,Non,Non,2019-01-16,Actif,39.61
+599,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,42.62
+600,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,314.32
+601,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,507.56
+602,Athanas-Cusson,Site propre,Asphalte,Non,Non,2019-01-16,Actif,287.31
+614,Jordan,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,229.93
+615,Jacob,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,94.36
+616,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,258.43
+617,Boulevard le Bourg-Neuf,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,6.16
+618,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,207.79
+619,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,69.28
+620,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,59.16
+621,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,9.03
+622,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,55.53
+623,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,240.74
+624,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,128.5
+625,Saint-Paul,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,90.25
+626,De la Paix,Site propre,Asphalte,Non,Non,2019-01-16,Actif,195.3
+627,De la Paix,Site propre,Asphalte,Non,Non,2019-01-16,Actif,30.79
+628,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,47.14
+630,Voie ferrÃ©e,Site propre,PavÃ©,Non,Oui,2019-01-16,Actif,138.25
+634,Boulevard CÃ©line-Dion,Site propre,PavÃ©,Non,Oui,2019-01-16,Actif,70.63
+636,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Non,2019-01-16,Actif,94.86
+637,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,65.91
+638,Lefebvre,Site propre,Asphalte,Non,Non,2019-01-16,Actif,170.43
+639,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,96.42
+640,De la Presqu'Ã®le,Site propre,PavÃ©,Non,Non,2019-01-16,Actif,36.34
+641,Saint-Paul,Site propre,PavÃ©,Non,Oui,2019-01-16,Actif,42.67
+642,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,73.47
+644,Boulevard de l'Assomption,Site propre,Asphalte,Non,Non,2019-01-16,Actif,109.48
+645,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,7.83
+646,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,21.02
+648,Boulevard Brien,Voie cyclable,Asphalte,Non,Non,2021-04-09,ProjetÃ©,39.41
+652,Boulevard Louis-Philippe-Picard,Site propre,Asphalte,Non,Non,2019-01-16,Actif,921.93
+658,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,90.21
+659,Boulevard de La Rochelle,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,67.59
+668,Notre-Dame,Bande cyclable (marquage),Asphalte,Non,Oui,2019-01-16,Actif,497.27
+670,De Lyon,Site propre,PavÃ©,Non,Non,2019-01-16,Actif,41.11
+683,Boulevard Louis-Philippe-Picard,Site propre,Asphalte,Non,Non,2019-01-16,Actif,121.26
+684,Boulevard Louis-Philippe-Picard,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,20.29
+685,Jacques-Plante,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,20.98
+787,Boulevard Industriel,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,25.91
+788,Boulevard Industriel,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,93.71
+789,Boulevard Industriel,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.72
+649,Boulevard Brien,Site propre,Asphalte,Non,Non,2019-01-16,Actif,115.68
+16,De la Presqu'Ã®le,Voie cyclable,PavÃ©,Non,Non,2019-01-16,Actif,109.35
+481,Des Sapins,Voie cyclable,IndÃ©terminÃ©,Oui,Non,2019-01-16,Actif,13.17
+669,De la Presqu'Ã®le,Voie cyclable,IndÃ©terminÃ©,Non,Non,2019-01-16,Actif,105.53
+428,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,1110.18
+950,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,113.4
+969,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,16.93
+971,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,10.95
+972,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,75.55
+973,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,16.09
+975,Parc Catherine-Bousquet,Site propre,Asphalte,Non,Non,2019-01-16,Actif,29.55
+976,Parc Catherine-Bousquet,Site propre,Asphalte,Non,Non,2019-01-16,Actif,20.7
+974,Parc Catherine-Bousquet,Site propre,Asphalte,Non,Non,2019-01-16,Actif,230.43
+530,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,75.27
+537,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,18.41
+540,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,343.6
+505,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,21.68
+517,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,13.73
+518,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,210.36
+523,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,24.03
+551,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,110.59
+549,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,20.31
+984,Boulevard Lacombe,Site propre,Criblure de pierre,Non,Non,2019-01-16,Actif,40.84
+985,Notre-Dame,Voie cyclable,PavÃ©,Non,Oui,2019-01-16,Actif,2726.48
+466,MontÃ©e des Arsenaux,Site propre,Asphalte,Non,Non,2019-01-16,Actif,61.43
+467,MontÃ©e des Arsenaux,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,14.74
+468,MontÃ©e des Arsenaux,Site propre,Asphalte,Non,Non,2019-01-16,Actif,61.6
+469,MontÃ©e des Arsenaux,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,13.55
+470,MontÃ©e des Arsenaux,Site propre,Asphalte,Non,Non,2019-01-16,Actif,31.88
+482,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,749.46
+1004,De la Presqu'Ã®le,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,709.64
+1026,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,43.47
+1030,Churchill,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,4.08
+1031,Churchill,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,104.6
+1032,Churchill,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.31
+263,ChÃ©nier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,136.67
+1040,ChÃ©nier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.31
+1041,Philippe-Goulet,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,23.29
+399,Philippe-Goulet,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,45.36
+398,Philippe-Goulet,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,33.49
+397,Philippe-Goulet,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,362.08
+1043,Philippe-Goulet,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,28.87
+1044,Philippe-Goulet,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,51.55
+1045,Philippe-Goulet,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,25.11
+1046,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,35.53
+1048,Marquis,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,19.24
+1049,Marquis,Site propre,Asphalte,Non,Non,2019-01-16,Actif,59.45
+1050,Marquis,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.91
+1051,Marquis,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,19.97
+999,Marquis,Site propre,Asphalte,Non,Non,2019-01-16,Actif,88.48
+1053,Marquis,Site propre,Asphalte,Non,Non,2019-01-16,Actif,37.73
+1054,Marquis,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.94
+1047,Marquis,Site propre,Asphalte,Non,Non,2019-01-16,Actif,49.71
+1055,Marquis,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,31.05
+1056,Marquis,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,10.65
+10,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,123.43
+961,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,26.63
+959,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,64.35
+960,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.77
+955,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,204.26
+958,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.85
+957,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,114.92
+956,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,19.35
+1042,Philippe-Goulet,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,150.83
+4,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,480.35
+692,Jacques-Cousteau,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,317.95
+803,Jacques-Cousteau,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.96
+1038,Des ChÃªnes,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.16
+1039,Champagne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,67.04
+97,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,15.91
+96,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,75.87
+95,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,13.99
+94,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,114.36
+93,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,13.26
+92,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,53.9
+91,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.05
+90,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,1.95
+89,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.6
+88,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,63.22
+1070,Boulevard Louis-Philippe-Picard,Site propre,Asphalte,Non,Non,2019-01-16,Actif,37.79
+465,MontÃ©e des Arsenaux,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,15.01
+464,MontÃ©e des Arsenaux,Site propre,Asphalte,Non,Non,2019-01-16,Actif,24.91
+656,Robert-Choquette,Site propre,Asphalte,Non,Non,2019-01-16,Actif,383.22
+655,Athanas-Cusson,Site propre,Asphalte,Non,Non,2019-01-16,Actif,178.17
+400,Athanas-Cusson,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,32.98
+1080,Valmont,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.96
+1093,Boulevard Iberville,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.95
+1096,Boulevard Iberville,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,14.26
+1082,Boulevard Iberville,Site propre,Asphalte,Non,Non,2019-01-16,Actif,235.04
+1095,Boulevard Iberville,Site propre,Asphalte,Non,Non,2019-01-16,Actif,186.86
+512,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,75
+1092,Montcalm,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,22.46
+1083,Montcalm,Site propre,Asphalte,Non,Non,2019-01-16,Actif,107.02
+1091,Ritchot,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.19
+1098,Ritchot,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,63.96
+1099,Ritchot,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.12
+1084,Du Chenal,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,1045.37
+1103,RÃ©mi,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,81.12
+1110,Vincent,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,141.07
+1104,Champlain,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,236.59
+1115,Sarto,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,18.03
+1108,Christian,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,34.59
+1109,Des Trois-Maisons,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,46.63
+1117,Christian,Voie partagÃ©e,Asphalte,Oui,Non,2019-01-16,Actif,16.89
+1119,Saint-Laurent,Voie partagÃ©e,Asphalte,Oui,Non,2019-01-16,Actif,11.45
+1111,Saint-Laurent,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,205.94
+1121,Saint-Laurent,Voie partagÃ©e,Asphalte,Oui,Non,2019-01-16,Actif,15.04
+1120,Saint-Laurent,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,60.13
+1122,Saint-Laurent,Voie partagÃ©e,Asphalte,Oui,Non,2019-01-16,Actif,15.28
+1106,Lapierre,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,148.74
+1125,Daigle,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,100.59
+562,De Lyon,Site propre,Asphalte,Non,Non,2019-01-16,Actif,217.93
+19,De Lyon,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,31.44
+1003,Jacques-Plante,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,339.44
+299,Notre-Dame,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,61.31
+407,Notre-Dame,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,52.29
+1148,Notre-Dame,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,64.68
+990,Notre-Dame,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,101.16
+992,Notre-Dame,Bande cyclable (marquage),Asphalte,Non,Oui,2019-01-16,Actif,539.79
+204,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,20.34
+1149,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,21.11
+1062,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,135.4
+1150,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,25
+1151,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,23.77
+1097,Ritchot,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,314.02
+1107,Sarto,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,51.2
+1116,Christian,Voie partagÃ©e,Asphalte,Oui,Non,2019-01-16,Actif,29.21
+1114,Cherrier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,113.16
+1123,Cherrier,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.58
+387,Masson,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,18.24
+598,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,301.84
+271,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.75
+239,Beauchesne,Site propre,Asphalte,Non,Non,2019-01-16,Actif,82.8
+673,Beauchesne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,87.26
+595,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,65.17
+205,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,26.62
+506,Masson,Site propre,Asphalte,Oui,Non,2023-02-14,Actif,21.35
+742,Hors route,Site propre,Asphalte,Non,Non,2019-01-16,Actif,106.32
+676,De la PÃ©ribonka,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,116.58
+743,Boulevard de l'Assomption,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.4
+679,Boulevard Louis-Philippe-Picard,Site propre,Asphalte,Non,Non,2019-01-16,Actif,360.54
+1078,Valmont,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,20.1
+1079,Valmont,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,71.52
+963,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,82.36
+970,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,70.41
+968,Valmont,Site propre,Asphalte,Non,Non,2019-01-16,Actif,230.57
+462,MontÃ©e des Arsenaux,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,24.64
+463,MontÃ©e des Arsenaux,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,26.36
+471,MontÃ©e des Arsenaux,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,31.9
+1057,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.16
+1059,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.79
+1069,Stationnement AMT,Site propre,Asphalte,Non,Non,2019-01-16,Actif,325.93
+1155,Lacombe,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11
+20,De Lyon,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.43
+563,De Lyon,Site propre,Asphalte,Non,Non,2019-01-16,Actif,110.54
+332,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,7.14
+629,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,6.5
+571,Boulevard Pierre-Le Gardeur,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,1483.09
+564,De Lyon,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,100.64
+98,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,307.93
+671,Notre-Dame,Site propre,PavÃ©,Non,Oui,2019-01-16,Actif,325.3
+677,Parc Catherine-Bousquet,Site propre,Asphalte,Non,Non,2019-01-16,Actif,311.53
+800,Champagne,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,13.88
+798,Champagne,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,233.43
+1102,Claude,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,88.81
+1156,Claude,Voie partagÃ©e,Asphalte,Non,Non,2019-01-16,Actif,76.52
+1157,Pie-XII,Site propre,Criblure de pierre,Non,Non,2019-01-16,Actif,40.43
+1158,Pie-XII,Site propre,Criblure de pierre,Non,Non,2019-01-16,Actif,137.35
+730,Des ChÃªnes,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,236.66
+1037,Des ChÃªnes,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.15
+1029,Calixa-LavallÃ©e,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,86.13
+1034,Calixa-LavallÃ©e,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.37
+1033,Churchill,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,96.3
+731,Calixa-LavallÃ©e,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,65.35
+1159,Calixa-LavallÃ©e,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,28.1
+1126,Parc Saint-Laurent,Site propre,Asphalte,Non,Non,2019-01-16,Actif,235.54
+739,Parc de la Tourterelle,Site propre,Criblure de pierre,Non,Non,2019-01-16,Actif,465.44
+696,Boulevard Iberville,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,279.59
+710,Boulevard Iberville,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,23.18
+709,Boulevard Iberville,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,240.59
+704,Boulevard Iberville,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,25.39
+282,Avenue des RiviÃ¨res,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.58
+281,Avenue des RiviÃ¨res,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.41
+605,Avenue des RiviÃ¨res,Site propre,Asphalte,Non,Non,2019-01-16,Actif,96.5
+606,Avenue des RiviÃ¨res,Site propre,Asphalte,Non,Non,2019-01-16,Actif,154.55
+607,Avenue des RiviÃ¨res,Site propre,Asphalte,Non,Non,2019-01-16,Actif,403.02
+285,Avenue des RiviÃ¨res,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,4.71
+608,Avenue des RiviÃ¨res,Site propre,Asphalte,Non,Non,2019-01-16,Actif,2.94
+284,Avenue des RiviÃ¨res,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,4.79
+286,Boulevard Basile-Routhier,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.87
+1162,Avenue des RiviÃ¨res,Site propre,Asphalte,Non,Non,2019-01-16,Actif,4.15
+609,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,215.04
+653,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,118.16
+287,Boulevard Basile-Routhier,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.43
+610,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,146.56
+654,FÃ©lix-Leclerc,Site propre,Asphalte,Non,Non,2019-01-16,Actif,1345.57
+674,Hors route,Site propre,Asphalte,Non,Non,2019-01-16,Actif,907.69
+1063,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,297.67
+792,Boulevard Lacombe,Site propre,Criblure de pierre,Non,Non,2019-01-16,Actif,38.95
+220,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.62
+219,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,192.62
+294,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,52
+293,Boulevard Basile-Routhier,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,8.2
+292,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,15.37
+291,Boulevard Basile-Routhier,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,22.78
+221,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,90.95
+222,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,19.93
+1139,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,8.94
+1140,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,3.91
+1141,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,12.85
+635,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,111.72
+1143,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,23.95
+1142,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,174.08
+13,Boulevard Notre-Dame-des-Champs,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,50.65
+364,Notre-Dame,Site propre,Asphalte,Oui,Oui,2019-01-16,Actif,22.27
+1137,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,350.34
+657,Boulevard de La Rochelle,Site propre,Asphalte,Non,Non,2023-02-03,Actif,297.39
+1240,Parc Catherine-Bousquet,Site propre,Asphalte,,Non,2019-01-16,Actif,154.45
+1241,Parc Catherine-Bousquet,Site propre,Asphalte,,Non,2019-01-16,Actif,94.96
+962,Maria-Callas,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,46.73
+1144,Jacques-Cousteau,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,8.13
+1145,Jacques-Plante,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,11.48
+161,Gamelin,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,74.54
+162,Gaston,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,107.37
+1211,Boulevard de La Rochelle,Voie cyclable,PavÃ©,,Non,2019-01-16,Actif,9.69
+1226,MontÃ©e des Pionniers,Voie cyclable,IndÃ©terminÃ©,Oui,Non,2019-01-16,Actif,190.63
+1227,Boulevard Brien,Site propre,Asphalte,Non,Non,2023-11-24,Actif,79.21
+1228,Boulevard Brien,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.9
+1177,Boulevard Brien,Site propre,Asphalte,Non,Non,2020-07-23,Actif,328.37
+1229,Boulevard Brien,Site propre,Asphalte,Oui,Non,2020-07-23,Actif,13.88
+1130,AllÃ©e des Artistes,Site propre,Asphalte,Non,Non,2019-01-16,Actif,144
+1160,Parc des PremiÃ¨res-Nations,Site propre,Asphalte,Non,Non,2019-01-16,Actif,212.16
+1100,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,111.34
+1101,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,11.84
+1086,Ritchot,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.04
+1152,Ritchot,Site propre,Asphalte,Non,Non,2019-01-16,Actif,113.36
+555,Notre-Dame,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,1319.4
+643,Notre-Dame,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,17.05
+12,Notre-Dame,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,149.98
+1244,Notre-Dame,Site propre,Asphalte,Non,Non,2020-11-27,Actif,303
+1249,Notre-Dame,Site propre,Asphalte,Non,Non,2020-11-27,Actif,231.69
+1250,Notre-Dame,Site propre,Asphalte,Oui,Non,2020-11-27,Actif,15.09
+1242,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,400.81
+1252,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,17.34
+1251,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,237.34
+882,Boulevard Iberville,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,15.98
+703,Boulevard Iberville,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,474.77
+884,Boulevard Iberville,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,25.8
+883,Boulevard Iberville,Voie cyclable,Asphalte,Non,Non,2019-01-17,Actif,194.22
+886,Boulevard Iberville,Site propre,Asphalte,Oui,Non,2023-01-19,Actif,24.81
+888,Boulevard Iberville,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,17.88
+887,Boulevard Iberville,Site propre,Asphalte,Non,Non,2023-01-19,Actif,492.72
+1282,Ãle-Lebel,Site propre,PavÃ©,Non,Non,2019-09-26,Actif,18.02
+1283,Ãle-Lebel,Site propre,Asphalte,Non,Non,2019-09-26,Actif,48.38
+694,Gazoduc,Site propre,Asphalte,Non,Non,2019-01-16,Actif,757.28
+1236,Gazoduc,Site propre,Asphalte,Non,Non,2019-01-16,Actif,71.88
+1237,des Champs-ÃlysÃ©es,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,8.91
+1238,Boulevard Basile-Routhier,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,20.12
+1239,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,3.85
+154,De l'Ãglise,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,312.6
+1138,Notre-Dame,Site propre,Asphalte,Non,Non,2019-01-16,Actif,90.25
+1262,Boulevard Brien,Voie cyclable,Asphalte,Non,Non,2021-04-09,ProjetÃ©,51.68
+1264,Boulevard Industriel,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,132.73
+1284,Ãle-Lebel,Site propre,Criblure de pierre,Non,Non,2019-09-26,Actif,74.12
+1270,Ãle-Lebel,Site propre,Criblure de pierre,Non,Non,2019-01-16,Actif,26.53
+11,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,92.54
+1272,Boulevard le Bourg-Neuf,Site propre,Asphalte,Non,Oui,2019-01-16,Actif,25.75
+1074,Raymond-Gaudreault,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,18.26
+1072,Raymond-Gaudreault,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,237.29
+678,AimÃ©-Constantin,Site propre,Asphalte,Non,Non,2019-01-16,Actif,169.12
+1058,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,111.21
+111,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,20.8
+331,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,511.58
+110,Lacombe,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,61.31
+109,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,17.89
+108,Lacombe,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,99.39
+106,Lacombe,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,109.87
+107,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,16.28
+105,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,22.52
+104,Lacombe,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,78.77
+103,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,14.38
+102,Lacombe,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,31.78
+101,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,12.54
+100,Lacombe,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,116.34
+99,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,15.8
+1266,Lacombe,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,7.77
+1154,Lacombe,Site propre,Asphalte,Non,Non,2019-01-16,Actif,39.61
+611,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,280.1
+604,Boulevard Basile-Routhier,Site propre,Asphalte,Non,Non,2019-01-16,Actif,462.94
+288,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,11.9
+612,Des Monts-Valin,Site propre,Asphalte,Non,Non,2019-01-16,Actif,114.04
+378,Des Monts-Valin,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.27
+603,Des Monts-Valin,Site propre,Asphalte,Non,Non,2019-01-16,Actif,219.09
+383,Boulevard Basile-Routhier,Voie cyclable,Asphalte,Oui,Non,2019-01-16,Actif,26.56
+208,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Oui,Non,2019-01-16,Actif,21.03
+596,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,93.78
+215,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,185.09
+1173,Boulevard Industriel,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,18.47
+1172,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,67.01
+1170,Boulevard Industriel,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,10.35
+1169,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,24.27
+1168,Boulevard Industriel,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,10.13
+1167,Boulevard Industriel,Site propre,Asphalte,Non,Non,2019-01-16,Actif,42.14
+203,Boulevard Industriel,Bande cyclable (marquage),Asphalte,Non,Non,2019-01-16,Actif,154.2
+1075,Valmont,Voie cyclable,Asphalte,Non,Non,2019-01-16,Actif,121.53
+1247,Notre-Dame,Site propre,Asphalte,Oui,Non,2021-05-20,Actif,2.21
+1246,Notre-Dame,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,14.38
+994,Beauchesne,Voie cyclable,Asphalte,Oui,Non,2019-01-17,Actif,31.36
+1275,HÃ´tel-de-Ville,Site propre,Asphalte,Non,Non,2019-01-16,Actif,133.74
+1131,HÃ´tel-de-Ville,Site propre,Asphalte,Non,Non,2019-01-16,Actif,151.47
+1276,HÃ´tel-de-Ville,Site propre,Asphalte,Oui,Non,2019-01-16,Actif,9.47
+714,Boulevard Iberville,Voie cyclable,Asphalte,Oui,Non,2019-03-26,Actif,20.35
+366,Notre-Dame,Site propre,PavÃ©,Oui,Oui,2019-05-03,Actif,35.27
+632,Boulevard CÃ©line-Dion,Site propre,PavÃ©,Non,Oui,2019-05-03,Actif,301.92
+365,Boulevard CÃ©line-Dion,Site propre,PavÃ©,Oui,Oui,2019-05-03,Actif,20.94
+558,Boulevard CÃ©line-Dion,Site propre,PavÃ©,Non,Oui,2019-05-03,Actif,124.58
+1212,Sentier Transcanadien,Voie cyclable,IndÃ©terminÃ©,Oui,Non,2019-05-03,Actif,1403.84
+949,Sentier Transcanadien,Voie cyclable,IndÃ©terminÃ©,Oui,Non,2019-05-03,Actif,736.17
+1224,Sentier Transcanadien,Site propre,IndÃ©terminÃ©,Oui,Non,2019-05-03,Actif,865.24
+1219,Des Migrateurs,Site propre,IndÃ©terminÃ©,Oui,Non,2019-05-03,Actif,930.36
+1278,Trudeau,Site propre,PavÃ©,Non,Non,2019-05-03,Actif,189.54
+1279,Boulevard CÃ©line-Dion,Site propre,,Non,Non,2019-05-03,Actif,295.3
+1000,Parc Entramis,Voie cyclable,Asphalte,Non,Non,2019-06-25,Actif,127.98
+806,Boulevard de l'Assomption,Voie cyclable,Asphalte,Oui,Non,2019-06-25,Actif,10.51
+272,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-06-25,Actif,1439.52
+1280,Boulevard de l'Assomption,Voie cyclable,Asphalte,Non,Non,2019-06-25,Actif,935.6
+995,Beauchesne,Site propre,Asphalte,Non,Non,2020-03-26,Actif,95.99
+996,Beauchesne,Site propre,Asphalte,Oui,Non,2020-03-26,Actif,16.27
+993,Beauchesne,Site propre,Asphalte,Non,Non,2020-03-26,Actif,353.21
+998,Beauchesne,Site propre,Asphalte,Oui,Non,2020-03-26,Actif,18.78
+1248,Beauchesne,Site propre,Asphalte,Oui,Non,2020-03-26,Actif,5.77
+997,Beauchesne,Site propre,Asphalte,Non,Non,2020-03-26,Actif,89.83
+1028,Parc Entramis,Voie cyclable,Asphalte,Non,Non,2019-08-26,Actif,87.89
+1230,Boulevard Brien,Site propre,Asphalte,Non,Non,2020-07-23,Actif,7.22
+1281,,Site propre,Asphalte,Non,Non,2019-09-26,Actif,204.75
+1166,Monique,Voie partagÃ©e,Asphalte,Non,Non,2020-03-27,Actif,508.08
+1292,Monique,Site propre,Asphalte,Non,Non,2020-11-24,Actif,134.47
+1294,GÃ©linas,Voie cyclable,Asphalte,Oui,Non,2024-07-29,Actif,65.08
+152,Devault,Voie cyclable,Asphalte,Oui,Non,2020-06-09,Actif,14.84
+150,GÃ©linas,Voie cyclable,Asphalte,Non,Non,2020-06-09,Actif,355.38
+1296,Parc Maurice-Richard,Site propre,Asphalte,Non,Non,2020-07-23,Actif,224.44
+885,Boulevard Iberville,Voie cyclable,Asphalte,Non,Non,2021-03-22,Actif,173.28
+1313,Boulevard Iberville,Site propre,Asphalte,Non,Non,2023-01-19,Actif,138.37
+502,Masson,Site propre,Asphalte,Non,Non,2023-02-14,Actif,385.85
+1314,Rue Notre-Dame,Site propre,Asphalte,Non,Non,2024-03-19,Actif,562.72
+1330,Boulevard Lacombe,Site propre,Asphalte,Non,Non,2021-09-16,Actif,431.71
+1332,Boulevard Lacombe,Site propre,Asphalte,Oui,Non,2021-09-16,Actif,13.56
+1333,Boulevard Lacombe,Site propre,Asphalte,Non,Non,2021-09-16,Actif,48.87
+1331,Boulevard Lacombe,Site propre,Asphalte,Non,Non,2021-09-16,Actif,130.23
+1334,Boulevard Lacombe,Site propre,Asphalte,Oui,Non,2021-09-16,Actif,14.39
+1271,Valmont,Site propre,Asphalte,Non,Non,2021-09-16,Actif,240.43
+1352,Rue Valmont,Site propre,Asphalte,Oui,Non,2021-09-16,Actif,12.47
+1353,Rue Valmont,Site propre,Asphalte,Non,Non,2021-09-16,Actif,182.79
+1354,Rue Valmont,Site propre,Asphalte,Non,Non,2021-09-16,Actif,65.27
+1355,Rue Valmont,Site propre,Asphalte,Oui,Non,2021-09-16,Actif,15.68
+1356,Rue Valmont,Site propre,Asphalte,Non,Non,2021-09-16,Actif,69.85
+1357,Rue Valmont,Site propre,Asphalte,Non,Non,2021-09-16,Actif,220.13
+1175,Boulevard Brien,Site propre,Asphalte,Non,Non,2021-09-17,Actif,384.28
+1358,Boulevard Brien,Site propre,Asphalte,Oui,Non,2021-09-17,Actif,14.31
+1363,Boulevard Lacombe,Voie cyclable,Asphalte,Non,Non,2021-10-20,Actif,104.4
+1364,Boulevard Lacombe,Voie cyclable,Asphalte,Oui,Non,2021-10-20,Actif,14.12
+1365,Boulevard Lacombe,Voie cyclable,Asphalte,Oui,Non,2021-10-20,Actif,58.01
+1307,Boulevard Lacombe,Voie cyclable,Asphalte,Non,Non,2021-10-20,Actif,368.56
+1366,Boulevard Lacombe,Voie cyclable,Asphalte,Oui,Non,2021-10-20,Actif,16.6
+1369,Notre-Dame,Site propre,Asphalte,Non,Non,2021-09-17,Actif,77.05
+1370,Notre-Dame,Site propre,Asphalte,Oui,Non,2021-09-17,Actif,12.76
+1371,Notre-Dame,Site propre,Asphalte,Non,Non,2021-09-17,Actif,32.52
+1372,Notre-Dame,Site propre,Asphalte,Oui,Non,2021-09-17,Actif,11.54
+1373,Notre-Dame,Site propre,Asphalte,Non,Non,2021-09-17,Actif,53.84
+1374,Notre-Dame,Site propre,Asphalte,Oui,Non,2021-09-17,Actif,15.25
+1273,Notre-Dame,Site propre,Asphalte,Non,Non,2021-09-17,Actif,150.99
+1375,Notre-Dame,Site propre,Asphalte,Oui,Non,2021-09-17,Actif,15.69
+1298,Brien,Site propre,Asphalte,Non,Non,2021-09-17,Actif,139.53
+1376,Brien,Site propre,Asphalte,Oui,Non,2021-09-17,Actif,34.22
+1377,Jacques-Plante,Site propre,Asphalte,Non,Non,2021-09-21,Actif,171.64
+1380,Jacques-Plante,Voie cyclable,Asphalte,Oui,Non,2021-09-21,Actif,20.03
+1381,Jacques-Plante,Voie cyclable,Asphalte,Oui,Non,2021-09-21,Actif,16.33
+1378,Jacques-Plante,Site propre,Asphalte,Non,Non,2021-09-21,Actif,225.1
+1339,Rue Masson,Site propre,Asphalte,Oui,Non,2023-02-14,Actif,21.23
+1341,Rue Masson,Site propre,Asphalte,Oui,Non,2023-02-03,Actif,14.69
+1340,Rue Masson,Site propre,Asphalte,Non,Non,2022-12-12,Actif,69.73
+1343,Rue Masson,Site propre,Asphalte,Oui,Non,2023-02-03,Actif,13.74
+1342,Rue Masson,Site propre,Asphalte,Non,Non,2022-12-12,Actif,113.34
+495,Masson,Site propre,Asphalte,Oui,Non,2023-11-24,Actif,16.26
+1344,Rue Masson,Site propre,Asphalte,Non,Non,2022-12-12,Actif,158.12
+386,Valmont,Site propre,Asphalte,Oui,Non,2022-12-19,Actif,12.11
+236,Valmont,Site propre,Asphalte,Non,Non,2023-02-14,Actif,72.29
+597,Valmont,Site propre,Asphalte,Non,Non,2022-12-19,Actif,104.36
+1390,Rue Noiseux,Voie cyclable,Asphalte,Non,Non,2022-12-21,Actif,63.29
+1389,Rue Noiseux,Voie cyclable,Asphalte,Non,Non,2022-12-21,Actif,70.48
+1391,Rue Noiseux,Voie cyclable,Asphalte,Oui,Non,2022-12-21,Actif,15.8
+448,Boulevard de La Rochelle,Site propre,Asphalte,Oui,Non,2023-02-03,Actif,17.6
+1345,Boulevard Aubert,Site propre,Asphalte,Non,Non,2023-01-05,Actif,386.07
+1395,Boulevard Aubert,Site propre,Asphalte,Oui,Non,2023-01-05,Actif,3.71
+1396,Notre-Dame,Site propre,Asphalte,Oui,Non,2023-02-03,Actif,19.51
+1361,Notre-Dame,Site propre,Asphalte,Non,Non,2023-01-09,Actif,107.12
+1362,Notre-Dame,Site propre,Asphalte,Oui,Non,2023-01-09,Actif,15.86
+1299,Notre-Dame,Site propre,Asphalte,Non,Non,2023-01-09,Actif,303.08
+1360,Notre-Dame,Site propre,Asphalte,Oui,Non,2023-01-09,Actif,20.29
+1359,Notre-Dame,Site propre,Asphalte,Non,Non,2023-01-09,Actif,225.05
+1399,Notre-Dame,Site propre,Asphalte,Oui,Non,2023-01-09,Actif,16.05
+1397,Notre-Dame,Site propre,Asphalte,Non,Non,2023-02-03,Actif,170.48
+1398,Notre-Dame,Site propre,Asphalte,Oui,Non,2023-02-03,Actif,16.62
+1312,Notre-Dame,Site propre,Asphalte,Non,Non,2023-01-10,Actif,158.9
+1124,Notre-Dame,Site propre,Asphalte,Non,Non,2023-03-13,Actif,32.06
+1401,Notre-Dame,Site propre,Asphalte,Non,Non,2023-03-13,Actif,20.46
+1402,Saint_Paul,Bande cyclable (marquage),Asphalte,Non,Non,2023-10-17,Actif,827.33
+1404,Saint_Paul,Bande cyclable (marquage),Asphalte,Oui,Non,2023-10-23,Actif,30.36
+1274,Saint-Paul,Bande cyclable (marquage),Asphalte,Non,Non,2023-10-23,Actif,1866.08
+1297,Saint-Paul,Bande cyclable (marquage),Asphalte,Non,Non,2023-10-23,Actif,1833.38
+1405,Saint_Paul,Bande cyclable (marquage),Asphalte,Oui,Non,2023-10-23,Actif,36.77
+1403,Saint_Paul,Bande cyclable (marquage),Asphalte,Non,Non,2023-10-23,Actif,831.65
+486,Masson,Site propre,Asphalte,Non,Non,2023-11-24,Actif,63.57
+487,Masson,Site propre,Asphalte,Oui,Non,2023-11-24,Actif,15.61
+488,Masson,Site propre,Asphalte,Non,Non,2023-11-24,Actif,13.41
+489,Masson,Site propre,Asphalte,Oui,Non,2023-11-24,Actif,13.06
+490,Masson,Site propre,Asphalte,Non,Non,2023-11-24,Actif,225.25
+491,Masson,Site propre,Asphalte,Oui,Non,2023-11-24,Actif,13.7
+492,Masson,Site propre,Asphalte,Non,Non,2023-11-24,Actif,50.29
+493,Masson,Site propre,Asphalte,Oui,Non,2023-11-24,Actif,13.03
+494,Masson,Site propre,Asphalte,Non,Non,2023-11-24,Actif,64.04
+1392,Boulevard de La Rochelle,Site propre,Asphalte,Non,Non,2024-03-12,Actif,242.1
+1406,Notre-Dame,Site propre,Asphalte,Non,Non,2024-03-19,ProjetÃ©,441.22
+1407,LaverdiÃ¨re,Voie cyclable,Asphalte,,Non,2024-03-21,ProjetÃ©,326.38
+1408,Bourg-Neuf,Site propre,Asphalte,,Non,2024-03-21,ProjetÃ©,275.78
+1409,Notre-Dame,Site propre,Asphalte,,Non,2024-03-22,ProjetÃ©,314.6
+1411,Rue Gervais,Voie cyclable,Asphalte,,Non,2024-03-22,ProjetÃ©,536.61
+446,Boulevard de La Rochelle,Voie cyclable,Asphalte,Non,Non,2024-03-22,ProjetÃ©,127.46
+1412,Rue IrÃ©nÃ©e-Gauthier,Voie cyclable,Asphalte,Non,Non,2024-03-22,Actif,176.4
+1413,Rue IrÃ©nÃ©e-Gauthier,Voie cyclable,Asphalte,Oui,Non,2024-03-22,Actif,15.83
+1414,Rue IrÃ©nÃ©e-Gauthier,Voie cyclable,Asphalte,Non,Non,2024-03-22,Actif,335.97
+1415,Chemin des Quarante-Arpents,Site propre,Asphalte,Non,Non,2024-03-22,Actif,18.49
+1416,Chemin des Quarante-Arpents,Site propre,Asphalte,Oui,Non,2024-03-22,Actif,14.47
+1417,Chemin des Quarante-Arpents,Site propre,Asphalte,Non,Non,2024-03-22,Actif,223.93
+1418,,Site propre,Asphalte,Non,Non,2024-03-26,Actif,189.24

@@ -1,0 +1,2220 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Terrain sportif",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4722233265, 45.7693896011 ]
+			},
+			"properties" : {
+				"ID" : 406,
+				"TYPE" : "Volleyball",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901145407",
+				"LONGITUDE" : -73.47222,
+				"LATITUDE" : 45.76939
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4756894693, 45.7277358171 ]
+			},
+			"properties" : {
+				"ID" : 408,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20210816132230",
+				"LONGITUDE" : -73.47569,
+				"LATITUDE" : 45.72774
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4771842498, 45.7550782077 ]
+			},
+			"properties" : {
+				"ID" : 412,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151543",
+				"LONGITUDE" : -73.47718,
+				"LATITUDE" : 45.75508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4719750698, 45.7689771672 ]
+			},
+			"properties" : {
+				"ID" : 425,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.47198,
+				"LATITUDE" : 45.76898
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4795820444, 45.7556710385 ]
+			},
+			"properties" : {
+				"ID" : 433,
+				"TYPE" : "Dekhockey",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160914101323",
+				"LONGITUDE" : -73.47958,
+				"LATITUDE" : 45.75567
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4777471351, 45.7611955467 ]
+			},
+			"properties" : {
+				"ID" : 435,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.47775,
+				"LATITUDE" : 45.7612
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.416929852, 45.781278022 ]
+			},
+			"properties" : {
+				"ID" : 441,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.41693,
+				"LATITUDE" : 45.78128
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4289799443, 45.7736238141 ]
+			},
+			"properties" : {
+				"ID" : 443,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.42898,
+				"LATITUDE" : 45.77362
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4370375065, 45.7575462925 ]
+			},
+			"properties" : {
+				"ID" : 444,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.43704,
+				"LATITUDE" : 45.75755
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5136712022, 45.7561738874 ]
+			},
+			"properties" : {
+				"ID" : 445,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.51367,
+				"LATITUDE" : 45.75617
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4743672379, 45.7275985721 ]
+			},
+			"properties" : {
+				"ID" : 446,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151705",
+				"LONGITUDE" : -73.47437,
+				"LATITUDE" : 45.7276
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4665419454, 45.7407511832 ]
+			},
+			"properties" : {
+				"ID" : 447,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151705",
+				"LONGITUDE" : -73.46654,
+				"LATITUDE" : 45.74075
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4252890779, 45.7646967473 ]
+			},
+			"properties" : {
+				"ID" : 460,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901145303",
+				"LONGITUDE" : -73.42529,
+				"LATITUDE" : 45.7647
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4252239948, 45.7645193934 ]
+			},
+			"properties" : {
+				"ID" : 461,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901145305",
+				"LONGITUDE" : -73.42522,
+				"LATITUDE" : 45.76452
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4251664548, 45.7643613402 ]
+			},
+			"properties" : {
+				"ID" : 462,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901145306",
+				"LONGITUDE" : -73.42517,
+				"LATITUDE" : 45.76436
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.475909864, 45.7268862004 ]
+			},
+			"properties" : {
+				"ID" : 466,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.47591,
+				"LATITUDE" : 45.72689
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.458448688, 45.7706450222 ]
+			},
+			"properties" : {
+				"ID" : 474,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.45845,
+				"LATITUDE" : 45.77065
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5141634618, 45.7564061183 ]
+			},
+			"properties" : {
+				"ID" : 487,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.51416,
+				"LATITUDE" : 45.75641
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4474277896, 45.7370999993 ]
+			},
+			"properties" : {
+				"ID" : 488,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901145311",
+				"LONGITUDE" : -73.44743,
+				"LATITUDE" : 45.7371
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4104051253, 45.7899473654 ]
+			},
+			"properties" : {
+				"ID" : 489,
+				"TYPE" : "Football",
+				"REVETEMENT_SOL" : "Synthétique",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152500",
+				"LONGITUDE" : -73.41041,
+				"LATITUDE" : 45.78995
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4718190044, 45.7224212353 ]
+			},
+			"properties" : {
+				"ID" : 431,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.47182,
+				"LATITUDE" : 45.72242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4497456354, 45.7453901895 ]
+			},
+			"properties" : {
+				"ID" : 807,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140328102424",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.44975,
+				"LATITUDE" : 45.74539
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4373245212, 45.7788014698 ]
+			},
+			"properties" : {
+				"ID" : 440,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.43732,
+				"LATITUDE" : 45.7788
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4681895968, 45.7414756624 ]
+			},
+			"properties" : {
+				"ID" : 432,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.46819,
+				"LATITUDE" : 45.74148
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4777449966, 45.7612144027 ]
+			},
+			"properties" : {
+				"ID" : 808,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140328104240",
+				"DATE_MODIFICATION" : "20160901145308",
+				"LONGITUDE" : -73.47774,
+				"LATITUDE" : 45.76121
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4713427121, 45.7691296522 ]
+			},
+			"properties" : {
+				"ID" : 436,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.47134,
+				"LATITUDE" : 45.76913
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4600391602, 45.7683674377 ]
+			},
+			"properties" : {
+				"ID" : 414,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151543",
+				"LONGITUDE" : -73.46004,
+				"LATITUDE" : 45.76837
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4113864116, 45.7890859264 ]
+			},
+			"properties" : {
+				"ID" : 2035,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Terre battue",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20141103150415",
+				"DATE_MODIFICATION" : "20160901155010",
+				"LONGITUDE" : -73.41139,
+				"LATITUDE" : 45.78909
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4114163998, 45.7895066482 ]
+			},
+			"properties" : {
+				"ID" : 2036,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Terre battue",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20141103150605",
+				"DATE_MODIFICATION" : "20160901155012",
+				"LONGITUDE" : -73.41142,
+				"LATITUDE" : 45.78951
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4378697004, 45.7571989053 ]
+			},
+			"properties" : {
+				"ID" : 454,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151705",
+				"LONGITUDE" : -73.43787,
+				"LATITUDE" : 45.7572
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4596946966, 45.7680651535 ]
+			},
+			"properties" : {
+				"ID" : 815,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140917112051",
+				"DATE_MODIFICATION" : "20160901151543",
+				"LONGITUDE" : -73.45969,
+				"LATITUDE" : 45.76807
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4084572333, 45.7886497253 ]
+			},
+			"properties" : {
+				"ID" : 839,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101659",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40846,
+				"LATITUDE" : 45.78865
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4086627537, 45.788564706 ]
+			},
+			"properties" : {
+				"ID" : 838,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101655",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40866,
+				"LATITUDE" : 45.78856
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.408863025, 45.7884812438 ]
+			},
+			"properties" : {
+				"ID" : 837,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101649",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40886,
+				"LATITUDE" : 45.78848
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4090688963, 45.7883959806 ]
+			},
+			"properties" : {
+				"ID" : 836,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101626",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40907,
+				"LATITUDE" : 45.7884
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4092744796, 45.7883109774 ]
+			},
+			"properties" : {
+				"ID" : 835,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101621",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40927,
+				"LATITUDE" : 45.78831
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4094724694, 45.7882297522 ]
+			},
+			"properties" : {
+				"ID" : 834,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101613",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40947,
+				"LATITUDE" : 45.78823
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4096730126, 45.7884600053 ]
+			},
+			"properties" : {
+				"ID" : 826,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918100400",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40967,
+				"LATITUDE" : 45.78846
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4094786776, 45.7885397074 ]
+			},
+			"properties" : {
+				"ID" : 827,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101452",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40948,
+				"LATITUDE" : 45.78854
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4092737116, 45.788624535 ]
+			},
+			"properties" : {
+				"ID" : 828,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101539",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40927,
+				"LATITUDE" : 45.78862
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4090686035, 45.7887088459 ]
+			},
+			"properties" : {
+				"ID" : 829,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101545",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40907,
+				"LATITUDE" : 45.78871
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.408871052, 45.7887899354 ]
+			},
+			"properties" : {
+				"ID" : 830,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101550",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40887,
+				"LATITUDE" : 45.78879
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4086666774, 45.7888752498 ]
+			},
+			"properties" : {
+				"ID" : 831,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918101556",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.40867,
+				"LATITUDE" : 45.78888
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4654256925, 45.7621642558 ]
+			},
+			"properties" : {
+				"ID" : 472,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.46543,
+				"LATITUDE" : 45.76216
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4201984676, 45.7882703516 ]
+			},
+			"properties" : {
+				"ID" : 456,
+				"TYPE" : "Football",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151614",
+				"LONGITUDE" : -73.4202,
+				"LATITUDE" : 45.78827
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5136702276, 45.7561734725 ]
+			},
+			"properties" : {
+				"ID" : 430,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.51367,
+				"LATITUDE" : 45.75617
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4368832818, 45.7793079228 ]
+			},
+			"properties" : {
+				"ID" : 478,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.43688,
+				"LATITUDE" : 45.77931
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4367064386, 45.7626395825 ]
+			},
+			"properties" : {
+				"ID" : 429,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.43671,
+				"LATITUDE" : 45.76264
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.436831247, 45.7620701301 ]
+			},
+			"properties" : {
+				"ID" : 453,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151705",
+				"LONGITUDE" : -73.43683,
+				"LATITUDE" : 45.76207
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4371500776, 45.7613275107 ]
+			},
+			"properties" : {
+				"ID" : 482,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.43715,
+				"LATITUDE" : 45.76133
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4799927171, 45.7614702961 ]
+			},
+			"properties" : {
+				"ID" : 469,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.47999,
+				"LATITUDE" : 45.76147
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4791588068, 45.761047968 ]
+			},
+			"properties" : {
+				"ID" : 470,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.47916,
+				"LATITUDE" : 45.76105
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4501103676, 45.7457356097 ]
+			},
+			"properties" : {
+				"ID" : 476,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.45011,
+				"LATITUDE" : 45.74574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.478864009, 45.755364012 ]
+			},
+			"properties" : {
+				"ID" : 803,
+				"TYPE" : "Dekhockey",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130605143010",
+				"DATE_MODIFICATION" : "20160914101330",
+				"LONGITUDE" : -73.47886,
+				"LATITUDE" : 45.75536
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4801062141, 45.7559435395 ]
+			},
+			"properties" : {
+				"ID" : 434,
+				"TYPE" : "Dekhockey",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160914101328",
+				"LONGITUDE" : -73.48011,
+				"LATITUDE" : 45.75594
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4780483172, 45.7149514786 ]
+			},
+			"properties" : {
+				"ID" : 804,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140328101231",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.47805,
+				"LATITUDE" : 45.71495
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4432268173, 45.7490894399 ]
+			},
+			"properties" : {
+				"ID" : 475,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.44323,
+				"LATITUDE" : 45.74909
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4190936538, 45.7743287717 ]
+			},
+			"properties" : {
+				"ID" : 481,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41909,
+				"LATITUDE" : 45.77433
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4593114412, 45.7684530769 ]
+			},
+			"properties" : {
+				"ID" : 1226,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.45931,
+				"LATITUDE" : 45.76845
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4595598313, 45.7686243747 ]
+			},
+			"properties" : {
+				"ID" : 1225,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.45956,
+				"LATITUDE" : 45.76862
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4600679698, 45.7677272198 ]
+			},
+			"properties" : {
+				"ID" : 437,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152356",
+				"LONGITUDE" : -73.46007,
+				"LATITUDE" : 45.76773
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4600693084, 45.7677079854 ]
+			},
+			"properties" : {
+				"ID" : 1216,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.46007,
+				"LATITUDE" : 45.76771
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4601422511, 45.7679813184 ]
+			},
+			"properties" : {
+				"ID" : 1224,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.46014,
+				"LATITUDE" : 45.76798
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4603676652, 45.7681538838 ]
+			},
+			"properties" : {
+				"ID" : 1222,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.46037,
+				"LATITUDE" : 45.76815
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.460341344, 45.7678540186 ]
+			},
+			"properties" : {
+				"ID" : 1223,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.46034,
+				"LATITUDE" : 45.76785
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4605674383, 45.7680266998 ]
+			},
+			"properties" : {
+				"ID" : 1221,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.46057,
+				"LATITUDE" : 45.76803
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4606681032, 45.7677449487 ]
+			},
+			"properties" : {
+				"ID" : 842,
+				"TYPE" : "Volleyball",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918112436",
+				"DATE_MODIFICATION" : "20160901145414",
+				"LONGITUDE" : -73.46067,
+				"LATITUDE" : 45.76774
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4723822497, 45.7683251621 ]
+			},
+			"properties" : {
+				"ID" : 471,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.47238,
+				"LATITUDE" : 45.76833
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4169311672, 45.7817619246 ]
+			},
+			"properties" : {
+				"ID" : 818,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085535",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41693,
+				"LATITUDE" : 45.78176
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4166713683, 45.7820304871 ]
+			},
+			"properties" : {
+				"ID" : 819,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085555",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41667,
+				"LATITUDE" : 45.78203
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4164100508, 45.7823047799 ]
+			},
+			"properties" : {
+				"ID" : 820,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085559",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41641,
+				"LATITUDE" : 45.7823
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4161464214, 45.7825702986 ]
+			},
+			"properties" : {
+				"ID" : 821,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085603",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41615,
+				"LATITUDE" : 45.78257
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.415632764, 45.782326047 ]
+			},
+			"properties" : {
+				"ID" : 823,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085611",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41563,
+				"LATITUDE" : 45.78233
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4158876225, 45.7820576758 ]
+			},
+			"properties" : {
+				"ID" : 822,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085608",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41589,
+				"LATITUDE" : 45.78206
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4161539034, 45.7817825867 ]
+			},
+			"properties" : {
+				"ID" : 824,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085617",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41615,
+				"LATITUDE" : 45.78178
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4164089991, 45.7815129546 ]
+			},
+			"properties" : {
+				"ID" : 825,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140918085620",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.41641,
+				"LATITUDE" : 45.78151
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4160163082, 45.7809953677 ]
+			},
+			"properties" : {
+				"ID" : 427,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.41602,
+				"LATITUDE" : 45.781
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4158927706, 45.7811333742 ]
+			},
+			"properties" : {
+				"ID" : 3696,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160811095747",
+				"DATE_MODIFICATION" : "20160901151559",
+				"LONGITUDE" : -73.41589,
+				"LATITUDE" : 45.78113
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4783993211, 45.7264653722 ]
+			},
+			"properties" : {
+				"ID" : 467,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.4784,
+				"LATITUDE" : 45.72647
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4611891085, 45.7608353774 ]
+			},
+			"properties" : {
+				"ID" : 3699,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160811103934",
+				"DATE_MODIFICATION" : "20160901151643",
+				"LONGITUDE" : -73.46119,
+				"LATITUDE" : 45.76084
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4789792941, 45.7621448661 ]
+			},
+			"properties" : {
+				"ID" : 455,
+				"TYPE" : "Football",
+				"REVETEMENT_SOL" : "Synthétique",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20160901152523",
+				"LONGITUDE" : -73.47898,
+				"LATITUDE" : 45.76214
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4790657156, 45.7621833719 ]
+			},
+			"properties" : {
+				"ID" : 4091,
+				"TYPE" : "Course",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160901143500",
+				"DATE_MODIFICATION" : "20160901144330",
+				"LONGITUDE" : -73.47907,
+				"LATITUDE" : 45.76218
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4371169092, 45.761367867 ]
+			},
+			"properties" : {
+				"ID" : 4092,
+				"TYPE" : "Course",
+				"REVETEMENT_SOL" : "Tuile caoutchouté",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160901144424",
+				"DATE_MODIFICATION" : "20160901144644",
+				"LONGITUDE" : -73.43712,
+				"LATITUDE" : 45.76137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4169624684, 45.7750750074 ]
+			},
+			"properties" : {
+				"ID" : 5293,
+				"TYPE" : "Fers",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20161012101512",
+				"DATE_MODIFICATION" : "20161012102641",
+				"LONGITUDE" : -73.41696,
+				"LATITUDE" : 45.77508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4169900699, 45.7750453874 ]
+			},
+			"properties" : {
+				"ID" : 5294,
+				"TYPE" : "Fers",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20161012101525",
+				"DATE_MODIFICATION" : "20161012102644",
+				"LONGITUDE" : -73.41699,
+				"LATITUDE" : 45.77505
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4170166519, 45.7750150524 ]
+			},
+			"properties" : {
+				"ID" : 5295,
+				"TYPE" : "Fers",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20161012101532",
+				"DATE_MODIFICATION" : "20161012102646",
+				"LONGITUDE" : -73.41702,
+				"LATITUDE" : 45.77502
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4380205271, 45.758051076 ]
+			},
+			"properties" : {
+				"ID" : 419,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20161012154855",
+				"LONGITUDE" : -73.43802,
+				"LATITUDE" : 45.75805
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4367483081, 45.758179176 ]
+			},
+			"properties" : {
+				"ID" : 5299,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20161223105828",
+				"DATE_MODIFICATION" : "20210723081844",
+				"LONGITUDE" : -73.43675,
+				"LATITUDE" : 45.75818
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4280131339, 45.7730296062 ]
+			},
+			"properties" : {
+				"ID" : 428,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20170921105505",
+				"LONGITUDE" : -73.42801,
+				"LATITUDE" : 45.77303
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4283700861, 45.7729207666 ]
+			},
+			"properties" : {
+				"ID" : 6103,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170921105505",
+				"DATE_MODIFICATION" : "20160927144941",
+				"LONGITUDE" : -73.42837,
+				"LATITUDE" : 45.77292
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4559557766, 45.7279075683 ]
+			},
+			"properties" : {
+				"ID" : 6105,
+				"TYPE" : "Volleyball",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170921111203",
+				"DATE_MODIFICATION" : "20160901145405",
+				"LONGITUDE" : -73.45596,
+				"LATITUDE" : 45.72791
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4556295007, 45.7280431632 ]
+			},
+			"properties" : {
+				"ID" : 2437,
+				"TYPE" : "Volleyball",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160121144129",
+				"DATE_MODIFICATION" : "20170921111227",
+				"LONGITUDE" : -73.45563,
+				"LATITUDE" : 45.72804
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4557926339, 45.7279752682 ]
+			},
+			"properties" : {
+				"ID" : 6106,
+				"TYPE" : "Volleyball",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170921111227",
+				"DATE_MODIFICATION" : "20170921111203",
+				"LONGITUDE" : -73.45579,
+				"LATITUDE" : 45.72798
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4099439528, 45.7887912562 ]
+			},
+			"properties" : {
+				"ID" : 5704,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170105154249",
+				"DATE_MODIFICATION" : "20171011134637",
+				"LONGITUDE" : -73.40994,
+				"LATITUDE" : 45.78879
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4101321629, 45.7886459109 ]
+			},
+			"properties" : {
+				"ID" : 5703,
+				"TYPE" : "Basketball",
+				"REVETEMENT_SOL" : "Asphalte",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170105154102",
+				"DATE_MODIFICATION" : "20171011134838",
+				"LONGITUDE" : -73.41013,
+				"LATITUDE" : 45.78865
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4100382768, 45.7887185766 ]
+			},
+			"properties" : {
+				"ID" : 6903,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20171011134436",
+				"DATE_MODIFICATION" : "20171011135715",
+				"LONGITUDE" : -73.41004,
+				"LATITUDE" : 45.78872
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4433656979, 45.7742269133 ]
+			},
+			"properties" : {
+				"ID" : 6503,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170927093658",
+				"DATE_MODIFICATION" : "20171012101945",
+				"LONGITUDE" : -73.44337,
+				"LATITUDE" : 45.77423
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4428650526, 45.7743360875 ]
+			},
+			"properties" : {
+				"ID" : 6505,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170927094405",
+				"DATE_MODIFICATION" : "20171012102022",
+				"LONGITUDE" : -73.44287,
+				"LATITUDE" : 45.77434
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4724552799, 45.7301019228 ]
+			},
+			"properties" : {
+				"ID" : 465,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20180809163100",
+				"LONGITUDE" : -73.47246,
+				"LATITUDE" : 45.7301
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4344791499, 45.76024684 ]
+			},
+			"properties" : {
+				"ID" : 485,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20180810095741",
+				"LONGITUDE" : -73.43448,
+				"LATITUDE" : 45.76025
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4792079357, 45.7561467669 ]
+			},
+			"properties" : {
+				"ID" : 411,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190529085018",
+				"LONGITUDE" : -73.47921,
+				"LATITUDE" : 45.75615
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4762038321, 45.7544931537 ]
+			},
+			"properties" : {
+				"ID" : 413,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190529085107",
+				"LONGITUDE" : -73.4762,
+				"LATITUDE" : 45.75449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4718062865, 45.7224215021 ]
+			},
+			"properties" : {
+				"ID" : 2037,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150929100438",
+				"DATE_MODIFICATION" : "20190814162539",
+				"LONGITUDE" : -73.47181,
+				"LATITUDE" : 45.72242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4659488204, 45.7616305417 ]
+			},
+			"properties" : {
+				"ID" : 407,
+				"TYPE" : "Volleyball",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190819161026",
+				"LONGITUDE" : -73.46595,
+				"LATITUDE" : 45.76163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4636053793, 45.7659918412 ]
+			},
+			"properties" : {
+				"ID" : 450,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190820103348",
+				"LONGITUDE" : -73.46361,
+				"LATITUDE" : 45.76599
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.478082211, 45.7623905743 ]
+			},
+			"properties" : {
+				"ID" : 8515,
+				"TYPE" : "Course",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20190826152447",
+				"DATE_MODIFICATION" : "20190826152841",
+				"LONGITUDE" : -73.47808,
+				"LATITUDE" : 45.76239
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4786952963, 45.7614992022 ]
+			},
+			"properties" : {
+				"ID" : 8516,
+				"TYPE" : "Course",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20190826152502",
+				"DATE_MODIFICATION" : "20190826152849",
+				"LONGITUDE" : -73.4787,
+				"LATITUDE" : 45.7615
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4783889849, 45.7619448405 ]
+			},
+			"properties" : {
+				"ID" : 8514,
+				"TYPE" : "Course",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20190826152346",
+				"DATE_MODIFICATION" : "20190826152832",
+				"LONGITUDE" : -73.47839,
+				"LATITUDE" : 45.76194
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4283929101, 45.7616068922 ]
+			},
+			"properties" : {
+				"ID" : 423,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190827095642",
+				"LONGITUDE" : -73.42839,
+				"LATITUDE" : 45.76161
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4673088797, 45.7402912489 ]
+			},
+			"properties" : {
+				"ID" : 448,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190827133331",
+				"LONGITUDE" : -73.46731,
+				"LATITUDE" : 45.74029
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4800697803, 45.7565706663 ]
+			},
+			"properties" : {
+				"ID" : 410,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190828135527",
+				"LONGITUDE" : -73.48007,
+				"LATITUDE" : 45.75657
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4247369682, 45.7652498957 ]
+			},
+			"properties" : {
+				"ID" : 486,
+				"TYPE" : "Soccer",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190828143936",
+				"LONGITUDE" : -73.42474,
+				"LATITUDE" : 45.76525
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4088769494, 45.7895232429 ]
+			},
+			"properties" : {
+				"ID" : 813,
+				"TYPE" : "Skateboard",
+				"REVETEMENT_SOL" : "Béton",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20140728144211",
+				"DATE_MODIFICATION" : "20190830111812",
+				"LONGITUDE" : -73.40888,
+				"LATITUDE" : 45.78952
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4174400881, 45.7742727947 ]
+			},
+			"properties" : {
+				"ID" : 442,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190926170609",
+				"LONGITUDE" : -73.41744,
+				"LATITUDE" : 45.77427
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4178779429, 45.7739575486 ]
+			},
+			"properties" : {
+				"ID" : 418,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190926170759",
+				"LONGITUDE" : -73.41788,
+				"LATITUDE" : 45.77396
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4458008988, 45.7630171665 ]
+			},
+			"properties" : {
+				"ID" : 439,
+				"TYPE" : "Patinoire extérieure",
+				"REVETEMENT_SOL" : "Glace",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20190927101523",
+				"LONGITUDE" : -73.4458,
+				"LATITUDE" : 45.76302
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4463789918, 45.762189186 ]
+			},
+			"properties" : {
+				"ID" : 8517,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20190927101625",
+				"DATE_MODIFICATION" : "20190927102251",
+				"LONGITUDE" : -73.44638,
+				"LATITUDE" : 45.76219
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4465085262, 45.7625166507 ]
+			},
+			"properties" : {
+				"ID" : 8518,
+				"TYPE" : "Baseball",
+				"REVETEMENT_SOL" : "Gazon",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20190927101726",
+				"DATE_MODIFICATION" : "20190927102253",
+				"LONGITUDE" : -73.44651,
+				"LATITUDE" : 45.76252
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4609999415, 45.7673238514 ]
+			},
+			"properties" : {
+				"ID" : 1231,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20150615151231",
+				"DATE_MODIFICATION" : "20191008094102",
+				"LONGITUDE" : -73.461,
+				"LATITUDE" : 45.76732
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4604617089, 45.7674678234 ]
+			},
+			"properties" : {
+				"ID" : 451,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20130101",
+				"DATE_MODIFICATION" : "20191008100805",
+				"LONGITUDE" : -73.46046,
+				"LATITUDE" : 45.76747
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4608041362, 45.7671681006 ]
+			},
+			"properties" : {
+				"ID" : 3293,
+				"TYPE" : "Fers",
+				"REVETEMENT_SOL" : "Sable",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160808135951",
+				"DATE_MODIFICATION" : "20191008102122",
+				"LONGITUDE" : -73.4608,
+				"LATITUDE" : 45.76717
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4609089458, 45.7672513593 ]
+			},
+			"properties" : {
+				"ID" : 3295,
+				"TYPE" : "Pétanque",
+				"REVETEMENT_SOL" : "Gravelette",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20160808140140",
+				"DATE_MODIFICATION" : "20191008102131",
+				"LONGITUDE" : -73.46091,
+				"LATITUDE" : 45.76725
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4507511822, 45.7407644132 ]
+			},
+			"properties" : {
+				"ID" : 6102,
+				"TYPE" : "Tennis",
+				"REVETEMENT_SOL" : "Surface dure",
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point",
+				"DATE_CREATION" : "20170817132150",
+				"DATE_MODIFICATION" : "20191009152903",
+				"LONGITUDE" : -73.45075,
+				"LATITUDE" : 45.74076
+			}
+		}
+	]
+}

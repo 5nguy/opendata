@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>zone_wifi</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Zones_wi-fi">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Zones wi-fi" id="kml_schema_ft_Zones_wi-fi">
+<SimpleField type="xsd:string" name="ID">
+<displayName>ID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MUNICIPALITE">
+<displayName>MUNICIPALITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOM_LIEU">
+<displayName>NOM_LIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TYPELIEU">
+<displayName>TYPELIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="PERIODICITE">
+<displayName>PERIODICITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Zones_wi-fi">
+<name>Zones wi-fi</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Champigny</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Saisonnier</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47527867355106</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.727354608916535</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">1</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Champigny</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Saisonnier</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.47527867355106</SimpleData>
+<SimpleData name="LATITUDE">45.727354608916535</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4752786735511,45.7273546089165,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Charles-De Gaulle</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Saisonnier</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44771239341779</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7382879677622</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">2</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Charles-De Gaulle</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Saisonnier</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.44771239341779</SimpleData>
+<SimpleData name="LATITUDE">45.7382879677622</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4477123934178,45.7382879677622,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Jean-Claude-Crevier</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Saisonnier</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47850208270422</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76156599050191</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">3</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Jean-Claude-Crevier</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Saisonnier</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.47850208270422</SimpleData>
+<SimpleData name="LATITUDE">45.76156599050191</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4785020827042,45.7615659905019,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Larochelle</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Saisonnier</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46753510549313</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74058845990154</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">4</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Larochelle</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Saisonnier</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.46753510549313</SimpleData>
+<SimpleData name="LATITUDE">45.74058845990154</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4675351054931,45.7405884599015,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Saisonnier</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45660216650914</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72682371297327</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">5</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Saisonnier</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.45660216650914</SimpleData>
+<SimpleData name="LATITUDE">45.72682371297327</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4566021665091,45.7268237129733,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Thifault</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Saisonnier</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45104560334349</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73989789806509</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">6</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Thifault</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Saisonnier</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.45104560334349</SimpleData>
+<SimpleData name="LATITUDE">45.73989789806509</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4510456033435,45.7398978980651,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Laforest</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47243434055666</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72284942863645</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">7</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Laforest</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.47243434055666</SimpleData>
+<SimpleData name="LATITUDE">45.72284942863645</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4724343405567,45.7228494286365,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Laverdière</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47816631376551</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7554404676845</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">8</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Laverdière</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.47816631376551</SimpleData>
+<SimpleData name="LATITUDE">45.7554404676845</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4781663137655,45.7554404676845,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Maurice-Richard</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41002308059863</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.789175821630316</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">9</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Maurice-Richard</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.41002308059863</SimpleData>
+<SimpleData name="LATITUDE">45.789175821630316</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4100230805986,45.7891758216303,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc régional de l'Île-Lebel</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44496186596476</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7359655061914</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">10</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc régional de l'Île-Lebel</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.44496186596476</SimpleData>
+<SimpleData name="LATITUDE">45.7359655061914</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4449618659648,45.7359655061914,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Rivest</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43722978937345</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.757900662555656</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">11</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Rivest</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.43722978937345</SimpleData>
+<SimpleData name="LATITUDE">45.757900662555656</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4372297893734,45.7579006625557,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre aquatique Jacques-Dupuis</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Piscine</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43558482208505</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.764650531355585</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">12</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Centre aquatique Jacques-Dupuis</SimpleData>
+<SimpleData name="TYPELIEU">Piscine</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.43558482208505</SimpleData>
+<SimpleData name="LATITUDE">45.764650531355585</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.435584822085,45.7646505313556,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Laurent-Venne</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47712126456192</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7625243237694</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">13</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Laurent-Venne</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.47712126456192</SimpleData>
+<SimpleData name="LATITUDE">45.7625243237694</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4771212645619,45.7625243237694,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre d'art Diane-Dufresne</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44903660642952</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73877605927876</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">14</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Centre d'art Diane-Dufresne</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.44903660642952</SimpleData>
+<SimpleData name="LATITUDE">45.73877605927876</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4490366064295,45.7387760592788,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre récréatif</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45250551829284</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.756705165238614</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">15</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Centre récréatif</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.45250551829284</SimpleData>
+<SimpleData name="LATITUDE">45.756705165238614</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4525055182928,45.7567051652386,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Complexe sportif Gilles-Tremblay</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41222548153131</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.789893853132206</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">16</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Complexe sportif Gilles-Tremblay</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.41222548153131</SimpleData>
+<SimpleData name="LATITUDE">45.789893853132206</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4122254815313,45.7898938531322,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Hôtel de ville</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45132123721288</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74195209182337</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">17</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Hôtel de ville</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.45132123721288</SimpleData>
+<SimpleData name="LATITUDE">45.74195209182337</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4513212372129,45.7419520918234,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Bibliothèque Edmond-Archambault</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47711600112862</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.762864640634874</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">18</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Bibliothèque Edmond-Archambault</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.47711600112862</SimpleData>
+<SimpleData name="LATITUDE">45.762864640634874</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4771160011286,45.7628646406349,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Bâtiment municipal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170829</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45206530218456</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74111058118863</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">19</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TYPELIEU">Bâtiment municipal</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20170829</SimpleData>
+<SimpleData name="LONGITUDE">-73.45206530218456</SimpleData>
+<SimpleData name="LATITUDE">45.74111058118863</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4520653021846,45.7411105811886,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>401</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Rochefort</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180509</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.40491084967289</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77871699988849</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">401</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Rochefort</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20180509</SimpleData>
+<SimpleData name="LONGITUDE">-73.40491084967289</SimpleData>
+<SimpleData name="LATITUDE">45.77871699988849</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4049108496729,45.7787169998885,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>402</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Marie-Soleil-Tougas</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180509</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4711663674392</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.769476729579914</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">402</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Marie-Soleil-Tougas</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20180509</SimpleData>
+<SimpleData name="LONGITUDE">-73.4711663674392</SimpleData>
+<SimpleData name="LATITUDE">45.769476729579914</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4711663674392,45.7694767295799,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>403</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Frédéric-Coiteux</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20200128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43766381421626</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77865627983897</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">403</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Frédéric-Coiteux</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20200128</SimpleData>
+<SimpleData name="LONGITUDE">-73.43766381421626</SimpleData>
+<SimpleData name="LATITUDE">45.77865627983897</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4376638142163,45.778656279839,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>404</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc du Moulin</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20200128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41815673464176</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77460162175881</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">404</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc du Moulin</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20200128</SimpleData>
+<SimpleData name="LONGITUDE">-73.41815673464176</SimpleData>
+<SimpleData name="LATITUDE">45.77460162175881</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4181567346418,45.7746016217588,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>405</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc de la Seigneurie</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20200128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46088247286345</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76756755129859</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">405</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc de la Seigneurie</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20200128</SimpleData>
+<SimpleData name="LONGITUDE">-73.46088247286345</SimpleData>
+<SimpleData name="LATITUDE">45.76756755129859</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4608824728634,45.7675675512986,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>406</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>60013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc des Artisans</td>
+</tr><tr bgcolor="">
+<th>TYPELIEU</th>
+<td>Parc</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODICITE</th>
+<td>Toute l'année</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20200128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46621830184581</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76188700619551</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Zones_wi-fi</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zones_wi-fi">
+<SimpleData name="ID">406</SimpleData>
+<SimpleData name="MUNICIPALITE">60013</SimpleData>
+<SimpleData name="NOM_LIEU">Parc des Artisans</SimpleData>
+<SimpleData name="TYPELIEU">Parc</SimpleData>
+<SimpleData name="PERIODICITE">Toute l'année</SimpleData>
+<SimpleData name="MISEAJOUR">20200128</SimpleData>
+<SimpleData name="LONGITUDE">-73.46621830184581</SimpleData>
+<SimpleData name="LATITUDE">45.76188700619551</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4662183018458,45.7618870061955,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
