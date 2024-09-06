@@ -1,0 +1,72 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Donnees_GEOJSON",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51974563264217, 45.5236204744022 ]
+			},
+			"properties" : {
+				"Name" : "Saint-Charles et place Charles-Lemoyne",
+				"Superficie" : "0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51710811568394, 45.528494468266196 ]
+			},
+			"properties" : {
+				"Name" : "Stationnement de la Place Longueuil",
+				"Superficie" : "0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51532191661293, 45.53362262950562 ]
+			},
+			"properties" : {
+				"Name" : "Chateauguay et Saint-Charles",
+				"Superficie" : "0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51240908449357, 45.53658841725098 ]
+			},
+			"properties" : {
+				"Name" : "Saint-Jean et Saint-Charles",
+				"Superficie" : "0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50881519081445, 45.539948490991065 ]
+			},
+			"properties" : {
+				"Name" : "Grant et Saint-Guillaume",
+				"Superficie" : "0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4949365795122, 45.53729174447742 ]
+			},
+			"properties" : {
+				"Name" : "Collège Édouard-Montpetit",
+				"Superficie" : "0"
+			}
+		}
+	]
+}

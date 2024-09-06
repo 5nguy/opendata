@@ -1,0 +1,7650 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Donnees_GEOJSON",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46296075435981, 45.512165338887435 ]
+			},
+			"properties" : {
+				"NOM" : "Aréna  - Olympia",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Aréna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48991978672632, 45.49254645409622 ]
+			},
+			"properties" : {
+				"NOM" : "Aréna - Cynthia-Coull",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Aréna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50085063719663, 45.518188906553355 ]
+			},
+			"properties" : {
+				"NOM" : "Aréna - Jacques-Cartier",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Aréna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46128705130744, 45.49350986837288 ]
+			},
+			"properties" : {
+				"NOM" : "Aréna - Olivier Ford",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Aréna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49112310134755, 45.53710648759692 ]
+			},
+			"properties" : {
+				"NOM" : "Aréna - Émile-Butch-Bouchard",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Aréna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46358945937664, 45.52112337347952 ]
+			},
+			"properties" : {
+				"NOM" : "Bibliothèque Georges-Dor",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : "Bibliothèque"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48841941513474, 45.491412244894825 ]
+			},
+			"properties" : {
+				"NOM" : "Bibliothèque de Greenfield Park",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48750885259192, 45.49189294414363 ]
+			},
+			"properties" : {
+				"NOM" : "Bureau d'Arrondissement (Greenfield Park)\r\n",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48196689280388, 45.5297249549444 ]
+			},
+			"properties" : {
+				"NOM" : "Centre Jeanne-Dufresnoy",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : "Établissement municipaux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46270427728037, 45.512513267585554 ]
+			},
+			"properties" : {
+				"NOM" : "Centre Olympia",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45749875263282, 45.542417168576655 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif - Centre Multi-sports du Collège Français",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45849582896665, 45.54303965689949 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif - Centre Multi-sports du Collège Français",
+				"TYPE" : "Centre sportif",
+				"DESCRIPTION" : "Centre sportif"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39396965981017, 45.488390865789206 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif - Rosanne-Laflamme",
+				"TYPE" : "Centre sportif",
+				"DESCRIPTION" : "Arénas"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46112978678534, 45.4935991092395 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif Gaétan-Boucher",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Arénas"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49174646454958, 45.537510939577565 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif Montpetit",
+				"TYPE" : "Tennis de table libre",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49188200285555, 45.53733595854945 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif Montpetit",
+				"TYPE" : "Terrain sportif - Volleyball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49202770286865, 45.53716931123604 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif Montpetit",
+				"TYPE" : "Terrain de golf",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39375222440073, 45.48830510780584 ]
+			},
+			"properties" : {
+				"NOM" : "Centre sportif Rosanne-Laflamme",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51459523869391, 45.532998489627786 ]
+			},
+			"properties" : {
+				"NOM" : "Chalet de tennis Saint-Charles",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : "Parcs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45699631409036, 45.54408173124058 ]
+			},
+			"properties" : {
+				"NOM" : "Colisée Jean-Béliveau",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : "Aréna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48843921530681, 45.50945718531015 ]
+			},
+			"properties" : {
+				"NOM" : "Collège Français (Primaire)",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48837575091474, 45.50889621958181 ]
+			},
+			"properties" : {
+				"NOM" : "Collège Français (Primaire)",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48227096505084, 45.508617584678646 ]
+			},
+			"properties" : {
+				"NOM" : "Collège Français (Secondaire)",
+				"TYPE" : "Terrain sportif - Football",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48305094354966, 45.50892935484015 ]
+			},
+			"properties" : {
+				"NOM" : "Collège Français (Secondaire)",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48305386982865, 45.50764013178711 ]
+			},
+			"properties" : {
+				"NOM" : "Collège Français (Secondaire)",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48496672849313, 45.5228900621003 ]
+			},
+			"properties" : {
+				"NOM" : "Complexe Sportif Longueuil",
+				"TYPE" : "Aréna",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48451786365074, 45.52323224656393 ]
+			},
+			"properties" : {
+				"NOM" : "Complexe sportif Longueuil",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49212671602677, 45.537003250367285 ]
+			},
+			"properties" : {
+				"NOM" : "Cégep Édouard-Montpetit",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : "Piscines"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44825164468814, 45.49364448646776 ]
+			},
+			"properties" : {
+				"NOM" : "Ecole Centennial Regional High School",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44826793414559, 45.4924909751672 ]
+			},
+			"properties" : {
+				"NOM" : "Ecole Centennial Regional High School",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44966168482668, 45.504251806592684 ]
+			},
+			"properties" : {
+				"NOM" : "Golf - Centre de Golf Laurier",
+				"TYPE" : "Terrain de golf",
+				"DESCRIPTION" : "Terrain de golf"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44224961382535, 45.55716190470149 ]
+			},
+			"properties" : {
+				"NOM" : "Golf - Du Parcours du Cerf",
+				"TYPE" : "Terrain de golf",
+				"DESCRIPTION" : "Terrain de golf"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4522731196549, 45.55656239950546 ]
+			},
+			"properties" : {
+				"NOM" : "Golf - Du Parcours du Cerf",
+				"TYPE" : "Terrain de golf",
+				"DESCRIPTION" : "Terrain de golf"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46601237951684, 45.55545019123409 ]
+			},
+			"properties" : {
+				"NOM" : "Jardin du Renne",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : "Parc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46599746422977, 45.55545685299615 ]
+			},
+			"properties" : {
+				"NOM" : "Jardin du Renne",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : "Parc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43297366941478, 45.51165268176077 ]
+			},
+			"properties" : {
+				"NOM" : "Marché Public",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43188822342985, 45.51317577448158 ]
+			},
+			"properties" : {
+				"NOM" : "Marché Public",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51789263739009, 45.54048391022307 ]
+			},
+			"properties" : {
+				"NOM" : "Navette fluviale - Longueuil-Montreal",
+				"TYPE" : "Navette fluviale",
+				"DESCRIPTION" : "Navette fluviale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47717886632357, 45.57841261949175 ]
+			},
+			"properties" : {
+				"NOM" : "Navette fluviale - Vers l'Ile Charron",
+				"TYPE" : "Navette fluviale",
+				"DESCRIPTION" : "Navette fluviale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48362372005889, 45.555802922274 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Adoncour",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46838539677451, 45.5313957662702 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Adrien-Gamache",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4676037440822, 45.5322731203648 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Adrien-Gamache",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46777025436529, 45.53135892977422 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Adrien-Gamache",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.468227663715, 45.531672605520185 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Adrien-Gamache\r\nParc Adrien-Gamache\r\n",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41672313604413, 45.46267690237549 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Alain-Forget",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41596782209271, 45.46329478263015 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Alain-Forget",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41646991812988, 45.46298593408797 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Alain-Forget",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41590225168018, 45.46293352539367 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Alain-Forget",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44089350776534, 45.49710741422339 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Alakazou\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39896092565775, 45.48365112359298 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Albert-Beausoleil",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39809418404096, 45.484042578558686 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Albert-Beausoleil",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47468087344089, 45.51281491809755 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Anastase-Forget",
+				"TYPE" : "Skatepark",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47440232210306, 45.51252037433712 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Anastase-Forget",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47501726989488, 45.51282426705449 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Anastase-Forget",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47437756775561, 45.51256210636174 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Anastase-Forget\r\n",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45918903502354, 45.4999402324734 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Bruno",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45864561272532, 45.5000884938905 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Bruno",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50030482557078, 45.53335274243013 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50011722973882, 45.5331834429353 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49985502257888, 45.53337821266588 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49989126342926, 45.53299616432835 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50049455500132, 45.533601447824324 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50008525409736, 45.5337258017755 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50035172746273, 45.53382468448159 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49973137913037, 45.53352653704915 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Armand-Racicot",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47277632225874, 45.5741515613596 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Arsène-Lafrance",
+				"TYPE" : "Jeux de fer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44370012023913, 45.537412053900894 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Asselin",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44401639945181, 45.53722851649069 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Asselin",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49557058045114, 45.50797317280987 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49510749266425, 45.50683449724722 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49580739147262, 45.50805888699602 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4952292991862, 45.50780664573116 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4952885474029, 45.50727772380258 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49489852751432, 45.5069765140588 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49463382216351, 45.50731442581224 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bariteau",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48872481236684, 45.50783261951142 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Beauregard",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48832722523241, 45.507676255825345 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Beauregard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48854527811733, 45.50765598600537 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Beauregard",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44565391369413, 45.53192160311611 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Belcourt",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44563166777355, 45.531805884326005 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Belcourt",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44550329930644, 45.532138662829695 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Belcourt",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48678978404985, 45.54377639671803 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bellerive",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48651579245819, 45.54390422360797 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bellerive",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4870288616811, 45.54432952191549 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bellerive",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45095688822308, 45.530474675642445 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Berthelet",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45147468959875, 45.5300835571382 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Berthelet",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44182767338492, 45.528882062340294 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Boismenu",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42910250276822, 45.47445733150845 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Boisvert",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42841550543002, 45.4752681079168 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Boisvert",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.428021493654, 45.475219085438795 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Boisvert",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42811282855888, 45.47512929431214 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Boisvert",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4287076968633, 45.47504238552544 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Boisvert",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42276580140991, 45.47869305501352 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bourget",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42273938408839, 45.47857909201047 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bourget",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42421395286581, 45.4757320285701 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Brodeur",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48488788981463, 45.528335292485885 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Brébeuf",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : "Parc École"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48601579795623, 45.528279671081236 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Brébeuf",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : "Parc École"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48624315566266, 45.5280189597487 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Brébeuf",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : "Parc École"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4845806278828, 45.52790297931373 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Brébeuf",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : "Parc École"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48595367905827, 45.52801741729047 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Brébeuf\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : "Parc École"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45404526435075, 45.54888693038241 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bédard",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45417953001643, 45.54898448894553 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bédard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45399065424827, 45.54878094193886 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Bédard",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40663666149209, 45.47221890400116 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40643151089117, 45.47235959293205 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40767166517291, 45.47180367266449 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40723932936422, 45.472842225823776 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40699055974353, 45.47266631677346 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40848961962436, 45.472264687232304 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40719942492636, 45.472316905872 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40819255167843, 45.47228244086884 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Campbell\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43196572262094, 45.47157224426541 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Canon",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44113671357172, 45.54379690335786 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Cantin",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44108963631169, 45.54360619584064 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Cantin",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44120400529665, 45.5436441257367 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Cantin",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44154755557483, 45.52341462644094 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Capricorne",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44153758031173, 45.523361742024555 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Capricorne",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3628430428194, 45.45083102811466 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carignan-Salières",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48210685019822, 45.536716939954104 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carillon",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4831659921076, 45.53592040348638 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carillon",
+				"TYPE" : "Jeux de bocce",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48258955026108, 45.535814358930544 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carillon",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4826130289104, 45.53637116188916 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carillon",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48267226005616, 45.536028365313875 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carillon",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48302994705463, 45.53610736830429 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Carillon\r\n",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51486729847872, 45.53311712139137 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51451405142262, 45.53342042693022 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51238136817548, 45.532444971853714 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51546454036679, 45.53322252384047 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51331947658056, 45.53281844748492 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51308173558733, 45.53235479477897 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51509244591968, 45.533191808137374 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Catherine-Primot ",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : "Anciennement Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46243246534728, 45.54122457494724 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Central",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46226571109399, 45.54131737213951 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Central",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42061636063832, 45.50690552218762 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Chamonix",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4207730543425, 45.506904339698636 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Chamonix",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48171403376445, 45.50932518489298 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champlain",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48162711865301, 45.509496935490816 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champlain",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48116025341514, 45.50948349994233 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champlain",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48100278751677, 45.50958271563805 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champlain",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45170751037813, 45.52083980117226 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4512117777222, 45.52131278092851 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45113561708735, 45.52120707227297 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44924199280482, 45.52261840400916 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45155882837174, 45.521431970275714 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45198800145562, 45.52119973850261 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4498916193734, 45.52238557962787 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45105954463557, 45.52111034513221 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Champvert",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48914361220909, 45.56089097776324 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Charbonneau",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41913147939951, 45.507671003484774 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Cherbourg",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41923855780615, 45.50767465048842 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Cherbourg\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4634632369634, 45.51056793725776 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.464023607869, 45.511048922186646 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46445986793294, 45.51099680223945 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46332977990835, 45.511672602316075 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4640293959063, 45.51059287766235 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4631359368439, 45.51022337758566 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46422700208566, 45.51082721398255 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46368942720252, 45.510868163990274 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi\r\n",
+				"TYPE" : "Skatepark",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46350562430153, 45.510753372663444 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi ",
+				"TYPE" : "Tennis de table libre",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46247402541961, 45.5111960438114 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Christ-Roi ",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4749716426979, 45.50128019295785 ]
+			},
+			"properties" : {
+				"NOM" : "Parc D.-E.-Joyal",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47490960003859, 45.50120426114175 ]
+			},
+			"properties" : {
+				"NOM" : "Parc D.-E.-Joyal",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4744722114764, 45.50154959157681 ]
+			},
+			"properties" : {
+				"NOM" : "Parc D.-E.-Joyal",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47422392328109, 45.50150967883791 ]
+			},
+			"properties" : {
+				"NOM" : "Parc D.-E.-Joyal",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47423214334081, 45.50124017132789 ]
+			},
+			"properties" : {
+				"NOM" : "Parc D.-E.-Joyal",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43019785216707, 45.47925991301463 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42999466089766, 45.479542438640564 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43091898294209, 45.479682954310924 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43028744205021, 45.47936424624571 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42974905614881, 45.47942428825191 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42993984535339, 45.47970705539099 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43032451430769, 45.47917391752253 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4308137580975, 45.47960330953111 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43124372928956, 45.478879106986156 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Daniel-Johnson",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39893327235028, 45.48051633427404 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Glaïeuls",
+				"TYPE" : "Terrain sportif - Volleyball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3994401316386, 45.48025540112883 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Glaïeuls",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39887389470736, 45.480208527199785 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Glaïeuls",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3999825737428, 45.480203179652 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Glaïeuls",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39998311824168, 45.479895425813815 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Glaïeuls",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39395754206058, 45.505517943557834 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Pensées",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3941106353064, 45.50550732210603 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Pensées",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43614926750571, 45.52728495403339 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Des Semis",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4986091445806, 45.516496432154355 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Desmarteau",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49078945216435, 45.493434459777504 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Terrain sportif - Volleyball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49056949756591, 45.49306681010431 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49074213444739, 45.49297733400476 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48945243451607, 45.49273389993525 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49038124940573, 45.49328633804042 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49018018534984, 45.493050616991184 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49091373890494, 45.49335741064325 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49032601434364, 45.49415482212035 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48847625131067, 45.49294070353107 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Terrain sportif - Football",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48972484463016, 45.49283197588599 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.489557215048, 45.493593870339495 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Empire",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4782770679037, 45.48819178194635 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fairfield",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : "École secondaire participative l'Agora"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50091585367811, 45.521931003655276 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fernand-Bouffard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5006971298545, 45.5218441803085 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fernand-Bouffard",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50163082100532, 45.522131654836315 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fernand-Bouffard",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44122408427918, 45.51810279491663 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fonrouge",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44124416601495, 45.51805096047827 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fonrouge",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44192077230935, 45.518757347297054 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fonrouge",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44086379622517, 45.518843007707126 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fonrouge",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4403917634552, 45.51894994012364 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fonrouge",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44031695993576, 45.51922964887759 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Fonrouge",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48108515720588, 45.54145050479609 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Franchère\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5045662491864, 45.527001033023346 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gardenville",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.501450854193, 45.5259091800782 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gardenville",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44961957071261, 45.541283684979895 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Est",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45052160508766, 45.53955370281041 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Est\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45492063852615, 45.53378022579331 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45448979274535, 45.53349710061492 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4548963593082, 45.53362873565079 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45505804240815, 45.53361305985504 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45369163218362, 45.53481723332661 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4546234910251, 45.5341230830271 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45369649678017, 45.53384547293549 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45457083016152, 45.53386583099351 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45444492722439, 45.53365999573835 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gentilly Ouest",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44029677194709, 45.550451246434214 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gerry-Boulet\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.52179376231031, 45.527330397860865 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gilles-Latulippe",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.52114762326333, 45.52652953909787 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gilles-Latulippe",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.52159070422026, 45.52672266678135 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gilles-Latulippe",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46560455898442, 45.55838429159093 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gray",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4673569070586, 45.5577675857861 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gray",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46739694676815, 45.55786311936222 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gray",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49491984750867, 45.49689824079165 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4945758627546, 45.49681425355791 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49305231640128, 45.49867558964544 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49480648892471, 45.49709837539318 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49422074952116, 45.497724508599326 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4951061074499, 45.496981727225425 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49410589818721, 45.497350045066106 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49353911066207, 45.49822704228092 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Génération\r\nParc Génération\r\n",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43870819231141, 45.48797728212035 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Carmel",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43785742156753, 45.48781111569645 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Carmel",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43924218321604, 45.48810756176058 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Carmel",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43848908183844, 45.48921357318342 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Carmel",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43830947207695, 45.48801497144819 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Carmel",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46407233976161, 45.49329327918037 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46376682325784, 45.493020928625384 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Jeux de bocce",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46333498268773, 45.49311491412769 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46299590848787, 45.493321751047404 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46359937701993, 45.49357367577985 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46206048554255, 45.49413351133958 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46372222471419, 45.49329578819824 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Gérard-Philipps",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41525365059533, 45.50734796574185 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Hector-Martin",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.415287528661, 45.50730415639942 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Hector-Martin",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40449198947957, 45.49584282775059 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Henri-Cyr",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4047252500336, 45.49563541318714 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Henri-Cyr",
+				"TYPE" : "Circuit d’entrainement",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40467195367508, 45.49592297444932 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Henri-Cyr",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40413741890286, 45.49571777476995 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Henri-Cyr",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42391124918507, 45.49161045497776 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42405972939098, 45.491841430346156 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42373745632274, 45.49185073915161 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42362364850285, 45.49220207567232 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4233571168759, 45.490745772686154 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42421541999964, 45.49185510430292 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42380421102705, 45.492352189352346 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4236523668727, 45.492120806944044 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42362474326103, 45.49139211326133 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42287774954691, 45.49214427105123 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Immaculée-Conception",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45792893686267, 45.49666982942231 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean XXIII",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4578704324682, 45.49658021668751 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean XXIII",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.454643686471, 45.495528911086176 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Jacques-Bertrand",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45507766266357, 45.495560595795716 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Jacques-Bertrand",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45385605435037, 45.496233761436805 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Jacques-Bertrand",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45508368820781, 45.495640508380085 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Jacques-Bertrand",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45510030809797, 45.49517482212479 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Jacques-Bertrand",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47983268460777, 45.57278884770929 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47980502144382, 45.57316584092028 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47859692330053, 45.57215255926452 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47846060864258, 45.57235481319507 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47957918407361, 45.57262928788118 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47933706864457, 45.572830660940014 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47836564775082, 45.5722665817887 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Louis",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5180576626637, 45.533352930799786 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Pierre-Côté",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51707445419045, 45.5329189660428 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-Pierre-Côté",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49276174777037, 45.52368375521081 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4916719268811, 45.523315707672026 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49304445815135, 45.52386330385161 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49280039788547, 45.523430398989774 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49327236716555, 45.5236113983646 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49305140501689, 45.52348168965508 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49295270005092, 45.52360836282792 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49230479127843, 45.523546489429 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4923756049979, 45.52343489582159 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jean-de-Lalande",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.38874614253906, 45.49133199458921 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Antonio-Mantha",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.38881489785759, 45.491419323766536 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Antonio-Mantha",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43688781333124, 45.512893566227866 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Paré",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43669224665555, 45.513246249174735 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Paré",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43713020070905, 45.512739998863076 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Paré",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43686715974322, 45.51328493590248 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Paré",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43693933104743, 45.51316800020608 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-Paré",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47344099461644, 45.4997925670003 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-William-Gendron",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47297714553507, 45.49982944785561 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-William-Gendron",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47368736048173, 45.499567323434675 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-William-Gendron",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47295079926295, 45.49992695968777 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-William-Gendron",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47377797245804, 45.5000868804094 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-William-Gendron",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47391749888706, 45.5424830511165 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-de-Sérigny",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4743646192519, 45.5421504367683 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-de-Sérigny",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47375518257306, 45.541274591046275 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-de-Sérigny",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47409559491983, 45.54233935845989 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-de-Sérigny",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47347079981466, 45.54190801572826 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Joseph-de-Sérigny",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47033308381285, 45.48418287033805 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jubilee",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46995675883065, 45.484099817201795 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jubilee",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47078971455286, 45.484242997623795 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jubilee",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47110597411444, 45.484029513778545 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jubilee",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47076994090541, 45.48366407458612 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jubilee",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47016857973509, 45.483827387410166 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jubilee",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47714099410832, 45.501043562800575 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jules-Moulin",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47661101918743, 45.50121373376979 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jules-Moulin",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47704095808726, 45.501095366515926 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jules-Moulin",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47728141301401, 45.50092760415515 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jules-Moulin",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47734626359866, 45.501105298752044 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Jules-Moulin",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49743325310448, 45.51409513252837 ]
+			},
+			"properties" : {
+				"NOM" : "Parc La Fayette",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49696825917208, 45.51398735884089 ]
+			},
+			"properties" : {
+				"NOM" : "Parc La Fayette",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47291602154945, 45.51538168802003 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47411621949821, 45.51627790827018 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47342196857453, 45.51634848107181 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47484397629808, 45.516273355462374 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47259400533524, 45.51551600248036 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47315350097699, 45.516706795226085 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4733853455163, 45.515780256718315 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laflamme",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47337587656837, 45.53389027246353 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4738299666536, 45.5342323885419 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47343571700758, 45.534082305328155 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47398623883797, 45.53474525408934 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47286270048576, 45.53584279160132 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47415462508175, 45.53425315670865 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47437320732502, 45.533910066410606 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47466336553771, 45.53414115265098 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47341902709488, 45.534993681712656 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laurier\r\n",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48428788207268, 45.54531455086434 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laviolette",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48575464555584, 45.54631623125146 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laviolette",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48534571126983, 45.54593686661787 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laviolette",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48467853718218, 45.54526885579848 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laviolette",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48435621812715, 45.5454106314938 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laviolette",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48522854709397, 45.54582248099074 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Laviolette",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4446253965539, 45.50598715122415 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Le Marquis",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5052462787234, 45.54480799377161 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Le Moyne",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50539452405945, 45.544897267736026 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Le Moyne",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50546650343092, 45.544677038123595 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Le Moyne",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48090705090797, 45.52580792365201 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48154212122208, 45.525943034539246 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48153945128401, 45.52582113556206 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48054238745175, 45.52551241445956 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48033965747383, 45.52539724641139 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47812581063046, 45.524313943475164 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48053710514624, 45.52511433873607 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4816180891527, 45.52564782387052 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47979672624884, 45.52524095213882 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4810616716953, 45.525471953613895 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lecavalier",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43988937359029, 45.48914844479016 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lellamo",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46138860375774, 45.52618649749594 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lionel-Groulx",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.460016479147, 45.52587901151686 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lionel-Groulx",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46082448259766, 45.525584184406114 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lionel-Groulx",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46031435522478, 45.52497374728864 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lionel-Groulx",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46076058228829, 45.526290107634985 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lionel-Groulx",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44492074402419, 45.482671341574125 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Louis-Brosseau",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44484286223854, 45.48291907305605 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Louis-Brosseau",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44523873847275, 45.48281669252757 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Louis-Brosseau",
+				"TYPE" : "Terrain sportif - Volleyball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39579431966767, 45.49594830881846 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Louis-Olivier-Taillon",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39980816382575, 45.507074217609876 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lucien-Millette",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40002778647049, 45.50665696502115 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lucien-Millette",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39978104722483, 45.5071479844993 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lucien-Millette",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46346498979358, 45.50274267497732 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lucien-Tapin",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4633569032781, 45.50280585343228 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Lucien-Tapin\r\n",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45888318032189, 45.55684531987733 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Léo-Ayotte\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40091581514095, 45.50360211021547 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Mainville\r\n",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39908004392724, 45.50070619439011 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39866144566007, 45.500803905159174 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39800600928827, 45.501550768815285 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3985414213114, 45.500490597989796 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39897268753292, 45.501571920664944 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39920950078677, 45.50092952834156 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39996881050126, 45.50126164273993 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39925811411939, 45.50063870944186 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39894409035433, 45.50142646449645 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marcel-Simard",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43555574001043, 45.494662052662626 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Josée-Vandette",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43613396731632, 45.494942467910164 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Josée-Vandette",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43522738473784, 45.494718641950314 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Josée-Vandette",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43559348591872, 45.4945977287801 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Josée-Vandette",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5105667737336, 45.5439736397488 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Victorin",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50916492142413, 45.54411408042954 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Victorin",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50933264888587, 45.544176206410626 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marie-Victorin",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48168393850727, 45.5152442546455 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48102438445964, 45.51550802133403 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4814483378678, 45.51547911046612 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48171203456218, 45.515140682261816 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48054738220252, 45.5153328468766 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48260988430305, 45.51560938434471 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4815111196022, 45.51507795011543 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48136863822454, 45.515832651334755 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48083403496862, 45.515720134278936 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48073910616563, 45.51477069484721 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquette",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48345496365017, 45.53406980429024 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquis-de-Montcalm",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48404484577854, 45.534931281121196 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquis-de-Montcalm",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48294431857005, 45.53433937872277 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquis-de-Montcalm",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48353329022983, 45.534829929960914 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquis-de-Montcalm",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48301393085515, 45.533916867186875 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquis-de-Montcalm",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48325568865513, 45.533676978580765 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Marquis-de-Montcalm",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45211631984535, 45.51821063370222 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Masson",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45216640123104, 45.51833208165228 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Masson",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45460418261777, 45.527569710998996 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Mazenod",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40815247381744, 45.50325215545218 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Meunier",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4079986725117, 45.50376335890413 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Meunier",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40809930761512, 45.50316003625462 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Meunier",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40802788891102, 45.503520190200796 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Meunier",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40799663323149, 45.50365423263361 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Meunier",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47194841839321, 45.543157936096414 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Circuit d’entrainement",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46999521317125, 45.54450388727896 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Pente à glisser",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47257729134327, 45.54353944743833 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47240114188048, 45.543465123503246 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47318984752557, 45.54360054192727 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47167456739326, 45.543758262918374 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47147091288393, 45.54450747776973 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Piste de ski de fond et raquette",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47177743253327, 45.54403065450895 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Michel-Chartrand",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41442988011949, 45.49929900198828 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Monique-Gervais",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46447213920085, 45.49056380290105 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Monseigneur-Parent",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.409633250185, 45.507536043185844 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Moreau",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40984233536808, 45.507351432746496 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Moreau",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41046881963905, 45.50079359769553 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Mégantic\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49625097215961, 45.52750837410836 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Newhaven",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49609094409047, 45.52704479971279 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Newhaven",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4959115800779, 45.52734164026458 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Newhaven",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.35656605721044, 45.45954794508641 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pacific",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.35672126886263, 45.45961213045753 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pacific",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3567863006039, 45.45966337792743 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pacific",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.35644432108018, 45.4595117587924 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pacific",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.35689408080528, 45.45969870321326 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pacific",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37677912543235, 45.48005209508158 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Patenaude\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37688016541148, 45.48013821272674 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Patenaude\r\n",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50049103616414, 45.5407226894863 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Paul-Pratt",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50144627413859, 45.53991151983266 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Paul-Pratt",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50052660394391, 45.5400386785924 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Paul-Pratt",
+				"TYPE" : "Terrain sportif - Volleyball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4679067871097, 45.48859788262396 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Paul-Provost",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46794452753852, 45.48848580713791 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Paul-Provost",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4312686543979, 45.49935505945792 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perras",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43086584379657, 45.49924979383151 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perras",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4311193690047, 45.499309393807245 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perras",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43153830430829, 45.5000606550964 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perras",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43056674077039, 45.49959242156373 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perras",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43143766222987, 45.49940271820803 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perras\r\n",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4668676561054, 45.51959187988504 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Perron",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47398683078276, 45.49251408637527 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Et-Bernard-Lucas",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47396856818696, 45.49272488882729 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Et-Bernard-Lucas",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47408671041345, 45.49257958695039 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Et-Bernard-Lucas",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47373697572893, 45.49268810438174 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Et-Bernard-Lucas",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42201223250996, 45.498220907984624 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42306714290324, 45.49685982654784 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42432925008686, 45.49725727537594 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : "1 synthétique, 1 naturel"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42381329553982, 45.498674885651326 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42364968951912, 45.49786752587445 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4227711437446, 45.49799328753545 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42254095274015, 45.498442384093565 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42289160713744, 45.49749146974414 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47339658956979, 45.49222968094297 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-Laporte (Saint-Hubert)",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47445672825876, 45.49280644711794 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pierre-et-Bernard-Lucas",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37495152764745, 45.48876971983479 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Pinard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45979339132269, 45.52931716819398 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Portneuf",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41341480195413, 45.46994125407412 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Quevillon",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4136641811013, 45.47015981283346 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Quevillon",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41322912382527, 45.47005657316028 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Quevillon",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41373539362147, 45.4702477165687 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Quevillon",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44911067882005, 45.51250033749931 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Racine",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44918075403379, 45.512171716637894 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Racine",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44857333388825, 45.512223438541405 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Racine",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44784101758152, 45.513029701721855 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Racine",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44890036998832, 45.51217292962145 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Racine",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44774133778559, 45.512428533922396 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Racine",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50512698800625, 45.51839030677216 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Jeux de galet",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5050477268679, 45.51849255333927 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Jeux de fer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50558684043887, 45.518821073978934 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50442851901505, 45.518540927007045 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50482930297842, 45.518605928971766 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50483808959686, 45.5183520478027 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50422370524703, 45.51826847720384 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50462007704608, 45.518262269607234 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50417306324658, 45.51834123747736 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43480486463429, 45.48313209739142 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond-Brassard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43531568019648, 45.48245155107969 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond-Brassard",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41802735466871, 45.48312369567434 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond-Comeau",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4184750239738, 45.482669220945155 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Raymond-Comeau",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45098432533167, 45.48512571022792 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45022203679363, 45.48595867694193 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Terrain sportif - Tennis",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45131443415995, 45.486203468238024 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4522669698358, 45.48625683133767 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45200246890772, 45.4858880134469 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45110793784954, 45.48557724037656 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45049556008684, 45.48609814839121 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Skatepark",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45052010409064, 45.48571834088656 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45169804844252, 45.485647419569936 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45073427446121, 45.48561893390893 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45158177731601, 45.48649934989309 ]
+			},
+			"properties" : {
+				"NOM" : "Parc René-Veillet",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4246740625971, 45.494174567990314 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Robert-Dubois",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45399322466166, 45.51483460517277 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roberval",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45437162535161, 45.51471200488758 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roberval",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46100727668895, 45.50183364808755 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roch-Sénéchal",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46105789364698, 45.50170929667184 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roch-Sénéchal",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45499317855013, 45.510857296335 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Rolland",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45483237048748, 45.51101129162607 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Rolland",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43567970347318, 45.512000960428466 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roméo-Vachon",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45806354059546, 45.51545489214696 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Rouillard\r\n",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4945129063684, 45.54177524092473 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roussillon",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49491714806965, 45.541218368090284 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Roussillon",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47714091656343, 45.48449640923522 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Régent",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47684845961352, 45.484552776301214 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Régent",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47570462918874, 45.480935167216664 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Saint-Judes",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42791935601774, 45.50616330788848 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Saint-Nazaire",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43887875169032, 45.48331892834181 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Saint-Thomas-De-Villeneuve",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47554596104708, 45.53322137788828 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Samuel-De-Champlain",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4154338937424, 45.489089325490745 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Sirois",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41509366253102, 45.48813467398372 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Sirois",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41596799844667, 45.488783030332954 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Sirois",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41565591410155, 45.488585969735986 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Sirois",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41545447542616, 45.48838212395588 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Sirois",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46903196898062, 45.47897688150597 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Stephen-Olynyk",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46858872368628, 45.47900320382911 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Stephen-Olynyk",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48718882083577, 45.56289055334175 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Thomas-Dubuc",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48661658212718, 45.56262121860953 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Thomas-Dubuc",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4856771407291, 45.56264385967791 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Thomas-Dubuc",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48582283130503, 45.562977620048805 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Thomas-Dubuc",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48596303186154, 45.562350731846294 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Thomas-Dubuc",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47724656721992, 45.49459783251314 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Ulric-Brouillard",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47718770364405, 45.49456829552961 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Ulric-Brouillard",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41899060172953, 45.527670332845354 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Viger",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41902493524852, 45.528029611656244 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Viger",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41899896851002, 45.527911202541404 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Viger",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41912549776455, 45.52777044824795 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Viger",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47445974111177, 45.478132656808995 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Watson",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42538599263135, 45.50402560737491 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Wilfrid-Tremblay",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42540655790953, 45.50395955141669 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Wilfrid-Tremblay",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50243372232936, 45.54058850520788 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de Normandie",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5019409999009, 45.541173344379594 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de Normandie",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50290925475657, 45.54055528020031 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de Normandie",
+				"TYPE" : "Pataugeoire",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50249507473306, 45.54109785101969 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de Normandie",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50305493212332, 45.540477548468964 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de Normandie",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5031736427663, 45.54060645971885 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de Normandie",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48140876984903, 45.56936685727022 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de l'Église",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4882461412998, 45.584881138734815 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de l'Île-Charron",
+				"TYPE" : "Terrain de golf",
+				"DESCRIPTION" : "PiC-Parcours de disc golf de l'Île"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48954192944178, 45.57820203897684 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de l'Île-Charron",
+				"TYPE" : "Plage",
+				"DESCRIPTION" : "Plage municipale de Longueuil"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49008093998542, 45.578447310150096 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de l'Île-Charron",
+				"TYPE" : "Rampe de mise à l’eau (canot et kayak de mer)",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48823470793246, 45.578268997835956 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de l'Île-Charron",
+				"TYPE" : "Terrain sportif - Volleyball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49009518370947, 45.57919406024229 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de l'Île-Charron",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40800885328508, 45.48029119884518 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de la Cité",
+				"TYPE" : "Pente à glisser",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41026543653062, 45.487080580243365 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de la Cité",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41005476391003, 45.4872522558085 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de la Cité",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41001967249346, 45.48689466216199 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de la Cité",
+				"TYPE" : "Circuit d’entrainement",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40979665410288, 45.488906964722545 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de la Cité",
+				"TYPE" : "Piste de ski de fond et raquette",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40853090518216, 45.48801428186176 ]
+			},
+			"properties" : {
+				"NOM" : "Parc de la Cité",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47819424561962, 45.55901928627979 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Hirondelles",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47765993910913, 45.559476299680064 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Hirondelles",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47747302331842, 45.559426708209934 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Hirondelles",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47779579941708, 45.559250039034104 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Hirondelles",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45308431825984, 45.55279554562219 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Sureaux",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45371143511642, 45.55282771478218 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Sureaux",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45339052578134, 45.55284096732113 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Sureaux",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37884961708129, 45.46954576195043 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Rond de glace",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3794137772204, 45.46920155455241 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37923198469974, 45.46946504529476 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Patinoires et sentier glacé",
+				"DESCRIPTION" : "Patinoire extérieure"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37826451236216, 45.47067080732881 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37929376282764, 45.46866868939113 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Jeux d’eau",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37875485374003, 45.46923853145512 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37891972812541, 45.469040143086886 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37906695127492, 45.47020166244028 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Terrain sportif - Baseball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.37970982213257, 45.468883841358355 ]
+			},
+			"properties" : {
+				"NOM" : "Parc des Vétérans",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42745575272242, 45.50709195756177 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du Patriote-Joseph-Vincent",
+				"TYPE" : "Skatepark",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42671792341426, 45.50735236418741 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du Patriote-Joseph-Vincent",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42681673051025, 45.506903065813134 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du Patriote-Joseph-Vincent",
+				"TYPE" : "Jeux de galet",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4270653399531, 45.50688433622396 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du Patriote-Joseph-Vincent",
+				"TYPE" : "Chalet de parc",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42676585579694, 45.507170871075544 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du Patriote-Joseph-Vincent",
+				"TYPE" : "Jeux de fer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42783794842785, 45.50707529385222 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du Patriote-Joseph-Vincent",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.3899189413152, 45.48886240025139 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du centre sportif Rosanne-Laflamme",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39306700393298, 45.487902700256434 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du centre sportif Rosanne-Laflamme",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39114109442257, 45.48782801119869 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du centre sportif Rosanne-Laflamme",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39258872463341, 45.487722630450286 ]
+			},
+			"properties" : {
+				"NOM" : "Parc du centre sportif Rosanne-Laflamme",
+				"TYPE" : "Terrain sportif - Football",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45916222876092, 45.52373399475731 ]
+			},
+			"properties" : {
+				"NOM" : "Parc Étienne-Truteau\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46296075435981, 45.512165338887435 ]
+			},
+			"properties" : {
+				"NOM" : "Piscine - Olympia",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : "Piscine"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39372000860725, 45.488554212172936 ]
+			},
+			"properties" : {
+				"NOM" : "Piscine sportif Rosanne-Laflamme",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : "Piscine"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45629748268209, 45.543259712296454 ]
+			},
+			"properties" : {
+				"NOM" : "Planchodrome Jean-Béliveau",
+				"TYPE" : "Skatepark",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49699651001015, 45.53277887198466 ]
+			},
+			"properties" : {
+				"NOM" : "École Armand-Racicot",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49754123043323, 45.532704603354105 ]
+			},
+			"properties" : {
+				"NOM" : "École Armand-Racicot",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45764381691792, 45.5398950101652 ]
+			},
+			"properties" : {
+				"NOM" : "École Bel-Essor",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45736647399542, 45.54031021649036 ]
+			},
+			"properties" : {
+				"NOM" : "École Bel-Essor",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47597484301401, 45.523806778535125 ]
+			},
+			"properties" : {
+				"NOM" : "École Bourgeoys-Champagnat",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4758223448001, 45.5240010219822 ]
+			},
+			"properties" : {
+				"NOM" : "École Bourgeoys-Champagnat",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4762422391794, 45.523797862383155 ]
+			},
+			"properties" : {
+				"NOM" : "École Bourgeoys-Champagnat",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47538698665501, 45.523837023877114 ]
+			},
+			"properties" : {
+				"NOM" : "École Bourgeoys-Champagnat",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47618006630965, 45.52387681779631 ]
+			},
+			"properties" : {
+				"NOM" : "École Bourgeoys-Champagnat",
+				"TYPE" : "Terrain sportif - Pétanque",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41924740812723, 45.5017301916507 ]
+			},
+			"properties" : {
+				"NOM" : "École Charles-Lemoyne",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42596921415951, 45.492161922198115 ]
+			},
+			"properties" : {
+				"NOM" : "École De Maricourt",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51351705592698, 45.5163506981131 ]
+			},
+			"properties" : {
+				"NOM" : "École Félix-Leclerc",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41531890246755, 45.46964503509306 ]
+			},
+			"properties" : {
+				"NOM" : "École Gaétan-Boucher",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41559933747024, 45.46987885698723 ]
+			},
+			"properties" : {
+				"NOM" : "École Gaétan-Boucher",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4824294730254, 45.509996671753974 ]
+			},
+			"properties" : {
+				"NOM" : "École Jacques-Ouellette",
+				"TYPE" : "Piscine",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49315705864824, 45.49817122814331 ]
+			},
+			"properties" : {
+				"NOM" : "École Lajeunesse\r\n",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42521926740042, 45.48139010852003 ]
+			},
+			"properties" : {
+				"NOM" : "École Laurent-Benoît",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42563305797754, 45.481616782500815 ]
+			},
+			"properties" : {
+				"NOM" : "École Laurent-Benoît",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42587075966937, 45.4816875978952 ]
+			},
+			"properties" : {
+				"NOM" : "École Laurent-Benoît",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4621857163672, 45.525514603667865 ]
+			},
+			"properties" : {
+				"NOM" : "École Lionel-Groulx",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4763721872971, 45.57225384500016 ]
+			},
+			"properties" : {
+				"NOM" : "École Marie-Victorin (Pavillon Le Jardin)",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47616063660033, 45.57230094100172 ]
+			},
+			"properties" : {
+				"NOM" : "École Marie-Victorin (Pavillon Le Jardin)",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47556779189361, 45.57159326874817 ]
+			},
+			"properties" : {
+				"NOM" : "École Marie-Victorin (Pavillon Le Jardin)",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47267029513138, 45.50108861755805 ]
+			},
+			"properties" : {
+				"NOM" : "École Maurice-L.Duplessis",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4729472115183, 45.500927173066366 ]
+			},
+			"properties" : {
+				"NOM" : "École Maurice-L.Duplessis",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47249607965655, 45.5009025504533 ]
+			},
+			"properties" : {
+				"NOM" : "École Maurice-L.Duplessis",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.471954920098, 45.50047412805943 ]
+			},
+			"properties" : {
+				"NOM" : "École Maurice-L.Duplessis",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48589898866491, 45.54353883685099 ]
+			},
+			"properties" : {
+				"NOM" : "École Pierre D'Iberville",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : "École primaire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48617341441387, 45.54361172341803 ]
+			},
+			"properties" : {
+				"NOM" : "École Pierre D'Iberville",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : "École primaire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.465424968598, 45.49062515808315 ]
+			},
+			"properties" : {
+				"NOM" : "École Primaire Saint-Joseph",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46581366786101, 45.4908628712647 ]
+			},
+			"properties" : {
+				"NOM" : "École Primaire Saint-Joseph",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5097666227342, 45.52458810117447 ]
+			},
+			"properties" : {
+				"NOM" : "École Saint-Jean-Baptiste",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45685280007865, 45.55171313708461 ]
+			},
+			"properties" : {
+				"NOM" : "École Saint-Romain",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45699184299887, 45.551572721396155 ]
+			},
+			"properties" : {
+				"NOM" : "École Saint-Romain",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45668002305717, 45.551653551412166 ]
+			},
+			"properties" : {
+				"NOM" : "École Saint-Romain",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50435938304162, 45.528851210603676 ]
+			},
+			"properties" : {
+				"NOM" : "École Sainte-Claire",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50394905257062, 45.52889304509057 ]
+			},
+			"properties" : {
+				"NOM" : "École Sainte-Claire",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48996047630672, 45.510220646169536 ]
+			},
+			"properties" : {
+				"NOM" : "École Secondaire Gérard-Filion",
+				"TYPE" : "Terrain sportif - Football",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48933699297896, 45.539160519592826 ]
+			},
+			"properties" : {
+				"NOM" : "École Secondaire Jacques-Rousseau",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49007223038411, 45.53843542649223 ]
+			},
+			"properties" : {
+				"NOM" : "École Secondaire Jacques-Rousseau",
+				"TYPE" : "Terrain sportif - Football",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4904025025811, 45.5387092493697 ]
+			},
+			"properties" : {
+				"NOM" : "École Secondaire Jacques-Rousseau",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42578812972661, 45.492660756895546 ]
+			},
+			"properties" : {
+				"NOM" : "École de Maricourt",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4010350267515, 45.50053251455587 ]
+			},
+			"properties" : {
+				"NOM" : "École des Mille-Fleurs",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.40017292727993, 45.500985076503376 ]
+			},
+			"properties" : {
+				"NOM" : "École des Mille-Fleurs",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39980997408347, 45.500992377488274 ]
+			},
+			"properties" : {
+				"NOM" : "École des Mille-Fleurs",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49132716976065, 45.523116334425104 ]
+			},
+			"properties" : {
+				"NOM" : "École des Petits-Explorateurs",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49086971826326, 45.52296920937984 ]
+			},
+			"properties" : {
+				"NOM" : "École des Petits-Explorateurs",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49021326662738, 45.52289128423202 ]
+			},
+			"properties" : {
+				"NOM" : "École des Petits-Explorateurs",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49099281971363, 45.5228812539554 ]
+			},
+			"properties" : {
+				"NOM" : "École des Petits-Explorateurs",
+				"TYPE" : "Piste d'athlétisme",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47083680542968, 45.520381522393755 ]
+			},
+			"properties" : {
+				"NOM" : "École du Tournesol",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47143353625451, 45.52080563651209 ]
+			},
+			"properties" : {
+				"NOM" : "École du Tournesol",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47107276332392, 45.52028063875527 ]
+			},
+			"properties" : {
+				"NOM" : "École du Tournesol",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45876192785349, 45.56237596146962 ]
+			},
+			"properties" : {
+				"NOM" : "École internationale du Vieux-Longueuil",
+				"TYPE" : "Module de jeux",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45835984335706, 45.56199511668302 ]
+			},
+			"properties" : {
+				"NOM" : "École internationale du Vieux-Longueuil",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46169149177604, 45.4922864526799 ]
+			},
+			"properties" : {
+				"NOM" : "École secondaire Mgr.-A.-M.-Parent",
+				"TYPE" : "Terrain sportif - Soccer",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46230971415025, 45.49162895008596 ]
+			},
+			"properties" : {
+				"NOM" : "École secondaire Mgr.-A.-M.-Parent",
+				"TYPE" : "Terrain sportif - Basketball",
+				"DESCRIPTION" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51087006565345, 45.53716601505101 ]
+			},
+			"properties" : {
+				"NOM" : "Édifice Marcel-Robidas",
+				"TYPE" : "Table pique-nique",
+				"DESCRIPTION" : "Établissement municipaux"
+			}
+		}
+	]
+}

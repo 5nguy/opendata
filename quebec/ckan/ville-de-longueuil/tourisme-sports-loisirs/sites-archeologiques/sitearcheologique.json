@@ -1,0 +1,174 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Donnees_GEOJSON",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50757317243473, 45.5418965897571 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-83",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5102971965706, 45.53898670030764 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-106",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.489034808941, 45.565904273509354 ]
+			},
+			"properties" : {
+				"TYPE" : "Site du patrimoine",
+				"DESCRIPTION" : "MAISON MICHEL-DUBUC",
+				"HYPERLIEN" : "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92840&type=bien"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50612378732858, 45.544011705945564 ]
+			},
+			"properties" : {
+				"TYPE" : "Bien culturel protégé",
+				"DESCRIPTION" : "MAISON LAMARRE",
+				"HYPERLIEN" : "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92729&type=bien"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.51869821340573, 45.51755273796944 ]
+			},
+			"properties" : {
+				"TYPE" : "Bien culturel protégé",
+				"DESCRIPTION" : "MAISON PATENAUDE",
+				"HYPERLIEN" : "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92425&type=bien"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50683069544057, 45.54235010574421 ]
+			},
+			"properties" : {
+				"TYPE" : "Bien culturel protégé",
+				"DESCRIPTION" : "MAISON LABADIE",
+				"HYPERLIEN" : "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92728&type=bien"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50780157286084, 45.54020286426871 ]
+			},
+			"properties" : {
+				"TYPE" : "Bien culturel protégé",
+				"DESCRIPTION" : "CO-CATHÉDRALE SAINT-ANTOINE-DE-PADOUE",
+				"HYPERLIEN" : "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92963&type=bien"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5141605154453, 45.53558356791674 ]
+			},
+			"properties" : {
+				"TYPE" : "Site du patrimoine",
+				"DESCRIPTION" : "HÔTEL-DU-ROI",
+				"HYPERLIEN" : "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92837&type=bien"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5077898902023, 45.54008670508754 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-5",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4259107211097, 45.50668167483911 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFi-11",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50935989713459, 45.541725374944235 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-8",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50728069483439, 45.54277572054005 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-7",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.506267648214, 45.54055448729775 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-6",
+				"HYPERLIEN" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50826045002304, 45.54184977040508 ]
+			},
+			"properties" : {
+				"TYPE" : "Site archéologique connu",
+				"DESCRIPTION" : "BjFj-75",
+				"HYPERLIEN" : null
+			}
+		}
+	]
+}

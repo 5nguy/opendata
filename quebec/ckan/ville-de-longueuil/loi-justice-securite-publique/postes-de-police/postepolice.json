@@ -1,0 +1,39 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Donnees_GEOJSON",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48736562787045, 45.52169756320241 ]
+			},
+			"properties" : {
+				"NOM" : "Service de police ¿ Division Nord",
+				"DESCRIPTION" : "Poste de police"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.39985212835035, 45.48860219054422 ]
+			},
+			"properties" : {
+				"NOM" : "Poste de Police",
+				"DESCRIPTION" : "Poste de police"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42657782860955, 45.51814629844385 ]
+			},
+			"properties" : {
+				"NOM" : "Service de police ¿ Division Sud",
+				"DESCRIPTION" : "Poste de police"
+			}
+		}
+	]
+}

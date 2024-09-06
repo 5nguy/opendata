@@ -1,0 +1,72 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Donnees_GEOJSON",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44820228332412, 45.48420596776334 ]
+			},
+			"properties" : {
+				"NOM" : "Caserne 33",
+				"DESCRIPTION" : "Caserne de Pompier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.50346062335855, 45.51246834078382 ]
+			},
+			"properties" : {
+				"NOM" : "Caserne 41",
+				"DESCRIPTION" : "Caserne de Pompier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49095718453763, 45.50169222900294 ]
+			},
+			"properties" : {
+				"NOM" : "Caserne 31",
+				"DESCRIPTION" : "Caserne de Pompier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46074156494268, 45.5444203330724 ]
+			},
+			"properties" : {
+				"NOM" : "Caserne 23",
+				"DESCRIPTION" : "Caserne de Pompier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48292596607611, 45.526368701687616 ]
+			},
+			"properties" : {
+				"NOM" : "Caserne 22",
+				"DESCRIPTION" : "Caserne de Pompier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.38850307599759, 45.4837864421584 ]
+			},
+			"properties" : {
+				"NOM" : "Caserne 34",
+				"DESCRIPTION" : "Caserne de Pompier"
+			}
+		}
+	]
+}

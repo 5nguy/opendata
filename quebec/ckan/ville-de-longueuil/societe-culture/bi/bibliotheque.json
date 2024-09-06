@@ -1,0 +1,17 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Donnees_GEOJSON",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46358945937664, 45.52112337347952 ]
+			},
+			"properties" : {
+				"NOM" : "Bibliothèque Georges-Dor",
+				"DESCRIPTION" : "Bibliothèque"
+			}
+		}
+	]
+}
