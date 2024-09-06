@@ -1,0 +1,1101 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Transport_en_commun_arret",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0165528502, 48.2388457639 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "5",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0141222065, 48.2380896786 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "6",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0094623861, 48.2380892214 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "7",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0074820573, 48.238099273 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "8",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0026608398, 48.2380817924 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "10",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9908805559, 48.2378253547 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "12",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9875090169, 48.2379323354 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "13",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9865552932, 48.2357766498 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "14",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9865680147, 48.2322124648 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "16",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : "Arrêt autobus en face"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9897146539, 48.2295044449 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "17",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9945854816, 48.2284804153 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "19-1",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.997639735, 48.2289101676 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "19-2",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9985060934, 48.2247864103 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "22",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0019983066, 48.225009148 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "24",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0052393722, 48.225116028 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "26",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0095812901, 48.2283696444 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "28",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0095584628, 48.2308447587 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "29",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0138387062, 48.2313297974 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "30",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0144243523, 48.2333938206 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "31",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0150499237, 48.2360523582 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "33",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0190764141, 48.2360816902 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "35",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0199173092, 48.2376872846 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "36",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0199185842, 48.2392406855 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "37",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.019310862, 48.2457644145 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "51",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0291071817, 48.2482687978 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "62-A",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.02012311, 48.2434369501 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "50",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0214082825, 48.247202659 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "60",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0235030264, 48.2473588085 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "61",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0318871653, 48.2435551737 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "75",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0325058509, 48.2412926758 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "76",
+				"CIRCUIT" : "20-21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0281136668, 48.2493519992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "62",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0262959232, 48.2397800621 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "76-A",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0244714857, 48.2398367602 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "76-B",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0218272344, 48.2606683046 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "63",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0229796293, 48.2692965571 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "64-2",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0285381641, 48.271760597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "64-3",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0332885158, 48.2763482599 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "65",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0350500575, 48.2819734311 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0364576308, 48.2865986226 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67-1",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0382184937, 48.2921993275 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67-2",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0388137795, 48.2940885953 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67-3",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0382362008, 48.2912854085 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67-4",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0368884633, 48.2868373656 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67-5",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0352791553, 48.2815542554 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "68",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0342691528, 48.2782796617 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "69-1",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0332257075, 48.274990414 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "70",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0310912058, 48.2726984301 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "71",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0206531586, 48.2679597216 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "72",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0216301446, 48.2612758269 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "73",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0189695608, 48.24750078 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "52",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0188118271, 48.2486575022 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "53",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0158736797, 48.2484608669 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "54",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0123888768, 48.2481751109 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "55",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0125233779, 48.2462951838 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "56",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : "Arrêt autobus en face"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0125542378, 48.2465253019 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "56",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0328937032, 48.2487373978 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "63-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.035795068, 48.2482609559 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "64-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0389524188, 48.2471965695 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "65-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0447630294, 48.2467225111 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "67-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : "<Null>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0403853878, 48.2436408845 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "68-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.037165458, 48.2438109446 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "71-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0339743309, 48.243998433 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "72-A",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.029813416, 48.2336472918 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "79",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.026603314, 48.2336199487 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "80",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0250579597, 48.2350689053 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "81",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0224581299, 48.2361962695 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "82-2",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0224592498, 48.2392652801 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "84",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0211724754, 48.2411262794 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "1",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Abris-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0188587187, 48.2411349131 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "2",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0284434882, 48.2495199316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "74-1",
+				"CIRCUIT" : "21",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.0163016655, 48.2467883074 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "58",
+				"CIRCUIT" : "20",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.986887297, 48.2321986603 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "16",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.9947501257, 48.2380789905 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"MUNICIPALITE" : "86042",
+				"NO_ARRET" : "11-A",
+				"CIRCUIT" : "10",
+				"TYPE_ARRET" : "Arrêt-bus",
+				"NOTE" : null
+			}
+		}
+	]
+}

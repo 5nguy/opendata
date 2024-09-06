@@ -1,0 +1,2588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Transport_commun_arret</name>
+<visibility>1</visibility>
+<Schema name="Transport_en_commun_arret" id="kml_schema_ft_Transport_en_commun_arret">
+<SimpleField type="xsd:int" name="OBJECTID">
+<displayName>OBJECTID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MUNICIPALITE">
+<displayName>MUNICIPALITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NO_ARRET">
+<displayName>NO_ARRET</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CIRCUIT">
+<displayName>CIRCUIT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TYPE_ARRET">
+<displayName>TYPE_ARRET</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOTE">
+<displayName>NOTE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Transport_en_commun_arret">
+<name>Transport_en_commun_arret</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">1</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">5</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0165528502119,48.2388457638671,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">2</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">6</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0141222064599,48.2380896785643,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">3</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">7</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0094623861264,48.238089221448,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">4</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">8</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0074820572599,48.2380992729661,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">5</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">10</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0026608397959,48.2380817923805,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">6</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">12</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9908805559021,48.2378253547009,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">7</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">13</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9875090169453,48.2379323354436,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">8</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">14</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9865552931675,48.2357766497512,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td>Arrêt autobus en face</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">9</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">16</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+<SimpleData name="NOTE">Arrêt autobus en face</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9865680147036,48.232212464833,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">10</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">17</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9897146539019,48.2295044449359,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>19-1</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">11</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">19-1</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9945854815933,48.2284804153089,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>19-2</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">12</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">19-2</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9976397349662,48.228910167635,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">13</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">22</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.998506093418,48.2247864102581,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">14</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">24</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0019983065913,48.2250091479959,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">15</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">26</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0052393722068,48.2251160279743,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">16</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">28</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0095812901459,48.2283696443648,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">17</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">29</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0095584628387,48.2308447587479,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">18</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">30</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0138387061578,48.2313297974218,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">19</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">31</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.014424352326,48.2333938205618,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>33</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">20</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">33</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0150499236525,48.2360523581569,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">21</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">35</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0190764141294,48.2360816901657,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">22</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">36</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0199173091511,48.2376872846347,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>37</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">23</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">37</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0199185842405,48.2392406854543,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>51</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">24</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">51</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0193108620163,48.2457644144559,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>62-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">25</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">62-A</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0291071816721,48.2482687977778,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>50</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">26</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">50</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0201231100324,48.2434369501074,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>27</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>60</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">27</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">60</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0214082824702,48.2472026590013,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>61</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">28</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">61</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0235030263818,48.2473588084884,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>75</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">29</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">75</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0318871652987,48.2435551737187,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>76</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20-21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">30</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">76</SimpleData>
+<SimpleData name="CIRCUIT">20-21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0325058508921,48.241292675831,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>62</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">31</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">62</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0281136668433,48.249351999197,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>32</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>76-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">32</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">76-A</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0262959232393,48.2397800620531,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>33</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>76-B</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">33</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">76-B</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0244714856865,48.2398367602231,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>34</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>63</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">34</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">63</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0218272343633,48.2606683046179,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>64-2</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">35</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">64-2</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0229796292809,48.2692965571346,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>64-3</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">36</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">64-3</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0285381641115,48.2717605970218,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>37</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>65</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">37</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">65</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0332885157974,48.2763482599209,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>38</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">38</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0350500575495,48.2819734311261,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>39</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67-1</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">39</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67-1</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0364576308185,48.2865986226435,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67-2</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">40</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67-2</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.038218493713,48.2921993275077,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>41</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67-3</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">41</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67-3</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0388137794618,48.2940885953092,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>42</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67-4</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">42</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67-4</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0382362008012,48.2912854085144,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>43</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67-5</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">43</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67-5</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0368884633418,48.2868373656169,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>44</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>68</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">44</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">68</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0352791553204,48.2815542554346,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>45</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>69-1</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">45</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">69-1</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0342691527912,48.2782796617259,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>46</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>70</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">46</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">70</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0332257075122,48.2749904139752,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>71</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">47</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">71</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0310912058024,48.2726984300684,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>48</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>72</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">48</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">72</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.020653158582,48.2679597216105,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>49</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>73</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">49</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">73</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0216301446351,48.2612758268778,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>50</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>52</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">50</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">52</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0189695608432,48.2475007800326,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>51</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>53</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">51</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">53</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0188118270849,48.2486575022073,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>52</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>54</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">52</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">54</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0158736797097,48.2484608668641,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>53</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>55</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">53</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">55</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0123888768434,48.2481751109206,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>54</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>56</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td>Arrêt autobus en face</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">54</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">56</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+<SimpleData name="NOTE">Arrêt autobus en face</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0125233778616,48.2462951837764,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>55</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>56</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">55</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">56</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0125542377964,48.2465253018737,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>56</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>63-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">56</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">63-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0328937031968,48.2487373978481,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>57</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>64-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">57</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">64-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0357950679907,48.2482609559201,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>58</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>65-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">58</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">65-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0389524187539,48.2471965695378,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>59</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>67-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td><Null></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">59</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">67-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+<SimpleData name="NOTE">&lt;Null&gt;</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0447630293692,48.246722511063,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>60</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>68-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">60</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">68-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0403853878333,48.2436408845432,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>61</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>71-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">61</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">71-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0371654579615,48.2438109445506,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>62</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>72-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">62</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">72-A</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0339743309064,48.2439984329956,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>63</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>79</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">63</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">79</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0298134159913,48.2336472918187,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>64</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>80</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">64</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">80</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0266033140384,48.2336199486676,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>65</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>81</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">65</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">81</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0250579597063,48.2350689053021,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>66</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>82-2</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">66</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">82-2</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.022458129867,48.2361962694879,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>67</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>84</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">67</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">84</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0224592498199,48.2392652800792,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>68</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Abris-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">68</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">1</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Abris-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.021172475377,48.2411262794313,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>69</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">69</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">2</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0188587186862,48.2411349131412,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>70</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>74-1</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">70</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">74-1</SimpleData>
+<SimpleData name="CIRCUIT">21</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0284434882098,48.2495199316356,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>71</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>58</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">71</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">58</SimpleData>
+<SimpleData name="CIRCUIT">20</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-79.0163016655012,48.2467883073955,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>72</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">72</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">16</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.9868872969653,48.232198660324,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>73</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>86042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NO_ARRET</th>
+<td>11-A</td>
+</tr><tr bgcolor="">
+<th>CIRCUIT</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPE_ARRET</th>
+<td>Arrêt-bus</td>
+</tr><tr bgcolor="">
+<th>NOTE</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Transport_en_commun_arret">
+<SimpleData name="OBJECTID">73</SimpleData>
+<SimpleData name="MUNICIPALITE">86042</SimpleData>
+<SimpleData name="NO_ARRET">11-A</SimpleData>
+<SimpleData name="CIRCUIT">10</SimpleData>
+<SimpleData name="TYPE_ARRET">Arrêt-bus</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-78.99475012569,48.2380789904517,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
