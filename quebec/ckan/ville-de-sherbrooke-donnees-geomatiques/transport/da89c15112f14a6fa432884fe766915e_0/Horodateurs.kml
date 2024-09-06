@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Horodateurs" id="Horodateurs">
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="NO" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Horodateurs</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CIGA03</SimpleData>
+		<SimpleData name="NO">12</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8940239536524,45.3972649277993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CIGA02</SimpleData>
+		<SimpleData name="NO">13</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8947357104116,45.3971300587916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CIGA01</SimpleData>
+		<SimpleData name="NO">14</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8953606728463,45.3969326473919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-GARE01</SimpleData>
+		<SimpleData name="NO">35</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8966614729036,45.3972696700434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-GARE02</SimpleData>
+		<SimpleData name="NO">36</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8972126522125,45.3971692609196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING01</SimpleData>
+		<SimpleData name="NO">67</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8958587832815,45.3989168100096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING13</SimpleData>
+		<SimpleData name="NO">72</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8958389206322,45.3992170757077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING12</SimpleData>
+		<SimpleData name="NO">80</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8942777411949,45.399702779853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING02</SimpleData>
+		<SimpleData name="NO">81</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.894877765499,45.3992554198115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING11</SimpleData>
+		<SimpleData name="NO">89</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8928112298155,45.4002448899026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING05</SimpleData>
+		<SimpleData name="NO">95</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8920479420984,45.4003129126895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING10</SimpleData>
+		<SimpleData name="NO">99</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8916373284702,45.4007805907859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING09</SimpleData>
+		<SimpleData name="NO">102</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.890904304995,45.4011572673198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING08</SimpleData>
+		<SimpleData name="NO">107</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.890329089464,45.4015349524148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING06</SimpleData>
+		<SimpleData name="NO">108</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8901039276364,45.401304233145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELN01</SimpleData>
+		<SimpleData name="NO">112</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8921602135426,45.4041560437891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELN02</SimpleData>
+		<SimpleData name="NO">113</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8916386049762,45.4034086317057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELN03</SimpleData>
+		<SimpleData name="NO">115</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8911296536722,45.4026179148537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELN04</SimpleData>
+		<SimpleData name="NO">119</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8909233295161,45.4024987397579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELN06</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8919192512474,45.404096701664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELS08</SimpleData>
+		<SimpleData name="NO">124</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8883559004166,45.3981662504307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WELS05</SimpleData>
+		<SimpleData name="NO">126</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8889089832556,45.3992907519973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">PrivÃ©</SimpleData>
+		<SimpleData name="NO">135</SimpleData>
+		<SimpleData name="OBJECTID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9337308501582,45.3768594715315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING03</SimpleData>
+		<SimpleData name="NO">154</SimpleData>
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8941077035864,45.3995199877414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-GILL01</SimpleData>
+		<SimpleData name="NO">155</SimpleData>
+		<SimpleData name="OBJECTID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8931456609177,45.3993570249376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-CAMI01</SimpleData>
+		<SimpleData name="NO">156</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8947162582924,45.3987236297435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-FUSI01</SimpleData>
+		<SimpleData name="NO">158</SimpleData>
+		<SimpleData name="OBJECTID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8953423148752,45.3975675714928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-PALA01</SimpleData>
+		<SimpleData name="NO">175</SimpleData>
+		<SimpleData name="OBJECTID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8926862283454,45.4039282282944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-FRON03</SimpleData>
+		<SimpleData name="NO">182</SimpleData>
+		<SimpleData name="OBJECTID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8931533271403,45.4045012590967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-FRON02</SimpleData>
+		<SimpleData name="NO">183</SimpleData>
+		<SimpleData name="OBJECTID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8947749470266,45.4037199028172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-FRON04</SimpleData>
+		<SimpleData name="NO">184</SimpleData>
+		<SimpleData name="OBJECTID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.894677806805,45.4035691659239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-FRON05</SimpleData>
+		<SimpleData name="NO">185</SimpleData>
+		<SimpleData name="OBJECTID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8971509047148,45.4021198910994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-GOOD01</SimpleData>
+		<SimpleData name="NO">187</SimpleData>
+		<SimpleData name="OBJECTID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8965309494894,45.4012939489242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-MARQ01</SimpleData>
+		<SimpleData name="NO">193</SimpleData>
+		<SimpleData name="OBJECTID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8965148220352,45.4007027642319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-MARQ04</SimpleData>
+		<SimpleData name="NO">194</SimpleData>
+		<SimpleData name="OBJECTID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8958898569055,45.4008833404945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING07</SimpleData>
+		<SimpleData name="NO">200</SimpleData>
+		<SimpleData name="OBJECTID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8888961418386,45.4021668054938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-DEPO01</SimpleData>
+		<SimpleData name="NO">201</SimpleData>
+		<SimpleData name="OBJECTID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8879590067578,45.3989611724599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-GREN03</SimpleData>
+		<SimpleData name="NO">204</SimpleData>
+		<SimpleData name="OBJECTID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8906583938809,45.4039893731665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-GREN02</SimpleData>
+		<SimpleData name="NO">205</SimpleData>
+		<SimpleData name="OBJECTID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8908795653921,45.4039179458126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CITE01</SimpleData>
+		<SimpleData name="NO">237</SimpleData>
+		<SimpleData name="OBJECTID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8968147362709,45.3996816431439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CITE04</SimpleData>
+		<SimpleData name="NO">238</SimpleData>
+		<SimpleData name="OBJECTID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8960307235218,45.3998066876992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CITE03</SimpleData>
+		<SimpleData name="NO">239</SimpleData>
+		<SimpleData name="OBJECTID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8959132256793,45.3996326590582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CITE02</SimpleData>
+		<SimpleData name="NO">240</SimpleData>
+		<SimpleData name="OBJECTID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8953310005942,45.3997820181577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-CITE05</SimpleData>
+		<SimpleData name="NO">241</SimpleData>
+		<SimpleData name="OBJECTID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8959752094339,45.4001349490764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-COUT01</SimpleData>
+		<SimpleData name="NO">249</SimpleData>
+		<SimpleData name="OBJECTID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8896918057369,45.4017822073532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-MARQ02</SimpleData>
+		<SimpleData name="NO">250</SimpleData>
+		<SimpleData name="OBJECTID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8955676491794,45.4012784510003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-PEEL02</SimpleData>
+		<SimpleData name="NO">252</SimpleData>
+		<SimpleData name="OBJECTID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8939215564898,45.4005505717203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-PEEL01</SimpleData>
+		<SimpleData name="NO">253</SimpleData>
+		<SimpleData name="OBJECTID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8943668190368,45.4011335078981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-KING04</SimpleData>
+		<SimpleData name="NO">254</SimpleData>
+		<SimpleData name="OBJECTID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8931567443316,45.3998211503241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-BOWS01</SimpleData>
+		<SimpleData name="NO">259</SimpleData>
+		<SimpleData name="OBJECTID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.880166124363,45.3984235853475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-BOWS02</SimpleData>
+		<SimpleData name="NO">264</SimpleData>
+		<SimpleData name="OBJECTID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8795920847268,45.3980999149083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-WOOD01</SimpleData>
+		<SimpleData name="NO">273</SimpleData>
+		<SimpleData name="OBJECTID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8782022005394,45.3976924056305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-FRON01</SimpleData>
+		<SimpleData name="NO">396</SimpleData>
+		<SimpleData name="OBJECTID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8955203780325,45.4032326280259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">S-BIBL01</SimpleData>
+		<SimpleData name="NO">397</SimpleData>
+		<SimpleData name="OBJECTID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8968371824749,45.3999148447561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="ID">R-MARQ03</SimpleData>
+		<SimpleData name="NO">1137</SimpleData>
+		<SimpleData name="OBJECTID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8952166540417,45.4013181561038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="NO">1141</SimpleData>
+		<SimpleData name="OBJECTID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8884741959631,45.4002104520897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Horodateurs">
+		<SimpleData name="NO">1142</SimpleData>
+		<SimpleData name="OBJECTID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8888272769889,45.400740038212</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
