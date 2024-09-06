@@ -1,0 +1,42 @@
+[
+	{
+		"json_featuretype" : "Écoparcs",
+		"NOM" : "Écoparc de Repentigny",
+		"ADRESSE" : "336 Rue Charles-Marchand, Repentigny",
+		"DESCRIPTION" : "Le rôle de l'écoparc est de recueillir la plupart des matières qui ne sont pas acceptées lors des cueillettes porte-à-porte des municipalités.",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-citoyenne/environnement/collectes/ecoparcs/repentigny.html",
+		"HORAIRE" : "Horaire d'été (1er avril au 31 octobre); Lun et Mar: Fermé; Mer: 12 h à 16 h 30; Jeu: Fermé; Ven: 12 h à 16 h 30; Sam et Dim: 9 h à 16 h 30; Jours fériés: 9 h à 16 h 30",
+		"RESTRICTION" : "L’écoparc de Repentigny est exclusivement réservé aux citoyens de Repentigny. Une pièce d’identité sera exigée (compte de taxes, carte citoyen, bail, permis de conduire, etc.).",
+		"CONTACT" : "Info-environnement",
+		"TELEPHONE" : "450-470-3830",
+		"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140217",
+		"LONGITUDE" : "-73.48438082322137",
+		"LATITUDE" : "45.7579627947592",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.48438082322137, 45.7579627947592 ]
+		}
+	},
+	{
+		"json_featuretype" : "Écoparcs",
+		"NOM" : "Écoparc de la MRC de L'Assomption",
+		"ADRESSE" : "134 Chemin des Commissaires, L'Assomption",
+		"DESCRIPTION" : "Le rôle de l'écoparc est de recueillir la plupart des matières qui ne sont pas acceptées lors des cueillettes porte-à-porte des municipalités.",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-citoyenne/environnement/collectes/ecoparcs/l-assomption.html",
+		"HORAIRE" : "Horaire d'été (1er avril au 31 octobre); Lun au Ven: 11 h à 17 h; Sam et Dim: 9 h à 17 h; Jours fériés: 9 h à 17 h",
+		"RESTRICTION" : "L'écoparc de la MRC de L’Assomption est exclusivement pour les citoyens résidentiels des municipalités de la MRC de L'Assomption. Une pièce d’identité sera exigée (compte de taxes, carte citoyen, bail, permis de conduire, etc.).",
+		"CONTACT" : "Info-environnement",
+		"TELEPHONE" : "450-589-9999",
+		"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140218",
+		"LONGITUDE" : "-73.45156399506335",
+		"LATITUDE" : "45.82824205100487",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45156399506335, 45.82824205100487 ]
+		}
+	}
+]

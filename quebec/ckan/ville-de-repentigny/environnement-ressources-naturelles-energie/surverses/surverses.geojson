@@ -1,0 +1,669 @@
+{
+	"name" : "Surverses",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45179188824181, 45.7323974753268 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "28",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Marina",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45179188824181",
+				"LATITUDE" : "45.7323974753268"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43652022675066, 45.76016246878343 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "17",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Lareault",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.43652022675066",
+				"LATITUDE" : "45.76016246878343"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46325687928639, 45.7207424833752 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "4",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Bord de l'eau",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.46325687928639",
+				"LATITUDE" : "45.7207424833752"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45511521520457, 45.728204143687144 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "9",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Station Saint-Laurent 1",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45511521520457",
+				"LATITUDE" : "45.728204143687144"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45357698595603, 45.76724630315538 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "9",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Lafortune",
+				"TYPE" : "PPD",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45357698595603",
+				"LATITUDE" : "45.76724630315538"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45846521972757, 45.724832479761226 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "7",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Levesque",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45846521972757",
+				"LATITUDE" : "45.724832479761226"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43141022978017, 45.753340807257544 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "12",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Le Francois",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.43141022978017",
+				"LATITUDE" : "45.753340807257544"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47998854267881, 45.71806914912492 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "1",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse L'Assomption",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.47998854267881",
+				"LATITUDE" : "45.71806914912492"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4565535495983, 45.726712477779394 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "8",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Parc Saint-Laurent",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4565535495983",
+				"LATITUDE" : "45.726712477779394"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.49018186874083, 45.73574081074522 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "15",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Place Aubert",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.49018186874083",
+				"LATITUDE" : "45.73574081074522"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43567355879173, 45.75983913985298 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "16",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Larose",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.43567355879173",
+				"LATITUDE" : "45.75983913985298"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4871085434993, 45.760619137079374 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "14",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Felix Declos",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4871085434993",
+				"LATITUDE" : "45.760619137079374"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43387355654718, 45.74845747733669 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "11",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Rivest",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.43387355654718",
+				"LATITUDE" : "45.74845747733669"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47942188148288, 45.74799414379799 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "16",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Pierre-Le Gardeur",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.47942188148288",
+				"LATITUDE" : "45.74799414379799"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47600854430162, 45.74671580802411 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "11",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Arsenaux",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.47600854430162",
+				"LATITUDE" : "45.74671580802411"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46482854451227, 45.719510815084625 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "3",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Yvon 1",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.46482854451227",
+				"LATITUDE" : "45.719510815084625"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45915688361828, 45.76827413894717 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "8",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse De la Seigneurie",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45915688361828",
+				"LATITUDE" : "45.76827413894717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46133521896884, 45.722427481092616 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "5",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Bonaventure",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.46133521896884",
+				"LATITUDE" : "45.722427481092616"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46312757929327, 45.75608532432508 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "10",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse J.A.Pare",
+				"TYPE" : "PPD",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.46312757929327",
+				"LATITUDE" : "45.75608532432508"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42383022767295, 45.76170413984731 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "14",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Valmont",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.42383022767295",
+				"LATITUDE" : "45.76170413984731"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48349520957449, 45.73326414396296 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "12",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Bellerive",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.48349520957449",
+				"LATITUDE" : "45.73326414396296"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45827688009027, 45.7733324742684 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "13",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Bourg-Neuf",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45827688009027",
+				"LATITUDE" : "45.7733324742684"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48290187714935, 45.73878914461894 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "18",
+				"SECTEUR" : "Le Gardeur",
+				"NOM" : "Surverse Notre-Dame",
+				"TYPE" : "PP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.48290187714935",
+				"LATITUDE" : "45.73878914461894"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44967689031164, 45.7340308083307 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "10",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Thouin",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.44967689031164",
+				"LATITUDE" : "45.7340308083307"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4595685500335, 45.723817479969625 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "6",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Jean-Talon",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4595685500335",
+				"LATITUDE" : "45.723817479969625"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43362855532801, 45.760920805839596 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "13",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse J-B Meilleur",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.43362855532801",
+				"LATITUDE" : "45.760920805839596"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45922188464976, 45.7511358080078 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : null,
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Pascale",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45922188464976",
+				"LATITUDE" : "45.7511358080078"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45641355221719, 45.75054580550028 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "29",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Providence",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45641355221719",
+				"LATITUDE" : "45.75054580550028"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44951688775761, 45.74480580678682 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "30",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Lamontagne",
+				"TYPE" : "TP",
+				"METHODE" : "Repère visuel",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.44951688775761",
+				"LATITUDE" : "45.74480580678682"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41054510331593, 45.77469831323901 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "24",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Félix",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.41054510331593",
+				"LATITUDE" : "45.77469831323901"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41750724615153, 45.768457591213064 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "23",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Beauchesne",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.41750724615153",
+				"LATITUDE" : "45.768457591213064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4208488761099, 45.76418721699045 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "22",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse George",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4208488761099",
+				"LATITUDE" : "45.76418721699045"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4276815362741, 45.756975444902906 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "21",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Prud'homme",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4276815362741",
+				"LATITUDE" : "45.756975444902906"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43706674365541, 45.74645668968787 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "20",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Ritchot",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.43706674365541",
+				"LATITUDE" : "45.74645668968787"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4437955193436, 45.749804193508005 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "19",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Jolasmont",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4437955193436",
+				"LATITUDE" : "45.749804193508005"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4538124885392, 45.759691634516514 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "15",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Basile-Routhier",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4538124885392",
+				"LATITUDE" : "45.759691634516514"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47802155318371, 45.713081879294165 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "2",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Archambault",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.47802155318371",
+				"LATITUDE" : "45.713081879294165"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4644854104506, 45.71928397781668 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "18",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Yvon 2",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.4644854104506",
+				"LATITUDE" : "45.71928397781668"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45505358492325, 45.72801233810341 ]
+			},
+			"properties" : {
+				"OUVRAGEID" : "25",
+				"SECTEUR" : "Repentigny",
+				"NOM" : "Surverse Station Saint-Laurent 2",
+				"TYPE" : "PPSP",
+				"METHODE" : "Capteurs électroniques",
+				"MISEAJOUR" : "20180724",
+				"LONGITUDE" : "-73.45505358492325",
+				"LATITUDE" : "45.72801233810341"
+			}
+		}
+	]
+}

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>collecte_RDD</name>
+<visibility>1</visibility>
+<description><![CDATA[Collecte annuelle des RDD - École Jean-Baptiste-Meilleur]]></description>
+<Style id="kml_style_ft_Collecte_des_RDD">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Collecte des RDD" id="kml_schema_ft_Collecte_des_RDD">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DESCRIPTION">
+<displayName>DESCRIPTION</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DATE">
+<displayName>DATE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="RESTRICTIONS">
+<displayName>RESTRICTIONS</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Collecte_des_RDD">
+<name>Collecte des RDD</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Collecte annuelle des RDD - École Jean-Baptiste-Meilleur</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>777 Boulevard Iberville, Repentigny (dans le stationnement de l'école, entrée sur la rue Jean-Baptiste-Meilleur)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>Une collecte gratuite des RDD a lieu une fois par année, dans le stationnement de l'école secondaire Jean-Baptiste-Meilleur (entrée sur la rue Jean-Baptiste-Meilleur).</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Environnement/Collectes/RDD.html</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE</th>
+<td>Le 8 septembre 2018, de 9 h à 15 h</td>
+</tr><tr bgcolor="">
+<th>RESTRICTIONS</th>
+<td>Quoi ne pas mettre? Résidus verts et tourbe, pneus, matières recyclables, climatiseurs, réfrigérateurs, congélateurs, matériaux de construction, de rénovation ou d’une démolition, terre, béton, béton bitumineux, roche, pierre et brique.</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>CONTACT</th>
+<td>Info-environnement</td>
+</tr><tr bgcolor="">
+<th>TELEPHONE</th>
+<td>450-470-3830</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EMAIL</th>
+<td>info-environnement@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20160210</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43505499931693</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76127312091772</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Collecte_des_RDD</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Collecte_des_RDD">
+<SimpleData name="NOM">Collecte annuelle des RDD - École Jean-Baptiste-Meilleur</SimpleData>
+<SimpleData name="ADRESSE">777 Boulevard Iberville, Repentigny (dans le stationnement de l'école, entrée sur la rue Jean-Baptiste-Meilleur)</SimpleData>
+<SimpleData name="DESCRIPTION">Une collecte gratuite des RDD a lieu une fois par année, dans le stationnement de l'école secondaire Jean-Baptiste-Meilleur (entrée sur la rue Jean-Baptiste-Meilleur).</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Environnement/Collectes/RDD.html</SimpleData>
+<SimpleData name="DATE">Le 8 septembre 2018, de 9 h à 15 h</SimpleData>
+<SimpleData name="RESTRICTIONS">Quoi ne pas mettre? Résidus verts et tourbe, pneus, matières recyclables, climatiseurs, réfrigérateurs, congélateurs, matériaux de construction, de rénovation ou d’une démolition, terre, béton, béton bitumineux, roche, pierre et brique.</SimpleData>
+<SimpleData name="CONTACT">Info-environnement</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3830</SimpleData>
+<SimpleData name="EMAIL">info-environnement@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20160210</SimpleData>
+<SimpleData name="LONGITUDE">-73.43505499931693</SimpleData>
+<SimpleData name="LATITUDE">45.76127312091772</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4350549993169,45.7612731209177,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Collecte annuelle des RDD - École de l'Horizon</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>239 Boulevard J.-A.-Paré, Repentigny (dans le stationnement de l'école, entrée sur la rue Bourgeoys)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>Une collecte gratuite des RDD a lieu une fois par année, dans le stationnement de l'école secondaire L’Horizon (entrée sur la rue Bourgeoys).</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Environnement/Collectes/RDD.html</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DATE</th>
+<td>Le 8 septembre 2018, de 9 h à 15 h</td>
+</tr><tr bgcolor="">
+<th>RESTRICTIONS</th>
+<td>Quoi ne pas mettre? Résidus verts et tourbe, pneus, matières recyclables, climatiseurs, réfrigérateurs, congélateurs, matériaux de construction, de rénovation ou d’une démolition, terre, béton, béton bitumineux, roche, pierre et brique.</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>CONTACT</th>
+<td>Info-environnement</td>
+</tr><tr bgcolor="">
+<th>TELEPHONE</th>
+<td>450-470-3830</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EMAIL</th>
+<td>info-environnement@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20160210</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47744194760762</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76422399097719</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Collecte_des_RDD</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Collecte_des_RDD">
+<SimpleData name="NOM">Collecte annuelle des RDD - École de l'Horizon</SimpleData>
+<SimpleData name="ADRESSE">239 Boulevard J.-A.-Paré, Repentigny (dans le stationnement de l'école, entrée sur la rue Bourgeoys)</SimpleData>
+<SimpleData name="DESCRIPTION">Une collecte gratuite des RDD a lieu une fois par année, dans le stationnement de l'école secondaire L’Horizon (entrée sur la rue Bourgeoys).</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Environnement/Collectes/RDD.html</SimpleData>
+<SimpleData name="DATE">Le 8 septembre 2018, de 9 h à 15 h</SimpleData>
+<SimpleData name="RESTRICTIONS">Quoi ne pas mettre? Résidus verts et tourbe, pneus, matières recyclables, climatiseurs, réfrigérateurs, congélateurs, matériaux de construction, de rénovation ou d’une démolition, terre, béton, béton bitumineux, roche, pierre et brique.</SimpleData>
+<SimpleData name="CONTACT">Info-environnement</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3830</SimpleData>
+<SimpleData name="EMAIL">info-environnement@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20160210</SimpleData>
+<SimpleData name="LONGITUDE">-73.47744194760762</SimpleData>
+<SimpleData name="LATITUDE">45.76422399097719</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4774419476076,45.7642239909772,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

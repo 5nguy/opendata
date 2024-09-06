@@ -1,0 +1,42 @@
+[
+	{
+		"json_featuretype" : "Distribution compost",
+		"NOM" : "Journée de remise de compost - École Jean-Baptiste-Meilleur",
+		"ADRESSE" : "777 Boulevard Iberville, Repentigny",
+		"DESCRIPTION" : "Une distribution de compost a lieu une fois par année, dans le stationnement de l'école secondaire Jean-Baptiste-Meilleur (entrée sur la rue Jean-Baptiste-Meilleur).",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-citoyenne/environnement-et-collectes/collectes/compostage-domestique.html",
+		"DATE" : "Le 12 mai 2018, de 9 h à 15 h",
+		"RESTRICTION" : "Les Repentignois et Repentignoises doivent apporter leurs propres contenants pour obtenir du compost gratuitement. Maximum de 120 litres par adresse, jusqu’à épuisement des stocks.",
+		"CONTACT" : "Info-environnement",
+		"TELEPHONE" : "450-470-3830",
+		"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140218",
+		"LONGITUDE" : "-73.43505499931693",
+		"LATITUDE" : "45.76127312091772",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.43505499931693, 45.76127312091772 ]
+		}
+	},
+	{
+		"json_featuretype" : "Distribution compost",
+		"NOM" : "Journée de remise de compost - École de l'Horizon",
+		"ADRESSE" : "239 Boulevard J.-A.-Paré, Repentigny",
+		"DESCRIPTION" : "Une distribution de compost a lieu une fois par année, dans le stationnement de l'écoles secondaire L’Horizon (entrée sur la rue Bourgeoys).",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/calendrier/2016/mai/journee-de-distribution-gratuite-de-compost.html",
+		"DATE" : "Le 12 mai 2018, de 9 h à 15 h",
+		"RESTRICTION" : "Les Repentignois et Repentignoises doivent apporter leurs propres contenants pour obtenir du compost gratuitement. Maximum de 120 litres par adresse, jusqu’à épuisement des stocks.",
+		"CONTACT" : "Info-environnement",
+		"TELEPHONE" : "450-470-3830",
+		"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20140218",
+		"LONGITUDE" : "-73.47744194760762",
+		"LATITUDE" : "45.76422399097719",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47744194760762, 45.76422399097719 ]
+		}
+	}
+]

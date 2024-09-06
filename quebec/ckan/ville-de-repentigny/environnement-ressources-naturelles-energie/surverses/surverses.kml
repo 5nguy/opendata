@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Surverses</name>
+<visibility>1</visibility>
+<Schema name="Surverses" id="kml_schema_ft_Surverses">
+<SimpleField type="xsd:string" name="OUVRAGEID">
+<displayName>OUVRAGEID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SECTEUR">
+<displayName>SECTEUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TYPE">
+<displayName>TYPE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="METHODE">
+<displayName>METHODE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Surverses">
+<name>Surverses</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Marina</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45179188824181</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7323974753268</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">28</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Marina</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45179188824181</SimpleData>
+<SimpleData name="LATITUDE">45.7323974753268</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4517918882418,45.7323974753268,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Lareault</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43652022675066</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76016246878343</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">17</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Lareault</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.43652022675066</SimpleData>
+<SimpleData name="LATITUDE">45.76016246878343</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4365202267507,45.7601624687834,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Bord de l'eau</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46325687928639</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7207424833752</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">4</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Bord de l'eau</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.46325687928639</SimpleData>
+<SimpleData name="LATITUDE">45.7207424833752</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4632568792864,45.7207424833752,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Station Saint-Laurent 1</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45511521520457</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.728204143687144</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">9</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Station Saint-Laurent 1</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45511521520457</SimpleData>
+<SimpleData name="LATITUDE">45.728204143687144</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4551152152046,45.7282041436871,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Lafortune</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPD</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45357698595603</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76724630315538</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">9</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Lafortune</SimpleData>
+<SimpleData name="TYPE">PPD</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45357698595603</SimpleData>
+<SimpleData name="LATITUDE">45.76724630315538</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.453576985956,45.7672463031554,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Levesque</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45846521972757</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.724832479761226</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">7</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Levesque</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45846521972757</SimpleData>
+<SimpleData name="LATITUDE">45.724832479761226</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4584652197276,45.7248324797612,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Le Francois</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43141022978017</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.753340807257544</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">12</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Le Francois</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.43141022978017</SimpleData>
+<SimpleData name="LATITUDE">45.753340807257544</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4314102297802,45.7533408072575,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse L'Assomption</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47998854267881</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.71806914912492</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">1</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse L'Assomption</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.47998854267881</SimpleData>
+<SimpleData name="LATITUDE">45.71806914912492</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4799885426788,45.7180691491249,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4565535495983</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.726712477779394</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">8</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Parc Saint-Laurent</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4565535495983</SimpleData>
+<SimpleData name="LATITUDE">45.726712477779394</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4565535495983,45.7267124777794,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Place Aubert</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.49018186874083</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73574081074522</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">15</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Place Aubert</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.49018186874083</SimpleData>
+<SimpleData name="LATITUDE">45.73574081074522</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4901818687408,45.7357408107452,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Larose</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43567355879173</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75983913985298</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">16</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Larose</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.43567355879173</SimpleData>
+<SimpleData name="LATITUDE">45.75983913985298</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4356735587917,45.759839139853,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Felix Declos</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4871085434993</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.760619137079374</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">14</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Felix Declos</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4871085434993</SimpleData>
+<SimpleData name="LATITUDE">45.760619137079374</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4871085434993,45.7606191370794,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Rivest</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43387355654718</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74845747733669</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">11</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Rivest</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.43387355654718</SimpleData>
+<SimpleData name="LATITUDE">45.74845747733669</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4338735565472,45.7484574773367,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Pierre-Le Gardeur</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47942188148288</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74799414379799</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">16</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Pierre-Le Gardeur</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.47942188148288</SimpleData>
+<SimpleData name="LATITUDE">45.74799414379799</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4794218814829,45.747994143798,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Arsenaux</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47600854430162</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74671580802411</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">11</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Arsenaux</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.47600854430162</SimpleData>
+<SimpleData name="LATITUDE">45.74671580802411</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4760085443016,45.7467158080241,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Yvon 1</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46482854451227</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.719510815084625</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">3</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Yvon 1</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.46482854451227</SimpleData>
+<SimpleData name="LATITUDE">45.719510815084625</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4648285445123,45.7195108150846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse De la Seigneurie</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45915688361828</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76827413894717</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">8</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse De la Seigneurie</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45915688361828</SimpleData>
+<SimpleData name="LATITUDE">45.76827413894717</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4591568836183,45.7682741389472,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Bonaventure</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46133521896884</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.722427481092616</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">5</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Bonaventure</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.46133521896884</SimpleData>
+<SimpleData name="LATITUDE">45.722427481092616</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4613352189688,45.7224274810926,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse J.A.Pare</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPD</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46312757929327</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75608532432508</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">10</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse J.A.Pare</SimpleData>
+<SimpleData name="TYPE">PPD</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.46312757929327</SimpleData>
+<SimpleData name="LATITUDE">45.75608532432508</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4631275792933,45.7560853243251,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Valmont</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.42383022767295</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76170413984731</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">14</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Valmont</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.42383022767295</SimpleData>
+<SimpleData name="LATITUDE">45.76170413984731</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.423830227673,45.7617041398473,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Bellerive</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.48349520957449</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73326414396296</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">12</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Bellerive</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.48349520957449</SimpleData>
+<SimpleData name="LATITUDE">45.73326414396296</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4834952095745,45.733264143963,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Bourg-Neuf</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45827688009027</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7733324742684</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">13</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Bourg-Neuf</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45827688009027</SimpleData>
+<SimpleData name="LATITUDE">45.7733324742684</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4582768800903,45.7733324742684,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Le Gardeur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.48290187714935</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73878914461894</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">18</SimpleData>
+<SimpleData name="SECTEUR">Le Gardeur</SimpleData>
+<SimpleData name="NOM">Surverse Notre-Dame</SimpleData>
+<SimpleData name="TYPE">PP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.48290187714935</SimpleData>
+<SimpleData name="LATITUDE">45.73878914461894</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4829018771493,45.7387891446189,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Thouin</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44967689031164</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7340308083307</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">10</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Thouin</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.44967689031164</SimpleData>
+<SimpleData name="LATITUDE">45.7340308083307</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4496768903116,45.7340308083307,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Jean-Talon</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4595685500335</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.723817479969625</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">6</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Jean-Talon</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4595685500335</SimpleData>
+<SimpleData name="LATITUDE">45.723817479969625</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4595685500335,45.7238174799696,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse J-B Meilleur</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43362855532801</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.760920805839596</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">13</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse J-B Meilleur</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.43362855532801</SimpleData>
+<SimpleData name="LATITUDE">45.760920805839596</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.433628555328,45.7609208058396,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Pascale</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45922188464976</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7511358080078</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Pascale</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45922188464976</SimpleData>
+<SimpleData name="LATITUDE">45.7511358080078</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4592218846498,45.7511358080078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Providence</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45641355221719</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75054580550028</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">29</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Providence</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45641355221719</SimpleData>
+<SimpleData name="LATITUDE">45.75054580550028</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4564135522172,45.7505458055003,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Lamontagne</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>TP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Repère visuel</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44951688775761</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74480580678682</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">30</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Lamontagne</SimpleData>
+<SimpleData name="TYPE">TP</SimpleData>
+<SimpleData name="METHODE">Repère visuel</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.44951688775761</SimpleData>
+<SimpleData name="LATITUDE">45.74480580678682</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4495168877576,45.7448058067868,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Félix</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41054510331593</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77469831323901</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">24</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Félix</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.41054510331593</SimpleData>
+<SimpleData name="LATITUDE">45.77469831323901</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4105451033159,45.774698313239,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Beauchesne</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41750724615153</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.768457591213064</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">23</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Beauchesne</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.41750724615153</SimpleData>
+<SimpleData name="LATITUDE">45.768457591213064</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4175072461515,45.7684575912131,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse George</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4208488761099</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76418721699045</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">22</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse George</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4208488761099</SimpleData>
+<SimpleData name="LATITUDE">45.76418721699045</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4208488761099,45.7641872169905,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Prud'homme</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4276815362741</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.756975444902906</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">21</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Prud'homme</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4276815362741</SimpleData>
+<SimpleData name="LATITUDE">45.756975444902906</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4276815362741,45.7569754449029,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Ritchot</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43706674365541</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74645668968787</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">20</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Ritchot</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.43706674365541</SimpleData>
+<SimpleData name="LATITUDE">45.74645668968787</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4370667436554,45.7464566896879,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Jolasmont</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4437955193436</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.749804193508005</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">19</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Jolasmont</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4437955193436</SimpleData>
+<SimpleData name="LATITUDE">45.749804193508005</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4437955193436,45.749804193508,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Basile-Routhier</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4538124885392</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.759691634516514</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">15</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Basile-Routhier</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4538124885392</SimpleData>
+<SimpleData name="LATITUDE">45.759691634516514</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4538124885392,45.7596916345165,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Archambault</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47802155318371</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.713081879294165</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">2</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Archambault</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.47802155318371</SimpleData>
+<SimpleData name="LATITUDE">45.713081879294165</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4780215531837,45.7130818792942,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Yvon 2</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4644854104506</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.71928397781668</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">18</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Yvon 2</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.4644854104506</SimpleData>
+<SimpleData name="LATITUDE">45.71928397781668</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4644854104506,45.7192839778167,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OUVRAGEID</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>SECTEUR</th>
+<td>Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Surverse Station Saint-Laurent 2</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>PPSP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>METHODE</th>
+<td>Capteurs électroniques</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20180724</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45505358492325</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72801233810341</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Surverses">
+<SimpleData name="OUVRAGEID">25</SimpleData>
+<SimpleData name="SECTEUR">Repentigny</SimpleData>
+<SimpleData name="NOM">Surverse Station Saint-Laurent 2</SimpleData>
+<SimpleData name="TYPE">PPSP</SimpleData>
+<SimpleData name="METHODE">Capteurs électroniques</SimpleData>
+<SimpleData name="MISEAJOUR">20180724</SimpleData>
+<SimpleData name="LONGITUDE">-73.45505358492325</SimpleData>
+<SimpleData name="LATITUDE">45.72801233810341</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4550535849232,45.7280123381034,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

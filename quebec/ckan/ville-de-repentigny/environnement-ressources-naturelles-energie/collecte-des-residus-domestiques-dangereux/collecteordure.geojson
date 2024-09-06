@@ -1,0 +1,48 @@
+{
+	"name" : "Collecte des RDD",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43505499931693, 45.76127312091772 ]
+			},
+			"properties" : {
+				"NOM" : "Collecte annuelle des RDD - École Jean-Baptiste-Meilleur",
+				"ADRESSE" : "777 Boulevard Iberville, Repentigny (dans le stationnement de l'école, entrée sur la rue Jean-Baptiste-Meilleur)",
+				"DESCRIPTION" : "Une collecte gratuite des RDD a lieu une fois par année, dans le stationnement de l'école secondaire Jean-Baptiste-Meilleur (entrée sur la rue Jean-Baptiste-Meilleur).",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Environnement/Collectes/RDD.html",
+				"DATE" : "Le 8 septembre 2018, de 9 h à 15 h",
+				"RESTRICTIONS" : "Quoi ne pas mettre? Résidus verts et tourbe, pneus, matières recyclables, climatiseurs, réfrigérateurs, congélateurs, matériaux de construction, de rénovation ou d’une démolition, terre, béton, béton bitumineux, roche, pierre et brique.",
+				"CONTACT" : "Info-environnement",
+				"TELEPHONE" : "450-470-3830",
+				"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20160210",
+				"LONGITUDE" : "-73.43505499931693",
+				"LATITUDE" : "45.76127312091772"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47744194760762, 45.76422399097719 ]
+			},
+			"properties" : {
+				"NOM" : "Collecte annuelle des RDD - École de l'Horizon",
+				"ADRESSE" : "239 Boulevard J.-A.-Paré, Repentigny (dans le stationnement de l'école, entrée sur la rue Bourgeoys)",
+				"DESCRIPTION" : "Une collecte gratuite des RDD a lieu une fois par année, dans le stationnement de l'école secondaire L’Horizon (entrée sur la rue Bourgeoys).",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Environnement/Collectes/RDD.html",
+				"DATE" : "Le 8 septembre 2018, de 9 h à 15 h",
+				"RESTRICTIONS" : "Quoi ne pas mettre? Résidus verts et tourbe, pneus, matières recyclables, climatiseurs, réfrigérateurs, congélateurs, matériaux de construction, de rénovation ou d’une démolition, terre, béton, béton bitumineux, roche, pierre et brique.",
+				"CONTACT" : "Info-environnement",
+				"TELEPHONE" : "450-470-3830",
+				"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20160210",
+				"LONGITUDE" : "-73.47744194760762",
+				"LATITUDE" : "45.76422399097719"
+			}
+		}
+	]
+}
