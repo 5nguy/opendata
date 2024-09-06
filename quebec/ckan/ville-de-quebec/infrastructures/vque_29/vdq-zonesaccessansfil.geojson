@@ -1,0 +1,3022 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "D:/FMEFlowShare/resources/data/\\DO\\PUBLICATION\\vdq-zonesaccessansfil.geojson",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.4351405332955, 46.843593225123975 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16305,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bureau d'arrondissement de La Haute-Saint-Charles/Centre culturel Georges-Dor"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.41932658626106, 46.85733284741993 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16265,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Félix-Leclerc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.41795094049964, 46.858954236587444 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16268,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Aréna des Deux Glaces"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38008509616948, 46.81464755158222 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16217,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Trois-Saisons"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37679707018516, 46.90736218560911 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16295,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Paul-Émile-Beaulieu/Bibliothèque Le Tournesol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37600521939189, 46.90790802448253 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16156,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Maison des jeunes du Lac-Saint-Charles L'Ambassade"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37315400690825, 46.77584496610766 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16231,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Champigny"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36877489788658, 46.77388107460179 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16250,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "École primaire Les Primevères/Bibliothèque Champigny"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3615423605848, 46.74650541200208 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16218,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Roger-Lemelin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3601161459153, 46.801628589720494 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : null,
+				"ID" : 16187,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Marie-Victorin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36010322198341, 46.852584297430234 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16177,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Chrystine-Brouillet"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.359849449104, 46.85065198618154 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16299,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Édifice Denis-Giguère"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35934135524441, 46.851842381684676 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16009,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "RAC-Racine_EntreeBiblioChrystine-Brouillet-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35930112163804, 46.851873106734686 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16026,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "RAC-Racine_EntreeBiblioChrystine-Brouillet-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35745336696766, 46.83522318431622 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16162,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Neufchâtel"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35455888563216, 46.741051900406475 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16195,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire de Cap-Rouge/Halte-Garderie-Atelier les petits copains"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34660885886012, 46.83252402786523 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16297,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Michel-Labadie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34163142144594, 46.747067423499715 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16168,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon de service du Parc nautique de Cap-Rouge"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34075920349026, 46.82727726766973 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16291,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Complexe de soccer Chauveau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34089160106883, 46.91051036622431 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16215,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chalet Parc de Notre-Dame-des-Laurentides"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33611223716392, 46.85809689562268 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16303,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Charles-Auguste-Savard/Bibliothèque Saint-André"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33541435599865, 46.8731348704687 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Haute-Saint-Charles",
+				"ID" : 16221,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Saint-Émile"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32892878434669, 46.75939539577947 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16239,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Collège des Compagnons/Piscine Jacques-Amyot"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3250325731119, 46.80943487895735 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16181,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Aréna Gaétan-Duchesne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3234039270848, 46.75420831296383 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16224,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire de la Pointe-de-Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31959322619706, 46.774819640344774 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16146,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Claude-Allard"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31822599971038, 46.807306607973985 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16128,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Romain-Langlois"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31420813997072, 46.8162956933272 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16126,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Piscine Jos-A.-Lachance"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31133615995957, 46.80221869682875 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16133,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire J.-B.-Lafrance"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30918330149773, 46.899718451508754 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16137,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chalet Bon-Pasteur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30884546701294, 46.9008183851346 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16263,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Bon-Pasteur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30762661243708, 46.84235088560296 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16304,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Lebourgneuf"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30464440676865, 46.77781358899811 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16214,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Expo-théâtre de la Visitation"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30459971828955, 46.778514724454105 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16086,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Ste-Foy_Jacques-Berthiaume"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3035307647128, 46.778658085040966 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16251,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre d'interprétation historique de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30037266692821, 46.77056539647986 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16134,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de glaces Intact Assurance"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29943535243159, 46.77452492577499 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16030,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_Quatre-Bourgeois-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29917786070185, 46.77434122860771 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16019,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_Quatre-Bourgeois-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29648416476591, 46.77251950079109 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16119,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_Roland-Beaudin-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29635541906134, 46.772402848799786 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16104,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_Roland-Beaudin-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29425521713446, 46.77085019294717 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 15695,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_CentrePhenix-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2941477357755, 46.770194924630204 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16158,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Monique-Corriveau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29410769525272, 46.77074364130651 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16083,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_CentrePhenix-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29386754488115, 46.810815829110375 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16294,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautiare Elzéar-Turcotte/Bibliothèque Jean-Baptiste-Duberger"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29349153360259, 46.81643219746137 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16170,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Aréna Duberger"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29278154833246, 46.76899886862179 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16283,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Édifice Andrée-P.-Boucher"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29236839765326, 46.76974281048783 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16101,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-EgliseWilfrid-Legare-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29223696951873, 46.76965646533793 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16092,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-EgliseWilfrid-Legare-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29120733531497, 46.76890179355836 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16062,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "EGL-Eglise_Hochelaga-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28507449749513, 46.85487777988536 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16260,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centrale de police"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28008974691222, 46.760530428391775 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16155,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Saint-Louis-de-France"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27570252303497, 46.791418134326086 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16193,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de glisse Myrand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27320765933122, 46.76720754430176 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16206,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Maison Hamel-Bruneau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26874269671595, 46.86098019153277 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16149,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Paul-Aimé-Paiement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26694409378621, 46.78713187877487 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16161,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Saint-Thomas-D'Aquin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26614464029336, 46.859054401729416 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16289,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Édifice René-Bédard"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26649263999049, 46.88626592941616 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16292,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Aréna Réjean-Lemelin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26460973198807, 46.812814310227935 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16290,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Fernand-Dufour"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26483567724677, 46.859234085836945 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16234,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre culturel et communautaire de Charlesbourg/CLSC La Source Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26368822984229, 46.8134412148371 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16285,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Complexe Jean-Paul-Nolin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26144558886614, 46.82444975660517 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16269,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre d'art la Chapelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25803843455556, 46.768523552430764 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16257,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Maison des Jésuites-de-Sillery"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25729147169014, 46.86461907077626 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16286,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Arpidrome"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25554103992975, 46.81556446000391 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Les Rivières",
+				"ID" : 16284,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Aréna Patrick-Poulin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25409141681796, 46.83372873388621 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16233,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon Parc-école de Sainte-Odile"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25286821489708, 46.78208268085956 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 15699,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "MAG-Maguire_Sheppard-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25282907859227, 46.782056735231855 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16077,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "MAG-Maguire_Sheppard-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2515601009314, 46.84679910829512 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16276,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre récréatif Saint-Rodrigue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25051900930359, 46.779548802775075 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16219,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Charles-H.-Blais/Caserne #15 Sillery"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2505167706987, 46.77973253683908 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 15698,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "MAG-B0144-Biblio Charles-H.-Blais/Caserne 15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25022348806513, 46.78561435050507 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16266,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Maison des jeunes de Sillery"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25079402475475, 46.846399299809214 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16226,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chalet Édouard-Laurent"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24969727100995, 46.78544686623609 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16154,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Noël-Brulart"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24947181957572, 46.77927649175164 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16072,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "MAG-Maguire_StLouis-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24965327002455, 46.82566114486688 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16144,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de foires"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24819565246337, 46.8273530066035 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16136,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon de la Jeunesse"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24679158668829, 46.788425694514764 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Sainte-Foy–Sillery–Cap-Rouge",
+				"ID" : 16223,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Villa Bagatelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24411201405324, 46.80783045296356 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16194,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre récréatif Monseigneur-Bouffard"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24374005480006, 46.79510293064567 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16244,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Collège-des-Jésuites"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2435250073698, 46.83558813898121 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16147,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Saint-Albert"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24315387817079, 46.877117648848746 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16277,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Piscine municipale du Bourg-Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24145810166182, 46.812075989578304 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16242,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Piscine Wilfrid-Hamel"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24109178481093, 46.85884149812223 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Charlesbourg",
+				"ID" : 16275,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chalet Parc de la Terrasse-du-Bon-Air"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24070548388227, 46.83742368632913 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16159,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Marchand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2376409523941, 46.81178578012224 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16174,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque de Saint-Sauveur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23561397620527, 46.82169486504926 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16180,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon de la Pointe-aux-Lièvres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.235223947514, 46.82481012175493 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16197,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon du Parc de L'Anse-à-Cartier--Réservoirs de rétention U208"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23386269450292, 46.85286952306474 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16192,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs du Petit-Village"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23296910990297, 46.8074165498121 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16201,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Édouard-Lavergne/CPE L'Anse-aux-Lièvres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23179278988682, 46.82845454492691 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16071,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_13e Rue-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23170159575572, 46.82834260211456 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16118,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_13e Rue-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23096007856877, 46.81676766765643 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16287,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centrale de police Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2306018890541, 46.827182786402666 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16103,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_11e Rue-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23051069467013, 46.82705432436375 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16024,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_11e Rue-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22874871424602, 46.802494583752065 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16106,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "B0972-Loisirs Montcalm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22868120347795, 46.80590687810308 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16022,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Chemin Ste-Foy-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22866162915491, 46.8066883557327 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16254,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Lucien-Borne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22863560599932, 46.805810492920045 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16027,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Chemin Ste-Foy-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22854977509289, 46.80586281638239 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16123,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Chemin Ste-Foy-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22872105063027, 46.83242666083245 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16169,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Ferland"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22817903862976, 46.80557413268479 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16053,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Dumont-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22810930153511, 46.805509875929836 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16102,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Dumont-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22755840545308, 46.8064479574216 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16041,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Ste-Foy_Salaberry-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22762571662253, 46.82390197467711 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16054,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_6e Rue-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22736941348725, 46.80492009280751 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16064,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Cremazie-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22737199130258, 46.806585648472144 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 15702,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Ste-Foy_Salaberry-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22729297070799, 46.80486317875745 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16093,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Cremazie-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22751574561727, 46.82378635134504 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16111,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-6e Rue-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22680599520288, 46.799348883335576 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16031,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chaletdespatineurs-Plainesdabra-BZ"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22699271519701, 46.8232779754233 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16107,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_5e Rue-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22690420217481, 46.82317519788456 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16032,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_5e Rue-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22658718568998, 46.80435441145914 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16108,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Rene-Levesque-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22648162292947, 46.80426653522786 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16043,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Rene-Levesque-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22633020915524, 46.82258789604636 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16065,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_4e Rue-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22622560275771, 46.8224722706956 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16094,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "3EA-3e Avenue_4e Rue-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22608075311736, 46.81255242377031 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16301,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Édifice La Fabrique"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22595054615421, 46.803796528791956 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16087,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Fraser-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22597806274506, 46.80770766810487 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16018,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Caserne1-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22588552708265, 46.80776448709939 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16035,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Caserne1-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22582179919951, 46.80366801103544 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 15696,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Fraser-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22568442735121, 46.801170609493454 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16008,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Bourlamaque-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22576283458686, 46.814245763978306 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16182,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Gabrielle-Roy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22534231374858, 46.80801533951999 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16034,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Turnbull-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22524621388553, 46.80320718010307 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16098,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Aberdeen-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2252242955021, 46.808042876912765 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16050,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Turnbull-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22512283126188, 46.80312088823617 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16061,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "CAR-Aberdeen-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.225211404261, 46.81397186064808 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16100,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "JOS-399NW"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22507321331962, 46.81401868980071 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16076,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "JOS-399E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22491315953414, 46.81406447873092 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16049,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "JOS-399NE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22484138534544, 46.81393672917149 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16296,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Édifice Joseph-Ernest-Grégoire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22476027412625, 46.81411587538357 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16051,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "JOS-399Uplink"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22407241966953, 46.80210948019106 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16124,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Cartier-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22402682260594, 46.802271050179634 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16042,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Cartier-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22419910364192, 46.82368389037672 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16220,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2238202927595, 46.80224718183416 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16109,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Cartier-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22422588910906, 46.84324183340836 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16279,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre communautaire Monseigneur-Marcoux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22358908953254, 46.80848689413539 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16047,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Sutherland-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2236487276069, 46.81783072051676 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16132,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre récréatif Saint-Roch"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22346973151949, 46.80851902095685 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16105,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Sutherland-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22292781046343, 46.802773233156934 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 15697,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Salaberry-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22300487722487, 46.8440952099476 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16141,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Aréna Bardy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22232954880805, 46.809023921003174 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16088,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Claire-Fontaine-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22222360192168, 46.8090698154513 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16081,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Claire-Fontaine-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22258617327012, 46.83731459816492 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16278,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Marie-Claire-Blais"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22080552031765, 46.80399236290603 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16017,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Turnbull-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22063506284636, 46.80410147787636 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16110,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-AlleeTurnbull-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22076646170048, 46.81550435001204 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16090,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "JOS-DuPont-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2205304267016, 46.815579607547996 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16057,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "JOS-DuPont-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21978234552238, 46.80455812740887 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16120,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Claire-Fontaine-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21961335307573, 46.804666466935046 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16037,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Claire-Fontaine-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21880224742902, 46.810562728930904 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16073,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Ste-Genevieve-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21868154842868, 46.810612293299975 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16048,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Ste-Genevieve-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21804099422957, 46.805586336895516 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16095,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Senezergues-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21788274461075, 46.805650593286224 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16113,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Senezergues-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21756792962695, 46.81093278014148 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16243,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Claire-Martin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21727192986833, 46.81129372347109 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16091,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_St-Augustin-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21714385415305, 46.8113396160239 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16014,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_St-Augustin-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21567829160556, 46.811892333448476 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16028,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Honore-Mercier-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21540574051866, 46.80687953029196 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16060,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_GeorgeVOuest-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21539665989053, 46.81202633948434 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16082,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJO-Saint-Jean_Honore-Mercier-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21525670798272, 46.80696354451427 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16121,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_GeorgeVOuest-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21473249704734, 46.812336274889056 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16045,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Youville-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21464686105391, 46.812384136109856 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16016,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Youville-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.214493022165, 46.807577185352066 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16067,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Parlementaires-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21434914452597, 46.80767592481128 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16066,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_Parlementaires-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21383346324707, 46.83568719866955 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16238,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Maison Maizerets"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21330420607427, 46.812223153532244 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 15701,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Place dYouville 2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21322387452972, 46.81239935750685 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16230,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon Place d'Youville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21318371643743, 46.81227950216253 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 15703,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Place dYouville1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.213227857581, 46.815674022558916 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16207,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Le 15 Saint-Nicolas/Maison John-Hay"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21440474921879, 46.90545903805532 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16171,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Cambert"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21342110535132, 46.86692582669125 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16015,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "PEP-Parc-Etienne-Parent1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21330040598124, 46.86693749771256 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16070,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "PEP-Parc-Etienne-Parent2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21240524826324, 46.80950673707342 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16075,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Fontaine de Tourny noir"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21234708503614, 46.813010325272835 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16117,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Ste-Ursule-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21221565626034, 46.81306172366393 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16114,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Ste-Ursule-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21200123663839, 46.80886479700013 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16023,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "GAL-Grande-Allee_HonoreMercier-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21235045793915, 46.850441464521936 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16274,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre sportif Alexis-Bérubé"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21166878500352, 46.81073570631501 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16255,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Pavillon Parc de l'Esplanade"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21154829974306, 46.81344472286039 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16010,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Face-au-1063-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21148258476305, 46.81347317586562 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16068,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Face-au-1063-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21181718451652, 46.84977905253131 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16209,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque du Chemin-Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21185489987914, 46.867395495142084 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16033,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "B1276-Piscine Etienne-Parent"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21100293372186, 46.812907977964954 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16235,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Maison de la Littérature"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21045674856079, 46.810086763153606 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16059,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "AUT-Saint-Louis_Auteuil-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21043260774769, 46.81019507319883 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16038,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "AUT-Saint-Louis_Auteuil-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2110964226463, 46.86570704103881 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16202,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Étienne-Parent"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21006140775224, 46.814192100006416 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16021,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Cote-Palais-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21000933393518, 46.81734274920263 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16079,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Quai_TunnelSamson-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20994607276437, 46.814265524377134 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16012,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "SJE-Saint-Jean_Cote-Palais-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20975184112095, 46.81735743329278 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 15700,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Quai_TunnelSamson-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20818274937211, 46.81745838600573 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16046,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Quai_St-Thomas-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20805668565502, 46.817458385956776 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16055,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Quai_St-Thomas-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2082093499864, 46.85263527951826 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16212,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Pavillon Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20633057187342, 46.817066925854604 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16069,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Quai_Rioux-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2060113888453, 46.817002682592694 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16013,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Quai_Rioux-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2058700311048, 46.81651656607267 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16089,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "STP-St-Paul_145St-Paul-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2057969410299, 46.816510600581914 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16122,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "STP-St-Paul_145St-Paul-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2055446968737, 46.81310995803247 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16085,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "BIT Ste-Anne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20545243839425, 46.81734156236597 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16211,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Espace 400e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20518883866141, 46.81643915789815 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16025,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "STP-St-Paul_Navigateurs-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20513452452235, 46.816432733536665 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16029,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "STP-St-Paul_Navigateurs-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20408758184641, 46.8163002986771 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16097,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "STP-St-Paul_76St-Paul-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20400845752803, 46.816297545792104 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16096,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "STP-St-Paul_76St-Paul-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20316201172666, 46.81000158354236 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16056,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Champlain_GardeCotiere-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20315396438633, 46.80989878067205 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16044,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Champlain_GardeCotiere-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20309542385523, 46.81200467676767 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16040,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-MarcheChamplain_CulDeSac-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20306008756916, 46.81122785468978 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16074,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Champlain_Traversiers-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20304131245882, 46.81136186169718 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16080,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Champlain_Traversiers-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20302836884677, 46.81205056908327 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16099,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-MarcheChamplain_CulDeSac-Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20251642740305, 46.81699546850693 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16063,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_Quai-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20230453302314, 46.81687983105817 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16058,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_Quai-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20216201585815, 46.81219008126971 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16084,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-MarcheChamplain_Traversiers-Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20215557367017, 46.81577926675957 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16039,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_Barricades-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20213143383083, 46.81563792851662 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16112,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_Barricades-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20143942458724, 46.81254693974482 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16115,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_StatCroisieres-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20145015325494, 46.8141923974887 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16116,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_Montagne-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20142333033424, 46.812717656932314 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16078,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_StatCroisieres-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20141997821823, 46.8140639051194 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16036,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_Montagne-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20133213594471, 46.8134335609854 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16020,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_MarcheFinlay-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20131067757794, 46.813569398669934 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "La Cité-Limoilou",
+				"ID" : 16052,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "DAL-Dalhousie_MarcheFinlay-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20022967349765, 46.889443297264094 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16165,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs La Ribambelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.19715347678455, 46.90623111699502 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16222,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Jean-Guyon"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.19537944413933, 46.86038781229884 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16271,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs La Cavée"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.18979265248453, 46.858370452621365 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16302,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre municipal Monseigneur-Laval"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.18975525029342, 46.85749803403103 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16183,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre sportif Marcel-Bédard"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.18967207839192, 46.905268851742825 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16178,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs La Sablière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.17818272200883, 46.89696484787657 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16011,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "B0010-Camping Beauport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.159076209484, 46.88827521399333 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16189,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chalet aux Pignons Verts"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.15894788331333, 46.88636874133036 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16172,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Centre de loisirs Ulric-Turcotte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.15872967424762, 46.886765833571864 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16164,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Chalet Vachon (Club des Bricoleurs)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.15589909097498, 46.87846052106949 ]
+			},
+			"properties" : {
+				"ARRONDISSEMENT" : "Beauport",
+				"ID" : 16167,
+				"MUNICIPALITE" : 23027,
+				"NOM_LIEU" : "Bibliothèque Fernand-Dumont"
+			}
+		}
+	]
+}
