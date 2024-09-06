@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="B_C3_A2timents_et_services_municipaux" id="B_C3_A2timents_et_services_municipaux">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="SOUSTYPE" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>B_C3_A2timents_et_services_municipaux</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">454</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Stade Amédée-Roy</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8875277273865,45.4134516643278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">823</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Aéroport de Sherbrooke</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.6886165075973,45.4410509699821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">49</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Marais Réal-D.-Carbonneau</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9000679302751,45.4183944058577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">450</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre Julien-Ducharme (Aréna)</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8534981592219,45.4317078407753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">438</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne William-Percy-Donahue  ( no 1 )</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8833593064146,45.4139820816818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">439</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Aréna Eugène-Lalonde</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8826421705435,45.4137245218794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">850</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre multisport Roland-Dussault </SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8818682449768,45.4131524340691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">459</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Maison des arts et de la culture</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9399656729646,45.4758513816306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">449</SimpleData>
+		<SimpleData name="SOUSTYPE">Bureau d'arrondissement</SimpleData>
+		<SimpleData name="NOM">Bureau d’arrondissement de Brompton – Rock Forest – Saint-Élie – Deauville – rue Laval </SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.945183390867,45.4727936943052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">728</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Poste d'incendie de soutien ( no 8 )</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9452348930789,45.4727627805389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">468</SimpleData>
+		<SimpleData name="SOUSTYPE">Bibliothèque</SimpleData>
+		<SimpleData name="NOM">Bibliothèque Bertrand-Delisle</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9894437945474,45.3692216843644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">499</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre récréatif et communautaire de Deauville</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0393362676482,45.3440676793375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">575</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Garage municipal Deauville</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0429946332866,45.3451898609061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">471</SimpleData>
+		<SimpleData name="SOUSTYPE">Bureau d'arrondissement</SimpleData>
+		<SimpleData name="NOM">Bureau d’arrondissement de Brompton – Rock Forest – Saint-Élie – Deauville – rue Haut-Bois Nord</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9918639816869,45.3712049499126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">497</SimpleData>
+		<SimpleData name="SOUSTYPE">Bibliothèque</SimpleData>
+		<SimpleData name="NOM">Bibliothèque du secteur de Saint-Élie</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0396610068268,45.3925862881117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">579</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Atelier garage municipal</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0396016254915,45.3935304195005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">495</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Édifice Tom-Bozer</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8524157683563,45.3514255316308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">473</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne Alfred-Zéphirin-Couture ( no 5 )</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9709725817764,45.3963133037584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">844</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Écocentre Rose-Cohen</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.968615627948,45.4008506250056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">698</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre culturel de Rock Forest</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.989559580201,45.3693579086667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">453</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne Hector-Olivier-Camirand ( no 4 )</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8678885358629,45.3999723866835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">496</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Écocentre Michel-Ledoux</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8610945836573,45.3937427138484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">460</SimpleData>
+		<SimpleData name="SOUSTYPE">Bureau d'arrondissement</SimpleData>
+		<SimpleData name="NOM">Bureau d’arrondissement de Lennoxville</SimpleData>
+		<SimpleData name="OBJECTID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8562511937338,45.3677094446489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">461</SimpleData>
+		<SimpleData name="SOUSTYPE">Bibliothèque</SimpleData>
+		<SimpleData name="NOM">Bibliothèque de Lennoxville</SimpleData>
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.856826643725,45.3663757733345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">462</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre culturel et du patrimoine Uplands</SimpleData>
+		<SimpleData name="OBJECTID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8600774994145,45.3684834623809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">830</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne Lennoxville ( no 6 )</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8733222294209,45.3652255415927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">463</SimpleData>
+		<SimpleData name="SOUSTYPE">Bureau d'arrondissement</SimpleData>
+		<SimpleData name="NOM">Bureau d’arrondissement des Nations - rue Thibault</SimpleData>
+		<SimpleData name="OBJECTID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8933875960883,45.3748249856041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">837</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Chalet Antonio-Pinard</SimpleData>
+		<SimpleData name="OBJECTID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9083846221087,45.3843872210591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">457</SimpleData>
+		<SimpleData name="SOUSTYPE">Hôtel de ville</SimpleData>
+		<SimpleData name="NOM">Hôtel de ville</SimpleData>
+		<SimpleData name="OBJECTID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8931856161849,45.4040317530973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">683</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Édifice Rodolphe-Langis</SimpleData>
+		<SimpleData name="OBJECTID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8918925021132,45.4034607314095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">825</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Société d'histoire</SimpleData>
+		<SimpleData name="OBJECTID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8949358532603,45.4054473149637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">826</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre Jean-Charles-Côté</SimpleData>
+		<SimpleData name="OBJECTID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.88338209847,45.3931882339073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">440</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Palais des sports Léopold-Drolet</SimpleData>
+		<SimpleData name="OBJECTID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8834023806325,45.4103993532626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">456</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Édifice Expo Sherbrooke</SimpleData>
+		<SimpleData name="OBJECTID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8811448774926,45.4098813284803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">442</SimpleData>
+		<SimpleData name="SOUSTYPE">Poste de police</SimpleData>
+		<SimpleData name="NOM">Poste de police Édouard-Moreau</SimpleData>
+		<SimpleData name="OBJECTID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9011275533398,45.3934689100458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">572</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Serres Carl-Camirand</SimpleData>
+		<SimpleData name="OBJECTID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9096692812369,45.403349763095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">573</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Domaine Howard</SimpleData>
+		<SimpleData name="OBJECTID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9096561954782,45.4031217349498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">840</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre de Quartier Nord</SimpleData>
+		<SimpleData name="OBJECTID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9102416571932,45.4031095942199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">832</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre d'information touristique</SimpleData>
+		<SimpleData name="OBJECTID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8999498700872,45.398652555271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">467</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Aréna Ivan-Dugré</SimpleData>
+		<SimpleData name="OBJECTID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9066370485381,45.3884612136742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">441</SimpleData>
+		<SimpleData name="SOUSTYPE">Bibliothèque</SimpleData>
+		<SimpleData name="NOM">Bibliothèque Éva-Senécal</SimpleData>
+		<SimpleData name="OBJECTID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.896848673724,45.3998775639241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">443</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Pavillon Armand-Nadeau</SimpleData>
+		<SimpleData name="OBJECTID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9164969579949,45.3954300203762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">447</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne Robert-Davidson ( no 2)</SimpleData>
+		<SimpleData name="OBJECTID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9623949077932,45.4270068014516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">445</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne Charles-Audet ( no 3 )</SimpleData>
+		<SimpleData name="OBJECTID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9161689345756,45.3907274876842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">446</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre Jean-Bourassa (Hydro-Sherbrooke)</SimpleData>
+		<SimpleData name="OBJECTID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9190945471317,45.3899249103333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">444</SimpleData>
+		<SimpleData name="SOUSTYPE">Bureau d'arrondissement</SimpleData>
+		<SimpleData name="NOM">Bureau d’arrondissement des Nations - boulevard de Portland</SimpleData>
+		<SimpleData name="OBJECTID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9251815503615,45.4030274624189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">856</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre des Arts de la scène Jean-Besré</SimpleData>
+		<SimpleData name="OBJECTID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8877204708122,45.3976467042974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">902</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre de Foires de Sherbrooke</SimpleData>
+		<SimpleData name="OBJECTID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9642509250865,45.4218579997565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">922</SimpleData>
+		<SimpleData name="SOUSTYPE">Bureau d'arrondissement</SimpleData>
+		<SimpleData name="NOM">Bureau d’arrondissement de Fleurimont</SimpleData>
+		<SimpleData name="OBJECTID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8678750665235,45.4040488377621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">965</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre récréatif Rock Forest (Aréna)</SimpleData>
+		<SimpleData name="OBJECTID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9905464127782,45.368120684758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">10984</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Maison de l'eau</SimpleData>
+		<SimpleData name="OBJECTID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.928290648306,45.3943514172647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">10972</SimpleData>
+		<SimpleData name="SOUSTYPE">Bibliothèque</SimpleData>
+		<SimpleData name="NOM">Bibliothèque Gisèle-Bergeron</SimpleData>
+		<SimpleData name="OBJECTID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9455947150626,45.4743425452645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">10973</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Aréna Philippe-Bergeron</SimpleData>
+		<SimpleData name="OBJECTID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9521855545892,45.4745139612811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">11004</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Atelier mécanique ouest</SimpleData>
+		<SimpleData name="OBJECTID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0118163169354,45.3562754298346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">11005</SimpleData>
+		<SimpleData name="SOUSTYPE">Carte et Poste d'incendie</SimpleData>
+		<SimpleData name="NOM">Caserne Jacques-Denault ( no 7 )</SimpleData>
+		<SimpleData name="OBJECTID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.0113933622519,45.3569933294618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">11026</SimpleData>
+		<SimpleData name="SOUSTYPE">Cour municipale</SimpleData>
+		<SimpleData name="NOM">Cour municipale</SimpleData>
+		<SimpleData name="OBJECTID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8932403289756,45.4041801734268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">11111</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Bâtiment Claude-Ruel</SimpleData>
+		<SimpleData name="OBJECTID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.8930402606871,45.3952440376935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">11113</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Pavillon 4 (Maison Bleue)</SimpleData>
+		<SimpleData name="OBJECTID">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9085625981294,45.4008414785669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#B_C3_A2timents_et_services_municipaux">
+		<SimpleData name="ID">11135</SimpleData>
+		<SimpleData name="SOUSTYPE">Bâtiment municipal principal</SimpleData>
+		<SimpleData name="NOM">Centre de transfert Claude-Greffard</SimpleData>
+		<SimpleData name="OBJECTID">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.9289465505157,45.4424134192113</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
