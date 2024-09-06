@@ -1,0 +1,1739 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "SAG_Chantiers511",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2427190413, 48.4241665468 ],
+					[ -71.2441971812, 48.424316615 ]
+				]
+			},
+			"properties" : {
+				"id" : 1,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Activité diverse",
+				"localisation" : "Rue Ball",
+				"arrondissement" : "Jonquière",
+				"description" : "L'évènement Kénogami en Fête se déroulera du vendredi 21 août au dimanche 25 août, au Parc Ball. Il y aura circulation locale seulement sur la rue Price vers le sud à partir de du Roi-Georges et fermeture complète en la rue Ball et Bradet. La rue Montcalm sera fermée entre la rue Price et le stationnement de la bibliothèque. Il y aura sens unique vers l'ouest sur la Ball et une circulation locale sur la rue Bradet . Nous vous prions de respecter la signalisation ainsi que les bénévoles en place. ",
+				"date_debut" : "2024-08-21T06:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2428847336, 48.4235117503 ],
+					[ -71.2443545567, 48.4236581961 ]
+				]
+			},
+			"properties" : {
+				"id" : 2,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Activité diverse",
+				"localisation" : "Rue Bradet",
+				"arrondissement" : "Jonquière",
+				"description" : "L'évènement Kénogami en Fête se déroulera du vendredi 21 août au dimanche 25 août, au Parc Ball. Il y aura circulation locale seulement sur la rue Price vers le sud à partir de du Roi-Georges et fermeture complète en la rue Ball et Bradet. La rue Montcalm sera fermée entre la rue Price et le stationnement de la bibliothèque. Il y aura sens unique vers l'ouest sur la Ball et une circulation locale sur la rue Bradet . Nous vous prions de respecter la signalisation ainsi que les bénévoles en place. ",
+				"date_debut" : "2024-08-21T06:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2414740574, 48.4237117323 ],
+					[ -71.2420689662, 48.4237947092 ],
+					[ -71.2427870977, 48.4238911358 ]
+				]
+			},
+			"properties" : {
+				"id" : 3,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Activité diverse",
+				"localisation" : "Rue De Montcalm",
+				"arrondissement" : "Jonquière",
+				"description" : "L'évènement Kénogami en Fête se déroulera du vendredi 21 août au dimanche 25 août, au Parc Ball. Il y aura circulation locale seulement sur la rue Price vers le sud à partir de du Roi-Georges et fermeture complète en la rue Ball et Bradet. La rue Montcalm sera fermée entre la rue Price et le stationnement de la bibliothèque. Il y aura sens unique vers l'ouest sur la Ball et une circulation locale sur la rue Bradet . Nous vous prions de respecter la signalisation ainsi que les bénévoles en place. ",
+				"date_debut" : "2024-08-21T06:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.2425714892, 48.4247599703 ],
+						[ -71.2427190413, 48.4241665468 ]
+					],
+					[
+						[ -71.2427190413, 48.4241665468 ],
+						[ -71.2427870977, 48.4238911358 ]
+					],
+					[
+						[ -71.2427870977, 48.4238911358 ],
+						[ -71.2428847336, 48.4235117503 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 4,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Activité diverse",
+				"localisation" : "Rue Price",
+				"arrondissement" : "Jonquière",
+				"description" : "L'évènement Kénogami en Fête se déroulera du vendredi 21 août au dimanche 25 août, au Parc Ball. Il y aura circulation locale seulement sur la rue Price vers le sud à partir de du Roi-Georges et fermeture complète en la rue Ball et Bradet. La rue Montcalm sera fermée entre la rue Price et le stationnement de la bibliothèque. Il y aura sens unique vers l'ouest sur la Ball et une circulation locale sur la rue Bradet . Nous vous prions de respecter la signalisation ainsi que les bénévoles en place. ",
+				"date_debut" : "2024-08-21T06:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -70.7960990924, 48.3370467981 ],
+						[ -70.795955612, 48.336915197 ],
+						[ -70.7956605495, 48.3364260217 ],
+						[ -70.7954862121, 48.3362463554 ],
+						[ -70.7954042802, 48.336180864 ],
+						[ -70.7950793628, 48.3361103317 ],
+						[ -70.7944049522, 48.3361267856 ],
+						[ -70.7941038874, 48.3360675182 ],
+						[ -70.7938092208, 48.3359391322 ],
+						[ -70.793593182, 48.3357448428 ],
+						[ -70.7934175982, 48.335494377 ],
+						[ -70.7932380353, 48.3346979138 ],
+						[ -70.7932100016, 48.3345495892 ],
+						[ -70.7933283931, 48.3338639464 ],
+						[ -70.7933481106, 48.3337472181 ],
+						[ -70.7930579907, 48.3332234729 ],
+						[ -70.7924834145, 48.3325690468 ],
+						[ -70.7923462353, 48.3323473674 ],
+						[ -70.7922717827, 48.3318049481 ],
+						[ -70.7921380702, 48.3315945876 ],
+						[ -70.7918084043, 48.3312816397 ],
+						[ -70.7915991545, 48.3310069014 ],
+						[ -70.7915115801, 48.3308431505 ],
+						[ -70.791414106, 48.3306562031 ],
+						[ -70.791348031, 48.3305385601 ],
+						[ -70.791293871, 48.3304248514 ],
+						[ -70.7912703332, 48.3303178107 ],
+						[ -70.7912785848, 48.3302327247 ],
+						[ -70.7912936159, 48.3301567406 ],
+						[ -70.7913366693, 48.3300478025 ],
+						[ -70.7914062002, 48.329944031 ],
+						[ -70.7914842877, 48.3298603996 ],
+						[ -70.7915844354, 48.3297743674 ],
+						[ -70.7918565292, 48.3295930854 ],
+						[ -70.7923914577, 48.3293504678 ],
+						[ -70.792519996, 48.3292694298 ],
+						[ -70.7926432028, 48.3291559469 ],
+						[ -70.7927236993, 48.3290396748 ],
+						[ -70.7927711216, 48.3289135771 ],
+						[ -70.7927978231, 48.3287314673 ],
+						[ -70.7927321811, 48.3283832461 ],
+						[ -70.7927669529, 48.3281852818 ],
+						[ -70.7930346173, 48.3276615046 ],
+						[ -70.7931589129, 48.3272597503 ],
+						[ -70.793190054, 48.3270268993 ],
+						[ -70.7932083694, 48.3268567763 ],
+						[ -70.7930825925, 48.3263517328 ],
+						[ -70.7930725108, 48.3260393064 ],
+						[ -70.7931131638, 48.325929093 ],
+						[ -70.7931663602, 48.3258308024 ],
+						[ -70.7933421465, 48.3256223763 ],
+						[ -70.7934898868, 48.3255057809 ],
+						[ -70.7936323472, 48.3254201066 ],
+						[ -70.7938530581, 48.3253222496 ],
+						[ -70.7940277329, 48.3252368082 ],
+						[ -70.794070679, 48.3252158 ],
+						[ -70.7941720514, 48.3251548808 ],
+						[ -70.7942620975, 48.3250758964 ],
+						[ -70.7943491186, 48.324932967 ],
+						[ -70.7944245571, 48.324805768 ],
+						[ -70.7946669221, 48.324468433 ],
+						[ -70.7950339762, 48.3240692174 ],
+						[ -70.7951984561, 48.3238239619 ],
+						[ -70.7952877109, 48.3235639269 ],
+						[ -70.7952863267, 48.3232678032 ],
+						[ -70.7952726304, 48.3231232042 ],
+						[ -70.7952466056, 48.3230300725 ],
+						[ -70.7952123055, 48.3229567435 ],
+						[ -70.7950265896, 48.3226983386 ],
+						[ -70.794709292, 48.3225189897 ],
+						[ -70.7944802289, 48.3223660579 ],
+						[ -70.7943337785, 48.3222353858 ],
+						[ -70.7942296754, 48.3221114693 ],
+						[ -70.7941422077, 48.3219674113 ],
+						[ -70.7940844806, 48.3218501199 ],
+						[ -70.7940301732, 48.3216996434 ],
+						[ -70.7939825054, 48.3216020194 ],
+						[ -70.7939679411, 48.3214321367 ],
+						[ -70.7939772504, 48.3212312644 ]
+					],
+					[
+						[ -70.8311648444, 48.2962984793 ],
+						[ -70.8306036281, 48.2962935975 ],
+						[ -70.8281813101, 48.2963816848 ],
+						[ -70.8257589821, 48.296469721 ],
+						[ -70.8255257576, 48.2964959271 ],
+						[ -70.8252895564, 48.296552631 ],
+						[ -70.8250909419, 48.2966256 ],
+						[ -70.8249064693, 48.2967502156 ],
+						[ -70.8246378066, 48.2969539535 ],
+						[ -70.8221310126, 48.29909237 ],
+						[ -70.821320979, 48.2997380682 ],
+						[ -70.8209060547, 48.300038853 ],
+						[ -70.8204069755, 48.300454318 ],
+						[ -70.8190398687, 48.3016265689 ],
+						[ -70.8170654275, 48.3032995137 ],
+						[ -70.816240235, 48.3039859972 ],
+						[ -70.8135482595, 48.3062215883 ],
+						[ -70.8120457002, 48.3075051731 ],
+						[ -70.8109876473, 48.3083168584 ],
+						[ -70.8097791362, 48.3093855187 ],
+						[ -70.8094697337, 48.3096095129 ],
+						[ -70.8089545769, 48.3100685494 ],
+						[ -70.8082311194, 48.31062443 ],
+						[ -70.8080022696, 48.3108323452 ],
+						[ -70.807792917, 48.3109949886 ],
+						[ -70.8074641409, 48.3112880376 ],
+						[ -70.8061815904, 48.3123528927 ],
+						[ -70.8053250336, 48.3130971531 ],
+						[ -70.8035728638, 48.3145436144 ],
+						[ -70.8029914808, 48.3150766609 ],
+						[ -70.8025218016, 48.3154913687 ]
+					],
+					[
+						[ -70.7939772504, 48.3212312644 ],
+						[ -70.7940614525, 48.3211009698 ],
+						[ -70.7941770669, 48.3209818689 ],
+						[ -70.7942780987, 48.3208943876 ],
+						[ -70.7945784784, 48.3206070312 ],
+						[ -70.7950184989, 48.3203317655 ],
+						[ -70.7954142505, 48.320038488 ],
+						[ -70.7956891346, 48.3196979425 ],
+						[ -70.7960239771, 48.3191533382 ],
+						[ -70.7964573797, 48.3186186736 ],
+						[ -70.7967769972, 48.3183799616 ],
+						[ -70.7971734211, 48.3182067533 ],
+						[ -70.7973565302, 48.3181519059 ],
+						[ -70.7979433673, 48.3180121855 ],
+						[ -70.7982045288, 48.3179446733 ],
+						[ -70.7985485521, 48.3178157747 ],
+						[ -70.79904988, 48.3175765846 ],
+						[ -70.8006679159, 48.3166191161 ],
+						[ -70.8009151004, 48.3164870655 ],
+						[ -70.8017578249, 48.3160239176 ],
+						[ -70.8019519131, 48.3159223741 ],
+						[ -70.8021167274, 48.3157999583 ],
+						[ -70.8025218016, 48.3154913687 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 5,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux d'urgence",
+				"localisation" : "Chemin Saint-Charles",
+				"arrondissement" : "La Baie",
+				"description" : "À la suite d’un signalement, une vérification du sol a été effectuée par le Service du génie et des experts externes sur le chemin Saint-Charles, à La Baie. Celle-ci a mené à la fermeture immédiate du chemin à la hauteur du sentier Néré-Gagné en raison d’un petit affaissement d’une moitié de la chaussée. Les travaux correctifs sont en évaluation.\n\nL’accès et la sortie se feront uniquement par le chemin Saint-Bruno jusqu’à ce qu’il soit de nouveau possible de circuler par l’autre extrémité du chemin Saint-Charles.\n",
+				"date_debut" : "2024-08-01T14:20:57.533",
+				"date_fin" : "2024-12-31T00:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -70.939829266, 48.3951685488 ],
+					[ -70.9381277569, 48.3943615479 ],
+					[ -70.9365595767, 48.3936205276 ],
+					[ -70.9346743149, 48.392728306 ],
+					[ -70.9343244623, 48.3925619683 ],
+					[ -70.9331086942, 48.3919839156 ],
+					[ -70.9319176916, 48.3914219451 ],
+					[ -70.931403272, 48.3911704647 ],
+					[ -70.9307640581, 48.3908647915 ],
+					[ -70.9301200011, 48.3905700083 ],
+					[ -70.9298154219, 48.3904327375 ],
+					[ -70.9288541313, 48.3899725666 ],
+					[ -70.9288211916, 48.3899566523 ],
+					[ -70.9274779585, 48.3893076851 ],
+					[ -70.9255660014, 48.3883880086 ],
+					[ -70.9233313244, 48.3873370285 ],
+					[ -70.9228372025, 48.387104628 ],
+					[ -70.9210700011, 48.3862860079 ],
+					[ -70.9204015399, 48.3859826937 ],
+					[ -70.9182370006, 48.3849570087 ],
+					[ -70.9178014621, 48.3847614347 ],
+					[ -70.9170050746, 48.3844038165 ],
+					[ -70.9157519413, 48.383802153 ],
+					[ -70.9148614527, 48.383386896 ],
+					[ -70.9138898222, 48.3829276038 ],
+					[ -70.9130102909, 48.3825171721 ],
+					[ -70.9122837172, 48.3821750441 ],
+					[ -70.9113229112, 48.3817226067 ],
+					[ -70.9108805771, 48.3815157353 ],
+					[ -70.9079270011, 48.3801350081 ],
+					[ -70.9067607592, 48.3795860726 ],
+					[ -70.9066172648, 48.3795185291 ],
+					[ -70.9047692597, 48.3786463884 ],
+					[ -70.9040403751, 48.378279599 ],
+					[ -70.9036370012, 48.3780910084 ],
+					[ -70.9032641531, 48.377977567 ],
+					[ -70.9030736369, 48.3779368275 ],
+					[ -70.9028870005, 48.3779150081 ],
+					[ -70.9018690008, 48.3777880083 ],
+					[ -70.9013110015, 48.3776710079 ],
+					[ -70.9008692092, 48.3775350068 ],
+					[ -70.8998969904, 48.3772357115 ],
+					[ -70.8984980007, 48.3768360084 ],
+					[ -70.8981020003, 48.376707008 ],
+					[ -70.8977911693, 48.3765929205 ],
+					[ -70.8976760008, 48.3765160087 ],
+					[ -70.8975485826, 48.3764090841 ],
+					[ -70.8974920011, 48.3762950082 ],
+					[ -70.8972377376, 48.3754238995 ],
+					[ -70.8970815553, 48.3750934264 ],
+					[ -70.8968791373, 48.3749097431 ],
+					[ -70.8966121762, 48.3747672907 ],
+					[ -70.8959816567, 48.374469687 ],
+					[ -70.8954064839, 48.3741998958 ],
+					[ -70.8952176528, 48.3741370341 ],
+					[ -70.8950187702, 48.3740830385 ],
+					[ -70.8947519656, 48.3740334588 ],
+					[ -70.8934050007, 48.3738790079 ],
+					[ -70.8929840012, 48.3738140086 ],
+					[ -70.8926424425, 48.3737522812 ],
+					[ -70.8923090113, 48.3736429382 ],
+					[ -70.891730597, 48.3734397379 ],
+					[ -70.8908230016, 48.373066008 ],
+					[ -70.8905439365, 48.3729182348 ],
+					[ -70.8902139578, 48.3726783649 ],
+					[ -70.8900444335, 48.3725600491 ],
+					[ -70.8892850009, 48.3720300081 ],
+					[ -70.8890240014, 48.3719080079 ],
+					[ -70.8887928755, 48.3718144555 ],
+					[ -70.8885870006, 48.3717630087 ],
+					[ -70.8879537375, 48.3716317849 ],
+					[ -70.8877731498, 48.3715843607 ],
+					[ -70.8875487968, 48.3715023033 ],
+					[ -70.8873691642, 48.3714167807 ],
+					[ -70.8872480004, 48.3713440086 ],
+					[ -70.8871061355, 48.371257566 ],
+					[ -70.8865940015, 48.3708330082 ],
+					[ -70.8852651043, 48.3696367153 ],
+					[ -70.8852086893, 48.3695858934 ],
+					[ -70.8843803753, 48.3688396897 ],
+					[ -70.8838030006, 48.3683680086 ],
+					[ -70.8835655299, 48.3682420059 ],
+					[ -70.883141506, 48.3680488055 ],
+					[ -70.8830105676, 48.3679904436 ],
+					[ -70.8801139252, 48.3667233421 ],
+					[ -70.8780728537, 48.3658304172 ],
+					[ -70.8767562171, 48.3652566927 ],
+					[ -70.8764666209, 48.3651267943 ],
+					[ -70.8763490004, 48.3650620081 ],
+					[ -70.8761427924, 48.3649469045 ],
+					[ -70.8759900003, 48.3648430086 ],
+					[ -70.8757758091, 48.3646866177 ],
+					[ -70.8755450003, 48.3644810082 ],
+					[ -70.8752500005, 48.3641620087 ],
+					[ -70.8750574195, 48.3638650696 ],
+					[ -70.8748920013, 48.3636100082 ],
+					[ -70.8747689296, 48.3633656743 ],
+					[ -70.8747132875, 48.3631959366 ],
+					[ -70.8746606122, 48.3629672844 ],
+					[ -70.8746055752, 48.3627161414 ],
+					[ -70.8745820784, 48.362478777 ],
+					[ -70.8746010005, 48.3623100079 ],
+					[ -70.8746461341, 48.3621462468 ],
+					[ -70.8747520011, 48.3620020079 ],
+					[ -70.8748488202, 48.3619134044 ]
+				]
+			},
+			"properties" : {
+				"id" : 6,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux d'urgence",
+				"localisation" : "Chemin Saint-Joseph",
+				"arrondissement" : "La Baie",
+				"description" : "En raison de travaux de réfection effectué sur le ponceau face au 3883, le chemin Saint-Joseph sera fermé à la circulation, jusqu'à la fin des travaux prévue à la mi-septembre.\n",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-13T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -70.8881225148, 48.3955530831 ],
+					[ -70.888255415, 48.3944292653 ],
+					[ -70.8882141675, 48.3939109893 ],
+					[ -70.888128812, 48.3934789885 ],
+					[ -70.8880300012, 48.3932030087 ],
+					[ -70.887896001, 48.392890008 ],
+					[ -70.8868216639, 48.3909033235 ],
+					[ -70.8864637517, 48.390271828 ],
+					[ -70.8862537251, 48.3899425597 ],
+					[ -70.8858641781, 48.3894433878 ],
+					[ -70.8849498337, 48.3883884846 ],
+					[ -70.8840641677, 48.3871816477 ],
+					[ -70.8835090006, 48.3863850082 ],
+					[ -70.8833978771, 48.3862225449 ],
+					[ -70.8832196059, 48.3859344156 ],
+					[ -70.8831288948, 48.3857444102 ],
+					[ -70.8830339292, 48.3855102652 ],
+					[ -70.8829950829, 48.3853328872 ],
+					[ -70.8829782744, 48.3852561343 ],
+					[ -70.8829763917, 48.3851545769 ],
+					[ -70.8830010008, 48.3850800083 ],
+					[ -70.8830395036, 48.3849370308 ],
+					[ -70.8832638453, 48.3844650444 ],
+					[ -70.8834072952, 48.3840918796 ],
+					[ -70.8834989501, 48.3837086252 ],
+					[ -70.8835383353, 48.3835703727 ],
+					[ -70.8835596988, 48.3834353146 ],
+					[ -70.8835526892, 48.3831789522 ],
+					[ -70.8835245326, 48.3830569717 ],
+					[ -70.8834752274, 48.3829478214 ],
+					[ -70.8834136208, 48.3828561026 ],
+					[ -70.8833284431, 48.3827759188 ],
+					[ -70.8832110009, 48.3827010086 ],
+					[ -70.8817790487, 48.3817278145 ],
+					[ -70.8813684276, 48.3814516692 ],
+					[ -70.8806050009, 48.3809090079 ],
+					[ -70.8800460011, 48.3803870081 ],
+					[ -70.8797538891, 48.3800143358 ],
+					[ -70.879547001, 48.3796660079 ],
+					[ -70.8793366894, 48.3792771687 ],
+					[ -70.8791670005, 48.3788990087 ],
+					[ -70.8790537817, 48.3785260668 ],
+					[ -70.8789780009, 48.3781550081 ],
+					[ -70.8788315048, 48.3776743007 ],
+					[ -70.878735001, 48.3774390084 ],
+					[ -70.8787274059, 48.3774211984 ],
+					[ -70.8782491673, 48.3762998369 ],
+					[ -70.8779637215, 48.3756681319 ],
+					[ -70.877813543, 48.3753824387 ],
+					[ -70.8767343789, 48.3731224852 ],
+					[ -70.8764468437, 48.3726301357 ],
+					[ -70.8757300633, 48.3715294135 ],
+					[ -70.8751511149, 48.370587946 ],
+					[ -70.8748091068, 48.3701920174 ],
+					[ -70.8746535712, 48.3699659787 ],
+					[ -70.8745502459, 48.3697737911 ],
+					[ -70.8743026064, 48.3692758315 ],
+					[ -70.8741666717, 48.3689684142 ],
+					[ -70.8740670012, 48.3687430086 ],
+					[ -70.8737250637, 48.3681411865 ],
+					[ -70.8734177266, 48.3677394992 ],
+					[ -70.8730265684, 48.3671828152 ],
+					[ -70.8729175729, 48.3670062291 ]
+				]
+			},
+			"properties" : {
+				"id" : 7,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux d'urgence",
+				"localisation" : "Route de l'Anse-à-Benjamin",
+				"arrondissement" : "La Baie",
+				"description" : "En raison de travaux de réfection sur le ponceau P-093, la route de l'Anse-à-Benjamin sera fermé à la circulation à la hauteur du1762,  pour une durée indéterminée.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-12-31T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -70.889169754, 48.4120906764 ],
+					[ -70.8894578816, 48.412145584 ],
+					[ -70.8897522436, 48.4121784528 ],
+					[ -70.8900773675, 48.4121869628 ],
+					[ -70.8903494201, 48.4121733715 ],
+					[ -70.8905821054, 48.4121071983 ],
+					[ -70.8908570176, 48.4120451614 ],
+					[ -70.8913268451, 48.4118498591 ],
+					[ -70.8918648262, 48.4115563365 ],
+					[ -70.8921702033, 48.4114071977 ],
+					[ -70.8924767619, 48.4113175413 ],
+					[ -70.892766114, 48.4112552725 ],
+					[ -70.8930589311, 48.4112333862 ],
+					[ -70.893336226, 48.4112267743 ],
+					[ -70.8936810688, 48.4112624968 ],
+					[ -70.8940367576, 48.411333742 ],
+					[ -70.8944181084, 48.4114285511 ],
+					[ -70.8961478551, 48.4119040254 ],
+					[ -70.8972590053, 48.4120937524 ],
+					[ -70.8981672942, 48.4121854488 ],
+					[ -70.9016705152, 48.4124522548 ],
+					[ -70.9021154045, 48.4124977118 ],
+					[ -70.9025106589, 48.412560332 ],
+					[ -70.9029085601, 48.412634836 ],
+					[ -70.9033366968, 48.4127670038 ],
+					[ -70.903599536, 48.412868033 ],
+					[ -70.9040947004, 48.4130837884 ],
+					[ -70.9045677202, 48.4132962225 ],
+					[ -70.9054352153, 48.413685111 ],
+					[ -70.9059529373, 48.4139540207 ],
+					[ -70.906077859, 48.4140425031 ],
+					[ -70.9061532054, 48.4141022749 ],
+					[ -70.9062285398, 48.4141603467 ],
+					[ -70.9063169322, 48.4142557545 ],
+					[ -70.906451184, 48.4144472868 ],
+					[ -70.9068672881, 48.4151380001 ],
+					[ -70.907007993, 48.4153456303 ],
+					[ -70.9073017763, 48.4156982672 ],
+					[ -70.9075673921, 48.4159171349 ],
+					[ -70.9079028566, 48.4161730393 ],
+					[ -70.9083370835, 48.4164229765 ],
+					[ -70.9088028045, 48.4166351888 ],
+					[ -70.9092078192, 48.4167916211 ],
+					[ -70.9095084636, 48.4168948965 ],
+					[ -70.910088308, 48.4170816909 ],
+					[ -70.9105009387, 48.4171833027 ],
+					[ -70.9110167667, 48.4172755497 ],
+					[ -70.9115301955, 48.4173597382 ],
+					[ -70.9139490339, 48.4176557803 ],
+					[ -70.9144245014, 48.4177401598 ],
+					[ -70.9152640599, 48.4178359963 ]
+				]
+			},
+			"properties" : {
+				"id" : 8,
+				"municipalite" : "94068",
+				"etat" : "Circulation en alternance avec feu ou signaleur",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin Saint-Martin",
+				"arrondissement" : "La Baie",
+				"description" : "En raison de travaux de pavage sur le chemin Saint-Martin, entre le chemin de la Ligne-Bagot et le numéro civique 5882, il y aura une circulation en alternance avec signaleurs, de mardi 20 août 7 h jusqu'à vendredi 30 août 17 h.",
+				"date_debut" : "2024-08-20T07:00:00",
+				"date_fin" : "2024-08-30T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0591258456, 48.427560926 ],
+						[ -71.058953556, 48.4276106798 ],
+						[ -71.0577036547, 48.4280749971 ],
+						[ -71.0571316779, 48.4283271002 ],
+						[ -71.0556196744, 48.4290190606 ]
+					],
+					[
+						[ -71.0556196744, 48.4290190606 ],
+						[ -71.0551976257, 48.4291875102 ],
+						[ -71.0545744405, 48.4293218895 ],
+						[ -71.0534549247, 48.4294518066 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 9,
+				"municipalite" : "94068",
+				"etat" : "Circulation en alternance avec feu ou signaleur",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue du Havre",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de forages, il y aura circulation en alternance avec signaleurs pour les rues Sainte-Anne (entre les rues Price et Racine), Racine (entre les rues Sainte-Anne et Riverin) et du Havre (entre les rues Racine et Salaberry), les forages se feront successivement sur les trois rues, l'une à la suite de l'autre, de mardi 6 août 7 h jusqu'au vendredi 30 août 17 h.",
+				"date_debut" : "2024-08-06T07:00:00",
+				"date_fin" : "2024-08-30T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.1078098454, 48.4132292014 ],
+					[ -71.1078632194, 48.4133617206 ],
+					[ -71.107871158, 48.4134097816 ],
+					[ -71.1078577892, 48.4134764818 ],
+					[ -71.1078285615, 48.413521808 ],
+					[ -71.1078022786, 48.4135723199 ],
+					[ -71.1078085512, 48.4136232012 ],
+					[ -71.1078328715, 48.413664307 ],
+					[ -71.108030081, 48.4139934994 ],
+					[ -71.108042972, 48.4140405989 ],
+					[ -71.1080260703, 48.4140881454 ],
+					[ -71.1079929396, 48.4141206931 ],
+					[ -71.1079502497, 48.4141435473 ],
+					[ -71.1079014175, 48.4141558211 ],
+					[ -71.1077114604, 48.414215919 ],
+					[ -71.1076605549, 48.4142381077 ],
+					[ -71.1076269174, 48.4142678285 ],
+					[ -71.1076066921, 48.4143138222 ],
+					[ -71.1076071415, 48.4143515348 ],
+					[ -71.1076405435, 48.4144022675 ],
+					[ -71.1080465536, 48.414845504 ],
+					[ -71.1080995523, 48.414893326 ],
+					[ -71.1081691196, 48.4149305672 ],
+					[ -71.1082847974, 48.4149684307 ],
+					[ -71.1083567268, 48.414973641 ],
+					[ -71.1084227371, 48.4149663775 ],
+					[ -71.108499413, 48.4149396856 ]
+				]
+			},
+			"properties" : {
+				"id" : 10,
+				"municipalite" : "94068",
+				"etat" : "Circulation en alternance avec feu ou signaleur",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Jeanne-Mance",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux d'installation d'un puisard, la circulation se fera en alternance sur la rue Jeanne-Mance, à l'ntrée de la rue, le lundi 26 aoput, de 7 h à 17 h.",
+				"date_debut" : "2024-08-26T17:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0600185773, 48.4275940092 ],
+						[ -71.0594940522, 48.4275718294 ],
+						[ -71.0591258456, 48.427560926 ]
+					],
+					[
+						[ -71.0684615806, 48.4280539227 ],
+						[ -71.0670170957, 48.4279845134 ]
+					],
+					[
+						[ -71.0591258456, 48.427560926 ],
+						[ -71.0583927799, 48.4275451344 ],
+						[ -71.0577377277, 48.4275463578 ],
+						[ -71.0571780857, 48.4276389896 ]
+					],
+					[
+						[ -71.0571780857, 48.4276389896 ],
+						[ -71.0568752962, 48.4277255346 ],
+						[ -71.0553103548, 48.4283138833 ]
+					],
+					[
+						[ -71.0670170957, 48.4279845134 ],
+						[ -71.065629833, 48.4278880166 ]
+					],
+					[
+						[ -71.065629833, 48.4278880166 ],
+						[ -71.0642932586, 48.4278208974 ]
+					],
+					[
+						[ -71.0642932586, 48.4278208974 ],
+						[ -71.062932556, 48.4277418837 ]
+					],
+					[
+						[ -71.062932556, 48.4277418837 ],
+						[ -71.0600185773, 48.4275940092 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 11,
+				"municipalite" : "94068",
+				"etat" : "Circulation en alternance avec feu ou signaleur",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Racine Est",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de forages, il y aura circulation en alternance avec signaleurs pour les rues Sainte-Anne (entre les rues Price et Racine), Racine (entre les rues Sainte-Anne et Riverin) et du Havre (entre les rues Racine et Salaberry), les forages se feront successivement sur les trois rues, l'une à la suite de l'autre, de mardi 6 août 7 h jusqu'au vendredi 30 août 17 h.",
+				"date_debut" : "2024-08-06T07:00:00",
+				"date_fin" : "2024-08-30T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0684615806, 48.4280539227 ],
+						[ -71.0686381111, 48.4267147349 ]
+					],
+					[
+						[ -71.0686381111, 48.4267147349 ],
+						[ -71.0687286683, 48.4260675553 ]
+					],
+					[
+						[ -71.0687286683, 48.4260675553 ],
+						[ -71.0688017571, 48.4254013274 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 12,
+				"municipalite" : "94068",
+				"etat" : "Circulation en alternance avec feu ou signaleur",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Sainte-Anne",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de forages, il y aura circulation en alternance avec signaleurs pour les rues Sainte-Anne (entre les rues Price et Racine), Racine (entre les rues Sainte-Anne et Riverin) et du Havre (entre les rues Racine et Salaberry), les forages se feront successivement sur les trois rues, l'une à la suite de l'autre, de mardi 6 août 7 h jusqu'au vendredi 30 août 17 h.",
+				"date_debut" : "2024-08-06T07:00:00",
+				"date_fin" : "2024-08-30T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0560136969, 48.4247948066 ],
+						[ -71.0562166542, 48.4245890092 ]
+					],
+					[
+						[ -71.0551110368, 48.4256847263 ],
+						[ -71.0553763219, 48.4254410309 ]
+					],
+					[
+						[ -71.0562166542, 48.4245890092 ],
+						[ -71.0572841092, 48.4235080003 ]
+					],
+					[
+						[ -71.0553763219, 48.4254410309 ],
+						[ -71.055796713, 48.4250140165 ]
+					],
+					[
+						[ -71.055796713, 48.4250140165 ],
+						[ -71.0560136969, 48.4247948066 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 13,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Bégin",
+				"arrondissement" : "Chicoutimi",
+				"description" : "MISE À JOUR : \n\n- Jeudi 15 août 2024 : de 7 h à 21 h, il y aura fermeture de la voie de circulation en direction sud sur la rue Bégin, à la hauteur de la rue Price Est. La circulation se fera uniquement en direction nord (direction hôpital) afin de faciliter l’accès à l’hôpital pour les véhicules d’urgence.\n\n- Jusqu’au 16 août 2024 : il y aura fermeture de la rue Price Est entre les rues Labrecque et Bégin, seule une circulation locale sera autorisée. Le détour se fera par la rue Jacques-Cartier.\n\n- Jusqu’au 13 septembre 2024 : réduction de la largeur des voies sur les rues Price, Bégin et l’accès au Cégep de Chicoutimi. Il y aura un détour à faire pour les piétons durant cette période.",
+				"date_debut" : "2024-08-05T07:00:00",
+				"date_fin" : "2024-09-13T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -70.8917553054, 48.3422334878 ],
+					[ -70.8916951898, 48.3422693365 ],
+					[ -70.8914380409, 48.3425526838 ],
+					[ -70.8913200004, 48.3427470081 ],
+					[ -70.8912743533, 48.342899568 ],
+					[ -70.8912673311, 48.3430370648 ],
+					[ -70.8912892332, 48.3431662957 ],
+					[ -70.8913137433, 48.3432377324 ],
+					[ -70.8913476798, 48.343309665 ],
+					[ -70.8914281337, 48.3434336133 ],
+					[ -70.8914876469, 48.3434996622 ],
+					[ -70.8915674106, 48.3435739247 ],
+					[ -70.8916545699, 48.3436407077 ],
+					[ -70.8917558572, 48.3437044376 ],
+					[ -70.8938978048, 48.3449263669 ]
+				]
+			},
+			"properties" : {
+				"id" : 14,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue des Saules",
+				"arrondissement" : "La Baie",
+				"description" : "En raison de travaux sur la rue des Saules, entre les adresses 1043 et 1073, il y aura une circulation locale seulement, de mardi 27 août au vendredi 30 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-27T07:00:00",
+				"date_fin" : "2024-08-29T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0572512808, 48.4248641931 ],
+						[ -71.0563687639, 48.4248254701 ]
+					],
+					[
+						[ -71.0563687639, 48.4248254701 ],
+						[ -71.0562571674, 48.4248205729 ],
+						[ -71.0560136969, 48.4247948066 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 15,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Price Est",
+				"arrondissement" : "Chicoutimi",
+				"description" : "MISE À JOUR : \n\n- Jeudi 15 août 2024 : de 7 h à 21 h, il y aura fermeture de la voie de circulation en direction sud sur la rue Bégin, à la hauteur de la rue Price Est. La circulation se fera uniquement en direction nord (direction hôpital) afin de faciliter l’accès à l’hôpital pour les véhicules d’urgence.\n\n- Jusqu’au 16 août 2024 : il y aura fermeture de la rue Price Est entre les rues Labrecque et Bégin, seule une circulation locale sera autorisée. Le détour se fera par la rue Jacques-Cartier.\n\n- Jusqu’au 13 septembre 2024 : réduction de la largeur des voies sur les rues Price, Bégin et l’accès au Cégep de Chicoutimi. Il y aura un détour à faire pour les piétons durant cette période.",
+				"date_debut" : "2024-08-05T07:00:00",
+				"date_fin" : "2024-09-13T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -70.9383952379, 48.3207205042 ],
+					[ -70.9382370305, 48.3204207313 ],
+					[ -70.9381207216, 48.3202981794 ],
+					[ -70.93771289, 48.3199788527 ],
+					[ -70.9375043939, 48.3197791405 ],
+					[ -70.9373492124, 48.3197092023 ],
+					[ -70.9357558871, 48.3193846999 ],
+					[ -70.9356465607, 48.3194043324 ],
+					[ -70.9354052479, 48.3194898052 ],
+					[ -70.9353136336, 48.3195593366 ],
+					[ -70.9349466565, 48.3199972764 ],
+					[ -70.9345233388, 48.3200504184 ],
+					[ -70.933751556, 48.3201994311 ],
+					[ -70.9330990288, 48.3200443023 ],
+					[ -70.9328315814, 48.3200415045 ],
+					[ -70.9324049359, 48.3200530216 ],
+					[ -70.9320458069, 48.320209695 ],
+					[ -70.9317701671, 48.3203592797 ],
+					[ -70.9315809362, 48.3204382117 ],
+					[ -70.9312359447, 48.3205317519 ],
+					[ -70.9308881696, 48.3206044398 ]
+				]
+			},
+			"properties" : {
+				"id" : 16,
+				"municipalite" : "94068",
+				"etat" : "Circulation locale",
+				"type" : "Travaux prévus",
+				"localisation" : "Sentier de l'Éboulis",
+				"arrondissement" : "La Baie",
+				"description" : "En raison de travaux de forage et d'excavation pour l'installation d'une nouvelle conduite d'eau potable dans le sentier de l'Éboulis, il y aura une circulation locale en alternance avec signaleurs, de lundi 5 août 7 h jusqu'à jeudi 10 octobre 17 h.",
+				"date_debut" : "2024-08-05T07:00:00",
+				"date_fin" : "2024-10-10T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2213539204, 48.4147437536 ],
+					[ -71.2186319901, 48.4143809509 ],
+					[ -71.2184178528, 48.4143525147 ],
+					[ -71.2173654026, 48.4142141503 ],
+					[ -71.2168395629, 48.4141205747 ],
+					[ -71.2164267128, 48.4140301156 ],
+					[ -71.2158714491, 48.413885743 ],
+					[ -71.2154693741, 48.4137442377 ],
+					[ -71.2149555115, 48.4135486284 ],
+					[ -71.2144795083, 48.4133221952 ],
+					[ -71.2127317957, 48.4123657759 ],
+					[ -71.212459666, 48.4122068883 ],
+					[ -71.2112743319, 48.4115761785 ]
+				]
+			},
+			"properties" : {
+				"id" : 17,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Boulevard du Royaume",
+				"arrondissement" : "Jonquière",
+				"description" : "En raison de travaux d'inspection sur le boulevard du Royaume, entre la rue Stanley et le boulevard René-Lévesque, la circulation en direction est (vers Chicoutimi) se fera seulement sur une une seule voie, le lundi 26 août de 8 h à 16 h.",
+				"date_debut" : "2024-08-26T08:00:00",
+				"date_fin" : "2024-08-26T16:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0071950331, 48.4387180863 ],
+					[ -71.0077762813, 48.4389997913 ],
+					[ -71.0080385876, 48.4391090816 ],
+					[ -71.0089661584, 48.4394528439 ],
+					[ -71.0095987891, 48.4396830476 ],
+					[ -71.0097055248, 48.4397218869 ],
+					[ -71.0099621978, 48.4397769703 ],
+					[ -71.010159162, 48.4397949798 ],
+					[ -71.0104342168, 48.43977752 ],
+					[ -71.0110420004, 48.4396490086 ],
+					[ -71.0117120011, 48.4395110086 ],
+					[ -71.0123018987, 48.4393732614 ],
+					[ -71.0132960024, 48.4391460218 ],
+					[ -71.013480559, 48.4390962342 ],
+					[ -71.0137350729, 48.4390275725 ],
+					[ -71.0141609125, 48.4389044463 ],
+					[ -71.0153807041, 48.4385292737 ],
+					[ -71.0160267826, 48.4382961225 ],
+					[ -71.0164585262, 48.4381070625 ],
+					[ -71.0165880409, 48.4380408927 ],
+					[ -71.0170445229, 48.4378345906 ],
+					[ -71.0184820588, 48.4371702042 ],
+					[ -71.0187439278, 48.4370215924 ],
+					[ -71.0189776953, 48.4368431402 ],
+					[ -71.0191443287, 48.4366719256 ],
+					[ -71.0192353915, 48.4365397486 ],
+					[ -71.0192981932, 48.4364305164 ],
+					[ -71.0194080518, 48.4361386794 ],
+					[ -71.0195179092, 48.4358468422 ],
+					[ -71.0195911365, 48.4356952828 ],
+					[ -71.019718416, 48.4355224021 ],
+					[ -71.0198584253, 48.4353686143 ],
+					[ -71.0200099621, 48.4352301241 ],
+					[ -71.0206618434, 48.4346558234 ],
+					[ -71.0209680298, 48.4344060995 ],
+					[ -71.0212757286, 48.4341796494 ],
+					[ -71.0213990204, 48.4341125076 ]
+				]
+			},
+			"properties" : {
+				"id" : 18,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Boulevard Renaud",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de refection d'un ponceau, il y aura fermeture complète du boulevard Renaud, à la hauteur du 1650 jusqu'au  rang Saint-Martin, le mardi 27 août, de 7 h 30 à 17 h.",
+				"date_debut" : "2024-08-27T07:30:00",
+				"date_fin" : "2024-08-27T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0256508043, 48.4319502046 ],
+					[ -71.0253592153, 48.4322403244 ],
+					[ -71.0250676229, 48.4325304425 ],
+					[ -71.024884108, 48.4326834763 ],
+					[ -71.0246597051, 48.4328118724 ],
+					[ -71.024399363, 48.4329210924 ],
+					[ -71.0235730869, 48.4332402548 ]
+				]
+			},
+			"properties" : {
+				"id" : 19,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Boulevard Renaud",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux d'installation d'un nouveau service, il y aura fermeture complète du boulevard Renaud, entre les rues du Perche et Théodule-Côté, ce mercredi  28 août, de 7 h 30 à 17 h.",
+				"date_debut" : "2024-08-28T07:30:00",
+				"date_fin" : "2024-08-28T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.1460511475, 48.3493370828 ],
+					[ -71.1454950886, 48.3489031704 ],
+					[ -71.1449967518, 48.3485903715 ],
+					[ -71.1447938853, 48.348484598 ],
+					[ -71.1444671726, 48.3483816496 ],
+					[ -71.1441021458, 48.3482843876 ],
+					[ -71.1432776399, 48.3481439443 ],
+					[ -71.1430157756, 48.34812003 ],
+					[ -71.1425341887, 48.3480800876 ],
+					[ -71.1424458132, 48.3480898972 ]
+				]
+			},
+			"properties" : {
+				"id" : 20,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin de la Rivière",
+				"arrondissement" : "Laterrière",
+				"description" : "En raison de travaux de réfection effectués sur les ponceaux, le rang et le chemin Saint-Paul seront complètement fermés à toute circulation jusqu'à la fin des travaux prévue à la mi-septembre.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-13T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2793880742, 48.4502589952 ],
+					[ -71.2835920521, 48.4509062979 ],
+					[ -71.2864138894, 48.451310909 ],
+					[ -71.2872695602, 48.4514335855 ],
+					[ -71.2913432117, 48.452019313 ],
+					[ -71.2917134323, 48.4520773979 ],
+					[ -71.2920355182, 48.4521506555 ],
+					[ -71.292206739, 48.4521982427 ],
+					[ -71.292395735, 48.4522628361 ],
+					[ -71.2925698936, 48.4523438084 ],
+					[ -71.2927198624, 48.4524241035 ],
+					[ -71.2928684496, 48.4525055151 ],
+					[ -71.2937407152, 48.4529834241 ],
+					[ -71.2940451954, 48.4531328291 ],
+					[ -71.2944879101, 48.4532927471 ],
+					[ -71.2960496154, 48.4538168991 ],
+					[ -71.2963203694, 48.4539146268 ],
+					[ -71.2966089599, 48.4540280129 ],
+					[ -71.2968882192, 48.4541513039 ],
+					[ -71.2977150273, 48.4545374749 ],
+					[ -71.298547334, 48.4549183349 ],
+					[ -71.2992679229, 48.4552480648 ],
+					[ -71.300743338, 48.4559067575 ],
+					[ -71.3022753178, 48.4565780502 ],
+					[ -71.3027520529, 48.4567706177 ],
+					[ -71.3042265794, 48.4573464114 ],
+					[ -71.3062313084, 48.4581318112 ],
+					[ -71.3082361004, 48.4589171747 ],
+					[ -71.3084435221, 48.4590008187 ],
+					[ -71.3086385173, 48.4590967813 ],
+					[ -71.3093967355, 48.4595294429 ],
+					[ -71.3098692935, 48.4598003344 ],
+					[ -71.3117120419, 48.4608566368 ],
+					[ -71.3126117125, 48.4613786039 ],
+					[ -71.3128005854, 48.461504725 ],
+					[ -71.312913447, 48.4615943279 ],
+					[ -71.3130141565, 48.461689716 ],
+					[ -71.3131134425, 48.4618017113 ],
+					[ -71.3133862934, 48.4621367332 ],
+					[ -71.3135515203, 48.462303023 ],
+					[ -71.3137635606, 48.462443896 ],
+					[ -71.3140652725, 48.4625698978 ],
+					[ -71.3147724955, 48.4627869292 ],
+					[ -71.3165947822, 48.4633207885 ],
+					[ -71.317703718, 48.4635910429 ],
+					[ -71.3180318955, 48.4636997013 ],
+					[ -71.3183454529, 48.4638260223 ],
+					[ -71.3195783021, 48.4643141515 ],
+					[ -71.3208111748, 48.4648022663 ],
+					[ -71.3218715465, 48.4652202858 ],
+					[ -71.3226400355, 48.4655228423 ],
+					[ -71.3242078166, 48.4661271375 ],
+					[ -71.3256873002, 48.4666227082 ],
+					[ -71.326675372, 48.4670293077 ],
+					[ -71.3273845514, 48.4673472261 ],
+					[ -71.3280937396, 48.4676651392 ],
+					[ -71.328522855, 48.4678387946 ],
+					[ -71.3289743445, 48.4679852319 ],
+					[ -71.3292851369, 48.4680546802 ],
+					[ -71.3294686256, 48.4680822795 ],
+					[ -71.3295858624, 48.4680964911 ],
+					[ -71.3297305958, 48.4681101068 ],
+					[ -71.3299812606, 48.4681175784 ],
+					[ -71.3302487039, 48.4681145143 ],
+					[ -71.3304831207, 48.4681039388 ],
+					[ -71.3308027497, 48.4680697954 ],
+					[ -71.330975417, 48.4680376792 ],
+					[ -71.3312944906, 48.4679595575 ],
+					[ -71.3316514797, 48.4678470328 ],
+					[ -71.331926304, 48.4677277719 ],
+					[ -71.3322328358, 48.4675591728 ],
+					[ -71.3324670716, 48.4673956556 ],
+					[ -71.3325938647, 48.46728565 ],
+					[ -71.3326554435, 48.4672322252 ],
+					[ -71.3328086605, 48.4670808633 ],
+					[ -71.333116565, 48.4667276086 ],
+					[ -71.3347255669, 48.4648935902 ],
+					[ -71.336020926, 48.4634106233 ],
+					[ -71.336664821, 48.4626734351 ],
+					[ -71.3373882981, 48.4618311275 ],
+					[ -71.3375864105, 48.4615685522 ],
+					[ -71.337761368, 48.461298798 ],
+					[ -71.3385653142, 48.4595925285 ],
+					[ -71.3386761436, 48.4593037008 ],
+					[ -71.3387461639, 48.459015407 ],
+					[ -71.3387631567, 48.4587090649 ],
+					[ -71.3387369609, 48.4584567894 ],
+					[ -71.3386737878, 48.4581933981 ],
+					[ -71.3385655065, 48.4579343736 ],
+					[ -71.3384218348, 48.4576862107 ],
+					[ -71.3382866362, 48.457506397 ],
+					[ -71.3380747311, 48.457278277 ],
+					[ -71.337859355, 48.4570675393 ],
+					[ -71.3377675278, 48.4569881406 ],
+					[ -71.3376965844, 48.4569092734 ],
+					[ -71.3376475869, 48.4568424197 ],
+					[ -71.3376023356, 48.4567710813 ],
+					[ -71.3375816204, 48.4567334245 ],
+					[ -71.3375644515, 48.4566638549 ],
+					[ -71.3375519766, 48.4565842913 ],
+					[ -71.3375460406, 48.4564750454 ],
+					[ -71.3375543877, 48.4563870289 ],
+					[ -71.3375720266, 48.4561735719 ]
+				]
+			},
+			"properties" : {
+				"id" : 21,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin Saint-Éloi",
+				"arrondissement" : "Jonquière",
+				"description" : "En raison de travaux de réfection effectués sur le ponceau, face au 4468, le chemin Saint-Éloi sera fermé à la circulation jusqu'à la fin des travaux prévue à la fin septembre.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-28T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.028926445, 48.3456950333 ],
+					[ -71.0304194446, 48.3442978128 ],
+					[ -71.0328399565, 48.3419600995 ],
+					[ -71.0367068798, 48.3382762896 ],
+					[ -71.0405489899, 48.3345796218 ],
+					[ -71.0444047525, 48.3308901495 ],
+					[ -71.048242964, 48.3271926762 ],
+					[ -71.0510916616, 48.3244328565 ],
+					[ -71.0520640958, 48.323485702 ],
+					[ -71.0551174598, 48.3205245889 ],
+					[ -71.0558838966, 48.3197811667 ],
+					[ -71.0581882592, 48.3175609635 ],
+					[ -71.0583752677, 48.3173981631 ],
+					[ -71.0585157687, 48.3172985465 ],
+					[ -71.0586364853, 48.317239499 ],
+					[ -71.0588783105, 48.3171573779 ],
+					[ -71.0591341101, 48.3171201585 ],
+					[ -71.060508277, 48.3170055416 ],
+					[ -71.0606187878, 48.3169982737 ],
+					[ -71.0643434058, 48.316726149 ],
+					[ -71.0648031332, 48.3166780138 ],
+					[ -71.0650956809, 48.3166214119 ],
+					[ -71.0655497637, 48.3164848441 ],
+					[ -71.065895023, 48.3163675698 ],
+					[ -71.0663308241, 48.3162185134 ],
+					[ -71.0666835759, 48.3160961317 ],
+					[ -71.0670716552, 48.315962602 ],
+					[ -71.0730664876, 48.3139053114 ],
+					[ -71.0754255715, 48.3131139066 ],
+					[ -71.0757546334, 48.3129998342 ],
+					[ -71.0760773069, 48.3129172721 ],
+					[ -71.0765754563, 48.3128518176 ],
+					[ -71.0767506294, 48.3128419452 ],
+					[ -71.0769393865, 48.3128409986 ],
+					[ -71.0772829343, 48.3128935889 ],
+					[ -71.0777023781, 48.3129668143 ],
+					[ -71.0779184588, 48.313002545 ],
+					[ -71.0781813357, 48.3130465359 ],
+					[ -71.0785505895, 48.3131115147 ],
+					[ -71.0792398159, 48.3132383182 ],
+					[ -71.0793563897, 48.3132598204 ],
+					[ -71.0796995257, 48.3133424853 ],
+					[ -71.0800205642, 48.3134550849 ],
+					[ -71.0805012334, 48.3136533611 ],
+					[ -71.0819513233, 48.3142772813 ],
+					[ -71.083459575, 48.3149158416 ]
+				]
+			},
+			"properties" : {
+				"id" : 22,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin Saint-Isidore",
+				"arrondissement" : "Laterrière",
+				"description" : "En raison de travaux de réfection sur le ponceau P-178, le chemin Saint-Isidore sera fermé à la circulation, à la hauteur du 5129, jusqu'à la fin des travaux.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-28T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.083459575, 48.3149158416 ],
+					[ -71.0856439695, 48.3158774665 ],
+					[ -71.0913647914, 48.3184064177 ]
+				]
+			},
+			"properties" : {
+				"id" : 23,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin Saint-Isidore",
+				"arrondissement" : "Laterrière",
+				"description" : "En raison de travaux de réfection sur le ponceau P-178, le chemin Saint-Isidore sera fermé à la circulation jusqu'à la fin des travaux.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-28T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.1512833783, 48.3517479663 ],
+						[ -71.1511444591, 48.3514578723 ],
+						[ -71.1510924923, 48.3513762994 ],
+						[ -71.1509857813, 48.3512301419 ],
+						[ -71.1508854035, 48.3511109044 ],
+						[ -71.1507305875, 48.3509510421 ],
+						[ -71.1505521149, 48.3508152735 ],
+						[ -71.1501142428, 48.3505401994 ],
+						[ -71.1498529908, 48.3504318543 ],
+						[ -71.1495440232, 48.3503402515 ],
+						[ -71.1493832984, 48.3503042188 ],
+						[ -71.149156421, 48.3502485916 ],
+						[ -71.1487270608, 48.3501711434 ],
+						[ -71.1483065928, 48.350086156 ],
+						[ -71.1477138297, 48.3499382412 ],
+						[ -71.1472807773, 48.3498053982 ],
+						[ -71.1468517828, 48.34963404 ],
+						[ -71.1463914831, 48.3494505136 ],
+						[ -71.1462098112, 48.3493881068 ],
+						[ -71.1460511475, 48.3493370828 ]
+					],
+					[
+						[ -71.1479246296, 48.3573483177 ],
+						[ -71.1483500099, 48.3569028328 ],
+						[ -71.1485648118, 48.3567129288 ],
+						[ -71.1488630341, 48.3564856319 ],
+						[ -71.1499923944, 48.3557181599 ]
+					],
+					[
+						[ -71.1424458132, 48.3480898972 ],
+						[ -71.1423170852, 48.348012004 ],
+						[ -71.1421175852, 48.3478840133 ],
+						[ -71.1419130295, 48.3476886908 ],
+						[ -71.1416165433, 48.3473740284 ],
+						[ -71.1413208469, 48.3470252258 ],
+						[ -71.1409613, 48.3465758889 ],
+						[ -71.1408958719, 48.3464941202 ],
+						[ -71.1407076052, 48.3462624409 ],
+						[ -71.1404789491, 48.3460088268 ],
+						[ -71.1403842152, 48.3459087877 ],
+						[ -71.1402678243, 48.3458053065 ],
+						[ -71.1400925319, 48.3456846291 ],
+						[ -71.1397729577, 48.3455040229 ],
+						[ -71.1392602509, 48.3452636762 ],
+						[ -71.1383474453, 48.3448377487 ],
+						[ -71.1375834963, 48.3444600901 ],
+						[ -71.1373908961, 48.3443621775 ],
+						[ -71.1369976353, 48.3441494674 ],
+						[ -71.136808676, 48.344033998 ],
+						[ -71.1365908054, 48.3438517225 ],
+						[ -71.1364691069, 48.3437089918 ],
+						[ -71.1363749109, 48.3435529911 ],
+						[ -71.136323621, 48.3434488975 ],
+						[ -71.1362837017, 48.3433678781 ],
+						[ -71.1359943603, 48.3424423808 ],
+						[ -71.1358903543, 48.3421889505 ],
+						[ -71.1357751149, 48.3419929873 ],
+						[ -71.1355615807, 48.3417404948 ],
+						[ -71.1354224954, 48.3416030225 ],
+						[ -71.1352790468, 48.3414740447 ],
+						[ -71.1350664917, 48.3413191137 ],
+						[ -71.1349537187, 48.3412493033 ],
+						[ -71.1348004337, 48.3411732613 ],
+						[ -71.1344402617, 48.3410142114 ],
+						[ -71.1323138511, 48.3401744476 ],
+						[ -71.1316835663, 48.3399255223 ],
+						[ -71.1308762123, 48.339604403 ],
+						[ -71.1305478823, 48.3394811297 ],
+						[ -71.1302972173, 48.3393949792 ],
+						[ -71.1299699552, 48.3393012177 ],
+						[ -71.1296694119, 48.3392339592 ],
+						[ -71.1294193523, 48.3391981888 ],
+						[ -71.1290668665, 48.3391826381 ],
+						[ -71.1285085967, 48.3392007044 ],
+						[ -71.1272605173, 48.3392674704 ],
+						[ -71.1265772431, 48.3392754494 ],
+						[ -71.1262531344, 48.3392478616 ],
+						[ -71.1260651601, 48.3392041837 ],
+						[ -71.1259103658, 48.3391468582 ],
+						[ -71.1257418832, 48.3390844614 ],
+						[ -71.1242029083, 48.338370474 ],
+						[ -71.1210248958, 48.3369076769 ],
+						[ -71.1203943881, 48.3366293857 ],
+						[ -71.1197444759, 48.3363339747 ],
+						[ -71.1176576591, 48.3353888516 ],
+						[ -71.1173774231, 48.3352960205 ]
+					],
+					[
+						[ -71.1499923944, 48.3557181599 ],
+						[ -71.1502721589, 48.3554760353 ],
+						[ -71.1503527499, 48.3553937127 ],
+						[ -71.1503873791, 48.3553485901 ],
+						[ -71.1505421509, 48.3551510343 ],
+						[ -71.1506705054, 48.3549376543 ],
+						[ -71.1508166544, 48.3546512915 ],
+						[ -71.1509559396, 48.3543554831 ],
+						[ -71.1509885661, 48.3542709357 ],
+						[ -71.1510565104, 48.3541073164 ],
+						[ -71.1511518357, 48.3538156735 ],
+						[ -71.1512226336, 48.3535667523 ],
+						[ -71.1512505513, 48.3534360572 ],
+						[ -71.1512679587, 48.3531564125 ],
+						[ -71.1513034422, 48.3525322258 ],
+						[ -71.1513069498, 48.352219713 ],
+						[ -71.1513023286, 48.3519746373 ],
+						[ -71.1512805817, 48.3518549558 ],
+						[ -71.1512884928, 48.3517705482 ],
+						[ -71.1512833783, 48.3517479663 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 24,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin Saint-Paul",
+				"arrondissement" : "Laterrière",
+				"description" : "En raison de travaux de réfection effectués sur les ponceaux, le rang et le chemin Saint-Paul seront complètement fermés à toute circulation jusqu'à la fin des travaux prévue à la mi-septembre.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-13T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0718326887, 48.4305498398 ],
+						[ -71.0719986007, 48.4304126538 ],
+						[ -71.0721480973, 48.4302728349 ],
+						[ -71.0723033457, 48.4301705186 ],
+						[ -71.0724589213, 48.4300973954 ],
+						[ -71.0726539667, 48.4300313714 ],
+						[ -71.0728773714, 48.4299950376 ],
+						[ -71.0732181775, 48.429972257 ],
+						[ -71.0735599532, 48.4299751364 ],
+						[ -71.0745625216, 48.4299833988 ]
+					],
+					[
+						[ -71.0745625216, 48.4299833988 ],
+						[ -71.0745625411, 48.4299833989 ],
+						[ -71.0754792315, 48.4299727024 ]
+					],
+					[
+						[ -71.0744253048, 48.4299822682 ],
+						[ -71.0745625216, 48.4299833988 ]
+					],
+					[
+						[ -71.0745625216, 48.4299833988 ],
+						[ -71.0745625411, 48.4299833989 ],
+						[ -71.0754792315, 48.4299727024 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 25,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Pont Dubuc",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux du MTQ, l'accès au trottoir du pont Dubuc, entre le boulevard du Saguenay Ouest et la rivière Chicoutimi sera fermé à la population, à partir de lundi 1er juillet, et ce, pour une durée indéterminée.",
+				"date_debut" : "2024-07-01T07:00:00",
+				"date_fin" : "2024-12-31T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.117854948, 48.385072659 ],
+						[ -71.1182176548, 48.3846830131 ],
+						[ -71.1187265392, 48.3842285908 ],
+						[ -71.1192197823, 48.3838834072 ],
+						[ -71.1198499262, 48.383499105 ],
+						[ -71.1201492364, 48.3832251562 ],
+						[ -71.1204384383, 48.382927294 ],
+						[ -71.1208121329, 48.3824481438 ],
+						[ -71.1211858193, 48.3819689933 ],
+						[ -71.1216326196, 48.38131515 ]
+					],
+					[
+						[ -71.1362912735, 48.3678736734 ],
+						[ -71.1370978046, 48.3671939959 ],
+						[ -71.1375250584, 48.3668078812 ],
+						[ -71.1379523057, 48.366421765 ],
+						[ -71.1385938201, 48.3658246733 ],
+						[ -71.1389313352, 48.3655542813 ],
+						[ -71.1392823524, 48.3652238361 ],
+						[ -71.1411867763, 48.3635030085 ],
+						[ -71.1416873971, 48.3630605688 ],
+						[ -71.1424387134, 48.3623873868 ],
+						[ -71.1439201591, 48.361070293 ],
+						[ -71.1454015286, 48.3597531793 ],
+						[ -71.1460695396, 48.3591442878 ],
+						[ -71.1467375335, 48.3585353926 ]
+					],
+					[
+						[ -71.1216326196, 48.38131515 ],
+						[ -71.1225344957, 48.3800034342 ],
+						[ -71.1228555994, 48.3797032256 ],
+						[ -71.1234255644, 48.3792665624 ],
+						[ -71.1238309581, 48.3789226253 ],
+						[ -71.1242737445, 48.3784962898 ],
+						[ -71.1246678588, 48.3781030241 ],
+						[ -71.1250185245, 48.3777214163 ],
+						[ -71.1255943567, 48.3771178139 ],
+						[ -71.1256597291, 48.3770441648 ],
+						[ -71.1263745904, 48.3763152243 ],
+						[ -71.1268779301, 48.3757959002 ],
+						[ -71.1273156876, 48.3753507288 ],
+						[ -71.1279308961, 48.3749193463 ],
+						[ -71.1287662324, 48.3743686831 ],
+						[ -71.1292609691, 48.3740212764 ],
+						[ -71.1296978941, 48.3736612515 ],
+						[ -71.1300020569, 48.3733911389 ],
+						[ -71.1303269198, 48.3730802927 ],
+						[ -71.1310179964, 48.372373597 ],
+						[ -71.1314834989, 48.3718889607 ],
+						[ -71.1318187815, 48.3715373705 ],
+						[ -71.132526516, 48.3710018858 ],
+						[ -71.1336849912, 48.3702643457 ],
+						[ -71.134046431, 48.3699778749 ],
+						[ -71.1340467, 48.3699776908 ],
+						[ -71.1342061833, 48.3698666887 ],
+						[ -71.1345399587, 48.3695284682 ],
+						[ -71.1349033845, 48.3691255586 ],
+						[ -71.1351726527, 48.3688247187 ],
+						[ -71.135650746, 48.368427042 ],
+						[ -71.1362912735, 48.3678736734 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 26,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rang Saint-Paul",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de réfection effectués sur les ponceaux, le rang et le chemin Saint-Paul seront complètement fermés à toute circulation jusqu'à la fin des travaux prévue à la mi-septembre.",
+				"date_debut" : "2024-05-15T07:00:00",
+				"date_fin" : "2024-09-13T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.048692085, 48.4369107743 ],
+					[ -71.0500713685, 48.4371678811 ],
+					[ -71.0504530947, 48.4372061279 ],
+					[ -71.0507189169, 48.4372268973 ]
+				]
+			},
+			"properties" : {
+				"id" : 27,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Condé",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de réfection de la chaussée, il y aura fermeture complète de la rue Condé, entre les rues Richmond et Fleury, le mercredi 28 août et le jeudi 29 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-28T07:00:00",
+				"date_fin" : "2024-08-29T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0766098443, 48.4276989735 ],
+						[ -71.0771091239, 48.4272603425 ],
+						[ -71.0774449501, 48.4269382619 ],
+						[ -71.0775697579, 48.4268320547 ],
+						[ -71.0777108807, 48.4267353169 ]
+					],
+					[
+						[ -71.0777108807, 48.4267353169 ],
+						[ -71.0779421038, 48.4266150707 ],
+						[ -71.0782141325, 48.426530822 ],
+						[ -71.0783669041, 48.4264950204 ]
+					],
+					[
+						[ -71.0783669041, 48.4264950204 ],
+						[ -71.0787268719, 48.4264097366 ],
+						[ -71.0790868399, 48.4263244518 ],
+						[ -71.0792188093, 48.4263076984 ],
+						[ -71.0793340071, 48.4263125823 ],
+						[ -71.0798111518, 48.4263861188 ],
+						[ -71.0799117131, 48.4263826567 ],
+						[ -71.0799843441, 48.4263677287 ],
+						[ -71.0800542638, 48.426340051 ],
+						[ -71.0801155072, 48.4262902409 ],
+						[ -71.0804347766, 48.4259849483 ],
+						[ -71.0807540421, 48.4256796539 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 28,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Dréan",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de réfection de trottoirs, il y aura fermeture complète de la rue Dréan, entre la rue Price Ouest et la Côte Fortin le lundi 19 août, de 7 h à 17 h, pour une durée approximative de 11 jours. Notez que le trajet de la STS sera modifié et la circulation locale restreinte.",
+				"date_debut" : "2024-08-19T07:00:00",
+				"date_fin" : "2024-09-05T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0807540421, 48.4256796539 ],
+					[ -71.0811844762, 48.4252560467 ],
+					[ -71.0814688403, 48.4249569911 ]
+				]
+			},
+			"properties" : {
+				"id" : 29,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Dréan",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de pavage, il y aura fermeture complète de la rue Dréan, à partir de la Côte Saint-Ange jusqu'au chemin de fer, le mardi 27 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-27T07:00:00",
+				"date_fin" : "2024-08-27T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2594369353, 48.4104166224 ],
+					[ -71.2599832332, 48.4106099924 ]
+				]
+			},
+			"properties" : {
+				"id" : 30,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue du Vieux-Pont",
+				"arrondissement" : "Jonquière",
+				"description" : "*** Prendre note qu'en raison des travaux effectués par le ministère des Transports et de la mobilité durable du Québec, la circulation piétonne ne sera pas permise sur les trottoirs du pont du Vieux-Pont, le lundi 15 juillet et le mercredi 17 juillet de 6 h 30 à 19 h.***\n\nEn raison de travaux de réfection effectués par le ministère des Transports et de la Mobilité durable du Québec, le pont de la rue du Vieux-Pont sera fermé aux véhicules et au vélos. Ces travaux se dérouleront du 21 mai jusqu’en novembre prochain. Il est à noter que la circulation piétonne y sera toujours autorisée.\nLes chemins de détour seront indiqués aux abords du chantier. Il sera très important de bien respecter la signalisation en place afin d'assurer la sécurité de tous. \n",
+				"date_debut" : "2024-05-23T14:43:59.277",
+				"date_fin" : "2024-11-30T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0578041695, 48.4102351778 ],
+					[ -71.0574390905, 48.4102105814 ],
+					[ -71.0560521929, 48.4095356305 ]
+				]
+			},
+			"properties" : {
+				"id" : 31,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Gounod",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux, il y aura fermeture complète de la rue Gounod, entre les rues Chopin et Mozart, le mardi 27 août et le mercredi 28 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-27T07:00:00",
+				"date_fin" : "2024-08-28T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.0554338435, 48.4101970151 ],
+						[ -71.0554272085, 48.4101653184 ],
+						[ -71.0554379101, 48.410133539 ],
+						[ -71.0554682027, 48.4101016416 ],
+						[ -71.0554986578, 48.4100845393 ],
+						[ -71.0560521929, 48.4095356305 ]
+					],
+					[
+						[ -71.0560521929, 48.4095356305 ],
+						[ -71.0567651117, 48.408889679 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 32,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Mozart",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux, il y aura fermeture complète de la rue Mozart, entre les rues Massenet  et des Champs-Élysées, le mardi 27 août et le mercredi 28 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-27T07:00:00",
+				"date_fin" : "2024-08-28T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.2040254244, 48.413879382 ],
+					[ -71.2044267118, 48.4138514786 ],
+					[ -71.2046935011, 48.4138475075 ],
+					[ -71.2049745591, 48.41385981 ],
+					[ -71.2052382239, 48.4138839061 ],
+					[ -71.2055219778, 48.4139267944 ],
+					[ -71.2084901879, 48.4144892916 ]
+				]
+			},
+			"properties" : {
+				"id" : 33,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Sainte-Émilie",
+				"arrondissement" : "Jonquière",
+				"description" : "En raison de travaux d’aqueduc et d’égoût, il y aura fermeture complète de la rue Sainte-Émilie entre le boulevard René-Lévesque et la rue des Rosiers, le mercredi 28 et jeudi 29 août prochain. Seuls les résidents et travailleurs dans la zone de travaux y auront accès.\n\nLa circulation sera détournée par le boulevard du Royaume, la rue Saint-Philippe, la rue du Roi-Georges ou les rues avoisinantes, selon la provenance.\n",
+				"date_debut" : "2024-08-28T08:00:00",
+				"date_fin" : "2024-08-29T18:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0462565904, 48.4436761511 ],
+					[ -71.0455472426, 48.4452229926 ]
+				]
+			},
+			"properties" : {
+				"id" : 34,
+				"municipalite" : "94068",
+				"etat" : "Fermeture complète",
+				"type" : "Travaux prévus",
+				"localisation" : "Rue Saint-Émile",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de pavage, il y aura fermeture complète de la rue Saint-Émile, entre le boulevard de Tadoussac et la rue Saint-Malo, le lundi 26 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-26T07:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0494957176, 48.4427782051 ],
+					[ -71.0515351862, 48.4417653033 ],
+					[ -71.0522350041, 48.4414258338 ],
+					[ -71.0526401565, 48.4413131297 ],
+					[ -71.0530802328, 48.4412605222 ],
+					[ -71.0533854302, 48.4412573875 ],
+					[ -71.0534744685, 48.4412700292 ]
+				]
+			},
+			"properties" : {
+				"id" : 35,
+				"municipalite" : "94068",
+				"etat" : "Restriction de voies",
+				"type" : "Travaux prévus",
+				"localisation" : "Boulevard de Tadoussac",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux de réfection de trottoirs, il y aura fermeture de la voie de droite en direction ouest sur le boulevard de Tadoussac, entre les rues Viau et Monseigneur-Laval, le lundi 26 août. de 6 h à 17 h pour une durée approximative de 5 jours.",
+				"date_debut" : "2024-08-26T06:00:00",
+				"date_fin" : "2024-08-30T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -71.0462565904, 48.4436761511 ],
+					[ -71.0470123017, 48.443552759 ],
+					[ -71.0476701512, 48.4434069438 ],
+					[ -71.048401437, 48.4431943248 ],
+					[ -71.0489916929, 48.4429781433 ],
+					[ -71.0494957176, 48.4427782051 ]
+				]
+			},
+			"properties" : {
+				"id" : 36,
+				"municipalite" : "94068",
+				"etat" : "Restriction de voies",
+				"type" : "Travaux prévus",
+				"localisation" : "Boulevard de Tadoussac",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux, il y aura fermeture de la voie de droite en direction ouest sur le boulevard de Tadoussace, entre les rues Saint-Émile et Monseigneur-Laval, le lundi 26 août, de 7 h à 17 h.",
+				"date_debut" : "2024-08-26T07:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiLineString",
+				"coordinates" : [
+					[
+						[ -71.1064201855, 48.413417213 ],
+						[ -71.10654465, 48.4134380803 ],
+						[ -71.1078098454, 48.4132292014 ]
+					],
+					[
+						[ -71.1078098454, 48.4132292014 ],
+						[ -71.1088561742, 48.4130033433 ],
+						[ -71.1089610305, 48.4129495472 ]
+					]
+				]
+			},
+			"properties" : {
+				"id" : 37,
+				"municipalite" : "94068",
+				"etat" : "Restriction de voies",
+				"type" : "Travaux prévus",
+				"localisation" : "Chemin de la Réserve",
+				"arrondissement" : "Chicoutimi",
+				"description" : "En raison de travaux, d'installation d'un puisard, il y aura fermeture de la voie de droite en direction sud sur le chemin de la Réverse, à la hauteur du 1340.",
+				"date_debut" : "2024-08-26T07:00:00",
+				"date_fin" : "2024-08-26T17:00:00"
+			}
+		}
+	]
+}

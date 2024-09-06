@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:MATIERES_RESIDUELLES 
+  xmlns:ns1="http://donnees.ville.sherbrooke.qc.ca">
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Tous produits biomédicaux</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>CLSC ou pharmacie. Ex.: seringues, aiguilles, tubulures, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Vêtements et Autre textiles</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Comptoirs vestimentaires, friperies</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Objets encombrants</MAT_NOM>
+    <TYPE_COL>S</TYPE_COL>
+    <DESC_COL>Collectes spéciales</DESC_COL>
+    <INFO>Aller à https://sherbrooke.ca/encombrants et remplir le formulaire lorsque disponible</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Autocollants plastifiés</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Sacs ou enveloppes composés de plusieurs matières</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Mélange d’aluminium, de plastique et de papie. Ex.: sacs de croustilles ou chips, sacs de biscuits, emballages de barres tendres, de chocolat, de gomme à mâcher ou de nourriture pour animaux, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Décorations électriques</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Ballons</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Jeux gonflables</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Emballage de ballots de foin</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Gants de latex</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Guirlandes de Noël</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Sacs et poches tissés</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Ex. : poches de moulée</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Emballages composés de plusieurs matières</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Mélange d’aluminium, de plastique et de papie. Ex.: emballages de barres tendres, de chocolat, de gomme à mâcher ou de nourriture pour animaux, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Balles de golf</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Balles de tennis</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Balles de baseball</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Tubes de dentifrice</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Tuyaux d’arrosage</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Porcelaine</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Céramique</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres </DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Tubes fluorescents</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou collecte de résidus domestiques dangereux</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Vaisselle</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Bouchon de liège</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Charpie de sécheuse</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Feuilles assouplisantes</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Cire</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Coton-tiges</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Feuilles jetables de balai</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Mégots et cendres de cigarettes</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Sacs d&apos;aspirateur</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Et leurs contenu</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Sièges d&apos;auto pour enfants</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets ou Collectes spéciales</DESC_COL>
+    <INFO>Losque trop gros pour le bac noir, collecte spéciale</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Tapis, moquette</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Matériaux isolants</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Aérosols</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou collecte de résidus domestiques dangereux</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Batteries d&apos;auto</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Décapant</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou collecte de résidus domestiques dangereux</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Matières dangereuses</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou collecte de résidus domestiques dangereux</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Contenants d’huile à moteur</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Contenants de térébenthine</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Contenants d&apos;essence</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Contenants de produits dangereux</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Styromousse</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Ex. : barquettes de viande, emballages, résidus de construction, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Ampoules électriques</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Bois et branches</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Écocentre ou collecte spéciale de bois</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Pneus d&apos;automobile ou de vélo</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Sans jante</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Bois de construction</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Naturel, traité ou peint</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Bardeaux</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Gyspse</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Portes</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Fenêtres</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Matériaux de construction</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Dimension maximale de 1,2 m sur 2,4 m (4 pi sur 8 pi).</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Toilettes</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Éviers en porcelaine,</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Pesticides</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Gravier de rue</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Pierres</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Roches</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Tourbe</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Gazon</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Compost - Bac brun</DESC_COL>
+    <INFO>Le gazon est accepté trois fois par année seulement. Ensuite, il est refusé.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Béton</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Briques</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Asphalte</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Imprimante</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Photocopieur</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Télécopieurs</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Téléviseurs</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Radio</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Cartouches</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Lecteurs</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Vhs. CD, DVD</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Téléphonnes</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Cellulaires</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Appareils photos</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Et leurs boîtiers</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Piles </MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Couvrir les pôles à l&apos;aide de papier isolant (comme du ruban électique).</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Médicaments périmés</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Rapporter à la pharmacie</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Munitions</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Rendez-vous à la Sûreté du Québec.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Pneus avec jantes</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Rendez-vous dans un garage.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Pneus de véhicules Autre qu’automobiles</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Rendez-vous dans un garage spécialisé.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Autre</MAT_CAT>
+    <MAT_NOM>Résidus dangereux d’origine commerciale ou industrielle</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Communiquez avec : Véolia Environnement, au 819 822-1820 ou FEC Technologie, au 819 843-3550 ou J. Beauclair Métal Environnement, au 819 820-5078.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Moustiquaires</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Petit objets en métal</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Moins de 5 cm ou 2 po.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Tubulure d’érablière</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Point de dépôt le plus près à l&apos;écocentre régionale de Bury</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Ustensiles</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Cintres</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>En métal - écocentre, en plastique - Comptoirs vestimentaires, friperies</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Fils</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Câbles</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Corde à linge</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Broches en métal</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Contenants de peinture</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou collecte de résidus domestiques dangereux</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Fils électriques</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Pièces de métal de plus de </MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>2 kg (4,4 lbs), longueur min. : 5 cm (2 po), longueur max. : 60 cm (24 po).</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Aluminium</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres ou Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Papier d’aluminium</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Regrouper dans une boule compacte - De préférence propre</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Boîtes de conserve</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Les étiquettes peuvent être laissées sur les boîtes de conserve. Rincer les contenants.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Cannettes d’aluminium</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Rincer les contenants.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Couvercles de métal</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Assiettes d’aluminium</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>De préférence propre</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Casseroles en métal</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Grille-pain</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Sans le cordon d&apos;alimentation électrique</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Petits appareils électriques</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Sans le cordon d&apos;alimentation électrique</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Métal</MAT_CAT>
+    <MAT_NOM>Pièces de métal</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Poids max : 2 kg (4,4 lbs), longueur min. : 5 cm (2 po), longueur max. : 60 cm (24 po).</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Aliments périmés (sans emballage)</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Café moulu et filtres</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Sachets de thé</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Épis de maïs</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Friandises et desserts</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Excepté la gomme à mâcher</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Fruits et légumes</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Matières grasses</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Excepté les huiles à cuisson qui doivent aller à l&apos;Écocentre</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>OEufs et leurs coquilles</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Pâtes alimentaires</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Pains</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Céréales</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Produits laitiers</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Reste de repas</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Viande</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Comprenant les os, la peau, les graisses et les entrailles</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Volaille</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Comprenant les os, la peau, les graisses et les entrailles</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Poisson et fruits de mer</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Comprenant les os, la peau, les graisses et les entrailles</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Branches et petites racines non attachées</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>D’une longueur maximale de 60 cm d’une longueur maximale de 60 cm</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Bran de scie</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Copeaux</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Écorces</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Fleurs</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Plantes et Autre résidus végétaux</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Aiguilles de conifères, retailles de haie, mauvaises herbes, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Herbe coupée et chaume</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Plantes d’intérieur incluant le terreau d&apos;empotage</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Cendres froides</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Éteintes depuis au moins sept jours</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Cheveux</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Poils d’animaux</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Plumes</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Litières et excréments d’animaux domestiques</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Gomme   à mâcher</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Feuilles mortes</MAT_NOM>
+    <TYPE_COL>S</TYPE_COL>
+    <DESC_COL>Collectes spéciales</DESC_COL>
+    <INFO>Priorité sur l&apos;herbiciclage, ensuite :Écocentre, bac brun pour les matières Organique ou collecte spéciale des feuilles mortes</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Terre</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Non contaminée.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Sapins naturels</MAT_NOM>
+    <TYPE_COL>S</TYPE_COL>
+    <DESC_COL>Collectes spéciales</DESC_COL>
+    <INFO>Ne couvrez pas votre sapin d’une housse de plastique. Enlevez toutes les décorations.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Animaux morts</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Communiquez avec Cremanimo, au 819 347-3434 ou avec Récupération Maillé, au 819 847-4907.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Tailles de haies de cèdres en grande quantité</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Communiquez avec Récupérateur de tailles de cèdre, au 819 875-3027.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Organique</MAT_CAT>
+    <MAT_NOM>Terre contaminée</MAT_NOM>
+    <TYPE_COL>A</TYPE_COL>
+    <DESC_COL>Autres - Matières spécifiques</DESC_COL>
+    <INFO>Communiquez avec GSI Environnement, au 819 829-0101.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier essuie-tout</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier mouchoir</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier et carton souillés</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Souillés d’aliments, de graisse, d’huile, de peinture, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes de livraison de repas en carton</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>Si non souillés, bac de recyclage. </INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papiers essuie-mains</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Serviettes de table</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes de jus congelé</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Carton ciré</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Boîtes et assiettes de repas congelé, boîtes de crème glacée, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Contenants en carton enduit d’aluminium ou de plastique</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Ex.: boîtes de cacao ou d’arachides, croustilles ou chips Pringles, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier carbone</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier ciré</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier photo</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Verre en carton pour le café et Autre boissons</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Multicouches</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes de carton pour aliments et repas congelés</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Cartons de crème glacée</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes d’aliments congelés (non cirés)</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Cartons à jus à intérieur d’aluminium  (Tetra Pack)</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Cartons de lait</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Cartons de jus</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Sans la paille</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Journaux</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Magazines</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Feuillets publicitaires</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Retirer les circulaires et les journaux du Publi-Sac</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Livres</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Prévilégier le réemploi ou le don si en bon état, enlever le couvercle si plastifié</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier déchiqueté</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Regroupé dans un sac transparent et noué.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Sacs bruns</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Utilisez le bac brun pour le papier et le carton souillés.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes de carton ondulé</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Grandeur maximum : 60 cm sur 90 cm ou 2 pi sur 3 pi.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Carton plat</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Grandeur maximum : 60 cm sur 90 cm ou 2 pi sur 3 pi.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes de savon à lessive</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Carton ondulé à l’intérieur emballages de biscuits</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes à boire</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Cartons de jus en portion individuelle</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Bottins téléphoniques</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Nappes en papier non souillées</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier à lettres</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Enveloppes</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier d’emballage de papier à photocopie</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier d’emballages cadeaux (non métallique)</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier de soie</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Papier brun</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Utilisez le bac brun pour le papier souillé</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Papier et carton</MAT_CAT>
+    <MAT_NOM>Boîtes de carton de déménagement</MAT_NOM>
+    <TYPE_COL>S</TYPE_COL>
+    <DESC_COL>Collectes spéciales</DESC_COL>
+    <INFO>Ou écocentre. Défaites les boîtes et empilez-les à côté des bacs roulants. Respectez les dimensions maximales de 90 cm sur 90 cm (3 pi sur 3 pi).</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs compostables, si certifiés BNQ ou BPI</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Bâches de plastique tissé</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Filets d’oignons ou d’oranges</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Nappes en vinyle</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs de plastique souillés</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Pellicules souillées</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Toiles de piscine</MAT_NOM>
+    <TYPE_COL>S</TYPE_COL>
+    <DESC_COL>Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Articles de vinyle</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Assiettes en plastique</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Ustensiles en plastique</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Cartables</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Chaises et tables de patio (PVC)</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Cintres en plastique</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Prioriser le réemploi! </INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Emballages moulés</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Ceux qu’on doit ouvrir avec des ciseaux pour dégager l’objet acheté</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Pailles en plastique</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Plastique d’ordinateur ou autre appareil en plastique</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sapins artificiels</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Stores</MAT_NOM>
+    <TYPE_COL>S</TYPE_COL>
+    <DESC_COL>Collectes spéciales</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Tuyaux de plomberie rigides ou souples</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO>Ex. : carlon, PVC, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Plastique sans logo de recyclage</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs de plastique biodégradables</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs de plastique oxobiodégradables</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Contenants de plastique portant le numéro 6</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Ex.: polystyrène et styromousse</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Cordes de nylon</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Ordinateur</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Moniteurs, tours, claviers et souris</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>CD</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO>Et leurs boîtiers</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>DVD</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Emballages</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>À vérifier pour les différents embalages possibles</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Pellicules de plastique propres,…ensachés</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ex. : emballages de fromage, de papier de toilette, Saran wrap, etc.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs d’épicerie</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ensacher tous les plastiques souples dans un sac en plastique souple noué</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs de magasinage</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ensacher tous les plastiques souples dans un sac en plastique souple noué</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs de lait</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ensacher tous les plastiques souples dans un sac en plastique souple noué</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs de pain</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ensacher tous les plastiques souples dans un sac en plastique souple noué</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Nappes en plastique à usage unique</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Nettoyées (mais pas celles en vinyle)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Papier bulle pour emballage</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ensacher tous les plastiques souples dans un sac en plastique souple noué</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Polythène propre</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Exempt de peinture ou d’huile</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Sacs à sandwich</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Ensacher tous les plastiques souples dans un sac en plastique souple noué</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Jouets de plastique sans aucune pièce de métal</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Tous les articles de plastique </MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Contenants de produits alimentaires</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Contenants de produits ménagers</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Contenants de produits cosmétiques</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Bouteilles en plastique</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Laisser les bouchons en plastique sur leur bouteilles, Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Couvercles en plastique</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Laisser les bouchons en plastique sur leur bouteilles</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Plastique</MAT_CAT>
+    <MAT_NOM>Seaux en plastique propres</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Vaisselle compostable</MAT_NOM>
+    <TYPE_COL>C</TYPE_COL>
+    <DESC_COL>Compost - Bac brun</DESC_COL>
+    <INFO>En fécule de maïs par exemple, certifiée BNQ ou BPI</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Fibre de verre</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Miroirs</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Pyrex</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Verre à boire</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Vitre (verre plat)</MAT_NOM>
+    <TYPE_COL>D</TYPE_COL>
+    <DESC_COL>Bac pour les déchets</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Miroirs</MAT_NOM>
+    <TYPE_COL>O</TYPE_COL>
+    <DESC_COL>Apporter aux écocentres</DESC_COL>
+    <INFO></INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Bouteilles en verre clair ou de couleur</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Avec ou sans étiquettes. Récupérez le couvercle séparément. Rincer les contenants.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Pots</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Avec ou sans étiquettes. Récupérez le couvercle séparément. Rincer les contenants.</INFO>
+  </MATIERE_RESIDUELLE>
+  <MATIERE_RESIDUELLE>
+    <MUNID>43027</MUNID>
+    <MAT_CAT>Verre</MAT_CAT>
+    <MAT_NOM>Flacons</MAT_NOM>
+    <TYPE_COL>R</TYPE_COL>
+    <DESC_COL>Bac de récupération</DESC_COL>
+    <INFO>Avec ou sans étiquettes. Récupérez le couvercle séparément. Rincer les contenants.</INFO>
+  </MATIERE_RESIDUELLE>
+</ns1:MATIERES_RESIDUELLES 
+xmlns:ns1="http://donnees.ville.sherbrooke.qc.ca">

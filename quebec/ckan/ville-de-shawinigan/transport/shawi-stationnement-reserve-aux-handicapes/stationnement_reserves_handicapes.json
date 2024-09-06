@@ -1,0 +1,1326 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "STATIONNEMENT_RESERVE_AUX_HANDICAPES",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7523524477, 46.539559507 ]
+			},
+			"properties" : {
+				"objectid" : 1,
+				"rue" : "4e Rue de la Pointe",
+				"localisation" : "Coin Avenue de la station (à coté du  bureau de poste)",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 50 mètres de prom du St-Maurice"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7492923041, 46.5398496446 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"rue" : "4e Rue de la Pointe",
+				"localisation" : "Face au # 592 de la 4e Rue de la Pointe",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 77 mètres de Ave Mercier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7506098944, 46.5404143496 ]
+			},
+			"properties" : {
+				"objectid" : 3,
+				"rue" : "5e Rue de la Pointe",
+				"localisation" : "Voisin du parc Coin Tamarac",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 111mètres de Ave Station"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7481081422, 46.5406164544 ]
+			},
+			"properties" : {
+				"objectid" : 4,
+				"rue" : "5e Rue de la Pointe",
+				"localisation" : "Face # 444 de la 5e Rue de la Pointe",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 156 mètres de Ave des Cèdres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7453848023, 46.5413983398 ]
+			},
+			"properties" : {
+				"objectid" : 5,
+				"rue" : "6e Rue de la Pointe",
+				"localisation" : "À coté de l'hotel de Ville (face à la bibliothèque)",
+				"nombre" : 1,
+				"dure" : "2 hrs",
+				"mesurer_c_c" : "à 100 mètres de Ave Broadway"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7455314075, 46.5428370782 ]
+			},
+			"properties" : {
+				"objectid" : 6,
+				"rue" : "8e Rue de la Pointe",
+				"localisation" : "À Côté de l'école Immaculée-conception",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 54 mètres de Ave des Cèdres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7454538812, 46.5409627039 ]
+			},
+			"properties" : {
+				"objectid" : 7,
+				"rue" : "Avenue de l'Hotel de Ville",
+				"localisation" : "Face à l'hotel de Ville",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 27 mètres de la 5 rue de la Pte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7443105179, 46.5432339275 ]
+			},
+			"properties" : {
+				"objectid" : 8,
+				"rue" : "Avenue Broadway",
+				"localisation" : "Face au #855 édifice Olymbec",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 49 mètres de 9e rue de la Pte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7438571553, 46.5408024311 ]
+			},
+			"properties" : {
+				"objectid" : 9,
+				"rue" : "Avenue Broadway",
+				"localisation" : "Face au # 500 de l'Avenue Broadway",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 0 mètres de 5e rue de la Pte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7503658365, 46.5400440234 ]
+			},
+			"properties" : {
+				"objectid" : 10,
+				"rue" : "Avenue Tamarac",
+				"localisation" : "Coin de la 4e Rue de la Pointe",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 46 mètres de 5e rue de la Pte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7489640158, 46.5432869519 ]
+			},
+			"properties" : {
+				"objectid" : 11,
+				"rue" : "Avenue Hemlock",
+				"localisation" : "Face au #862 de l'avenue Hemlock",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 86 mètres  de 7e rue de la Pte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7516625728, 46.5375580759 ]
+			},
+			"properties" : {
+				"objectid" : 12,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Face au # 750  de la Promenade Saint-Maurice (édifice Dehauffe)",
+				"nombre" : 4,
+				"dure" : "",
+				"mesurer_c_c" : "à 126 mètres de Avenue Tamarac"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7515751147, 46.5374461004 ]
+			},
+			"properties" : {
+				"objectid" : 15,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Face au # 750  de la Promenade Saint-Maurice   (édifice Dehauffe)",
+				"nombre" : 4,
+				"dure" : "",
+				"mesurer_c_c" : "à 126 mètres de Ave Tamarac"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7529135202, 46.5391817226 ]
+			},
+			"properties" : {
+				"objectid" : 16,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Coin de la 4e Rue de la Pointe (derrière le bureau de poste)",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 155 mètres de 2e Rue de la Pte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7537853364, 46.5401062543 ]
+			},
+			"properties" : {
+				"objectid" : 17,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Face # 902 Coin de Willow",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 10 mètres de ave Willow"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7524863677, 46.5427322979 ]
+			},
+			"properties" : {
+				"objectid" : 20,
+				"rue" : "Rue des Érables",
+				"localisation" : "773, Rue des Érables, coin de l'avenue de la station",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 44 mètres avant avenue Station"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447540782, 46.5519095833 ]
+			},
+			"properties" : {
+				"objectid" : 21,
+				"rue" : "Avenue Saint-Marc",
+				"localisation" : "Face au # 1733 de l'avenue Saint-Marc",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 130 mètres de Rue St-Onge"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7388857979, 46.5559423805 ]
+			},
+			"properties" : {
+				"objectid" : 22,
+				"rue" : "Avenue Saint-Marc",
+				"localisation" : "Face au # 2425 de l'avenue Saint-Marc",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 26 mètres de Rue Dufresne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7385292625, 46.5560221323 ]
+			},
+			"properties" : {
+				"objectid" : 23,
+				"rue" : "Avenue Saint-Marc",
+				"localisation" : "Face au # 2464 de l'avenue Saint-Marc",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 54 mètres de Rue Dufresne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7402428846, 46.5538935971 ]
+			},
+			"properties" : {
+				"objectid" : 402,
+				"rue" : "Rue Viger",
+				"localisation" : "Face # 663 de la Rue Viger",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 96 mètres de Avenue St-Marc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7396539682, 46.5551715351 ]
+			},
+			"properties" : {
+				"objectid" : 403,
+				"rue" : "Rue Lambert",
+				"localisation" : "Coin Avenue Saint-Marc voisin du 2302",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 68 mètres de la Avenue Dollars"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7445965182, 46.5525953514 ]
+			},
+			"properties" : {
+				"objectid" : 404,
+				"rue" : "Rue Trudel",
+				"localisation" : "Entre l'avenue Champlain et avenue Saint-Marc côté ouest",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 32 mètres de l'avenue Champlain"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7472422475, 46.5517784581 ]
+			},
+			"properties" : {
+				"objectid" : 405,
+				"rue" : "Avenue Georges",
+				"localisation" : "Face au #1582 de la rue Georges",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 15 mètres de la Rue Sainte-Hélène"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7472150002, 46.5623156962 ]
+			},
+			"properties" : {
+				"objectid" : 406,
+				"rue" : "Rue Saint-Jacques",
+				"localisation" : "Face au HLM coin de l'Avenue La Salle",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 63 mètres de l'avenue La Salle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7464549045, 46.5628760387 ]
+			},
+			"properties" : {
+				"objectid" : 407,
+				"rue" : "Rue Gignac",
+				"localisation" : "Face au # 2072 de la Rue Gignac (Commision scolaire)",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 68 mètres de l'avenue La Salle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7611399011, 46.5705852204 ]
+			},
+			"properties" : {
+				"objectid" : 409,
+				"rue" : "Avenue Laflèche",
+				"localisation" : "Coin de la rue Roy , école St-Charles Garnier",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 15 mètres de la Rue Roy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6877493914, 46.6162010441 ]
+			},
+			"properties" : {
+				"objectid" : 411,
+				"rue" : "5e Avenue",
+				"localisation" : "Face au #333 de la 5e Avenue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 75 mètre de la 4e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6890988852, 46.6153108312 ]
+			},
+			"properties" : {
+				"objectid" : 412,
+				"rue" : "5e Avenue",
+				"localisation" : "Face au #445 de la 5e Avenue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 57 mètre sde la 5e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6889464525, 46.6168324832 ]
+			},
+			"properties" : {
+				"objectid" : 413,
+				"rue" : "Avenue de Grand-Mère",
+				"localisation" : "Face au #344 Avenue de Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 78 mètres de la 3e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6918048873, 46.6149288123 ]
+			},
+			"properties" : {
+				"objectid" : 414,
+				"rue" : "Avenue de Grand-Mère",
+				"localisation" : "Face au #600 Avenue de Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 15 mètres de la 6e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6927875618, 46.6141459379 ]
+			},
+			"properties" : {
+				"objectid" : 415,
+				"rue" : "Avenue de Grand-Mère",
+				"localisation" : "Face au #683 Avenue de Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 111 mètres de la 6e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6969239602, 46.6114853895 ]
+			},
+			"properties" : {
+				"objectid" : 416,
+				"rue" : "Avenue de Grand-Mère",
+				"localisation" : "Face au #944 Avenue de Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 216 mètres de la 8e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6998805702, 46.6095146805 ]
+			},
+			"properties" : {
+				"objectid" : 417,
+				"rue" : "Avenue de Grand-Mère",
+				"localisation" : "Face au #1220 de l'Avenue de Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 67 mètres de la 12e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.697558264, 46.6155528054 ]
+			},
+			"properties" : {
+				"objectid" : 418,
+				"rue" : "10e Avenue",
+				"localisation" : "voisin 1050, 8e Rue (coop santé)",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 126 mètres 7e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6976639572, 46.615483563 ]
+			},
+			"properties" : {
+				"objectid" : 419,
+				"rue" : "10e avenue",
+				"localisation" : "Voisin du GMF Grand-Mère",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "130m de la 7e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6903743896, 46.6155500362 ]
+			},
+			"properties" : {
+				"objectid" : 420,
+				"rue" : "5e Rue",
+				"localisation" : "Coin de l'avenue de Grand-Mère (coté est )",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 86 mètres de la 5e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6903343282, 46.6155261867 ]
+			},
+			"properties" : {
+				"objectid" : 421,
+				"rue" : "5e Rue",
+				"localisation" : "Coin de l'avenue de Grand-Mère (coté est )",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 86 mètres de la 5e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6893220643, 46.6148156139 ]
+			},
+			"properties" : {
+				"objectid" : 422,
+				"rue" : "5e Rue",
+				"localisation" : "Face au #480 de la 5e Rue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 68 mètres de la 4e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6917097051, 46.6147428389 ]
+			},
+			"properties" : {
+				"objectid" : 424,
+				"rue" : "6e Rue",
+				"localisation" : "Coin de l'Avenue de Grand-Mère  (coté ouest)",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 14 mètres de l'Avenue de Grand-Mère"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6922706715, 46.6134782927 ]
+			},
+			"properties" : {
+				"objectid" : 425,
+				"rue" : "7e Rue",
+				"localisation" : "Coin de la 5e Avenue (bureau de poste)",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 16 mètres de la 5e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6907426466, 46.6123998896 ]
+			},
+			"properties" : {
+				"objectid" : 426,
+				"rue" : "7e Rue",
+				"localisation" : "Face au #300 de la 7e Rue, école secondaire du Rocher",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 43 mètres de la 3e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6993550168, 46.6095862873 ]
+			},
+			"properties" : {
+				"objectid" : 428,
+				"rue" : "12e Rue",
+				"localisation" : "voisin du 1197 de l'Avenue de Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 73 mètres de la 5e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7371520686, 46.6143867068 ]
+			},
+			"properties" : {
+				"objectid" : 429,
+				"rue" : "Rue Riopelle",
+				"localisation" : "Voisin du #3333 du Chemin de Sainte-Flore (église de Sainte-Flore)",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 12 mètres du Chemin de Sainte-Flore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7349948584, 46.6141781223 ]
+			},
+			"properties" : {
+				"objectid" : 430,
+				"rue" : "Rue Réjane-Sanschagrin",
+				"localisation" : "Face au #3351 de la Rue Réjane-Sanschagrin (école de Sainte-Flore)",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 146 mètres du Chemin de Sainte-Flore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7493865856, 46.5227924948 ]
+			},
+			"properties" : {
+				"objectid" : 431,
+				"rue" : "105e Avenue",
+				"localisation" : "Face au #1530 105e Avenue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 18 mètres de la 115e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7543339461, 46.5172076474 ]
+			},
+			"properties" : {
+				"objectid" : 432,
+				"rue" : "118 e Rue",
+				"localisation" : "Face au #1550 de la 118e Rue -  bibliothèque Bruno-Sigmen\r\n1550 118e Rue, bibliothèque Bruneau-Sigmen",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 70 mètres de la 114e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7542357711, 46.5172760403 ]
+			},
+			"properties" : {
+				"objectid" : 433,
+				"rue" : "118e Rue",
+				"localisation" : "Face au #1550 de la 118e Rue -  bibliothèque Bruno-Sigmen ",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "à 70 mètres de la 114e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7517262456, 46.5249171175 ]
+			},
+			"properties" : {
+				"objectid" : 434,
+				"rue" : "111e Rue",
+				"localisation" : "À coté du #1055 de la 5e Avenue (résidence soleil)",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 138 mètres de la 103e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7510573952, 46.5439526431 ]
+			},
+			"properties" : {
+				"objectid" : 803,
+				"rue" : "Avenue Lévis",
+				"localisation" : "à côté du 1045 Avenue Lévis",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7482112746, 46.5401579737 ]
+			},
+			"properties" : {
+				"objectid" : 804,
+				"rue" : "Avenue Mercier",
+				"localisation" : "Coin Avenue Mercier et 4e rue de la Pointe",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7480001329, 46.5397135323 ]
+			},
+			"properties" : {
+				"objectid" : 806,
+				"rue" : "Avenue Mercier",
+				"localisation" : "Coin Avenue Mercier et 4e rue de la Pointe",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7523004839, 46.541509205 ]
+			},
+			"properties" : {
+				"objectid" : 807,
+				"rue" : "Avenue de la Station",
+				"localisation" : "Avenue de la Station - voisin du 695",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-10"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7455637288, 46.5470894278 ]
+			},
+			"properties" : {
+				"objectid" : 840,
+				"rue" : "Rue Jacques-Plante",
+				"localisation" : "Amphithéâtre Shawinigan, 1 rue Jacques-Plante",
+				"nombre" : 20,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7431301243, 46.5376562626 ]
+			},
+			"properties" : {
+				"objectid" : 842,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Parc Saint-Maurice, coin Avenue Broadway et Promenade du St-Maurice",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7484564905, 46.5589770935 ]
+			},
+			"properties" : {
+				"objectid" : 843,
+				"rue" : "Boulevard des Hêtres",
+				"localisation" : "Centre des arts, 2100 Boulevard des Hêtres",
+				"nombre" : 3,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7453418684, 46.5514499729 ]
+			},
+			"properties" : {
+				"objectid" : 846,
+				"rue" : "Avenue Saint-Marc",
+				"localisation" : "entre le #1623 et #1669  Avenue Saint-Marc",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-23"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7428657807, 46.5541678388 ]
+			},
+			"properties" : {
+				"objectid" : 848,
+				"rue" : "Avenue Champlain",
+				"localisation" : "Avenue Saint-Marc face au marché public",
+				"nombre" : 4,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8129551192, 46.6007544114 ]
+			},
+			"properties" : {
+				"objectid" : 850,
+				"rue" : "Chemin des Frènes",
+				"localisation" : "Centre communautaire Saint-Gérard-des-Laurentides, 431, Chemin des Frènes",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-61"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8134814101, 46.6023859733 ]
+			},
+			"properties" : {
+				"objectid" : 851,
+				"rue" : "Chemin Principal",
+				"localisation" : "Bibliothèque Colette-B-Forget, 1375, Chemin Principal",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-62"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8155081847, 46.5999489106 ]
+			},
+			"properties" : {
+				"objectid" : 852,
+				"rue" : "Chemin des Genévriers",
+				"localisation" : "Chalet de service parc Pierre-Garceau",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-63"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7380111382, 46.613901499 ]
+			},
+			"properties" : {
+				"objectid" : 853,
+				"rue" : "Chemin de Sainte-Flore",
+				"localisation" : "Voisin du 3591 Chemin de Sainte-Flore",
+				"nombre" : 3,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-70"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7417032091, 46.6105105692 ]
+			},
+			"properties" : {
+				"objectid" : 856,
+				"rue" : "Chemin de Sainte-Flore",
+				"localisation" : "Centre communautaire",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-72"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7406912278, 46.6920408634 ]
+			},
+			"properties" : {
+				"objectid" : 857,
+				"rue" : "Chemin de Saint-Jean-des-Piles",
+				"localisation" : "#1590 Chemin de Saint-Jean-des-Piles, Centre communautaire Saint-Jean-des-Piles - bibliothèque",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-82"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7388290387, 46.692639042 ]
+			},
+			"properties" : {
+				"objectid" : 858,
+				"rue" : "Rue Morin",
+				"localisation" : "Parc des Piles - au bout de la Rue Méthot",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-83"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6901004144, 46.6120727438 ]
+			},
+			"properties" : {
+				"objectid" : 860,
+				"rue" : "3e Avenue",
+				"localisation" : "#601, 3e Avenue, Aréna de Grand-Mère et Centre municipal de curling",
+				"nombre" : 7,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-100"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6949865056, 46.6131074617 ]
+			},
+			"properties" : {
+				"objectid" : 867,
+				"rue" : "8e Rue",
+				"localisation" : "Bibliothèque Hélène-B-Beauséjour, 650, 8e Rue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-101"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6923339276, 46.6155861045 ]
+			},
+			"properties" : {
+				"objectid" : 868,
+				"rue" : "7e Avenue",
+				"localisation" : "6e Rue coin 7e Avenue",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-104"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6901464344, 46.6171484191 ]
+			},
+			"properties" : {
+				"objectid" : 870,
+				"rue" : "7e Avenue",
+				"localisation" : "7e Avenue voisin du  #362",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-105"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6873815862, 46.6157842177 ]
+			},
+			"properties" : {
+				"objectid" : 871,
+				"rue" : "4e Avenue",
+				"localisation" : "4e Avenue - derrière le #333 5e avenue",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-108"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.682338481, 46.6201711925 ]
+			},
+			"properties" : {
+				"objectid" : 873,
+				"rue" : "Avenue de Grand-Mère",
+				"localisation" : "#15 avenue de Grand-Mère, Maison de la Culture Francis-Brisson",
+				"nombre" : 3,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-110"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6903690445, 46.6150392375 ]
+			},
+			"properties" : {
+				"objectid" : 876,
+				"rue" : "5e Avenue",
+				"localisation" : "5e Avenues voisin du 524 (Chevaliers de Colomb)",
+				"nombre" : 4,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-112"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6585195551, 46.6257404046 ]
+			},
+			"properties" : {
+				"objectid" : 880,
+				"rue" : "205e Avenue",
+				"localisation" : "Maison du citoyen + caserne,505, 205e Avenue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-130"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6544028322, 46.6268454452 ]
+			},
+			"properties" : {
+				"objectid" : 881,
+				"rue" : "206e Avenue",
+				"localisation" : "Centre communautaire, 650, 206e Avenue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-131"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6549046173, 46.6252451711 ]
+			},
+			"properties" : {
+				"objectid" : 882,
+				"rue" : "214e Rue",
+				"localisation" : "Centre Émile Bédard",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-133"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6323035562, 46.6126116339 ]
+			},
+			"properties" : {
+				"objectid" : 883,
+				"rue" : "Chemin de la Vigilance",
+				"localisation" : "#1071, Chemin de la Vigilance, Centre communautaire Lupien",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-138"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6314765674, 46.6123136357 ]
+			},
+			"properties" : {
+				"objectid" : 884,
+				"rue" : "Chemin de la Vigilance",
+				"localisation" : "1082, Chemin de la Vigilance, Salle Camel Paquin + Bibliothèque Gisèle-M-Beaudoin",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-139"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.756388591, 46.529593425 ]
+			},
+			"properties" : {
+				"objectid" : 885,
+				"rue" : "Avenue d'Almaville",
+				"localisation" : "voisin du Comfort Inn Avenue d'Almaville",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-150"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7508493858, 46.5288636216 ]
+			},
+			"properties" : {
+				"objectid" : 886,
+				"rue" : "Rue Régis",
+				"localisation" : "Avenue du Capitaine-Veilleux et rue Régis",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-152"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7495455866, 46.5237045175 ]
+			},
+			"properties" : {
+				"objectid" : 888,
+				"rue" : "114e Rue",
+				"localisation" : "Face au #430, 114e Rue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-154"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7554300629, 46.5170533256 ]
+			},
+			"properties" : {
+				"objectid" : 889,
+				"rue" : "117e Rue",
+				"localisation" : "1605 117e Rue, Aréna Gilles Bourassa",
+				"nombre" : 3,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-155"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7425966617, 46.514752678 ]
+			},
+			"properties" : {
+				"objectid" : 892,
+				"rue" : "108e avenue",
+				"localisation" : "Parc Boisvert",
+				"nombre" : 2,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.753941831, 46.5244235314 ]
+			},
+			"properties" : {
+				"objectid" : 894,
+				"rue" : "106e Rue",
+				"localisation" : "Centre communautaire, 900 106e Rue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-163"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7533734891, 46.5398458499 ]
+			},
+			"properties" : {
+				"objectid" : 1603,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Face au #880, bureau tourisme",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 41 m de la 4e rue de la Pointe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7552888657, 46.5406168074 ]
+			},
+			"properties" : {
+				"objectid" : 1604,
+				"rue" : "Promenade St-Maurice",
+				"localisation" : "Stationnement du quai, face au #1100",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 93 m de Willow"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6983897513, 46.6158411774 ]
+			},
+			"properties" : {
+				"objectid" : 1605,
+				"rue" : "11e Avenue",
+				"localisation" : "voisin du GMF Grand-Mère",
+				"nombre" : 3,
+				"dure" : "",
+				"mesurer_c_c" : "à 28 m de la 8e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6965622514, 46.616917989 ]
+			},
+			"properties" : {
+				"objectid" : 1606,
+				"rue" : "7e Rue",
+				"localisation" : "Voisin 1050, 7e Rue, parc de la Rivière-Grand-Mère",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "Situé dans le stationnement public S-103"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6971738411, 46.6076649937 ]
+			},
+			"properties" : {
+				"objectid" : 1607,
+				"rue" : "3e Avenue",
+				"localisation" : "Coin 12e Rue",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 16 mètres de 12e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6979665676, 46.6071469739 ]
+			},
+			"properties" : {
+				"objectid" : 1608,
+				"rue" : "3e Avenue",
+				"localisation" : "Piscine",
+				"nombre" : 1,
+				"dure" : null,
+				"mesurer_c_c" : "à 100 mètres de 12e Rue"
+			}
+		}
+	]
+}

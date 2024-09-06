@@ -1,0 +1,162 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "ACCESBUS_POINT_DE_CHUTE",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.747992644, 46.5397537448 ]
+			},
+			"properties" : {
+				"objectid" : 1,
+				"zones" : "Point de chute",
+				"adresse" : "Avenue Mercier / 4e Rue de la Pointe",
+				"no_embarquement" : "4000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7432306333, 46.5186435841 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"zones" : "Point de chute",
+				"adresse" : "105e Avenue / 125e Rue",
+				"no_embarquement" : "3500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6543363289, 46.6230819131 ]
+			},
+			"properties" : {
+				"objectid" : 3,
+				"zones" : "Point de chute",
+				"adresse" : "Avenue de Saint-Georges / 212e Rue",
+				"no_embarquement" : "3000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6947559272, 46.61301647 ]
+			},
+			"properties" : {
+				"objectid" : 4,
+				"zones" : "Point de chute",
+				"adresse" : "Avenue de Grand-Mère / 8e Rue",
+				"no_embarquement" : "1000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447737773, 46.5574667667 ]
+			},
+			"properties" : {
+				"objectid" : 5,
+				"zones" : "Point de chute",
+				"adresse" : "Boulevard Royal / Rue Cartier",
+				"no_embarquement" : "2000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.743165975, 46.5543217824 ]
+			},
+			"properties" : {
+				"objectid" : 6,
+				"zones" : "Point de chute",
+				"adresse" : "Rue Saint-Paul / Avenue Champlain (Marché public)",
+				"no_embarquement" : "2500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7522615509, 46.5635303156 ]
+			},
+			"properties" : {
+				"objectid" : 7,
+				"zones" : "Point de chute",
+				"adresse" : "Collège Shawinigan",
+				"no_embarquement" : "2100"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7223542401, 46.5759563647 ]
+			},
+			"properties" : {
+				"objectid" : 8,
+				"zones" : "Point de chute",
+				"adresse" : "Boulevard Hubert-Biermans / Boulevard des Hêtres",
+				"no_embarquement" : "2400"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7057465227, 46.6055563133 ]
+			},
+			"properties" : {
+				"objectid" : 9,
+				"zones" : "Point de chute",
+				"adresse" : "Avenue de Grand-Mère / 17e Rue (CHSLD Laflèche)",
+				"no_embarquement" : "1500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7443430741, 46.5260426132 ]
+			},
+			"properties" : {
+				"objectid" : 10,
+				"zones" : "Point de chute",
+				"adresse" : "HCM (Hôpital)",
+				"no_embarquement" : "3600"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7429482947, 46.5189949678 ]
+			},
+			"properties" : {
+				"objectid" : 11,
+				"zones" : "Point de chute",
+				"adresse" : "105e Avenue / 125e Rue",
+				"no_embarquement" : "5500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7311472417, 46.5060954322 ]
+			},
+			"properties" : {
+				"objectid" : 12,
+				"zones" : "Point de chute",
+				"adresse" : "105e Avenue / Rue Arthur-McNicoll",
+				"no_embarquement" : "5000"
+			}
+		}
+	]
+}

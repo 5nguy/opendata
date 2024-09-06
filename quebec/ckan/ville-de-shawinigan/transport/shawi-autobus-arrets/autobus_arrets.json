@@ -1,0 +1,5403 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "AUTOBUS_ARRETS",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7134794839, 46.4939711316 ]
+			},
+			"properties" : {
+				"objectid" : 1,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Centre National de Vérification et de Recouvrement (garderie La Bottine Souriante)",
+				"sequence_a" : 33,
+				"abri" : "",
+				"latitude" : -72.71347948,
+				"longitude" : 46.49397113
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7170413323, 46.4957690324 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4655",
+				"sequence_a" : 34,
+				"abri" : "",
+				"latitude" : -72.71704133,
+				"longitude" : 46.49576903
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7187036798, 46.4969218828 ]
+			},
+			"properties" : {
+				"objectid" : 3,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4585",
+				"sequence_a" : 35,
+				"abri" : "",
+				"latitude" : -72.71870368,
+				"longitude" : 46.49692188
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7203922641, 46.4980855795 ]
+			},
+			"properties" : {
+				"objectid" : 4,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4600",
+				"sequence_a" : 36,
+				"abri" : "",
+				"latitude" : -72.72039226,
+				"longitude" : 46.49808558
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7212877535, 46.498664228 ]
+			},
+			"properties" : {
+				"objectid" : 5,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Valentine Pintal",
+				"sequence_a" : 37,
+				"abri" : "",
+				"latitude" : -72.72128775,
+				"longitude" : 46.49866423
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7236586556, 46.5002889365 ]
+			},
+			"properties" : {
+				"objectid" : 6,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Parc-Industriel",
+				"sequence_a" : 38,
+				"abri" : "",
+				"latitude" : -72.72365866,
+				"longitude" : 46.50028894
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7252100987, 46.5013384269 ]
+			},
+			"properties" : {
+				"objectid" : 7,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Saint-Michel",
+				"sequence_a" : 39,
+				"abri" : "",
+				"latitude" : -72.7252101,
+				"longitude" : 46.50133843
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7274192332, 46.5028503163 ]
+			},
+			"properties" : {
+				"objectid" : 8,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Arthur-Déry",
+				"sequence_a" : 40,
+				"abri" : "",
+				"latitude" : -72.72741923,
+				"longitude" : 46.50285032
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7293402569, 46.5041573365 ]
+			},
+			"properties" : {
+				"objectid" : 9,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4175",
+				"sequence_a" : 41,
+				"abri" : "OUI",
+				"latitude" : -72.72934026,
+				"longitude" : 46.50415734
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7311472417, 46.5060954322 ]
+			},
+			"properties" : {
+				"objectid" : 10,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/Shawinigan-Sud",
+				"sequence_a" : 42,
+				"abri" : "",
+				"latitude" : -72.73114724,
+				"longitude" : 46.50609543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7317718653, 46.5079991531 ]
+			},
+			"properties" : {
+				"objectid" : 11,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e avenue/Jos-Denoncourt",
+				"sequence_a" : 43,
+				"abri" : "OUI",
+				"latitude" : -72.73177187,
+				"longitude" : 46.50799915
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7322735149, 46.5093837756 ]
+			},
+			"properties" : {
+				"objectid" : 12,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/Philibert-Dumas",
+				"sequence_a" : 44,
+				"abri" : "",
+				"latitude" : -72.73227351,
+				"longitude" : 46.50938378
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7327715133, 46.5108283272 ]
+			},
+			"properties" : {
+				"objectid" : 13,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/138e Rue",
+				"sequence_a" : 45,
+				"abri" : "",
+				"latitude" : -72.73277151,
+				"longitude" : 46.51082833
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7344134085, 46.5125229234 ]
+			},
+			"properties" : {
+				"objectid" : 14,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/136e Rue",
+				"sequence_a" : 46,
+				"abri" : "",
+				"latitude" : -72.73441341,
+				"longitude" : 46.51252292
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7359438048, 46.5135578916 ]
+			},
+			"properties" : {
+				"objectid" : 15,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/134e Rue",
+				"sequence_a" : 47,
+				"abri" : null,
+				"latitude" : -72.7359438,
+				"longitude" : 46.51355789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7376150967, 46.5146906657 ]
+			},
+			"properties" : {
+				"objectid" : 16,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/132e Rue",
+				"sequence_a" : 48,
+				"abri" : "",
+				"latitude" : -72.7376151,
+				"longitude" : 46.51469067
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7406206062, 46.5167792643 ]
+			},
+			"properties" : {
+				"objectid" : 17,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/129e Rue",
+				"sequence_a" : 49,
+				"abri" : "",
+				"latitude" : -72.74062061,
+				"longitude" : 46.51677926
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7419415682, 46.5176988964 ]
+			},
+			"properties" : {
+				"objectid" : 18,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/127e Rue",
+				"sequence_a" : 50,
+				"abri" : "",
+				"latitude" : -72.74194157,
+				"longitude" : 46.5176989
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7429482947, 46.5189949678 ]
+			},
+			"properties" : {
+				"objectid" : 19,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/105e Avenue",
+				"sequence_a" : 51,
+				"abri" : "",
+				"latitude" : -72.74294829,
+				"longitude" : 46.51899497
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7419029422, 46.5197133443 ]
+			},
+			"properties" : {
+				"objectid" : 20,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/103e Avenue",
+				"sequence_a" : 52,
+				"abri" : "",
+				"latitude" : -72.74190294,
+				"longitude" : 46.51971334
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7398079758, 46.5211366258 ]
+			},
+			"properties" : {
+				"objectid" : 21,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/101e Avenue",
+				"sequence_a" : 53,
+				"abri" : "",
+				"latitude" : -72.73980798,
+				"longitude" : 46.52113663
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7387064235, 46.5220551484 ]
+			},
+			"properties" : {
+				"objectid" : 22,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/Loranger",
+				"sequence_a" : 217,
+				"abri" : "",
+				"latitude" : -72.73870642,
+				"longitude" : 46.52205515
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.737859486, 46.5233814483 ]
+			},
+			"properties" : {
+				"objectid" : 23,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Capitaine-Veilleux/125e Rue",
+				"sequence_a" : 55,
+				"abri" : "",
+				"latitude" : -72.73785949,
+				"longitude" : 46.52338145
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7407537412, 46.5254349216 ]
+			},
+			"properties" : {
+				"objectid" : 24,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Capitaine-Veilleux/Lacoursière",
+				"sequence_a" : 56,
+				"abri" : "",
+				"latitude" : -72.74075374,
+				"longitude" : 46.52543492
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7443430741, 46.5260426132 ]
+			},
+			"properties" : {
+				"objectid" : 25,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hôpital (entrée principale)",
+				"sequence_a" : 57,
+				"abri" : "OUI",
+				"latitude" : -72.74434307,
+				"longitude" : 46.52604261
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7442125855, 46.5250324184 ]
+			},
+			"properties" : {
+				"objectid" : 26,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hôpital (urgence)",
+				"sequence_a" : 212,
+				"abri" : "",
+				"latitude" : -72.74421259,
+				"longitude" : 46.52503242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7438833153, 46.523574793 ]
+			},
+			"properties" : {
+				"objectid" : 27,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/101e Avenue",
+				"sequence_a" : 59,
+				"abri" : "",
+				"latitude" : -72.74388332,
+				"longitude" : 46.52357479
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7454191764, 46.5224523156 ]
+			},
+			"properties" : {
+				"objectid" : 28,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/103e Avenue",
+				"sequence_a" : 60,
+				"abri" : "",
+				"latitude" : -72.74541918,
+				"longitude" : 46.52245232
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.746998302, 46.5213682093 ]
+			},
+			"properties" : {
+				"objectid" : 29,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/105e Avenue",
+				"sequence_a" : 61,
+				"abri" : "",
+				"latitude" : -72.7469983,
+				"longitude" : 46.52136821
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7475377091, 46.5216960329 ]
+			},
+			"properties" : {
+				"objectid" : 30,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/118e Rue",
+				"sequence_a" : 62,
+				"abri" : "",
+				"latitude" : -72.74753771,
+				"longitude" : 46.52169603
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7493359923, 46.5228982321 ]
+			},
+			"properties" : {
+				"objectid" : 31,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/115e Rue",
+				"sequence_a" : 63,
+				"abri" : "",
+				"latitude" : -72.74933599,
+				"longitude" : 46.52289823
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7506098587, 46.5237863697 ]
+			},
+			"properties" : {
+				"objectid" : 32,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/113e Rue",
+				"sequence_a" : 64,
+				"abri" : "",
+				"latitude" : -72.75060986,
+				"longitude" : 46.52378637
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7529536402, 46.5254042102 ]
+			},
+			"properties" : {
+				"objectid" : 33,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/109e Rue",
+				"sequence_a" : 65,
+				"abri" : "",
+				"latitude" : -72.75295364,
+				"longitude" : 46.52540421
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7583038392, 46.526192381 ]
+			},
+			"properties" : {
+				"objectid" : 34,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Marie-Louise",
+				"sequence_a" : 66,
+				"abri" : "",
+				"latitude" : -72.75830384,
+				"longitude" : 46.52619238
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7554547336, 46.535195412 ]
+			},
+			"properties" : {
+				"objectid" : 35,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Melville (Cité de l'Énergie)",
+				"sequence_a" : 67,
+				"abri" : "",
+				"latitude" : -72.75545473,
+				"longitude" : 46.53519541
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7516813606, 46.5394590398 ]
+			},
+			"properties" : {
+				"objectid" : 36,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Station/4e Rue de la Pointe",
+				"sequence_a" : 68,
+				"abri" : "",
+				"latitude" : -72.75168136,
+				"longitude" : 46.53945904
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7504817488, 46.5396207344 ]
+			},
+			"properties" : {
+				"objectid" : 37,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "4e Rue de la Pointe/Tamarac",
+				"sequence_a" : 69,
+				"abri" : "",
+				"latitude" : -72.75048175,
+				"longitude" : 46.53962073
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.747992644, 46.5397537448 ]
+			},
+			"properties" : {
+				"objectid" : 38,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "4e Rue de la Pointe/Mercier",
+				"sequence_a" : 70,
+				"abri" : "OUI",
+				"latitude" : -72.74799264,
+				"longitude" : 46.53975374
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7461865889, 46.5398450479 ]
+			},
+			"properties" : {
+				"objectid" : 39,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "4e Rue de la Pointe/Cèdres",
+				"sequence_a" : 71,
+				"abri" : "",
+				"latitude" : -72.74618659,
+				"longitude" : 46.53984505
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.738311931, 46.5629115545 ]
+			},
+			"properties" : {
+				"objectid" : 50,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "Oui",
+				"hvoiture_a" : ":00-:05",
+				"hvoiture_b" : ":20-:30",
+				"hvoiture_n" : ":05",
+				"hvoitur_nw" : ":30",
+				"adresse" : "Plaza de la Mauricie",
+				"sequence_a" : 0,
+				"abri" : "",
+				"latitude" : -72.73831193,
+				"longitude" : 46.56291155
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7339228155, 46.564411763 ]
+			},
+			"properties" : {
+				"objectid" : 51,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/38e Rue",
+				"sequence_a" : 82,
+				"abri" : "",
+				"latitude" : -72.73392282,
+				"longitude" : 46.56441176
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7351259494, 46.5673423708 ]
+			},
+			"properties" : {
+				"objectid" : 52,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "41e Rue/Hêtres",
+				"sequence_a" : 84,
+				"abri" : "",
+				"latitude" : -72.73512595,
+				"longitude" : 46.56734237
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7293679348, 46.5711278972 ]
+			},
+			"properties" : {
+				"objectid" : 53,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/51e Rue (SAAQ)",
+				"sequence_a" : 92,
+				"abri" : "",
+				"latitude" : -72.72936793,
+				"longitude" : 46.5711279
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7281674536, 46.5719087586 ]
+			},
+			"properties" : {
+				"objectid" : 54,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/53e Rue",
+				"sequence_a" : 93,
+				"abri" : "",
+				"latitude" : -72.72816745,
+				"longitude" : 46.57190876
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7260861529, 46.5732720502 ]
+			},
+			"properties" : {
+				"objectid" : 55,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/57e Rue (Séminaire Ste-Marie)",
+				"sequence_a" : 94,
+				"abri" : "",
+				"latitude" : -72.72608615,
+				"longitude" : 46.57327205
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7245156438, 46.5742986172 ]
+			},
+			"properties" : {
+				"objectid" : 56,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/59e Rue",
+				"sequence_a" : 95,
+				"abri" : "",
+				"latitude" : -72.72451564,
+				"longitude" : 46.57429862
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7219011126, 46.5759688839 ]
+			},
+			"properties" : {
+				"objectid" : 57,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/Hubert-Biermans (Place Biermans)",
+				"sequence_a" : 96,
+				"abri" : "OUI",
+				"latitude" : -72.72190111,
+				"longitude" : 46.57596888
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7194219735, 46.5786885795 ]
+			},
+			"properties" : {
+				"objectid" : 58,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/69e Rue",
+				"sequence_a" : 97,
+				"abri" : "",
+				"latitude" : -72.71942197,
+				"longitude" : 46.57868858
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7175538691, 46.5813745519 ]
+			},
+			"properties" : {
+				"objectid" : 59,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/74e Rue",
+				"sequence_a" : 98,
+				"abri" : "",
+				"latitude" : -72.71755387,
+				"longitude" : 46.58137455
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7158943082, 46.5837842821 ]
+			},
+			"properties" : {
+				"objectid" : 60,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/79e Rue",
+				"sequence_a" : 99,
+				"abri" : "",
+				"latitude" : -72.71589431,
+				"longitude" : 46.58378428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7147587167, 46.5854161353 ]
+			},
+			"properties" : {
+				"objectid" : 61,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/80e Rue",
+				"sequence_a" : 100,
+				"abri" : "",
+				"latitude" : -72.71475872,
+				"longitude" : 46.58541614
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7140081596, 46.5865052301 ]
+			},
+			"properties" : {
+				"objectid" : 62,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/84e Rue",
+				"sequence_a" : 101,
+				"abri" : "",
+				"latitude" : -72.71400816,
+				"longitude" : 46.58650523
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7129201402, 46.587921406 ]
+			},
+			"properties" : {
+				"objectid" : 63,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/86e Rue",
+				"sequence_a" : 102,
+				"abri" : "",
+				"latitude" : -72.71292014,
+				"longitude" : 46.58792141
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7119234725, 46.5891291069 ]
+			},
+			"properties" : {
+				"objectid" : 64,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/89e Rue",
+				"sequence_a" : 103,
+				"abri" : "",
+				"latitude" : -72.71192347,
+				"longitude" : 46.58912911
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7106827907, 46.5906251079 ]
+			},
+			"properties" : {
+				"objectid" : 65,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/92e Rue",
+				"sequence_a" : 104,
+				"abri" : "",
+				"latitude" : -72.71068279,
+				"longitude" : 46.59062511
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7091604003, 46.5924643535 ]
+			},
+			"properties" : {
+				"objectid" : 66,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/95e Rue",
+				"sequence_a" : 105,
+				"abri" : "",
+				"latitude" : -72.7091604,
+				"longitude" : 46.59246435
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7462151819, 46.5472589644 ]
+			},
+			"properties" : {
+				"objectid" : 44,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : " :52",
+				"adresse" : "Cèdres/Station (Amphithéâtre municipal)",
+				"sequence_a" : 76,
+				"abri" : "OUI",
+				"latitude" : -72.74621518,
+				"longitude" : 46.54725896
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7460272578, 46.5411093382 ]
+			},
+			"properties" : {
+				"objectid" : 40,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":50",
+				"adresse" : "Cèdres/5e Rue de la Pointe (Hôtel-de-Ville)",
+				"sequence_a" : 72,
+				"abri" : "",
+				"latitude" : -72.74602726,
+				"longitude" : 46.54110934
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.746237062, 46.5435151231 ]
+			},
+			"properties" : {
+				"objectid" : 42,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":50",
+				"adresse" : "Cèdres/9e Rue de la Pointe",
+				"sequence_a" : 74,
+				"abri" : "",
+				"latitude" : -72.74623706,
+				"longitude" : 46.54351512
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7461285148, 46.5422499667 ]
+			},
+			"properties" : {
+				"objectid" : 41,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":50",
+				"adresse" : "Cèdres/7e Rue de la Pointe",
+				"sequence_a" : 73,
+				"abri" : "",
+				"latitude" : -72.74612851,
+				"longitude" : 46.54224997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7460319474, 46.5505091976 ]
+			},
+			"properties" : {
+				"objectid" : 45,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : ":24",
+				"hvoitur_nw" : ":53",
+				"adresse" : "St-Marc/Summit",
+				"sequence_a" : 22,
+				"abri" : "",
+				"latitude" : -72.74603195,
+				"longitude" : 46.5505092
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7097620088, 46.5975882284 ]
+			},
+			"properties" : {
+				"objectid" : 67,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres, #10200",
+				"sequence_a" : 107,
+				"abri" : "",
+				"latitude" : -72.70976201,
+				"longitude" : 46.59758823
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.710300807, 46.5994099661 ]
+			},
+			"properties" : {
+				"objectid" : 68,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/28e Rue",
+				"sequence_a" : 108,
+				"abri" : "",
+				"latitude" : -72.71030081,
+				"longitude" : 46.59940997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7094720831, 46.6012983175 ]
+			},
+			"properties" : {
+				"objectid" : 69,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/26e Rue (Complexe Jacques-Marchand)",
+				"sequence_a" : 109,
+				"abri" : "",
+				"latitude" : -72.70947208,
+				"longitude" : 46.60129832
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7082937639, 46.6024929251 ]
+			},
+			"properties" : {
+				"objectid" : 70,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/25e Rue",
+				"sequence_a" : 110,
+				"abri" : "",
+				"latitude" : -72.70829376,
+				"longitude" : 46.60249293
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7066075814, 46.6037953879 ]
+			},
+			"properties" : {
+				"objectid" : 71,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue, #1791",
+				"sequence_a" : 111,
+				"abri" : "",
+				"latitude" : -72.70660758,
+				"longitude" : 46.60379539
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.705231534, 46.604704619 ]
+			},
+			"properties" : {
+				"objectid" : 72,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/17e Rue (Centre Laflèche)",
+				"sequence_a" : 112,
+				"abri" : "OUI",
+				"latitude" : -72.70523153,
+				"longitude" : 46.60470462
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7023536503, 46.6065883074 ]
+			},
+			"properties" : {
+				"objectid" : 73,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/15e Rue",
+				"sequence_a" : 113,
+				"abri" : "",
+				"latitude" : -72.70235365,
+				"longitude" : 46.60658831
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7008116831, 46.6075978652 ]
+			},
+			"properties" : {
+				"objectid" : 74,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/14e Rue",
+				"sequence_a" : 114,
+				"abri" : "",
+				"latitude" : -72.70081168,
+				"longitude" : 46.60759787
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6987374355, 46.6089589472 ]
+			},
+			"properties" : {
+				"objectid" : 75,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/12e Rue",
+				"sequence_a" : 115,
+				"abri" : "",
+				"latitude" : -72.69873744,
+				"longitude" : 46.60895895
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6957420676, 46.6109507701 ]
+			},
+			"properties" : {
+				"objectid" : 76,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/9e Rue",
+				"sequence_a" : 116,
+				"abri" : "",
+				"latitude" : -72.69574207,
+				"longitude" : 46.61095077
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6939898964, 46.6120078238 ]
+			},
+			"properties" : {
+				"objectid" : 77,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/8e Rue",
+				"sequence_a" : 117,
+				"abri" : "",
+				"latitude" : -72.6939899,
+				"longitude" : 46.61200782
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6923054015, 46.613137644 ]
+			},
+			"properties" : {
+				"objectid" : 78,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/7e Rue",
+				"sequence_a" : 118,
+				"abri" : "",
+				"latitude" : -72.6923054,
+				"longitude" : 46.61313764
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6907926738, 46.6141417303 ]
+			},
+			"properties" : {
+				"objectid" : 79,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/6e Rue",
+				"sequence_a" : 119,
+				"abri" : "",
+				"latitude" : -72.69079267,
+				"longitude" : 46.61414173
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6889475611, 46.6153809 ]
+			},
+			"properties" : {
+				"objectid" : 80,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/4e Rue",
+				"sequence_a" : 120,
+				"abri" : "",
+				"latitude" : -72.68894756,
+				"longitude" : 46.6153809
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.687318547, 46.6164616494 ]
+			},
+			"properties" : {
+				"objectid" : 81,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/3e Rue",
+				"sequence_a" : 121,
+				"abri" : "",
+				"latitude" : -72.68731855,
+				"longitude" : 46.61646165
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6861232045, 46.6172823524 ]
+			},
+			"properties" : {
+				"objectid" : 82,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/2e Rue",
+				"sequence_a" : 122,
+				"abri" : "",
+				"latitude" : -72.6861232,
+				"longitude" : 46.61728235
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6847772717, 46.6181766966 ]
+			},
+			"properties" : {
+				"objectid" : 83,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/1e Rue",
+				"sequence_a" : 123,
+				"abri" : "",
+				"latitude" : -72.68477727,
+				"longitude" : 46.6181767
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.68362132, 46.6181698031 ]
+			},
+			"properties" : {
+				"objectid" : 84,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "5e Avenue/Forman (Parc des Papetiers)",
+				"sequence_a" : 124,
+				"abri" : "",
+				"latitude" : -72.68362132,
+				"longitude" : 46.6181698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6819028457, 46.619499481 ]
+			},
+			"properties" : {
+				"objectid" : 85,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Chahoon (Maison de la Culture Francis-Brisson)",
+				"sequence_a" : 125,
+				"abri" : "",
+				"latitude" : -72.6817691,
+				"longitude" : 46.61974449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6717220699, 46.6193540023 ]
+			},
+			"properties" : {
+				"objectid" : 86,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Saint-Georges/Centrale",
+				"sequence_a" : 126,
+				"abri" : "",
+				"latitude" : -72.67172207,
+				"longitude" : 46.619354
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6664240581, 46.6193803011 ]
+			},
+			"properties" : {
+				"objectid" : 87,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Saint-Georges/204e Avenue",
+				"sequence_a" : 127,
+				"abri" : "",
+				"latitude" : -72.66642406,
+				"longitude" : 46.6193803
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.661887203, 46.6192882356 ]
+			},
+			"properties" : {
+				"objectid" : 88,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Georges/203e Rue",
+				"sequence_a" : 129,
+				"abri" : "",
+				"latitude" : -72.6618872,
+				"longitude" : 46.61928824
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6568620677, 46.6211970466 ]
+			},
+			"properties" : {
+				"objectid" : 89,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Georges/208e Rue",
+				"sequence_a" : 130,
+				"abri" : "",
+				"latitude" : -72.65686207,
+				"longitude" : 46.62119705
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6543363289, 46.6230819131 ]
+			},
+			"properties" : {
+				"objectid" : 90,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Georges/212e Rue",
+				"sequence_a" : 131,
+				"abri" : "OUI",
+				"latitude" : -72.65433633,
+				"longitude" : 46.62308191
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.653036941, 46.6247788043 ]
+			},
+			"properties" : {
+				"objectid" : 91,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "214e Rue/St-Georges (Centre Émile-Bédard)",
+				"sequence_a" : 132,
+				"abri" : "OUI",
+				"latitude" : -72.65303694,
+				"longitude" : 46.6247788
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6555102398, 46.6263438311 ]
+			},
+			"properties" : {
+				"objectid" : 92,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "214e Rue/206e Avenue",
+				"sequence_a" : 133,
+				"abri" : "",
+				"latitude" : -72.65551024,
+				"longitude" : 46.62634383
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6572855712, 46.6252393149 ]
+			},
+			"properties" : {
+				"objectid" : 93,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "206e Avenue/212e Rue",
+				"sequence_a" : 134,
+				"abri" : "OUI",
+				"latitude" : -72.65728557,
+				"longitude" : 46.62523931
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6591788199, 46.6238390972 ]
+			},
+			"properties" : {
+				"objectid" : 94,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "206e Avenue/210e Rue",
+				"sequence_a" : 135,
+				"abri" : "",
+				"latitude" : -72.65917882,
+				"longitude" : 46.6238391
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6608296826, 46.6226229963 ]
+			},
+			"properties" : {
+				"objectid" : 95,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "206e Avenue/207e Rue",
+				"sequence_a" : 136,
+				"abri" : "OUI",
+				"latitude" : -72.66082968,
+				"longitude" : 46.622623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6620658831, 46.6217027418 ]
+			},
+			"properties" : {
+				"objectid" : 96,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "206e Avenue",
+				"sequence_a" : 137,
+				"abri" : "",
+				"latitude" : -72.66206588,
+				"longitude" : 46.62170274
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6637217408, 46.6204768739 ]
+			},
+			"properties" : {
+				"objectid" : 97,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "206e Avenue/203e Rue",
+				"sequence_a" : 138,
+				"abri" : "",
+				"latitude" : -72.66372174,
+				"longitude" : 46.62047687
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.666420407, 46.6195539589 ]
+			},
+			"properties" : {
+				"objectid" : 98,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Saint-Georges/204e Avenue",
+				"sequence_a" : 139,
+				"abri" : "OUI",
+				"latitude" : -72.66642041,
+				"longitude" : 46.61955396
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6714141649, 46.619531107 ]
+			},
+			"properties" : {
+				"objectid" : 99,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Saint-Georges/Centrale",
+				"sequence_a" : 140,
+				"abri" : "",
+				"latitude" : -72.67141416,
+				"longitude" : 46.61953111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6819226832, 46.6206612048 ]
+			},
+			"properties" : {
+				"objectid" : 100,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/River-Road (Maison de la Culture Francis-Brisson)",
+				"sequence_a" : 141,
+				"abri" : "OUI",
+				"latitude" : -72.68192268,
+				"longitude" : 46.6206612
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6929564223, 46.6142238425 ]
+			},
+			"properties" : {
+				"objectid" : 105,
+				"direction" : "Shawinigan-Sud",
+				"navette" : ":55",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/7e Rue",
+				"sequence_a" : 146,
+				"abri" : "",
+				"latitude" : -72.69295642,
+				"longitude" : 46.61422384
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6947559272, 46.61301647 ]
+			},
+			"properties" : {
+				"objectid" : 106,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/8e Rue",
+				"sequence_a" : 147,
+				"abri" : "OUI",
+				"latitude" : -72.69475593,
+				"longitude" : 46.61301647
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.697464132, 46.6111547646 ]
+			},
+			"properties" : {
+				"objectid" : 107,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/10e Rue",
+				"sequence_a" : 151,
+				"abri" : "",
+				"latitude" : -72.69746413,
+				"longitude" : 46.61115476
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6995214873, 46.6097997768 ]
+			},
+			"properties" : {
+				"objectid" : 108,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/12e Rue",
+				"sequence_a" : 152,
+				"abri" : "OUI",
+				"latitude" : -72.69952149,
+				"longitude" : 46.60979978
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7014950562, 46.6084751581 ]
+			},
+			"properties" : {
+				"objectid" : 109,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/14e Rue",
+				"sequence_a" : 153,
+				"abri" : "",
+				"latitude" : -72.70149506,
+				"longitude" : 46.60847516
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.70311634, 46.6073224155 ]
+			},
+			"properties" : {
+				"objectid" : 110,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/15e Rue",
+				"sequence_a" : 154,
+				"abri" : "",
+				"latitude" : -72.70311634,
+				"longitude" : 46.60732242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7057465227, 46.6055563133 ]
+			},
+			"properties" : {
+				"objectid" : 111,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/17e Rue (Centre Laflèche)",
+				"sequence_a" : 155,
+				"abri" : "OUI",
+				"latitude" : -72.70574652,
+				"longitude" : 46.60555631
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7076361016, 46.6042536576 ]
+			},
+			"properties" : {
+				"objectid" : 112,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/18e Rue",
+				"sequence_a" : 156,
+				"abri" : "",
+				"latitude" : -72.70858058,
+				"longitude" : 46.60358455
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7096482521, 46.6025291182 ]
+			},
+			"properties" : {
+				"objectid" : 113,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/26e Rue",
+				"sequence_a" : 157,
+				"abri" : "OUI",
+				"latitude" : -72.70964825,
+				"longitude" : 46.60252912
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7105469168, 46.5993959565 ]
+			},
+			"properties" : {
+				"objectid" : 114,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/28e Rue",
+				"sequence_a" : 158,
+				"abri" : "",
+				"latitude" : -72.71054692,
+				"longitude" : 46.59939596
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7099996859, 46.5974835806 ]
+			},
+			"properties" : {
+				"objectid" : 115,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres, #10200",
+				"sequence_a" : 159,
+				"abri" : "",
+				"latitude" : -72.70999969,
+				"longitude" : 46.59748358
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7096190101, 46.5962254317 ]
+			},
+			"properties" : {
+				"objectid" : 116,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/98e Rue",
+				"sequence_a" : 160,
+				"abri" : "",
+				"latitude" : -72.70961901,
+				"longitude" : 46.59622543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7109785119, 46.5906165641 ]
+			},
+			"properties" : {
+				"objectid" : 117,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/92e Rue",
+				"sequence_a" : 162,
+				"abri" : "",
+				"latitude" : -72.71097851,
+				"longitude" : 46.59061656
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7119434465, 46.5895142976 ]
+			},
+			"properties" : {
+				"objectid" : 118,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/89e Rue",
+				"sequence_a" : 163,
+				"abri" : "OUI",
+				"latitude" : -72.71194345,
+				"longitude" : 46.5895143
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7140988604, 46.586776054 ]
+			},
+			"properties" : {
+				"objectid" : 119,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/84e Rue",
+				"sequence_a" : 164,
+				"abri" : "",
+				"latitude" : -72.71409886,
+				"longitude" : 46.58677605
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7149788995, 46.5855011535 ]
+			},
+			"properties" : {
+				"objectid" : 120,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/80e Rue",
+				"sequence_a" : 165,
+				"abri" : "",
+				"latitude" : -72.7149789,
+				"longitude" : 46.58550115
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7159807854, 46.5840872921 ]
+			},
+			"properties" : {
+				"objectid" : 121,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/79e Rue",
+				"sequence_a" : 166,
+				"abri" : "",
+				"latitude" : -72.71598079,
+				"longitude" : 46.58408729
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7092789695, 46.5927763528 ]
+			},
+			"properties" : {
+				"objectid" : 122,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/95e Rue",
+				"sequence_a" : 161,
+				"abri" : "",
+				"latitude" : -72.70927897,
+				"longitude" : 46.59277635
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7306447143, 46.5705911962 ]
+			},
+			"properties" : {
+				"objectid" : 123,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/49e Rue (SAAQ)",
+				"sequence_a" : 174,
+				"abri" : "",
+				"latitude" : -72.73064471,
+				"longitude" : 46.5705912
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7223542401, 46.5759563647 ]
+			},
+			"properties" : {
+				"objectid" : 124,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/Hubert-Biermans (Place Biermans)",
+				"sequence_a" : 169,
+				"abri" : "OUI",
+				"latitude" : -72.72235424,
+				"longitude" : 46.57595636
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7245773081, 46.5745076975 ]
+			},
+			"properties" : {
+				"objectid" : 125,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/59e Rue",
+				"sequence_a" : 170,
+				"abri" : "",
+				"latitude" : -72.72457731,
+				"longitude" : 46.5745077
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7263408143, 46.573365674 ]
+			},
+			"properties" : {
+				"objectid" : 126,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/57e Rue (Séminaire Ste-Marie)",
+				"sequence_a" : 171,
+				"abri" : "OUI",
+				"latitude" : -72.72634081,
+				"longitude" : 46.57336567
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7283448647, 46.5720447543 ]
+			},
+			"properties" : {
+				"objectid" : 127,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/53e Rue",
+				"sequence_a" : 172,
+				"abri" : "",
+				"latitude" : -72.72834486,
+				"longitude" : 46.57204475
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7295618393, 46.5712562919 ]
+			},
+			"properties" : {
+				"objectid" : 128,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/51e Rue (SAAQ)",
+				"sequence_a" : 173,
+				"abri" : "",
+				"latitude" : -72.72956184,
+				"longitude" : 46.57125629
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.731187572, 46.5709319096 ]
+			},
+			"properties" : {
+				"objectid" : 129,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "49e Rue/Bonaventure",
+				"sequence_a" : 175,
+				"abri" : "",
+				"latitude" : -72.73118757,
+				"longitude" : 46.57093191
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.734471578, 46.5732883837 ]
+			},
+			"properties" : {
+				"objectid" : 130,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "49e Rue/A.-Tessier (des Chutes)",
+				"sequence_a" : 176,
+				"abri" : "OUI",
+				"latitude" : -72.73447158,
+				"longitude" : 46.57328838
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7370019411, 46.5723451922 ]
+			},
+			"properties" : {
+				"objectid" : 131,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Ste-Marthe/45e Rue",
+				"sequence_a" : 177,
+				"abri" : "",
+				"latitude" : -72.73700194,
+				"longitude" : 46.57234519
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7386937427, 46.5712461755 ]
+			},
+			"properties" : {
+				"objectid" : 132,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "43e Rue/Ste-Marthe",
+				"sequence_a" : 178,
+				"abri" : "",
+				"latitude" : -72.73869374,
+				"longitude" : 46.57124618
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7347168339, 46.5680375173 ]
+			},
+			"properties" : {
+				"objectid" : 134,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "43e Rue/Hêtres",
+				"sequence_a" : 180,
+				"abri" : null,
+				"latitude" : -72.73471683,
+				"longitude" : 46.56803752
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6871682476, 46.6180657671 ]
+			},
+			"properties" : {
+				"objectid" : 101,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/2e Rue",
+				"sequence_a" : 142,
+				"abri" : "OUI",
+				"latitude" : -72.68716825,
+				"longitude" : 46.61806577
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7346212332, 46.5641915903 ]
+			},
+			"properties" : {
+				"objectid" : 135,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/38e Rue",
+				"sequence_a" : 183,
+				"abri" : "",
+				"latitude" : -72.73462123,
+				"longitude" : 46.56419159
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7383339119, 46.5628957225 ]
+			},
+			"properties" : {
+				"objectid" : 136,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":00-:05",
+				"hvoiture_b" : ":25-:35",
+				"hvoiture_n" : ":05",
+				"hvoitur_nw" : ":30",
+				"adresse" : "Plaza de la Mauricie",
+				"sequence_a" : 1,
+				"abri" : "",
+				"latitude" : -72.73833391,
+				"longitude" : 46.56289572
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7402457056, 46.5604780231 ]
+			},
+			"properties" : {
+				"objectid" : 137,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/Notre-Dame",
+				"sequence_a" : 184,
+				"abri" : "",
+				"latitude" : -72.74024571,
+				"longitude" : 46.56047802
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7424651564, 46.559018014 ]
+			},
+			"properties" : {
+				"objectid" : 138,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/Frigon",
+				"sequence_a" : 185,
+				"abri" : "",
+				"latitude" : -72.74246516,
+				"longitude" : 46.55901801
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447737773, 46.5574667667 ]
+			},
+			"properties" : {
+				"objectid" : 140,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/St-Joseph (Parc Antoine-Saint-Onge)",
+				"sequence_a" : 187,
+				"abri" : "OUI",
+				"latitude" : -72.74538723,
+				"longitude" : 46.55706249
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7461893491, 46.5538123971 ]
+			},
+			"properties" : {
+				"objectid" : 142,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":18",
+				"hvoitur_nw" : ":43",
+				"adresse" : "Trudel/Georges",
+				"sequence_a" : 17,
+				"abri" : "",
+				"latitude" : -72.74618935,
+				"longitude" : 46.5538124
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7459622292, 46.5519284929 ]
+			},
+			"properties" : {
+				"objectid" : 143,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain/St-Onge",
+				"sequence_a" : 191,
+				"abri" : "",
+				"latitude" : -72.74596223,
+				"longitude" : 46.55192849
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7477725202, 46.5502279708 ]
+			},
+			"properties" : {
+				"objectid" : 144,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain/Summit",
+				"sequence_a" : 192,
+				"abri" : "",
+				"latitude" : -72.74777252,
+				"longitude" : 46.55022797
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.755626387, 46.5355821156 ]
+			},
+			"properties" : {
+				"objectid" : 153,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Melville (Cité de l'Énergie)",
+				"sequence_a" : 201,
+				"abri" : "",
+				"latitude" : -72.75562639,
+				"longitude" : 46.53558212
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7565472141, 46.5203030834 ]
+			},
+			"properties" : {
+				"objectid" : 154,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "109e Rue/Antoinette-J.-Goulet (Val-Mauricie)",
+				"sequence_a" : 248,
+				"abri" : "",
+				"latitude" : -72.75654721,
+				"longitude" : 46.52030308
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7554453027, 46.518915038 ]
+			},
+			"properties" : {
+				"objectid" : 155,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "114e Avenue",
+				"sequence_a" : 250,
+				"abri" : "",
+				"latitude" : -72.7554453,
+				"longitude" : 46.51891504
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7544200102, 46.5182056809 ]
+			},
+			"properties" : {
+				"objectid" : 156,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "114e Avenue/117e Rue (Aréna Gilles-Bourassa)",
+				"sequence_a" : 251,
+				"abri" : "",
+				"latitude" : -72.75442001,
+				"longitude" : 46.51820568
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7467859755, 46.521379191 ]
+			},
+			"properties" : {
+				"objectid" : 157,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/105e Avenue",
+				"sequence_a" : 209,
+				"abri" : "",
+				"latitude" : -72.74678598,
+				"longitude" : 46.52137919
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7454906053, 46.5222619184 ]
+			},
+			"properties" : {
+				"objectid" : 158,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/103e Avenue",
+				"sequence_a" : 210,
+				"abri" : "",
+				"latitude" : -72.74549061,
+				"longitude" : 46.52226192
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7439022695, 46.5233322316 ]
+			},
+			"properties" : {
+				"objectid" : 159,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/101e Avenue",
+				"sequence_a" : 211,
+				"abri" : "",
+				"latitude" : -72.74390227,
+				"longitude" : 46.52333223
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7442409578, 46.526012867 ]
+			},
+			"properties" : {
+				"objectid" : 160,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hôpital (entrée principale)",
+				"sequence_a" : 213,
+				"abri" : " ",
+				"latitude" : -72.74424096,
+				"longitude" : 46.52601287
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7409822361, 46.5252928212 ]
+			},
+			"properties" : {
+				"objectid" : 161,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "119e Rue/Capitaine-Veilleux",
+				"sequence_a" : 214,
+				"abri" : "",
+				"latitude" : -72.74098224,
+				"longitude" : 46.52529282
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7398676603, 46.5246117082 ]
+			},
+			"properties" : {
+				"objectid" : 162,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Capitaine-Veilleux/Huard",
+				"sequence_a" : 215,
+				"abri" : "",
+				"latitude" : -72.73986766,
+				"longitude" : 46.52461171
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7377284481, 46.5230939172 ]
+			},
+			"properties" : {
+				"objectid" : 163,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Capitaine-Veilleux/125e Rue",
+				"sequence_a" : 216,
+				"abri" : "",
+				"latitude" : -72.73772845,
+				"longitude" : 46.52309392
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7386359884, 46.5219376215 ]
+			},
+			"properties" : {
+				"objectid" : 164,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : ":05",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/Loranger",
+				"sequence_a" : 54,
+				"abri" : "",
+				"latitude" : -72.73863599,
+				"longitude" : 46.52193762
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7397076212, 46.5213755183 ]
+			},
+			"properties" : {
+				"objectid" : 165,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/101e Avenue",
+				"sequence_a" : 218,
+				"abri" : "",
+				"latitude" : -72.73970762,
+				"longitude" : 46.52137552
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7417653602, 46.5199590184 ]
+			},
+			"properties" : {
+				"objectid" : 166,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/103e Avenue",
+				"sequence_a" : 219,
+				"abri" : "OUI",
+				"latitude" : -72.74176536,
+				"longitude" : 46.51995902
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7429836986, 46.5191324762 ]
+			},
+			"properties" : {
+				"objectid" : 167,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "125e Rue/105e Avenue",
+				"sequence_a" : 220,
+				"abri" : "",
+				"latitude" : -72.7429837,
+				"longitude" : 46.51913248
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7421202629, 46.5176134227 ]
+			},
+			"properties" : {
+				"objectid" : 168,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/127e Rue",
+				"sequence_a" : 221,
+				"abri" : "",
+				"latitude" : -72.74212026,
+				"longitude" : 46.51761342
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7460648761, 46.544792725 ]
+			},
+			"properties" : {
+				"objectid" : 146,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "Oui",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":49",
+				"adresse" : "Cèdres/10e Rue de la Pointe",
+				"sequence_a" : 194,
+				"abri" : "",
+				"latitude" : -72.74606488,
+				"longitude" : 46.54479273
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7482635608, 46.5552384894 ]
+			},
+			"properties" : {
+				"objectid" : 141,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":18",
+				"hvoitur_nw" : ":43",
+				"adresse" : "Trudel/Royal",
+				"sequence_a" : 16,
+				"abri" : "",
+				"latitude" : -72.74744177,
+				"longitude" : 46.55464236
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7499415787, 46.5398526983 ]
+			},
+			"properties" : {
+				"objectid" : 152,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "4e Rue de la Pointe/Tamarac",
+				"sequence_a" : 200,
+				"abri" : "",
+				"latitude" : -72.74994158,
+				"longitude" : 46.5398527
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7464910624, 46.5436393009 ]
+			},
+			"properties" : {
+				"objectid" : 147,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "Oui",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":49",
+				"adresse" : "Cèdres/9e Rue de la Pointe",
+				"sequence_a" : 195,
+				"abri" : "",
+				"latitude" : -72.74649106,
+				"longitude" : 46.5436393
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7406041291, 46.5165569052 ]
+			},
+			"properties" : {
+				"objectid" : 169,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/129e Rue",
+				"sequence_a" : 222,
+				"abri" : "",
+				"latitude" : -72.74060413,
+				"longitude" : 46.51655691
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7376099834, 46.51447109 ]
+			},
+			"properties" : {
+				"objectid" : 170,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/132e Rue",
+				"sequence_a" : 223,
+				"abri" : "",
+				"latitude" : -72.73760998,
+				"longitude" : 46.51447109
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7364101683, 46.5136456936 ]
+			},
+			"properties" : {
+				"objectid" : 171,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/134e Rue",
+				"sequence_a" : 224,
+				"abri" : "",
+				"latitude" : -72.73641017,
+				"longitude" : 46.51364569
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7342211607, 46.5121606368 ]
+			},
+			"properties" : {
+				"objectid" : 172,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/136e Rue",
+				"sequence_a" : 225,
+				"abri" : "",
+				"latitude" : -72.73422116,
+				"longitude" : 46.51216064
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7330151604, 46.5108447162 ]
+			},
+			"properties" : {
+				"objectid" : 173,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/138e Rue",
+				"sequence_a" : 226,
+				"abri" : "",
+				"latitude" : -72.73301516,
+				"longitude" : 46.51084472
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7325724331, 46.5095530291 ]
+			},
+			"properties" : {
+				"objectid" : 174,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":20",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/Philibert-Dumas",
+				"sequence_a" : 227,
+				"abri" : "",
+				"latitude" : -72.73257243,
+				"longitude" : 46.50955303
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7320546301, 46.508047349 ]
+			},
+			"properties" : {
+				"objectid" : 175,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e avenue/Jos-Denoncourt",
+				"sequence_a" : 228,
+				"abri" : "",
+				"latitude" : -72.73205463,
+				"longitude" : 46.50804735
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7315226764, 46.5064745037 ]
+			},
+			"properties" : {
+				"objectid" : 176,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/Shawinigan-Sud",
+				"sequence_a" : 229,
+				"abri" : "",
+				"latitude" : -72.73152268,
+				"longitude" : 46.5064745
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7135255927, 46.4953253227 ]
+			},
+			"properties" : {
+				"objectid" : 186,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Centre National de Vérification et de Recouvrement",
+				"sequence_a" : 32,
+				"abri" : "",
+				"latitude" : -72.71352559,
+				"longitude" : 46.49532532
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7503484395, 46.5207369008 ]
+			},
+			"properties" : {
+				"objectid" : 188,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "117e Rue/105e Avenue",
+				"sequence_a" : 253,
+				"abri" : "",
+				"latitude" : -72.75034844,
+				"longitude" : 46.5207369
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7541081693, 46.5181814211 ]
+			},
+			"properties" : {
+				"objectid" : 190,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "117e Rue/114e Avenue (Aréna Gilles-Bourassa)",
+				"sequence_a" : 254,
+				"abri" : "",
+				"latitude" : -72.75410817,
+				"longitude" : 46.51818142
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7563270824, 46.5213560277 ]
+			},
+			"properties" : {
+				"objectid" : 192,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "109e Rue/Shawinigan-Sud",
+				"sequence_a" : 258,
+				"abri" : "",
+				"latitude" : -72.75632708,
+				"longitude" : 46.52135603
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7374868164, 46.5567026027 ]
+			},
+			"properties" : {
+				"objectid" : 195,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Marc/Gigaire",
+				"sequence_a" : 245,
+				"abri" : "",
+				"latitude" : -72.73748682,
+				"longitude" : 46.5567026
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7375686578, 46.5591496231 ]
+			},
+			"properties" : {
+				"objectid" : 196,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Sacrement/Aluminium",
+				"sequence_a" : 246,
+				"abri" : "",
+				"latitude" : -72.73756866,
+				"longitude" : 46.55914962
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7388709206, 46.5601484745 ]
+			},
+			"properties" : {
+				"objectid" : 197,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Sacrement/Royal",
+				"sequence_a" : 247,
+				"abri" : "",
+				"latitude" : -72.73887092,
+				"longitude" : 46.56014847
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7389290247, 46.5599390368 ]
+			},
+			"properties" : {
+				"objectid" : 198,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Sacrement/Royal",
+				"sequence_a" : 240,
+				"abri" : "",
+				"latitude" : -72.73892902,
+				"longitude" : 46.55993904
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7379788064, 46.5592468603 ]
+			},
+			"properties" : {
+				"objectid" : 199,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Sacrement/Aluminium",
+				"sequence_a" : 241,
+				"abri" : "",
+				"latitude" : -72.73797881,
+				"longitude" : 46.55924686
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7383637492, 46.557154036 ]
+			},
+			"properties" : {
+				"objectid" : 200,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain/Gigaire",
+				"sequence_a" : 242,
+				"abri" : "",
+				"latitude" : -72.73836375,
+				"longitude" : 46.55715404
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6958909732, 46.6134599481 ]
+			},
+			"properties" : {
+				"objectid" : 201,
+				"direction" : "Shawinigan-Sud",
+				"navette" : null,
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "8e Rue/7e Avenue",
+				"sequence_a" : 150,
+				"abri" : "",
+				"latitude" : -72.69589097,
+				"longitude" : 46.61345995
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7347089852, 46.568311937 ]
+			},
+			"properties" : {
+				"objectid" : 202,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "43e Rue/Hêtres",
+				"sequence_a" : 85,
+				"abri" : "",
+				"latitude" : -72.73470899,
+				"longitude" : 46.56831194
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7356978131, 46.5689938262 ]
+			},
+			"properties" : {
+				"objectid" : 203,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "43e Rue/Bonaventure",
+				"sequence_a" : 86,
+				"abri" : "",
+				"latitude" : -72.73569781,
+				"longitude" : 46.56899383
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7385413196, 46.5710986942 ]
+			},
+			"properties" : {
+				"objectid" : 204,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "43e Rue/Ste-Marthe",
+				"sequence_a" : 87,
+				"abri" : "",
+				"latitude" : -72.73854132,
+				"longitude" : 46.57109869
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.737078683, 46.5721095709 ]
+			},
+			"properties" : {
+				"objectid" : 205,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Ste-Marthe/45e Rue",
+				"sequence_a" : 88,
+				"abri" : "",
+				"latitude" : -72.73707868,
+				"longitude" : 46.57210957
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7351006677, 46.5733918633 ]
+			},
+			"properties" : {
+				"objectid" : 206,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Ste-Marthe/49e Rue",
+				"sequence_a" : 89,
+				"abri" : "",
+				"latitude" : -72.73510067,
+				"longitude" : 46.57339186
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7342905716, 46.5729531119 ]
+			},
+			"properties" : {
+				"objectid" : 207,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "49e Rue/A.-Tessier (des Chutes)",
+				"sequence_a" : 90,
+				"abri" : "",
+				"latitude" : -72.73429057,
+				"longitude" : 46.57295311
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7309383432, 46.5705891941 ]
+			},
+			"properties" : {
+				"objectid" : 208,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/49e Rue (SAAQ)",
+				"sequence_a" : 91,
+				"abri" : "",
+				"latitude" : -72.73093834,
+				"longitude" : 46.57058919
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7421619873, 46.5644400584 ]
+			},
+			"properties" : {
+				"objectid" : 209,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":07",
+				"hvoitur_nw" : ":32",
+				"adresse" : "Bellevue/La Salle",
+				"sequence_a" : 3,
+				"abri" : " ",
+				"latitude" : -72.74216199,
+				"longitude" : 46.56444006
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.743818558, 46.5656575 ]
+			},
+			"properties" : {
+				"objectid" : 210,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":07",
+				"hvoitur_nw" : ":32",
+				"adresse" : "Bellevue/Beaudry-Leman",
+				"sequence_a" : 4,
+				"abri" : "",
+				"latitude" : -72.74381856,
+				"longitude" : 46.5656575
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7492001385, 46.5696332793 ]
+			},
+			"properties" : {
+				"objectid" : 211,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":07",
+				"hvoitur_nw" : ":32",
+				"adresse" : "Bellevue/Masson",
+				"sequence_a" : 5,
+				"abri" : "",
+				"latitude" : -72.74920014,
+				"longitude" : 46.56963328
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7505397326, 46.5669118367 ]
+			},
+			"properties" : {
+				"objectid" : 212,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":08",
+				"hvoitur_nw" : ":33",
+				"adresse" : "Lavergne/Collège",
+				"sequence_a" : 6,
+				"abri" : "",
+				"latitude" : -72.75053973,
+				"longitude" : 46.56691184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7522615509, 46.5635303156 ]
+			},
+			"properties" : {
+				"objectid" : 213,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":10",
+				"hvoitur_nw" : ":35",
+				"adresse" : "CEGEP",
+				"sequence_a" : 7,
+				"abri" : "",
+				"latitude" : -72.75226155,
+				"longitude" : 46.56353032
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7503944464, 46.5667478269 ]
+			},
+			"properties" : {
+				"objectid" : 214,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":12",
+				"hvoitur_nw" : ":37",
+				"adresse" : "Collège/Lavergne",
+				"sequence_a" : 8,
+				"abri" : "",
+				"latitude" : -72.75039445,
+				"longitude" : 46.56674783
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7467637368, 46.5641220352 ]
+			},
+			"properties" : {
+				"objectid" : 215,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":12",
+				"hvoitur_nw" : ":37",
+				"adresse" : "Lavergne/Beaudry-Leman",
+				"sequence_a" : 9,
+				"abri" : "",
+				"latitude" : -72.74676374,
+				"longitude" : 46.56412204
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7452137417, 46.56297652 ]
+			},
+			"properties" : {
+				"objectid" : 216,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":12",
+				"hvoitur_nw" : ":37",
+				"adresse" : "Lavergne/La-Salle",
+				"sequence_a" : 10,
+				"abri" : "",
+				"latitude" : -72.74521374,
+				"longitude" : 46.56297652
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7437220548, 46.5618769307 ]
+			},
+			"properties" : {
+				"objectid" : 217,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":13",
+				"hvoitur_nw" : ":38",
+				"adresse" : "Lavergne/Hêtres",
+				"sequence_a" : 11,
+				"abri" : "",
+				"latitude" : -72.74372205,
+				"longitude" : 46.56187693
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7450729484, 46.5607902311 ]
+			},
+			"properties" : {
+				"objectid" : 218,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":13",
+				"hvoitur_nw" : ":38",
+				"adresse" : "Hêtres/St-Jacques",
+				"sequence_a" : 12,
+				"abri" : "",
+				"latitude" : -72.74507295,
+				"longitude" : 46.56079023
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7474358798, 46.5592425269 ]
+			},
+			"properties" : {
+				"objectid" : 219,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":13",
+				"hvoitur_nw" : ":38",
+				"adresse" : "Centre des Arts",
+				"sequence_a" : 13,
+				"abri" : "",
+				"latitude" : -72.74743588,
+				"longitude" : 46.55924253
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7499902885, 46.5583892508 ]
+			},
+			"properties" : {
+				"objectid" : 220,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":15",
+				"hvoitur_nw" : ":40",
+				"adresse" : "Hêtres (Carré Trudel)",
+				"sequence_a" : 14,
+				"abri" : "",
+				"latitude" : -72.74999029,
+				"longitude" : 46.55838925
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7480546057, 46.5525056873 ]
+			},
+			"properties" : {
+				"objectid" : 222,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":20",
+				"hvoitur_nw" : ":45",
+				"adresse" : "Ste-Hélène (CLSC)",
+				"sequence_a" : 18,
+				"abri" : "",
+				"latitude" : -72.74774636,
+				"longitude" : 46.55233622
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7498576969, 46.5502453933 ]
+			},
+			"properties" : {
+				"objectid" : 225,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":22",
+				"hvoitur_nw" : ":47",
+				"adresse" : "Summit/Frontenac",
+				"sequence_a" : 20,
+				"abri" : "",
+				"latitude" : -72.7498577,
+				"longitude" : 46.55024539
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7479430741, 46.550054707 ]
+			},
+			"properties" : {
+				"objectid" : 226,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":22",
+				"hvoitur_nw" : ":47",
+				"adresse" : "Summit/Champlain",
+				"sequence_a" : 21,
+				"abri" : "",
+				"latitude" : -72.74794307,
+				"longitude" : 46.55005471
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7505304516, 46.5206003714 ]
+			},
+			"properties" : {
+				"objectid" : 229,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "117e Rue/105e Avenue",
+				"sequence_a" : 252,
+				"abri" : "",
+				"latitude" : -72.75053045,
+				"longitude" : 46.52060037
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7135698163, 46.4938246551 ]
+			},
+			"properties" : {
+				"objectid" : 231,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":30",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Centre National de Vérification et de Recouvrement (garderie La Bottine Souriante)",
+				"sequence_a" : 239,
+				"abri" : "",
+				"latitude" : -72.71356982,
+				"longitude" : 46.49382466
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7424451589, 46.554512688 ]
+			},
+			"properties" : {
+				"objectid" : 232,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Paul/Champlain (Marché public)",
+				"sequence_a" : 77,
+				"abri" : "",
+				"latitude" : -72.74244516,
+				"longitude" : 46.55451269
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7430318787, 46.5549581921 ]
+			},
+			"properties" : {
+				"objectid" : 233,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Paul/Georges",
+				"sequence_a" : 78,
+				"abri" : "",
+				"latitude" : -72.74303188,
+				"longitude" : 46.55495819
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7454157293, 46.5567132527 ]
+			},
+			"properties" : {
+				"objectid" : 234,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Paul/Royal (Carré Trudel)",
+				"sequence_a" : 79,
+				"abri" : "",
+				"latitude" : -72.74541573,
+				"longitude" : 46.55671325
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7444633259, 46.5574031946 ]
+			},
+			"properties" : {
+				"objectid" : 235,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/St-Joseph",
+				"sequence_a" : 80,
+				"abri" : "",
+				"latitude" : -72.74446333,
+				"longitude" : 46.55740319
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7443385292, 46.5556926056 ]
+			},
+			"properties" : {
+				"objectid" : 236,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Paul/Cloutier",
+				"sequence_a" : 188,
+				"abri" : "",
+				"latitude" : -72.74433853,
+				"longitude" : 46.55569261
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7425231676, 46.558766278 ]
+			},
+			"properties" : {
+				"objectid" : 238,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Royal/Frigon",
+				"sequence_a" : 81,
+				"abri" : "",
+				"latitude" : -72.74405459,
+				"longitude" : 46.5577787
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7332393903, 46.5658753889 ]
+			},
+			"properties" : {
+				"objectid" : 241,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "41e Rue (Halles de la Mauricie)",
+				"sequence_a" : 83,
+				"abri" : "",
+				"latitude" : -72.73323939,
+				"longitude" : 46.56587539
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7333393915, 46.5657555192 ]
+			},
+			"properties" : {
+				"objectid" : 242,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "41e Rue (Halles de la Mauricie)",
+				"sequence_a" : 182,
+				"abri" : "OUI",
+				"latitude" : -72.73333939,
+				"longitude" : 46.56575552
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7350249768, 46.5670136519 ]
+			},
+			"properties" : {
+				"objectid" : 243,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "41e Rue/Hêtres",
+				"sequence_a" : 181,
+				"abri" : "",
+				"latitude" : -72.73502498,
+				"longitude" : 46.56701365
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7093325452, 46.5961815165 ]
+			},
+			"properties" : {
+				"objectid" : 244,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":45",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/98e Rue",
+				"sequence_a" : 106,
+				"abri" : "",
+				"latitude" : -72.70933255,
+				"longitude" : 46.59618152
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7176852366, 46.5816457763 ]
+			},
+			"properties" : {
+				"objectid" : 245,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/74e Rue",
+				"sequence_a" : 167,
+				"abri" : "",
+				"latitude" : -72.71768524,
+				"longitude" : 46.58164578
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7405850438, 46.560008898 ]
+			},
+			"properties" : {
+				"objectid" : 240,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":26",
+				"hvoitur_nw" : ":57",
+				"adresse" : "Royal/Notre-Dame",
+				"sequence_a" : 31,
+				"abri" : "",
+				"latitude" : -72.74058504,
+				"longitude" : 46.5600089
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.749014902, 46.5526737352 ]
+			},
+			"properties" : {
+				"objectid" : 223,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":20",
+				"hvoitur_nw" : ":45",
+				"adresse" : "Cloutier",
+				"sequence_a" : 19,
+				"abri" : "",
+				"latitude" : -72.7490149,
+				"longitude" : 46.55267374
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7192598326, 46.5793352929 ]
+			},
+			"properties" : {
+				"objectid" : 246,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hêtres/69e Rue",
+				"sequence_a" : 168,
+				"abri" : "OUI",
+				"latitude" : -72.71954928,
+				"longitude" : 46.57894838
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7389215872, 46.5568126179 ]
+			},
+			"properties" : {
+				"objectid" : 247,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain/Frigon",
+				"sequence_a" : 243,
+				"abri" : "",
+				"latitude" : -72.73892159,
+				"longitude" : 46.55681262
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7410471049, 46.5555698501 ]
+			},
+			"properties" : {
+				"objectid" : 248,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain/Lambert",
+				"sequence_a" : 244,
+				"abri" : "",
+				"latitude" : -72.7410471,
+				"longitude" : 46.55556985
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.743165975, 46.5543217824 ]
+			},
+			"properties" : {
+				"objectid" : 249,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain (Marché public)",
+				"sequence_a" : 189,
+				"abri" : "OUI",
+				"latitude" : -72.74316598,
+				"longitude" : 46.55432178
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447385167, 46.5531081222 ]
+			},
+			"properties" : {
+				"objectid" : 250,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":05",
+				"hvoiture_b" : ":30",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Champlain/Trudel",
+				"sequence_a" : 190,
+				"abri" : "OUI",
+				"latitude" : -72.74473852,
+				"longitude" : 46.55310812
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7580712057, 46.5267381867 ]
+			},
+			"properties" : {
+				"objectid" : 256,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Marie-Louise (Sortie boul. de Shawinigan-Sud)",
+				"sequence_a" : 202,
+				"abri" : "",
+				"latitude" : -72.75807121,
+				"longitude" : 46.52673819
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7588219826, 46.5259213896 ]
+			},
+			"properties" : {
+				"objectid" : 257,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Marie-Louise",
+				"sequence_a" : 203,
+				"abri" : "",
+				"latitude" : -72.75882198,
+				"longitude" : 46.52592139
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7534941674, 46.5256453118 ]
+			},
+			"properties" : {
+				"objectid" : 258,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/109e Rue",
+				"sequence_a" : 204,
+				"abri" : "",
+				"latitude" : -72.75349417,
+				"longitude" : 46.52564531
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7527452793, 46.5251258918 ]
+			},
+			"properties" : {
+				"objectid" : 259,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/110e Rue",
+				"sequence_a" : 205,
+				"abri" : "",
+				"latitude" : -72.75274528,
+				"longitude" : 46.52512589
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7506655724, 46.523651368 ]
+			},
+			"properties" : {
+				"objectid" : 260,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/113e Rue",
+				"sequence_a" : 206,
+				"abri" : "",
+				"latitude" : -72.75066557,
+				"longitude" : 46.52365137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7493998684, 46.5227716876 ]
+			},
+			"properties" : {
+				"objectid" : 261,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/115e Rue",
+				"sequence_a" : 207,
+				"abri" : "",
+				"latitude" : -72.74939987,
+				"longitude" : 46.52277169
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7481052974, 46.5218314434 ]
+			},
+			"properties" : {
+				"objectid" : 262,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":15",
+				"hvoiture_b" : ":40",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "105e Avenue/118e Rue",
+				"sequence_a" : 208,
+				"abri" : "",
+				"latitude" : -72.7481053,
+				"longitude" : 46.52183144
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7552554306, 46.518841495 ]
+			},
+			"properties" : {
+				"objectid" : 263,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "114e Avenue",
+				"sequence_a" : 255,
+				"abri" : "",
+				"latitude" : -72.75525543,
+				"longitude" : 46.5188415
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7564303132, 46.5207223231 ]
+			},
+			"properties" : {
+				"objectid" : 265,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "109e Rue/Robert-Raymond (Val-Mauricie)",
+				"sequence_a" : 257,
+				"abri" : "",
+				"latitude" : -72.75643031,
+				"longitude" : 46.52072232
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6982832078, 46.6159083282 ]
+			},
+			"properties" : {
+				"objectid" : 266,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "11e Avenue/8e Rue (GMF Grand-Mère)",
+				"sequence_a" : 148,
+				"abri" : "",
+				"latitude" : -72.69828321,
+				"longitude" : 46.61590833
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6971003, 46.6167046234 ]
+			},
+			"properties" : {
+				"objectid" : 267,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":40",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "11e Avenue/7e Rue (Parc de la Rivière-Grand-Mère)",
+				"sequence_a" : 149,
+				"abri" : "",
+				"latitude" : -72.6971003,
+				"longitude" : 46.61670462
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7443720815, 46.5249821927 ]
+			},
+			"properties" : {
+				"objectid" : 269,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":45",
+				"hvoiture_b" : ":10",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Hôpital (urgence)",
+				"sequence_a" : 58,
+				"abri" : "OUI",
+				"latitude" : -72.74437208,
+				"longitude" : 46.52498219
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6644570515, 46.6193107715 ]
+			},
+			"properties" : {
+				"objectid" : 270,
+				"direction" : "Saint-Georges",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":55",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "St-Georges/Dubois",
+				"sequence_a" : 128,
+				"abri" : null,
+				"latitude" : -72.66445705,
+				"longitude" : 46.61931077
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7409013758, 46.561618499 ]
+			},
+			"properties" : {
+				"objectid" : 271,
+				"direction" : null,
+				"navette" : "Oui",
+				"hvoiture_a" : null,
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":05",
+				"hvoitur_nw" : ":30",
+				"adresse" : "Saint-Sacrement",
+				"sequence_a" : 2,
+				"abri" : null,
+				"latitude" : null,
+				"longitude" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7496641068, 46.556299433 ]
+			},
+			"properties" : {
+				"objectid" : 221,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":17",
+				"hvoitur_nw" : ":42",
+				"adresse" : "Trudel (Carré Trudel)",
+				"sequence_a" : 15,
+				"abri" : "OUI",
+				"latitude" : -72.74993902,
+				"longitude" : 46.55645802
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7360769849, 46.5690492691 ]
+			},
+			"properties" : {
+				"objectid" : 133,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "43e Rue/Bonaventure",
+				"sequence_a" : 179,
+				"abri" : "OUI",
+				"latitude" : -72.73607698,
+				"longitude" : 46.56904927
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7468798188, 46.5474747756 ]
+			},
+			"properties" : {
+				"objectid" : 145,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "Oui",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":49",
+				"adresse" : "Cèdres/Station (Amphithéâtre municipal)",
+				"sequence_a" : 193,
+				"abri" : "",
+				"latitude" : -72.74674534,
+				"longitude" : 46.54737931
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7419856336, 46.5590140007 ]
+			},
+			"properties" : {
+				"objectid" : 255,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":25",
+				"hvoitur_nw" : ":56",
+				"adresse" : "Frigon/Royal",
+				"sequence_a" : 30,
+				"abri" : "",
+				"latitude" : -72.74198563,
+				"longitude" : 46.559014
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7407571913, 46.558121513 ]
+			},
+			"properties" : {
+				"objectid" : 254,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":25",
+				"hvoitur_nw" : ":56",
+				"adresse" : "Frigon/Papineau",
+				"sequence_a" : 29,
+				"abri" : "",
+				"latitude" : -72.74075719,
+				"longitude" : 46.55812151
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7420174208, 46.5538390775 ]
+			},
+			"properties" : {
+				"objectid" : 48,
+				"direction" : null,
+				"navette" : "Oui",
+				"hvoiture_a" : null,
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : ":24",
+				"hvoitur_nw" : ":54",
+				"adresse" : "St-Marc/St-Paul",
+				"sequence_a" : 25,
+				"abri" : "",
+				"latitude" : -72.74201742,
+				"longitude" : 46.55383908
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7394954187, 46.5571922813 ]
+			},
+			"properties" : {
+				"objectid" : 253,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":25",
+				"hvoitur_nw" : ":56",
+				"adresse" : "Frigon/Georges",
+				"sequence_a" : 28,
+				"abri" : "",
+				"latitude" : -72.73949542,
+				"longitude" : 46.55719228
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7463608491, 46.5422641922 ]
+			},
+			"properties" : {
+				"objectid" : 148,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":49",
+				"adresse" : "Cèdres/7e Rue de la Pointe",
+				"sequence_a" : 196,
+				"abri" : "",
+				"latitude" : -72.74636085,
+				"longitude" : 46.54226419
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7436951249, 46.5526832239 ]
+			},
+			"properties" : {
+				"objectid" : 47,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : ":24",
+				"hvoitur_nw" : ":54",
+				"adresse" : "St-Marc/Trudel",
+				"sequence_a" : 24,
+				"abri" : "",
+				"latitude" : -72.74369512,
+				"longitude" : 46.55268322
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7449105853, 46.551561497 ]
+			},
+			"properties" : {
+				"objectid" : 46,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":55",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : ":24",
+				"hvoitur_nw" : ":53",
+				"adresse" : "St-Marc/Vincent",
+				"sequence_a" : 23,
+				"abri" : "",
+				"latitude" : -72.74491059,
+				"longitude" : 46.5515615
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6907379461, 46.615659477 ]
+			},
+			"properties" : {
+				"objectid" : 104,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/5e Rue",
+				"sequence_a" : 145,
+				"abri" : "",
+				"latitude" : -72.69073795,
+				"longitude" : 46.61565948
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7298025939, 46.5042313552 ]
+			},
+			"properties" : {
+				"objectid" : 178,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4150",
+				"sequence_a" : 231,
+				"abri" : "",
+				"latitude" : -72.72980259,
+				"longitude" : 46.50423136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7305563971, 46.5047509454 ]
+			},
+			"properties" : {
+				"objectid" : 177,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Gérard-Monet",
+				"sequence_a" : 230,
+				"abri" : "",
+				"latitude" : -72.7305564,
+				"longitude" : 46.50475095
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7170818892, 46.4955252537 ]
+			},
+			"properties" : {
+				"objectid" : 185,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud (devant Société Laurentides)",
+				"sequence_a" : 238,
+				"abri" : "",
+				"latitude" : -72.71708189,
+				"longitude" : 46.49552525
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.72794682, 46.5029604127 ]
+			},
+			"properties" : {
+				"objectid" : 179,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Arthur-Déry",
+				"sequence_a" : 232,
+				"abri" : "",
+				"latitude" : -72.72794682,
+				"longitude" : 46.50296041
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7481975046, 46.5399486861 ]
+			},
+			"properties" : {
+				"objectid" : 151,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "4e Rue de la Pointe/Mercier",
+				"sequence_a" : 199,
+				"abri" : "OUI",
+				"latitude" : -72.7481975,
+				"longitude" : 46.53994869
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6895444592, 46.6164532298 ]
+			},
+			"properties" : {
+				"objectid" : 103,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/4e Rue",
+				"sequence_a" : 144,
+				"abri" : "",
+				"latitude" : -72.68954446,
+				"longitude" : 46.61645323
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7238022353, 46.5001366578 ]
+			},
+			"properties" : {
+				"objectid" : 181,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Parc-Industriel",
+				"sequence_a" : 234,
+				"abri" : "",
+				"latitude" : -72.72380224,
+				"longitude" : 46.50013666
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7254766624, 46.5012755986 ]
+			},
+			"properties" : {
+				"objectid" : 180,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Saint-Michel",
+				"sequence_a" : 233,
+				"abri" : "",
+				"latitude" : -72.72547666,
+				"longitude" : 46.5012756
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.721481219, 46.4985394265 ]
+			},
+			"properties" : {
+				"objectid" : 182,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud/Valentine Pintal",
+				"sequence_a" : 235,
+				"abri" : "",
+				"latitude" : -72.72148122,
+				"longitude" : 46.49853943
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7461773291, 46.5400420436 ]
+			},
+			"properties" : {
+				"objectid" : 150,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "4e Rue de la Pointe/Cèdres",
+				"sequence_a" : 198,
+				"abri" : "",
+				"latitude" : -72.74617733,
+				"longitude" : 46.54004204
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.746214373, 46.5408916983 ]
+			},
+			"properties" : {
+				"objectid" : 149,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":10",
+				"hvoiture_b" : ":35",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Cèdres/5e Rue de la Pointe (Hôtel-de-Ville)",
+				"sequence_a" : 197,
+				"abri" : "",
+				"latitude" : -72.74621437,
+				"longitude" : 46.5408917
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7182404223, 46.4963492216 ]
+			},
+			"properties" : {
+				"objectid" : 184,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4605",
+				"sequence_a" : 237,
+				"abri" : "",
+				"latitude" : -72.71824042,
+				"longitude" : 46.49634922
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7199959272, 46.4975404308 ]
+			},
+			"properties" : {
+				"objectid" : 183,
+				"direction" : "Shawinigan-Sud",
+				"navette" : " ",
+				"hvoiture_a" : ":25",
+				"hvoiture_b" : ":50",
+				"hvoiture_n" : "",
+				"hvoitur_nw" : " ",
+				"adresse" : "Shawinigan-Sud, #4600",
+				"sequence_a" : 236,
+				"abri" : "",
+				"latitude" : -72.71999593,
+				"longitude" : 46.49754043
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6881522532, 46.6173850811 ]
+			},
+			"properties" : {
+				"objectid" : 102,
+				"direction" : "Shawinigan-Sud",
+				"navette" : "",
+				"hvoiture_a" : ":35",
+				"hvoiture_b" : ":00",
+				"hvoiture_n" : " ",
+				"hvoitur_nw" : " ",
+				"adresse" : "Grand-Mère/3e Rue",
+				"sequence_a" : 143,
+				"abri" : "",
+				"latitude" : -72.68815225,
+				"longitude" : 46.61738508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7451072898, 46.5414024646 ]
+			},
+			"properties" : {
+				"objectid" : 274,
+				"direction" : null,
+				"navette" : null,
+				"hvoiture_a" : null,
+				"hvoiture_b" : null,
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : ":50",
+				"adresse" : "6e Rue de la Pointe (bibliothèque, palais de justice)",
+				"sequence_a" : null,
+				"abri" : null,
+				"latitude" : null,
+				"longitude" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.740305173, 46.5549297199 ]
+			},
+			"properties" : {
+				"objectid" : 49,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : ":20",
+				"hvoiture_n" : ":24",
+				"hvoitur_nw" : ":54",
+				"adresse" : "St-Marc/Lambert",
+				"sequence_a" : 26,
+				"abri" : "",
+				"latitude" : -72.74030517,
+				"longitude" : 46.55492972
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7388646234, 46.556708781 ]
+			},
+			"properties" : {
+				"objectid" : 252,
+				"direction" : " ",
+				"navette" : "Oui",
+				"hvoiture_a" : " ",
+				"hvoiture_b" : " ",
+				"hvoiture_n" : ":24",
+				"hvoitur_nw" : ":55",
+				"adresse" : "Frigon/Champlain",
+				"sequence_a" : 27,
+				"abri" : "",
+				"latitude" : -72.73886462,
+				"longitude" : 46.55670878
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.745787009, 46.5447739432 ]
+			},
+			"properties" : {
+				"objectid" : 43,
+				"direction" : "Saint-Georges",
+				"navette" : "Oui",
+				"hvoiture_a" : ":50",
+				"hvoiture_b" : ":15",
+				"hvoiture_n" : ":23**",
+				"hvoitur_nw" : " :51",
+				"adresse" : "Cèdres/10e Rue de la Pointe",
+				"sequence_a" : 75,
+				"abri" : "",
+				"latitude" : -72.74578701,
+				"longitude" : 46.54477394
+			}
+		}
+	]
+}

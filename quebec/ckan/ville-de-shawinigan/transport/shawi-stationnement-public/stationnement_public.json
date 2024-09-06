@@ -1,0 +1,1583 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "STATIONNEMENT_PUBLIC",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7330020816, 46.6826953689 ]
+			},
+			"properties" : {
+				"ID" : 4,
+				"No" : "S-80",
+				"nom" : "Parc Étienne-Bellemare",
+				"localisation" : "Face au 1021, chemin de Saint-Jean-des-Piles",
+				"nb_place_24_hrs" : 8,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7555488088, 46.5290002327 ]
+			},
+			"properties" : {
+				"ID" : 24,
+				"No" : "S-151",
+				"nom" : "Parc Jacob",
+				"localisation" : "Avenue d'Almaville",
+				"nb_place_24_hrs" : 12,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7506335354, 46.5287846063 ]
+			},
+			"properties" : {
+				"ID" : 23,
+				"No" : "S-152",
+				"nom" : "Station de pompage",
+				"localisation" : "105, rue Régis",
+				"nb_place_24_hrs" : 48,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7425719899, 46.5148442782 ]
+			},
+			"properties" : {
+				"ID" : 16,
+				"No" : "S-157",
+				"nom" : "108e avenue - Parc Boisvert",
+				"localisation" : null,
+				"nb_place_24_hrs" : 8,
+				"handicape" : "2",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7534995454, 46.5251482492 ]
+			},
+			"properties" : {
+				"ID" : 21,
+				"No" : "S-153",
+				"nom" : "109e Rue",
+				"localisation" : "Face au 540, 109e Rue",
+				"nb_place_24_hrs" : 0,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement autorisé / JOUR : voir signalisation sur place ",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7628644806, 46.5276538256 ]
+			},
+			"properties" : {
+				"ID" : 27,
+				"No" : "S-160",
+				"nom" : "Parc de l'île-Melville",
+				"localisation" : "Chemin des Chutes",
+				"nb_place_24_hrs" : 25,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7629621569, 46.5291017509 ]
+			},
+			"properties" : {
+				"ID" : 28,
+				"No" : "S-161",
+				"nom" : "Parc de l'île-Melville",
+				"localisation" : "Chemin des Chutes",
+				"nb_place_24_hrs" : 45,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7359951636, 46.6862652292 ]
+			},
+			"properties" : {
+				"ID" : 3,
+				"No" : "S-81",
+				"nom" : "Parc Étienne-Bellemare",
+				"localisation" : "Face au 1171, chemin Saint-Jean-des-Piles - Près de la rue de la Traverse",
+				"nb_place_24_hrs" : 10,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6790759183, 46.6192427538 ]
+			},
+			"properties" : {
+				"ID" : 486,
+				"No" : "S-114",
+				"nom" : "Marina en bas",
+				"localisation" : null,
+				"nb_place_24_hrs" : 58,
+				"handicape" : "2",
+				"vignette" : null,
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "2",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7388338529, 46.6925876693 ]
+			},
+			"properties" : {
+				"ID" : 1,
+				"No" : "S-83",
+				"nom" : "Rue Morin",
+				"localisation" : "Parc des Piles - au bout de la rue Méthot",
+				"nb_place_24_hrs" : 3,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7642717749, 46.5296862437 ]
+			},
+			"properties" : {
+				"ID" : 29,
+				"No" : "S-162",
+				"nom" : "Parc de l'île-Melville",
+				"localisation" : "Chemin des Chutes",
+				"nb_place_24_hrs" : 80,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6266293614, 46.6094423657 ]
+			},
+			"properties" : {
+				"ID" : 13,
+				"No" : "S-140",
+				"nom" : "Parc de la Plage-Idéale",
+				"localisation" : "5790,  avenue Tour-du-Lac",
+				"nb_place_24_hrs" : 45,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7630916188, 46.5258791778 ]
+			},
+			"properties" : {
+				"ID" : 26,
+				"No" : "S-159",
+				"nom" : "Parc de l'île-Melville",
+				"localisation" : "Chemin des Chutes",
+				"nb_place_24_hrs" : 95,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7492856282, 46.5237400244 ]
+			},
+			"properties" : {
+				"ID" : 20,
+				"No" : "S-154",
+				"nom" : "114e Rue",
+				"localisation" : "Face au 430, 114e Rue",
+				"nb_place_24_hrs" : 28,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7566958896, 46.5297875185 ]
+			},
+			"properties" : {
+				"ID" : 25,
+				"No" : "S-150",
+				"nom" : "825, avenue d'Almaville",
+				"localisation" : "entre le barrage et le boulevard du Capitaine-Veilleux",
+				"nb_place_24_hrs" : 24,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.753599003, 46.5412507956 ]
+			},
+			"properties" : {
+				"ID" : 31,
+				"No" : "S-15",
+				"nom" : "Hôtel Énergie Shawinigan, côté droit du bâtiment section avec barrière",
+				"localisation" : "dos au 902, promenade du Saint-Maurice",
+				"nb_place_24_hrs" : 45,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.75254691, 46.5414962497 ]
+			},
+			"properties" : {
+				"ID" : 33,
+				"No" : "S-10",
+				"nom" : "Avenue de la Station - voisin du 695",
+				"localisation" : "Édifice Rum&Code",
+				"nb_place_24_hrs" : 52,
+				"handicape" : "2",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement autorisé / JOUR : voir signalisation sur place ",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7432490559, 46.5375764594 ]
+			},
+			"properties" : {
+				"ID" : 35,
+				"No" : "S-16",
+				"nom" : "Parc St-Maurice - accès par avenue Broadway",
+				"localisation" : "Coin avenue Broadway et promenade du St-Maurice",
+				"nb_place_24_hrs" : 19,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7454526914, 46.5514790062 ]
+			},
+			"properties" : {
+				"ID" : 46,
+				"No" : "S-23",
+				"nom" : "Avenue St-Marc, face au 1652",
+				"localisation" : "entre le #1623 et #1669, avenue Saint-Marc",
+				"nb_place_24_hrs" : 11,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7450395744, 46.5519095156 ]
+			},
+			"properties" : {
+				"ID" : 45,
+				"No" : "S-24",
+				"nom" : "Avenue Saint-Marc, face à la rue Vincent",
+				"localisation" : "Avenue Saint-Marc entre 1693 et 1733",
+				"nb_place_24_hrs" : 16,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7426779647, 46.5540029489 ]
+			},
+			"properties" : {
+				"ID" : 44,
+				"No" : "S-25",
+				"nom" : "Face au marché public",
+				"localisation" : "Coin rue Saint-Paul, avenue Saint-Marc et avenue Champlain",
+				"nb_place_24_hrs" : 82,
+				"handicape" : "4",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement autorisé / JOUR : voir signalisation sur place ",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7401040377, 46.5526915303 ]
+			},
+			"properties" : {
+				"ID" : 47,
+				"No" : "S-26",
+				"nom" : "Rue Saint-Paul et avenue Laurier",
+				"localisation" : "Parc des Trois-L",
+				"nb_place_24_hrs" : 15,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7479570113, 46.5396213426 ]
+			},
+			"properties" : {
+				"ID" : 37,
+				"No" : "S-6",
+				"nom" : "4e Rue de la Pointe - voisin du 443",
+				"localisation" : "Coin Avenue Mercier et 4e Rue de la Pointe",
+				"nb_place_24_hrs" : 0,
+				"handicape" : "2",
+				"vignette" : "2",
+				"reglement" : "NUIT : stationnement autorisé / JOUR : voir signalisation sur place ",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7376744378, 46.552847944 ]
+			},
+			"properties" : {
+				"ID" : 48,
+				"No" : "S-27",
+				"nom" : "2272, avenue Laval",
+				"localisation" : "Patinoire  - Parc des Trois-L",
+				"nb_place_24_hrs" : 22,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7424652262, 46.5412295748 ]
+			},
+			"properties" : {
+				"ID" : 39,
+				"No" : "S-7",
+				"nom" : "Stationnement Brunet",
+				"localisation" : "Avenue Brunet derrière 550, avenue Broadway (Meubles Jacob)",
+				"nb_place_24_hrs" : 37,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7370356574, 46.5571426277 ]
+			},
+			"properties" : {
+				"ID" : 53,
+				"No" : "S-32",
+				"nom" : "Avenue St-Marc, face 2650 et face 802, rue Notre-Dame",
+				"localisation" : "Dairy Queen",
+				"nb_place_24_hrs" : 17,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7472660887, 46.5428132994 ]
+			},
+			"properties" : {
+				"ID" : 41,
+				"No" : "S-1",
+				"nom" : "362, 8e Rue de la Pointe, dans le cul-de-sac",
+				"localisation" : "Fin de la 8e rue de la Pointe, rond-point",
+				"nb_place_24_hrs" : 5,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7537309701, 46.5409350609 ]
+			},
+			"properties" : {
+				"ID" : 32,
+				"No" : "S-14",
+				"nom" : "Hôtel Énergie Shawinigan, côté droit du bâtiment (stationnement des canotiers)",
+				"localisation" : "dos au 902, promenade du Saint-Maurice",
+				"nb_place_24_hrs" : 33,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7362050162, 46.553920039 ]
+			},
+			"properties" : {
+				"ID" : 49,
+				"No" : "S-28",
+				"nom" : "2432, avenue Laval en arrière, Parc des Trois-L",
+				"localisation" : "Dans la ruelle derrière logement",
+				"nb_place_24_hrs" : 12,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7524659765, 46.5390986414 ]
+			},
+			"properties" : {
+				"ID" : 34,
+				"No" : "S-3",
+				"nom" : "4e rue de la Pointe derrière le bureau de poste",
+				"localisation" : "395, avenue de la Station - coin 4e rue de la Pointe",
+				"nb_place_24_hrs" : 62,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7349626819, 46.5570764129 ]
+			},
+			"properties" : {
+				"ID" : 51,
+				"No" : "S-31",
+				"nom" : "Avenue Saint-Jean, en arrière",
+				"localisation" : "Dans la ruelle derrière le logement 2763, avenue Saint-Jean",
+				"nb_place_24_hrs" : 7,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7373663373, 46.5579315575 ]
+			},
+			"properties" : {
+				"ID" : 54,
+				"No" : "S-33",
+				"nom" : "Coin avenue Champlain et rue Notre-Dame",
+				"localisation" : "Voisin du 932, rue Notre-Dame",
+				"nb_place_24_hrs" : 8,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7511177426, 46.5440501167 ]
+			},
+			"properties" : {
+				"ID" : 43,
+				"No" : "S-4",
+				"nom" : "Avenue Lévis - voisin du 1045",
+				"localisation" : "À côté du 1045, avenue Lévis",
+				"nb_place_24_hrs" : 13,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7481197199, 46.5400794521 ]
+			},
+			"properties" : {
+				"ID" : 38,
+				"No" : "S-5",
+				"nom" : "4e rue de la Pointe - voisin du 462",
+				"localisation" : "Coin avenue Mercier et 4e Rue de la Pointe",
+				"nb_place_24_hrs" : 0,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement autorisé / JOUR : voir signalisation sur place ",
+				"borne_electrique" : "2",
+				"nb_place_2_hrs" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6895675979, 46.6171410624 ]
+			},
+			"properties" : {
+				"ID" : 76,
+				"No" : "S-106",
+				"nom" : "7e Avenue - voisin du 371",
+				"localisation" : null,
+				"nb_place_24_hrs" : 30,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6967339273, 46.6168992452 ]
+			},
+			"properties" : {
+				"ID" : 78,
+				"No" : "S-103",
+				"nom" : "Parc de la Rivière Grand-Mère",
+				"localisation" : "Sur la 7e Rue en face de la 11e Avenue",
+				"nb_place_24_hrs" : 15,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6920447279, 46.6157339226 ]
+			},
+			"properties" : {
+				"ID" : 75,
+				"No" : "S-104",
+				"nom" : "6e Rue coin 7e Avenue",
+				"localisation" : null,
+				"nb_place_24_hrs" : 34,
+				"handicape" : "2",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6888426972, 46.6177081224 ]
+			},
+			"properties" : {
+				"ID" : 79,
+				"No" : "S-107",
+				"nom" : "7e Avenue - voisin du 311",
+				"localisation" : null,
+				"nb_place_24_hrs" : 4,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6859393989, 46.6151264894 ]
+			},
+			"properties" : {
+				"ID" : 73,
+				"No" : "S-109",
+				"nom" : "Avenue Chahoon - coin 3e Rue",
+				"localisation" : null,
+				"nb_place_24_hrs" : 37,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6904563883, 46.6173080311 ]
+			},
+			"properties" : {
+				"ID" : 77,
+				"No" : "S-105",
+				"nom" : "7e Avenue - voisin du 362 ",
+				"localisation" : null,
+				"nb_place_24_hrs" : 31,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6796827521, 46.6203421662 ]
+			},
+			"properties" : {
+				"ID" : 81,
+				"No" : "S-111",
+				"nom" : "Avenue de Grand-Mère - voisin du 8",
+				"localisation" : "Face au condos",
+				"nb_place_24_hrs" : 20,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7557268512, 46.5614794475 ]
+			},
+			"properties" : {
+				"ID" : 58,
+				"No" : "S-17",
+				"nom" : "Parc du Centenaire-de-Shawinigan",
+				"localisation" : "Rue Trudel - face à la bretelle de sortie de l'autoroute 55 N, (monument et table)",
+				"nb_place_24_hrs" : 17,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7565604895, 46.5631059254 ]
+			},
+			"properties" : {
+				"ID" : 59,
+				"No" : "S-18",
+				"nom" : "Parc de la Rivière Shawinigan (Drew)",
+				"localisation" : "Rue Trudel - face à la bretelle d'accès à l'autoroute 55 N ( ancienne station de pompage) départ ski de fond",
+				"nb_place_24_hrs" : 11,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.749280344, 46.5593011439 ]
+			},
+			"properties" : {
+				"ID" : 57,
+				"No" : "S-20",
+				"nom" : "Piscine du Centre des arts",
+				"localisation" : "Avenue du Collège",
+				"nb_place_24_hrs" : 25,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6967406867, 46.5708230045 ]
+			},
+			"properties" : {
+				"ID" : 62,
+				"No" : "S-36",
+				"nom" : "Rampe de mise à l'eau Rapides des Hêtres",
+				"localisation" : "500, chemin des Rapides-des-Hêtres",
+				"nb_place_24_hrs" : 22,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7062752184, 46.5960556847 ]
+			},
+			"properties" : {
+				"ID" : 485,
+				"No" : null,
+				"nom" : "75, 28e Rue (atelier municipal)",
+				"localisation" : "75, 28e Rue",
+				"nb_place_24_hrs" : 125,
+				"handicape" : "1",
+				"vignette" : null,
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7414190254, 46.5656317289 ]
+			},
+			"properties" : {
+				"ID" : 60,
+				"No" : "S-21",
+				"nom" : "Coin rue Aldred et l'avenue De La Salle",
+				"localisation" : "Voisin du 3243, avenue De La Salle",
+				"nb_place_24_hrs" : 6,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.759906806, 46.5671381355 ]
+			},
+			"properties" : {
+				"ID" : 61,
+				"No" : "S-60",
+				"nom" : "Place Garnier face au 3462",
+				"localisation" : "Dans îlot face 3462, place Garnier",
+				"nb_place_24_hrs" : 18,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7374633638, 46.613591206 ]
+			},
+			"properties" : {
+				"ID" : 66,
+				"No" : "S-70",
+				"nom" : "Chemin de Sainte-Flore",
+				"localisation" : "Face au 3538, chemin de Sainte-Flore",
+				"nb_place_24_hrs" : 89,
+				"handicape" : "3",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7677499348, 46.5404984804 ]
+			},
+			"properties" : {
+				"ID" : 83,
+				"No" : "S-35",
+				"nom" : "Boulevard Pie-XII",
+				"localisation" : "Face au 162, boulevard Pie-XII",
+				"nb_place_24_hrs" : 50,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7378368975, 46.6145823174 ]
+			},
+			"properties" : {
+				"ID" : 69,
+				"No" : "S-73",
+				"nom" : "Chemin des Pionniers",
+				"localisation" : "Face au 5091, chemin des Pionniers",
+				"nb_place_24_hrs" : 7,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6901467081, 46.6116643214 ]
+			},
+			"properties" : {
+				"ID" : 71,
+				"No" : "S-100",
+				"nom" : "Aréna de Grand-Mère et Centre municipal de curling",
+				"localisation" : "601, 3e Avenue",
+				"nb_place_24_hrs" : 109,
+				"handicape" : "7",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7538710413, 46.5244633261 ]
+			},
+			"properties" : {
+				"ID" : 22,
+				"No" : "S-163",
+				"nom" : "Centre communautaire",
+				"localisation" : "900, 106e avenue",
+				"nb_place_24_hrs" : 8,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7405795068, 46.5115282235 ]
+			},
+			"properties" : {
+				"ID" : 15,
+				"No" : "S-156",
+				"nom" : "925, 129e Rue - Parc multisport Réal-Dufresne",
+				"localisation" : "111e Avenue",
+				"nb_place_24_hrs" : 80,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7551870003, 46.5172086341 ]
+			},
+			"properties" : {
+				"ID" : 19,
+				"No" : "S-155",
+				"nom" : "Aréna Gilles-Bourassa",
+				"localisation" : "1705, 117e Rue",
+				"nb_place_24_hrs" : 88,
+				"handicape" : "3",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6948035324, 46.6131432783 ]
+			},
+			"properties" : {
+				"ID" : 70,
+				"No" : "S-101",
+				"nom" : "Bibliothèque Hélène-B-Beauséjour",
+				"localisation" : "650, 8e Rue",
+				"nb_place_24_hrs" : 0,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement autorisé / JOUR : voir signalisation sur place ",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6545939881, 46.6268313458 ]
+			},
+			"properties" : {
+				"ID" : 6,
+				"No" : "S-131",
+				"nom" : "Centre communautaire",
+				"localisation" : "650, 206e Avenue",
+				"nb_place_24_hrs" : 22,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6315272577, 46.6122403904 ]
+			},
+			"properties" : {
+				"ID" : 12,
+				"No" : "S-139",
+				"nom" : "Salle Carmel-Paquin + Bibliothèque Gisèle-M-Beaudoin",
+				"localisation" : "1082, chemin de la Vigilance",
+				"nb_place_24_hrs" : 6,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6666413256, 46.6256521825 ]
+			},
+			"properties" : {
+				"ID" : 5,
+				"No" : "S-134",
+				"nom" : "200e avenue, Parc Paul-André Potvin",
+				"localisation" : "Voisin du 181, 200e Avenue",
+				"nb_place_24_hrs" : 10,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7452344409, 46.5389321324 ]
+			},
+			"properties" : {
+				"ID" : 36,
+				"No" : "S-2",
+				"nom" : "253, 3e Rue de la Pointe, derrière le centre communautaire",
+				"localisation" : "252, avenue des Cèdres (Centre communautaire)",
+				"nb_place_24_hrs" : 26,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8131851178, 46.6006343663 ]
+			},
+			"properties" : {
+				"ID" : 65,
+				"No" : "S-61",
+				"nom" : "Centre communautaire Saint-Gérard-des-Laurentides",
+				"localisation" : "431, chemin des Frênes",
+				"nb_place_24_hrs" : 5,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8136744981, 46.6023559438 ]
+			},
+			"properties" : {
+				"ID" : 63,
+				"No" : "S-62",
+				"nom" : "Bibliothèque Colette-B-Forget",
+				"localisation" : "1375, chemin Principal",
+				"nb_place_24_hrs" : 21,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7413964582, 46.6097830263 ]
+			},
+			"properties" : {
+				"ID" : 68,
+				"No" : "S-71",
+				"nom" : "Chemin de Sainte-Flore, arrière du centre communautaire",
+				"localisation" : "dos au 4161, chemin de Sainte-Flore",
+				"nb_place_24_hrs" : 120,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7417058346, 46.6103849348 ]
+			},
+			"properties" : {
+				"ID" : 67,
+				"No" : "S-72",
+				"nom" : "Centre communautaire",
+				"localisation" : "4161, chemin de Sainte-Flore",
+				"nb_place_24_hrs" : 8,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6815550656, 46.6190235512 ]
+			},
+			"properties" : {
+				"ID" : 487,
+				"No" : "S-113",
+				"nom" : "Marina en haut",
+				"localisation" : null,
+				"nb_place_24_hrs" : 161,
+				"handicape" : null,
+				"vignette" : null,
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7557576738, 46.5415671734 ]
+			},
+			"properties" : {
+				"ID" : 30,
+				"No" : "S-13",
+				"nom" : "Hôtel Énergie Shawinigan, côté gauche du bâtiment",
+				"localisation" : "dos au 1272, promenade du Saint-Maurice",
+				"nb_place_24_hrs" : 27,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6871217585, 46.6157561779 ]
+			},
+			"properties" : {
+				"ID" : 74,
+				"No" : "S-108",
+				"nom" : "4e Avenue - derrière le 333, 5e avenue",
+				"localisation" : null,
+				"nb_place_24_hrs" : 45,
+				"handicape" : "2",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7351871737, 46.5550201292 ]
+			},
+			"properties" : {
+				"ID" : 50,
+				"No" : "S-29",
+				"nom" : "2572, avenue Laval sur le coté",
+				"localisation" : "Coté  des logements face à la rue Gigaire",
+				"nb_place_24_hrs" : 8,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6587322358, 46.6259525448 ]
+			},
+			"properties" : {
+				"ID" : 7,
+				"No" : "S-130",
+				"nom" : "Maison du citoyen + caserne",
+				"localisation" : "505, 205e Avenue",
+				"nb_place_24_hrs" : 35,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7349968035, 46.5563672789 ]
+			},
+			"properties" : {
+				"ID" : 52,
+				"No" : "S-30",
+				"nom" : "Rue Notre-Dame - 2712, avenue St-Jean, en arrière",
+				"localisation" : "Dans la ruelle derrière logement",
+				"nb_place_24_hrs" : 10,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8154233563, 46.6000574452 ]
+			},
+			"properties" : {
+				"ID" : 64,
+				"No" : "S-63",
+				"nom" : "Chalet de service Parc Pierre-Garceau",
+				"localisation" : "Face au 470, chemin des Genévriers",
+				"nb_place_24_hrs" : 8,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7405866556, 46.6920970891 ]
+			},
+			"properties" : {
+				"ID" : 2,
+				"No" : "S-82",
+				"nom" : "Centre communautaire Saint-Jean-des-Piles",
+				"localisation" : "1590, chemin de Saint-Jean-des-Piles - Centre communautaire / bibliothèque",
+				"nb_place_24_hrs" : 20,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7476661285, 46.5593679022 ]
+			},
+			"properties" : {
+				"ID" : 56,
+				"No" : "S-19",
+				"nom" : "Centre des Arts",
+				"localisation" : "2100, boulevard des Hêtres",
+				"nb_place_24_hrs" : 76,
+				"handicape" : "3",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "2",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7444053265, 46.5411329083 ]
+			},
+			"properties" : {
+				"ID" : 40,
+				"No" : "S-12",
+				"nom" : "Stationnement de l'Hôtel de ville",
+				"localisation" : "550, avenue de l'Hôtel-de-Ville accès par l'avenue Broadway",
+				"nb_place_24_hrs" : 57,
+				"handicape" : "0",
+				"vignette" : "6",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "4",
+				"nb_place_2_hrs" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6824979325, 46.6201433221 ]
+			},
+			"properties" : {
+				"ID" : 80,
+				"No" : "S-110",
+				"nom" : "Maison de la culture Francis-Brisson",
+				"localisation" : "15, avenue de Grand-Mère",
+				"nb_place_24_hrs" : 28,
+				"handicape" : "3",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7441701675, 46.5463944517 ]
+			},
+			"properties" : {
+				"ID" : 42,
+				"No" : "S-11",
+				"nom" : "Amphithéâtre Shawinigan",
+				"localisation" : "1, rue Jacques-Plante ",
+				"nb_place_24_hrs" : 911,
+				"handicape" : "20",
+				"vignette" : "12",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "4",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7450905769, 46.5609458076 ]
+			},
+			"properties" : {
+				"ID" : 55,
+				"No" : "S-22",
+				"nom" : "Coin Boulevard des Hêtres et Rue Saint-Jacques",
+				"localisation" : "Voisin du 2443, boulevard des Hêtres",
+				"nb_place_24_hrs" : 20,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "Stationnement 24h",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7710202082, 46.5441616413 ]
+			},
+			"properties" : {
+				"ID" : 84,
+				"No" : "S-34",
+				"nom" : "Parc Belgoville",
+				"localisation" : "82, rue de Belgoville (Centre communautaire)",
+				"nb_place_24_hrs" : 11,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6544983912, 46.6252042422 ]
+			},
+			"properties" : {
+				"ID" : 8,
+				"No" : "S-133",
+				"nom" : "Aréna Émile-Bédard - portion en gravier sur le côté",
+				"localisation" : "214e Rue - Parc Gervais",
+				"nb_place_24_hrs" : 72,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6521925011, 46.6144157839 ]
+			},
+			"properties" : {
+				"ID" : 82,
+				"No" : "S-135",
+				"nom" : "Parc Turcotte",
+				"localisation" : "Chemin des Dubois",
+				"nb_place_24_hrs" : 10,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6553104295, 46.6251427564 ]
+			},
+			"properties" : {
+				"ID" : 9,
+				"No" : "S-132",
+				"nom" : "Aréna Émile-Bédard - portion pavée en façade",
+				"localisation" : "540, 207e Avenue",
+				"nb_place_24_hrs" : 17,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6338808538, 46.6140256729 ]
+			},
+			"properties" : {
+				"ID" : 10,
+				"No" : "S-137",
+				"nom" : "Boîte postale et comptoir alimentaire",
+				"localisation" : "161, rue Vachon",
+				"nb_place_24_hrs" : 16,
+				"handicape" : "0",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "NON",
+				"nb_place_2_hrs" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6322996831, 46.6126047382 ]
+			},
+			"properties" : {
+				"ID" : 11,
+				"No" : "S-138",
+				"nom" : "Centre communautaire Lupien - Rue Vachon",
+				"localisation" : "1071, chemin de la Vigilance",
+				"nb_place_24_hrs" : 19,
+				"handicape" : "1",
+				"vignette" : "NON",
+				"reglement" : "NUIT : stationnement interdit en période hivernale (15 nov. au 30 avril) - voir signalisation sur place",
+				"borne_electrique" : "1",
+				"nb_place_2_hrs" : 0
+			}
+		}
+	]
+}

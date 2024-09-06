@@ -1,0 +1,58 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "PISCINE_EXTERIEURE",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7615643883, 46.5208913639 ]
+			},
+			"properties" : {
+				"objectid" : 1,
+				"nom" : "Piscine extérieure de la Station plein-air Val-Mauricie",
+				"adresse" : "1700, rue Val-Mauricie",
+				"url" : "http://www.shawinigan.ca/Citoyens/piscines-exterieures_130.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7420236157, 46.5378772195 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"nom" : "Piscine extérieure du parc St-Maurice",
+				"adresse" : "202, avenue Broadway",
+				"url" : "http://www.shawinigan.ca/Citoyens/piscines-exterieures_130.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7472600676, 46.558825519 ]
+			},
+			"properties" : {
+				"objectid" : 3,
+				"nom" : "Piscine extérieure du parc Antoine-St-Onge",
+				"adresse" : "2143, boulevard Royal",
+				"url" : "http://www.shawinigan.ca/Citoyens/piscines-exterieures_130.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6985714303, 46.6074046544 ]
+			},
+			"properties" : {
+				"objectid" : 4,
+				"nom" : "Piscine extérieure du parc Frank-Gauthier",
+				"adresse" : "1250, 3e Avenue",
+				"url" : "http://www.shawinigan.ca/Citoyens/piscines-exterieures_130.html"
+			}
+		}
+	]
+}

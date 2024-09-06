@@ -1,0 +1,330 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "POINT_DE_VENTE",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7362180484, 46.6153215287 ]
+			},
+			"properties" : {
+				"objectid" : 1,
+				"nom" : "Dépanneur général Le Colibri",
+				"adresse" : "3270, chemin de Sainte-Flore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6995129499, 46.6099010221 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"nom" : "Épicerie M",
+				"adresse" : "1200, avenue de Grand-Mère"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7396040299, 46.6948994608 ]
+			},
+			"properties" : {
+				"objectid" : 5,
+				"nom" : "Dépanneur du Parc",
+				"adresse" : "1632, rue Morin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447106744, 46.5199376772 ]
+			},
+			"properties" : {
+				"objectid" : 6,
+				"nom" : "Couche-Tard (Pétro-Canada)",
+				"adresse" : "2255, 105e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7432890604, 46.5187084386 ]
+			},
+			"properties" : {
+				"objectid" : 7,
+				"nom" : "Ultramar",
+				"adresse" : "2505, 105e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7518846313, 46.522881933 ]
+			},
+			"properties" : {
+				"objectid" : 8,
+				"nom" : "Dépanneur Chez Tom",
+				"adresse" : "613, 113e Rue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7439417422, 46.5193430057 ]
+			},
+			"properties" : {
+				"objectid" : 9,
+				"nom" : "Pharmacie Jean Coutu",
+				"adresse" : "2355, 105e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7216068453, 46.5756769149 ]
+			},
+			"properties" : {
+				"objectid" : 10,
+				"nom" : "Couche-Tard",
+				"adresse" : "1763, boulevard Hubert-Biermans"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7526312044, 46.5640902859 ]
+			},
+			"properties" : {
+				"objectid" : 11,
+				"nom" : "Coopsco Trois-Rivières (CEGEP)",
+				"adresse" : "2263, avenue du Collège"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7465323524, 46.5422985356 ]
+			},
+			"properties" : {
+				"objectid" : 12,
+				"nom" : "Dépanneur Au coin des Cèdres",
+				"adresse" : "703, avenue des Cèdres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7464245635, 46.5396426452 ]
+			},
+			"properties" : {
+				"objectid" : 13,
+				"nom" : "Dépanneur la Relance",
+				"adresse" : "313, 4e Rue de la Pointe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7429499847, 46.558870511 ]
+			},
+			"properties" : {
+				"objectid" : 14,
+				"nom" : "Épicerie P. Robichaud",
+				"adresse" : "2413, boulevard Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7446187056, 46.5562487602 ]
+			},
+			"properties" : {
+				"objectid" : 15,
+				"nom" : "Marché H. Paillé",
+				"adresse" : "1290, rue Saint-Paul"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.747977209, 46.5385467731 ]
+			},
+			"properties" : {
+				"objectid" : 16,
+				"nom" : "Marché Saint-Bernard",
+				"adresse" : "492, 2e rue de la Pointe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7397897038, 46.5601309244 ]
+			},
+			"properties" : {
+				"objectid" : 17,
+				"nom" : "Pharmacie Jean Coutu",
+				"adresse" : "2722, boulevard Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7397925779, 46.5619334729 ]
+			},
+			"properties" : {
+				"objectid" : 18,
+				"nom" : "Pharmaprix Louis Milliard",
+				"adresse" : "1, Plaza de la Mauricie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7621314005, 46.5719246992 ]
+			},
+			"properties" : {
+				"objectid" : 19,
+				"nom" : "Super Dépanneur",
+				"adresse" : "2333, avenue de la Montagne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7428467233, 46.5531830774 ]
+			},
+			"properties" : {
+				"objectid" : 20,
+				"nom" : "Dépanneur Surplus de Boulangerie",
+				"adresse" : "1962, avenue Saint-Marc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6542916577, 46.6226964227 ]
+			},
+			"properties" : {
+				"objectid" : 21,
+				"nom" : "Familiprix (Gestion 2 M.C.B.L)",
+				"adresse" : "450, avenue de Saint-Georges"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7104036998, 46.5907656257 ]
+			},
+			"properties" : {
+				"objectid" : 23,
+				"nom" : "Dépanneur D&T S.E.N.C",
+				"adresse" : "9212, boulevard des Hêtres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6953325496, 46.6128209025 ]
+			},
+			"properties" : {
+				"objectid" : 24,
+				"nom" : "Couche-Tard",
+				"adresse" : "800, avenue de Grand-Mère"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6649388999, 46.6198044075 ]
+			},
+			"properties" : {
+				"objectid" : 25,
+				"nom" : "Station Saint-Georges",
+				"adresse" : "31, avenue de Saint-Georges"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7291798251, 46.5047453896 ]
+			},
+			"properties" : {
+				"objectid" : 26,
+				"nom" : "Familiprix",
+				"adresse" : "4145, boul. de Shawinigan-Sud"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7490453958, 46.5230602203 ]
+			},
+			"properties" : {
+				"objectid" : 27,
+				"nom" : "L'Expert Dépanneur",
+				"adresse" : "1525, 105e Avenue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7534129675, 46.5399298024 ]
+			},
+			"properties" : {
+				"objectid" : 28,
+				"nom" : "Tourisme Shawinigan",
+				"adresse" : "884, promenade du Saint-Maurice"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7493030598, 46.5403088612 ]
+			},
+			"properties" : {
+				"objectid" : 425,
+				"nom" : "Épicerie Méli-Mélo",
+				"adresse" : "599, 5e rue de la Pointe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6886304566, 46.6150536809 ]
+			},
+			"properties" : {
+				"objectid" : 426,
+				"nom" : "Dépanneur Le Complexe",
+				"adresse" : "445, 5e Avenue"
+			}
+		}
+	]
+}

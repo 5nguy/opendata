@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Tags et graffitis : oeuvres temporaires et permanentes</name>
+  <description><![CDATA[]]></description>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Parc Belvédère</name>
+    <description><![CDATA[<div dir="ltr">L'arrière du mur de pratique pour le tennis et l'arrière des deux abris des joueurs de baseball.</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-71.891983,45.374321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parc Alfred-Élie-Dufresne</name>
+    <description><![CDATA[<div dir="ltr">Ajout d'un panneau fixe en bois de 8 pi sur 8 pi près des panneaux existants.</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-71.893585,45.394917,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parc Adrien-Cambron</name>
+    <description><![CDATA[<div dir="ltr">Ajout d'un panneau fixe en bois de 8 pi sur 8 pi au nord-ouest du terrain de tennis.</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-71.874802,45.413090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parc Optimist</name>
+    <description><![CDATA[<div dir="ltr">Environ 40 blocs de béton entourant le parc.</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-71.852097,45.367496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pont Joffre</name>
+    <description><![CDATA[<div dir="ltr">Culées et piliers.</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-71.881348,45.395134,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pont des Grandes-Fourches</name>
+    <description><![CDATA[<div dir="ltr">Faces nord et sud des culées sous le pont.</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-71.890717,45.405632,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bretelle de la rue Frontenac</name>
+    <description><![CDATA[<div dir="ltr">Faces est et nord du mur de la bretelle.</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-71.890854,45.405033,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Coalition sherbrookoise pour le travail de rue</name>
+    <description><![CDATA[<div dir="ltr">Mur arrière.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-71.889748,45.400166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parc Desranleau</name>
+    <description><![CDATA[<div dir="ltr">Panneau en bois.</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-71.850372,45.407326,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tremplin 16-30</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-71.889763,45.400337,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place de la Cité</name>
+    <description><![CDATA[<div dir="ltr">À l'arrière du mur de la scène.</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-71.896004,45.399944,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pont Moncalm</name>
+    <description><![CDATA[<div dir="ltr">Mur de la passerelle sous le pont.</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-71.899109,45.398434,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

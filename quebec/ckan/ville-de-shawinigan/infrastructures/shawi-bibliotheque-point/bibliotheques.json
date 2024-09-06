@@ -1,0 +1,84 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "BIBLIOTHEQUE_POINT",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7404927226, 46.6919681562 ]
+			},
+			"properties" : {
+				"objectid" : 1,
+				"nom" : "Bibliothèque Denise-B.-Trudel",
+				"adresse" : "1596, chemin de Saint-Jean-des-Piles - Tel : 819 538-5674",
+				"url" : "http://biblio.shawinigan.ca/in/faces/details.xhtml?id=a1c04d34-0c89-4dcc-bae2-62d71fa76ab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7545899046, 46.5173901599 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"nom" : "Bibliothèque Bruno-Sigmen",
+				"adresse" : "1550, 118e Rue - Tel : 819 537-4989",
+				"url" : "http://biblio.shawinigan.ca/in/faces/details.xhtml?id=a1c04d34-0c89-4dcc-bae2-62d71fa76ab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8136401923, 46.6025127147 ]
+			},
+			"properties" : {
+				"objectid" : 4,
+				"nom" : "Bibliothèque Colette-B.-Forget",
+				"adresse" : "1375, chemin Principal - Tel : 819 539-4479",
+				"url" : "http://biblio.shawinigan.ca/in/faces/details.xhtml?id=a1c04d34-0c89-4dcc-bae2-62d71fa76ab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6940648922, 46.613976632 ]
+			},
+			"properties" : {
+				"objectid" : 5,
+				"nom" : "Bibliothèque Hélène-B.-Beauséjour",
+				"adresse" : "650, 8e Rue - Tel : 819 538-5555",
+				"url" : "http://biblio.shawinigan.ca/in/faces/details.xhtml?id=a1c04d34-0c89-4dcc-bae2-62d71fa76ab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6312854437, 46.612239141 ]
+			},
+			"properties" : {
+				"objectid" : 6,
+				"nom" : "Bibliothèque Gisèle-M.-Beaudoin",
+				"adresse" : "1082, chemin de la Vigilance - Tel : 819 538-5882",
+				"url" : "http://biblio.shawinigan.ca/in/faces/details.xhtml?id=a1c04d34-0c89-4dcc-bae2-62d71fa76ab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447145368, 46.5410823243 ]
+			},
+			"properties" : {
+				"objectid" : 7,
+				"nom" : "Bibliothèque Fabien-LaRochelle",
+				"adresse" : "550, avenue de l'Hôtel-de-Ville - Tel : 819 536-7218",
+				"url" : "http://biblio.shawinigan.ca/in/faces/details.xhtml?id=a1c04d34-0c89-4dcc-bae2-62d71fa76ab5"
+			}
+		}
+	]
+}

@@ -1,0 +1,258 @@
+ï»¿objectid,direction,navette,hvoiture_a,hvoiture_b,hvoiture_n,hvoitur_nw,adresse,sequence_a,abri,latitude,longitude
+1,Saint-Georges, ,:35,:00, , ,Centre National de VÃ©rification et de Recouvrement (garderie La Bottine Souriante),33,,-72.71347948,46.49397113
+2,Saint-Georges, ,:35,:00, , ,"Shawinigan-Sud, #4655",34,,-72.71704133,46.49576903
+3,Saint-Georges, ,:35,:00, , ,"Shawinigan-Sud, #4585",35,,-72.71870368,46.49692188
+4,Saint-Georges, ,:35,:00, , ,"Shawinigan-Sud, #4600",36,,-72.72039226,46.49808558
+5,Saint-Georges, ,:35,:00, , ,Shawinigan-Sud/Valentine Pintal,37,,-72.72128775,46.49866423
+6,Saint-Georges, ,:35,:00, , ,Shawinigan-Sud/Parc-Industriel,38,,-72.72365866,46.50028894
+7,Saint-Georges, ,:35,:00, , ,Shawinigan-Sud/Saint-Michel,39,,-72.7252101,46.50133843
+8,Saint-Georges, ,:35,:00, , ,Shawinigan-Sud/Arthur-DÃ©ry,40,,-72.72741923,46.50285032
+9,Saint-Georges, ,:35,:00, , ,"Shawinigan-Sud, #4175",41,OUI,-72.72934026,46.50415734
+10,Saint-Georges, ,:35,:00, , ,105e Avenue/Shawinigan-Sud,42,,-72.73114724,46.50609543
+11,Saint-Georges, ,:35,:00, , ,105e avenue/Jos-Denoncourt,43,OUI,-72.73177187,46.50799915
+12,Saint-Georges, ,:35,:00, , ,105e Avenue/Philibert-Dumas,44,,-72.73227351,46.50938378
+13,Saint-Georges, ,:40,:05, , ,105e Avenue/138e Rue,45,,-72.73277151,46.51082833
+14,Saint-Georges, ,:40,:05, , ,105e Avenue/136e Rue,46,,-72.73441341,46.51252292
+15,Saint-Georges, ,:40,:05, , ,105e Avenue/134e Rue,47,,-72.7359438,46.51355789
+16,Saint-Georges, ,:40,:05, , ,105e Avenue/132e Rue,48,,-72.7376151,46.51469067
+17,Saint-Georges, ,:40,:05, , ,105e Avenue/129e Rue,49,,-72.74062061,46.51677926
+18,Saint-Georges, ,:40,:05, , ,105e Avenue/127e Rue,50,,-72.74194157,46.5176989
+19,Saint-Georges, ,:40,:05, , ,125e Rue/105e Avenue,51,,-72.74294829,46.51899497
+20,Saint-Georges, ,:40,:05, , ,125e Rue/103e Avenue,52,,-72.74190294,46.51971334
+21,Saint-Georges, ,:40,:05, , ,125e Rue/101e Avenue,53,,-72.73980798,46.52113663
+22,Shawinigan-Sud, ,:20,:45, , ,125e Rue/Loranger,217,,-72.73870642,46.52205515
+23,Saint-Georges, ,:40,:05, , ,Capitaine-Veilleux/125e Rue,55,,-72.73785949,46.52338145
+24,Saint-Georges, ,:40,:05, , ,Capitaine-Veilleux/LacoursiÃ¨re,56,,-72.74075374,46.52543492
+25,Saint-Georges, ,:45,:10, , ,HÃ´pital (entrÃ©e principale),57,OUI,-72.74434307,46.52604261
+26,Shawinigan-Sud, ,:20,:45, , ,HÃ´pital (urgence),212,,-72.74421259,46.52503242
+27,Saint-Georges, ,:45,:10, , ,119e Rue/101e Avenue,59,,-72.74388332,46.52357479
+28,Saint-Georges, ,:45,:10, , ,119e Rue/103e Avenue,60,,-72.74541918,46.52245232
+29,Saint-Georges, ,:45,:10, , ,119e Rue/105e Avenue,61,,-72.7469983,46.52136821
+30,Saint-Georges, ,:45,:10, , ,105e Avenue/118e Rue,62,,-72.74753771,46.52169603
+31,Saint-Georges, ,:45, , , ,105e Avenue/115e Rue,63,,-72.74933599,46.52289823
+32,Saint-Georges, ,:45, , , ,105e Avenue/113e Rue,64,,-72.75060986,46.52378637
+33,Saint-Georges, ,:45, , , ,105e Avenue/109e Rue,65,,-72.75295364,46.52540421
+34,Saint-Georges, ,:45, , , ,Marie-Louise,66,,-72.75830384,46.52619238
+35,Saint-Georges, ,:50,:15, , ,Melville (CitÃ© de l'Ãnergie),67,,-72.75545473,46.53519541
+36,Saint-Georges, ,:50,:15, , ,Station/4e Rue de la Pointe,68,,-72.75168136,46.53945904
+37,Saint-Georges, ,:50,:15, , ,4e Rue de la Pointe/Tamarac,69,,-72.75048175,46.53962073
+38,Saint-Georges, ,:50,:15, , ,4e Rue de la Pointe/Mercier,70,OUI,-72.74799264,46.53975374
+39,Saint-Georges, ,:50,:15, , ,4e Rue de la Pointe/CÃ¨dres,71,,-72.74618659,46.53984505
+50,Shawinigan-Sud,Oui,:00-:05,:20-:30,:05,:30,Plaza de la Mauricie,0,,-72.73831193,46.56291155
+51,Saint-Georges, ,:05,:35, , ,Royal/38e Rue,82,,-72.73392282,46.56441176
+52,Saint-Georges, ,:05,:35, , ,41e Rue/HÃªtres,84,,-72.73512595,46.56734237
+53,Saint-Georges, ,:10,:40, , ,HÃªtres/51e Rue (SAAQ),92,,-72.72936793,46.5711279
+54,Saint-Georges, ,:10,:40, , ,HÃªtres/53e Rue,93,,-72.72816745,46.57190876
+55,Saint-Georges, ,:10,:40, , ,HÃªtres/57e Rue (SÃ©minaire Ste-Marie),94,,-72.72608615,46.57327205
+56,Saint-Georges, ,:10,:40, , ,HÃªtres/59e Rue,95,,-72.72451564,46.57429862
+57,Saint-Georges, ,:10,:40, , ,HÃªtres/Hubert-Biermans (Place Biermans),96,OUI,-72.72190111,46.57596888
+58,Saint-Georges, ,:15,:45, , ,HÃªtres/69e Rue,97,,-72.71942197,46.57868858
+59,Saint-Georges, ,:15,:45, , ,HÃªtres/74e Rue,98,,-72.71755387,46.58137455
+60,Saint-Georges, ,:15,:45, , ,HÃªtres/79e Rue,99,,-72.71589431,46.58378428
+61,Saint-Georges, ,:15,:45, , ,HÃªtres/80e Rue,100,,-72.71475872,46.58541614
+62,Saint-Georges, ,:15,:45, , ,HÃªtres/84e Rue,101,,-72.71400816,46.58650523
+63,Saint-Georges, ,:15,:45, , ,HÃªtres/86e Rue,102,,-72.71292014,46.58792141
+64,Saint-Georges, ,:15,:45, , ,HÃªtres/89e Rue,103,,-72.71192347,46.58912911
+65,Saint-Georges, ,:15,:45, , ,HÃªtres/92e Rue,104,,-72.71068279,46.59062511
+66,Saint-Georges, ,:15,:45, , ,HÃªtres/95e Rue,105,,-72.7091604,46.59246435
+44,Saint-Georges,Oui,:50,:15,:23**, :52,CÃ¨dres/Station (AmphithÃ©Ã¢tre municipal),76,OUI,-72.74621518,46.54725896
+40,Saint-Georges, ,:50,:15,:23**,:50,CÃ¨dres/5e Rue de la Pointe (HÃ´tel-de-Ville),72,,-72.74602726,46.54110934
+42,Saint-Georges, ,:50,:15,:23**,:50,CÃ¨dres/9e Rue de la Pointe,74,,-72.74623706,46.54351512
+41,Saint-Georges, ,:50,:15,:23**,:50,CÃ¨dres/7e Rue de la Pointe,73,,-72.74612851,46.54224997
+45,Saint-Georges,Oui,:55,:20,:24,:53,St-Marc/Summit,22,,-72.74603195,46.5505092
+67,Saint-Georges, ,:15,:45, , ,"HÃªtres, #10200",107,,-72.70976201,46.59758823
+68,Saint-Georges, ,:15,:45, , ,HÃªtres/28e Rue,108,,-72.71030081,46.59940997
+69,Saint-Georges, ,:15,:45, , ,5e Avenue/26e Rue (Complexe Jacques-Marchand),109,,-72.70947208,46.60129832
+70,Saint-Georges, ,:15,:45, , ,5e Avenue/25e Rue,110,,-72.70829376,46.60249293
+71,Saint-Georges, ,:15,:45, , ,"5e Avenue, #1791",111,,-72.70660758,46.60379539
+72,Saint-Georges, ,:20,:45, , ,5e Avenue/17e Rue (Centre LaflÃ¨che),112,OUI,-72.70523153,46.60470462
+73,Saint-Georges, ,:20,:45, , ,5e Avenue/15e Rue,113,,-72.70235365,46.60658831
+74,Saint-Georges, ,:20,:45, , ,5e Avenue/14e Rue,114,,-72.70081168,46.60759787
+75,Saint-Georges, ,:20,:45, , ,5e Avenue/12e Rue,115,,-72.69873744,46.60895895
+76,Saint-Georges, ,:20,:50, , ,5e Avenue/9e Rue,116,,-72.69574207,46.61095077
+77,Saint-Georges, ,:20,:50, , ,5e Avenue/8e Rue,117,,-72.6939899,46.61200782
+78,Saint-Georges, ,:20,:50, , ,5e Avenue/7e Rue,118,,-72.6923054,46.61313764
+79,Saint-Georges, ,:20,:50, , ,5e Avenue/6e Rue,119,,-72.69079267,46.61414173
+80,Saint-Georges, ,:20,:50, , ,5e Avenue/4e Rue,120,,-72.68894756,46.6153809
+81,Saint-Georges, ,:20,:50, , ,5e Avenue/3e Rue,121,,-72.68731855,46.61646165
+82,Saint-Georges, ,:20,:50, , ,5e Avenue/2e Rue,122,,-72.6861232,46.61728235
+83,Saint-Georges, ,:20,:50, , ,5e Avenue/1e Rue,123,,-72.68477727,46.6181767
+84,Saint-Georges, ,:20,:50, , ,5e Avenue/Forman (Parc des Papetiers),124,,-72.68362132,46.6181698
+85,Saint-Georges, ,:20,:50, , ,Chahoon (Maison de la Culture Francis-Brisson),125,,-72.6817691,46.61974449
+86,Saint-Georges, ,:25,:55, , ,Saint-Georges/Centrale,126,,-72.67172207,46.619354
+87,Saint-Georges, ,:25,:55, , ,Saint-Georges/204e Avenue,127,,-72.66642406,46.6193803
+88,Saint-Georges, ,:25,:55, , ,St-Georges/203e Rue,129,,-72.6618872,46.61928824
+89,Saint-Georges, ,:25,:55, , ,St-Georges/208e Rue,130,,-72.65686207,46.62119705
+90,Saint-Georges, ,:25,:55, , ,St-Georges/212e Rue,131,OUI,-72.65433633,46.62308191
+91,Saint-Georges, ,:25,:55, , ,214e Rue/St-Georges (Centre Ãmile-BÃ©dard),132,OUI,-72.65303694,46.6247788
+92,Shawinigan-Sud, ,:25,:55, , ,214e Rue/206e Avenue,133,,-72.65551024,46.62634383
+93,Shawinigan-Sud, ,:25,:55, , ,206e Avenue/212e Rue,134,OUI,-72.65728557,46.62523931
+94,Shawinigan-Sud, ,:25,:55, , ,206e Avenue/210e Rue,135,,-72.65917882,46.6238391
+95,Shawinigan-Sud, ,:25,:55, , ,206e Avenue/207e Rue,136,OUI,-72.66082968,46.622623
+96,Shawinigan-Sud, ,:25,:55, , ,206e Avenue,137,,-72.66206588,46.62170274
+97,Shawinigan-Sud, ,:25,:00, , ,206e Avenue/203e Rue,138,,-72.66372174,46.62047687
+98,Shawinigan-Sud, ,:35,:00, , ,Saint-Georges/204e Avenue,139,OUI,-72.66642041,46.61955396
+99,Shawinigan-Sud, ,:35, , , ,Saint-Georges/Centrale,140,,-72.67141416,46.61953111
+100,Shawinigan-Sud, ,:35,:00, , ,Grand-MÃ¨re/River-Road (Maison de la Culture Francis-Brisson),141,OUI,-72.68192268,46.6206612
+105,Shawinigan-Sud,:55,:35,:00, , ,Grand-MÃ¨re/7e Rue,146,,-72.69295642,46.61422384
+106,Shawinigan-Sud, ,:40,:00, , ,Grand-MÃ¨re/8e Rue,147,OUI,-72.69475593,46.61301647
+107,Shawinigan-Sud, ,:40,:00, , ,Grand-MÃ¨re/10e Rue,151,,-72.69746413,46.61115476
+108,Shawinigan-Sud, ,:45,:05, , ,Grand-MÃ¨re/12e Rue,152,OUI,-72.69952149,46.60979978
+109,Shawinigan-Sud, ,:45,:05, , ,Grand-MÃ¨re/14e Rue,153,,-72.70149506,46.60847516
+110,Shawinigan-Sud, ,:45,:05, , ,Grand-MÃ¨re/15e Rue,154,,-72.70311634,46.60732242
+111,Shawinigan-Sud, ,:45,:05, , ,Grand-MÃ¨re/17e Rue (Centre LaflÃ¨che),155,OUI,-72.70574652,46.60555631
+112,Shawinigan-Sud, ,:45,:05, , ,Grand-MÃ¨re/18e Rue,156,,-72.70858058,46.60358455
+113,Shawinigan-Sud, ,:45,:05, , ,Grand-MÃ¨re/26e Rue,157,OUI,-72.70964825,46.60252912
+114,Shawinigan-Sud, ,:45,:05, , ,HÃªtres/28e Rue,158,,-72.71054692,46.59939596
+115,Shawinigan-Sud, ,:50,:05, , ,"HÃªtres, #10200",159,,-72.70999969,46.59748358
+116,Shawinigan-Sud, ,:50,:05, , ,HÃªtres/98e Rue,160,,-72.70961901,46.59622543
+117,Shawinigan-Sud, ,:50,:05, , ,HÃªtres/92e Rue,162,,-72.71097851,46.59061656
+118,Shawinigan-Sud, ,:50,:05, , ,HÃªtres/89e Rue,163,OUI,-72.71194345,46.5895143
+119,Shawinigan-Sud, ,:50,:05, , ,HÃªtres/84e Rue,164,,-72.71409886,46.58677605
+120,Shawinigan-Sud, ,:50,:05, , ,HÃªtres/80e Rue,165,,-72.7149789,46.58550115
+121,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/79e Rue,166,,-72.71598079,46.58408729
+122,Shawinigan-Sud, ,:50,:05, , ,HÃªtres/95e Rue,161,,-72.70927897,46.59277635
+123,Shawinigan-Sud, , ,:10, , ,HÃªtres/49e Rue (SAAQ),174,,-72.73064471,46.5705912
+124,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/Hubert-Biermans (Place Biermans),169,OUI,-72.72235424,46.57595636
+125,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/59e Rue,170,,-72.72457731,46.5745077
+126,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/57e Rue (SÃ©minaire Ste-Marie),171,OUI,-72.72634081,46.57336567
+127,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/53e Rue,172,,-72.72834486,46.57204475
+128,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/51e Rue (SAAQ),173,,-72.72956184,46.57125629
+129,Shawinigan-Sud, ,:55,:10, , ,49e Rue/Bonaventure,175,,-72.73118757,46.57093191
+130,Shawinigan-Sud, ,:55,:15, , ,49e Rue/A.-Tessier (des Chutes),176,OUI,-72.73447158,46.57328838
+131,Shawinigan-Sud, ,:55,:15, , ,Ste-Marthe/45e Rue,177,,-72.73700194,46.57234519
+132,Shawinigan-Sud, ,:55,:15, , ,43e Rue/Ste-Marthe,178,,-72.73869374,46.57124618
+134,Shawinigan-Sud, ,:55,:15, , ,43e Rue/HÃªtres,180,,-72.73471683,46.56803752
+101,Shawinigan-Sud,,:35,:00, , ,Grand-MÃ¨re/2e Rue,142,OUI,-72.68716825,46.61806577
+135,Shawinigan-Sud, ,:55,:15, , ,Royal/38e Rue,183,,-72.73462123,46.56419159
+136,Saint-Georges,Oui,:00-:05,:25-:35,:05,:30,Plaza de la Mauricie,1,,-72.73833391,46.56289572
+137,Shawinigan-Sud, ,:05, , , ,Royal/Notre-Dame,184,,-72.74024571,46.56047802
+138,Shawinigan-Sud, ,:05, , , ,Royal/Frigon,185,,-72.74246516,46.55901801
+140,Shawinigan-Sud, ,:05, , , ,Royal/St-Joseph (Parc Antoine-Saint-Onge),187,OUI,-72.74538723,46.55706249
+142, ,Oui, , ,:18,:43,Trudel/Georges,17,,-72.74618935,46.5538124
+143,Shawinigan-Sud, ,:05,:30, , ,Champlain/St-Onge,191,,-72.74596223,46.55192849
+144,Shawinigan-Sud, ,:05,:30, , ,Champlain/Summit,192,,-72.74777252,46.55022797
+153,Shawinigan-Sud, ,:15,:40, , ,Melville (CitÃ© de l'Ãnergie),201,,-72.75562639,46.53558212
+154,Shawinigan-Sud, , ,:40, , ,109e Rue/Antoinette-J.-Goulet (Val-Mauricie),248,,-72.75654721,46.52030308
+155,Shawinigan-Sud, , ,:40, , ,114e Avenue,250,,-72.7554453,46.51891504
+156,Shawinigan-Sud, , ,:40, , ,114e Avenue/117e Rue (ArÃ©na Gilles-Bourassa),251,,-72.75442001,46.51820568
+157,Shawinigan-Sud, ,:15,:40, , ,119e Rue/105e Avenue,209,,-72.74678598,46.52137919
+158,Shawinigan-Sud, ,:15,:40, , ,119e Rue/103e Avenue,210,,-72.74549061,46.52226192
+159,Shawinigan-Sud, ,:15,:40, , ,119e Rue/101e Avenue,211,,-72.74390227,46.52333223
+160,Shawinigan-Sud, ,:20,:45, , ,HÃ´pital (entrÃ©e principale),213, ,-72.74424096,46.52601287
+161,Shawinigan-Sud, ,:20,:45, , ,119e Rue/Capitaine-Veilleux,214,,-72.74098224,46.52529282
+162,Shawinigan-Sud, ,:20,:45, , ,Capitaine-Veilleux/Huard,215,,-72.73986766,46.52461171
+163,Shawinigan-Sud, ,:20,:45, , ,Capitaine-Veilleux/125e Rue,216,,-72.73772845,46.52309392
+164,Saint-Georges, ,:40,:05, , ,125e Rue/Loranger,54,,-72.73863599,46.52193762
+165,Shawinigan-Sud, ,:20,:45, , ,125e Rue/101e Avenue,218,,-72.73970762,46.52137552
+166,Shawinigan-Sud, ,:20,:45, , ,125e Rue/103e Avenue,219,OUI,-72.74176536,46.51995902
+167,Shawinigan-Sud, ,:20,:45, , ,125e Rue/105e Avenue,220,,-72.7429837,46.51913248
+168,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/127e Rue,221,,-72.74212026,46.51761342
+146,Shawinigan-Sud,Oui,:10,:35,:23**,:49,CÃ¨dres/10e Rue de la Pointe,194,,-72.74606488,46.54479273
+141, ,Oui, , ,:18,:43,Trudel/Royal,16,,-72.74744177,46.55464236
+152,Shawinigan-Sud,,:10,:35, , ,4e Rue de la Pointe/Tamarac,200,,-72.74994158,46.5398527
+147,Shawinigan-Sud,Oui,:10,:35,:23**,:49,CÃ¨dres/9e Rue de la Pointe,195,,-72.74649106,46.5436393
+169,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/129e Rue,222,,-72.74060413,46.51655691
+170,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/132e Rue,223,,-72.73760998,46.51447109
+171,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/134e Rue,224,,-72.73641017,46.51364569
+172,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/136e Rue,225,,-72.73422116,46.51216064
+173,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/138e Rue,226,,-72.73301516,46.51084472
+174,Shawinigan-Sud, ,:20,:45, , ,105e Avenue/Philibert-Dumas,227,,-72.73257243,46.50955303
+175,Shawinigan-Sud, ,:25,:50, , ,105e avenue/Jos-Denoncourt,228,,-72.73205463,46.50804735
+176,Shawinigan-Sud, ,:25,:50, , ,105e Avenue/Shawinigan-Sud,229,,-72.73152268,46.5064745
+186,Saint-Georges, ,:35,:00, , ,Centre National de VÃ©rification et de Recouvrement,32,,-72.71352559,46.49532532
+188,Saint-Georges, , ,:10, , ,117e Rue/105e Avenue,253,,-72.75034844,46.5207369
+190,Saint-Georges, , ,:10, , ,117e Rue/114e Avenue (ArÃ©na Gilles-Bourassa),254,,-72.75410817,46.51818142
+192,Saint-Georges, , ,:10, , ,109e Rue/Shawinigan-Sud,258,,-72.75632708,46.52135603
+195,Saint-Georges, , ,:20, , ,St-Marc/Gigaire,245,,-72.73748682,46.5567026
+196,Saint-Georges, , ,:20, , ,St-Sacrement/Aluminium,246,,-72.73756866,46.55914962
+197,Saint-Georges, , ,:20, , ,St-Sacrement/Royal,247,,-72.73887092,46.56014847
+198,Shawinigan-Sud, , ,:30, , ,St-Sacrement/Royal,240,,-72.73892902,46.55993904
+199,Shawinigan-Sud, , ,:30, , ,St-Sacrement/Aluminium,241,,-72.73797881,46.55924686
+200,Shawinigan-Sud, , ,:30, , ,Champlain/Gigaire,242,,-72.73836375,46.55715404
+201,Shawinigan-Sud,,:40, , , ,8e Rue/7e Avenue,150,,-72.69589097,46.61345995
+202,Saint-Georges, ,:10,:40, , ,43e Rue/HÃªtres,85,,-72.73470899,46.56831194
+203,Saint-Georges, ,:10,:40, , ,43e Rue/Bonaventure,86,,-72.73569781,46.56899383
+204,Saint-Georges, ,:10,:40, , ,43e Rue/Ste-Marthe,87,,-72.73854132,46.57109869
+205,Saint-Georges, ,:10,:40, , ,Ste-Marthe/45e Rue,88,,-72.73707868,46.57210957
+206,Saint-Georges, ,:10,:40, , ,Ste-Marthe/49e Rue,89,,-72.73510067,46.57339186
+207,Saint-Georges, ,:10,:40, , ,49e Rue/A.-Tessier (des Chutes),90,,-72.73429057,46.57295311
+208,Saint-Georges, ,:10,:40, , ,HÃªtres/49e Rue (SAAQ),91,,-72.73093834,46.57058919
+209, ,Oui, , ,:07,:32,Bellevue/La Salle,3, ,-72.74216199,46.56444006
+210, ,Oui, , ,:07,:32,Bellevue/Beaudry-Leman,4,,-72.74381856,46.5656575
+211, ,Oui, , ,:07,:32,Bellevue/Masson,5,,-72.74920014,46.56963328
+212, ,Oui, , ,:08,:33,Lavergne/CollÃ¨ge,6,,-72.75053973,46.56691184
+213, ,Oui, , ,:10,:35,CEGEP,7,,-72.75226155,46.56353032
+214, ,Oui, , ,:12,:37,CollÃ¨ge/Lavergne,8,,-72.75039445,46.56674783
+215, ,Oui, , ,:12,:37,Lavergne/Beaudry-Leman,9,,-72.74676374,46.56412204
+216, ,Oui, , ,:12,:37,Lavergne/La-Salle,10,,-72.74521374,46.56297652
+217, ,Oui, , ,:13,:38,Lavergne/HÃªtres,11,,-72.74372205,46.56187693
+218, ,Oui, , ,:13,:38,HÃªtres/St-Jacques,12,,-72.74507295,46.56079023
+219, ,Oui, , ,:13,:38,Centre des Arts,13,,-72.74743588,46.55924253
+220, ,Oui, , ,:15,:40,HÃªtres (CarrÃ© Trudel),14,,-72.74999029,46.55838925
+222, ,Oui, , ,:20,:45,Ste-HÃ©lÃ¨ne (CLSC),18,,-72.74774636,46.55233622
+225, ,Oui, , ,:22,:47,Summit/Frontenac,20,,-72.7498577,46.55024539
+226, ,Oui, , ,:22,:47,Summit/Champlain,21,,-72.74794307,46.55005471
+229,Shawinigan-Sud, , ,:40, , ,117e Rue/105e Avenue,252,,-72.75053045,46.52060037
+231,Shawinigan-Sud, ,:30,:55, , ,Centre National de VÃ©rification et de Recouvrement (garderie La Bottine Souriante),239,,-72.71356982,46.49382466
+232,Saint-Georges, ,:55, , , ,St-Paul/Champlain (MarchÃ© public),77,,-72.74244516,46.55451269
+233,Saint-Georges, ,:55, , , ,St-Paul/Georges,78,,-72.74303188,46.55495819
+234,Saint-Georges, ,:55, , , ,St-Paul/Royal (CarrÃ© Trudel),79,,-72.74541573,46.55671325
+235,Saint-Georges, ,:55, , , ,Royal/St-Joseph,80,,-72.74446333,46.55740319
+236,Shawinigan-Sud, ,:05, , , ,St-Paul/Cloutier,188,,-72.74433853,46.55569261
+238,Saint-Georges, ,:55, , , ,Royal/Frigon,81,,-72.74405459,46.5577787
+241,Saint-Georges, ,:05,:35, , ,41e Rue (Halles de la Mauricie),83,,-72.73323939,46.56587539
+242,Shawinigan-Sud, ,:55,:15, , ,41e Rue (Halles de la Mauricie),182,OUI,-72.73333939,46.56575552
+243,Shawinigan-Sud, ,:55,:15, , ,41e Rue/HÃªtres,181,,-72.73502498,46.56701365
+244,Saint-Georges, ,:15,:45, , ,HÃªtres/98e Rue,106,,-72.70933255,46.59618152
+245,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/74e Rue,167,,-72.71768524,46.58164578
+240,Saint-Georges,Oui,:55, ,:26,:57,Royal/Notre-Dame,31,,-72.74058504,46.5600089
+223, ,Oui, , ,:20,:45,Cloutier,19,,-72.7490149,46.55267374
+246,Shawinigan-Sud, ,:50,:10, , ,HÃªtres/69e Rue,168,OUI,-72.71954928,46.57894838
+247,Shawinigan-Sud, , ,:30, , ,Champlain/Frigon,243,,-72.73892159,46.55681262
+248,Shawinigan-Sud, , ,:30, , ,Champlain/Lambert,244,,-72.7410471,46.55556985
+249,Shawinigan-Sud, ,:05,:30, , ,Champlain (MarchÃ© public),189,OUI,-72.74316598,46.55432178
+250,Shawinigan-Sud, ,:05,:30, , ,Champlain/Trudel,190,OUI,-72.74473852,46.55310812
+256,Shawinigan-Sud, ,:15, , , ,Marie-Louise (Sortie boul. de Shawinigan-Sud),202,,-72.75807121,46.52673819
+257,Shawinigan-Sud, ,:15, , , ,Marie-Louise,203,,-72.75882198,46.52592139
+258,Shawinigan-Sud, ,:15, , , ,105e Avenue/109e Rue,204,,-72.75349417,46.52564531
+259,Shawinigan-Sud, ,:15, , , ,105e Avenue/110e Rue,205,,-72.75274528,46.52512589
+260,Shawinigan-Sud, ,:15, , , ,105e Avenue/113e Rue,206,,-72.75066557,46.52365137
+261,Shawinigan-Sud, ,:15, , , ,105e Avenue/115e Rue,207,,-72.74939987,46.52277169
+262,Shawinigan-Sud, ,:15,:40, , ,105e Avenue/118e Rue,208,,-72.7481053,46.52183144
+263,Saint-Georges, , ,:10, , ,114e Avenue,255,,-72.75525543,46.5188415
+265,Saint-Georges, , ,:10, , ,109e Rue/Robert-Raymond (Val-Mauricie),257,,-72.75643031,46.52072232
+266,Shawinigan-Sud, ,:40, , , ,11e Avenue/8e Rue (GMF Grand-MÃ¨re),148,,-72.69828321,46.61590833
+267,Shawinigan-Sud, ,:40, , , ,11e Avenue/7e Rue (Parc de la RiviÃ¨re-Grand-MÃ¨re),149,,-72.6971003,46.61670462
+269,Saint-Georges, ,:45,:10, , ,HÃ´pital (urgence),58,OUI,-72.74437208,46.52498219
+270,Saint-Georges, ,:25,:55, , ,St-Georges/Dubois,128,,-72.66445705,46.61931077
+271,,Oui,, ,:05,:30,Saint-Sacrement,2,,,
+221, ,Oui, , ,:17,:42,Trudel (CarrÃ© Trudel),15,OUI,-72.74993902,46.55645802
+133,Shawinigan-Sud, ,:55,:15, , ,43e Rue/Bonaventure,179,OUI,-72.73607698,46.56904927
+145,Shawinigan-Sud,Oui,:10,:35,:23**,:49,CÃ¨dres/Station (AmphithÃ©Ã¢tre municipal),193,,-72.74674534,46.54737931
+255, ,Oui, , ,:25,:56,Frigon/Royal,30,,-72.74198563,46.559014
+254, ,Oui, , ,:25,:56,Frigon/Papineau,29,,-72.74075719,46.55812151
+48,,Oui,,:20,:24,:54,St-Marc/St-Paul,25,,-72.74201742,46.55383908
+253, ,Oui, , ,:25,:56,Frigon/Georges,28,,-72.73949542,46.55719228
+148,Shawinigan-Sud,,:10,:35,:23**,:49,CÃ¨dres/7e Rue de la Pointe,196,,-72.74636085,46.54226419
+47,Saint-Georges,Oui,:55,:20,:24,:54,St-Marc/Trudel,24,,-72.74369512,46.55268322
+46,Saint-Georges,Oui,:55,:20,:24,:53,St-Marc/Vincent,23,,-72.74491059,46.5515615
+104,Shawinigan-Sud,,:35,:00, , ,Grand-MÃ¨re/5e Rue,145,,-72.69073795,46.61565948
+178,Shawinigan-Sud, ,:25,:50,, ,"Shawinigan-Sud, #4150",231,,-72.72980259,46.50423136
+177,Shawinigan-Sud, ,:25,:50,, ,Shawinigan-Sud/GÃ©rard-Monet,230,,-72.7305564,46.50475095
+185,Shawinigan-Sud, ,:25,:50,, ,Shawinigan-Sud (devant SociÃ©tÃ© Laurentides),238,,-72.71708189,46.49552525
+179,Shawinigan-Sud, ,:25,:50,, ,Shawinigan-Sud/Arthur-DÃ©ry,232,,-72.72794682,46.50296041
+151,Shawinigan-Sud,,:10,:35, , ,4e Rue de la Pointe/Mercier,199,OUI,-72.7481975,46.53994869
+103,Shawinigan-Sud,,:35,:00, , ,Grand-MÃ¨re/4e Rue,144,,-72.68954446,46.61645323
+181,Shawinigan-Sud, ,:25,:50,, ,Shawinigan-Sud/Parc-Industriel,234,,-72.72380224,46.50013666
+180,Shawinigan-Sud, ,:25,:50,, ,Shawinigan-Sud/Saint-Michel,233,,-72.72547666,46.5012756
+182,Shawinigan-Sud, ,:25,:50,, ,Shawinigan-Sud/Valentine Pintal,235,,-72.72148122,46.49853943
+150,Shawinigan-Sud,,:10,:35, , ,4e Rue de la Pointe/CÃ¨dres,198,,-72.74617733,46.54004204
+149,Shawinigan-Sud,,:10,:35, , ,CÃ¨dres/5e Rue de la Pointe (HÃ´tel-de-Ville),197,,-72.74621437,46.5408917
+184,Shawinigan-Sud, ,:25,:50,, ,"Shawinigan-Sud, #4605",237,,-72.71824042,46.49634922
+183,Shawinigan-Sud, ,:25,:50,, ,"Shawinigan-Sud, #4600",236,,-72.71999593,46.49754043
+102,Shawinigan-Sud,,:35,:00, , ,Grand-MÃ¨re/3e Rue,143,,-72.68815225,46.61738508
+274,,,,,:23**,:50,"6e Rue de la Pointe (bibliothÃ¨que, palais de justice)",,,,
+49,Saint-Georges,Oui, ,:20,:24,:54,St-Marc/Lambert,26,,-72.74030517,46.55492972
+252, ,Oui, , ,:24,:55,Frigon/Champlain,27,,-72.73886462,46.55670878
+43,Saint-Georges,Oui,:50,:15,:23**, :51,CÃ¨dres/10e Rue de la Pointe,75,,-72.74578701,46.54477394

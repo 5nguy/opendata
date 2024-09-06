@@ -1,0 +1,2106 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "ACCESBUS_ARRET",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7415189028, 46.6943393976 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Rue Moise Cadorette / Rue Louis-Lizotte",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1112A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7405524951, 46.6916530567 ]
+			},
+			"properties" : {
+				"objectid" : 3,
+				"zones" : "1",
+				"adresse" : "1594, chemin de Saint-Jean-des-Piles",
+				"coin_rue" : "Rue Méthot / Chemin de Saint-Jean-des-Piles",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1102A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7379058174, 46.6883818024 ]
+			},
+			"properties" : {
+				"objectid" : 4,
+				"zones" : "1",
+				"adresse" : "1290, chemin de Saint-Jean-des-Piles",
+				"coin_rue" : "Rue du Plateau / Chemin de Saint-Jean-des-Piles",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1101A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.734538469, 46.6833161063 ]
+			},
+			"properties" : {
+				"objectid" : 6,
+				"zones" : "1",
+				"adresse" : "1081, chemin de Saint-Jean-des-Piles",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1091A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7105187232, 46.660037202 ]
+			},
+			"properties" : {
+				"objectid" : 8,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Chemin du Parc-National / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1061A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7118130502, 46.6507375943 ]
+			},
+			"properties" : {
+				"objectid" : 9,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Chemin du Parc-National / Chemin de la Rivière",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1051A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.720943279, 46.6384377804 ]
+			},
+			"properties" : {
+				"objectid" : 10,
+				"zones" : "1",
+				"adresse" : "391, chemin de Sainte-Flore",
+				"coin_rue" : "Rue des Floralies / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1031A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7091350215, 46.6301719877 ]
+			},
+			"properties" : {
+				"objectid" : 12,
+				"zones" : "1",
+				"adresse" : "3389, Chemin du Parc-National",
+				"coin_rue" : "Chemin du Parc-National / Rue des Ouvriers",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1022A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7039543816, 46.6289758942 ]
+			},
+			"properties" : {
+				"objectid" : 14,
+				"zones" : "1",
+				"adresse" : "2801, rue des Bâtisseurs",
+				"coin_rue" : "Rue des Bâtisseurs / Rue des Contremaîtres",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1021A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7235896805, 46.6312356468 ]
+			},
+			"properties" : {
+				"objectid" : 15,
+				"zones" : "1",
+				"adresse" : "896, chemin de Sainte-Flore",
+				"coin_rue" : "Rue Rickaby / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1041A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7263910692, 46.6230613856 ]
+			},
+			"properties" : {
+				"objectid" : 18,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Rue des Asters / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1031B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7171252088, 46.6130557131 ]
+			},
+			"properties" : {
+				"objectid" : 21,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Rue du Bocage / Rue des Lys",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1023B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7174398966, 46.6091326934 ]
+			},
+			"properties" : {
+				"objectid" : 22,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Rue du Bocage / 25e Rue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1032B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7316678281, 46.6181946125 ]
+			},
+			"properties" : {
+				"objectid" : 23,
+				"zones" : "1",
+				"adresse" : "2510, chemin de Sainte-Flore",
+				"coin_rue" : "25e Rue / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1044B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7261656924, 46.6145341353 ]
+			},
+			"properties" : {
+				"objectid" : 24,
+				"zones" : "1",
+				"adresse" : "2801, 25e Rue",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1041B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7330257244, 46.62418127 ]
+			},
+			"properties" : {
+				"objectid" : 26,
+				"zones" : "1",
+				"adresse" : "5600, rue du Lac-Bournival",
+				"coin_rue" : "Rue du Lac-Bournival / Rue des Immortelles",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1042B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7364582521, 46.6256609705 ]
+			},
+			"properties" : {
+				"objectid" : 27,
+				"zones" : "1",
+				"adresse" : "1900, rue des Lobélies",
+				"coin_rue" : "Rue des Immortelles / Rue des Lobélies",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1043B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7375166246, 46.6144055939 ]
+			},
+			"properties" : {
+				"objectid" : 29,
+				"zones" : "1",
+				"adresse" : "3400, chemin de Sainte-Flore",
+				"coin_rue" : "Rue Riopelle / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1047B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7348084658, 46.6161396712 ]
+			},
+			"properties" : {
+				"objectid" : 30,
+				"zones" : "1",
+				"adresse" : "2960, chemin de Sainte-Flore",
+				"coin_rue" : "Rue Marcelle-Ferron / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1046B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7329976596, 46.617317393 ]
+			},
+			"properties" : {
+				"objectid" : 31,
+				"zones" : "1",
+				"adresse" : "2650, chemin de Sainte-Flore",
+				"coin_rue" : "Chemin de Sainte-Flore / Carré des Peintres",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1045B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7389253391, 46.6133543646 ]
+			},
+			"properties" : {
+				"objectid" : 32,
+				"zones" : "1",
+				"adresse" : "3691, chemin de Sainte-Flore",
+				"coin_rue" : "Rue Alfred-Pellan / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1052B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.740448691, 46.6119488405 ]
+			},
+			"properties" : {
+				"objectid" : 33,
+				"zones" : "1",
+				"adresse" : "3950, chemin de Sainte-Flore",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1053B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7451443483, 46.6076101288 ]
+			},
+			"properties" : {
+				"objectid" : 34,
+				"zones" : "1",
+				"adresse" : "4999, chemin de Sainte-Flore",
+				"coin_rue" : "Rue du Lac-Vergne / Chemin de Sainte-Flore",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1061B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6865115028, 46.5846384842 ]
+			},
+			"properties" : {
+				"objectid" : 36,
+				"zones" : "1",
+				"adresse" : "10632, avenue du Beau-Rivage",
+				"coin_rue" : "Avenue du Beau-Rivage / Chemin des Bois-Francs",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1041D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6732636634, 46.5850545604 ]
+			},
+			"properties" : {
+				"objectid" : 37,
+				"zones" : "1",
+				"adresse" : "11462, avenue du Beau-Rivage",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1052D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.679628344, 46.583603655 ]
+			},
+			"properties" : {
+				"objectid" : 38,
+				"zones" : "1",
+				"adresse" : "10952, avenue du Beau-Rivage",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1051D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6833469644, 46.5841828233 ]
+			},
+			"properties" : {
+				"objectid" : 39,
+				"zones" : "1",
+				"adresse" : "10782, avenue du Beau-Rivage",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1042D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6784228583, 46.5997497855 ]
+			},
+			"properties" : {
+				"objectid" : 40,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Chemin du Grand-Nord / Chemin des Bois-Francs",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1021D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7113971011, 46.6185038922 ]
+			},
+			"properties" : {
+				"objectid" : 44,
+				"zones" : "1",
+				"adresse" : "2080, 10e Rue",
+				"coin_rue" : "10e Rue / 21e Avenue",
+				"abri_bus" : "OUI",
+				"no_embarquement" : "1014C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7117052103, 46.6129193239 ]
+			},
+			"properties" : {
+				"objectid" : 47,
+				"zones" : "1",
+				"adresse" : "1701, 15e Rue",
+				"coin_rue" : "17e Avenue / 15e Rue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1016C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7015886428, 46.6226241957 ]
+			},
+			"properties" : {
+				"objectid" : 49,
+				"zones" : "1",
+				"adresse" : "450, 21e Avenue Est",
+				"coin_rue" : "21e Avenue Est / Rue Hanna",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1012C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6947786856, 46.6129971055 ]
+			},
+			"properties" : {
+				"objectid" : 51,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Avenue de Grand-Mère / 8e Rue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7057465227, 46.6055563133 ]
+			},
+			"properties" : {
+				"objectid" : 52,
+				"zones" : "1",
+				"adresse" : " ",
+				"coin_rue" : "Avenue de Grand-Mère / 17e Rue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7489413567, 46.6017497869 ]
+			},
+			"properties" : {
+				"objectid" : 54,
+				"zones" : "2",
+				"adresse" : "6500, chemin de Sainte-Flore",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2061B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7909824061, 46.6005963948 ]
+			},
+			"properties" : {
+				"objectid" : 56,
+				"zones" : "2",
+				"adresse" : "1184, chemin des Pommiers",
+				"coin_rue" : "Chemin des Pommiers / Chemin des Pruniers",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2081B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7951915912, 46.6011470884 ]
+			},
+			"properties" : {
+				"objectid" : 57,
+				"zones" : "2",
+				"adresse" : "1190, chemin des Pommiers",
+				"coin_rue" : "Chemin des Pommiers / Chemin des Plaines",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2082B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8381012946, 46.5991074342 ]
+			},
+			"properties" : {
+				"objectid" : 58,
+				"zones" : "2",
+				"adresse" : "40, rue du Mont-Joye",
+				"coin_rue" : "Chemin des Bouleaux / Rue du Mont-Joye",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2101A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8315087845, 46.5994729863 ]
+			},
+			"properties" : {
+				"objectid" : 59,
+				"zones" : "2",
+				"adresse" : "300, rue du Lac-Marchand",
+				"coin_rue" : "Rue des Mûriers / Rue du Lac-Marchand",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2102A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8305131178, 46.6005627828 ]
+			},
+			"properties" : {
+				"objectid" : 60,
+				"zones" : "2",
+				"adresse" : "370, chemin des Bouleaux",
+				"coin_rue" : "Rue des Mûriers / Rue du Lac-Marchand",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2103A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8256329428, 46.6035726838 ]
+			},
+			"properties" : {
+				"objectid" : 61,
+				"zones" : "2",
+				"adresse" : "505, chemin des Bouleaux",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2093A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8206014425, 46.6054905929 ]
+			},
+			"properties" : {
+				"objectid" : 62,
+				"zones" : "2",
+				"adresse" : "705, chemin des Bouleaux",
+				"coin_rue" : "Chemin des Bouleaux / Rue des Merisiers",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2092A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8169409512, 46.607665669 ]
+			},
+			"properties" : {
+				"objectid" : 63,
+				"zones" : "2",
+				"adresse" : "801, chemin des Bouleaux",
+				"coin_rue" : "Chemin des Bouleaux / Rue des Lilas",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2091A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8129649764, 46.6082312466 ]
+			},
+			"properties" : {
+				"objectid" : 64,
+				"zones" : "2",
+				"adresse" : "1600, chemin des Pommiers",
+				"coin_rue" : "Chemin des Pommiers / Chemin Principal",
+				"abri_bus" : "OUI",
+				"no_embarquement" : "2085A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8129943806, 46.6048489936 ]
+			},
+			"properties" : {
+				"objectid" : 65,
+				"zones" : "2",
+				"adresse" : "411 chemin des Saules",
+				"coin_rue" : "Chemin des Saules / Chemin Principal",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2083A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8133912156, 46.6021563349 ]
+			},
+			"properties" : {
+				"objectid" : 66,
+				"zones" : "2",
+				"adresse" : "1370, chemin Principal",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2082A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8159805336, 46.6035959396 ]
+			},
+			"properties" : {
+				"objectid" : 67,
+				"zones" : "2",
+				"adresse" : "511, chemin des Saules",
+				"coin_rue" : "Chemin des Saules / Chemin des Magnolias",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2084A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8218663969, 46.6017436777 ]
+			},
+			"properties" : {
+				"objectid" : 68,
+				"zones" : "2",
+				"adresse" : "530, rue des Merisiers",
+				"coin_rue" : "Chemin de la Petite-RIvière / Rue des Merisiers",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2104A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8156339914, 46.6000737857 ]
+			},
+			"properties" : {
+				"objectid" : 70,
+				"zones" : "2",
+				"adresse" : "470, chemin des Génévriers",
+				"coin_rue" : "Chemin des Genévriers / Chemin des Frênes",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2081A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8128776028, 46.6008760729 ]
+			},
+			"properties" : {
+				"objectid" : 71,
+				"zones" : "2",
+				"adresse" : " ",
+				"coin_rue" : "Chemin de Saint-Gérard / Chemin des Frênes",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2074A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8075852589, 46.5986208288 ]
+			},
+			"properties" : {
+				"objectid" : 73,
+				"zones" : "2",
+				"adresse" : "1160, chemin de Saint-Gérard",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2072A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8026561724, 46.5930284297 ]
+			},
+			"properties" : {
+				"objectid" : 75,
+				"zones" : "2",
+				"adresse" : "201, rue des Cornouillers",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2067A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7989232572, 46.5947439816 ]
+			},
+			"properties" : {
+				"objectid" : 76,
+				"zones" : "2",
+				"adresse" : "7, rue des Cornouillers",
+				"coin_rue" : "Rue des Cournouillers / Chemin de Saint-Gérard",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2066A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7924844586, 46.587151045 ]
+			},
+			"properties" : {
+				"objectid" : 79,
+				"zones" : "2",
+				"adresse" : "460, rue Deschamps",
+				"coin_rue" : "Rue Deschamps / Chemin Richard",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2054A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7889186954, 46.5891868011 ]
+			},
+			"properties" : {
+				"objectid" : 80,
+				"zones" : "2",
+				"adresse" : " ",
+				"coin_rue" : "Rue Deschamps / Chemin de Saint-Gérard",
+				"abri_bus" : "OUI",
+				"no_embarquement" : "2055A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7935548885, 46.585810364 ]
+			},
+			"properties" : {
+				"objectid" : 81,
+				"zones" : "2",
+				"adresse" : "501, rue Deschamps",
+				"coin_rue" : "Rue Deschamps / Chemin Laverdure",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2063A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7973821876, 46.5830755761 ]
+			},
+			"properties" : {
+				"objectid" : 82,
+				"zones" : "2",
+				"adresse" : "408, chemin des Sapins",
+				"coin_rue" : "Chemin des Sapins / Rue Laforêt",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2062A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7967554286, 46.581504456 ]
+			},
+			"properties" : {
+				"objectid" : 83,
+				"zones" : "2",
+				"adresse" : "720, chemin Juneau",
+				"coin_rue" : "Chemin Juneau / Chemin Bellefeuille",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2061A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7829830759, 46.5876518262 ]
+			},
+			"properties" : {
+				"objectid" : 86,
+				"zones" : "2",
+				"adresse" : "581, chemin de Saint-Gérard",
+				"coin_rue" : "Chemin des Érables / Chemin Juneau",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2051A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7752225471, 46.5752527134 ]
+			},
+			"properties" : {
+				"objectid" : 90,
+				"zones" : "2",
+				"adresse" : "439, rue des Laurentides",
+				"coin_rue" : "Rue des Laurentides / Rue de Fontainebleau",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2032A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.76969951, 46.5739392005 ]
+			},
+			"properties" : {
+				"objectid" : 91,
+				"zones" : "2",
+				"adresse" : "161, chemin de Saint-Gérard",
+				"coin_rue" : "Chemin de Saint-Gérard / Rue des Peupliers",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2025A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7722070057, 46.5721605084 ]
+			},
+			"properties" : {
+				"objectid" : 92,
+				"zones" : "2",
+				"adresse" : "511, rue des Peupliers",
+				"coin_rue" : "Rue des Peupliers / Rue de Fontainebleau",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2031A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7666542207, 46.5719911612 ]
+			},
+			"properties" : {
+				"objectid" : 93,
+				"zones" : "2",
+				"adresse" : "4263, rue du Père-Marquette",
+				"coin_rue" : "Rue du Père-Marquette / Chemin de Saint-Gérard",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2022A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7649427183, 46.569009162 ]
+			},
+			"properties" : {
+				"objectid" : 95,
+				"zones" : "2",
+				"adresse" : "1832, avenue de la Montagne",
+				"coin_rue" : "Avenue de la Montagne / Rue l'Heureux",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2024A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7634798124, 46.5699113596 ]
+			},
+			"properties" : {
+				"objectid" : 96,
+				"zones" : "2",
+				"adresse" : "3973 rue Trudel",
+				"coin_rue" : "Rue Trudel / Avenue de la Montagne",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2021A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7614100773, 46.5683330233 ]
+			},
+			"properties" : {
+				"objectid" : 97,
+				"zones" : "2",
+				"adresse" : "3662, rue Trudel",
+				"coin_rue" : "Rue Trudel / Avenue Carier",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2022B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7581118866, 46.5695523823 ]
+			},
+			"properties" : {
+				"objectid" : 98,
+				"zones" : "2",
+				"adresse" : "2392, avenue des Ormeaux",
+				"coin_rue" : "Avenue des Ormeaux / Rue Domrémy",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2023B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7583064187, 46.5664846582 ]
+			},
+			"properties" : {
+				"objectid" : 99,
+				"zones" : "2",
+				"adresse" : "3313, place Garnier",
+				"coin_rue" : "Place Garnier / Avenue du Moulin",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2021B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7575152732, 46.5706613541 ]
+			},
+			"properties" : {
+				"objectid" : 100,
+				"zones" : "2",
+				"adresse" : "3643, rue Bellevue",
+				"coin_rue" : "Avenue Carier / Rue Bellevue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2024B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7619298015, 46.5716789283 ]
+			},
+			"properties" : {
+				"objectid" : 101,
+				"zones" : "2",
+				"adresse" : "2302, avenue de la Montagne",
+				"coin_rue" : "Avenue de la Montagne / Rue Roy",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2026B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7602835512, 46.5732513267 ]
+			},
+			"properties" : {
+				"objectid" : 102,
+				"zones" : "2",
+				"adresse" : "2552, avenue de la Montagne",
+				"coin_rue" : "Avenue de la Montagne / Rue Bellevue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2031B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7589540833, 46.5720152672 ]
+			},
+			"properties" : {
+				"objectid" : 103,
+				"zones" : "2",
+				"adresse" : " ",
+				"coin_rue" : "Avenue Laflèche / Rue Bellevue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2025B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7573173795, 46.5761521077 ]
+			},
+			"properties" : {
+				"objectid" : 104,
+				"zones" : "2",
+				"adresse" : "3063, avenue Beaupré",
+				"coin_rue" : "Avenue Beaupré / Rue Thibaudeau",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2034B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.755364386, 46.5789961134 ]
+			},
+			"properties" : {
+				"objectid" : 105,
+				"zones" : "2",
+				"adresse" : " ",
+				"coin_rue" : "Avenue Beaupré / Rue Gouin",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2035B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.758656743, 46.5771014224 ]
+			},
+			"properties" : {
+				"objectid" : 106,
+				"zones" : "2",
+				"adresse" : " ",
+				"coin_rue" : "Avenue de la Montagne / Rue Thibaudeau",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2033B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7581519997, 46.5829262529 ]
+			},
+			"properties" : {
+				"objectid" : 107,
+				"zones" : "2",
+				"adresse" : "3712, avenue de la Montagne",
+				"coin_rue" : "Avenue de la Montagne / avenue Beaupré",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2036B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7613860275, 46.5848246768 ]
+			},
+			"properties" : {
+				"objectid" : 110,
+				"zones" : "2",
+				"adresse" : "4995, avenue Beaupré",
+				"coin_rue" : "Avenue Beaupré / Rue Oscar-Houde",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2041B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.765441923, 46.5828550506 ]
+			},
+			"properties" : {
+				"objectid" : 111,
+				"zones" : "2",
+				"adresse" : "5083, rue Eugène-Dumas",
+				"coin_rue" : "Rue Eugène-Dumas / Avenue Maurice-Pellerin",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2042B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.797015785, 46.614369696 ]
+			},
+			"properties" : {
+				"objectid" : 112,
+				"zones" : "2",
+				"adresse" : "10000, chemin de la Vallée-du-Parc",
+				"coin_rue" : "Centre de ski Vallée du Parc",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2093B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447737773, 46.5574667667 ]
+			},
+			"properties" : {
+				"objectid" : 113,
+				"zones" : "2",
+				"adresse" : " ",
+				"coin_rue" : "Boulevard Royal / Rue Saint-Joseph",
+				"abri_bus" : "OUI",
+				"no_embarquement" : "2000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7522615509, 46.5635303156 ]
+			},
+			"properties" : {
+				"objectid" : 114,
+				"zones" : "2",
+				"adresse" : "2263, avenue du Collège",
+				"coin_rue" : "CEGEP",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2100"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7223542401, 46.5759563647 ]
+			},
+			"properties" : {
+				"objectid" : 115,
+				"zones" : "2",
+				"adresse" : "6842, boulevard des Hêtres",
+				"coin_rue" : "Boulevard des Hêtres / Boulevard Hubert-Biermans",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2400"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.743165975, 46.5543217824 ]
+			},
+			"properties" : {
+				"objectid" : 116,
+				"zones" : "2",
+				"adresse" : "2093, avenue Champlain",
+				"coin_rue" : "Marché municipal",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.8271313531, 46.6205565858 ]
+			},
+			"properties" : {
+				"objectid" : 117,
+				"zones" : "2",
+				"adresse" : "1940, chemin Principal",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2105A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7719384713, 46.5577631391 ]
+			},
+			"properties" : {
+				"objectid" : 119,
+				"zones" : "2",
+				"adresse" : "3000, rue Burrill",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "2037A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6339154391, 46.5950108048 ]
+			},
+			"properties" : {
+				"objectid" : 120,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "rang Saint-Mathieu / Rue du Curé-Mélançon",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3045B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6314419486, 46.5967386372 ]
+			},
+			"properties" : {
+				"objectid" : 121,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "rang Saint-Mathieu / Rue du Curé-Boulay",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3042B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6398850414, 46.6006987272 ]
+			},
+			"properties" : {
+				"objectid" : 123,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "Rue du Lac-Lafontaine",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3043B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6441352777, 46.6035100376 ]
+			},
+			"properties" : {
+				"objectid" : 124,
+				"zones" : "3",
+				"adresse" : "420, chemin de la Vigilance",
+				"coin_rue" : "Chemin de la Vigilance",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3037B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6400212212, 46.6017455295 ]
+			},
+			"properties" : {
+				"objectid" : 125,
+				"zones" : "3",
+				"adresse" : "83, rue Simard",
+				"coin_rue" : "Rue Simard / Rue des Tours",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3036B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6012524325, 46.6319027834 ]
+			},
+			"properties" : {
+				"objectid" : 127,
+				"zones" : "3",
+				"adresse" : "4180, avenue du Tour-du-Lac",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3072A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6043017646, 46.6228995748 ]
+			},
+			"properties" : {
+				"objectid" : 130,
+				"zones" : "3",
+				"adresse" : "4670, avenue du Tour-du-Lac",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3061A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6059862105, 46.6214757457 ]
+			},
+			"properties" : {
+				"objectid" : 131,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "Avenue du Tour-du-Lac / Rue de l'Envol",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3051A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6145605311, 46.61768445 ]
+			},
+			"properties" : {
+				"objectid" : 132,
+				"zones" : "3",
+				"adresse" : "5110, avenue du Tour-du-Lac",
+				"coin_rue" : "Camping Rouillard",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3042A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6152764841, 46.6147975182 ]
+			},
+			"properties" : {
+				"objectid" : 133,
+				"zones" : "3",
+				"adresse" : "5280, avenue du Tour-du-Lac",
+				"coin_rue" : "Avenue du Tour-du-Lac / Rue Savignac",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3041A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6204994893, 46.611503853 ]
+			},
+			"properties" : {
+				"objectid" : 134,
+				"zones" : "3",
+				"adresse" : "5520, avenue du Tour-du-Lac",
+				"coin_rue" : "Avenue du Tour-du-Lac / Rue du Dragueur",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3033A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6227992925, 46.6105926965 ]
+			},
+			"properties" : {
+				"objectid" : 135,
+				"zones" : "3",
+				"adresse" : "5640, avenue du Tour-du-Lac",
+				"coin_rue" : "Avenue du Tour-du-Lac / Rue Dostaler",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3032A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6272924276, 46.608795524 ]
+			},
+			"properties" : {
+				"objectid" : 136,
+				"zones" : "3",
+				"adresse" : "440, rue du Village",
+				"coin_rue" : "Avenue du Tour-du-Lac / Rue du Village",
+				"abri_bus" : "OUI",
+				"no_embarquement" : "3031A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6304292068, 46.6109221221 ]
+			},
+			"properties" : {
+				"objectid" : 137,
+				"zones" : "3",
+				"adresse" : "630, rue du Village",
+				"coin_rue" : "Rue Brunelle / Rue du Village",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3026A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.632310453, 46.6115583396 ]
+			},
+			"properties" : {
+				"objectid" : 138,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "Chemin de la Vigilance",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3022A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6346907479, 46.6101649798 ]
+			},
+			"properties" : {
+				"objectid" : 139,
+				"zones" : "3",
+				"adresse" : "900, chemin de la Vigilance",
+				"coin_rue" : "Chemin de la Vigilance / Rue Jeanne-Fortin",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3027A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6367130815, 46.6116287562 ]
+			},
+			"properties" : {
+				"objectid" : 140,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "Chemin des Dubois / Rue Jeanne-Fortin",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3023A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6378813826, 46.614444139 ]
+			},
+			"properties" : {
+				"objectid" : 141,
+				"zones" : "3",
+				"adresse" : "991, route de Lac-à-la-Tortue",
+				"coin_rue" : "Rue Maurier / Route de Lac-à-la-Tortue",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3021A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6365045441, 46.6163724247 ]
+			},
+			"properties" : {
+				"objectid" : 142,
+				"zones" : "3",
+				"adresse" : " ",
+				"coin_rue" : "Rue Lefebvre (face à rue Caldwell)",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3025A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6302571896, 46.6138038751 ]
+			},
+			"properties" : {
+				"objectid" : 143,
+				"zones" : "3",
+				"adresse" : "1151, chemin de la Vigilance",
+				"coin_rue" : "Chemin de la Vigilance / Rue Lupien",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3024A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6187496489, 46.6277571239 ]
+			},
+			"properties" : {
+				"objectid" : 146,
+				"zones" : "3",
+				"adresse" : "1831, chemin de la Vigilance",
+				"coin_rue" : "Chemin de la Vigilance / Rue Jarvis",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3047A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6215751017, 46.6304442083 ]
+			},
+			"properties" : {
+				"objectid" : 147,
+				"zones" : "3",
+				"adresse" : "2020, chemin de la Vigilance",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3056A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6240490606, 46.6316688499 ]
+			},
+			"properties" : {
+				"objectid" : 149,
+				"zones" : "3",
+				"adresse" : "2130, rue Preston",
+				"coin_rue" : "Rue Pronovost / Rue Preston",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3057A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6124775111, 46.6420962335 ]
+			},
+			"properties" : {
+				"objectid" : 154,
+				"zones" : "3",
+				"adresse" : "460, rue de l'Alouette",
+				"coin_rue" : "Chemin des Daniel / Rue de l'Alouette",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3069A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6097448638, 46.6403467918 ]
+			},
+			"properties" : {
+				"objectid" : 155,
+				"zones" : "3",
+				"adresse" : "310, rue de l'Alouette",
+				"coin_rue" : "Rue de l'Alouette / Rue de la Voltige",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3076A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6477578288, 46.6322105831 ]
+			},
+			"properties" : {
+				"objectid" : 158,
+				"zones" : "3",
+				"adresse" : "1003, 206e Avenue",
+				"coin_rue" : "206e Avenue / Rue de Clova",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3012D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6510493091, 46.6370778845 ]
+			},
+			"properties" : {
+				"objectid" : 159,
+				"zones" : "3",
+				"adresse" : "141, rue du Triage",
+				"coin_rue" : "Chemin des Cheminots / Rue du Triage",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3013D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6570028408, 46.6407657264 ]
+			},
+			"properties" : {
+				"objectid" : 160,
+				"zones" : "3",
+				"adresse" : "1341, avenue de Saint-Georges",
+				"coin_rue" : "Avenue de Saint-Georges / Chemin des Chalands",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3021D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6577582584, 46.6143839264 ]
+			},
+			"properties" : {
+				"objectid" : 166,
+				"zones" : "3",
+				"adresse" : "130, rue Lacroix",
+				"coin_rue" : "Rue Lacroix / Rue Courchesne",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3013C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6583191844, 46.6164093569 ]
+			},
+			"properties" : {
+				"objectid" : 167,
+				"zones" : "3",
+				"adresse" : "200, chemin des Dubois",
+				"coin_rue" : "Chemin des Dubois / Inconnu",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3019C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6641497992, 46.6152146735 ]
+			},
+			"properties" : {
+				"objectid" : 170,
+				"zones" : "3",
+				"adresse" : "40, rue des Loisirs",
+				"coin_rue" : "Rue des Loisirs / Rue Tousignant",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3012C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7231484533, 46.5330490613 ]
+			},
+			"properties" : {
+				"objectid" : 171,
+				"zones" : "3E",
+				"adresse" : "1803, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3021E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7153556648, 46.5374563884 ]
+			},
+			"properties" : {
+				"objectid" : 172,
+				"zones" : "3E",
+				"adresse" : "2250, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu / Chemin Lamothe",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3031E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6982449806, 46.5500561224 ]
+			},
+			"properties" : {
+				"objectid" : 174,
+				"zones" : "3E",
+				"adresse" : "3925, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3041E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6918430338, 46.5547208659 ]
+			},
+			"properties" : {
+				"objectid" : 175,
+				"zones" : "3E",
+				"adresse" : "4005, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3051E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6870393435, 46.5572389708 ]
+			},
+			"properties" : {
+				"objectid" : 176,
+				"zones" : "3E",
+				"adresse" : "4400, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3061E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6792621515, 46.5632543167 ]
+			},
+			"properties" : {
+				"objectid" : 177,
+				"zones" : "3E",
+				"adresse" : " ",
+				"coin_rue" : "rang Saint-Mathieu / Rue de la Poudrière",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3071E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6600129565, 46.5763571942 ]
+			},
+			"properties" : {
+				"objectid" : 178,
+				"zones" : "3E",
+				"adresse" : "6400, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu / Chemin du Lac-Pratte",
+				"abri_bus" : "OUI",
+				"no_embarquement" : "3091E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6328598112, 46.5959508575 ]
+			},
+			"properties" : {
+				"objectid" : 180,
+				"zones" : "3E",
+				"adresse" : " ",
+				"coin_rue" : "rang Saint-Mathieu / Rue du Lac-Lafontaine",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3121E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6311967026, 46.6123546095 ]
+			},
+			"properties" : {
+				"objectid" : 181,
+				"zones" : "3E",
+				"adresse" : "1082, chemin de la Vigilance",
+				"coin_rue" : "Chemin de la Vigilance / Rue du Village",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3151E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6475593127, 46.6477074621 ]
+			},
+			"properties" : {
+				"objectid" : 182,
+				"zones" : "3",
+				"adresse" : "1291, route des Défricheurs",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3022D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7675840935, 46.5439306739 ]
+			},
+			"properties" : {
+				"objectid" : 185,
+				"zones" : "4",
+				"adresse" : "11, rue de Belgoville",
+				"coin_rue" : "Rue de Belgoville",
+				"abri_bus" : "NON",
+				"no_embarquement" : "4023A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7726692682, 46.5434634833 ]
+			},
+			"properties" : {
+				"objectid" : 186,
+				"zones" : "4",
+				"adresse" : "143, rue de Belgoville",
+				"coin_rue" : "Chemin de la Réserve / Rue de Belgoville",
+				"abri_bus" : "NON",
+				"no_embarquement" : "4021A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7675997534, 46.5410906519 ]
+			},
+			"properties" : {
+				"objectid" : 187,
+				"zones" : "4",
+				"adresse" : " ",
+				"coin_rue" : "Rue Françoise-Rousseau / Boulevard Pie-XII",
+				"abri_bus" : "NON",
+				"no_embarquement" : "4024A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7479845972, 46.539771197 ]
+			},
+			"properties" : {
+				"objectid" : 189,
+				"zones" : "4",
+				"adresse" : "511, 4e rue de la Pointe",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "4000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7442350733, 46.4864845368 ]
+			},
+			"properties" : {
+				"objectid" : 191,
+				"zones" : "5",
+				"adresse" : "3605, rang Saint-Michel",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "5031C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7605325006, 46.5069357421 ]
+			},
+			"properties" : {
+				"objectid" : 195,
+				"zones" : "5",
+				"adresse" : "2590, rang Saint-Pierre",
+				"coin_rue" : "125e Rue / rang Saint-Pierre",
+				"abri_bus" : "NON",
+				"no_embarquement" : "5021D"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7429482947, 46.5189949678 ]
+			},
+			"properties" : {
+				"objectid" : 199,
+				"zones" : "5",
+				"adresse" : "445, 125e Rue",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "5500"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7311472417, 46.5060954322 ]
+			},
+			"properties" : {
+				"objectid" : 200,
+				"zones" : "5",
+				"adresse" : "3955, 105e Avenue",
+				"coin_rue" : " ",
+				"abri_bus" : "NON",
+				"no_embarquement" : "5000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7428151206, 46.6890794068 ]
+			},
+			"properties" : {
+				"objectid" : 203,
+				"zones" : "1",
+				"adresse" : null,
+				"coin_rue" : "Avenue du Panorama / Rue de la Colline",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1103A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7488635642, 46.6221525569 ]
+			},
+			"properties" : {
+				"objectid" : 204,
+				"zones" : "1",
+				"adresse" : null,
+				"coin_rue" : "Chemin des Pionniers / Chemin du Lac-Chrétien",
+				"abri_bus" : "NON",
+				"no_embarquement" : "1062B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7265528012, 46.5300566002 ]
+			},
+			"properties" : {
+				"objectid" : 205,
+				"zones" : "3E",
+				"adresse" : "1520, rang Saint-Mathieu",
+				"coin_rue" : "rang Saint-Mathieu",
+				"abri_bus" : "NON",
+				"no_embarquement" : "3020E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7825960083, 46.5720792986 ]
+			},
+			"properties" : {
+				"objectid" : 206,
+				"zones" : "2",
+				"adresse" : "5352, rue Burrill",
+				"coin_rue" : null,
+				"abri_bus" : "NON",
+				"no_embarquement" : "2056A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7751776406, 46.5610147026 ]
+			},
+			"properties" : {
+				"objectid" : 207,
+				"zones" : "3",
+				"adresse" : "3763, rue Burrill",
+				"coin_rue" : null,
+				"abri_bus" : "NON",
+				"no_embarquement" : "2038A"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6468615553, 46.5860644977 ]
+			},
+			"properties" : {
+				"objectid" : 208,
+				"zones" : "3",
+				"adresse" : "7385, rang Saint-Mathieu",
+				"coin_rue" : null,
+				"abri_bus" : "NON",
+				"no_embarquement" : "3101 E"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7984467023, 46.5862521416 ]
+			},
+			"properties" : {
+				"objectid" : 209,
+				"zones" : "2",
+				"adresse" : "Face au 485, chemin Richard",
+				"coin_rue" : null,
+				"abri_bus" : "NON",
+				"no_embarquement" : "2064A"
+			}
+		}
+	]
+}

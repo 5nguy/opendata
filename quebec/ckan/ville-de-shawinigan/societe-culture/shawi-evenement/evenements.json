@@ -1,0 +1,975 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "EVENEMENT",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7547386548, 46.5405035652 ]
+			},
+			"properties" : {
+				"objectid" : 10,
+				"nom" : "Fête de la pêche de Shawinigan (Ensemencement public de la rivière)",
+				"lieu" : "Place des Canotiers et Rivière Saint-Maurice secteur Shawinigan",
+				"mois" : "06-JUIN",
+				"date" : "1 juin 2024",
+				"annee" : 2024,
+				"web" : "https://mffp.gouv.qc.ca/la-faune/peche/fete-de-la-peche/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Fete de la peche1.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6994761809, 46.6092208874 ]
+			},
+			"properties" : {
+				"objectid" : 16,
+				"nom" : "Les beaux dimanches tout en musique",
+				"lieu" : "Parc Saint-Jean-Baptiste",
+				"mois" : "08-AOÛT",
+				"date" : "Tous les dimanches (Du 26 mai au 2 septembre 2024), de 19h à 22h",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/pages/Les-Beaux-Dimanches-Tout-En-Musique/840267146057505",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Beaux dimanches en musique (1).jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.696107352, 46.6170974834 ]
+			},
+			"properties" : {
+				"objectid" : 25,
+				"nom" : "Fête nationale Grand-Mère",
+				"lieu" : "Parc de la Rivière-Grand-Mère",
+				"mois" : "06-JUIN",
+				"date" : "24 juin 2024",
+				"annee" : 2024,
+				"web" : null,
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/ST Jean Baptiste (1).jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6961330945, 46.6173823537 ]
+			},
+			"properties" : {
+				"objectid" : 11,
+				"nom" : "Relais pour la vie",
+				"lieu" : "Parc de la Rivière-Grand-Mère",
+				"mois" : "06-JUIN",
+				"date" : "8 juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/relaispourlavieShawinigan/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/RelaisPourLaVie.jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6997016575, 46.6090082114 ]
+			},
+			"properties" : {
+				"objectid" : 26,
+				"nom" : "Auto-Expo de Grand-Mère",
+				"lieu" : "Parc Saint-Jean-Baptiste - Grand-Mère",
+				"mois" : "06-JUIN",
+				"date" : "24 juin 2024, de 8h à 17h",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/people/Exposition-dautos-sports-et-antiques-de-Grand-M%C3%A8re/100064325186905/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/AutoExpo.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7524870996, 46.5292849261 ]
+			},
+			"properties" : {
+				"objectid" : 34,
+				"nom" : "Festival du bateau dragon",
+				"lieu" : "Avenue du Capitaine-Veilleux",
+				"mois" : "06-JUIN",
+				"date" : "29 juin 2024",
+				"annee" : 2024,
+				"web" : "http://3rdragon.ca/festival-de-shawinigan/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Bateaux dragons (1).jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7504460471, 46.5236195887 ]
+			},
+			"properties" : {
+				"objectid" : 2,
+				"nom" : "Foire en ville",
+				"lieu" : "105e Avenue, Shawinigan-Sud + Horloge du millénaire",
+				"mois" : "06-JUIN",
+				"date" : "8 et 9 juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/Foire-en-ville-654038294737098/?fref=ts",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Foire en ville.jpg",
+				"saison" : "Été",
+				"type" : "Vie communautaire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7465450759, 46.5367562003 ]
+			},
+			"properties" : {
+				"objectid" : 85,
+				"nom" : "Je bouge avec mon doc",
+				"lieu" : "Parc St-Maurice, Promenade Saint-Maurice , Place des Canotiers",
+				"mois" : "06-JUIN",
+				"date" : "1er juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/JeBougeAvecMonDoc/?fref=ts",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/BougeAvecDoc.jpg",
+				"saison" : "Printemps",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6994761809, 46.6092208874 ]
+			},
+			"properties" : {
+				"objectid" : 83,
+				"nom" : "Les beaux dimanches tout en musique",
+				"lieu" : "Parc Saint-Jean-Baptiste",
+				"mois" : "07-JUILLET",
+				"date" : "Tous les dimanches (Du 26 mai au 2 septembre 2024), de 19h à 22h",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/pages/Les-Beaux-Dimanches-Tout-En-Musique/840267146057505",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Beaux dimanches en musique (1).jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7531597523, 46.5293372813 ]
+			},
+			"properties" : {
+				"objectid" : 55,
+				"nom" : "Championnat provincial M16-M18 canoë-kayak de vitesse",
+				"lieu" : "Avenue du Capitaine-Veilleux",
+				"mois" : "08-AOÛT",
+				"date" : "2 au 4 août 2024",
+				"annee" : 2024,
+				"web" : "http://www.canotageshawinigan.com",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Championnatcanoe.JPG",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.0066842025, 46.6744762329 ]
+			},
+			"properties" : {
+				"objectid" : 64,
+				"nom" : "Les défis du Parc national de la Mauricie de Shawinigan",
+				"lieu" : "Pique-nique Shewenegan, Parc National de la Mauricie",
+				"mois" : "09-SEPTEMBRE",
+				"date" : "Du 6 au 8 septembre 2024",
+				"annee" : 2024,
+				"web" : "http://www.lesdefis.ca",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/DefiParc.jpg",
+				"saison" : "Automne",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7404779999, 46.6920585732 ]
+			},
+			"properties" : {
+				"objectid" : 82,
+				"nom" : "Festival de pêche Saint-Jean-des-Piles",
+				"lieu" : "Centre municipal St-Jean-des-Piles, Parc du Grand-Orme, Parc des Piles",
+				"mois" : "06-JUIN",
+				"date" : "Du 29 mai au 2 juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/festivalsjdp/",
+				"url_photo" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/331602430_956963561884629_2304835281959374707_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Od4lbL_9IwUAX-_l5WX&_nc_ht=scontent-lga3-1.xx&oh=00_AfAsgnerxI04Idx2F_5cK2OhjBQexEwHcn9sfWYfkgbpiw&oe=640CE66D",
+				"saison" : "Printemps",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7365186721, 46.615001407 ]
+			},
+			"properties" : {
+				"objectid" : 53,
+				"nom" : "Rendez-vous des peintres",
+				"lieu" : "Parc de Sainte-Flore",
+				"mois" : "08-AOÛT",
+				"date" : "9 au 11 août 2024",
+				"annee" : 2024,
+				"web" : "http://www.rendezvousdespeintres.ca/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/RDV des peintres (1).jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7844296889, 46.747755614 ]
+			},
+			"properties" : {
+				"objectid" : 104,
+				"nom" : "Défi nordique du Parc de la Mauricie",
+				"lieu" : "Parc national du Canada de la Mauricie (Rivière à la Pêche)",
+				"mois" : "02-FÉVRIER",
+				"date" : "Du 13 au 17 février 2024",
+				"annee" : 2024,
+				"web" : "http://www.lesdefis.ca/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/DefisDuParc_Hiver.jpg",
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6895754829, 46.6121350452 ]
+			},
+			"properties" : {
+				"objectid" : 92,
+				"nom" : "Spectacle de fin d'année CPA",
+				"lieu" : "Aréna Grand-Mère",
+				"mois" : "04-AVRIL",
+				"date" : "14 avril 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/groups/1839541862985661/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/ClubOOkPic.jpg",
+				"saison" : "Printemps",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7552532794, 46.5169259802 ]
+			},
+			"properties" : {
+				"objectid" : 109,
+				"nom" : "Tournoi provincial M9 de Shawinigan",
+				"lieu" : "Aréna Gilles-Bourassa",
+				"mois" : "02-FÉVRIER",
+				"date" : "1er au 4 février 2024 8 au 11 février 2024",
+				"annee" : 2024,
+				"web" : "",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Tournoi novice de Shawinigan-Sud.jpg",
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7456263541, 46.5201344751 ]
+			},
+			"properties" : {
+				"objectid" : 183,
+				"nom" : "Auto-Expo Fou de bolides",
+				"lieu" : "105e Avenue entre la 117e et la 125e Rue",
+				"mois" : "07-JUILLET",
+				"date" : "20 juillet 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/people/Fou-des-bolides/100064637234107/",
+				"url_photo" : "http://www.remorkoto.com/wp-content/uploads/2012/06/divers-8-juin-2012-081-300x224.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6267094572, 46.6100288888 ]
+			},
+			"properties" : {
+				"objectid" : 164,
+				"nom" : "Carnaval d'hiver",
+				"lieu" : "Parc de la Plage-Idéale",
+				"mois" : "02-FÉVRIER",
+				"date" : "17 février 2024",
+				"annee" : 2024,
+				"web" : "https://www.tourismeshawinigan.com/evenement/carnaval-dhiver-du-lac-a-la-tortue-2023/#:~:text=18%20f%C3%A9vrier%20%40%209h30%20%2D%2020h00&text=Une%20panoplie%20d'activit%C3%A9s%3A%20structures,de%20fatbike%20et%20une%20glissade.",
+				"url_photo" : "https://www.tourismeshawinigan.com/app/uploads/2023/02/Carnaval-dhiver-23.jpg",
+				"saison" : "Hiver",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7534745425, 46.5400303489 ]
+			},
+			"properties" : {
+				"objectid" : 216,
+				"nom" : "Tribal Fest",
+				"lieu" : "Place des Canotiers, Parc des Vétérans, Parc Hamilton, Stationnement arrière du bureau de poste et promenade St-Maurice",
+				"mois" : "07-JUILLET",
+				"date" : "26 au 28 juillet 2024",
+				"annee" : 2024,
+				"web" : "https://www.tribalfest.ca/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/TribalFest.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6899813531, 46.6153070236 ]
+			},
+			"properties" : {
+				"objectid" : 163,
+				"nom" : "Fête de la famille secteur Grand-Mère",
+				"lieu" : "5e Rue et avenue de Grand-Mère",
+				"mois" : "08-AOÛT",
+				"date" : "17 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/cdec1209/?locale=fr_CA",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Fetedelafamillegrandmere.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6994761809, 46.6092208874 ]
+			},
+			"properties" : {
+				"objectid" : 637,
+				"nom" : "Les beaux dimanches tout en musique",
+				"lieu" : "Parc Saint-Jean-Baptiste",
+				"mois" : "06-JUIN",
+				"date" : "Tous les dimanches (Du 26 mai au 2 septembre 2024), de 19h à 22h",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/pages/Les-Beaux-Dimanches-Tout-En-Musique/840267146057505",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Beaux dimanches en musique (1).jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7536174138, 46.5399068766 ]
+			},
+			"properties" : {
+				"objectid" : 639,
+				"nom" : "Série du diable",
+				"lieu" : "Place des Canotiers et Promenade du Saint-Maurice et Place du Marché",
+				"mois" : "07-JUILLET",
+				"date" : "4 juin, 18 juin, 16 juillet, 13 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/seriedudiable/?locale=fr_CA",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Serie_du_diable.jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7536174138, 46.5399068766 ]
+			},
+			"properties" : {
+				"objectid" : 640,
+				"nom" : "Série du diable",
+				"lieu" : "Place des Canotiers et Promenade du Saint-Maurice et Place du Marché",
+				"mois" : "08-AOÛT",
+				"date" : "4 juin, 18 juin, 16 juillet, 13 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/seriedudiable/?locale=fr_CA",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Serie_du_diable.jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7494826765, 46.5407386021 ]
+			},
+			"properties" : {
+				"objectid" : 1058,
+				"nom" : "Café-rencontre de voitures anciennes- Fous des bolides",
+				"lieu" : "Place du Marché",
+				"mois" : "06-JUIN",
+				"date" : "Du 4 juillet au 12 septembre 2024, tous les jeudis ",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/Fou-des-bolides-438292729711328/?eid=ARCP9365OWJ1zrDjTCbb1_jon6t3JBfcPtoEDC8XIougabI2-Dy_F6_VdSTMCruIwX836FHeN4pDsr9z",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Cafesrencontresvoituresanciennes.jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7494826765, 46.5407386021 ]
+			},
+			"properties" : {
+				"objectid" : 1061,
+				"nom" : "Café-rencontre de voitures anciennes- Fous des bolides",
+				"lieu" : "Place du Marché",
+				"mois" : "08-AOÛT",
+				"date" : "Du 4 juillet au 12 septembre 2024, tous les jeudis ",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/Fou-des-bolides-438292729711328/?eid=ARCP9365OWJ1zrDjTCbb1_jon6t3JBfcPtoEDC8XIougabI2-Dy_F6_VdSTMCruIwX836FHeN4pDsr9z",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Cafesrencontresvoituresanciennes.jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7494826765, 46.5407386021 ]
+			},
+			"properties" : {
+				"objectid" : 1060,
+				"nom" : "Café-rencontre de voitures anciennes- Fous des bolides",
+				"lieu" : "Place du Marché",
+				"mois" : "07-JUILLET",
+				"date" : "Du 4 juillet au 12 septembre 2024, tous les jeudis ",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/Fou-des-bolides-438292729711328/?eid=ARCP9365OWJ1zrDjTCbb1_jon6t3JBfcPtoEDC8XIougabI2-Dy_F6_VdSTMCruIwX836FHeN4pDsr9z",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Cafesrencontresvoituresanciennes.jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6506327834, 46.6155934999 ]
+			},
+			"properties" : {
+				"objectid" : 1065,
+				"nom" : "La course des Gonflés et après-midi familiale",
+				"lieu" : "Parc Turcotte",
+				"mois" : "05-MAI",
+				"date" : "25 mai 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/lesgonflablesdulac/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Course_des_gonfles.JPG",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6983768417, 46.6072659271 ]
+			},
+			"properties" : {
+				"objectid" : 3139,
+				"nom" : "Tournoi provincial de baseball mineur Mauricie Toyota",
+				"lieu" : "Parc Frank-Gauthier (en cas de pluie)",
+				"mois" : "08-AOÛT",
+				"date" : "30 juillet au 4 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/baseballshawinigan/?locale=fr_CA",
+				"url_photo" : "https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/182122314_415929509571090_5932773268024666756_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=BBqhnDPD0uAAX-F0h3N&_nc_ht=scontent-lga3-1.xx&oh=00_AfCLJTXUFvXNAc6YIMgpabQemzAgu2GrteUJL0nBUQMhcg&oe=64318C44",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6274342696, 46.6099336731 ]
+			},
+			"properties" : {
+				"objectid" : 3137,
+				"nom" : "Shawi-Beach",
+				"lieu" : "Parc de la Plage-Idéale",
+				"mois" : "07-JUILLET",
+				"date" : "20-21 juillet 2024",
+				"annee" : 2024,
+				"web" : "https://www.tourismeshawinigan.com/evenements/categorie/sport-2/",
+				"url_photo" : "https://www.tourismeshawinigan.com/app/uploads/2022/07/Shawi-Beach-Plage-Ideale.jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7411068777, 46.5125676896 ]
+			},
+			"properties" : {
+				"objectid" : 3138,
+				"nom" : "Tournoi provincial de baseball mineur Mauricie Toyota",
+				"lieu" : "Parc multisport Réal-Dufresne",
+				"mois" : "08-AOÛT",
+				"date" : "30 juillet au 4 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/baseballshawinigan/?locale=fr_CA",
+				"url_photo" : "https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/182122314_415929509571090_5932773268024666756_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=BBqhnDPD0uAAX-F0h3N&_nc_ht=scontent-lga3-1.xx&oh=00_AfCLJTXUFvXNAc6YIMgpabQemzAgu2GrteUJL0nBUQMhcg&oe=64318C44",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6962707121, 46.6169564947 ]
+			},
+			"properties" : {
+				"objectid" : 1456,
+				"nom" : "Défi marathon - École primaire CSSE",
+				"lieu" : "Parc de la Rivière-Grand-Mère",
+				"mois" : "06-JUIN",
+				"date" : "14 juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/cssenergie.qc/",
+				"url_photo" : "https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/16x9/defi-marathon-primaire-energie.jpg",
+				"saison" : "Printemps",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.641692139, 46.6459120324 ]
+			},
+			"properties" : {
+				"objectid" : 2283,
+				"nom" : "L'Ultime Édition,  Festival de solidarité musicale",
+				"lieu" : "1320, 95e Rue",
+				"mois" : "07-JUILLET",
+				"date" : "1er au 4 août 2024",
+				"annee" : 2024,
+				"web" : "http://www.widewood.net/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Festival WideWood (1).jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7555386111, 46.5168271042 ]
+			},
+			"properties" : {
+				"objectid" : 117,
+				"nom" : "Tournoi provincial M11/JR Jack St-Onge",
+				"lieu" : "Aréna Gilles-Bourassa",
+				"mois" : "01-JANVIER",
+				"date" : "Du 5 au 7 janvier et du 12 au 14 janvier 2024",
+				"annee" : 2024,
+				"web" : "https://www.publicationsports.com/fr/ms/tournoiatomeshawinigan/index.html",
+				"url_photo" : "http://www.tourismeshawinigan.com/upload/atome.jpg",
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7554977787, 46.5166564054 ]
+			},
+			"properties" : {
+				"objectid" : 217,
+				"nom" : "Tournoi provincial M18 de Shawinigan",
+				"lieu" : "Aréna Gilles-Bourassa",
+				"mois" : "01-JANVIER",
+				"date" : "Du 18 au 28 janvier 2024",
+				"annee" : 2024,
+				"web" : "https://www.publicationsports.com/stats/tournoi/tmjo/index.html",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Tournoi midget junior optimiste de Shawinigan-Sud.jpg",
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6994761809, 46.6092208874 ]
+			},
+			"properties" : {
+				"objectid" : 17,
+				"nom" : "Les beaux dimanches tout en musique",
+				"lieu" : "Parc Saint-Jean-Baptiste",
+				"mois" : "09-SEPTEMBRE",
+				"date" : "Tous les dimanches (Du 26 mai au 2 septembre 2024), de 19h à 22h",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/pages/Les-Beaux-Dimanches-Tout-En-Musique/840267146057505",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Beaux dimanches en musique (1).jpg",
+				"saison" : "Automne",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6994761809, 46.6092208874 ]
+			},
+			"properties" : {
+				"objectid" : 636,
+				"nom" : "Les beaux dimanches tout en musique",
+				"lieu" : "Parc Saint-Jean-Baptiste",
+				"mois" : "05-MAI",
+				"date" : "Tous les dimanches (Du 26 mai au 2 septembre 2024), de 19h à 22h",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/pages/Les-Beaux-Dimanches-Tout-En-Musique/840267146057505",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Beaux dimanches en musique (1).jpg",
+				"saison" : "Printemps",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7447530279, 46.5476672941 ]
+			},
+			"properties" : {
+				"objectid" : 1054,
+				"nom" : "Grand Prix Shawinigan Snocross",
+				"lieu" : "Stationnement Amphithéâtre municipal Gervais auto",
+				"mois" : "02-FÉVRIER",
+				"date" : "24 février 2024",
+				"annee" : 2024,
+				"web" : "https://www.publicationsports.com/fr/ms/tournoiatomeshawinigan/index.html",
+				"url_photo" : "http://www.tourismeshawinigan.com/upload/atome.jpg",
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6963879674, 46.6170649948 ]
+			},
+			"properties" : {
+				"objectid" : 1083,
+				"nom" : "Le défi de la Tortue (course à pied)",
+				"lieu" : "Parc de la Rivière-Grand-Mère",
+				"mois" : "08-AOÛT",
+				"date" : "24 août 2024",
+				"annee" : 2024,
+				"web" : "https://defidelatortue.jimdo.com/",
+				"url_photo" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/301931905_765440454793090_591233842368947624_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c5KrshNn5vEAX_qizBH&_nc_ht=scontent-lga3-1.xx&oh=00_AfAdwd0cWgFBpDUG99Sj57CAWqmH8YDqIEZji1RlmtGNew&oe=640FC9E7",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7492233775, 46.5409662809 ]
+			},
+			"properties" : {
+				"objectid" : 3123,
+				"nom" : "Les Escales Fantastiques",
+				"lieu" : "Centre-ville Shawinigan",
+				"mois" : "08-AOÛT",
+				"date" : "Du 15 au 17 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.lesescalesfantastiques.ca/",
+				"url_photo" : "https://www.tourismeshawinigan.com/app/uploads/2022/08/Escales-fantastiques.jpg",
+				"saison" : "Été",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7422599422, 46.5388542059 ]
+			},
+			"properties" : {
+				"objectid" : 3120,
+				"nom" : "Pique-Ethnique",
+				"lieu" : "Parc Saint-Maurice",
+				"mois" : "06-JUIN",
+				"date" : "16 juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/sanashawinigan",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Pique-Ethnique.jpg",
+				"saison" : "Été",
+				"type" : "Vie communautaire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7431863524, 46.5148410916 ]
+			},
+			"properties" : {
+				"objectid" : 1071,
+				"nom" : "Fête familiale du Club optimiste de Shawinigan-Sud",
+				"lieu" : "Parc Boisvert",
+				"mois" : "06-JUIN",
+				"date" : "15 juin 2024(remis au 16 juin en cas de pluie)",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/people/Club-optimiste-de-Shawinigan-Sud/100067511704302/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Fête de la famille.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7344211364, 46.5761995566 ]
+			},
+			"properties" : {
+				"objectid" : 3131,
+				"nom" : "Tournoi ultimate (Frisbeefest)",
+				"lieu" : "Complexe sportif René-Perron",
+				"mois" : "05-MAI",
+				"date" : "25 et 26 mai 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/FQUltimate/?locale=fr_CA",
+				"url_photo" : "https://www.facebook.com/photo/?fbid=614670293999689&set=a.451938390272881&locale=fr_CA",
+				"saison" : "Printemps",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7536174138, 46.5399068766 ]
+			},
+			"properties" : {
+				"objectid" : 638,
+				"nom" : "Série du diable",
+				"lieu" : "Place des Canotiers et Promenade du Saint-Maurice et Place du Marché",
+				"mois" : "06-JUIN",
+				"date" : "4 juin, 18 juin, 16 juillet, 13 août 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/seriedudiable/?locale=fr_CA",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Serie_du_diable.jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7451083542, 46.5398908305 ]
+			},
+			"properties" : {
+				"objectid" : 211,
+				"nom" : "Course à pied Mets tes souliers organisée par l'école Immaculée-Conception",
+				"lieu" : "Pistes cyclables, Centre Gervais Auto, Parc, Prom. du Saint-Maurice, Av. Broadway",
+				"mois" : "05-MAI",
+				"date" : "4 mai 2024",
+				"annee" : 2024,
+				"web" : "https://inscriptions.sportchrono.com/inscriptions/mets-tes-souliers-pour-ic-2023",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Mets_tes_souliers_pour_IC.jpg",
+				"saison" : "Printemps",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6968555171, 46.6168158509 ]
+			},
+			"properties" : {
+				"objectid" : 3149,
+				"nom" : "Chasse aux cocos",
+				"lieu" : "Parc de la Rivière Grand-Mère et 11e Avenue",
+				"mois" : "04-AVRIL",
+				"date" : "Chasse aux cocos",
+				"annee" : 2024,
+				"web" : "https://www.tourismeshawinigan.com/evenement/chasse-aux-cocos/",
+				"url_photo" : "https://www.tourismeshawinigan.com/app/uploads/2023/03/Chasse-aux-cocos.jpg",
+				"saison" : "Printemps",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6892996319, 46.6120200316 ]
+			},
+			"properties" : {
+				"objectid" : 3163,
+				"nom" : "Tournoi provincial M11/JR Jack St-Onge",
+				"lieu" : "Aréna Gilles-Bourassa",
+				"mois" : "01-JANVIER",
+				"date" : "Du 5 au 7 janvier et du 12 au 14 janvier 2024",
+				"annee" : 2024,
+				"web" : "https://www.publicationsports.com/fr/ms/tournoiatomeshawinigan/index.html",
+				"url_photo" : "http://www.tourismeshawinigan.com/upload/atome.jpg",
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7494826765, 46.5407386021 ]
+			},
+			"properties" : {
+				"objectid" : 1062,
+				"nom" : "Café-rencontre de voitures anciennes- Fous des bolides",
+				"lieu" : "Place du Marché",
+				"mois" : "09-SEPTEMBRE",
+				"date" : "Du 4 juillet au 12 septembre 2024, tous les jeudis ",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/Fou-des-bolides-438292729711328/?eid=ARCP9365OWJ1zrDjTCbb1_jon6t3JBfcPtoEDC8XIougabI2-Dy_F6_VdSTMCruIwX836FHeN4pDsr9z",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/Cafesrencontresvoituresanciennes.jpg",
+				"saison" : "Automne",
+				"type" : "Arts et culture"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7404779999, 46.6920585732 ]
+			},
+			"properties" : {
+				"objectid" : 3165,
+				"nom" : "Festival de pêche Saint-Jean-des-Piles",
+				"lieu" : "Centre municipal St-Jean-des-Piles, Parc du Grand-Orme, Parc des Piles",
+				"mois" : "05-MAI",
+				"date" : "Du 29 mai au 2 juin 2024",
+				"annee" : 2024,
+				"web" : "https://www.facebook.com/festivalsjdp/",
+				"url_photo" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/331602430_956963561884629_2304835281959374707_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Od4lbL_9IwUAX-_l5WX&_nc_ht=scontent-lga3-1.xx&oh=00_AfAsgnerxI04Idx2F_5cK2OhjBQexEwHcn9sfWYfkgbpiw&oe=640CE66D",
+				"saison" : "Printemps",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7627141911, 46.5282732292 ]
+			},
+			"properties" : {
+				"objectid" : 3164,
+				"nom" : "Fat Fest",
+				"lieu" : "Station plein air Val-Mauricie et Parc des chutes",
+				"mois" : "03-MARS",
+				"date" : "9 mars 2024",
+				"annee" : 2024,
+				"web" : null,
+				"url_photo" : null,
+				"saison" : "Hiver",
+				"type" : "Sports et loisirs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7538772712, 46.53433182 ]
+			},
+			"properties" : {
+				"objectid" : 3166,
+				"nom" : "Fête de la pêche de Shawinigan",
+				"lieu" : "Parc de l'Île-Melville",
+				"mois" : "06-JUIN",
+				"date" : "7 et 9 juin 2024",
+				"annee" : 2024,
+				"web" : "https://mffp.gouv.qc.ca/la-faune/peche/fete-de-la-peche/",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Fete de la peche1.jpg",
+				"saison" : "Été",
+				"type" : "Fêtes et festivals"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7523584738, 46.5292733522 ]
+			},
+			"properties" : {
+				"objectid" : 3169,
+				"nom" : "Festival Knockout (bateau-dragon)",
+				"lieu" : "Avenue du Capitaine-Veilleux",
+				"mois" : "08-AOÛT",
+				"date" : "24 août 2024",
+				"annee" : 2024,
+				"web" : "",
+				"url_photo" : "http://jmap.shawinigan.ca/doc/photos/test/Bateaux dragons (1).jpg",
+				"saison" : "Été",
+				"type" : "Sports et loisirs"
+			}
+		}
+	]
+}
