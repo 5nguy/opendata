@@ -1,0 +1,435 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "vanne-maintien-pression-v3r",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5558398363, 46.3689597462 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7131,
+				"LABEL" : "43VMP57",
+				"DIAMETER__VALVE_" : 63,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6217021408, 46.3410905109 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7132,
+				"LABEL" : "25VMP02",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6491007292, 46.3069525752 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7133,
+				"LABEL" : "37VMP01",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5558352693, 46.3689819035 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7134,
+				"LABEL" : "43VMP58",
+				"DIAMETER__VALVE_" : 100,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6223685991, 46.3415263741 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7135,
+				"LABEL" : "25VMP03",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5646329132, 46.3970002569 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7136,
+				"LABEL" : "42VMP40",
+				"DIAMETER__VALVE_" : 76.2,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5544290054, 46.3875512942 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7137,
+				"LABEL" : "42VMP15",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5562867577, 46.3892709675 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7138,
+				"LABEL" : "42VMP14",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5604905514, 46.3831562317 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7139,
+				"LABEL" : "42VMP22",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5449531606, 46.3758274583 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7140,
+				"LABEL" : "43VMP33",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5456177206, 46.3717635379 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7141,
+				"LABEL" : "43VMP26",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5463230942, 46.3707091185 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7142,
+				"LABEL" : "43VMP37",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5235892793, 46.3729314571 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7143,
+				"LABEL" : "43VMP19",
+				"DIAMETER__VALVE_" : 76.2,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.533364331, 46.3763949359 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7144,
+				"LABEL" : "43VMP04",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5291579479, 46.3841233462 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7145,
+				"LABEL" : "43VMP56",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6111925855, 46.4053213293 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7146,
+				"LABEL" : "61VMP11",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6112632941, 46.405359276 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7147,
+				"LABEL" : "61VMP12",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5768901216, 46.3889176477 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7148,
+				"LABEL" : "61VMP22",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5772541776, 46.3885414039 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7149,
+				"LABEL" : "61VMP21",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.555819452, 46.3688757517 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7150,
+				"LABEL" : "43VMP59",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5291088047, 46.3840799093 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7151,
+				"LABEL" : "43VMP55",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5292319243, 46.384050988 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7152,
+				"LABEL" : "43VMP54",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.529176346, 46.3840992696 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7153,
+				"LABEL" : "43VMP53",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5291331029, 46.384059407 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7154,
+				"LABEL" : "43VMP52",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5292003921, 46.3840782505 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7155,
+				"LABEL" : "43VMP51",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5777406498, 46.3881322543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7156,
+				"LABEL" : "61VMP23",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5567356626, 46.3876697899 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7157,
+				"LABEL" : "42VMP41",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6116764142, 46.3806083707 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7158,
+				"LABEL" : "11VMP03",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6906701563, 46.2974600758 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7159,
+				"LABEL" : "37VMP02",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5406527198, 46.3563737499 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7160,
+				"LABEL" : "13VMP01",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5599951061, 46.3858250893 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7161,
+				"LABEL" : "42VMP18",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6138729506, 46.3791669405 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7162,
+				"LABEL" : "11VMP02",
+				"DIAMETER__VALVE_" : 152.4,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6341247885, 46.3488675887 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7163,
+				"LABEL" : "15VMP02",
+				"DIAMETER__VALVE_" : 150,
+				"TYPE" : "VANNE DE MAINTIENT DE PRESSION"
+			}
+		}
+	]
+}

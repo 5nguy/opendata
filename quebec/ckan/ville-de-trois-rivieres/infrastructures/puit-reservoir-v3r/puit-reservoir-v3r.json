@@ -1,0 +1,1182 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "puit-reservoir-v3r",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5118605709, 46.384280692 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20199,
+				"LABEL" : "43PUI24-1-aband",
+				"NOM" : "Puits # 24-1 (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6116516396, 46.3806214472 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20200,
+				"LABEL" : "Rivière",
+				"NOM" : "",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5770609664, 46.388460557 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20201,
+				"LABEL" : "61PUI01",
+				"NOM" : "Puits # 1 SLF",
+				"ZONE" : "Mairie-Masse",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5307591639, 46.382774312 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20202,
+				"LABEL" : "43PUI09-aband",
+				"NOM" : "Puits # 9  (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5126202578, 46.3827102201 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20203,
+				"LABEL" : "43PUI24-3-aband",
+				"NOM" : "Puits # 24-3 (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5123308488, 46.3833028645 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20204,
+				"LABEL" : "43PUI24-2-aband",
+				"NOM" : "Puits # 24-2 (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7166141021, 46.3253367397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20205,
+				"LABEL" : "37PUI6B-aband",
+				"NOM" : "Puits # 6B Yamachiche  (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.711460042, 46.332478378 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20206,
+				"LABEL" : "37PUI02-aband",
+				"NOM" : "Puits # 2 Yamachiche  (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7097377657, 46.3301248537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20207,
+				"LABEL" : "37PUI2B-aband",
+				"NOM" : "Puits # 2-B Biron (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6110981198, 46.4053163952 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20208,
+				"LABEL" : "61PUI04",
+				"NOM" : "Puits # 4 SLF",
+				"ZONE" : "Mairie-Masse",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5287321308, 46.3836083279 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20209,
+				"LABEL" : "43PUI31",
+				"NOM" : "Puits # 31 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.611480329, 46.4062878985 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20210,
+				"LABEL" : "61PUI06",
+				"NOM" : "Puits # 6 SLF",
+				"ZONE" : "Mairie-Masse",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5290273257, 46.3881793796 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20211,
+				"LABEL" : "43PUI44",
+				"NOM" : "Puits # 44 Chateaudun - vers le réservoir des Érables",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5573629337, 46.3869760227 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20212,
+				"LABEL" : "42PUI25",
+				"NOM" : "Puits # 25 CAP",
+				"ZONE" : "Cardinal-Roy",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5124470531, 46.3903305141 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20213,
+				"LABEL" : "54RSV01",
+				"NOM" : "Réservoir St-Malo",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5256260933, 46.3851940929 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20215,
+				"LABEL" : "43PUI34",
+				"NOM" : "Puits # 34 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5558882641, 46.3689799091 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20217,
+				"LABEL" : "43RSV02",
+				"NOM" : "Réservoir Vachon",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5682553326, 46.3242513579 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20218,
+				"LABEL" : "23RSV24",
+				"NOM" : "Réservoir du Carrefour",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6826643077, 46.3731012719 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20219,
+				"LABEL" : "15PUI10",
+				"NOM" : "Puits # 10 boul. St-Jean",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6794182411, 46.3764156337 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20220,
+				"LABEL" : "15PUI09",
+				"NOM" : "Puits # 9 boul. St-Jean",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6673697181, 46.3720246088 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20221,
+				"LABEL" : "15PUI03",
+				"NOM" : "Puits # 3 boul. St-Jean",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6632885658, 46.3717670897 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20222,
+				"LABEL" : "15PUI04-aband",
+				"NOM" : "Puits # 4 boul. Industriel  (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6649132106, 46.3703074001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20223,
+				"LABEL" : "15PUI02",
+				"NOM" : "Puits # 2 boul. St-Jean",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6726570403, 46.3710105371 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20224,
+				"LABEL" : "15PUI07",
+				"NOM" : "Puits # 7 ch. de l'aéroport",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6709069596, 46.3712152736 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20225,
+				"LABEL" : "15PUI08",
+				"NOM" : "Puits # 8 ch. de l'aéroport",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6679876152, 46.3701405123 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20226,
+				"LABEL" : "15PUI06",
+				"NOM" : "Puits # 6 ch. de l'aéroport",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6691198907, 46.371354177 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20227,
+				"LABEL" : "15PUI05",
+				"NOM" : "Puits # 5 boul. St-Jean",
+				"ZONE" : "St-Jean",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6342828741, 46.3482945523 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20228,
+				"LABEL" : "15PUI01-aband",
+				"NOM" : "Puits # 1 boul. St-Jean (DÉSAFFECTER DEPUIS 2008)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.613761582, 46.3790849605 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20229,
+				"LABEL" : "11RSV01",
+				"NOM" : "Réservoir Usine de filtration",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.651077947, 46.3066792302 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20230,
+				"LABEL" : "37PUI05",
+				"NOM" : "Puits # 5 PDL",
+				"ZONE" : "Larivière",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.529110214, 46.3841152547 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20231,
+				"LABEL" : "43RSV01",
+				"NOM" : "Réservoir des Érables",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6483431809, 46.307389465 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20233,
+				"LABEL" : "37PUI03",
+				"NOM" : "Puits # 3 PDL",
+				"ZONE" : "Larivière",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6492035239, 46.3070873607 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20234,
+				"LABEL" : "37RSV01",
+				"NOM" : "Réservoir Larivière",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6217736019, 46.3415108993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20235,
+				"LABEL" : "25RSV01",
+				"NOM" : "Réservoir Saint-Jean",
+				"ZONE" : "St-Jean Gravitaire",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7089427283, 46.3317917247 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20236,
+				"LABEL" : "37PUI04-aband",
+				"NOM" : "Puits # 4 Comeau (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.716559928, 46.3253627635 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20237,
+				"LABEL" : "37PUI6A-aband",
+				"NOM" : "Puits # 6A Yamachiche  (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7367099849, 46.3192416636 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20238,
+				"LABEL" : "37PUI7A-aband",
+				"NOM" : "Puits riviere aux glaises (DÉSAFFECTER)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.7097657601, 46.3301052111 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20239,
+				"LABEL" : "37PUI2A-aband",
+				"NOM" : "Puits # 2-A Biron (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6904044356, 46.2975925211 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20240,
+				"LABEL" : "37RSV02",
+				"NOM" : "Réservoir Saint-Charles",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5230056576, 46.3832371669 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20241,
+				"LABEL" : "43PUI16",
+				"NOM" : "Puits # 16 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5144258869, 46.3870792123 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20242,
+				"LABEL" : "43PUI07",
+				"NOM" : "Puits # 7 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.51913442, 46.3833214634 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20243,
+				"LABEL" : "43PUI17",
+				"NOM" : "Puits # 17 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5234951663, 46.3876743183 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20244,
+				"LABEL" : "43PUI38",
+				"NOM" : "Puits # 38 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5219570308, 46.385574248 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20245,
+				"LABEL" : "43PUI27",
+				"NOM" : "Puits # 27 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5174975038, 46.3856564546 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20246,
+				"LABEL" : "43PUI13",
+				"NOM" : "Puits # 13 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5139175375, 46.3891414539 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20247,
+				"LABEL" : "54PUI05",
+				"NOM" : "Puits # 5 SMC - vers le réservoir des Érables",
+				"ZONE" : "des Érables Sud",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5190349128, 46.3901405722 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20248,
+				"LABEL" : "54PUI06",
+				"NOM" : "Puits # 6 SMC - vers le réservoir des Érables",
+				"ZONE" : "des Érables Sud",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5172753268, 46.3938911943 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20249,
+				"LABEL" : "54PUI04",
+				"NOM" : "Puits # 4 SMC - vers le réservoir des Érables",
+				"ZONE" : "des Érables Sud",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5138336285, 46.3912267677 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20250,
+				"LABEL" : "54PUI02",
+				"NOM" : "Puits # 2 SMC - vers le réservoir des Érables",
+				"ZONE" : "des Érables Sud",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5129506778, 46.3905981254 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20251,
+				"LABEL" : "54PUI01",
+				"NOM" : "Puits # 1 SMC - vers le réservoir des Érables",
+				"ZONE" : "des Érables Sud",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5126210753, 46.3890524138 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20252,
+				"LABEL" : "54PUI03-aband",
+				"NOM" : "Puits # 3 SMC",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6025403112, 46.4244552839 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20253,
+				"LABEL" : "61RSV01",
+				"NOM" : "Réservoir de la Mairie",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5777051979, 46.3881309967 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20254,
+				"LABEL" : "61RSV22",
+				"NOM" : "Réservoir Masse",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5406374961, 46.3563731984 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20255,
+				"LABEL" : "13RSV01",
+				"NOM" : "Réservoir des Chenaux",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5462621683, 46.3711657844 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20256,
+				"LABEL" : "43PUI30-aband",
+				"NOM" : "Puits # 30 (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5463237993, 46.3706167132 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20257,
+				"LABEL" : "43PUI37-aband",
+				"NOM" : "Puits # 37 (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.54576561, 46.3717575511 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20258,
+				"LABEL" : "43PUI26-aband",
+				"NOM" : "Puits # 26 (DÉSAFFECTER DEPUIS 2013)",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5268150324, 46.374834163 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20259,
+				"LABEL" : "43PUI36",
+				"NOM" : "Puits # 36 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5190983607, 46.3787738283 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20260,
+				"LABEL" : "43PUI10",
+				"NOM" : "Puits # 10 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5569211522, 46.3879276298 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20261,
+				"LABEL" : "42RSV11",
+				"NOM" : "Réservoir Cardinal-Roy",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.560210889, 46.3857364349 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20262,
+				"LABEL" : "42PUI18",
+				"NOM" : "Puits # 18 CAP",
+				"ZONE" : "Cardinal-Roy",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5605876274, 46.3830340894 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20263,
+				"LABEL" : "42PUI22",
+				"NOM" : "Puits # 22 CAP",
+				"ZONE" : "Cardinal-Roy",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5237053994, 46.3730231602 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20264,
+				"LABEL" : "43PUI19-aband",
+				"NOM" : "Puits # 19 CAP - Fermé",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5334810415, 46.3764034629 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20265,
+				"LABEL" : "43PUI04",
+				"NOM" : "Puits # 4 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5291496772, 46.3793039194 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20266,
+				"LABEL" : "43PUI35",
+				"NOM" : "Puits # 35 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5312372574, 46.3833001052 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20268,
+				"LABEL" : "43PUI41",
+				"NOM" : "Puits # 41 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5648525415, 46.3969598777 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20269,
+				"LABEL" : "42PUI40",
+				"NOM" : "Puits # 40 CAP",
+				"ZONE" : "Cardinal-Roy",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5335075882, 46.3851709196 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20271,
+				"LABEL" : "43PUI43",
+				"NOM" : "Puits # 43 Chateaudun - vers le réservoir des Érables",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6486910029, 46.3065511768 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20272,
+				"LABEL" : "37PUI07",
+				"NOM" : "Puits # 7 PDL",
+				"ZONE" : "Larivière",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5766311482, 46.3887673065 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20274,
+				"LABEL" : "61PUI02",
+				"NOM" : "Puits # 2 SLF",
+				"ZONE" : "Mairie-Masse",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6023341148, 46.4242969202 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20277,
+				"LABEL" : "61PUI03A",
+				"NOM" : "Puits # 3A SLF",
+				"ZONE" : "Mairie-Masse",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6024083996, 46.4243685798 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20278,
+				"LABEL" : "61PUI03",
+				"NOM" : "Puits # 3 SLF",
+				"ZONE" : "Mairie-Masse",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5462734527, 46.3704652731 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20279,
+				"LABEL" : "43PUI37",
+				"NOM" : "Puits # 37 CAP - Champoux",
+				"ZONE" : "Vachon",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5463068338, 46.3711610286 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20280,
+				"LABEL" : "43PUI30",
+				"NOM" : "Puits # 30 CAP - Champoux",
+				"ZONE" : "Vachon",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5460598747, 46.3717581764 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20281,
+				"LABEL" : "43PUI26",
+				"NOM" : "Puits # 26 CAP - Champoux",
+				"ZONE" : "Vachon",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6105953935, 46.3811373865 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20282,
+				"LABEL" : "Rivière St-Maurice",
+				"NOM" : "",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.530436806, 46.3873897614 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20283,
+				"LABEL" : "43PUI45",
+				"NOM" : "Puits # 45 Chateaudun - vers le réservoir des Érables",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5562915896, 46.389244098 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20284,
+				"LABEL" : "42PUI14",
+				"NOM" : "Puits # 14 CAP",
+				"ZONE" : "Cardinal-Roy",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5377379469, 46.3803948815 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20285,
+				"LABEL" : "43PUI20",
+				"NOM" : "Puits # 20 CAP",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5566974433, 46.3876559304 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20286,
+				"LABEL" : "42RSV11A",
+				"NOM" : "Réservoir Cardinal-Roy",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "True"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6114791063, 46.4063391722 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20287,
+				"LABEL" : "61PUI05-aband",
+				"NOM" : "Puits # 5 SLF - Fermé",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5394129337, 46.3718684146 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20288,
+				"LABEL" : "43PUI39-aband",
+				"NOM" : "Puits # 39 CAP - Fermé",
+				"ZONE" : null,
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5541184196, 46.3874503873 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20289,
+				"LABEL" : "42PUI15",
+				"NOM" : "Puits # 15 CAP",
+				"ZONE" : "Cardinal-Roy",
+				"IS_ACTIVE_" : "False"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.531187164, 46.3862786193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20290,
+				"LABEL" : "43PUI42",
+				"NOM" : "Puits # 42 Chateaudun - vers le réservoir des Érables",
+				"ZONE" : "des Érables",
+				"IS_ACTIVE_" : "False"
+			}
+		}
+	]
+}

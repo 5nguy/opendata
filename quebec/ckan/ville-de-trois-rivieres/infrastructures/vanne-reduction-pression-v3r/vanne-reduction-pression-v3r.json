@@ -1,0 +1,721 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "vanne-reduction-pression-v3r",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5085924115, 46.3886978047 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13061,
+				"LABEL" : "54VRP04",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5067659324, 46.3903675775 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13062,
+				"LABEL" : "54VRP03",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.571015682, 46.3830703651 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13063,
+				"LABEL" : "42VRP18",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6613334109, 46.300405947 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13064,
+				"LABEL" : "37VRP16",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5433112241, 46.3792567055 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13065,
+				"LABEL" : "43VRP20",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5692819675, 46.3718991669 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13067,
+				"LABEL" : "42VRP12",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6024338475, 46.4244157035 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13068,
+				"LABEL" : "61VRP02",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5777016267, 46.3881448621 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13069,
+				"LABEL" : "61VRP21",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5777130035, 46.3881360567 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13070,
+				"LABEL" : "61VRP22",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5777358875, 46.3881322384 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13071,
+				"LABEL" : "61VRP23",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5519822748, 46.3755587567 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13072,
+				"LABEL" : "42VRP16",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6024342545, 46.424409218 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13073,
+				"LABEL" : "61VRP01",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.529109301, 46.3838926417 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13074,
+				"LABEL" : "43VRP02",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 400
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5172494902, 46.3752115416 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13075,
+				"LABEL" : "43VRP22",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5348669158, 46.368364789 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13076,
+				"LABEL" : "43VRP23",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5294635683, 46.3737581371 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13077,
+				"LABEL" : "43VRP26",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6212481883, 46.3413960806 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13078,
+				"LABEL" : "25VRP22",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5348748991, 46.368361522 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13079,
+				"LABEL" : "43VRP30",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5658860284, 46.3639281548 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13080,
+				"LABEL" : "12VRP10",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5233055931, 46.3699727794 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13081,
+				"LABEL" : "43VRP24",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6085931351, 46.298841409 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13082,
+				"LABEL" : "26VRP16",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5386176798, 46.3776441336 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13083,
+				"LABEL" : "43VRP27",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6212790766, 46.3413884589 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13084,
+				"LABEL" : "25VRP23",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6622504818, 46.2992003859 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13085,
+				"LABEL" : "37VRP15",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6687431701, 46.2939751785 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13086,
+				"LABEL" : "37VRP13",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6093335932, 46.2986719048 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13087,
+				"LABEL" : "26VRP18",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 80
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6078620281, 46.2989911424 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13088,
+				"LABEL" : "26VRP14",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6102478437, 46.2984183379 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13089,
+				"LABEL" : "26VRP20",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 150
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.596386636, 46.3022391625 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13090,
+				"LABEL" : "26VRP22",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6492324422, 46.3070402254 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13091,
+				"LABEL" : "37VRP02",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6905405113, 46.2974882073 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13092,
+				"LABEL" : "37VRP24",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6173103947, 46.2963030689 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13093,
+				"LABEL" : "26VRP23",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5980468592, 46.3315113873 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13094,
+				"LABEL" : "23VRP20",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5989571695, 46.346199017 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13095,
+				"LABEL" : "24VRP03",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6015138769, 46.3435374664 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13096,
+				"LABEL" : "24VRP31",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6053524971, 46.3301631146 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13097,
+				"LABEL" : "25VRP21",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5600658646, 46.3611545249 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13098,
+				"LABEL" : "13VRP5B",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5616564424, 46.3569777459 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13099,
+				"LABEL" : "12VRP4B",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 63
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5656280574, 46.3445798575 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13100,
+				"LABEL" : "12VRP04",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5845776899, 46.3697862005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13101,
+				"LABEL" : "12VRP1B",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 32
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5845970197, 46.3697824775 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13102,
+				"LABEL" : "12VRP1A",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 150
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.557168112, 46.3505547875 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13103,
+				"LABEL" : "12VRP06",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5600704368, 46.3612026971 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13104,
+				"LABEL" : "13VRP5A",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5864669735, 46.3434388796 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13105,
+				"LABEL" : "12VRP02",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5616482367, 46.3569961722 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13106,
+				"LABEL" : "12VRP4A",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5291262433, 46.3838779304 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13107,
+				"LABEL" : "43VRP28",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 400
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6492284417, 46.3070434473 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13108,
+				"LABEL" : "37VRP01",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.666347484, 46.2954451316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13110,
+				"LABEL" : "37VRP14",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.515457913, 46.3813604632 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13111,
+				"LABEL" : "43VRP25",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5291314322, 46.3839714858 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13112,
+				"LABEL" : "43VRP29",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.4884050569, 46.40525398 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13113,
+				"LABEL" : "54VRP05",
+				"TYPE" : "VANNE DE REDUCTION DE PRESSION",
+				"DIAMETER__VALVE_" : 150
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6124423474, 46.3547137872 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13114,
+				"LABEL" : "24VRP01",
+				"TYPE" : "",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6126039085, 46.3344682427 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13115,
+				"LABEL" : "25VRP24",
+				"TYPE" : "",
+				"DIAMETER__VALVE_" : 200
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6212560378, 46.3413938655 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13116,
+				"LABEL" : "25VRP25",
+				"TYPE" : "",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6523597061, 46.3276600794 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13123,
+				"LABEL" : "15VRP01",
+				"TYPE" : "",
+				"DIAMETER__VALVE_" : 250
+			}
+		}
+	]
+}

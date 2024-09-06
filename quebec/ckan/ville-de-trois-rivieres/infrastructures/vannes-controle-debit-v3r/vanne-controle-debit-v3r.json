@@ -1,0 +1,266 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "vanne-controle-debit-v3r",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5310221298, 46.3861068286 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5161,
+				"LABEL" : "43FCV42",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5310166665, 46.3861030881 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5162,
+				"LABEL" : "43FCV43",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5464756749, 46.3712872581 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5163,
+				"LABEL" : "43FCV45",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5406223906, 46.3563613673 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5164,
+				"LABEL" : "FCV-18",
+				"TYPE" : "",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5393620237, 46.3719321949 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5166,
+				"LABEL" : "43FCV39",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.526935746, 46.374928243 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5167,
+				"LABEL" : "43FCV36",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5462604764, 46.3710910897 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5168,
+				"LABEL" : "43FCV30",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5289911972, 46.3791912364 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5169,
+				"LABEL" : "43FCV35",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 76.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5191949026, 46.3787102587 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5170,
+				"LABEL" : "43FCV10",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 76.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6690316045, 46.3713810261 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5171,
+				"LABEL" : "15FCV05",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5464761416, 46.3712989061 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5172,
+				"LABEL" : "43FCV44",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5558278523, 46.3688699397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5173,
+				"LABEL" : "43FCV47",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6722791608, 46.3710115569 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5174,
+				"LABEL" : "15FCV07",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.682714442, 46.3733241771 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5175,
+				"LABEL" : "15FCV10",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6792797845, 46.3763279458 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5177,
+				"LABEL" : "15FCV09",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6711771468, 46.3709800165 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5178,
+				"LABEL" : "15FCV08",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 250
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.531038571, 46.3861187559 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5179,
+				"LABEL" : "43FCV40",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5464754325, 46.3712790085 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5180,
+				"LABEL" : "43FCV46",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6679660857, 46.3701973549 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5181,
+				"LABEL" : "15FCV06",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.531033435, 46.386114446 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5182,
+				"LABEL" : "43FCV41",
+				"TYPE" : "VANNE DE CONTROLE DE DEBIT",
+				"DIAMETER__VALVE_" : 152.4
+			}
+		}
+	]
+}
