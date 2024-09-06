@@ -1,0 +1,6209 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "SAG_StationnementMobReduite",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2529491656, 48.408616947 ]
+			},
+			"properties" : {
+				"id" : 3077,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Palais des sports/2315, Rue Pelletier, Jonquière, QC",
+				"nb_case" : 8,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2546553082, 48.4115287981 ]
+			},
+			"properties" : {
+				"id" : 3078,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Colbert/2554, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2554304544, 48.4102089396 ]
+			},
+			"properties" : {
+				"id" : 3079,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Saint-Simon/2497, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2563508636, 48.4095434963 ]
+			},
+			"properties" : {
+				"id" : 3080,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Saint-Simon/2509, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2559070421, 48.4098477097 ]
+			},
+			"properties" : {
+				"id" : 3081,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Saint-Simon/2527, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2567421153, 48.4085560876 ]
+			},
+			"properties" : {
+				"id" : 3082,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Presbytère Saint-Dominique/2551, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2578991568, 48.4076850538 ]
+			},
+			"properties" : {
+				"id" : 3083,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Patro de Jonquière/2565, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2580079849, 48.4075089551 ]
+			},
+			"properties" : {
+				"id" : 3084,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Patro de Jonquière/2565, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2609838595, 48.4082654228 ]
+			},
+			"properties" : {
+				"id" : 3085,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre communautaire Nikitoutagan/2330, Rue de la Rivière-Aux-Sables, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2661759174, 48.4070926047 ]
+			},
+			"properties" : {
+				"id" : 3086,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre communautaire Saint-Raphaël/2435, Rue Saint-Jean-Baptiste, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2684339036, 48.4105427057 ]
+			},
+			"properties" : {
+				"id" : 3087,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre Culturel Mont Jacab/4160, Rue du Vieux-Pont, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2660735851, 48.4210813416 ]
+			},
+			"properties" : {
+				"id" : 3088,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Parc Mousseau/4135, Rue de la Loire, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3707448874, 48.339984356 ]
+			},
+			"properties" : {
+				"id" : 3089,
+				"municipalite" : "94068",
+				"secteur" : "Lac Kénogami",
+				"emplacement" : "Chapelle de Saint-Cyriac/5618, Rue de la Chapelle, Lac-Kénogami, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3337225941, 48.353650805 ]
+			},
+			"properties" : {
+				"id" : 3090,
+				"municipalite" : "94068",
+				"secteur" : "Lac Kénogami",
+				"emplacement" : "Édifice administratif (Lac-Kénogami) et Bibliothèque/3000, Chemin de l'Église, Lac-Kénogami, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2647915092, 48.5061042817 ]
+			},
+			"properties" : {
+				"id" : 3091,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Shipshaw",
+				"emplacement" : "Centre multiservice de Shipshaw et Bibliothèque publique/4100, Rue des Ormes, Shipshaw, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2646712626, 48.4661376035 ]
+			},
+			"properties" : {
+				"id" : 3092,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Shipshaw",
+				"emplacement" : "Point de service de Shipshaw (Édifice Administratif)/3760, Route Saint Léonard, Shipshaw, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2588830755, 48.4593240892 ]
+			},
+			"properties" : {
+				"id" : 3093,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Shipshaw",
+				"emplacement" : "Centre communautaire de Shipshaw/1983, Rue de la Montage, Shipshaw, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8793978447, 48.3438325944 ]
+			},
+			"properties" : {
+				"id" : 3094,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Pavillon d'accueil Croisières/900, Rue Mars, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8781897666, 48.341330083 ]
+			},
+			"properties" : {
+				"id" : 3095,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Parc Mars (Toilettes publiques)/798, Rue Mars, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8786292009, 48.3422909863 ]
+			},
+			"properties" : {
+				"id" : 3096,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Parc Mars (Toilettes publiques)/798, Rue Mars, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8789257529, 48.339638462 ]
+			},
+			"properties" : {
+				"id" : 3097,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Hôtel de ville (La Baie)/482, Rue Victoria, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8806262255, 48.3397306637 ]
+			},
+			"properties" : {
+				"id" : 3098,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Cenntre communautaire Saint-Alphonse/482, Rue Albert, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8820546742, 48.3392413714 ]
+			},
+			"properties" : {
+				"id" : 3099,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Derrière au 435, Rue Albert/Rue Bagot, Rue Albert, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0588763408, 48.4296492104 ]
+			},
+			"properties" : {
+				"id" : 3100,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Marché public (Halles) Zone portuaire/341, Boulevard du Saguenay Est, Chicoutimi, QC G7H 6X2",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0746692402, 48.426079763 ]
+			},
+			"properties" : {
+				"id" : 3101,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Service des arts, cultures, communautaire et bibliothèque/205, Rue Price Ouest, Chicoutimi G7G 5B8",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0590814763, 48.4277909809 ]
+			},
+			"properties" : {
+				"id" : 3102,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Promotion Saguenay/295, Rue Racine Est, Chicoutimi, QC G7H 1S6",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.060090383, 48.427831044 ]
+			},
+			"properties" : {
+				"id" : 3103,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face à la Banque T.D./Sur Rue La Fontaine (Coin Rue Racine Est), Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0634364921, 48.4285416992 ]
+			},
+			"properties" : {
+				"id" : 3104,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Bibliothèque Chicoutimi/155, Rue Racine Est, Chicoutimi, QC G7H 1T5",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0639022756, 48.42876128 ]
+			},
+			"properties" : {
+				"id" : 3105,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre des arts/150, Boulevard du Saguenay Est, Chicoutimi, QC G7H 1K5",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0663118272, 48.4374869809 ]
+			},
+			"properties" : {
+				"id" : 3106,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face à la Caisse populaire/Rue Saint-Ambroise, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0661710452, 48.4377035261 ]
+			},
+			"properties" : {
+				"id" : 3107,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Caisse populaire/2212, Rue Roussel, Chicoutimi, QC G7G 1W7",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0746439071, 48.447680672 ]
+			},
+			"properties" : {
+				"id" : 3108,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Aréna Marina Larouche/630, Rue Aréna, Chicoutimi, QC G7G 4L8",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0752121878, 48.4520080459 ]
+			},
+			"properties" : {
+				"id" : 3109,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Village de la sécurité routière (Parc Mille Lieu)/200, Rue Pinel, Chicoutimi, QC G7G 3B7",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0767084546, 48.4501931155 ]
+			},
+			"properties" : {
+				"id" : 3110,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre d'hébergement de la colline/150, Rue Pinel, Chicoutimi, QC G7G 3N8",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0765264852, 48.4502974563 ]
+			},
+			"properties" : {
+				"id" : 3111,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre d'hébergement de la colline/150, Rue Pinel, Chicoutimi, QC G7G 3N8",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0763915044, 48.450428543 ]
+			},
+			"properties" : {
+				"id" : 3112,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre d'hébergement de la colline/150, Rue Pinel, Chicoutimi, QC G7G 3N8",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1088863153, 48.3094834068 ]
+			},
+			"properties" : {
+				"id" : 3113,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Laterrière",
+				"emplacement" : "Bibliothèque Laterrière/6167, Rue Lapointe, Laterrière, QC G7N 1A1",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1087819724, 48.3092065869 ]
+			},
+			"properties" : {
+				"id" : 3114,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Laterrière",
+				"emplacement" : "Édifice ADM Laterrière/6166, Rue Notre-Dame, Laterrière, QC G7N 1A1",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1082013469, 48.3092801677 ]
+			},
+			"properties" : {
+				"id" : 3115,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Laterrière",
+				"emplacement" : "Édifice ADM Laterrière (CLSC de Chicoutimi)/6166, Rue Notre-Dame, Chicoutimi, QC G7N 1A!",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1064649052, 48.3074005843 ]
+			},
+			"properties" : {
+				"id" : 3116,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Laterrière",
+				"emplacement" : "Centre multisport Nazaire-Girard/6197, Rue notre-Dame, Laterrière, QC G7H 5B1",
+				"nb_case" : 5,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.129870916, 48.3197090652 ]
+			},
+			"properties" : {
+				"id" : 3117,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Laterrière",
+				"emplacement" : "Centre communautaire Bassin/5673,Boulevard Talbot, Laterrière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0619570687, 48.4270349798 ]
+			},
+			"properties" : {
+				"id" : 3118,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Édifice G.U.A.T. (M.R.C.)/216, Rue Racine Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1318174684, 48.3895475497 ]
+			},
+			"properties" : {
+				"id" : 3119,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Parc Saint-Pierre/2294, Rang Saint-Pierre, Chicoutimi, QC G7H 5B3",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.08334907, 48.3810758493 ]
+			},
+			"properties" : {
+				"id" : 3120,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Office du tourisme Saguenay/2555, Boulevard Talbot, Chicoutimi, QC G7H 5B1",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.9859424353, 48.3927951231 ]
+			},
+			"properties" : {
+				"id" : 3121,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre communautaire Ste-Jean-Baptiste/2805, Boulevard Ste-Jean-Baptiste, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.9809289489, 48.3906710451 ]
+			},
+			"properties" : {
+				"id" : 3122,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Âge d'or sérénité/2975, Boulevard Ste-Jean-Baptiste, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0464168979, 48.399417646 ]
+			},
+			"properties" : {
+				"id" : 3123,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre communautaire des oiseaux (Parc Rivière du Moulin)/1577, Rue des Roitelets, Chicoutimi, QC G7H 0A5",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0464301837, 48.3988059972 ]
+			},
+			"properties" : {
+				"id" : 3124,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre communautaire des oiseaux (Parc Rivière du Moulin)/1599, Rue des Roitelets, Chicoutimi, QC G7H 0A5",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0463170845, 48.3987968748 ]
+			},
+			"properties" : {
+				"id" : 3125,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre communautaire des oiseaux (Parc Rivière du Moulin)/1599, Rue des Roitelets, Chicoutimi, QC G7H 0A5",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0708730031, 48.4096059174 ]
+			},
+			"properties" : {
+				"id" : 3126,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 1177, Rue d'Angoulème, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0581661982, 48.4133522319 ]
+			},
+			"properties" : {
+				"id" : 3127,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 950, Rue Thérèse-Casgrain, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0566110204, 48.4179321815 ]
+			},
+			"properties" : {
+				"id" : 3128,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Caserne de pompier Secteur Sud - Caserne #3/444, Boulevard de l'Université Est, Chicoutimi, QC G7H 6X3",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0594729765, 48.4189436042 ]
+			},
+			"properties" : {
+				"id" : 3129,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pavillon de l'Agriculture/350, Boulevard Université Est, Chicoutimi, QC G7H 5N1",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0605711018, 48.4199456587 ]
+			},
+			"properties" : {
+				"id" : 3130,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Georges-Vézina/643, Rue Bégin, Chicoutimi, QC G7H 4N7",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0594237393, 48.4204593121 ]
+			},
+			"properties" : {
+				"id" : 3131,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Georges-Vézina/643, Rue Bégin, Chicoutimi, QC G7H 4N7",
+				"nb_case" : 19,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0638566629, 48.4185262474 ]
+			},
+			"properties" : {
+				"id" : 3132,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre communautaire Rosaire-Gauthier (Parc)/700, Rue Bégin, Chicoutimi, QC G7H 7H6",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0769094019, 48.4155207731 ]
+			},
+			"properties" : {
+				"id" : 3133,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Communautaire St-Joachin/870, Rue Boily, Chicoutimi, QC G7J 2Y5",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0749229195, 48.4216420593 ]
+			},
+			"properties" : {
+				"id" : 3134,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 605, Rue Saint-Paul, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0709586551, 48.4281298025 ]
+			},
+			"properties" : {
+				"id" : 3135,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 82, Rue racine Ouest, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0697254052, 48.4280670507 ]
+			},
+			"properties" : {
+				"id" : 3136,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 40, Rue Racine Ouest, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0690577432, 48.428029882 ]
+			},
+			"properties" : {
+				"id" : 3137,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 24, Rue Racine Ouest, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0667771055, 48.4280141561 ]
+			},
+			"properties" : {
+				"id" : 3138,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 55, Rue Racine Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0624970938, 48.4283566404 ]
+			},
+			"properties" : {
+				"id" : 3139,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel de ville Saguenay/201, Rue Racine Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0549460168, 48.4292814957 ]
+			},
+			"properties" : {
+				"id" : 3140,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Rue du Havre, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.061179508, 48.4276963304 ]
+			},
+			"properties" : {
+				"id" : 3141,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face à l'Hôtel de ville/Face au 245, Rue Racine Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0565242256, 48.4284860231 ]
+			},
+			"properties" : {
+				"id" : 3142,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Autogare du Havre/Rue du Havre, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0558698293, 48.4286014106 ]
+			},
+			"properties" : {
+				"id" : 3143,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Autogare du Havre/Rue du Havre, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0534660576, 48.4290249252 ]
+			},
+			"properties" : {
+				"id" : 3144,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 180, Rue Salaberry, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0545092364, 48.4271716495 ]
+			},
+			"properties" : {
+				"id" : 3145,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Face au 455, Rue Saint-François-Xavier, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0243757127, 48.4296542059 ]
+			},
+			"properties" : {
+				"id" : 3146,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Chevaliers de Colomb/1422, Rue des Cèdres, Chicoutimi, QC G7H 3K5",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0560114948, 48.427846328 ]
+			},
+			"properties" : {
+				"id" : 3147,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Stationnement à étage/403, Rue de l'Hôtel-Dieu, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0655763166, 48.4273140457 ]
+			},
+			"properties" : {
+				"id" : 3148,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Autogare sur Rue Morin/ Coin Rue Jacques-Cartier et Rue Morin, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0644526881, 48.4285067532 ]
+			},
+			"properties" : {
+				"id" : 3149,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Bibliothèque Chicoutimi/155, Rue Racine Est, Chicoutimi, QC G7H 1T5",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0849584056, 48.4326224644 ]
+			},
+			"properties" : {
+				"id" : 3150,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Service des travaux publics/504, Boulevard Saguenay Ouest, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1365587679, 48.4357662955 ]
+			},
+			"properties" : {
+				"id" : 3151,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre multiservices/2182, Rue Bonneau, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1361021111, 48.4361825063 ]
+			},
+			"properties" : {
+				"id" : 3152,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre multiservices/2182, Rue Bonneau, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1362375566, 48.4362222299 ]
+			},
+			"properties" : {
+				"id" : 3153,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre multiservices/2182, Rue Bonneau, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1816383638, 48.4257676865 ]
+			},
+			"properties" : {
+				"id" : 3154,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Face à la Caisse populaire/Face au 2841, Place Davis, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1817923214, 48.4261490149 ]
+			},
+			"properties" : {
+				"id" : 3155,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Face à la BMO/Face au 2840, Place Davis, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1829694645, 48.4259441686 ]
+			},
+			"properties" : {
+				"id" : 3156,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Face au 2876, Place Davis, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1825488631, 48.4270389797 ]
+			},
+			"properties" : {
+				"id" : 3157,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement sur Rue Apica/ Face au 1920, Boulevard Mellon, Jonquière, QC",
+				"nb_case" : 3,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.183747113, 48.4264477053 ]
+			},
+			"properties" : {
+				"id" : 3158,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Sur Rue Alder, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1836468853, 48.4263583619 ]
+			},
+			"properties" : {
+				"id" : 3159,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Sur Rue Alder, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2445631683, 48.42497176 ]
+			},
+			"properties" : {
+				"id" : 3160,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Centre commémératif Price/365, Rue du Roi-Georges, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1849852153, 48.4264583296 ]
+			},
+			"properties" : {
+				"id" : 3161,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Foyer de loisirs et piscine/1910, Rue Centre, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1846926839, 48.4267343843 ]
+			},
+			"properties" : {
+				"id" : 3162,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Foyer de loisirs et piscine/1910, Rue Centre, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2279918573, 48.4252454243 ]
+			},
+			"properties" : {
+				"id" : 3163,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Pavillon sportif Kénogami/1935, rue Bourassa, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2399330193, 48.4293104854 ]
+			},
+			"properties" : {
+				"id" : 3164,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Parc Price/1840, Rue Price, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2400121701, 48.4294159732 ]
+			},
+			"properties" : {
+				"id" : 3165,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Parc Price/1840, Rue Price, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2418754091, 48.4245226799 ]
+			},
+			"properties" : {
+				"id" : 3166,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Caisse Desjardins d'Arvida-Kénogami/3825, Rue du Roi-Georges, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2281358071, 48.4252714952 ]
+			},
+			"properties" : {
+				"id" : 3167,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Pavillon sportif Kénogami/1935, rue Bourassa, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.228326503, 48.4256335657 ]
+			},
+			"properties" : {
+				"id" : 3168,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Pavillon sportif Kénogami/1935, rue Bourassa, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2248952694, 48.4219625586 ]
+			},
+			"properties" : {
+				"id" : 3169,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Édifice du Roi-Georges (Travaux publics)/3501, Rue Roi-Georges, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1728162293, 48.4079082457 ]
+			},
+			"properties" : {
+				"id" : 3170,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Presbytère et Église Ste-Thérèse/2327, Rue Lévesque, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1789836435, 48.4149412337 ]
+			},
+			"properties" : {
+				"id" : 3171,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Pavillon Mellon/2175, Boulevard Mellon, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.179031924, 48.4150686398 ]
+			},
+			"properties" : {
+				"id" : 3172,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Pavillon Mellon/2175, Boulevard Mellon, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2414834038, 48.4226994428 ]
+			},
+			"properties" : {
+				"id" : 3173,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Bibliothèque Kénogami/3750, Boulevard du Royaume, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.242210308, 48.4227846955 ]
+			},
+			"properties" : {
+				"id" : 3174,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Place du Marquis/3750, Boulevard du Royaume, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2417587552, 48.4238683435 ]
+			},
+			"properties" : {
+				"id" : 3175,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement rue Montcalm/Face au 2106, rue Saint-Famille, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2412188046, 48.425000742 ]
+			},
+			"properties" : {
+				"id" : 3176,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Lapointe/Derrière au 3822, Rue du Roi-Georges, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2407258369, 48.4250209131 ]
+			},
+			"properties" : {
+				"id" : 3177,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Lapointe/Face au 1954, Rue Lapointe, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2398870517, 48.4256153692 ]
+			},
+			"properties" : {
+				"id" : 3178,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Lapointe/Face au 3711, Rue Cabot, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2535596666, 48.4150930781 ]
+			},
+			"properties" : {
+				"id" : 3179,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement face au Jean Coutu/Face au 2306, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2545045474, 48.4148172023 ]
+			},
+			"properties" : {
+				"id" : 3180,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Bouchard/Coin Rue Soucy et Rue bouchard, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2545573651, 48.4145752655 ]
+			},
+			"properties" : {
+				"id" : 3181,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Bouchard/Coin Rue Soucy et Rue Bouchard, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2524183461, 48.4127396409 ]
+			},
+			"properties" : {
+				"id" : 3182,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Bibliothèque Jonquière (Location)/3885, Boulevard Harvey, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2528152636, 48.4128584627 ]
+			},
+			"properties" : {
+				"id" : 3183,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Bibliothèque Jonquière (Location)/3885, Boulevard Harvey, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.253307648, 48.4133094336 ]
+			},
+			"properties" : {
+				"id" : 3184,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Office du tourisme Jonquière/3919, Boulevard Harvey, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2538211084, 48.4122991122 ]
+			},
+			"properties" : {
+				"id" : 3185,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Saint-Pierre/Face au 2433, Rue Satin-Dominique, Jonquière, QC",
+				"nb_case" : 4,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2543476941, 48.4131394357 ]
+			},
+			"properties" : {
+				"id" : 3186,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Hôtel de ville Jonquière/2354, Rue Satin-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2548014072, 48.4131422505 ]
+			},
+			"properties" : {
+				"id" : 3187,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Caisse populaire de Jonquière/2358, Rue Satin-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2559842347, 48.4117089469 ]
+			},
+			"properties" : {
+				"id" : 3188,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Saint-Antoine/Derrière au 2416, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2565052843, 48.4109601483 ]
+			},
+			"properties" : {
+				"id" : 3189,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Saint-Pascal/Rue Saint-Pascal, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2568532589, 48.4103349391 ]
+			},
+			"properties" : {
+				"id" : 3190,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Chesnier/Face au 2480, Rue Saint-dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2573469676, 48.4102322751 ]
+			},
+			"properties" : {
+				"id" : 3191,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Nouvelle bibliothèque Jonquière/2480, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2596264421, 48.4097176534 ]
+			},
+			"properties" : {
+				"id" : 3192,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Les Halles du Parc de la Rivière-Aux-Sables/2310, Rue de la Rivière-Aux-Sables, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2593358427, 48.4097217022 ]
+			},
+			"properties" : {
+				"id" : 3193,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Les Halles du Parc de la Rivière-Aux-Sables/2310, Rue de la Rivière-Aux-Sables, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2595957753, 48.4093737199 ]
+			},
+			"properties" : {
+				"id" : 3194,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Les Halles du Parc de la Rivière-Aux-Sables/2310, Rue de la Rivière-Aux-Sables, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25192931, 48.411555639 ]
+			},
+			"properties" : {
+				"id" : 3195,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Gare Multimode/2439, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2498929396, 48.4129899697 ]
+			},
+			"properties" : {
+				"id" : 3196,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stationnement Rue Gauthier/2229, Rue Saint-Jacques, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2514726526, 48.4093434003 ]
+			},
+			"properties" : {
+				"id" : 3197,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Stade Richard-Desmeules/2315, Rue Sir-Wilfrid-Lauriers,Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.252221294, 48.4087970897 ]
+			},
+			"properties" : {
+				"id" : 3198,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Palais des sports/2315, Rue Pelletier, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0600735263, 48.4021655372 ]
+			},
+			"properties" : {
+				"id" : 3199,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Québec Resto/388, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0598705899, 48.4020707218 ]
+			},
+			"properties" : {
+				"id" : 3200,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Boucherie Claude Fortin/, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0596720886, 48.4019871097 ]
+			},
+			"properties" : {
+				"id" : 3201,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Dolorama/394, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0584842454, 48.4021254229 ]
+			},
+			"properties" : {
+				"id" : 3202,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Les Groupes Jean Coutu/400, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.061602951, 48.4040509862 ]
+			},
+			"properties" : {
+				"id" : 3203,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Optométriste : Optique Santé/325, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0578402552, 48.4031627543 ]
+			},
+			"properties" : {
+				"id" : 3204,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du royaume : Walmart/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.05771379, 48.403293779 ]
+			},
+			"properties" : {
+				"id" : 3205,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du royaume : Walmart/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0574917531, 48.4035870849 ]
+			},
+			"properties" : {
+				"id" : 3206,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du royaume : Porte 1/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0573746679, 48.4036641723 ]
+			},
+			"properties" : {
+				"id" : 3207,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du royaume : Porte1/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0570169393, 48.4040538216 ]
+			},
+			"properties" : {
+				"id" : 3208,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Entrée 2/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0568769062, 48.4041964106 ]
+			},
+			"properties" : {
+				"id" : 3209,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Entrée 2/1401-1451. Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0565415039, 48.4046009422 ]
+			},
+			"properties" : {
+				"id" : 3210,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Entrée 3/1401-1451, Boulevard Talbotm Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0564328746, 48.4047533027 ]
+			},
+			"properties" : {
+				"id" : 3211,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Entrée 3/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0534973361, 48.4063215381 ]
+			},
+			"properties" : {
+				"id" : 3212,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Entrée Atmorphère/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0535075792, 48.4061666768 ]
+			},
+			"properties" : {
+				"id" : 3213,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Entrée 6/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0535335875, 48.405953685 ]
+			},
+			"properties" : {
+				"id" : 3214,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place de Royaume : Entrée 6/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0527371871, 48.4046019135 ]
+			},
+			"properties" : {
+				"id" : 3215,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Porte 7/1401-1451, Boulevard Talbor, Chicoutimi, QC",
+				"nb_case" : 6,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0538409932, 48.4042031251 ]
+			},
+			"properties" : {
+				"id" : 3216,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pkace du Royaume : Porte 8/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0541315329, 48.4040059775 ]
+			},
+			"properties" : {
+				"id" : 3217,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place de Royaume : Porte 8/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0544083947, 48.4033561196 ]
+			},
+			"properties" : {
+				"id" : 3218,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place dui Royaume : Porte 9 (Cinéma Odysée)/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 6,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0554375656, 48.4030871813 ]
+			},
+			"properties" : {
+				"id" : 3219,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Église Notre-Dame-du-Royaume/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0556022996, 48.4031598221 ]
+			},
+			"properties" : {
+				"id" : 3220,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Église Notre-Dame-du-Royaume/1401-1451, Boulevard du Royaume, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0557958623, 48.403210988 ]
+			},
+			"properties" : {
+				"id" : 3221,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Église Notre-Dame-du-Royaume/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0559100953, 48.4030956479 ]
+			},
+			"properties" : {
+				"id" : 3222,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Porte 11/1401-1451, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0508530868, 48.4021858053 ]
+			},
+			"properties" : {
+				"id" : 3223,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces: Familiprix/1445, Rue des Champs-Élyssée, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8813585414, 48.3396214284 ]
+			},
+			"properties" : {
+				"id" : 3224,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Stationnement Rue Albert/Rue Bagot, Rue Albert, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8816999022, 48.3386722338 ]
+			},
+			"properties" : {
+				"id" : 3225,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Face au 1000, Rue Bagot/Rue Bagot, Rue Albert, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8802989762, 48.3371228132 ]
+			},
+			"properties" : {
+				"id" : 3226,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Deuxième patinoire incluant passerelle/995, Rue Aimé-Gravel, La Baie, QC",
+				"nb_case" : 3,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8799020056, 48.337580118 ]
+			},
+			"properties" : {
+				"id" : 3227,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Centre Cléophas-Claveau CLSC/800, Rue Aimé-Gravel, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.880315789, 48.3309232017 ]
+			},
+			"properties" : {
+				"id" : 3228,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Clinique d'audiologie du Lac du Flord/513, Boulevard de la Grande-Baie Sud, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8803772534, 48.3268891924 ]
+			},
+			"properties" : {
+				"id" : 3229,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Face au 1331, 2e Avenue, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8866502391, 48.3277396011 ]
+			},
+			"properties" : {
+				"id" : 3230,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Maison des ainés (La Baie)/659, 5e Rue, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.885922624, 48.3269920334 ]
+			},
+			"properties" : {
+				"id" : 3231,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Face au 701, 5e Rue, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8867452681, 48.3280744401 ]
+			},
+			"properties" : {
+				"id" : 3232,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Théâtre du Palais municipal/1831, 6e Avenue, La Baie, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8868998378, 48.3281639871 ]
+			},
+			"properties" : {
+				"id" : 3233,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Théâtre du Palais municipal/1831, 6e Avenue, La Baie, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8882026728, 48.3281202955 ]
+			},
+			"properties" : {
+				"id" : 3234,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Bibliothèque municipale La Baie/1911, 6e Avenue, La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8899527703, 48.3296137879 ]
+			},
+			"properties" : {
+				"id" : 3235,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Face au 382, 6e Avenue, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8793167224, 48.3402131612 ]
+			},
+			"properties" : {
+				"id" : 3236,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Rue Victoria, Coin Rue Docteur-Tanguay, La Baie, QC",
+				"nb_case" : 0,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8575688125, 48.3161380752 ]
+			},
+			"properties" : {
+				"id" : 3237,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Pavillon de service de la pyramide/3020, Rue Monseigneur-Dufour, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8571605388, 48.3162652599 ]
+			},
+			"properties" : {
+				"id" : 3238,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Pavillon de service de la pyramide/3020, Rue Monseigneur, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8545111401, 48.3175191266 ]
+			},
+			"properties" : {
+				"id" : 3239,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Foyer de la culture/3342, Boulevard de la Grande-Baie Sud, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.853464957, 48.3173559572 ]
+			},
+			"properties" : {
+				"id" : 3240,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Musée du Fjord/3346, Boulevard de la Grande-Baie Sud, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8542755338, 48.316903763 ]
+			},
+			"properties" : {
+				"id" : 3241,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Paroisse St-Alexis de la Grande-Baie/3311, Boulevard de la Grande-Baie Sud, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.9999858422, 48.3371613128 ]
+			},
+			"properties" : {
+				"id" : 3242,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Aérogare de Bagotville/7000, Chemin de l'aéroport, La Baie, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0510799314, 48.4026283155 ]
+			},
+			"properties" : {
+				"id" : 3243,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Au Vieux Duluth/1445, Rue des Champs-.Élyssées, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0513888908, 48.4036599389 ]
+			},
+			"properties" : {
+				"id" : 3244,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Les Immeubles Gagné Lesard Inc./1415, Rue des Champs-Élyssée, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0513426341, 48.403010119 ]
+			},
+			"properties" : {
+				"id" : 3245,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Les Immeubles Gagné Lesard Inc./, Rue des Champs-Élyssée, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0511880728, 48.4060278923 ]
+			},
+			"properties" : {
+				"id" : 3246,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Le Vendôme/1299, Rue des Champs-Élyssée, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0655984289, 48.4277178642 ]
+			},
+			"properties" : {
+				"id" : 3247,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "rue Morin / Racine Est,  Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0610692871, 48.4022054998 ]
+			},
+			"properties" : {
+				"id" : 3248,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Tim Hortons/1494, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0612308786, 48.4020225968 ]
+			},
+			"properties" : {
+				"id" : 3249,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerce Sport VE/1516, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0623731456, 48.4013798937 ]
+			},
+			"properties" : {
+				"id" : 3250,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Métro/11560, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0627386638, 48.4014078171 ]
+			},
+			"properties" : {
+				"id" : 3251,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Métro/1560, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0629444715, 48.4036638742 ]
+			},
+			"properties" : {
+				"id" : 3252,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre de Congrès & Hôtel la Saguenéenne/250, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0633805672, 48.4040741965 ]
+			},
+			"properties" : {
+				"id" : 3253,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre de Congrès & Hôtel La Saguenéenne/250, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0619539478, 48.4046851909 ]
+			},
+			"properties" : {
+				"id" : 3254,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Super C/299, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0621383336, 48.4047762097 ]
+			},
+			"properties" : {
+				"id" : 3255,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Super C/299, Rue des Saguenéens, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0680242434, 48.405682783 ]
+			},
+			"properties" : {
+				"id" : 3256,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École André-Gagnon/128, Rue Louis-Francoeur, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0607372455, 48.40369348 ]
+			},
+			"properties" : {
+				"id" : 3257,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Le 345/345, Rue des Saguenéens. Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0597430177, 48.4036764433 ]
+			},
+			"properties" : {
+				"id" : 3258,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Maconnerie Thibault Ltée (Farhat)/1444, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0601840835, 48.4056592896 ]
+			},
+			"properties" : {
+				"id" : 3259,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pace Saguenay : Vers Rue Bach/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0586161712, 48.4052522154 ]
+			},
+			"properties" : {
+				"id" : 3260,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay (P4)/1324, Boulevard Talbot, Chicouitmi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0583886728, 48.4056019386 ]
+			},
+			"properties" : {
+				"id" : 3261,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay : Dolorama (P3)/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0579093643, 48.4064520601 ]
+			},
+			"properties" : {
+				"id" : 3262,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay : Brunet et Aubainerie (P1)/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0579821919, 48.4062949721 ]
+			},
+			"properties" : {
+				"id" : 3263,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay : Buffet l'Orient/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0577987394, 48.4065610053 ]
+			},
+			"properties" : {
+				"id" : 3264,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay : Aubainerie (P1)/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0569930162, 48.4071494021 ]
+			},
+			"properties" : {
+				"id" : 3265,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay : IGA/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0672182421, 48.4125898634 ]
+			},
+			"properties" : {
+				"id" : 3266,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École l'Odyssée/Dominique-Racine/985, Rue Bégin, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0662699065, 48.4139107335 ]
+			},
+			"properties" : {
+				"id" : 3267,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École l'Odyssée/Dominique-Racine/985, Rue Bégin, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0684235141, 48.4128574783 ]
+			},
+			"properties" : {
+				"id" : 3268,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cliniques : Physiothérapie et Dentaire/990, Rue Bégin, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0603541812, 48.4158331522 ]
+			},
+			"properties" : {
+				"id" : 3269,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre FP Laure-Conan/847, Rue Georges Vanier, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0604482634, 48.4152939837 ]
+			},
+			"properties" : {
+				"id" : 3270,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre FP Laure-Conan/847, Rue Georges Vanier, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0612431653, 48.4151963615 ]
+			},
+			"properties" : {
+				"id" : 3271,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre FP Laure-Conan/847, Rue Georges Vanier, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0535311514, 48.4205964668 ]
+			},
+			"properties" : {
+				"id" : 3272,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC: Pavillon principal/555-565, Rue de la Fondation, Chicoutimi, QC",
+				"nb_case" : 4,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0741308212, 48.3934485382 ]
+			},
+			"properties" : {
+				"id" : 3273,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Dentaire/110, Boulevard Barrette, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0734035215, 48.3941181893 ]
+			},
+			"properties" : {
+				"id" : 3274,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie Maxi/180, Boulevard Barrette, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0528965053, 48.4218017725 ]
+			},
+			"properties" : {
+				"id" : 3275,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon des Sciences de la Santé/Rue de la Fondation, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0661616548, 48.3967102323 ]
+			},
+			"properties" : {
+				"id" : 3276,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Maconnerie Thibeault (Restaurant : Paccini)/1775, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.052255445, 48.4070890952 ]
+			},
+			"properties" : {
+				"id" : 3277,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Thibeault/1277, Rue des Champs-Élyssées, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0531249608, 48.4091748093 ]
+			},
+			"properties" : {
+				"id" : 3278,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Propriétés Provigo Limitée/1101, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 4,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0532779835, 48.4109068244 ]
+			},
+			"properties" : {
+				"id" : 3279,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel Le Montagnais/1080, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0531053634, 48.4108007493 ]
+			},
+			"properties" : {
+				"id" : 3280,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel Le Montagnais/1080, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0519088644, 48.412109935 ]
+			},
+			"properties" : {
+				"id" : 3281,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Burger King/1020, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.051146699, 48.4126457566 ]
+			},
+			"properties" : {
+				"id" : 3282,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "PJC Jean Coutu/1000, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0516095236, 48.412722453 ]
+			},
+			"properties" : {
+				"id" : 3283,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Rogers/1021, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0508477027, 48.4116030869 ]
+			},
+			"properties" : {
+				"id" : 3284,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : A&W/1025, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.050326316, 48.412294904 ]
+			},
+			"properties" : {
+				"id" : 3285,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Mc Donald's/999, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0496747979, 48.4131343788 ]
+			},
+			"properties" : {
+				"id" : 3286,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : St-Hubert/939, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0544925533, 48.4146969239 ]
+			},
+			"properties" : {
+				"id" : 3287,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cliniquer Med. Fam. Saguenay/874, Boulevard de l'Université Est, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0546091906, 48.4147995243 ]
+			},
+			"properties" : {
+				"id" : 3288,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique Med. Fam. Saguenay/874, Boulevard de l'Université Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0420447731, 48.4156671307 ]
+			},
+			"properties" : {
+				"id" : 3289,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École St-Bernadette/824, Rue Chabanel, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0462535714, 48.415811674 ]
+			},
+			"properties" : {
+				"id" : 3290,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Le Coq Rôti/805, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0406086118, 48.4235956924 ]
+			},
+			"properties" : {
+				"id" : 3291,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Résidence Beaumanoior (CHSLD)/904, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0393579387, 48.4232894553 ]
+			},
+			"properties" : {
+				"id" : 3292,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Foyer Saint-François/912, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0593694503, 48.4231632843 ]
+			},
+			"properties" : {
+				"id" : 3293,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Polyvalente Odyssée Lafontaine/475, Rue La Fontaine, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0285607543, 48.4295257953 ]
+			},
+			"properties" : {
+				"id" : 3294,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel La Parasol/12987, Boulevard Saguenay Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0470979213, 48.4286266135 ]
+			},
+			"properties" : {
+				"id" : 3295,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Historique des Soeurs de Notre-Dame du Bon-Conseil de Chicoutimi",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0508893223, 48.4254295509 ]
+			},
+			"properties" : {
+				"id" : 3296,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pharmacie : Proxim Francine Simard/394, Rue Saint-Vallier, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.049819075, 48.4277387002 ]
+			},
+			"properties" : {
+				"id" : 3297,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Jeunesse Bureau Chicoutimi/599, Rue de l'Hôtel-Dieu, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0627610056, 48.4032379884 ]
+			},
+			"properties" : {
+				"id" : 3298,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Immeuble Gagnon Frère Inc./1460, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0614367544, 48.4030607851 ]
+			},
+			"properties" : {
+				"id" : 3299,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Immeuble Gagnon Frère Inc./1460, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0606248089, 48.4025437138 ]
+			},
+			"properties" : {
+				"id" : 3300,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Immeuble Gagnon Frère Inc./1460, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0558688607, 48.4081318239 ]
+			},
+			"properties" : {
+				"id" : 3301,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Assurance 5000/494, Rue des Champs-Élyssées, Chicoutimi, QC",
+				"nb_case" : 4,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0557985337, 48.4077089774 ]
+			},
+			"properties" : {
+				"id" : 3302,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Aspiro Plus/1212, Rue des Champs-Élyssées, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0639202759, 48.4083859491 ]
+			},
+			"properties" : {
+				"id" : 3303,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Villa Chicoutimi/260, Rue Belleau, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0578985421, 48.4294894655 ]
+			},
+			"properties" : {
+				"id" : 3304,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Zone portuaire : Marché public/341, Boulevard du Saguenay Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.057003866, 48.4304175142 ]
+			},
+			"properties" : {
+				"id" : 3305,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hanguar de la zone portuaire/35, Rue de la Fontaine, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0595207735, 48.4096502367 ]
+			},
+			"properties" : {
+				"id" : 3306,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École Félix-Antoine Savard/1140, Rue Bizet, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0667707831, 48.4107238642 ]
+			},
+			"properties" : {
+				"id" : 3307,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Saint-Georges CRJDA (Porte 8)/1101, Rue Bégin, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0681155217, 48.4106181584 ]
+			},
+			"properties" : {
+				"id" : 3308,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Saint-Georges CRJDA (Porte 1)/1101, Rue Bégin, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0727164306, 48.4083256608 ]
+			},
+			"properties" : {
+				"id" : 3309,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Résidence Mgr Victor Tremblay (CHSLD)/1236, Rue d'Angoulème, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0552075869, 48.4070675113 ]
+			},
+			"properties" : {
+				"id" : 3310,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Canadian Tire/1257, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0550720332, 48.4072120614 ]
+			},
+			"properties" : {
+				"id" : 3311,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place du Royaume : Canadian Tire/1257, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0499701814, 48.4127161366 ]
+			},
+			"properties" : {
+				"id" : 3312,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "PDM Realty LP/961, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0493192217, 48.4126679855 ]
+			},
+			"properties" : {
+				"id" : 3313,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Resto-Bar Le Stade, Aki Sushi, Pizzaioli/981-997, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1021413071, 48.3596125992 ]
+			},
+			"properties" : {
+				"id" : 3314,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel Motel Mont-Valin/3665, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0230296129, 48.427020398 ]
+			},
+			"properties" : {
+				"id" : 3315,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique médicale du Fjord/1469, Boulevard du Saguenay Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0246649621, 48.4274905165 ]
+			},
+			"properties" : {
+				"id" : 3316,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pharmacie : Familiprix Michel Lévesque/1402, Boulevard du Saguenay Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0241750444, 48.4289812743 ]
+			},
+			"properties" : {
+				"id" : 3317,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École St-Denis/130, Rue des Ormes, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0622337516, 48.4262351301 ]
+			},
+			"properties" : {
+				"id" : 3318,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Conservastoire de musique/202, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.069036484, 48.4263833744 ]
+			},
+			"properties" : {
+				"id" : 3319,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Sorrento Pizzeria/344, Rue Sainte-Anne, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.069137161, 48.4270039274 ]
+			},
+			"properties" : {
+				"id" : 3320,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cliniques : D'Orthodontie, CTAH, .../320, Rue Sainte-Anne, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.066113082, 48.4272033242 ]
+			},
+			"properties" : {
+				"id" : 3321,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre Sainté Racine/80, Rue Racine Est, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0651919223, 48.4283060916 ]
+			},
+			"properties" : {
+				"id" : 3322,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel du Fjord/241, Rue Morin, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0800591677, 48.4222034762 ]
+			},
+			"properties" : {
+				"id" : 3323,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "La Pulperie de Chicoutimi/Musée régional/300, Rue Dubuc, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0519725619, 48.42124209 ]
+			},
+			"properties" : {
+				"id" : 3324,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Résidences/555, Boulevard Université Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0504544028, 48.4200500354 ]
+			},
+			"properties" : {
+				"id" : 3325,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon sportif/571, Rue de la Fondation, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0514037119, 48.4194153001 ]
+			},
+			"properties" : {
+				"id" : 3326,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon Alphonse-Desjardins/ Chemin St-Thomas, Chicoutimi, QC",
+				"nb_case" : 4,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0511811277, 48.4193394221 ]
+			},
+			"properties" : {
+				"id" : 3327,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon Alphonse-Desjardins/Chemin St-Thomas, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0505965151, 48.4180843488 ]
+			},
+			"properties" : {
+				"id" : 3328,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Aréna et Terrain sunthétique/Rue Chabanel, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0518245, 48.4177205081 ]
+			},
+			"properties" : {
+				"id" : 3329,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon Promotion Saguenay/Rue Chabanel , Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0531275671, 48.4177937053 ]
+			},
+			"properties" : {
+				"id" : 3330,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon Parc Technologique/579-591, Rue Chabanel, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0529349083, 48.4178121945 ]
+			},
+			"properties" : {
+				"id" : 3331,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon Parc Technologique/579-591, Rue Chabanel, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0538000017, 48.4183374446 ]
+			},
+			"properties" : {
+				"id" : 3332,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Centre des Technologie de l'Aluminium/Rue Chabanel, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0503822344, 48.4245382369 ]
+			},
+			"properties" : {
+				"id" : 3333,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Pavillon du Grand Séminiare/574, Rue Jacques-Cartier, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0554625108, 48.4298923914 ]
+			},
+			"properties" : {
+				"id" : 3334,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Zone Portuaire : Réserve Navale/405, Boulevard du Saguenay Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0429445446, 48.4229000638 ]
+			},
+			"properties" : {
+				"id" : 3335,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique Médicale Clément Paradis/460, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.043358783, 48.4217388929 ]
+			},
+			"properties" : {
+				"id" : 3336,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Unimédic Clinique du Sommeil/520, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0448155471, 48.4222044187 ]
+			},
+			"properties" : {
+				"id" : 3337,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre de Réadaptation/766, Rue du Cénacle, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0455294574, 48.4223268867 ]
+			},
+			"properties" : {
+				"id" : 3338,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre de Réadaptation/766, Rue du Cénacle, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0534830458, 48.4230275644 ]
+			},
+			"properties" : {
+				"id" : 3339,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégap de Chicoutimi : CGO Aile G Entrée 7a/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0516319547, 48.4232723436 ]
+			},
+			"properties" : {
+				"id" : 3340,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Aile L Entrée 5/543, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0512397504, 48.423906637 ]
+			},
+			"properties" : {
+				"id" : 3341,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Aile E Porte 4/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.052126461, 48.4245398597 ]
+			},
+			"properties" : {
+				"id" : 3342,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Porte 2/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0533893417, 48.4241986142 ]
+			},
+			"properties" : {
+				"id" : 3343,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Porte 11 et 12/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0540599043, 48.4242624232 ]
+			},
+			"properties" : {
+				"id" : 3344,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Théâtre Banque Nationale/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0542972951, 48.4238989061 ]
+			},
+			"properties" : {
+				"id" : 3345,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Aile T/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.054542067, 48.4239521144 ]
+			},
+			"properties" : {
+				"id" : 3346,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Aile T/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0538584162, 48.4233830722 ]
+			},
+			"properties" : {
+				"id" : 3347,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Cégep de Chicoutimi : Aile H Entrée 8/534, Rue Jacques-Cartier Est, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0739116131, 48.4201655172 ]
+			},
+			"properties" : {
+				"id" : 3348,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Marché Richelieu/666, Rue Caron, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0868299392, 48.4143187667 ]
+			},
+			"properties" : {
+				"id" : 3349,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Résidence St-Paul/524, Rue Saint-Augustin, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8863082701, 48.327331355 ]
+			},
+			"properties" : {
+				"id" : 3350,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Maison des ainés (La Baie)/659, 5e Rue , La Baie, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0669288767, 48.4370454626 ]
+			},
+			"properties" : {
+				"id" : 3351,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pharmacie : Familiprix/2231, Rue Roussel, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0782391277, 48.4406180815 ]
+			},
+			"properties" : {
+				"id" : 3352,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Centre communautaire Gérald Linteau/2600, Rue Roussel, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0783725402, 48.4401047022 ]
+			},
+			"properties" : {
+				"id" : 3353,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Église Sainte-Anne/2598, Rue Roussel, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0762393232, 48.4402297733 ]
+			},
+			"properties" : {
+				"id" : 3354,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Résidence St-Jean-Baptiste/38, Rue Frontenac, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0784004786, 48.4435834648 ]
+			},
+			"properties" : {
+				"id" : 3355,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Société commaudite 625 (IGA)/625, Rue Saint-Albert, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0793809042, 48.4427368771 ]
+			},
+			"properties" : {
+				"id" : 3356,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique Dentaire : Bérubé, Richard & Associés",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0798928793, 48.4441183522 ]
+			},
+			"properties" : {
+				"id" : 3357,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Maxi/681-711, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 4,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0806095317, 48.4443263621 ]
+			},
+			"properties" : {
+				"id" : 3358,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Uniprix/681-711, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0808354122, 48.4443970012 ]
+			},
+			"properties" : {
+				"id" : 3359,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Unirpix/681-711, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0810539225, 48.4444738649 ]
+			},
+			"properties" : {
+				"id" : 3360,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Mc Donald's/717, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0863142053, 48.4438161459 ]
+			},
+			"properties" : {
+				"id" : 3361,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Résidence Delarge (SHSLD)/257, Rue Saint-Armand, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.086331556, 48.4439841183 ]
+			},
+			"properties" : {
+				"id" : 3362,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Résidence Delarge (CHSLD)/257, Rue Saint-Armand, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0843267231, 48.4474570816 ]
+			},
+			"properties" : {
+				"id" : 3363,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Caisse Desjardins de la Rive Nord du Saguenay/833, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0850139728, 48.4478731437 ]
+			},
+			"properties" : {
+				"id" : 3364,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pharmacie : Jean Coutu/871, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0823902594, 48.4481543796 ]
+			},
+			"properties" : {
+				"id" : 3365,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École secondaire Charles-Gravel (porte 17)/350, Rue Saint-Gérard, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0801946108, 48.4480575441 ]
+			},
+			"properties" : {
+				"id" : 3366,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École secondaire Charles-Gravel (porte 30)/350, Rue Saint-Gérard, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0617880902, 48.4530769338 ]
+			},
+			"properties" : {
+				"id" : 3367,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École Vanier + Pavillon de service Vanier/595, Rue Delisle, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0902855032, 48.451517489 ]
+			},
+			"properties" : {
+				"id" : 3368,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Tim Hortons/1050, Boulevard Sainte-Geneviève, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1026448959, 48.4575985663 ]
+			},
+			"properties" : {
+				"id" : 3369,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École La Carière/245, Rue des Épervièves, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0464017432, 48.4439705556 ]
+			},
+			"properties" : {
+				"id" : 3370,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Belvedère/1650, Boulevard de Tadoussac, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0520156477, 48.440707747 ]
+			},
+			"properties" : {
+				"id" : 3371,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Manoie Tadoussac/1865, Boulevard de Tadoussac, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0574412431, 48.4391414985 ]
+			},
+			"properties" : {
+				"id" : 3372,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École Élémentaire le Rosseau/41, Rue Saint-Benoit, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0600706496, 48.4404694443 ]
+			},
+			"properties" : {
+				"id" : 3373,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant Tin Hortons/2075, Boulevard Tadoussac, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0626095861, 48.4389651349 ]
+			},
+			"properties" : {
+				"id" : 3374,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "CLSC du Grand Chicoutimi/220, Rue Saint-Éprem, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0612686262, 48.4398067717 ]
+			},
+			"properties" : {
+				"id" : 3375,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École Notre-Dame-du-Rosaire/2090, Boulevard Tadoussac, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0618806434, 48.4386709451 ]
+			},
+			"properties" : {
+				"id" : 3376,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Provigo Distribution inc./2120, Rue Roussel, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0608546758, 48.4381304865 ]
+			},
+			"properties" : {
+				"id" : 3377,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Tegesca inc (Banque Nationale)/2169, Boulevard de Tadoussac, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0613163588, 48.4378657382 ]
+			},
+			"properties" : {
+				"id" : 3378,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Tegesco inc (Pharmacie : Brunet)/2069, Boulevard de Tadoussac, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0613721346, 48.437313947 ]
+			},
+			"properties" : {
+				"id" : 3379,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Tegesco inc (Cliniques)/2069, Boulevard de Tadoussac, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0813847754, 48.3973069127 ]
+			},
+			"properties" : {
+				"id" : 3380,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Les immeubles Malraux Barrette : Dentiste/266, Rue Malraux, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0746266024, 48.3942222889 ]
+			},
+			"properties" : {
+				"id" : 3381,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique de madicine familiale Barrette/152, Boulevard Barrette, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0736188223, 48.394072956 ]
+			},
+			"properties" : {
+				"id" : 3382,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Maxi/180, Boulevard Barrette, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0738504893, 48.3940894648 ]
+			},
+			"properties" : {
+				"id" : 3383,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Maxi/180, Boulevard Barrette, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0723631466, 48.3950395038 ]
+			},
+			"properties" : {
+				"id" : 3384,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commercers : Familiprix et Concept JP inc./175, Boulevard Barrette, Chiocutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0715181119, 48.3949433395 ]
+			},
+			"properties" : {
+				"id" : 3385,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Corneau Cantin/2000, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0709507508, 48.3948803164 ]
+			},
+			"properties" : {
+				"id" : 3386,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Épicerie : Corneau Cantin/2000, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0707601215, 48.3928739567 ]
+			},
+			"properties" : {
+				"id" : 3387,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Tim Hortons/1997. Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0695393025, 48.3941497718 ]
+			},
+			"properties" : {
+				"id" : 3388,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Les imeubles Perron Ltée/1915, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0681491553, 48.3934717659 ]
+			},
+			"properties" : {
+				"id" : 3389,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "École de Cuisine : Le Fruit de ma passion/2448, Rue des Roitelets, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0522722189, 48.3928157565 ]
+			},
+			"properties" : {
+				"id" : 3390,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique médicale des Roitelets et pharmacie/1955, Rue des Roitelets, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.050373584, 48.3935236864 ]
+			},
+			"properties" : {
+				"id" : 3391,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Villa Saguenay/1901, Rue des Roitelets, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0666025813, 48.3979090444 ]
+			},
+			"properties" : {
+				"id" : 3392,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Tegesco Inc. (Animalerie : Jonas)/1730, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 3,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0669113867, 48.3976799466 ]
+			},
+			"properties" : {
+				"id" : 3393,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Tegesca inc. (Restaurant : Casa Grecque)/",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0633227497, 48.3985332304 ]
+			},
+			"properties" : {
+				"id" : 3394,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Caisse Desjardins de Chicoutimi/268, Rue des Laurentides, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0636662988, 48.3987330061 ]
+			},
+			"properties" : {
+				"id" : 3395,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Caisse Desjardins de Chicoutimi/268, Rue des Laurentides, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0624002064, 48.3994161815 ]
+			},
+			"properties" : {
+				"id" : 3396,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : La Cage - Brassarie sportive/1611, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0621948712, 48.3996714285 ]
+			},
+			"properties" : {
+				"id" : 3397,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Cora/1611, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0623859212, 48.3997561133 ]
+			},
+			"properties" : {
+				"id" : 3398,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Banque Laurentienne/1611, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0619581308, 48.4002426091 ]
+			},
+			"properties" : {
+				"id" : 3399,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Confort inc./1595, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0614668021, 48.4006515001 ]
+			},
+			"properties" : {
+				"id" : 3400,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Clinique d'audiologie du Lac au Fjord Chicoutimi/1577, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0979554457, 48.4045948692 ]
+			},
+			"properties" : {
+				"id" : 3401,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "La Pharmacie Ghislain Letourneau/855, Boulevard Barette, Chicoutimi, Qc",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1026019387, 48.3996608477 ]
+			},
+			"properties" : {
+				"id" : 3402,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Tim Hortons/1750, Boulevard Saint-Paul, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0581899385, 48.4058412412 ]
+			},
+			"properties" : {
+				"id" : 3403,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Place Saguenay : Brunet (P2)/1324, Boulevard Talbot, Chicoutimi, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.021809693, 48.4495023973 ]
+			},
+			"properties" : {
+				"id" : 3404,
+				"municipalite" : "94068",
+				"secteur" : "Canton Tremblay",
+				"emplacement" : "Club Nautique du Fjord du Saguenay/731, Route de Tadoussac, Canton Tremblay, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0418128103, 48.4282578594 ]
+			},
+			"properties" : {
+				"id" : 3405,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "850, rue Léonidas-Bélanger",
+				"nb_case" : 0,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1393889448, 48.4358045358 ]
+			},
+			"properties" : {
+				"id" : 3406,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "2221, bouelvard du Saguenay",
+				"nb_case" : 0,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0249183713, 48.4296057597 ]
+			},
+			"properties" : {
+				"id" : 3407,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "1410, rue des Cèdres",
+				"nb_case" : 0,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.243665906, 48.4236357151 ]
+			},
+			"properties" : {
+				"id" : 3408,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "1994, rue Price",
+				"nb_case" : 0,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8873349649, 48.3213865325 ]
+			},
+			"properties" : {
+				"id" : 3409,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "2060, avenue John-Kane",
+				"nb_case" : 0,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0971628949, 48.4044242031 ]
+			},
+			"properties" : {
+				"id" : 3410,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Restaurant : Sunbway/1500, Boulevard Saint-Paul, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0956478396, 48.4034798972 ]
+			},
+			"properties" : {
+				"id" : 3411,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Commerces : Clinique Chiropratique du Saguenay et Centre dentaire/729, Bouelvard Barette, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0627376222, 48.427147268 ]
+			},
+			"properties" : {
+				"id" : 3412,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Stationnement public derrière le bâtiment de Cain Lamarre",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0495017099, 48.4252936624 ]
+			},
+			"properties" : {
+				"id" : 3413,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "CIUSS sur bou. Jacques-Cartier Est",
+				"nb_case" : 2,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0752016175, 48.4230318529 ]
+			},
+			"properties" : {
+				"id" : 3414,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0514931337, 48.4236963136 ]
+			},
+			"properties" : {
+				"id" : 3415,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Derrière le cégep de Chicoutimi",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0515431608, 48.4213519747 ]
+			},
+			"properties" : {
+				"id" : 3416,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC - Résidences/555, Boulevard Université Est, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0422731096, 48.4226146787 ]
+			},
+			"properties" : {
+				"id" : 3417,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "475 boul. Talbot",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1725879746, 48.4457603472 ]
+			},
+			"properties" : {
+				"id" : 3418,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "2680, boul. du Saguenay",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2698884321, 48.4637184891 ]
+			},
+			"properties" : {
+				"id" : 3419,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Shipshaw",
+				"emplacement" : "3863, chemin de la Péninsule",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2328520687, 48.435618109 ]
+			},
+			"properties" : {
+				"id" : 3420,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "1710, rue Sainte-Famille",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0701719123, 48.4479128586 ]
+			},
+			"properties" : {
+				"id" : 3421,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "701, rue Cabot",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0447516752, 48.4157335124 ]
+			},
+			"properties" : {
+				"id" : 3422,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "815, rue Murdock",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0653219395, 48.4273263581 ]
+			},
+			"properties" : {
+				"id" : 3423,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Autogare sur Rue Morin/ Coin Rue Jacques-Cartier et Rue Morin, Chicoutimi, QC",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0665128759, 48.427877852 ]
+			},
+			"properties" : {
+				"id" : 3424,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0708072603, 48.4283064529 ]
+			},
+			"properties" : {
+				"id" : 3425,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "rue Racine",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0551042929, 48.4294244983 ]
+			},
+			"properties" : {
+				"id" : 3426,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Boul. du Saguenay Est",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0425053731, 48.4201512045 ]
+			},
+			"properties" : {
+				"id" : 3427,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pharmacie Proxim 875 Chemin Sydenham #20",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.042584652, 48.4200110443 ]
+			},
+			"properties" : {
+				"id" : 3428,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pharmacie Proxim 875 Chemin Sydenham #20",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0430272106, 48.4190949729 ]
+			},
+			"properties" : {
+				"id" : 3429,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "UQAC (projet Balsac?)",
+				"nb_case" : 2,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0400001325, 48.4210411297 ]
+			},
+			"properties" : {
+				"id" : 3430,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Bâtiment CGI",
+				"nb_case" : 6,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0232109232, 48.4266133453 ]
+			},
+			"properties" : {
+				"id" : 3431,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Pizzeria + station-service 1476 boul. du Saguenay Est",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0514618511, 48.4058683805 ]
+			},
+			"properties" : {
+				"id" : 3432,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "à côté du bâtiment de l?Office québécois de langue française",
+				"nb_case" : 2,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0567264786, 48.4058537809 ]
+			},
+			"properties" : {
+				"id" : 3433,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel OTL Gouverneur Saguenay 1303 boul. Talbot",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0565087108, 48.406123654 ]
+			},
+			"properties" : {
+				"id" : 3434,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Hôtel OTL Gouverneur Saguenay 1303 boul. Talbot",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0653653002, 48.4278369005 ]
+			},
+			"properties" : {
+				"id" : 3435,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "rue Racine / Morin",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1853363067, 48.4271200837 ]
+			},
+			"properties" : {
+				"id" : 3436,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Foyer de loisirs et piscine/1910, Rue Centre, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1855933361, 48.4270960616 ]
+			},
+			"properties" : {
+				"id" : 3437,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Foyer de loisirs et piscine/1910, Rue Centre, Jonquière, QC",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2514505354, 48.414531917 ]
+			},
+			"properties" : {
+				"id" : 3438,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880, Boulevard Harvey",
+				"nb_case" : 3,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2509887557, 48.4145455465 ]
+			},
+			"properties" : {
+				"id" : 3439,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880, boulevard Harvey",
+				"nb_case" : 3,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2508668004, 48.4143846092 ]
+			},
+			"properties" : {
+				"id" : 3440,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880, boulevard Harvey",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.240853236, 48.4242737811 ]
+			},
+			"properties" : {
+				"id" : 3441,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Devant le bâtiment situé au 2082, rue Sainte-Famille",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2524832836, 48.4136011396 ]
+			},
+			"properties" : {
+				"id" : 3442,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880, boulevard Harvey",
+				"nb_case" : 2,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8534133073, 48.3134653938 ]
+			},
+			"properties" : {
+				"id" : 3443,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "Devant le bâtiment situé au 1391, rue Alexis-Simard",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2484985098, 48.4181858727 ]
+			},
+			"properties" : {
+				"id" : 3444,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Au 2124, rue St-Jacques, sur rue St-Laurent",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.233140841, 48.4234082308 ]
+			},
+			"properties" : {
+				"id" : 3445,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3605, rue du Roi-Georges",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2364902767, 48.4240091434 ]
+			},
+			"properties" : {
+				"id" : 3446,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3702, rue du Roi-Georges",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2579310886, 48.4105742087 ]
+			},
+			"properties" : {
+				"id" : 3447,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3978, rue Chesnier",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0468727126, 48.4118256209 ]
+			},
+			"properties" : {
+				"id" : 3448,
+				"municipalite" : "94068",
+				"secteur" : "",
+				"emplacement" : "En façade du bâtiment situé au 1070, rue Radisson",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2507688047, 48.414340556 ]
+			},
+			"properties" : {
+				"id" : 3449,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880, boulevard Harvey",
+				"nb_case" : 2,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1837485688, 48.4257059964 ]
+			},
+			"properties" : {
+				"id" : 3450,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "2890, Place Davis",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2397293515, 48.4129078596 ]
+			},
+			"properties" : {
+				"id" : 3451,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "2224, rue Perrier",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2527088385, 48.4137021789 ]
+			},
+			"properties" : {
+				"id" : 3452,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880, boulevard Harvey",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1823892099, 48.4240700015 ]
+			},
+			"properties" : {
+				"id" : 3453,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Devant le bâtiment situé au 1954, rue Davis",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1818763673, 48.4240511622 ]
+			},
+			"properties" : {
+				"id" : 3454,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Sur le côté du bâtiment situé au 1993, rue Davis,",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2294370311, 48.426270072 ]
+			},
+			"properties" : {
+				"id" : 3455,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Devant le bâtiment situé au 1920, rue Bourassa",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2654510705, 48.4064793601 ]
+			},
+			"properties" : {
+				"id" : 3456,
+				"municipalite" : "94068",
+				"secteur" : "",
+				"emplacement" : "Dans l’aire de stationnement située au 2445, rue Saint-Jean-Baptiste",
+				"nb_case" : 2,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0556667218, 48.4282227057 ]
+			},
+			"properties" : {
+				"id" : 3457,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Devant le 413, rue Racine Est",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0632199056, 48.427718987 ]
+			},
+			"properties" : {
+				"id" : 3458,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Devant le 172, Racine Est",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.254640211, 48.4134617253 ]
+			},
+			"properties" : {
+				"id" : 3459,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "Hôtel de ville Jonquière/2354, Rue Saint-Dominique, Jonquière, QC",
+				"nb_case" : 2,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2407752994, 48.4241169524 ]
+			},
+			"properties" : {
+				"id" : 3460,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "2053, rue Sainte-Famille",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2514019476, 48.4096843725 ]
+			},
+			"properties" : {
+				"id" : 3461,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "3880 St-Léon",
+				"nb_case" : 0,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.181315644, 48.4253517046 ]
+			},
+			"properties" : {
+				"id" : 3462,
+				"municipalite" : "94068",
+				"arrondissement" : "Jonquière",
+				"secteur" : "Jonquière",
+				"emplacement" : "1980, boul. Mellon",
+				"nb_case" : 1,
+				"conformite" : "Non conforme"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.880446878, 48.331347754 ]
+			},
+			"properties" : {
+				"id" : 3463,
+				"municipalite" : "94068",
+				"arrondissement" : "La Baie",
+				"secteur" : "La Baie",
+				"emplacement" : "",
+				"nb_case" : 1,
+				"conformite" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.029442393, 48.4256321942 ]
+			},
+			"properties" : {
+				"id" : 3464,
+				"municipalite" : "94068",
+				"arrondissement" : "Chicoutimi",
+				"secteur" : "Chicoutimi",
+				"emplacement" : "Rue de la Chute",
+				"nb_case" : 1,
+				"conformite" : "Conforme"
+			}
+		}
+	]
+}

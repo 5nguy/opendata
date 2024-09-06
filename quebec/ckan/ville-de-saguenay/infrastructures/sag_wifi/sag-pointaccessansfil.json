@@ -1,0 +1,454 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "SAG-PointAccesSansFil",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.9991230171, 48.3361903443 ]
+			},
+			"properties" : {
+				"id" : 59496,
+				"municipalite" : 94068,
+				"nom_lieu" : "Bâtiment Administratif Aéroport Saguenay-Bagotville",
+				"longitude" : -70.99912301708159,
+				"latitude" : 48.336190344317906
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0593189192, 48.4277587475 ]
+			},
+			"properties" : {
+				"id" : 43786,
+				"municipalite" : 94068,
+				"nom_lieu" : "Promotion Saguenay",
+				"longitude" : -71.05931891919232,
+				"latitude" : 48.42775874752751
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0744783125, 48.4481454755 ]
+			},
+			"properties" : {
+				"id" : 46242,
+				"municipalite" : 94068,
+				"nom_lieu" : "Aréna Marina-Larouche",
+				"longitude" : -71.0744783125058,
+				"latitude" : 48.44814547551123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.268870241, 48.4102268714 ]
+			},
+			"properties" : {
+				"id" : 54402,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Culturel Du Mont-Jacob",
+				"longitude" : -71.26887024101654,
+				"latitude" : 48.410226871383564
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8875402852, 48.328178175 ]
+			},
+			"properties" : {
+				"id" : 46333,
+				"municipalite" : 94068,
+				"nom_lieu" : "Théâtre Du Palais Municipal",
+				"longitude" : -70.88754028517461,
+				"latitude" : 48.32817817496336
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2238287633, 48.435859731 ]
+			},
+			"properties" : {
+				"id" : 45802,
+				"municipalite" : 94068,
+				"nom_lieu" : "Chalet Mont-Fortin",
+				"longitude" : -71.22382876328308,
+				"latitude" : 48.43585973099494
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.261256972, 48.4084461139 ]
+			},
+			"properties" : {
+				"id" : 45188,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Communautaire Nikitoutagan",
+				"longitude" : -71.26125697202261,
+				"latitude" : 48.408446113862226
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0622457666, 48.4282576682 ]
+			},
+			"properties" : {
+				"id" : 46016,
+				"municipalite" : 94068,
+				"nom_lieu" : "Hôtel De Ville Saguenay",
+				"longitude" : -71.06224576655646,
+				"latitude" : 48.42825766817184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8794882536, 48.3443714068 ]
+			},
+			"properties" : {
+				"id" : 58902,
+				"municipalite" : 94068,
+				"nom_lieu" : "Pavillon D'accueil Croisières",
+				"longitude" : -70.87948825363858,
+				"latitude" : 48.34437140684083
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2445269412, 48.4246001835 ]
+			},
+			"properties" : {
+				"id" : 45907,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Commémoratif Price",
+				"longitude" : -71.24452694123315,
+				"latitude" : 48.42460018347674
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2528800002, 48.4089895621 ]
+			},
+			"properties" : {
+				"id" : 46320,
+				"municipalite" : 94068,
+				"nom_lieu" : "Palais Des Sports",
+				"longitude" : -71.25288000016099,
+				"latitude" : 48.40898956205458
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2537676565, 48.4119436285 ]
+			},
+			"properties" : {
+				"id" : 46073,
+				"municipalite" : 94068,
+				"nom_lieu" : "Gare Multimodale",
+				"longitude" : -71.2537676565066,
+				"latitude" : 48.411943628517875
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8809354774, 48.3375011101 ]
+			},
+			"properties" : {
+				"id" : 34451,
+				"municipalite" : 94068,
+				"nom_lieu" : "Glace Valérie Maltais",
+				"longitude" : -70.88093547743512,
+				"latitude" : 48.337501110128
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2281192377, 48.4259724755 ]
+			},
+			"properties" : {
+				"id" : 46228,
+				"municipalite" : 94068,
+				"nom_lieu" : "Pavillon Sportif Kénogami",
+				"longitude" : -71.22811923768066,
+				"latitude" : 48.42597247552442
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0639676674, 48.4283142571 ]
+			},
+			"properties" : {
+				"id" : 46345,
+				"municipalite" : 94068,
+				"nom_lieu" : "Édifice J. Dominique Guay",
+				"longitude" : -71.06396766736191,
+				"latitude" : 48.428314257060464
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1792201235, 48.4151775034 ]
+			},
+			"properties" : {
+				"id" : 60246,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Communautaire Mellon",
+				"longitude" : -71.17922012345882,
+				"latitude" : 48.415177503377436
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1824584033, 48.4262228663 ]
+			},
+			"properties" : {
+				"id" : 45733,
+				"municipalite" : 94068,
+				"nom_lieu" : "Bibliothèque Arvida",
+				"longitude" : -71.18245840326385,
+				"latitude" : 48.426222866281094
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1858177608, 48.4266557446 ]
+			},
+			"properties" : {
+				"id" : 46361,
+				"municipalite" : 94068,
+				"nom_lieu" : "Foyer Des Loisirs",
+				"longitude" : -71.18581776078004,
+				"latitude" : 48.42665574464799
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.318695573, 48.3972640804 ]
+			},
+			"properties" : {
+				"id" : 43539,
+				"municipalite" : 94068,
+				"nom_lieu" : "Chalet Norvégien",
+				"longitude" : -71.31869557299922,
+				"latitude" : 48.39726408042766
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0636080425, 48.418710613 ]
+			},
+			"properties" : {
+				"id" : 45356,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Communautaire Rosaire-Gauthier",
+				"longitude" : -71.06360804253535,
+				"latitude" : 48.41871061300674
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.253574973, 48.4133338482 ]
+			},
+			"properties" : {
+				"id" : 57396,
+				"municipalite" : 94068,
+				"nom_lieu" : "Office Du Tourisme Jonquière",
+				"longitude" : -71.25357497298248,
+				"latitude" : 48.41333384816225
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0600180933, 48.4197640207 ]
+			},
+			"properties" : {
+				"id" : 46353,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Georges-Vézina",
+				"longitude" : -71.06001809325542,
+				"latitude" : 48.41976402070641
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0835837411, 48.3810484789 ]
+			},
+			"properties" : {
+				"id" : 57372,
+				"municipalite" : 94068,
+				"nom_lieu" : "Office Du Tourisme Saguenay",
+				"longitude" : -71.08358374114124,
+				"latitude" : 48.381048478916355
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.9996239475, 48.3370460422 ]
+			},
+			"properties" : {
+				"id" : 46123,
+				"municipalite" : 94068,
+				"nom_lieu" : "Aérogare Bagotville",
+				"longitude" : -70.9996239474952,
+				"latitude" : 48.33704604216973
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1062053351, 48.3073237867 ]
+			},
+			"properties" : {
+				"id" : 60670,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Multisport Nazaire-Girard",
+				"longitude" : -71.10620533506206,
+				"latitude" : 48.307323786685345
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1091419875, 48.3093937971 ]
+			},
+			"properties" : {
+				"id" : 43968,
+				"municipalite" : 94068,
+				"nom_lieu" : "Bibliothèque Laterrière",
+				"longitude" : -71.10914198754664,
+				"latitude" : 48.30939379710335
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2589713271, 48.4594892269 ]
+			},
+			"properties" : {
+				"id" : 45294,
+				"municipalite" : 94068,
+				"nom_lieu" : "Centre Communautaire Shipshaw",
+				"longitude" : -71.25897132710243,
+				"latitude" : 48.459489226860725
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2570304723, 48.4100485014 ]
+			},
+			"properties" : {
+				"id" : 60310,
+				"municipalite" : 94068,
+				"nom_lieu" : "Bibliothèque Jonquière",
+				"longitude" : -71.25703047226537,
+				"latitude" : 48.41004850144449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0591558881, 48.418548349 ]
+			},
+			"properties" : {
+				"id" : 46244,
+				"municipalite" : 94068,
+				"nom_lieu" : "Pavillon De L'agriculture",
+				"longitude" : -71.05915588807757,
+				"latitude" : 48.418548348958694
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0661992439, 48.4286725771 ]
+			},
+			"properties" : {
+				"id" : 45801,
+				"municipalite" : 94068,
+				"nom_lieu" : "Terminus STS Chicoutimi",
+				"longitude" : -71.06619924387192,
+				"latitude" : 48.42867257707125
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1826030706, 48.4275605794 ]
+			},
+			"properties" : {
+				"id" : 45784,
+				"municipalite" : 94068,
+				"nom_lieu" : "Théatre Palace",
+				"longitude" : -71.18260307061485,
+				"latitude" : 48.427560579438584
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.8795571493, 48.3372080062 ]
+			},
+			"properties" : {
+				"id" : 54613,
+				"municipalite" : 94068,
+				"nom_lieu" : "Terminus STS La Baie",
+				"longitude" : -70.87955714934434,
+				"latitude" : 48.33720800621251
+			}
+		}
+	]
+}
