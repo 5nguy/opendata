@@ -1,0 +1,2987 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "C:\\arcgisserver\\arcgisdata\\FGDBS\\vdq-fontaine_a_boire.geojson",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.1744607718711, 46.86461530214257, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0280",
+				"NOM_USUEL" : "Fontaine à boire du chalet Noël-Langlois"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25800306765866, 46.779067648095875, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0278",
+				"NOM_USUEL" : "Fontaine à boire, Pavillon Parc du Buisson"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32064670037, 46.77520793580176, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0282",
+				"NOM_USUEL" : "Fontaine à boire du pavillon du parc Sainte-Geneviève"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34165010879353, 46.74742714689436, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0283",
+				"NOM_USUEL" : "Fontaine à boire du pavillon d'accueil du parc nautique de Cap-Rouge"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23226809333563, 46.817550989658464, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0286",
+				"NOM_USUEL" : "Fontaine à boire #2 (Sud), Pavillon de tennis Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38713685593311, 46.86571955998074, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0284",
+				"NOM_USUEL" : "Fontaine à boire du pavillon du parc Saint-Raphaël"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22413228198634, 46.80211093672754, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0249",
+				"NOM_USUEL" : "Fontaine Wallace Grande Allée Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30458423883324, 46.77992818175372, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0281",
+				"NOM_USUEL" : "Fontaine à boire du pavillon de piscine du parc du Notre-Dame-de-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23225706553129, 46.81770399896989, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0285",
+				"NOM_USUEL" : "Fontaine à boire #1, Pavillon de tennis Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26075442891687, 46.76613945598232, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0243",
+				"NOM_USUEL" : "Fontaine à boire Parc du Foulon"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38013633291044, 46.814575186201864, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0262",
+				"NOM_USUEL" : "Fontaine à boire #2, Centre de loisirs Trois-Saisons, Parc des Trois-Saisons (Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.4567409321288, 46.830630823573976, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0279",
+				"NOM_USUEL" : "Fontaine à boire, Chalet principal Base de plein air La Découverte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21144410697231, 46.84436556978048, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0272",
+				"NOM_USUEL" : "Fontaine à boire Parc des Gazouillis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.19025668500643, 46.85773791229079, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0271",
+				"NOM_USUEL" : "Fontaine à boire, Chalet de tennis Parc du Fargy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2137604114302, 46.836110483475956, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0042",
+				"NOM_USUEL" : "Fontaine à boire #1, Domaine de Maizerets"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21016889389652, 46.81425361984156, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0056",
+				"NOM_USUEL" : "Fontaine à boire Saint-Jean/du Palais"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20359532454633, 46.81160429482025, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0053",
+				"NOM_USUEL" : "Fontaine à boire Parc Félix-Leclerc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21271500879227, 46.81653187499697, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0059",
+				"NOM_USUEL" : "Fontaine à boire Saint-Paul/Vaisseaux-du-Roi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27269167676711, 46.77049474389582, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0242",
+				"NOM_USUEL" : "Fontaine à boire #2, Chalet piscine Parc Saint-Yves"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2745435704397, 46.769978422573175, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0103",
+				"NOM_USUEL" : "Fontaine à boire Parc Saint-Yves"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23424519833439, 46.78853386390483, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0105",
+				"NOM_USUEL" : "Fontaine à boire Halte routière Gilmour"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34235769171585, 46.75084061740992, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0106",
+				"NOM_USUEL" : "Fontaine à boire Parc Provancher"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22612550233866, 46.80029902380546, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0011",
+				"NOM_USUEL" : "Fontaine à boire Parc du Musée"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22262464803909, 46.81279920677953, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0014",
+				"NOM_USUEL" : "Fontaine à boire #2 du jardin Jean-Paul-L’Allier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21736261837292, 46.82209859632719, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0070",
+				"NOM_USUEL" : "Fontaine à boire, Îlot des Capucins/Rivière Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2271781567286, 46.82397087950263, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0071",
+				"NOM_USUEL" : "Fontaine à boire Place Limouloise"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34097450248238, 46.83603817015269, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0072",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc Chauveau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34419671324211, 46.832514855297475, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0075",
+				"NOM_USUEL" : "Fontaine à boire #2, Centre communautaire Michel-Labadie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2452886299109, 46.83798769598125, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0060",
+				"NOM_USUEL" : "Fontaine à boire 1re Avenue/des Peupliers Ouest"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20335329568422, 46.81213657018777, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0065",
+				"NOM_USUEL" : "Fontaine à boire boulevard Champlain"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24222316290299, 46.827679776541125, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0066",
+				"NOM_USUEL" : "Fontaine à boire Réservoir de rétention Lairet U211, Parc Lairet"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30703359312268, 46.847402029203465, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0081",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Jean-Marc-Gauthier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22434999594087, 46.844671468633045, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0001",
+				"NOM_USUEL" : "Fontaine à boire Parc Bardy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30483383964562, 46.77998040548315, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0133",
+				"NOM_USUEL" : "Fontaine à boire Centre de loisirs Notre-Dame-de-Foy, Parc Notre-Dame-de-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29712602587304, 46.78480247564824, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0135",
+				"NOM_USUEL" : "Fontaine à boire Parc Saint-Jean-Baptiste-De La Salle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29585877335991, 46.78857181284857, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0137",
+				"NOM_USUEL" : "Fontaine à boire Versant-Nord/Port-Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2498539038667, 46.78446522698454, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0097",
+				"NOM_USUEL" : "Fontaine à boire #2, Chalet piscine Gérard-Guay, Parc Saint-Charles-Garnier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.40918429305889, 46.76609108442377, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0123",
+				"NOM_USUEL" : "Fontaine à boire Parc Saint-Ange"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36956713103098, 46.77428889588325, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0124",
+				"NOM_USUEL" : "Fontaine à boire Parc des Primevères"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30577825869626, 46.78008171747936, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0134",
+				"NOM_USUEL" : "Fontaine à boire Parc Notre-Dame-de-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3347811952697, 46.76707184726361, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0147",
+				"NOM_USUEL" : "Fontaine à boire Parc Gingras"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2280677261754, 46.83161214836512, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0040",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Ferland"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35906931731657, 46.78030585545709, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0126",
+				"NOM_USUEL" : "Fontaine à boire Parc Robitaille"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33972452371883, 46.75911876476601, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0138",
+				"NOM_USUEL" : "Fontaine à boire Piste cyclable Versant-Nord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27331380807027, 46.767305788360495, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0140",
+				"NOM_USUEL" : "Fontaine à boire, Îlot Maison Hamel-Bruneau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30723407310431, 46.76883486188317, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0153",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Saint-Mathieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22442133247684, 46.843150633062095, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0002",
+				"NOM_USUEL" : "Fontaine à boire #1, Centre communautaire Monseigneur-Marcoux, Parc Bardy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25325697933675, 46.80777962794309, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0009",
+				"NOM_USUEL" : "Fontaine à boire Parc Général-Vanier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22808071202437, 46.83160306938673, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0039",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Ferland"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21526657213256, 46.83600212130185, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0043",
+				"NOM_USUEL" : "Fontaine à boire #2, Domaine de Maizerets"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21385884606764, 46.83562406579579, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0044",
+				"NOM_USUEL" : "Fontaine à boire #3, Domaine de Maizerets"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25677915259608, 46.79639390840268, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0046",
+				"NOM_USUEL" : "Fontaine à boire Parc de Saint-Sacrement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22051533999534, 46.812830497625, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0048",
+				"NOM_USUEL" : "Fontaine à boire, Îlot Escalier de la Chapelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2176735860024, 46.8109950925212, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0049",
+				"NOM_USUEL" : "Fontaine à boire Bibliothèque Claire-Martin, Parc Saint-Matthew"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22049328253148, 46.82197097522584, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0006",
+				"NOM_USUEL" : "Fontaine à boire Parc d'Iberville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23339903860999, 46.83614826915221, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0007",
+				"NOM_USUEL" : "Fontaine à boire Parc-école Saint-Paul-Apôtre"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24529315275886, 46.801327352878474, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0008",
+				"NOM_USUEL" : "Fontaine à boire Parc canin de la Pente-Douce"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23361802776367, 46.818522952275494, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0025",
+				"NOM_USUEL" : "Fontaine à boire #2, Stade Canac, Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25810527537064, 46.80500370902011, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0026",
+				"NOM_USUEL" : "Fontaine à boire Parc Lionel-Bertrand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2148018122531, 46.83555520630264, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0041",
+				"NOM_USUEL" : "Fontaine à boire Chalet Lacroix, Domaine de Maizerets"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20696488127105, 46.81375166408171, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0057",
+				"NOM_USUEL" : "Fontaine à boire Place de l'Hôtel-de-Ville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2459617504624, 46.83926079515538, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0061",
+				"NOM_USUEL" : "Fontaine à boire 1re Avenue/des Saules Est"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2258350095453, 46.80012993440103, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0012",
+				"NOM_USUEL" : "Fontaine à boire Filtre/déshabillage piscine Parc du Musée"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20754848869863, 46.81528644203786, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0062",
+				"NOM_USUEL" : "Fontaine à boire Parc Couillard"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23344238720135, 46.8056052384991, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0064",
+				"NOM_USUEL" : "Fontaine à boire Parc des Franciscains"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30705553589814, 46.84361440519042, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0089",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscine Lebourgneuf, Parc-école des Prés-Verts"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38021573368844, 46.810607151912315, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0094",
+				"NOM_USUEL" : "Fontaine à boire Parc Joseph-Olivier-Chauveau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26726439834624, 46.76634789682123, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0100",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc de la Falaise"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38076526568445, 46.765593617860155, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0122",
+				"NOM_USUEL" : "Fontaine à boire, Parc-école Jouvence"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33459674214528, 46.78987924824967, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0129",
+				"NOM_USUEL" : "Fontaine à boire #3, Base de plein air de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29494830309021, 46.78544737496865, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0136",
+				"NOM_USUEL" : "Fontaine à boire Parc-école Fernand-Seguin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35002130505141, 46.74959640873673, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0099",
+				"NOM_USUEL" : "Fontaine à boire Parc des Potiers"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2674843713257, 46.78736216459338, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0139",
+				"NOM_USUEL" : "Fontaine à boire Parc Myrand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28579608004492, 46.756829814355825, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0143",
+				"NOM_USUEL" : "Fontaine à boire Parc Sainte-Isabelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31378931221015, 46.75201896529354, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0144",
+				"NOM_USUEL" : "Fontaine à boire Parc de la Plage-Jacques-Cartier (Section Est)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33344755991475, 46.76209751058704, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0146",
+				"NOM_USUEL" : "Fontaine à boire Parc du Campanile"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3254319009393, 46.76700471637094, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0149",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Saint-Benoît"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32670812590825, 46.76570000964962, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0151",
+				"NOM_USUEL" : "Fontaine à boire #4, Parc Saint-Benoît"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30732246383228, 46.76686400828557, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0154",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Saint-Mathieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21193622621533, 46.80220544414546, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0067",
+				"NOM_USUEL" : "Fontaine à boire #1, Réducteur de pression Champlain P114"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2581931375292, 46.79540393851461, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0010",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscines Parc de Saint-Sacrement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24645069226743, 46.804504542649, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0021",
+				"NOM_USUEL" : "Fontaine à boire, Filtres piscine Parc Dollard-Des Ormeaux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25721981696022, 46.790453344491596, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0022",
+				"NOM_USUEL" : "Fontaine à boire Parc Notre-Dame-de-Bellevue"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22981604072874, 46.80776056993779, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0038",
+				"NOM_USUEL" : "Fontaine à boire Parc de la Côte Sauvageau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26541300076589, 46.76504680804741, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0101",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc de la Falaise"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37307515611226, 46.77582757472635, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0090",
+				"NOM_USUEL" : "Fontaine à boire Centre communautaire Champigny"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33921510570109, 46.74907340001243, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0093",
+				"NOM_USUEL" : "Fontaine à boire Parc Cartier-Roberval"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3628896487139, 46.747277958331146, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0108",
+				"NOM_USUEL" : "Fontaine à boire Parc-école de l'Arbrisseau/du Plateau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21193634488638, 46.802214439826244, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0230",
+				"NOM_USUEL" : "Fontaine à boire #2, Réducteur de pression Champlain P114"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21161530788683, 46.810655071169776, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0068",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc de l'Esplanade"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20766676270183, 46.8183084998029, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0069",
+				"NOM_USUEL" : "Fontaine à boire, Îlot Marché du Vieux-Port/Espace 400e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26696431509635, 46.81344629755325, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0269",
+				"NOM_USUEL" : "Fontaine à boire Pavillon de piscine Parc Victorin-Beaucage"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35201407443923, 46.76060231414402, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0107",
+				"NOM_USUEL" : "Fontaine à boire Parc des Écores"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30749201955692, 46.75718258509902, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0109",
+				"NOM_USUEL" : "Fontaine à boire Parc Raymond-De Rosa"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33733061200493, 46.76345462516397, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0110",
+				"NOM_USUEL" : "Fontaine à boire Parc Destor"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3142882696296, 46.76863194586819, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0112",
+				"NOM_USUEL" : "Fontaine à boire Parc Capitaine J.-E.-Bernier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24126938510216, 46.79738606030887, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0018",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc des Saints-Martyrs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24699618952033, 46.80415911966042, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0019",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Dollard-Des Ormeaux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25407692487863, 46.833629869233846, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0023",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc-école de Sainte-Odile, Parc-école de Sainte-Odile"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23410312571376, 46.818537834733576, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0024",
+				"NOM_USUEL" : "Fontaine à boire #1, Stade Canac, Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31124135026052, 46.8020124509651, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0080",
+				"NOM_USUEL" : "Fontaine à boire Parc J.-B.-Lafrance"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33268380467402, 46.77285387403698, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0113",
+				"NOM_USUEL" : "Fontaine à boire Parc Clérin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33288509532458, 46.787606617932475, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0127",
+				"NOM_USUEL" : "Fontaine à boire #1, Base de plein air de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36314407686328, 46.76649258278827, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0116",
+				"NOM_USUEL" : "Fontaine à boire Parc des Sources"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3050322633117, 46.84684935168293, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0082",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Jean-Marc-Gauthier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31995576010723, 46.812494159938986, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0083",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc Sainte-Monique"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33972985898957, 46.827671669371014, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0086",
+				"NOM_USUEL" : "Fontaine à boire Complexe de soccer Chauveau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26700669312294, 46.81366192736364, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0087",
+				"NOM_USUEL" : "Fontaine à boire Parc Victorin-Beaucage"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35255374487936, 46.767426635763016, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0115",
+				"NOM_USUEL" : "Fontaine à boire Parc Montrénault"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37989524591582, 46.81345248700307, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0117",
+				"NOM_USUEL" : "Fontaine à boire #3, Centre de loisirs Trois-Saisons, Parc des Trois-Saisons (Sud)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36734985266432, 46.815599431586094, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0118",
+				"NOM_USUEL" : "Fontaine à boire Parc Fénelon"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37854018921242, 46.7664383990428, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0121",
+				"NOM_USUEL" : "Fontaine à boire Parc Claude-Germain"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22415259743842, 46.818268357064156, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0028",
+				"NOM_USUEL" : "Fontaine à boire Parc Gilles-Lamontagne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22084315257725, 46.81088521000318, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0030",
+				"NOM_USUEL" : "Fontaine à boire Parc Richelieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22929936614824, 46.80734103198961, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0036",
+				"NOM_USUEL" : "Fontaine à boire du parc Karim–Ouellet"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21103333473864, 46.8410574632344, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0037",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Edmond-Gagnon, Parc de l'Arboretum"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3311446469973, 46.789409565629235, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0128",
+				"NOM_USUEL" : "Fontaine à boire #2, Base de plein air de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3355206336446, 46.789485659496144, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0130",
+				"NOM_USUEL" : "Fontaine à boire #4, Base de plein air de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37089321003259, 46.77613208740247, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0091",
+				"NOM_USUEL" : "Fontaine à boire Terrain de soccer, Ïlot Centre communautaire Champigny"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3417240069871, 46.747129718171735, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0092",
+				"NOM_USUEL" : "Fontaine à boire Parc Nautique de Cap-Rouge"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25092492300017, 46.785195913583046, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0095",
+				"NOM_USUEL" : "Fontaine à boire Parc Saint-Charles-Garnier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24994669899411, 46.78454558701053, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0096",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet piscine Gérard-Guay, Parc Saint-Charles-Garnier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21906369940304, 46.819928788316595, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0063",
+				"NOM_USUEL" : "Fontaine à boire des Trois-Mâts, Parc linéaire Rivière-Saint-Charles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34580367520235, 46.83217012517007, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0076",
+				"NOM_USUEL" : "Fontaine à boire #3, Centre communautaire Michel-Labadie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2534009773046, 46.85748366244847, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0181",
+				"NOM_USUEL" : "Fontaine à boire Bâtiment de services Parc Saint-Jérôme (section Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20936685341019, 46.863855533809755, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0196",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Saint-David, Terrain de soccer du Royal-Saint-David"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37078013117288, 46.85841417705767, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0213",
+				"NOM_USUEL" : "Fontaine à boire #2, Filtres piscine Parc du Château-d'Eau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.280768526833, 46.87084873535523, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0178",
+				"NOM_USUEL" : "Fontaine à boire Chalet Parc du Lyonnais"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.30928734338555, 46.899654742069096, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0179",
+				"NOM_USUEL" : "Fontaine à boire Chalet Bon-Pasteur, Parc du Bon-Pasteur (Charlesbourg)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25333987096894, 46.85592769789151, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0180",
+				"NOM_USUEL" : "Fontaine à boire Chalet piscines Parc Saint-Jérôme (section Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2513937980759, 46.847097079812336, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0184",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Maurice-Lortie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37883212060561, 46.90658189695485, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0217",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Paul-Émile-Beaulieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33281699751235, 46.87059884021469, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0218",
+				"NOM_USUEL" : "Fontaine à boire Parc Réal-Cloutier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25006444935735, 46.8467369481167, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0231",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet piscine Parc Maurice-Lortie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33682521224424, 46.87528368279631, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0214",
+				"NOM_USUEL" : "Fontaine à boire Bâtiment de service Parc de la Grande-Oasis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33277260188638, 46.871120950267404, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0215",
+				"NOM_USUEL" : "Fontaine à boire Filtres piscines Parc Réal-Cloutier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25092468427813, 46.84730707450359, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0185",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Maurice-Lortie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25076855504616, 46.846453445000684, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0186",
+				"NOM_USUEL" : "Fontaine à boire Chalet Édouard-Laurent, Parc Maurice-Lortie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24149207574686, 46.87838790806177, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0188",
+				"NOM_USUEL" : "Fontaine à boire #2, Pavillon Parc Saint-Viateur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26349851667679, 46.84447100860923, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0189",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet Parc Henri-Casault"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24996031298272, 46.84679160859378, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0232",
+				"NOM_USUEL" : "Fontaine à boire #2, Chalet piscine Parc Maurice-Lortie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33437087772971, 46.87098336277526, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0216",
+				"NOM_USUEL" : "Fontaine à boire Pavillon René-Lafond, Parc Réal-Cloutier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24109277501421, 46.858913462387775, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0192",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet Parc de la Terrasse-du-Bon-Air"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2081213641838, 46.862900638822246, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0197",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Saint-David, Terrain de soccer du Royal-Saint-David"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22167938945621, 46.86847464927976, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0201",
+				"NOM_USUEL" : "Fontaine à boire Parc du Ruisseau-du-Moulin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21412677059242, 46.81230376348414, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0045",
+				"NOM_USUEL" : "Fontaine à boire, Îlot Place D'Youville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.20561342599001, 46.81261746085405, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0047",
+				"NOM_USUEL" : "Fontaine à boire Monument de la Foi, Îlot Place d'Armes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.39119548843355, 46.85258034256154, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0219",
+				"NOM_USUEL" : "Fontaine à boire Parc de Montchâtel"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.45612655494973, 46.829988216072586, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0207",
+				"NOM_USUEL" : "Fontaine à boire #1, Base de plein air La Découverte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38369661314337, 46.84551335810846, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0208",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc des Musiciens"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37075506779361, 46.85848633855151, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0212",
+				"NOM_USUEL" : "Fontaine à boire #1, Filtres piscine Parc du Château-d'Eau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21022490776397, 46.80158632713539, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0054",
+				"NOM_USUEL" : "Fontaine à boire Parc de Notre-Dame-de-la-Garde"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31989838481218, 46.81044338753283, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0073",
+				"NOM_USUEL" : "Fontaine à boire Parc Gérard-Barber"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34620533576555, 46.83187027542017, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0074",
+				"NOM_USUEL" : "Fontaine à boire #1, Centre communautaire Michel-Labadie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33535919034475, 46.8577425398775, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0077",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Robert-Légaré"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.40503043324384, 46.837753711212464, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0220",
+				"NOM_USUEL" : "Fontaine à boire Parc Adagio"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35836542338193, 46.85544918818393, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0221",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Jean-Roger-Durand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36047769854213, 46.831691895429636, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0222",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc-école de la Chaumière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36430403119857, 46.772709398860535, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0267",
+				"NOM_USUEL" : "Fontaine à boire Bloc sanitaire Parc de Champigny"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38013618614119, 46.81456619090805, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0238",
+				"NOM_USUEL" : "Fontaine à boire #1, Centre de loisirs Trois-Saisons, Parc des Trois-Saisons (Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.31566437182752, 46.75050319848588, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0239",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc de la Plage-Jacques-Cartier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3353723037019, 46.85774244417539, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0078",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Robert-Légaré"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32523239995447, 46.80964935244743, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0079",
+				"NOM_USUEL" : "Fontaine à boire, Aréna Gaétan-Duchesne, Parc Antoine-Masson"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3209036758338, 46.83086701617948, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0084",
+				"NOM_USUEL" : "Fontaine à boire Parc des Brumes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28229222171593, 46.814988899984385, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0085",
+				"NOM_USUEL" : "Fontaine à boire Parc de l'Accueil"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2480453532685, 46.805177859043106, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0223",
+				"NOM_USUEL" : "Fontaine à boire Remise Nord, Parc Dollard-Des Ormeaux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.19628015251712, 46.91076154662253, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0224",
+				"NOM_USUEL" : "Fontaine à boire Piste de vélocross du Sous-Bois"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.37110480596508, 46.893074553681416, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0225",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Claude-Bégin, Parc de l'Arc-en-Ciel"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27240515961529, 46.85480203950195, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0240",
+				"NOM_USUEL" : "Fontaine à boire Parc Maria-Goretti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2102183572775, 46.81701520707572, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0241",
+				"NOM_USUEL" : "Fontaine Wallace rue Saint-Paul"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25948968363649, 46.863309035381086, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0244",
+				"NOM_USUEL" : "Fontaine à boire Garderie, Patro de Charlesbourg (section Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22298947637482, 46.81264396392417, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0013",
+				"NOM_USUEL" : "Fontaine à boire #1 du jardin Jean-Paul-L’Allier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2726666498906, 46.77057588115136, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0102",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet piscine Parc Saint-Yves"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28250298190812, 46.76083782653454, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0141",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscine Parc Saint-Louis-de-France"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28141005509853, 46.76130411550294, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0142",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc-école Saint-Louis-de-France I & II"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.35883153966893, 46.85589550959157, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0226",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Jean-Roger-Durand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32957044230304, 46.79010471768234, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0227",
+				"NOM_USUEL" : "Fontaine à boire #7, Base de plein air de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22397764173171, 46.843306378348935, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0228",
+				"NOM_USUEL" : "Fontaine à boire #2, Centre communautaire Monseigneur-Marcoux, Parc Bardy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26132770034741, 46.86250514823488, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0245",
+				"NOM_USUEL" : "Fontaine à boire #1, Soccer/Football, Patro de Charlesbourg (section Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26175845128763, 46.862358341155684, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0246",
+				"NOM_USUEL" : "Fontaine à boire #2, Soccer/Football, Patro de Charlesbourg (section Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2820105824352, 46.863337319866424, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0247",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet piscine Parc Maurice-Dorion"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2821157628637, 46.86335459391451, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0248",
+				"NOM_USUEL" : "Fontaine à boire #2, Chalet piscine Parc Maurice-Dorion"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22387943056452, 46.81353797909872, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0015",
+				"NOM_USUEL" : "Fontaine à boire Place de l'Université-du-Québec"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24026246782425, 46.80420287095602, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0016",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc Roger-Lemelin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24118918536176, 46.797269626128355, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0017",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc des Saints-Martyrs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2469963140436, 46.80416811526794, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0020",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Dollard-Des Ormeaux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32991446964371, 46.75879448268225, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0145",
+				"NOM_USUEL" : "Fontaine à boire Parc des Compagnons"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3259132850617, 46.765948654021166, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0148",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Saint-Benoît"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32552041471278, 46.76594249220757, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0150",
+				"NOM_USUEL" : "Fontaine à boire #3, Parc Saint-Benoît"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29094663782188, 46.77423851786766, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0159",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Saint-Denys"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25300420996538, 46.856307752813535, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0229",
+				"NOM_USUEL" : "Fontaine à boire, Chalet Parc Saint-Jérôme, Parc Saint-Jérôme (section Nord)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.45612639542382, 46.82997922099456, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0234",
+				"NOM_USUEL" : "Fontaine à boire #3, Base de plein air La Découverte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33863502337043, 46.87524344887921, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0250",
+				"NOM_USUEL" : "Fontaine à boire Parc de la Grande-Oasis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2457179498109, 46.82732419433432, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0251",
+				"NOM_USUEL" : "Fontaine à boire #1 de la place de la Famille du parc de l'Exposition"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29952179562834, 46.77323430129372, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0158",
+				"NOM_USUEL" : "Fontaine à boire Parc Roland-Beaudin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2917914203392, 46.7755911433861, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0160",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Saint-Denys"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29464099450196, 46.76812231012307, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0162",
+				"NOM_USUEL" : "Fontaine à boire #2, Terrain de soccer De Rochebelle, Îlot Terrain de soccer De Rochebelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27127387735108, 46.877453423558926, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0235",
+				"NOM_USUEL" : "Fontaine à boire #1, Chalet Chabot, Parc Chabot"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24616854143174, 46.82768111309082, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0252",
+				"NOM_USUEL" : "Fontaine à boire #2, Place de la Famille, Parc de l'Exposition"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3780119951088, 46.90700201896085, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0253",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Paul-Émile-Beaulieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3771191865814, 46.906990870566446, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0254",
+				"NOM_USUEL" : "Fontaine à boire Entrepôt chalet des sports Parc Paul-Émile-Beaulieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38665509583856, 46.76548516027269, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0255",
+				"NOM_USUEL" : "Fontaine à boire Bloc sanitaire Parc Malraux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23818499868956, 46.82185823994227, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0027",
+				"NOM_USUEL" : "Fontaine à boire Parc de la Pointe-aux-Lièvres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23279068807425, 46.816468077150546, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0033",
+				"NOM_USUEL" : "Fontaine à boire Bloc sanitaire Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26004111072523, 46.76662100905861, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0165",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc du Foulon"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36468953638378, 46.74688651811985, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0166",
+				"NOM_USUEL" : "Fontaine à boire Chalet Parc du Plateau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25789517763774, 46.86277982402417, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0168",
+				"NOM_USUEL" : "Fontaine à boire #2, Patro de Charlesbourg/Arpitennis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.4561526077651, 46.82997900201874, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0233",
+				"NOM_USUEL" : "Fontaine à boire #2, Base de plein air La Découverte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24086587954596, 46.83764755744161, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0236",
+				"NOM_USUEL" : "Fontaine à boire #1, Pavillon piscine Parc Gérard-Marchand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2408657559001, 46.83763856187443, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0237",
+				"NOM_USUEL" : "Fontaine à boire #2, Pavillon piscine Parc Gérard-Marchand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36460635806186, 46.77687248613637, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0256",
+				"NOM_USUEL" : "Fontaine à boire Filtres piscine Parc Le May"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33211940868438, 46.787216343589364, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0257",
+				"NOM_USUEL" : "Fontaine à boire Pavillon d'accueil Base Plein air de Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32824144208644, 46.84603602502978, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0258",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscine Parc de l'Apprenti-Sage"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28082898477327, 46.760048572783546, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0259",
+				"NOM_USUEL" : "Fontaine à boire, Îlot Centre de loisirs Saint-Louis-de-France"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23885549240701, 46.81531353312226, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0034",
+				"NOM_USUEL" : "Fontaine à boire #3, Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24833291831058, 46.879719826411694, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0169",
+				"NOM_USUEL" : "Fontaine à boire Chalet Bourg-Royal, Parc du Bourg-Royal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26599131303826, 46.8713264193123, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0172",
+				"NOM_USUEL" : "Fontaine à boire Chalet l'Amibourg, Parc Guillaume-Mathieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28302199851893, 46.863438361621114, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0174",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Maurice-Dorion"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28435056268853, 46.88350904678589, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0176",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Saint-Pierre"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28265635138395, 46.76148452512367, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0260",
+				"NOM_USUEL" : "Fontaine à boire Entrepôt Parc Saint-Louis-de-France"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26528217485904, 46.82141937316276, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0088",
+				"NOM_USUEL" : "Fontaine à boire Parc Alphonse-Lacoursière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28275640092873, 46.789174974147684, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0111",
+				"NOM_USUEL" : "Fontaine à boire Parc Nérée-Tremblay"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27182272015581, 46.85625437966819, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0182",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscine Parc Maria-Goretti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.27201284285555, 46.8557942840398, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0183",
+				"NOM_USUEL" : "Fontaine à boire Chalet Maria-Goretti, Parc Maria-Goretti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24141485061766, 46.87849636391448, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0187",
+				"NOM_USUEL" : "Fontaine à boire #1, Pavillon Parc Saint-Viateur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26373361064898, 46.84440646569235, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0190",
+				"NOM_USUEL" : "Fontaine à boire #2, Chalet Parc Henri-Casault"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.34592104973058, 46.766099392692006, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0263",
+				"NOM_USUEL" : "Fontaine à boire Pavillon Parc de la Chaudière"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3762650210035, 46.90693443802452, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0264",
+				"NOM_USUEL" : "Fontaine à boire du pavillon piscine du parc Paul-Émile-Beaulieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21202436201305, 46.867437562321435, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0265",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscine de Giffard"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.33598138170055, 46.7583274883646, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0114",
+				"NOM_USUEL" : "Fontaine à boire Parc de la Pommeraie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.38643506126311, 46.7656398053451, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0119",
+				"NOM_USUEL" : "Fontaine à boire Parc Malraux"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36405412389539, 46.776732713270086, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0120",
+				"NOM_USUEL" : "Fontaine à boire Parc Le May"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24309713902807, 46.85970114163534, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0191",
+				"NOM_USUEL" : "Fontaine à boire Parc de la Terrasse-du-Bon-Air"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24092204630091, 46.85889657494783, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0193",
+				"NOM_USUEL" : "Fontaine à boire #2, Chalet Parc de la Terrasse-du-Bon-Air"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.22841534620525, 46.8641227457052, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0194",
+				"NOM_USUEL" : "Fontaine à boire Chalet La Bourrasque, Parc de La Bourrasque"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21444484242654, 46.90551276540041, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0195",
+				"NOM_USUEL" : "Fontaine à boire Centre de loisirs Cambert, Parc Cambert"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24037071193541, 46.837866674249966, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0003",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Gérard-Marchand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26443598244009, 46.81349919788561, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0266",
+				"NOM_USUEL" : "Fontaine à boire Parc Jean-Paul-Nolin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2118864832477, 46.80141406863254, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0270",
+				"NOM_USUEL" : "Fontaine à boire Station de pompage Notre-Dame-de-la-Garde U442, Parc de Notre-Dame-de-la-Garde"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3199762080643, 46.7750328123307, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0156",
+				"NOM_USUEL" : "Fontaine à boire Centre communautaire Claude-Allard, Parc Sainte-Geneviève"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32503205086135, 46.77425876457336, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0157",
+				"NOM_USUEL" : "Fontaine à boire Parc de Norvège"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.24038357362303, 46.837848598321045, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0004",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Gérard-Marchand"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23791548946117, 46.81173902839232, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0029",
+				"NOM_USUEL" : "Fontaine à boire Parc Durocher"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.32051877288669, 46.77540677551877, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0155",
+				"NOM_USUEL" : "Fontaine à boire Parc Sainte-Geneviève"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.29865032235686, 46.769200967680746, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0163",
+				"NOM_USUEL" : "Fontaine à boire #1, Terrain de soccer De Rochebelle, Îlot De Rochebelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25770612762656, 46.86239423335344, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0167",
+				"NOM_USUEL" : "Fontaine à boire #1, Patro de Charlesbourg/Arpitennis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26676234193202, 46.87204096267463, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0170",
+				"NOM_USUEL" : "Fontaine à boire Chalet Parc Guillaume-Mathieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.19024573357994, 46.85688332691606, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0198",
+				"NOM_USUEL" : "Fontaine à boire Parc du Fargy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.15840724206375, 46.88829705607939, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0199",
+				"NOM_USUEL" : "Fontaine à boire Filtres piscine Courville, Parc Vachon"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.18880645911364, 46.853041565847356, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0200",
+				"NOM_USUEL" : "Fontaine à boire Parc Boisvert"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2107921296676, 46.8615346369139, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0202",
+				"NOM_USUEL" : "Fontaine à boire #3, Parc Saint-David, Centre sportif Marc-Simoneau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23325983216348, 46.81723876281788, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0031",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23323350222353, 46.81722993510032, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0032",
+				"NOM_USUEL" : "Fontaine à boire #2, Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23583139906975, 46.818418779976945, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0035",
+				"NOM_USUEL" : "Fontaine à boire #4, Parc Victoria"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2250787208708, 46.80819551832781, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0050",
+				"NOM_USUEL" : "Fontaine à boire Place du Faubourg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26684660138632, 46.871509615480825, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0171",
+				"NOM_USUEL" : "Fontaine à boire Pavillon piscine Parc Guillaume-Mathieu"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28302186772015, 46.8634293661828, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0173",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Maurice-Dorion"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.28390317908456, 46.883422148315496, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0175",
+				"NOM_USUEL" : "Fontaine à boire Pavillon du Jardin, Parc Saint-Pierre"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2841908854841, 46.88425683379262, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0177",
+				"NOM_USUEL" : "Fontaine à boire #1, Parc Saint-Pierre"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21586156990551, 46.879801546391505, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0203",
+				"NOM_USUEL" : "Fontaine à boire Pavillon de services Parc Montpellier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.4167065486672, 46.85904517665035, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0206",
+				"NOM_USUEL" : "Fontaine à boire #3, Parc de La Chanterelle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36372720941097, 46.85450921841235, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0209",
+				"NOM_USUEL" : "Fontaine à boire Centre Marc-Forrez, Parc Phil-Latulippe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21140550909388, 46.813625188549246, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0051",
+				"NOM_USUEL" : "Fontaine à boire Saint-Jean/Saint-Stanislas"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.25297605891178, 46.79515949190535, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0052",
+				"NOM_USUEL" : "Fontaine à boire Holland/Sainte-Foy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.21335148196842, 46.81709468286842, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0055",
+				"NOM_USUEL" : "Fontaine à boire Place Jean-Pelletier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2268441833516, 46.826420017585825, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0058",
+				"NOM_USUEL" : "Fontaine à boire Parc Sylvain-Lelièvre"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.26644184236868, 46.773892455159, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0268",
+				"NOM_USUEL" : "Fontaine à boire Parc Ross"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.36158099546768, 46.75303659447988, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0277",
+				"NOM_USUEL" : "Fontaine à boire Parc des Seigneuries"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.2353796825463, 46.82181332371332, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0273",
+				"NOM_USUEL" : "Fontaine à boire Pavillon de la Pointe-aux-Lièvres"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.3918051958939, 46.85217975366125, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0274",
+				"NOM_USUEL" : "Fontaine à boire, Pavillon Parc de Montchâtel"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.23527563421133, 46.824755811408785, 0 ]
+			},
+			"properties" : {
+				"NO_ACTIF" : "F0275",
+				"NOM_USUEL" : "Fontaine à boire Pavillon du Parc de L'Anse-à-Cartier"
+			}
+		}
+	]
+}
