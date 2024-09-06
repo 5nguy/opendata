@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Services Directory - montreal_a_pied(MapServer)</title>
+<link href="/tiles/static/esri-rest.css" rel="stylesheet" type="text/css">
+<!-- Favorite Bookmark Icon -->
+<link rel="shortcut icon" type="image/ico" href="//www.esri.com/favicon.ico" />
+<link rel="icon" type="image/ico" href="//www.esri.com/favicon.ico" />
+<!-- End Favorite Bookmark Icon --> </head>
+<body>
+<table width="100%" id="userTable">
+<tbody>
+<tr>
+<td id="titlecell">Services Directory</td>
+<td align="right">
+<a href="/tiles/login">Login</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" id="navTable">
+<tbody>
+<tr valign="middle">
+<td id="breadcrumbs">
+<a href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services?f=html&cacheKey=ab5d43697c85718e">Home</a>
+&nbsp;>&nbsp;
+<a href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer?f=html&cacheKey=ab5d43697c85718e">montreal_a_pied</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="commonLink" width="100%">
+<tbody>
+<tr>
+<td class="apirefTd">
+<a target="jsonView" href="?f=pjson&cacheKey=ab5d43697c85718e">JSON</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a target="wmtsView" href="https://tiles.arcgis.com/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?cacheKey=ab5d43697c85718e">WMTS</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a target="sdkView" href="//developers.arcgis.com/rest/services-reference/">API Reference</a>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="restBody">
+<h3><span style="text-transform:capitalize;">montreal_a_pied</span> (Map Service)</h3><br/>
+<b>View In: </b>&nbsp;&nbsp;
+<a target="_blank" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer?f=jsapi&cacheKey=ab5d43697c85718e">ArcGIS JavaScript</a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.arcgis.com/home/webmap/viewer.html?basemapUrl=https://tiles.arcgis.com/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer?cacheKey=ab5d43697c85718e">ArcGIS.com</a>&nbsp;&nbsp;
+<a target="_blank" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer?view=wmtsview&cacheKey=ab5d43697c85718e">WMTS</a>&nbsp;&nbsp;
+<br/><br/>
+<b>Current Version:</b> 10.81<br/><br/>
+<b>Service Description:</b> <div><i><font color='#000000'>Le projet Montréal à Pied (MÀP) vise à améliorer l'orientation et le cheminement piéton sur l'ensemble du territoire montréalais. Ce projet comporte un volet cartographique destiné à renouveler la signature graphique de la représentation de la Ville de Montréal, sur support numérique et sur le mobilier urbain recevant les cartes de la Ville. Le fond de carte dynamique MàP a été développé dans le but de permettre aux citoyens et partenaires de la Ville de créer un contenu cartographique web respectant la charte graphique MàP. Le fond de carte est notamment destiné à être le support pour la représentation des données “Lieux d’intérêt”, offertes sur le portail de données ouvertes de la Ville dans le cadre du projet MàP.</font></i><span style='font-size:16px;'><i><br /></i></span></div><div><span style='background-color:rgb(255, 255, 255);'><font size='4'><br /></font></span></div><div><span style='background-color:rgb(255, 255, 255);'><font color='#696969' size='3'><i>Les données proviennent de la Division de la géomatique (cartographie de base, l'inventaire de la voirie et de la géobase).</i><br /></font></span></div><div><span style='background-color:rgb(255, 255, 255);'><font color='#696969' size='3'><br /></font></span></div><div><i><div><span style='background-color:rgb(255, 255, 255);'><font color='#696969' size='3'>Les données transmises par la Ville de Montréal sont celles en sa possession et sa propriété. La Ville ne pourra être tenue responsable des imprécisions ou inexactitudes des données transmises. Ces informations doivent être utilisées et diffusées qu'aux seules fins de représentation cartographique et non pour l'exécution de travaux. </font></span></div><div><br /></div><div>Les données sont représentées sous forme d'une couche tuilée (en format PNG) comprenant 11 niveaux d'échelle.<br />Projection cartographique : “EPSG:3857 - WGS 84 / Pseudo-Mercator”.</div></i></div><br/><br/>
+<b>Map Name:</b> fond_carte_montreal_a_pied<br/><br/>
+<a href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/legend?cacheKey=ab5d43697c85718e">Legend</a><br/><br/>
+<a href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/layers?cacheKey=ab5d43697c85718e">All Layers and Tables</a><br/><br/>
+<b>Layers:</b>
+<ul>
+<li><a href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/0?cacheKey=ab5d43697c85718e">fond_carte_montreal_a_pied</a>(0)</li>
+</ul>
+<b>Tables:</b>
+<ul>
+</ul>
+<b>Description:</b> <div><i><font color='#000000'>Le projet Montréal à Pied (MÀP) vise à améliorer l'orientation et le cheminement piéton sur l'ensemble du territoire montréalais. Ce projet comporte un volet cartographique destiné à renouveler la signature graphique de la représentation de la Ville de Montréal, sur support numérique et sur le mobilier urbain recevant les cartes de la Ville. Le fond de carte dynamique MàP a été développé dans le but de permettre aux citoyens et partenaires de la Ville de créer un contenu cartographique web respectant la charte graphique MàP. Le fond de carte est notamment destiné à être le support pour la représentation des données “Lieux d’intérêt”, offertes sur le portail de données ouvertes de la Ville dans le cadre du projet MàP.</font></i><span style='font-size:16px;'><i><br /></i></span></div><div><span style='background-color:rgb(255, 255, 255);'><font size='4'><br /></font></span></div><div><span style='background-color:rgb(255, 255, 255);'><font color='#696969' size='3'><i>Les données proviennent de la Division de la géomatique (cartographie de base, l'inventaire de la voirie et de la géobase).</i><br /></font></span></div><div><span style='background-color:rgb(255, 255, 255);'><font color='#696969' size='3'><br /></font></span></div><div><i><div><span style='background-color:rgb(255, 255, 255);'><font color='#696969' size='3'>Les données transmises par la Ville de Montréal sont celles en sa possession et sa propriété. La Ville ne pourra être tenue responsable des imprécisions ou inexactitudes des données transmises. Ces informations doivent être utilisées et diffusées qu'aux seules fins de représentation cartographique et non pour l'exécution de travaux. </font></span></div><div><br /></div><div>Les données sont représentées sous forme d'une couche tuilée (en format PNG) comprenant 11 niveaux d'échelle.<br />Projection cartographique : “EPSG:3857 - WGS 84 / Pseudo-Mercator”.</div></i></div><br/><br/>
+<b>Copyright Text:</b> <br/><br/>
+<b>Spatial Reference:</b><br/> 102100<br/>
+<br/>
+<b>Single Fused Map Cache:</b> true<br/><br/>
+<b>Capabilities:</b> Map,TilesOnly<br/><br/>
+<b>Tile Info:</b><br/> <ul>
+<li><b>Height:</b> 256</li> <li><b>Width:</b> 256</li> <li><b>DPI:</b> 96</li> <li><b>Levels of Detail:</b> <i>(# Levels: 24)</i></li> <ul> <li><b>Level ID: </b>0 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/0/0/0?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/0/0/0?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 156543.033928<br/> Scale: 5.91657527591555E8
+</ul> </li> <li><b>Level ID: </b>1 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/1/0/0?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/1/0/0?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 78271.5169639999<br/> Scale: 2.95828763795777E8
+</ul> </li> <li><b>Level ID: </b>2 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/2/1/1?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/2/1/1?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 39135.7584820001<br/> Scale: 1.47914381897889E8
+</ul> </li> <li><b>Level ID: </b>3 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/3/2/2?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/3/2/2?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 19567.8792409999<br/> Scale: 7.3957190948944E7
+</ul> </li> <li><b>Level ID: </b>4 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/4/5/4?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/4/5/4?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 9783.93962049996<br/> Scale: 3.6978595474472E7
+</ul> </li> <li><b>Level ID: </b>5 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/5/11/9?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/5/11/9?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 4891.96981024998<br/> Scale: 1.8489297737236E7
+</ul> </li> <li><b>Level ID: </b>6 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/6/22/18?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/6/22/18?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 2445.98490512499<br/> Scale: 9244648.868618
+</ul> </li> <li><b>Level ID: </b>7 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/7/45/37?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/7/45/37?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 1222.99245256249<br/> Scale: 4622324.434309
+</ul> </li> <li><b>Level ID: </b>8 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/8/91/75?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/8/91/75?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 611.49622628138<br/> Scale: 2311162.217155
+</ul> </li> <li><b>Level ID: </b>9 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/9/182/150?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/9/183/151?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 305.748113140558<br/> Scale: 1155581.108577
+</ul> </li> <li><b>Level ID: </b>10 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/10/365/301?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/10/366/303?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 152.874056570411<br/> Scale: 577790.554289
+</ul> </li> <li><b>Level ID: </b>11 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/11/730/602?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/11/733/606?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 76.4370282850732<br/> Scale: 288895.277144
+</ul> </li> <li><b>Level ID: </b>12 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/12/1461/1205?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/12/1467/1212?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 38.2185141425366<br/> Scale: 144447.638572
+</ul> </li> <li><b>Level ID: </b>13 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/13/2923/2410?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/13/2934/2425?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 19.1092570712683<br/> Scale: 72223.819286
+</ul> </li> <li><b>Level ID: </b>14 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/14/5847/4820?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/14/5868/4851?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 9.55462853563415<br/> Scale: 36111.909643
+</ul> </li> <li><b>Level ID: </b>15 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/15/11695/9641?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/15/11737/9703?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 4.77731426794937<br/> Scale: 18055.954822
+</ul> </li> <li><b>Level ID: </b>16 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/16/23391/19283?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/16/23475/19406?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 2.38865713397468<br/> Scale: 9027.977411
+</ul> </li> <li><b>Level ID: </b>17 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/17/46783/38566?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/17/46951/38812?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 1.19432856685505<br/> Scale: 4513.988705
+</ul> </li> <li><b>Level ID: </b>18 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/18/93566/77133?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/18/93902/77624?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 0.597164283559817<br/> Scale: 2256.994353
+</ul> </li> <li><b>Level ID: </b>19 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/19/187133/154266?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/19/187804/155248?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 0.298582141647617<br/> Scale: 1128.497176
+</ul> </li> <li><b>Level ID: </b>20 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/20/374266/308532?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/20/375608/310497?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 0.14929107082380833<br/> Scale: 564.248588
+</ul> </li> <li><b>Level ID: </b>21 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/21/748532/617065?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/21/751217/620995?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 0.07464553541190416<br/> Scale: 282.124294
+</ul> </li> <li><b>Level ID: </b>22 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/22/1497064/1234131?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/22/1502434/1241991?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 0.03732276770595208<br/> Scale: 141.062147
+</ul> </li> <li><b>Level ID: </b>23 [<a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/23/2994128/2468262?cacheKey=ab5d43697c85718e">Start Tile</a>, <a target="tiles" href="/tiles/cDXczVv5LUqant4Y/arcgis/rest/services/montreal_a_pied/MapServer/tile/23/3004869/2483982?cacheKey=ab5d43697c85718e">End Tile</a>]
+<ul> Resolution: 0.01866138385297604<br/> Scale: 70.5310735
+</ul> </li> </ul>
+<li><b>Format: </b>PNG</li> <li><b>Compression Quality: </b>0</li> <li><b>Origin: </b> <ul> X: -2.0037508342787E7<br/> Y: 2.0037508342787E7<br/> </ul> </li> <li><b>Spatial Reference: </b><br/>
+102100<br/>
+</li> </ul> <b>Initial Extent:</b> <br/> <ul> XMin: -8249596.2522221515<br/> YMin: 5679738.041023951<br/> XMax: -8166986.235992466<br/> YMax: 5736179.260259175<br/> Spatial Reference: <br/>
+102100<br/>
+<br/>
+</ul> <b>Full Extent:</b> <br/> <ul> XMin: -8245841.251484439<br/> YMin: 5682303.550225768<br/> XMax: -8170741.236730179<br/> YMax: 5733613.752923496<br/> Spatial Reference: <br/>
+102100<br/>
+<br/>
+</ul> <b>Min Scale:</b> 577790.554289<br/>
+<b>Max Scale:</b> 0.0<br/><br/> <b>Min LOD:</b> 10<br/>
+<b>Max LOD:</b> 20<br/><br/> <b>Units:</b> esriMeters<br/><br/> <b>Supported Image Format Types:</b> PNG<br/><br/> <b>Export Tiles Allowed:</b> false<br/>
+<b>Max Export Tiles Count:</b> 100000<br/><br/> <b>Resampling:</b> true<br/><br/> <b>Document Info:</b> <ul> <li>Title: <b>Montréal À Pied</b></li> <li>Author: <b>uelsava</b></li> <li>Comments: <b></b></li> <li>Subject: <b>Carte de base pour le projet pilote Montréal À Pied</b></li> <li>Category: <b></b></li> <li>Keywords: <b>carte de base, montréal à pied, fond, carte, geomatique, ville</b></li> </ul> <br/><br/>
+</div>
+</body>
+</html>
