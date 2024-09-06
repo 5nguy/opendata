@@ -1,0 +1,5972 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "ArretCiteBus",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.524999636, 48.4523033607 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_002",
+				"NOM" : "Saint-Germain / Lepage (Grande-Place)",
+				"HORAIRE_SE" : "06:46, 07:46, 08:46, 11:46, 12:46, 16:46, 17:46",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.45230336",
+				"LONGITUDE" : "-68.52499964",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.524999636, 48.4523033607 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_002",
+				"NOM" : "Saint-Germain / Lepage (Grande-Place)",
+				"HORAIRE_SE" : "07:16, 08:16, 09:16, 10:16, 11:16, 12:16, 13:16, 14:16, 15:16, 16:16, 17:16, 18:16, 19:16, 20:16, 21:16, 22:16",
+				"HORAIRE_FDS" : "07:16, 08:16, 09:16, 10:16, 11:16, 12:16, 13:16, 14:16, 15:16, 16:16, 17:16",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.45230336",
+				"LONGITUDE" : "-68.52499964",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5227191989, 48.4532573993 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_003",
+				"NOM" : "Saint-Germain / Belzile",
+				"HORAIRE_SE" : "07:16, 08:16, 09:16, 10:16, 11:16, 12:16, 13:16, 14:16, 15:16, 16:16, 17:16, 18:16, 19:16, 20:16, 21:16, 22:16",
+				"HORAIRE_FDS" : "07:16, 08:16, 09:16, 10:16, 11:16, 12:16, 13:16, 14:16, 15:16, 16:16, 17:16",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.4532574",
+				"LONGITUDE" : "-68.5227192",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5227191989, 48.4532573993 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_003",
+				"NOM" : "Saint-Germain / Belzile",
+				"HORAIRE_SE" : "06:46, 07:46, 08:46, 11:46, 12:46, 16:46, 17:46",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.4532574",
+				"LONGITUDE" : "-68.5227192",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5205644186, 48.4544100677 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_004",
+				"NOM" : "Saint-Germain / Joseph-Keable",
+				"HORAIRE_SE" : "06:47, 07:47, 08:47, 11:47, 12:47, 16:47, 17:47",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.45441007",
+				"LONGITUDE" : "-68.52056442",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5205644186, 48.4544100677 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_004",
+				"NOM" : "Saint-Germain / Joseph-Keable",
+				"HORAIRE_SE" : "07:17, 08:17, 09:17, 10:17, 11:17, 12:17, 13:17, 14:17, 15:17, 16:17, 17:17, 18:17, 19:17, 20:17, 21:17, 22:17",
+				"HORAIRE_FDS" : "07:17, 08:17, 09:17, 10:17, 11:17, 12:17, 13:17, 14:17, 15:17, 16:17, 17:17",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.45441007",
+				"LONGITUDE" : "-68.52056442",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5194829642, 48.4553263509 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_005",
+				"NOM" : "Saint-Germain / Julien-Réhel",
+				"HORAIRE_SE" : "07:17, 08:17, 09:17, 10:17, 11:17, 12:17, 13:17, 14:17, 15:17, 16:17, 17:17, 18:17, 19:17, 20:17, 21:17, 22:17",
+				"HORAIRE_FDS" : "07:17, 08:17, 09:17, 10:17, 11:17, 12:17, 13:17, 14:17, 15:17, 16:17, 17:17",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.45532635",
+				"LONGITUDE" : "-68.51948296",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5194829642, 48.4553263509 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_005",
+				"NOM" : "Saint-Germain / Julien-Réhel",
+				"HORAIRE_SE" : "06:47, 07:47, 08:47, 11:47, 12:47, 16:47, 17:47",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.45532635",
+				"LONGITUDE" : "-68.51948296",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5181565936, 48.4569022137 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_006",
+				"NOM" : "Saint-Germain / Blais",
+				"HORAIRE_SE" : "07:18, 08:18, 09:18, 10:18, 11:18, 12:18, 13:18, 14:18, 15:18, 16:18, 17:18, 18:18, 19:18, 20:18, 21:18, 22:18",
+				"HORAIRE_FDS" : "07:18, 08:18, 09:18, 10:18, 11:18, 12:18, 13:18, 14:18, 15:18, 16:18, 17:18",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.45690221",
+				"LONGITUDE" : "-68.51815659",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5181565936, 48.4569022137 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_006",
+				"NOM" : "Saint-Germain / Blais",
+				"HORAIRE_SE" : "06:48, 07:48, 08:48, 11:48, 12:48, 16:48, 17:48",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.45690221",
+				"LONGITUDE" : "-68.51815659",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5154592288, 48.4556907774 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_007",
+				"NOM" : "Blais / Saint-Pierre",
+				"HORAIRE_SE" : "07:18, 08:18, 09:18, 10:18, 11:18, 12:18, 13:18, 14:18, 15:18, 16:18, 17:18, 18:18, 19:18, 20:18, 21:18, 22:18",
+				"HORAIRE_FDS" : "07:18, 08:18, 09:18, 10:18, 11:18, 12:18, 13:18, 14:18, 15:18, 16:18, 17:18",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.45569078",
+				"LONGITUDE" : "-68.51545923",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5154592288, 48.4556907774 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_007",
+				"NOM" : "Blais / Saint-Pierre",
+				"HORAIRE_SE" : "06:48, 07:48, 08:48, 11:48, 12:48, 16:48, 17:48",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.45569078",
+				"LONGITUDE" : "-68.51545923",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5120811818, 48.4582155316 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_008",
+				"NOM" : "Saint-Pierre / Toussaint-Cartier",
+				"HORAIRE_SE" : "06:49, 07:49, 08:49, 11:49, 12:49, 16:49, 17:49",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.45821553",
+				"LONGITUDE" : "-68.51208118",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5120811818, 48.4582155316 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_008",
+				"NOM" : "Saint-Pierre / Toussaint-Cartier",
+				"HORAIRE_SE" : "07:19, 08:19, 09:19, 10:19, 11:19, 12:19, 13:19, 14:19, 15:19, 16:19, 17:19, 18:19, 19:19, 20:19, 21:19, 22:19",
+				"HORAIRE_FDS" : "07:19, 08:19, 09:19, 10:19, 11:19, 12:19, 13:19, 14:19, 15:19, 16:19, 17:19",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.45821553",
+				"LONGITUDE" : "-68.51208118",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5124829161, 48.4617263156 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_009",
+				"NOM" : "Saint-Pierre / D'Auteuil",
+				"HORAIRE_SE" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20, 18:20, 19:20, 20:20, 21:20, 22:20",
+				"HORAIRE_FDS" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.46172632",
+				"LONGITUDE" : "-68.51248292",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5124829161, 48.4617263156 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_009",
+				"NOM" : "Saint-Pierre / D'Auteuil",
+				"HORAIRE_SE" : "06:50, 07:50, 08:50, 11:50, 12:50, 16:50, 17:50",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.46172632",
+				"LONGITUDE" : "-68.51248292",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5150402955, 48.4632042732 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_010",
+				"NOM" : "D'Auteuil / Moreault",
+				"HORAIRE_SE" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20, 18:20, 19:20, 20:20, 21:20, 22:20",
+				"HORAIRE_FDS" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.46320427",
+				"LONGITUDE" : "-68.5150403",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5150402955, 48.4632042732 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_010",
+				"NOM" : "D'Auteuil / Moreault",
+				"HORAIRE_SE" : "06:50, 07:50, 08:50, 11:50, 12:50, 16:50, 17:50",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.46320427",
+				"LONGITUDE" : "-68.5150403",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5124679581, 48.4653926362 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_011",
+				"NOM" : "Moreault / Léonidas (Term. Orléans)",
+				"HORAIRE_SE" : "06:51, 07:51, 08:51, 11:51, 12:51, 16:51, 17:51",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.46539264",
+				"LONGITUDE" : "-68.51246796",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5124679581, 48.4653926362 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_011",
+				"NOM" : "Moreault / Léonidas (Term. Orléans)",
+				"HORAIRE_SE" : "07:21, 08:21, 09:21, 10:21, 11:21, 12:21, 13:21, 14:21, 15:21, 16:21, 17:21, 18:21, 19:21, 20:21, 21:21, 22:21",
+				"HORAIRE_FDS" : "07:21, 08:21, 09:21, 10:21, 11:21, 12:21, 13:21, 14:21, 15:21, 16:21, 17:21",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.46539264",
+				"LONGITUDE" : "-68.51246796",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5129616694, 48.4663356042 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_012",
+				"NOM" : "Carrefour Rimouski (1)",
+				"HORAIRE_SE" : "07:21, 08:21, 09:21, 10:21, 11:21, 12:21, 13:21, 14:21, 15:21, 16:21, 17:21, 18:21, 19:21, 20:21, 21:21, 22:21",
+				"HORAIRE_FDS" : "07:21, 08:21, 09:21, 10:21, 11:21, 12:21, 13:21, 14:21, 15:21, 16:21, 17:21",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : "ZB",
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.4663305",
+				"LONGITUDE" : "-68.51299288",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5129616694, 48.4663356042 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_012",
+				"NOM" : "Carrefour Rimouski (1)",
+				"HORAIRE_SE" : "06:51, 07:51, 08:51, 11:51, 12:51, 16:51, 17:51",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : "ZB",
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.4663305",
+				"LONGITUDE" : "-68.51299288",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5151091031, 48.4676635206 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_013",
+				"NOM" : "Carrefour Rimouski (2)",
+				"HORAIRE_SE" : "06:52, 07:52, 08:52, 11:52, 12:52, 16:52, 17:52",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "013",
+				"LATITUDE" : "48.46766352",
+				"LONGITUDE" : "-68.5151091",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5151091031, 48.4676635206 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_013",
+				"NOM" : "Carrefour Rimouski (2)",
+				"HORAIRE_SE" : "07:22, 08:22, 09:22, 10:22, 11:22, 12:22, 13:22, 14:22, 15:22, 16:22, 17:22, 18:22, 19:22, 20:22, 21:22, 22:22",
+				"HORAIRE_FDS" : "07:22, 08:22, 09:22, 10:22, 11:22, 12:22, 13:22, 14:22, 15:22, 16:22, 17:22",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "013",
+				"LATITUDE" : "48.46766352",
+				"LONGITUDE" : "-68.5151091",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.510440148, 48.4684105266 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_014",
+				"NOM" : "de l'Expansion / Montée Industrielle",
+				"HORAIRE_SE" : "07:25, 08:25, 09:25, 10:25, 11:25, 12:25, 13:25, 14:25, 15:25, 16:25, 17:25, 18:25, 19:25, 20:25, 21:25, 22:25",
+				"HORAIRE_FDS" : "07:25, 08:25, 09:25, 10:25, 11:25, 12:25, 13:25, 14:25, 15:25, 16:25, 17:25",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.46841053",
+				"LONGITUDE" : "-68.51044015",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.510440148, 48.4684105266 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_014",
+				"NOM" : "de l'Expansion / Montée Industrielle",
+				"HORAIRE_SE" : "06:55, 07:55, 08:55, 11:55, 12:55, 16:55, 17:55",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.46841053",
+				"LONGITUDE" : "-68.51044015",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5065172864, 48.4687122316 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_015",
+				"NOM" : "de l'Expansion / des Entrepreneurs",
+				"HORAIRE_SE" : "07:26, 08:26, 09:26, 10:26, 11:26, 12:26, 13:26, 14:26, 15:26, 16:26, 17:26, 18:26, 19:26, 20:26, 21:26, 22:26",
+				"HORAIRE_FDS" : "07:26, 08:26, 09:26, 10:26, 11:26, 12:26, 13:26, 14:26, 15:26, 16:26, 17:26",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "015",
+				"LATITUDE" : "48.46871223",
+				"LONGITUDE" : "-68.50651729",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5065172864, 48.4687122316 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_015",
+				"NOM" : "de l'Expansion / des Entrepreneurs",
+				"HORAIRE_SE" : "06:56, 07:56, 08:56, 11:56, 12:56, 16:56, 17:56",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "015",
+				"LATITUDE" : "48.46871223",
+				"LONGITUDE" : "-68.50651729",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.50398831, 48.4668927923 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_016",
+				"NOM" : "Jean-Marie-Leblanc",
+				"HORAIRE_SE" : "07:26, 08:26, 09:26, 10:26, 11:26, 12:26, 13:26, 14:26, 15:26, 16:26, 17:26, 18:26, 19:26, 20:26, 21:26, 22:26",
+				"HORAIRE_FDS" : "07:26, 08:26, 09:26, 10:26, 11:26, 12:26, 13:26, 14:26, 15:26, 16:26, 17:26",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "016",
+				"LATITUDE" : "48.46689279",
+				"LONGITUDE" : "-68.50398831",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.50398831, 48.4668927923 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_016",
+				"NOM" : "Jean-Marie-Leblanc",
+				"HORAIRE_SE" : "06:56, 07:56, 08:56, 11:56, 12:56, 16:56, 17:56",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "016",
+				"LATITUDE" : "48.46689279",
+				"LONGITUDE" : "-68.50398831",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5068656882, 48.4648613196 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_017",
+				"NOM" : "Jean-Marie-Leblanc / Montée Industrielle",
+				"HORAIRE_SE" : "07:27, 08:27, 09:27, 10:27, 11:27, 12:27, 13:27, 14:27, 15:27, 16:27, 17:27, 18:27, 19:27, 20:27, 21:27, 22:27",
+				"HORAIRE_FDS" : "07:27, 08:27, 09:27, 10:27, 11:27, 12:27, 13:27, 14:27, 15:27, 16:27, 17:27",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.46486132",
+				"LONGITUDE" : "-68.50686569",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5068656882, 48.4648613196 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_017",
+				"NOM" : "Jean-Marie-Leblanc / Montée Industrielle",
+				"HORAIRE_SE" : "06:57, 07:57, 08:57, 11:57, 12:57, 16:57, 17:57",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.46486132",
+				"LONGITUDE" : "-68.50686569",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5068703804, 48.4629761008 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_018",
+				"NOM" : "des Artisans / Montée Industrielle",
+				"HORAIRE_SE" : "07:27, 08:27, 09:27, 10:27, 11:27, 12:27, 13:27, 14:27, 15:27, 16:27, 17:27, 18:27, 19:27, 20:27, 21:27, 22:27",
+				"HORAIRE_FDS" : "07:27, 08:27, 09:27, 10:27, 11:27, 12:27, 13:27, 14:27, 15:27, 16:27, 17:27",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.4629761",
+				"LONGITUDE" : "-68.50687038",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5068703804, 48.4629761008 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_018",
+				"NOM" : "des Artisans / Montée Industrielle",
+				"HORAIRE_SE" : "06:57, 07:57, 08:57, 11:57, 12:57, 16:57, 17:57",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.4629761",
+				"LONGITUDE" : "-68.50687038",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5078124588, 48.4613923082 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_019",
+				"NOM" : "Léonidas (Bingo Rimouski)",
+				"HORAIRE_SE" : "07:28, 08:28, 09:28, 10:28, 11:28, 12:28, 13:28, 14:28, 15:28, 16:28, 17:28, 18:28, 19:28, 20:28, 21:28, 22:28",
+				"HORAIRE_FDS" : "07:28, 08:28, 09:28, 10:28, 11:28, 12:28, 13:28, 14:28, 15:28, 16:28, 17:28",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.46139231",
+				"LONGITUDE" : "-68.50781246",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5078124588, 48.4613923082 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_019",
+				"NOM" : "Léonidas (Bingo Rimouski)",
+				"HORAIRE_SE" : "06:58, 07:58, 08:58, 11:58, 12:58, 16:58, 17:58",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.46139231",
+				"LONGITUDE" : "-68.50781246",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5038178022, 48.4589164497 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_020",
+				"NOM" : "Léonidas / Lachance",
+				"HORAIRE_SE" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30, 18:30, 19:30, 20:30, 21:30, 22:30",
+				"HORAIRE_FDS" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "020",
+				"LATITUDE" : "48.45891645",
+				"LONGITUDE" : "-68.5038178",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5038178022, 48.4589164497 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_020",
+				"NOM" : "Léonidas / Lachance",
+				"HORAIRE_SE" : "07:00, 08:00, 09:00, 12:00, 13:00, 17:00, 18:00",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "020",
+				"LATITUDE" : "48.45891645",
+				"LONGITUDE" : "-68.5038178",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5052747291, 48.4580794012 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_021",
+				"NOM" : "Lachance / Sasseville",
+				"HORAIRE_SE" : "07:00, 08:00, 09:00, 12:00, 13:00, 17:00, 18:00",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "021",
+				"LATITUDE" : "48.4580794",
+				"LONGITUDE" : "-68.50527473",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5052747291, 48.4580794012 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_021",
+				"NOM" : "Lachance / Sasseville",
+				"HORAIRE_SE" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30, 18:30, 19:30, 20:30, 21:30, 22:30",
+				"HORAIRE_FDS" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "021",
+				"LATITUDE" : "48.4580794",
+				"LONGITUDE" : "-68.50527473",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5083763671, 48.4566420941 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_022",
+				"NOM" : "Lachance / Corneau",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 12:01, 13:01, 17:01, 18:01",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "022",
+				"LATITUDE" : "48.45664209",
+				"LONGITUDE" : "-68.50837637",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5083763671, 48.4566420941 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_022",
+				"NOM" : "Lachance / Corneau",
+				"HORAIRE_SE" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31, 18:31, 19:31, 20:31, 21:31, 22:31",
+				"HORAIRE_FDS" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "022",
+				"LATITUDE" : "48.45664209",
+				"LONGITUDE" : "-68.50837637",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5068149435, 48.4554118331 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_023",
+				"NOM" : "Corneau / Perreault",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 12:01, 13:01, 17:01, 18:01",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.45541183",
+				"LONGITUDE" : "-68.50681494",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5068149435, 48.4554118331 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_023",
+				"NOM" : "Corneau / Perreault",
+				"HORAIRE_SE" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31, 18:31, 19:31, 20:31, 21:31, 22:31",
+				"HORAIRE_FDS" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.45541183",
+				"LONGITUDE" : "-68.50681494",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5049076203, 48.4541621195 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_024",
+				"NOM" : "Corneau / 2e Rue",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 12:01, 13:01, 17:01, 18:01",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.45416212",
+				"LONGITUDE" : "-68.50490762",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5049076203, 48.4541621195 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_024",
+				"NOM" : "Corneau / 2e Rue",
+				"HORAIRE_SE" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31, 18:31, 19:31, 20:31, 21:31, 22:31",
+				"HORAIRE_FDS" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.45416212",
+				"LONGITUDE" : "-68.50490762",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5017025199, 48.4558292038 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_025",
+				"NOM" : "2e Rue / Sasseville",
+				"HORAIRE_SE" : "07:32, 08:32, 09:32, 10:32, 11:32, 12:32, 13:32, 14:32, 15:32, 16:32, 17:32, 18:32, 19:32, 20:32, 21:32, 22:32",
+				"HORAIRE_FDS" : "07:32, 08:32, 09:32, 10:32, 11:32, 12:32, 13:32, 14:32, 15:32, 16:32, 17:32",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "025",
+				"LATITUDE" : "48.4558292",
+				"LONGITUDE" : "-68.50170252",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5017025199, 48.4558292038 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_025",
+				"NOM" : "2e Rue / Sasseville",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 12:02, 13:02, 17:02, 18:02",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "025",
+				"LATITUDE" : "48.4558292",
+				"LONGITUDE" : "-68.50170252",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5009991004, 48.4563348442 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_026",
+				"NOM" : "2e Rue / Léonidas (Cité des achats)",
+				"HORAIRE_SE" : "07:32, 08:32, 09:32, 10:32, 11:32, 12:32, 13:32, 14:32, 15:32, 16:32, 17:32, 18:32, 19:32, 20:32, 21:32, 22:32",
+				"HORAIRE_FDS" : "07:32, 08:32, 09:32, 10:32, 11:32, 12:32, 13:32, 14:32, 15:32, 16:32, 17:32",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "026",
+				"LATITUDE" : "48.45633484",
+				"LONGITUDE" : "-68.5009991",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5009991004, 48.4563348442 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_026",
+				"NOM" : "2e Rue / Léonidas (Cité des achats)",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 12:02, 13:02, 17:02, 18:02",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "026",
+				"LATITUDE" : "48.45633484",
+				"LONGITUDE" : "-68.5009991",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.499142802, 48.4543224148 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_027",
+				"NOM" : "Léonidas (Cité des achats)",
+				"HORAIRE_SE" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33, 18:33, 19:33, 20:33, 21:33, 22:33",
+				"HORAIRE_FDS" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "027",
+				"LATITUDE" : "48.45432241",
+				"LONGITUDE" : "-68.4991428",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.499142802, 48.4543224148 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_027",
+				"NOM" : "Léonidas (Cité des achats)",
+				"HORAIRE_SE" : "07:03, 08:03, 09:03, 12:03, 13:03, 17:03, 18:03",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "027",
+				"LATITUDE" : "48.45432241",
+				"LONGITUDE" : "-68.4991428",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4982312117, 48.4528643817 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_028",
+				"NOM" : "Léonidas / Arthur-Buies (Cité des achats)",
+				"HORAIRE_SE" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33, 18:33, 19:33, 20:33, 21:33, 22:33",
+				"HORAIRE_FDS" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "028",
+				"LATITUDE" : "48.45286438",
+				"LONGITUDE" : "-68.49823121",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4982312117, 48.4528643817 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_028",
+				"NOM" : "Léonidas / Arthur-Buies (Cité des achats)",
+				"HORAIRE_SE" : "07:03, 08:03, 09:03, 12:03, 13:03, 17:03, 18:03",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "028",
+				"LATITUDE" : "48.45286438",
+				"LONGITUDE" : "-68.49823121",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5019971833, 48.4499807793 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_029",
+				"NOM" : "Arthur-Buies / Pascal-Parent",
+				"HORAIRE_SE" : "07:34, 08:34, 09:34, 10:34, 11:34, 12:34, 13:34, 14:34, 15:34, 16:34, 17:34, 18:34, 19:34, 20:34, 21:34, 22:34",
+				"HORAIRE_FDS" : "07:34, 08:34, 09:34, 10:34, 11:34, 12:34, 13:34, 14:34, 15:34, 16:34, 17:34",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.44998078",
+				"LONGITUDE" : "-68.50199718",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5019971833, 48.4499807793 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_029",
+				"NOM" : "Arthur-Buies / Pascal-Parent",
+				"HORAIRE_SE" : "07:04, 08:04, 09:04, 12:04, 13:04, 17:04, 18:04",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.44998078",
+				"LONGITUDE" : "-68.50199718",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4986136818, 48.4477983326 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_030",
+				"NOM" : "Pascal-Parent / Belzile",
+				"HORAIRE_SE" : "07:35, 08:35, 09:35, 10:35, 11:35, 12:35, 13:35, 14:35, 15:35, 16:35, 17:35, 18:35, 19:35, 20:35, 21:35, 22:35",
+				"HORAIRE_FDS" : "07:35, 08:35, 09:35, 10:35, 11:35, 12:35, 13:35, 14:35, 15:35, 16:35, 17:35",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.44779833",
+				"LONGITUDE" : "-68.49861368",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4986136818, 48.4477983326 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_030",
+				"NOM" : "Pascal-Parent / Belzile",
+				"HORAIRE_SE" : "07:05, 08:05, 09:05, 12:05, 13:05, 17:05, 18:05",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.44779833",
+				"LONGITUDE" : "-68.49861368",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5021309351, 48.4454325994 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_031",
+				"NOM" : "Belzile / Gilles-Vigneault",
+				"HORAIRE_SE" : "07:36, 08:36, 09:36, 10:36, 11:36, 12:36, 13:36, 14:36, 15:36, 16:36, 17:36, 18:36, 19:36, 20:36, 21:36, 22:36",
+				"HORAIRE_FDS" : "07:36, 08:36, 09:36, 10:36, 11:36, 12:36, 13:36, 14:36, 15:36, 16:36, 17:36",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.4454326",
+				"LONGITUDE" : "-68.50213094",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5021309351, 48.4454325994 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_031",
+				"NOM" : "Belzile / Gilles-Vigneault",
+				"HORAIRE_SE" : "07:06, 08:06, 09:06, 12:06, 13:06, 17:06, 18:06",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.4454326",
+				"LONGITUDE" : "-68.50213094",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5064468079, 48.4455856531 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_032",
+				"NOM" : "Belzile / Arthur-Buies",
+				"HORAIRE_SE" : "07:07, 08:07, 09:07, 12:07, 13:07, 17:07, 18:07",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.44558565",
+				"LONGITUDE" : "-68.50644681",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5064468079, 48.4455856531 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_032",
+				"NOM" : "Belzile / Arthur-Buies",
+				"HORAIRE_SE" : "07:37, 08:37, 09:37, 10:37, 11:37, 12:37, 13:37, 14:37, 15:37, 16:37, 17:37, 18:37, 19:37, 20:37, 21:37, 22:37",
+				"HORAIRE_FDS" : "07:37, 08:37, 09:37, 10:37, 11:37, 12:37, 13:37, 14:37, 15:37, 16:37, 17:37",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.44558565",
+				"LONGITUDE" : "-68.50644681",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5102956655, 48.4467904596 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_033",
+				"NOM" : "Belzile / Guy-Ross",
+				"HORAIRE_SE" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38, 18:38, 19:38, 20:38, 21:38, 22:38",
+				"HORAIRE_FDS" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.44679046",
+				"LONGITUDE" : "-68.51029567",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5102956655, 48.4467904596 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_033",
+				"NOM" : "Belzile / Guy-Ross",
+				"HORAIRE_SE" : "07:08, 08:08, 09:08, 12:08, 13:08, 17:08, 18:08",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.44679046",
+				"LONGITUDE" : "-68.51029567",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.512453528, 48.448135756 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_034",
+				"NOM" : "Belzile / 2e Rue",
+				"HORAIRE_SE" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38, 18:38, 19:38, 20:38, 21:38, 22:38",
+				"HORAIRE_FDS" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.44813576",
+				"LONGITUDE" : "-68.51245353",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.512453528, 48.448135756 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_034",
+				"NOM" : "Belzile / 2e Rue",
+				"HORAIRE_SE" : "07:08, 08:08, 09:08, 12:08, 13:08, 17:08, 18:08",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.44813576",
+				"LONGITUDE" : "-68.51245353",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5099279858, 48.450881192 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_035",
+				"NOM" : "Résidences UQAR (près de la 2e Rue)",
+				"HORAIRE_SE" : "07:39, 08:39, 09:39, 10:39, 11:39, 12:39, 13:39, 14:39, 15:39, 16:39, 17:39, 18:39, 19:39, 20:39, 21:39, 22:39",
+				"HORAIRE_FDS" : "07:39, 08:39, 09:39, 10:39, 11:39, 12:39, 13:39, 14:39, 15:39, 16:39, 17:39",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "035",
+				"LATITUDE" : "48.45088119",
+				"LONGITUDE" : "-68.50992799",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5099279858, 48.450881192 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_035",
+				"NOM" : "Résidences UQAR (près de la 2e Rue)",
+				"HORAIRE_SE" : "07:09, 08:09, 09:09, 12:09, 13:09, 17:09, 18:09",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "035",
+				"LATITUDE" : "48.45088119",
+				"LONGITUDE" : "-68.50992799",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5130695768, 48.4520809535 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_036",
+				"NOM" : "UQAR",
+				"HORAIRE_SE" : "07:40, 08:40, 09:40, 10:40, 11:40, 12:40, 13:40, 14:40, 15:40, 16:40, 17:40, 18:40, 19:40, 20:40, 21:40, 22:40",
+				"HORAIRE_FDS" : "07:40, 08:40, 09:40, 10:40, 11:40, 12:40, 13:40, 14:40, 15:40, 16:40, 17:40",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "036",
+				"LATITUDE" : "48.45208095",
+				"LONGITUDE" : "-68.51306958",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5130695768, 48.4520809535 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_036",
+				"NOM" : "UQAR",
+				"HORAIRE_SE" : "07:10, 08:10, 09:10, 12:10, 13:10, 17:10, 18:10",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "036",
+				"LATITUDE" : "48.45208095",
+				"LONGITUDE" : "-68.51306958",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5150354753, 48.454209037 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_037",
+				"NOM" : "Saint-Jean-Baptiste / des Ursulines",
+				"HORAIRE_SE" : "07:11, 08:11, 09:11, 12:11, 13:11, 17:11, 18:11",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "037",
+				"LATITUDE" : "48.45420904",
+				"LONGITUDE" : "-68.51503548",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5150354753, 48.454209037 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_037",
+				"NOM" : "Saint-Jean-Baptiste / des Ursulines",
+				"HORAIRE_SE" : "07:41, 08:41, 09:41, 10:41, 11:41, 12:41, 13:41, 14:41, 15:41, 16:41, 17:41, 18:41, 19:41, 20:41, 21:41, 22:41",
+				"HORAIRE_FDS" : "07:41, 08:41, 09:41, 10:41, 11:41, 12:41, 13:41, 14:41, 15:41, 16:41, 17:41",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "037",
+				"LATITUDE" : "48.45420904",
+				"LONGITUDE" : "-68.51503548",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.518337375, 48.4519234625 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_038",
+				"NOM" : "Saint-Jean-Baptiste / Belzile",
+				"HORAIRE_SE" : "07:13, 08:13, 09:13, 12:13, 13:13, 17:13, 18:13",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "038",
+				"LATITUDE" : "48.45192346",
+				"LONGITUDE" : "-68.51833737",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.518337375, 48.4519234625 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_038",
+				"NOM" : "Saint-Jean-Baptiste / Belzile",
+				"HORAIRE_SE" : "07:43, 08:43, 09:43, 10:43, 11:43, 12:43, 13:43, 14:43, 15:43, 16:43, 17:43, 18:43, 19:43, 20:43, 21:43, 22:43",
+				"HORAIRE_FDS" : "07:43, 08:43, 09:43, 10:43, 11:43, 12:43, 13:43, 14:43, 15:43, 16:43, 17:43",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "038",
+				"LATITUDE" : "48.45192346",
+				"LONGITUDE" : "-68.51833737",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5215952369, 48.4496490689 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_039",
+				"NOM" : "Saint-Jean-Baptiste / Bellavance",
+				"HORAIRE_SE" : "07:13, 08:13, 09:13, 12:13, 13:13, 17:13, 18:13",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "039",
+				"LATITUDE" : "48.44964907",
+				"LONGITUDE" : "-68.52159524",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5215952369, 48.4496490689 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_039",
+				"NOM" : "Saint-Jean-Baptiste / Bellavance",
+				"HORAIRE_SE" : "07:43, 08:43, 09:43, 10:43, 11:43, 12:43, 13:43, 14:43, 15:43, 16:43, 17:43, 18:43, 19:43, 20:43, 21:43, 22:43",
+				"HORAIRE_FDS" : "07:43, 08:43, 09:43, 10:43, 11:43, 12:43, 13:43, 14:43, 15:43, 16:43, 17:43",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "039",
+				"LATITUDE" : "48.44964907",
+				"LONGITUDE" : "-68.52159524",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5235966316, 48.4492535611 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_041",
+				"NOM" : "de l'Évêché / de la Cathédrale",
+				"HORAIRE_SE" : "07:15, 08:15, 11:15, 12:15, 16:15, 17:15",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "041",
+				"LATITUDE" : "48.44925356",
+				"LONGITUDE" : "-68.52359663",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5235966316, 48.4492535611 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_041",
+				"NOM" : "de l'Évêché / de la Cathédrale",
+				"HORAIRE_SE" : "06:45, 07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45, 18:45, 19:45, 20:45, 21:45, 22:45",
+				"HORAIRE_FDS" : "07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "041",
+				"LATITUDE" : "48.44925356",
+				"LONGITUDE" : "-68.52359663",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5265368324, 48.4472158307 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_042",
+				"NOM" : "de l'Évêché (Cégep)",
+				"HORAIRE_SE" : "06:47, 07:47, 08:47, 09:47, 10:47, 11:47, 12:47, 13:47, 14:47, 15:47, 16:47, 17:47, 18:47, 19:47, 20:47, 21:47, 22:47",
+				"HORAIRE_FDS" : "07:47, 08:47, 09:47, 10:47, 11:47, 12:47, 13:47, 14:47, 15:47, 16:47, 17:47",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "042",
+				"LATITUDE" : "48.44721583",
+				"LONGITUDE" : "-68.52653683",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5265368324, 48.4472158307 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_042",
+				"NOM" : "de l'Évêché (Cégep)",
+				"HORAIRE_SE" : "07:17, 08:17, 11:17, 12:17, 16:17, 17:17",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "042",
+				"LATITUDE" : "48.44721583",
+				"LONGITUDE" : "-68.52653683",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289748282, 48.4455351357 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_043",
+				"NOM" : "de l'Évêché / Rouleau (hôpital)",
+				"HORAIRE_SE" : "06:47, 07:47, 08:47, 09:47, 10:47, 11:47, 12:47, 13:47, 14:47, 15:47, 16:47, 17:47, 18:47, 19:47, 20:47, 21:47, 22:47",
+				"HORAIRE_FDS" : "07:47, 08:47, 09:47, 10:47, 11:47, 12:47, 13:47, 14:47, 15:47, 16:47, 17:47",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "043",
+				"LATITUDE" : "48.44553514",
+				"LONGITUDE" : "-68.52897483",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289748282, 48.4455351357 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_043",
+				"NOM" : "de l'Évêché / Rouleau (hôpital)",
+				"HORAIRE_SE" : "07:17, 08:17, 11:17, 12:17, 16:17, 17:17",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "043",
+				"LATITUDE" : "48.44553514",
+				"LONGITUDE" : "-68.52897483",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5294506883, 48.4442685789 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_044",
+				"NOM" : "Rouleau / St-Jean-Baptiste",
+				"HORAIRE_SE" : "07:18, 08:18, 11:18, 12:18, 16:18, 17:18",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "044",
+				"LATITUDE" : "48.44426858",
+				"LONGITUDE" : "-68.52945069",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5294506883, 48.4442685789 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_044",
+				"NOM" : "Rouleau / St-Jean-Baptiste",
+				"HORAIRE_SE" : "06:48, 07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48, 18:48, 19:48, 20:48, 21:48, 22:48",
+				"HORAIRE_FDS" : "07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "044",
+				"LATITUDE" : "48.44426858",
+				"LONGITUDE" : "-68.52945069",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5313002138, 48.4431291305 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_045",
+				"NOM" : "Saint-Jean-Baptiste / Michaud",
+				"HORAIRE_SE" : "06:48, 07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48, 18:48, 19:48, 20:48, 21:48, 22:48",
+				"HORAIRE_FDS" : "07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "045",
+				"LATITUDE" : "48.44312913",
+				"LONGITUDE" : "-68.53130021",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5313002138, 48.4431291305 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_045",
+				"NOM" : "Saint-Jean-Baptiste / Michaud",
+				"HORAIRE_SE" : "07:18, 08:18, 11:18, 12:18, 16:18, 17:18",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "045",
+				"LATITUDE" : "48.44312913",
+				"LONGITUDE" : "-68.53130021",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5334705772, 48.4417328676 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_046",
+				"NOM" : "Saint-Jean-Baptiste / Sirois",
+				"HORAIRE_SE" : "06:49, 07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49, 18:49, 19:49, 20:49, 21:49, 22:49",
+				"HORAIRE_FDS" : "07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "046",
+				"LATITUDE" : "48.44173287",
+				"LONGITUDE" : "-68.53347058",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5334705772, 48.4417328676 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_046",
+				"NOM" : "Saint-Jean-Baptiste / Sirois",
+				"HORAIRE_SE" : "07:19, 08:19, 11:19, 12:19, 16:19, 17:19",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "046",
+				"LATITUDE" : "48.44173287",
+				"LONGITUDE" : "-68.53347058",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5344806705, 48.4382336506 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_047",
+				"NOM" : "Tessier / Saint-Laurent",
+				"HORAIRE_SE" : "06:49, 07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49, 18:49, 19:49, 20:49, 21:49, 22:49",
+				"HORAIRE_FDS" : "07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "047",
+				"LATITUDE" : "48.43823365",
+				"LONGITUDE" : "-68.53448067",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5344806705, 48.4382336506 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_047",
+				"NOM" : "Tessier / Saint-Laurent",
+				"HORAIRE_SE" : "07:19, 08:19, 11:19, 12:19, 16:19, 17:19",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "047",
+				"LATITUDE" : "48.43823365",
+				"LONGITUDE" : "-68.53448067",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5365603687, 48.4354750489 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_048",
+				"NOM" : "Tessier / Ross",
+				"HORAIRE_SE" : "07:20, 08:20, 11:20, 12:20, 16:20, 17:20",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "048",
+				"LATITUDE" : "48.43547505",
+				"LONGITUDE" : "-68.53656037",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5365603687, 48.4354750489 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_048",
+				"NOM" : "Tessier / Ross",
+				"HORAIRE_SE" : "06:50, 07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50, 18:50, 19:50, 20:50, 21:50, 22:50",
+				"HORAIRE_FDS" : "07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "048",
+				"LATITUDE" : "48.43547505",
+				"LONGITUDE" : "-68.53656037",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410748626, 48.4326600717 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_049_C21_030",
+				"NOM" : "Tessier / Montée Sainte-Odile",
+				"HORAIRE_SE" : "06:51, 07:51, 08:51, 09:51, 10:51, 11:51, 12:51, 13:51, 14:51, 15:51, 16:51, 17:51, 18:51, 19:51, 20:51, 21:51, 22:51",
+				"HORAIRE_FDS" : "07:51, 08:51, 09:51, 10:51, 11:51, 12:51, 13:51, 14:51, 15:51, 16:51, 17:51",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "049",
+				"LATITUDE" : "48.43266007",
+				"LONGITUDE" : "-68.54107486",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410748626, 48.4326600717 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_049_C21_030",
+				"NOM" : "Tessier / Montée Sainte-Odile",
+				"HORAIRE_SE" : "07:21, 08:21, 11:21, 12:21, 16:21, 17:21",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "049",
+				"LATITUDE" : "48.43266007",
+				"LONGITUDE" : "-68.54107486",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410748626, 48.4326600717 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_049_C21_030",
+				"NOM" : "Tessier / Montée Sainte-Odile",
+				"HORAIRE_SE" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.43266007",
+				"LONGITUDE" : "-68.54107486",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5433554073, 48.4314122634 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_050_C21_031",
+				"NOM" : "Tessier / Parent Nord",
+				"HORAIRE_SE" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.43141226",
+				"LONGITUDE" : "-68.54335541",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5433554073, 48.4314122634 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_050_C21_031",
+				"NOM" : "Tessier / Parent Nord",
+				"HORAIRE_SE" : "06:52, 07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52, 18:52, 19:52, 20:52, 21:52, 22:52",
+				"HORAIRE_FDS" : "07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "050",
+				"LATITUDE" : "48.43141226",
+				"LONGITUDE" : "-68.54335541",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5433554073, 48.4314122634 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_050_C21_031",
+				"NOM" : "Tessier / Parent Nord",
+				"HORAIRE_SE" : "07:22, 08:22, 11:22, 12:22, 16:22, 17:22",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "050",
+				"LATITUDE" : "48.43141226",
+				"LONGITUDE" : "-68.54335541",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5451752445, 48.4277908981 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_051_C21_032",
+				"NOM" : "Saint-Urbain",
+				"HORAIRE_SE" : "06:53, 07:53, 08:53, 09:53, 10:53, 11:53, 12:53, 13:53, 14:53, 15:53, 16:53, 17:53, 18:53, 19:53, 20:53, 21:53, 22:53",
+				"HORAIRE_FDS" : "07:53, 08:53, 09:53, 10:53, 11:53, 12:53, 13:53, 14:53, 15:53, 16:53, 17:53",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "051",
+				"LATITUDE" : "48.4277909",
+				"LONGITUDE" : "-68.54517524",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5451752445, 48.4277908981 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_051_C21_032",
+				"NOM" : "Saint-Urbain",
+				"HORAIRE_SE" : "07:23, 08:23, 11:23, 12:23, 16:23, 17:23",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "051",
+				"LATITUDE" : "48.4277909",
+				"LONGITUDE" : "-68.54517524",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5451752445, 48.4277908981 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_051_C21_032",
+				"NOM" : "Saint-Urbain",
+				"HORAIRE_SE" : "07:34, 08:34, 09:34, 10:34, 11:34, 12:34, 13:34, 14:34, 15:34, 16:34, 17:34",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.4277909",
+				"LONGITUDE" : "-68.54517524",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5463533876, 48.4275913192 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_052_C21_033",
+				"NOM" : "Gagné Sud",
+				"HORAIRE_SE" : "07:24, 08:24, 11:24, 12:24, 16:24, 17:24",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "052",
+				"LATITUDE" : "48.42759132",
+				"LONGITUDE" : "-68.54635339",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5463533876, 48.4275913192 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_052_C21_033",
+				"NOM" : "Gagné Sud ",
+				"HORAIRE_SE" : "07:35, 08:35, 09:35, 10:35, 11:35, 12:35, 13:35, 14:35, 15:35, 16:35, 17:35",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.42759132",
+				"LONGITUDE" : "-68.54635339",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5463533876, 48.4275913192 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_052_C21_033",
+				"NOM" : "Gagné Sud ",
+				"HORAIRE_SE" : "06:54, 07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54, 18:54, 19:54, 20:54, 21:54, 22:54",
+				"HORAIRE_FDS" : "07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "052",
+				"LATITUDE" : "48.42759132",
+				"LONGITUDE" : "-68.54635339",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5432123893, 48.4313463688 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_053_C21_034",
+				"NOM" : "Tessier / Parent Sud",
+				"HORAIRE_SE" : "07:35, 08:35, 09:35, 10:35, 11:35, 12:35, 13:35, 14:35, 15:35, 16:35, 17:35",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.43134637",
+				"LONGITUDE" : "-68.54321239",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5432123893, 48.4313463688 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_053_C21_034",
+				"NOM" : "Tessier / Parent Sud",
+				"HORAIRE_SE" : "06:54, 07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54, 18:54, 19:54, 20:54, 21:54, 22:54",
+				"HORAIRE_FDS" : "07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "053",
+				"LATITUDE" : "48.43134637",
+				"LONGITUDE" : "-68.54321239",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5432123893, 48.4313463688 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_053_C21_034",
+				"NOM" : "Tessier / Parent Sud",
+				"HORAIRE_SE" : "07:24, 08:24, 11:24, 12:24, 16:24, 17:24",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "053",
+				"LATITUDE" : "48.43134637",
+				"LONGITUDE" : "-68.54321239",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5412708839, 48.4324783194 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_054_C21_035",
+				"NOM" : "Tessier / Montée Ste-Odile",
+				"HORAIRE_SE" : "06:55, 07:55, 08:55, 09:55, 10:55, 11:55, 12:55, 13:55, 14:55, 15:55, 16:55, 17:55, 18:55, 19:55, 20:55, 21:55, 22:55",
+				"HORAIRE_FDS" : "07:55, 08:55, 09:55, 10:55, 11:55, 12:55, 13:55, 14:55, 15:55, 16:55, 17:55",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "054",
+				"LATITUDE" : "48.43247832",
+				"LONGITUDE" : "-68.54127088",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5412708839, 48.4324783194 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_054_C21_035",
+				"NOM" : "Tessier / Montée Ste-Odile (2)",
+				"HORAIRE_SE" : "07:36, 08:36, 09:36, 10:36, 11:36, 12:36, 13:36, 14:36, 15:36, 16:36, 17:36",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "035",
+				"LATITUDE" : "48.43247832",
+				"LONGITUDE" : "-68.54127088",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5412708839, 48.4324783194 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_054_C21_035",
+				"NOM" : "Tessier / Montée Ste-Odile",
+				"HORAIRE_SE" : "07:25, 08:25, 11:25, 12:25, 16:25, 17:25",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "054",
+				"LATITUDE" : "48.43247832",
+				"LONGITUDE" : "-68.54127088",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5373028893, 48.4347260828 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_055_C21_036",
+				"NOM" : "Tessier / des Faisans",
+				"HORAIRE_SE" : "07:37, 08:37, 09:37, 10:37, 11:37, 12:37, 13:37, 14:37, 15:37, 16:37, 17:37",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "036",
+				"LATITUDE" : "48.43472608",
+				"LONGITUDE" : "-68.53730289",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5373028893, 48.4347260828 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_055_C21_036",
+				"NOM" : "Tessier / des Faisans",
+				"HORAIRE_SE" : "06:57, 07:57, 08:57, 09:57, 10:57, 11:57, 12:57, 13:57, 14:57, 15:57, 16:57, 17:57, 18:57, 19:57, 20:57, 21:57, 22:57",
+				"HORAIRE_FDS" : "07:57, 08:57, 09:57, 10:57, 11:57, 12:57, 13:57, 14:57, 15:57, 16:57, 17:57",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "055",
+				"LATITUDE" : "48.43472608",
+				"LONGITUDE" : "-68.53730289",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5373028893, 48.4347260828 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_055_C21_036",
+				"NOM" : "Tessier / des Faisans",
+				"HORAIRE_SE" : "07:27, 08:27, 11:27, 12:27, 16:27, 17:27",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "055",
+				"LATITUDE" : "48.43472608",
+				"LONGITUDE" : "-68.53730289",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5330985094, 48.4334193296 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_056",
+				"NOM" : "Ross / des Faisans",
+				"HORAIRE_SE" : "06:58, 07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58, 18:58, 19:58, 20:58, 21:58, 22:58",
+				"HORAIRE_FDS" : "07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "056",
+				"LATITUDE" : "48.43341933",
+				"LONGITUDE" : "-68.53309851",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5330985094, 48.4334193296 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_056",
+				"NOM" : "Ross / des Faisans",
+				"HORAIRE_SE" : "07:28, 08:28, 11:28, 12:28, 16:28, 17:28",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "056",
+				"LATITUDE" : "48.43341933",
+				"LONGITUDE" : "-68.53309851",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5272708596, 48.4333950064 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_057",
+				"NOM" : "Ross / des Geais",
+				"HORAIRE_SE" : "07:28, 08:28, 11:28, 12:28, 16:28, 17:28",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "057",
+				"LATITUDE" : "48.43339501",
+				"LONGITUDE" : "-68.52727086",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5272708596, 48.4333950064 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_057",
+				"NOM" : "Ross / des Geais",
+				"HORAIRE_SE" : "06:58, 07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58, 18:58, 19:58, 20:58, 21:58, 22:58",
+				"HORAIRE_FDS" : "07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "057",
+				"LATITUDE" : "48.43339501",
+				"LONGITUDE" : "-68.52727086",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.524252234, 48.4315382048 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_058",
+				"NOM" : "Ross / Arthur-Buies (CFRN)",
+				"HORAIRE_SE" : "07:29, 08:29, 11:29, 12:29, 16:29, 17:29",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : "LR",
+				"NUM_ARRET" : "058",
+				"LATITUDE" : "48.43148813",
+				"LONGITUDE" : "-68.5241805",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.524252234, 48.4315382048 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_058",
+				"NOM" : "Ross / Arthur-Buies (CFRN)",
+				"HORAIRE_SE" : "06:59, 07:59, 08:59, 09:59, 10:59, 11:59, 12:59, 13:58, 14:59, 15:59, 16:59, 17:59, 18:59, 19:59, 20:59, 21:59, 22:59",
+				"HORAIRE_FDS" : "07:59, 08:59, 09:59, 10:59, 11:59, 12:59, 13:59, 14:59, 15:59, 16:59, 17:59",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : "LR",
+				"NUM_ARRET" : "058",
+				"LATITUDE" : "48.43148813",
+				"LONGITUDE" : "-68.5241805",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5196637878, 48.4332414077 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_059",
+				"NOM" : "Arthur-Buies / Sirois (paul-Hubert)",
+				"HORAIRE_SE" : "07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00, 21:00, 22:00, 23:00",
+				"HORAIRE_FDS" : "08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "059",
+				"LATITUDE" : "48.43324141",
+				"LONGITUDE" : "-68.51966379",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5196637878, 48.4332414077 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_059",
+				"NOM" : "Arthur-Buies / Sirois (paul-Hubert)",
+				"HORAIRE_SE" : "07:30, 08:30, 11:30, 12:30, 16:30, 17:30",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "059",
+				"LATITUDE" : "48.43324141",
+				"LONGITUDE" : "-68.51966379",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5175014413, 48.4318843432 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_060",
+				"NOM" : "Sirois / J. Alfred-Mousseau",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01, 19:01, 20:01, 21:01, 22:01, 23:01",
+				"HORAIRE_FDS" : "08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "060",
+				"LATITUDE" : "48.43188434",
+				"LONGITUDE" : "-68.51750144",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5175014413, 48.4318843432 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_060",
+				"NOM" : "Sirois / J. Alfred-Mousseau",
+				"HORAIRE_SE" : "07:31, 08:31, 11:31, 12:31, 16:31, 17:31",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "060",
+				"LATITUDE" : "48.43188434",
+				"LONGITUDE" : "-68.51750144",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5148839509, 48.4305448494 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_061",
+				"NOM" : "Sirois / de la Normandie",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01, 19:01, 20:01, 21:01, 22:01, 23:01",
+				"HORAIRE_FDS" : "08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "061",
+				"LATITUDE" : "48.43054485",
+				"LONGITUDE" : "-68.51488395",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5148839509, 48.4305448494 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_061",
+				"NOM" : "Sirois / de la Normandie",
+				"HORAIRE_SE" : "07:31, 08:31, 11:31, 12:31, 16:31, 17:31",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "061",
+				"LATITUDE" : "48.43054485",
+				"LONGITUDE" : "-68.51488395",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5122888677, 48.4326149259 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_062",
+				"NOM" : "de la Normandie / Mgr Carbonneau",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01, 19:01, 20:01, 21:01, 22:01, 23:01",
+				"HORAIRE_FDS" : "08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "062",
+				"LATITUDE" : "48.43261493",
+				"LONGITUDE" : "-68.51228887",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5122888677, 48.4326149259 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_062",
+				"NOM" : "de la Normandie / Mgr Carbonneau",
+				"HORAIRE_SE" : "07:31, 08:31, 11:31, 12:31, 16:31, 17:31",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "062",
+				"LATITUDE" : "48.43261493",
+				"LONGITUDE" : "-68.51228887",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5129600351, 48.4346696554 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_063",
+				"NOM" : "Mgr Carbonneau / Père Rouillard",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02, 19:02, 20:02, 21:02, 22:02, 23:02",
+				"HORAIRE_FDS" : "08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "063",
+				"LATITUDE" : "48.43466966",
+				"LONGITUDE" : "-68.51296004",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5129600351, 48.4346696554 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_063",
+				"NOM" : "Mgr Carbonneau / Père Rouillard",
+				"HORAIRE_SE" : "07:32, 08:32, 11:32, 12:32, 16:32, 17:32",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "063",
+				"LATITUDE" : "48.43466966",
+				"LONGITUDE" : "-68.51296004",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.511156209, 48.436912457 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_064",
+				"NOM" : "Mgr Langis / de Bourgogne",
+				"HORAIRE_SE" : "07:32, 08:32, 11:32, 12:32, 16:32, 17:32",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "064",
+				"LATITUDE" : "48.43691246",
+				"LONGITUDE" : "-68.51115621",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.511156209, 48.436912457 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_064",
+				"NOM" : "Mgr Langis / de Bourgogne",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02, 19:02, 20:02, 21:02, 22:02, 23:02",
+				"HORAIRE_FDS" : "08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "064",
+				"LATITUDE" : "48.43691246",
+				"LONGITUDE" : "-68.51115621",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.512813131, 48.4382231648 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_065",
+				"NOM" : "Mgr Langis / Arthur-Buies (SNEQ)",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02, 19:02, 20:02, 21:02, 22:02, 23:02",
+				"HORAIRE_FDS" : "08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "065",
+				"LATITUDE" : "48.43822316",
+				"LONGITUDE" : "-68.51281313",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.512813131, 48.4382231648 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_065",
+				"NOM" : "Mgr Langis / Arthur-Buies (SNEQ)",
+				"HORAIRE_SE" : "07:32, 08:32, 11:32, 12:32, 16:32, 17:32",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "065",
+				"LATITUDE" : "48.43822316",
+				"LONGITUDE" : "-68.51281313",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5110935793, 48.4409404972 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_066",
+				"NOM" : "de la Cathédrale / Arthur-Buies",
+				"HORAIRE_SE" : "07:34, 08:34, 11:34, 12:34, 16:34, 17:34",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "066",
+				"LATITUDE" : "48.4409405",
+				"LONGITUDE" : "-68.51109358",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5110935793, 48.4409404972 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_066",
+				"NOM" : "de la Cathédrale / Arthur-Buies",
+				"HORAIRE_SE" : "07:04, 08:04, 09:04, 10:04, 11:04, 12:04, 13:04, 14:04, 15:04, 16:04, 17:04, 18:04, 19:04, 20:04, 21:04, 22:04, 23:04",
+				"HORAIRE_FDS" : "08:04, 09:04, 10:04, 11:04, 12:04, 13:04, 14:04, 15:04, 16:04, 17:04, 18:04",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "066",
+				"LATITUDE" : "48.4409405",
+				"LONGITUDE" : "-68.51109358",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5149766732, 48.4433634113 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_067",
+				"NOM" : "de la Cathédrale / 6e Rue",
+				"HORAIRE_SE" : "07:05, 08:05, 09:05, 10:05, 11:05, 12:05, 13:05, 14:05, 15:05, 16:05, 17:05, 18:05, 19:05, 20:05, 21:05, 22:05, 23:05",
+				"HORAIRE_FDS" : "08:05, 09:05, 10:05, 11:05, 12:05, 13:05, 14:05, 15:05, 16:05, 17:05, 18:05",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "067",
+				"LATITUDE" : "48.44336341",
+				"LONGITUDE" : "-68.51497667",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5149766732, 48.4433634113 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_067",
+				"NOM" : "de la Cathédrale / 6e Rue",
+				"HORAIRE_SE" : "07:35, 08:35, 11:35, 12:35, 16:35, 17:35",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "067",
+				"LATITUDE" : "48.44336341",
+				"LONGITUDE" : "-68.51497667",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5179451826, 48.4446544095 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_068",
+				"NOM" : "2e Rue  / de la Cathédrale",
+				"HORAIRE_SE" : "07:36, 08:36, 11:36, 12:36, 16:36, 17:36",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "068",
+				"LATITUDE" : "48.44465441",
+				"LONGITUDE" : "-68.51794518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5179451826, 48.4446544095 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_068",
+				"NOM" : "2e Rue  / de la Cathédrale",
+				"HORAIRE_SE" : "07:06, 08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06, 19:06, 20:06, 21:06, 22:06, 23:06",
+				"HORAIRE_FDS" : "08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "068",
+				"LATITUDE" : "48.44465441",
+				"LONGITUDE" : "-68.51794518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5211240649, 48.4423465014 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_069",
+				"NOM" : "2e Rue / Saint-Louis (Colisée)",
+				"HORAIRE_SE" : "07:06, 08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06, 19:06, 20:06, 21:06, 22:06, 23:06",
+				"HORAIRE_FDS" : "08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "069",
+				"LATITUDE" : "48.4423465",
+				"LONGITUDE" : "-68.52112406",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5211240649, 48.4423465014 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_069",
+				"NOM" : "2e Rue / Saint-Louis (Colisée)",
+				"HORAIRE_SE" : "07:36, 08:36, 11:36, 12:36, 16:36, 17:36",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "069",
+				"LATITUDE" : "48.4423465",
+				"LONGITUDE" : "-68.52112406",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5234325153, 48.440767038 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_070",
+				"NOM" : "2e Rue / Rouleau",
+				"HORAIRE_SE" : "07:37, 08:37, 11:37, 12:37, 16:37, 17:37",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "070",
+				"LATITUDE" : "48.44076704",
+				"LONGITUDE" : "-68.52343252",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5234325153, 48.440767038 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_070",
+				"NOM" : "2e Rue / Rouleau",
+				"HORAIRE_SE" : "07:07, 08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07, 19:07, 20:07, 21:07, 22:07, 23:07",
+				"HORAIRE_FDS" : "08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "070",
+				"LATITUDE" : "48.44076704",
+				"LONGITUDE" : "-68.52343252",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5266092353, 48.4389703383 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_071",
+				"NOM" : "2e Rue / Michaud (école Saint-Jean)",
+				"HORAIRE_SE" : "07:07, 08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07, 19:07, 20:07, 21:07, 22:07, 23:07",
+				"HORAIRE_FDS" : "08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "071",
+				"LATITUDE" : "48.43897034",
+				"LONGITUDE" : "-68.52660924",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5266092353, 48.4389703383 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_071",
+				"NOM" : "2e Rue / Michaud (école Saint-Jean)",
+				"HORAIRE_SE" : "07:37, 08:37, 11:37, 12:37, 16:37, 17:37",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "071",
+				"LATITUDE" : "48.43897034",
+				"LONGITUDE" : "-68.52660924",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5291736483, 48.438996992 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_072",
+				"NOM" : "Sirois / St-Robert",
+				"HORAIRE_SE" : "07:08, 08:08, 09:08, 10:08, 11:08, 12:08, 13:08, 14:08, 15:08, 16:08, 17:08, 18:08, 19:08, 20:08, 21:08, 22:08, 23:08",
+				"HORAIRE_FDS" : "08:08, 09:08, 10:08, 11:08, 12:08, 13:08, 14:08, 15:08, 16:08, 17:08, 18:08",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "072",
+				"LATITUDE" : "48.43899699",
+				"LONGITUDE" : "-68.52917365",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5291736483, 48.438996992 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_072",
+				"NOM" : "Sirois / St-Robert",
+				"HORAIRE_SE" : "07:38, 08:38, 11:38, 12:38, 16:38, 17:38",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "072",
+				"LATITUDE" : "48.43899699",
+				"LONGITUDE" : "-68.52917365",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5280705571, 48.4405801289 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_073",
+				"NOM" : "Saint-Robert / Michaud",
+				"HORAIRE_SE" : "07:39, 08:39, 11:39, 12:39, 16:39, 17:39",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "073",
+				"LATITUDE" : "48.44058013",
+				"LONGITUDE" : "-68.52807056",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5280705571, 48.4405801289 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_073",
+				"NOM" : "Saint-Robert / Michaud",
+				"HORAIRE_SE" : "07:09, 08:09, 09:09, 10:09, 11:09, 12:09, 13:09, 14:09, 15:09, 16:09, 17:09, 18:09, 19:09, 20:09, 21:09, 22:09, 23:09",
+				"HORAIRE_FDS" : "08:09, 09:09, 10:09, 11:09, 12:09, 13:09, 14:09, 15:09, 16:09, 17:09, 18:09",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "073",
+				"LATITUDE" : "48.44058013",
+				"LONGITUDE" : "-68.52807056",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.525483885, 48.4422252995 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_074_C21_009",
+				"NOM" : "Saint-Robert / Rouleau",
+				"HORAIRE_SE" : "07:40, 08:40, 11:40, 12:40, 16:40, 17:40",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "074",
+				"LATITUDE" : "48.4422253",
+				"LONGITUDE" : "-68.52548389",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.525483885, 48.4422252995 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_074_C21_009",
+				"NOM" : "Saint-Robert / Rouleau",
+				"HORAIRE_SE" : "07:10, 08:10, 09:10, 10:10, 11:10, 12:10, 13:10, 14:10, 15:10, 16:10, 17:10, 18:10, 19:10, 20:10, 21:10, 22:10, 23:10",
+				"HORAIRE_FDS" : "08:10, 09:10, 10:10, 11:10, 12:10, 13:10, 14:10, 15:10, 16:10, 17:10, 18:10",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "074",
+				"LATITUDE" : "48.4422253",
+				"LONGITUDE" : "-68.52548389",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.525483885, 48.4422252995 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_074_C21_009",
+				"NOM" : "Saint-Robert / Rouleau",
+				"HORAIRE_SE" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.4422253",
+				"LONGITUDE" : "-68.52548389",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5242934682, 48.4435045716 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_075",
+				"NOM" : "Saint-Louis (Résidences Cégep)",
+				"HORAIRE_SE" : "07:10, 08:10, 09:10, 10:10, 11:10, 12:10, 13:10, 14:10, 15:10, 16:10, 17:10, 18:10, 19:10, 20:10, 21:10, 22:10, 23:10",
+				"HORAIRE_FDS" : "08:10, 09:10, 10:10, 11:10, 12:10, 13:10, 14:10, 15:10, 16:10, 17:10, 18:10",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "075",
+				"LATITUDE" : "48.44350457",
+				"LONGITUDE" : "-68.52429347",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5242934682, 48.4435045716 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_075",
+				"NOM" : "Saint-Louis (Résidences Cégep)",
+				"HORAIRE_SE" : "07:40, 08:40, 11:40, 12:40, 16:40, 17:40",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "075",
+				"LATITUDE" : "48.44350457",
+				"LONGITUDE" : "-68.52429347",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5249669226, 48.4451892101 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_076",
+				"NOM" : "Saint-Louis / Pierre-Saindon",
+				"HORAIRE_SE" : "07:11, 08:11, 09:11, 10:11, 11:11, 12:11, 13:11, 14:11, 15:11, 16:11, 17:11, 18:11, 19:11, 20:11, 21:11, 22:11, 23:11",
+				"HORAIRE_FDS" : "08:11, 09:11, 10:11, 11:11, 12:11, 13:11, 14:11, 15:11, 16:11, 17:11, 18:11",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "076",
+				"LATITUDE" : "48.44518921",
+				"LONGITUDE" : "-68.52496692",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5249669226, 48.4451892101 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_076",
+				"NOM" : "Saint-Louis / Pierre-Saindon",
+				"HORAIRE_SE" : "07:41, 08:41, 11:41, 12:41, 16:41, 17:41",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "076",
+				"LATITUDE" : "48.44518921",
+				"LONGITUDE" : "-68.52496692",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5287924215, 48.4476247059 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_077",
+				"NOM" : "Saint-Louis ( Cégep et hôpital)",
+				"HORAIRE_SE" : "07:42, 08:42, 11:42, 12:42, 16:42, 17:42",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "077",
+				"LATITUDE" : "48.44762471",
+				"LONGITUDE" : "-68.52879242",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5287924215, 48.4476247059 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_077",
+				"NOM" : "Saint-Louis ( Cégep et hôpital)",
+				"HORAIRE_SE" : "07:12, 08:12, 09:12, 10:12, 11:12, 12:12, 13:12, 14:12, 15:12, 16:12, 17:12, 18:12, 19:12, 20:12, 21:12, 22:12, 23:12",
+				"HORAIRE_FDS" : "08:12, 09:12, 10:12, 11:12, 12:12, 13:12, 14:12, 15:12, 16:12, 17:12, 18:12",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "077",
+				"LATITUDE" : "48.44762471",
+				"LONGITUDE" : "-68.52879242",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5313914897, 48.4493301115 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_078",
+				"NOM" : "Saint-Louis / Saint-Germain",
+				"HORAIRE_SE" : "07:13, 08:13, 09:13, 10:13, 11:13, 12:13, 13:13, 14:13, 15:13, 16:13, 17:13, 18:13, 19:13, 20:13, 21:13, 22:13, 23:13",
+				"HORAIRE_FDS" : "08:13, 09:13, 10:13, 11:13, 12:13, 13:13, 14:13, 15:13, 16:13, 17:13, 18:13",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "078",
+				"LATITUDE" : "48.44933011",
+				"LONGITUDE" : "-68.53139149",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5313914897, 48.4493301115 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C11_078",
+				"NOM" : "Saint-Louis / Saint-Germain",
+				"HORAIRE_SE" : "07:43, 08:43, 11:43, 12:43, 16:43, 17:43",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "078",
+				"LATITUDE" : "48.44933011",
+				"LONGITUDE" : "-68.53139149",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5333580621, 48.449246363 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_002",
+				"NOM" : "Saint-Germain (Librairie L'Alphabet)",
+				"HORAIRE_SE" : "07:16, 08:16, 09:16, 10:16, 11:16, 12:16, 13:16, 14:16, 15:16, 16:16, 17:16",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.44924636",
+				"LONGITUDE" : "-68.53335806",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5334756657, 48.4475448518 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_003",
+				"NOM" : "Rouleau / Sainte-Thérèse",
+				"HORAIRE_SE" : "07:16, 08:16, 09:16, 10:16, 11:16, 12:16, 13:16, 14:16, 15:16, 16:16, 17:16",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.44754485",
+				"LONGITUDE" : "-68.53347567",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5317434237, 48.4464840514 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_004",
+				"NOM" : "Rouleau (hôpital)",
+				"HORAIRE_SE" : "07:17, 08:17, 09:17, 10:17, 11:17, 12:17, 13:17, 14:17, 15:17, 16:17, 17:17",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.44648405",
+				"LONGITUDE" : "-68.53174342",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5292944033, 48.4449228576 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_005",
+				"NOM" : "Rouleau / de l'Évêché",
+				"HORAIRE_SE" : "07:18, 08:18, 09:18, 10:18, 11:18, 12:18, 13:18, 14:18, 15:18, 16:18, 17:18",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.44492286",
+				"LONGITUDE" : "-68.5292944",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5278504935, 48.4435330704 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_006",
+				"NOM" : "Rouleau / St-Joseph",
+				"HORAIRE_SE" : "07:19, 08:19, 09:19, 10:19, 11:19, 12:19, 13:19, 14:19, 15:19, 16:19, 17:19",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.44353307",
+				"LONGITUDE" : "-68.52785049",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5299893487, 48.4421760457 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_007",
+				"NOM" : "Saint-Joseph / Michaud",
+				"HORAIRE_SE" : "07:19, 08:19, 09:19, 10:19, 11:19, 12:19, 13:19, 14:19, 15:19, 16:19, 17:19",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.44217605",
+				"LONGITUDE" : "-68.52998935",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5287774307, 48.4412101425 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_008",
+				"NOM" : "Michaud / Ouellet",
+				"HORAIRE_SE" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.44121014",
+				"LONGITUDE" : "-68.52877743",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5241731416, 48.4431347775 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_010",
+				"NOM" : "Saint-Robert / Saint-Louis",
+				"HORAIRE_SE" : "07:21, 08:21, 09:21, 10:21, 11:21, 12:21, 13:21, 14:21, 15:21, 16:21, 17:21",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.44313478",
+				"LONGITUDE" : "-68.52417314",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5208380453, 48.4423062306 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_011",
+				"NOM" : "2e Rue / Saint-Louis (Colisée)",
+				"HORAIRE_SE" : "07:22, 08:22, 09:22, 10:22, 11:22, 12:22, 13:22, 14:22, 15:22, 16:22, 17:22",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.44230623",
+				"LONGITUDE" : "-68.52083805",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5183217605, 48.4441384957 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_012",
+				"NOM" : "2e Rue / de la Cathédrale",
+				"HORAIRE_SE" : "07:22, 08:22, 09:22, 10:22, 11:22, 12:22, 13:22, 14:22, 15:22, 16:22, 17:22",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.4441385",
+				"LONGITUDE" : "-68.51832176",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5149969002, 48.4461599216 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_013",
+				"NOM" : "2e Rue / Hupé",
+				"HORAIRE_SE" : "07:23, 08:23, 09:23, 10:23, 11:23, 12:23, 13:23, 14:23, 15:23, 16:23, 17:23",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "013",
+				"LATITUDE" : "48.44615992",
+				"LONGITUDE" : "-68.5149969",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5130336151, 48.4449277702 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_014",
+				"NOM" : "Hupé / 5e Rue",
+				"HORAIRE_SE" : "07:23, 08:23, 09:23, 10:23, 11:23, 12:23, 13:23, 14:23, 15:23, 16:23, 17:23",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.44492777",
+				"LONGITUDE" : "-68.51303362",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5088414836, 48.4423087784 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_015",
+				"NOM" : "Hupé / Arthur-Buies",
+				"HORAIRE_SE" : "07:24, 08:24, 09:24, 10:24, 11:24, 12:24, 13:24, 14:24, 15:24, 16:24, 17:24",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "015",
+				"LATITUDE" : "48.44230878",
+				"LONGITUDE" : "-68.50884148",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5054586307, 48.4402003375 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_016",
+				"NOM" : "Hupé / 17e Rue",
+				"HORAIRE_SE" : "07:24, 08:24, 09:24, 10:24, 11:24, 12:24, 13:24, 14:24, 15:24, 16:24, 17:24",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "016",
+				"LATITUDE" : "48.44020034",
+				"LONGITUDE" : "-68.50545863",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5059122101, 48.4385434622 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_017",
+				"NOM" : "18e Rue / Gascogne",
+				"HORAIRE_SE" : "07:25, 08:25, 09:25, 10:25, 11:25, 12:25, 13:25, 14:25, 15:25, 16:25, 17:25",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.43854346",
+				"LONGITUDE" : "-68.50591221",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5071188316, 48.4370153805 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_018",
+				"NOM" : "de Bourgonne / de la Touraine",
+				"HORAIRE_SE" : "07:25, 08:25, 09:25, 10:25, 11:25, 12:25, 13:25, 14:25, 15:25, 16:25, 17:25",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.43701538",
+				"LONGITUDE" : "-68.50711883",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5087377403, 48.4351729421 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_019",
+				"NOM" : "de la Normandie / de la Bretagne",
+				"HORAIRE_SE" : "07:26, 08:26, 09:26, 10:26, 11:26, 12:26, 13:26, 14:26, 15:26, 16:26, 17:26",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.43517294",
+				"LONGITUDE" : "-68.50873774",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5113280514, 48.4328439932 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_020",
+				"NOM" : "de la Normandie / d'Alsace",
+				"HORAIRE_SE" : "07:27, 08:27, 09:27, 10:27, 11:27, 12:27, 13:27, 14:27, 15:27, 16:27, 17:27",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "020",
+				"LATITUDE" : "48.43284399",
+				"LONGITUDE" : "-68.51132805",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5151186511, 48.4306354917 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_021",
+				"NOM" : "de la Normandie / Sirois",
+				"HORAIRE_SE" : "07:28, 08:28, 09:28, 10:28, 11:28, 12:28, 13:28, 14:28, 15:28, 16:28, 17:28",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "021",
+				"LATITUDE" : "48.43063549",
+				"LONGITUDE" : "-68.51511865",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5173127956, 48.4319800675 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_022",
+				"NOM" : "Sirois / J.-Alfred-Mousseau",
+				"HORAIRE_SE" : "07:28, 08:28, 09:28, 10:28, 11:28, 12:28, 13:28, 14:28, 15:28, 16:28, 17:28",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "022",
+				"LATITUDE" : "48.43198007",
+				"LONGITUDE" : "-68.5173128",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5205638132, 48.4333040528 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_023",
+				"NOM" : "Arthur-Buies / Sirois",
+				"HORAIRE_SE" : "07:29, 08:29, 09:29, 10:29, 11:29, 12:29, 13:29, 14:29, 15:29, 16:29, 17:29",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.43330405",
+				"LONGITUDE" : "-68.52056381",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.524259242, 48.4317702734 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_024",
+				"NOM" : "Ross / Arthur-Buies (CFRN)",
+				"HORAIRE_SE" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : "LR",
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.43177027",
+				"LONGITUDE" : "-68.52425924",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5269246972, 48.4310324603 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_025",
+				"NOM" : "des Passereaux / des Pinsons",
+				"HORAIRE_SE" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "025",
+				"LATITUDE" : "48.43103246",
+				"LONGITUDE" : "-68.5269247",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5293653017, 48.4298182096 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_026",
+				"NOM" : "des Passereaux / des Roitelets",
+				"HORAIRE_SE" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "026",
+				"LATITUDE" : "48.42981821",
+				"LONGITUDE" : "-68.5293653",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5324381468, 48.4285756912 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_027",
+				"NOM" : "des Passereaux / des Fauvettes",
+				"HORAIRE_SE" : "07:31, 08:31, 09:31, 10:31, 11:31, 12:31, 13:31, 14:31, 15:31, 16:31, 17:31",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "027",
+				"LATITUDE" : "48.42857569",
+				"LONGITUDE" : "-68.53243815",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5351508872, 48.4296448828 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_028",
+				"NOM" : "Montée Sainte-Odile / des Chanterelles",
+				"HORAIRE_SE" : "07:32, 08:32, 09:32, 10:32, 11:32, 12:32, 13:32, 14:32, 15:32, 16:32, 17:32",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "028",
+				"LATITUDE" : "48.42964488",
+				"LONGITUDE" : "-68.53515089",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5390089889, 48.4317766291 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_029",
+				"NOM" : "Montée Sainte-Odile (clinique dentaire)",
+				"HORAIRE_SE" : "07:32, 08:32, 09:32, 10:32, 11:32, 12:32, 13:32, 14:32, 15:32, 16:32, 17:32",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.43177663",
+				"LONGITUDE" : "-68.53900899",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5346537705, 48.4354108193 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_037",
+				"NOM" : "Michel-Brûlé / 2e Rue",
+				"HORAIRE_SE" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "037",
+				"LATITUDE" : "48.43541082",
+				"LONGITUDE" : "-68.53465377",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5321357525, 48.4357440635 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_038",
+				"NOM" : "Dubé / Duberger",
+				"HORAIRE_SE" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "038",
+				"LATITUDE" : "48.43574406",
+				"LONGITUDE" : "-68.53213575",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.530584991, 48.437341382 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_039",
+				"NOM" : "Louis-Panet / Dubé",
+				"HORAIRE_SE" : "07:39, 08:39, 09:39, 10:39, 11:39, 12:39, 13:39, 14:39, 15:39, 16:39, 17:39",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "039",
+				"LATITUDE" : "48.43734138",
+				"LONGITUDE" : "-68.53058499",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5326326751, 48.4386587809 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_040",
+				"NOM" : "Louis-Panet / Ouellet",
+				"HORAIRE_SE" : "07:39, 08:39, 09:39, 10:39, 11:39, 12:39, 13:39, 14:39, 15:39, 16:39, 17:39",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "040",
+				"LATITUDE" : "48.43865878",
+				"LONGITUDE" : "-68.53263268",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.534426945, 48.438504237 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_041",
+				"NOM" : "Tessier / St-Laurent",
+				"HORAIRE_SE" : "07:40, 08:40, 09:40, 10:40, 11:40, 12:40, 13:40, 14:40, 15:40, 16:40, 17:40",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "041",
+				"LATITUDE" : "48.43850424",
+				"LONGITUDE" : "-68.53442695",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5327671325, 48.4420148348 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_042",
+				"NOM" : "Saint-Jean-Baptiste/ Sirois",
+				"HORAIRE_SE" : "07:40, 08:40, 09:40, 10:40, 11:40, 12:40, 13:40, 14:40, 15:40, 16:40, 17:40",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "042",
+				"LATITUDE" : "48.44201483",
+				"LONGITUDE" : "-68.53276713",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.530244845, 48.4436163381 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_043",
+				"NOM" : "Saint-Jean-Baptiste (Nettoyeur Saint-Robert)",
+				"HORAIRE_SE" : "07:41, 08:41, 09:41, 10:41, 11:41, 12:41, 13:41, 14:41, 15:41, 16:41, 17:41",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "043",
+				"LATITUDE" : "48.44361634",
+				"LONGITUDE" : "-68.53024485",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5287515289, 48.4454910067 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_044",
+				"NOM" : "de l'Évêché / Rouleau",
+				"HORAIRE_SE" : "07:42, 08:42, 09:42, 10:42, 11:42, 12:42, 13:42, 14:42, 15:42, 16:42, 17:42",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "044",
+				"LATITUDE" : "48.44549101",
+				"LONGITUDE" : "-68.52875153",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5257717367, 48.4475454123 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_045",
+				"NOM" : "de l'Évêché (Cégep)",
+				"HORAIRE_SE" : "07:42, 08:42, 09:42, 10:42, 11:42, 12:42, 13:42, 14:42, 15:42, 16:42, 17:42",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "045",
+				"LATITUDE" : "48.44754541",
+				"LONGITUDE" : "-68.52577174",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5232693917, 48.4492494283 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_046",
+				"NOM" : "de l'Évêché / Saint-Edmond",
+				"HORAIRE_SE" : "07:43, 08:43, 09:43, 10:43, 11:43, 12:43, 13:43, 14:43, 15:43, 16:43, 17:43",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "046",
+				"LATITUDE" : "48.44924943",
+				"LONGITUDE" : "-68.52326939",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5200025108, 48.4516037015 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_048",
+				"NOM" : "de l'Évêché / Belzile (Bibliothèque)",
+				"HORAIRE_SE" : "06:45, 07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "048",
+				"LATITUDE" : "48.4516037",
+				"LONGITUDE" : "-68.52000251",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5175813233, 48.4512819451 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_049",
+				"NOM" : "Notre-Dame / Belzile",
+				"HORAIRE_SE" : "06:46, 07:46, 08:46, 09:46, 10:46, 11:46, 12:46, 13:46, 14:46, 15:46, 16:46, 17:46",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "049",
+				"LATITUDE" : "48.45128195",
+				"LONGITUDE" : "-68.51758132",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5140445009, 48.4536031331 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_050",
+				"NOM" : "Notre-Dame / des Ursulines",
+				"HORAIRE_SE" : "06:47, 07:47, 08:47, 09:47, 10:47, 11:47, 12:47, 13:47, 14:47, 15:47, 16:47, 17:47",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "050",
+				"LATITUDE" : "48.45360313",
+				"LONGITUDE" : "-68.5140445",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.51329076, 48.4520858541 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_051",
+				"NOM" : "UQAR",
+				"HORAIRE_SE" : "06:48, 07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "051",
+				"LATITUDE" : "48.45208585",
+				"LONGITUDE" : "-68.51329076",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5100840248, 48.4507824729 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_052",
+				"NOM" : "Résidences UQAR (près de la 2e Rue)",
+				"HORAIRE_SE" : "06:49, 07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "052",
+				"LATITUDE" : "48.45078247",
+				"LONGITUDE" : "-68.51008402",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5123790138, 48.447878699 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_053",
+				"NOM" : "Belzile / 2e Rue",
+				"HORAIRE_SE" : "06:50, 07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "053",
+				"LATITUDE" : "48.4478787",
+				"LONGITUDE" : "-68.51237901",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5094176783, 48.4461253388 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_054",
+				"NOM" : "Belzile / Marie-Anna Charon",
+				"HORAIRE_SE" : "06:51, 07:51, 08:51, 09:51, 10:51, 11:51, 12:51, 13:51, 14:51, 15:51, 16:51, 17:51",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "054",
+				"LATITUDE" : "48.44612534",
+				"LONGITUDE" : "-68.50941768",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.50624203, 48.4453817559 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_055",
+				"NOM" : "Belzile / Arthur-Buies",
+				"HORAIRE_SE" : "06:51, 07:51, 08:51, 09:51, 10:51, 11:51, 12:51, 13:51, 14:51, 15:51, 16:51, 17:51",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "055",
+				"LATITUDE" : "48.44538176",
+				"LONGITUDE" : "-68.50624203",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5024538068, 48.4450866562 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_056",
+				"NOM" : "Belzile / Gilles-Vigneault",
+				"HORAIRE_SE" : "06:52, 07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "056",
+				"LATITUDE" : "48.44508666",
+				"LONGITUDE" : "-68.50245381",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4984751267, 48.4476366807 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_057",
+				"NOM" : "Belzile / Pascal-Parent",
+				"HORAIRE_SE" : "06:53, 07:53, 08:53, 09:53, 10:53, 11:53, 12:53, 13:53, 14:53, 15:53, 16:53, 17:53",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "057",
+				"LATITUDE" : "48.44763668",
+				"LONGITUDE" : "-68.49847513",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4961056341, 48.4498178419 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_058",
+				"NOM" : "Léonidas / Georges-Préfontaine",
+				"HORAIRE_SE" : "06:53, 07:53, 08:53, 09:53, 10:53, 11:53, 12:53, 13:53, 14:53, 15:53, 16:53, 17:53",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "058",
+				"LATITUDE" : "48.44981784",
+				"LONGITUDE" : "-68.49610563",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4975673344, 48.4521719868 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_059",
+				"NOM" : "Léonidas / Arthur-Buies",
+				"HORAIRE_SE" : "06:54, 07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "059",
+				"LATITUDE" : "48.45217199",
+				"LONGITUDE" : "-68.49756733",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4991712217, 48.4547655979 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_060",
+				"NOM" : "Léonidas (Cité des achats)",
+				"HORAIRE_SE" : "06:54, 07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "060",
+				"LATITUDE" : "48.4547656",
+				"LONGITUDE" : "-68.49917122",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5013658832, 48.4563264124 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_061",
+				"NOM" : "2e Rue / Léonidas",
+				"HORAIRE_SE" : "06:56, 07:56, 08:56, 09:56, 10:56, 11:56, 12:56, 13:56, 14:56, 15:56, 16:56, 17:56",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "061",
+				"LATITUDE" : "48.45632641",
+				"LONGITUDE" : "-68.50136588",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5047421887, 48.4542592865 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_062",
+				"NOM" : "Corneau / 2e Rue",
+				"HORAIRE_SE" : "06:57, 07:57, 08:57, 09:57, 10:57, 11:57, 12:57, 13:57, 14:57, 15:57, 16:57, 17:57",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "062",
+				"LATITUDE" : "48.45425929",
+				"LONGITUDE" : "-68.50474219",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5067435641, 48.4555323018 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_063",
+				"NOM" : "Corneau / Perreault",
+				"HORAIRE_SE" : "06:58, 07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "063",
+				"LATITUDE" : "48.4555323",
+				"LONGITUDE" : "-68.50674356",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5079132147, 48.4566596902 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_064",
+				"NOM" : "Corneau / Lachance",
+				"HORAIRE_SE" : "06:58, 07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "064",
+				"LATITUDE" : "48.45665969",
+				"LONGITUDE" : "-68.50791321",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5054713195, 48.4578047511 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_065",
+				"NOM" : "Lachance / Sasseville",
+				"HORAIRE_SE" : "06:59, 07:59, 08:59, 09:59, 10:59, 11:59, 12:59, 13:59, 14:59, 15:59, 16:59, 17:59",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "065",
+				"LATITUDE" : "48.45780475",
+				"LONGITUDE" : "-68.50547132",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5052547691, 48.4586861407 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_066",
+				"NOM" : "Saint-Jean-Baptiste / Léonidas",
+				"HORAIRE_SE" : "06:59, 07:59, 08:59, 09:59, 10:59, 11:59, 12:59, 13:59, 14:59, 15:59, 16:59, 17:59",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "066",
+				"LATITUDE" : "48.45868614",
+				"LONGITUDE" : "-68.50525477",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5076816314, 48.4615299466 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_067",
+				"NOM" : "Léonidas / des Artisans",
+				"HORAIRE_SE" : "07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "067",
+				"LATITUDE" : "48.46152995",
+				"LONGITUDE" : "-68.50768163",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5067551106, 48.4628552182 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_068",
+				"NOM" : "des Artisans",
+				"HORAIRE_SE" : "07:01, 08:01, 09:01, 10:01, 11:01, 12:01, 13:01, 14:01, 15:01, 16:01, 17:01, 18:01",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "068",
+				"LATITUDE" : "48.46285522",
+				"LONGITUDE" : "-68.50675511",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5079396411, 48.4649220756 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_069",
+				"NOM" : "Montée Industrielle / Jean-Marie-Leblanc",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "069",
+				"LATITUDE" : "48.46492208",
+				"LONGITUDE" : "-68.50793964",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5114845222, 48.4680712376 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_070",
+				"NOM" : "Montée Industrielle / de l'Expansion",
+				"HORAIRE_SE" : "07:02, 08:02, 09:02, 10:02, 11:02, 12:02, 13:02, 14:02, 15:02, 16:02, 17:02, 18:02",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "070",
+				"LATITUDE" : "48.46807124",
+				"LONGITUDE" : "-68.51148452",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5145943449, 48.4696377896 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_071",
+				"NOM" : "Montée Indistrielle (Carrefour Rimouski)",
+				"HORAIRE_SE" : "07:03, 08:03, 09:03, 10:03, 11:03, 12:03, 13:03, 14:03, 15:03, 16:03, 17:03, 18:03",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "071",
+				"LATITUDE" : "48.46963779",
+				"LONGITUDE" : "-68.51459434",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5151265681, 48.4675260492 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_072",
+				"NOM" : "Carrefour Rimouski (2)",
+				"HORAIRE_SE" : "07:04, 08:04, 09:04, 10:04, 11:04, 12:04, 13:04, 14:04, 15:04, 16:04, 17:04, 18:04",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "072",
+				"LATITUDE" : "48.46752605",
+				"LONGITUDE" : "-68.51512657",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5130633763, 48.4662190365 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_073",
+				"NOM" : "Carrefour Rimouski (1)",
+				"HORAIRE_SE" : "07:05, 08:05, 09:05, 10:05, 11:05, 12:05, 13:05, 14:05, 15:05, 16:05, 17:05, 18:05",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : "ZB",
+				"NUM_ARRET" : "073",
+				"LATITUDE" : "48.46621904",
+				"LONGITUDE" : "-68.51306338",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5139012633, 48.4647898225 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_074",
+				"NOM" : "Moreault / Léonidas",
+				"HORAIRE_SE" : "07:05, 08:05, 09:05, 10:05, 11:05, 12:05, 13:05, 14:05, 15:05, 16:05, 17:05, 18:05",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "074",
+				"LATITUDE" : "48.46478982",
+				"LONGITUDE" : "-68.51390126",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5153226728, 48.463549974 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_075",
+				"NOM" : "Moreault / D'Auteuil",
+				"HORAIRE_SE" : "07:06, 08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "075",
+				"LATITUDE" : "48.46354997",
+				"LONGITUDE" : "-68.51532267",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5172778257, 48.4618440363 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_076",
+				"NOM" : "377 Moreault",
+				"HORAIRE_SE" : "07:06, 08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "076",
+				"LATITUDE" : "48.46184404",
+				"LONGITUDE" : "-68.51727783",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5177941407, 48.4601552547 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_077",
+				"NOM" : "Saint-Germain / Côté",
+				"HORAIRE_SE" : "07:07, 08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "077",
+				"LATITUDE" : "48.46015525",
+				"LONGITUDE" : "-68.51779414",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5180947718, 48.4577063088 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_078",
+				"NOM" : "Saint-Germain / Fiset",
+				"HORAIRE_SE" : "07:07, 08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "078",
+				"LATITUDE" : "48.45770631",
+				"LONGITUDE" : "-68.51809477",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5198908903, 48.4551901386 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_079",
+				"NOM" : "Saint-Germain / Julien-Réhel",
+				"HORAIRE_SE" : "07:08, 08:08, 09:08, 10:08, 11:08, 12:08, 13:08, 14:08, 15:08, 16:08, 17:08, 18:08",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "079",
+				"LATITUDE" : "48.45519014",
+				"LONGITUDE" : "-68.51989089",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5214451838, 48.4540158383 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_080",
+				"NOM" : "Saint-Germain (CLSC)",
+				"HORAIRE_SE" : "07:09, 08:09, 09:09, 10:09, 11:09, 12:09, 13:09, 14:09, 15:09, 16:09, 17:09, 18:09",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "080",
+				"LATITUDE" : "48.45401584",
+				"LONGITUDE" : "-68.52144518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5245328897, 48.4526233981 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C21_081",
+				"NOM" : "Saint-Germain / Lepage (Grande Place)",
+				"HORAIRE_SE" : "07:12, 08:12, 09:12, 10:12, 11:12, 12:12, 13:12, 14:12, 15:12, 16:12, 17:12, 18:12",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "081",
+				"LATITUDE" : "48.4526234",
+				"LONGITUDE" : "-68.52453289",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5409947135, 48.4442794091 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_002",
+				"NOM" : "Boul. Saint-Germain / des Berges",
+				"HORAIRE_SE" : "09:48, 10:48, 13:48, 14:48, 15:48, 18:48, 19:48, 20:48, 21:48, 22:48",
+				"HORAIRE_FDS" : "07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.44427941",
+				"LONGITUDE" : "-68.54099471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5409947135, 48.4442794091 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_002",
+				"NOM" : "Boul. Saint-Germain / des Berges",
+				"HORAIRE_SE" : "06:48, 07:18, 07:48, 08:18, 08:48, 11:18, 11:48, 12:18, 12:48, 16:18, 16:48, 17:18, 17:48",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.44427941",
+				"LONGITUDE" : "-68.54099471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5409947135, 48.4442794091 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_002",
+				"NOM" : "Boul. Saint-Germain / des Berges",
+				"HORAIRE_SE" : "09:18, 10:18, 13:18, 14:18, 15:18, 18:18, 19:18, 20:18, 21:18, 22:18",
+				"HORAIRE_FDS" : "07:18, 08:18, 09:18, 10:18, 11:18, 12:18, 13:18, 14:18, 15:18, 16:18, 17:18",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.44427941",
+				"LONGITUDE" : "-68.54099471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5459539177, 48.4409292894 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_003",
+				"NOM" : "Boul. Saint-Germain / Saint-François",
+				"HORAIRE_SE" : "09:49, 10:49, 13:49, 14:49, 15:49, 18:49, 19:49, 20:49, 21:49, 22:49",
+				"HORAIRE_FDS" : "07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.44092929",
+				"LONGITUDE" : "-68.54595392",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5459539177, 48.4409292894 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_003",
+				"NOM" : "Boul. Saint-Germain / Saint-François",
+				"HORAIRE_SE" : "09:19, 10:19, 13:19, 14:19, 15:19, 18:19, 19:19, 20:19, 21:19, 22:19",
+				"HORAIRE_FDS" : "07:19, 08:19, 09:19, 10:19, 11:19, 12:19, 13:19, 14:19, 15:19, 16:19, 17:19",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.44092929",
+				"LONGITUDE" : "-68.54595392",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5459539177, 48.4409292894 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_003",
+				"NOM" : "Boul. Saint-Germain / Saint-François",
+				"HORAIRE_SE" : "06:49, 07:19, 07:49, 08:19, 08:49, 11:19, 11:49, 12:19, 12:49, 16:19, 16:49, 17:19, 17:49",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.44092929",
+				"LONGITUDE" : "-68.54595392",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550449885, 48.4389982223 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_004",
+				"NOM" : "Boul. Saint-Germain / Dollard Nord",
+				"HORAIRE_SE" : "09:49, 10:49, 13:49, 14:49, 15:49, 18:49, 19:49, 20:49, 21:49, 22:49",
+				"HORAIRE_FDS" : "07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.43899822",
+				"LONGITUDE" : "-68.55044988",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550449885, 48.4389982223 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_004",
+				"NOM" : "Boul. Saint-Germain / Dollard Nord",
+				"HORAIRE_SE" : "09:19, 10:19, 13:19, 14:19, 15:19, 18:19, 19:19, 20:19, 21:19, 22:19",
+				"HORAIRE_FDS" : "07:19, 08:19, 09:19, 10:19, 11:19, 12:19, 13:19, 14:19, 15:19, 16:19, 17:19",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.43899822",
+				"LONGITUDE" : "-68.55044988",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550449885, 48.4389982223 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_004",
+				"NOM" : "Boul. Saint-Germain / Dollard Nord",
+				"HORAIRE_SE" : "06:49, 07:19, 07:49, 08:19, 08:49, 11:19, 11:49, 12:19, 12:49, 16:19, 16:49, 17:19, 17:49",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.43899822",
+				"LONGITUDE" : "-68.55044988",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5560017453, 48.440015982 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_005",
+				"NOM" : "Boul. Saint-Germain / de Lausanne",
+				"HORAIRE_SE" : "09:50, 10:50, 13:50, 14:50, 15:50, 18:50, 19:50, 20:50, 21:50, 22:50",
+				"HORAIRE_FDS" : "07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.44001598",
+				"LONGITUDE" : "-68.55600175",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5560017453, 48.440015982 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_005",
+				"NOM" : "Boul. Saint-Germain / de Lausanne",
+				"HORAIRE_SE" : "09:20, 10:20, 13:20, 14:20, 15:20, 18:20, 19:20, 20:20, 21:20, 22:20",
+				"HORAIRE_FDS" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.44001598",
+				"LONGITUDE" : "-68.55600175",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5560017453, 48.440015982 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_005",
+				"NOM" : "Boul. Saint-Germain / de Lausanne",
+				"HORAIRE_SE" : "06:50, 07:20, 07:50, 08:20, 08:50, 11:20, 11:50, 12:20, 12:50, 16:20, 16:50, 17:20, 17:50",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.44001598",
+				"LONGITUDE" : "-68.55600175",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5613951773, 48.4403515262 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_006",
+				"NOM" : "Boul. Saint-Germain / Roy Nord",
+				"HORAIRE_SE" : "09:50, 10:50, 13:50, 14:50, 15:50, 18:50, 19:50, 20:50, 21:50, 22:50",
+				"HORAIRE_FDS" : "07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.44035153",
+				"LONGITUDE" : "-68.56139518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5613951773, 48.4403515262 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_006",
+				"NOM" : "Boul. Saint-Germain / Roy Nord",
+				"HORAIRE_SE" : "09:20, 10:20, 13:20, 14:20, 15:20, 18:20, 19:20, 20:20, 21:20, 22:20",
+				"HORAIRE_FDS" : "07:20, 08:20, 09:20, 10:20, 11:20, 12:20, 13:20, 14:20, 15:20, 16:20, 17:20",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.44035153",
+				"LONGITUDE" : "-68.56139518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5613951773, 48.4403515262 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_006",
+				"NOM" : "Boul. Saint-Germain / Roy Nord",
+				"HORAIRE_SE" : "06:50, 07:20, 07:50, 08:20, 08:50, 11:20, 11:50, 12:20, 12:50, 16:20, 16:50, 17:20, 17:50",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.44035153",
+				"LONGITUDE" : "-68.56139518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5644491264, 48.4392973789 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_007",
+				"NOM" : "Boul. Saint-Germain / Gérard-Majella",
+				"HORAIRE_SE" : "09:51, 10:51, 13:51, 14:51, 15:51, 18:51, 19:51, 20:51, 21:51, 22:51",
+				"HORAIRE_FDS" : "07:51, 08:51, 09:51, 10:51, 11:51, 12:51, 13:51, 14:51, 15:51, 16:51, 17:51",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.43929738",
+				"LONGITUDE" : "-68.56444913",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5644491264, 48.4392973789 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_007",
+				"NOM" : "Boul. Saint-Germain / Gérard-Majella",
+				"HORAIRE_SE" : "09:21, 10:21, 13:21, 14:21, 15:21, 18:21, 19:21, 20:21, 21:21, 22:21",
+				"HORAIRE_FDS" : "07:21, 08:21, 09:21, 10:21, 11:21, 12:21, 13:21, 14:21, 15:21, 16:21, 17:21",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.43929738",
+				"LONGITUDE" : "-68.56444913",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5644491264, 48.4392973789 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_007",
+				"NOM" : "Boul. Saint-Germain / Gérard-Majella",
+				"HORAIRE_SE" : "06:51, 07:21, 07:51, 08:21, 08:51, 11:21, 11:51, 12:21, 12:51, 16:21, 16:51, 17:21, 17:51",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.43929738",
+				"LONGITUDE" : "-68.56444913",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717447066, 48.4362782544 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_008",
+				"NOM" : "Boul. Saint-Germain / des Braves",
+				"HORAIRE_SE" : "06:52, 07:22, 07:52, 08:22, 08:52, 11:22, 11:52, 12:22, 12:52, 16:22, 16:52, 17:22, 17:52",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.43627825",
+				"LONGITUDE" : "-68.57174471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717447066, 48.4362782544 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_008",
+				"NOM" : "Boul. Saint-Germain / des Braves",
+				"HORAIRE_SE" : "09:22, 10:22, 13:22, 14:22, 15:22, 18:22, 19:22, 20:22, 21:22, 22:22",
+				"HORAIRE_FDS" : "07:22, 08:22, 09:22, 10:22, 11:22, 12:22, 13:22, 14:22, 15:22, 16:22, 17:22",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.43627825",
+				"LONGITUDE" : "-68.57174471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717447066, 48.4362782544 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_008",
+				"NOM" : "Boul. Saint-Germain / des Braves",
+				"HORAIRE_SE" : "09:52, 10:52, 13:52, 14:52, 15:52, 18:52, 19:52, 20:52, 21:52, 22:52",
+				"HORAIRE_FDS" : "07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.43627825",
+				"LONGITUDE" : "-68.57174471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5748716705, 48.4349935482 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_009",
+				"NOM" : "Boul. Saint-Germain / de la Sapinière Nord",
+				"HORAIRE_SE" : "09:52, 10:52, 13:52, 14:52, 15:52, 18:52, 19:52, 20:52, 21:52, 22:52",
+				"HORAIRE_FDS" : "07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.43499355",
+				"LONGITUDE" : "-68.57487167",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5748716705, 48.4349935482 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_009",
+				"NOM" : "Boul. Saint-Germain / de la Sapinière Nord",
+				"HORAIRE_SE" : "09:22, 10:22, 13:22, 14:22, 15:22, 18:22, 19:22, 20:22, 21:22, 22:22",
+				"HORAIRE_FDS" : "07:22, 08:22, 09:22, 10:22, 11:22, 12:22, 13:22, 14:22, 15:22, 16:22, 17:22",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.43499355",
+				"LONGITUDE" : "-68.57487167",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5748716705, 48.4349935482 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_009",
+				"NOM" : "Boul. Saint-Germain / de la Sapinière Nord",
+				"HORAIRE_SE" : "06:52, 07:22, 07:52, 08:22, 08:52, 11:22, 11:52, 12:22, 12:52, 16:22, 16:52, 17:22, 17:52",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.43499355",
+				"LONGITUDE" : "-68.57487167",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5796498198, 48.4329724074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_010",
+				"NOM" : "Boul. Saint-Germain / des Merisiers",
+				"HORAIRE_SE" : "09:23, 10:23, 13:23, 14:23, 15:23, 18:23, 19:23, 20:23, 21:23, 22:23",
+				"HORAIRE_FDS" : "07:23, 08:23, 09:23, 10:23, 11:23, 12:23, 13:23, 14:23, 15:23, 16:23, 17:23",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.43297241",
+				"LONGITUDE" : "-68.57964982",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5796498198, 48.4329724074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_010",
+				"NOM" : "Boul. Saint-Germain / des Merisiers",
+				"HORAIRE_SE" : "06:53, 07:23, 07:53, 08:23, 08:53, 11:23, 11:53, 12:23, 12:53, 16:23, 16:53, 17:23, 17:53",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.43297241",
+				"LONGITUDE" : "-68.57964982",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5796498198, 48.4329724074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_010",
+				"NOM" : "Boul. Saint-Germain / des Merisiers",
+				"HORAIRE_SE" : "09:53, 10:53, 13:53, 14:53, 15:53, 18:53, 19:53, 20:53, 21:53, 22:53",
+				"HORAIRE_FDS" : "07:53, 08:53, 09:53, 10:53, 11:53, 12:53, 13:53, 14:53, 15:53, 16:53, 17:53",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.43297241",
+				"LONGITUDE" : "-68.57964982",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5844506053, 48.4309425007 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_011",
+				"NOM" : "Boul. Saint-Germain / Lauzier",
+				"HORAIRE_SE" : "09:24, 10:24, 13:24, 14:24, 15:24, 18:24, 19:24, 20:24, 21:24, 22:24",
+				"HORAIRE_FDS" : "07:24, 08:24, 09:24, 10:24, 11:24, 12:24, 13:24, 14:24, 15:24, 16:24, 17:24",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.4309425",
+				"LONGITUDE" : "-68.58445061",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5844506053, 48.4309425007 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_011",
+				"NOM" : "Boul. Saint-Germain / Lauzier",
+				"HORAIRE_SE" : "09:54, 10:54, 13:54, 14:54, 15:54, 18:54, 19:54, 20:54, 21:54, 22:54",
+				"HORAIRE_FDS" : "07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.4309425",
+				"LONGITUDE" : "-68.58445061",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5844506053, 48.4309425007 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_011",
+				"NOM" : "Boul. Saint-Germain / Lauzier",
+				"HORAIRE_SE" : "06:54, 07:24, 07:54, 08:24, 08:54, 11:24, 11:54, 12:24, 12:54, 16:24, 16:54, 17:24, 17:54",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.4309425",
+				"LONGITUDE" : "-68.58445061",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5906624847, 48.426751308 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_012",
+				"NOM" : "Montée des Saules / Saint-Arsène (Église Sacré-Coeur)",
+				"HORAIRE_SE" : "09:25, 10:25, 13:25, 14:25, 15:25, 18:25, 19:25, 20:25, 21:25, 22:25",
+				"HORAIRE_FDS" : "07:25, 08:25, 09:25, 10:25, 11:25, 12:25, 13:25, 14:25, 15:25, 16:25, 17:25",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : "ZV",
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.42679506",
+				"LONGITUDE" : "-68.59076655",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5906624847, 48.426751308 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_012",
+				"NOM" : "Montée des Saules / Saint-Arsène (Église Sacré-Coeur)",
+				"HORAIRE_SE" : "06:55, 07:25, 07:55, 08:25, 08:55, 11:25, 11:55, 12:25, 12:55, 16:25, 16:55, 17:25, 17:55",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : "ZV",
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.42679506",
+				"LONGITUDE" : "-68.59076655",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5906624847, 48.426751308 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_012",
+				"NOM" : "Montée des Saules / Saint-Arsène (Église Sacré-Coeur)",
+				"HORAIRE_SE" : "09:55, 10:55, 13:55, 14:55, 15:55, 18:55, 19:55, 20:55, 21:55, 22:55",
+				"HORAIRE_FDS" : "07:55, 08:55, 09:55, 10:55, 11:55, 12:55, 13:55, 14:55, 15:55, 16:55, 17:55",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : "ZV",
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.42679506",
+				"LONGITUDE" : "-68.59076655",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.589473988, 48.428256138 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_014",
+				"NOM" : "Boul. Saint-Germain / Bellevue",
+				"HORAIRE_SE" : "09:26, 10:26, 13:26, 14:26, 15:26, 18:26, 19:26, 20:26, 21:26, 22:26",
+				"HORAIRE_FDS" : "07:26, 08:26, 09:26, 10:26, 11:26, 12:26, 13:26, 14:26, 15:26, 16:26, 17:26",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.42825614",
+				"LONGITUDE" : "-68.58947399",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.589473988, 48.428256138 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_014",
+				"NOM" : "Boul. Saint-Germain / Bellevue",
+				"HORAIRE_SE" : "09:56, 10:56, 13:56, 14:56, 15:56, 18:56, 19:56, 20:56, 21:56, 22:56",
+				"HORAIRE_FDS" : "07:56, 08:56, 09:56, 10:56, 11:56, 12:56, 13:56, 14:56, 15:56, 16:56, 17:56",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.42825614",
+				"LONGITUDE" : "-68.58947399",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.589473988, 48.428256138 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_014",
+				"NOM" : "Boul. Saint-Germain / Bellevue",
+				"HORAIRE_SE" : "06:56, 07:26, 07:56, 08:26, 08:56, 11:26, 11:56, 12:26, 12:56, 16:26, 16:56, 17:26, 17:56",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.42825614",
+				"LONGITUDE" : "-68.58947399",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5778648546, 48.4281588518 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_017",
+				"NOM" : "des Pruches / Rousseau",
+				"HORAIRE_SE" : "09:58, 10:58, 13:58, 14:58, 15:58, 18:58, 19:58, 20:58, 21:58, 22:58",
+				"HORAIRE_FDS" : "07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.42815885",
+				"LONGITUDE" : "-68.57786485",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5778648546, 48.4281588518 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_017",
+				"NOM" : "des Pruches / Rousseau",
+				"HORAIRE_SE" : "06:58, 07:28, 07:58, 08:28, 08:58, 11:28, 11:58, 12:28, 12:58, 16:28, 16:58, 17:28, 17:58",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.42815885",
+				"LONGITUDE" : "-68.57786485",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5778648546, 48.4281588518 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_017",
+				"NOM" : "des Pruches / Rousseau",
+				"HORAIRE_SE" : "09:28, 10:28, 13:28, 14:28, 15:28, 18:28, 19:28, 20:28, 21:28, 22:28",
+				"HORAIRE_FDS" : "07:28, 08:28, 09:28, 10:28, 11:28, 12:28, 13:28, 14:28, 15:28, 16:28, 17:28",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.42815885",
+				"LONGITUDE" : "-68.57786485",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5764419904, 48.4302885682 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_018",
+				"NOM" : "de l'Horizon / des Sources",
+				"HORAIRE_SE" : "09:29, 10:29, 13:29, 14:29, 15:29, 18:29, 19:29, 20:29, 21:29, 22:29",
+				"HORAIRE_FDS" : "07:29, 08:29, 09:29, 10:29, 11:29, 12:29, 13:29, 14:29, 15:29, 16:29, 17:29",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.43028857",
+				"LONGITUDE" : "-68.57644199",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5764419904, 48.4302885682 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_018",
+				"NOM" : "de l'Horizon / des Sources",
+				"HORAIRE_SE" : "06:59, 07:29, 07:59, 08:29, 08:59, 11:29, 11:59, 12:29, 12:59, 16:29, 16:59, 17:29, 17:59",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.43028857",
+				"LONGITUDE" : "-68.57644199",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5764419904, 48.4302885682 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_018",
+				"NOM" : "de l'Horizon / des Sources",
+				"HORAIRE_SE" : "09:59, 10:59, 13:59, 14:59, 15:59, 18:59, 19:59, 20:59, 21:59, 22:59",
+				"HORAIRE_FDS" : "07:59, 08:59, 09:59, 10:59, 11:59, 12:59, 13:59, 14:59, 15:59, 16:59, 17:59",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.43028857",
+				"LONGITUDE" : "-68.57644199",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5747175241, 48.4320081952 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_019",
+				"NOM" : "des Commandeurs / du Bosquet",
+				"HORAIRE_SE" : "09:30, 10:30, 13:30, 14:30, 15:30, 18:30, 19:30, 20:30, 21:30, 22:30",
+				"HORAIRE_FDS" : "07:30, 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.4320082",
+				"LONGITUDE" : "-68.57471752",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5747175241, 48.4320081952 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_019",
+				"NOM" : "des Commandeurs / du Bosquet",
+				"HORAIRE_SE" : "10:00, 11:00, 14:00, 15:00, 16:00, 19:00, 20:00, 21:00, 22:00, 23:00",
+				"HORAIRE_FDS" : "08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.4320082",
+				"LONGITUDE" : "-68.57471752",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5747175241, 48.4320081952 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_019",
+				"NOM" : "des Commandeurs / du Bosquet",
+				"HORAIRE_SE" : "07:00, 07:30, 08:00, 08:30, 09:00, 11:30, 12:00, 12:30, 13:00, 16:30, 17:00, 17:30, 18:00",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.4320082",
+				"LONGITUDE" : "-68.57471752",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717108425, 48.4360424074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_023",
+				"NOM" : "du Bosquet / Boul. Saint-Germain",
+				"HORAIRE_SE" : "09:33, 10:33, 13:33, 14:33, 15:33, 18:33, 19:33, 20:33, 21:33, 22:33",
+				"HORAIRE_FDS" : "07:33, 08:33, 09:33, 10:33, 11:33, 12:33, 13:33, 14:33, 15:33, 16:33, 17:33",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.43604241",
+				"LONGITUDE" : "-68.57171084",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717108425, 48.4360424074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_023",
+				"NOM" : "du Bosquet / Boul. Saint-Germain",
+				"HORAIRE_SE" : "10:03, 11:03, 14:03, 15:03, 16:03, 19:03, 20:03, 21:03, 22:03, 23:03",
+				"HORAIRE_FDS" : "08:03, 09:03, 10:03, 11:03, 12:03, 13:03, 14:03, 15:03, 16:03, 17:03, 18:03",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.43604241",
+				"LONGITUDE" : "-68.57171084",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717108425, 48.4360424074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_023",
+				"NOM" : "du Bosquet / Boul. Saint-Germain",
+				"HORAIRE_SE" : "07:03, 07:33, 08:03, 08:33, 09:03, 11:33, 12:03, 12:33, 13:03, 16:33, 17:03, 17:33, 18:03",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.43604241",
+				"LONGITUDE" : "-68.57171084",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5668432112, 48.4381844817 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_024",
+				"NOM" : "Boul. Saint-Germain / Henri-Jacob",
+				"HORAIRE_SE" : "09:34, 10:34, 13:34, 14:34, 15:34, 18:34, 19:34, 20:34, 21:34, 22:34",
+				"HORAIRE_FDS" : "07:34, 08:34, 09:34, 10:34, 11:34, 12:34, 13:34, 14:34, 15:34, 16:34, 17:34",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.43818448",
+				"LONGITUDE" : "-68.56684321",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5668432112, 48.4381844817 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_024",
+				"NOM" : "Boul. Saint-Germain / Henri-Jacob",
+				"HORAIRE_SE" : "10:04, 11:04, 14:04, 15:04, 16:04, 19:04, 20:04, 21:04, 22:04, 23:04",
+				"HORAIRE_FDS" : "08:04, 09:04, 10:04, 11:04, 12:04, 13:04, 14:04, 15:04, 16:04, 17:04, 18:04",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.43818448",
+				"LONGITUDE" : "-68.56684321",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5668432112, 48.4381844817 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_024",
+				"NOM" : "Boul. Saint-Germain / Henri-Jacob",
+				"HORAIRE_SE" : "07:04, 07:34, 08:04, 08:34, 09:04, 11:34, 12:04, 12:34, 13:04, 16:34, 17:04, 17:34, 18:04",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.43818448",
+				"LONGITUDE" : "-68.56684321",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5547324909, 48.4419843497 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_029",
+				"NOM" : "de Lausanne / La Salle",
+				"HORAIRE_SE" : "09:36, 10:36, 13:36, 14:36, 15:36, 18:36, 19:36, 20:36, 21:36, 22:36",
+				"HORAIRE_FDS" : "07:36, 08:36, 09:36, 10:36, 11:36, 12:36, 13:36, 14:36, 15:36, 16:36, 17:36",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.44198435",
+				"LONGITUDE" : "-68.55473249",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5547324909, 48.4419843497 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_029",
+				"NOM" : "de Lausanne / La Salle",
+				"HORAIRE_SE" : "10:06, 11:06, 14:06, 15:06, 16:06, 19:06, 20:06, 21:06, 22:06, 23:06",
+				"HORAIRE_FDS" : "08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.44198435",
+				"LONGITUDE" : "-68.55473249",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5547324909, 48.4419843497 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_029",
+				"NOM" : "de Lausanne / La Salle",
+				"HORAIRE_SE" : "07:06, 07:36, 08:06, 08:36, 09:06, 11:36, 12:06, 12:36, 13:06, 16:36, 17:06, 17:36, 18:06",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.44198435",
+				"LONGITUDE" : "-68.55473249",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550712773, 48.4429274866 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_030",
+				"NOM" : "La Salle / De Verchères",
+				"HORAIRE_SE" : "09:37, 10:37, 13:37, 14:37, 15:37, 18:37, 19:37, 20:37, 21:37, 22:37",
+				"HORAIRE_FDS" : "07:37, 08:37, 09:37, 10:37, 11:37, 12:37, 13:37, 14:37, 15:37, 16:37, 17:37",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.44292749",
+				"LONGITUDE" : "-68.55071277",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550712773, 48.4429274866 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_030",
+				"NOM" : "La Salle / De Verchères",
+				"HORAIRE_SE" : "10:07, 11:07, 14:07, 15:07, 16:07, 19:07, 20:07, 21:07, 22:07, 23:07",
+				"HORAIRE_FDS" : "08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.44292749",
+				"LONGITUDE" : "-68.55071277",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550712773, 48.4429274866 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_030",
+				"NOM" : "La Salle / De Verchères",
+				"HORAIRE_SE" : "07:07, 07:37, 08:07, 08:37, 09:07, 11:37, 12:07, 12:37, 13:07, 16:37, 17:07, 17:37, 18:07",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.44292749",
+				"LONGITUDE" : "-68.55071277",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5489802427, 48.4420783774 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_031",
+				"NOM" : "De Verchères (Centre communautaire Nazareth)",
+				"HORAIRE_SE" : "10:07, 11:07, 14:07, 15:07, 16:07, 19:07, 20:07, 21:07, 22:07, 23:07",
+				"HORAIRE_FDS" : "08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.44207838",
+				"LONGITUDE" : "-68.54898024",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5489802427, 48.4420783774 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_031",
+				"NOM" : "De Verchères (Centre communautaire Nazareth)",
+				"HORAIRE_SE" : "09:37, 10:37, 13:37, 14:37, 15:37, 18:37, 19:37, 20:37, 21:37, 22:37",
+				"HORAIRE_FDS" : "07:37, 08:37, 09:37, 10:37, 11:37, 12:37, 13:37, 14:37, 15:37, 16:37, 17:37",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.44207838",
+				"LONGITUDE" : "-68.54898024",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5489802427, 48.4420783774 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_031",
+				"NOM" : "De Verchères (Centre communautaire Nazareth)",
+				"HORAIRE_SE" : "07:07, 07:37, 08:07, 08:37, 09:07, 11:37, 12:07, 12:37, 13:07, 16:37, 17:07, 17:37, 18:07",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.44207838",
+				"LONGITUDE" : "-68.54898024",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5465120601, 48.4414569097 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_032",
+				"NOM" : "St-François / boulevard St-Germain",
+				"HORAIRE_SE" : "10:08, 11:08, 14:08, 15:08, 16:08, 19:08, 20:08, 21:08, 22:08, 23:08",
+				"HORAIRE_FDS" : "08:08, 09:08, 10:08, 11:08, 12:08, 13:08, 14:08, 15:08, 16:08, 17:08, 18:08",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.44145691",
+				"LONGITUDE" : "-68.54651206",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5465120601, 48.4414569097 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_032",
+				"NOM" : "St-François / boulevard St-Germain",
+				"HORAIRE_SE" : "09:38, 10:38, 13:38, 14:38, 15:38, 18:38, 19:38, 20:38, 21:38, 22:38",
+				"HORAIRE_FDS" : "07:38, 08:38, 09:38, 10:38, 11:38, 12:38, 13:38, 14:38, 15:38, 16:38, 17:38",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.44145691",
+				"LONGITUDE" : "-68.54651206",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5465120601, 48.4414569097 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_032",
+				"NOM" : "St-François / boulevard St-Germain",
+				"HORAIRE_SE" : "07:08, 07:38, 08:08, 08:38, 09:08, 11:38, 12:08, 12:38, 13:08, 16:38, 17:08, 17:38, 18:08",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.44145691",
+				"LONGITUDE" : "-68.54651206",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410979931, 48.4438824146 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_033",
+				"NOM" : "Boul. Saint-Germain (Hydro-Québec)",
+				"HORAIRE_SE" : "10:09, 11:09, 14:09, 15:09, 16:09, 19:09, 20:09, 21:09, 22:09, 23:09",
+				"HORAIRE_FDS" : "08:09, 09:09, 10:09, 11:09, 12:09, 13:09, 14:09, 15:09, 16:09, 17:09, 18:09",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.44388241",
+				"LONGITUDE" : "-68.54109799",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410979931, 48.4438824146 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_033",
+				"NOM" : "Boul. Saint-Germain (Hydro-Québec)",
+				"HORAIRE_SE" : "09:39, 10:39, 13:39, 14:39, 15:39, 18:39, 19:39, 20:39, 21:39, 22:39",
+				"HORAIRE_FDS" : "07:39, 08:39, 09:39, 10:39, 11:39, 12:39, 13:39, 14:39, 15:39, 16:39, 17:39",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.44388241",
+				"LONGITUDE" : "-68.54109799",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410979931, 48.4438824146 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_033",
+				"NOM" : "Boul. Saint-Germain (Hydro-Québec)",
+				"HORAIRE_SE" : "07:09, 07:39, 08:09, 08:39, 09:09, 11:39, 12:09, 12:39, 13:09, 16:39, 17:09, 17:39, 18:09",
+				"HORAIRE_FDS" : null,
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.44388241",
+				"LONGITUDE" : "-68.54109799",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5297361763, 48.4449460597 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_034G",
+				"NOM" : "de l'Évêché / Rouleau",
+				"HORAIRE_SE" : "09:40, 10:40, 13:40, 14:40, 15:40, 18:40, 19:40, 20:40, 21:40, 22:40",
+				"HORAIRE_FDS" : "07:40, 08:40, 09:40, 10:40, 11:40, 12:40, 13:40, 14:40, 15:40, 16:40, 17:40",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.44494606",
+				"LONGITUDE" : "-68.52973618",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.526397933, 48.447116153 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_035G",
+				"NOM" : "De l'Évêché (Cégep)",
+				"HORAIRE_SE" : "09:41, 10:41, 13:41, 14:41, 15:41, 18:41, 19:41, 20:41, 21:41, 22:41",
+				"HORAIRE_FDS" : "07:41, 08:41, 09:41, 10:41, 11:41, 12:41, 13:41, 14:41, 15:41, 16:41, 17:41",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "035",
+				"LATITUDE" : "48.44711615",
+				"LONGITUDE" : "-68.52639793",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "09:45, 10:45, 13:45, 14:45, 15:45, 18:45, 19:45, 20:45, 21:45, 22:45",
+				"HORAIRE_FDS" : "07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "036",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "06:45, 07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45, 18:45, 19:45, 20:45, 21:45, 22:45",
+				"HORAIRE_FDS" : "07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "040",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "06:45, 07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "047",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "07:15, 08:15, 11:15, 12:15, 16:15, 17:15",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "040",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "09:45, 10:45, 13:45, 14:45, 15:45, 18:45, 19:45, 20:45, 21:45, 22:45",
+				"HORAIRE_FDS" : "07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare_debarquement",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "09:15, 13:15, 18:15",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "540",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "07:15, 08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15, 19:15, 20:15, 21:15, 22:15",
+				"HORAIRE_FDS" : "07:15, 08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "06:45, 07:15, 07:45, 08:15, 08:45, 11:15, 11:45, 12:15, 12:45, 16:15, 16:45, 17:15, 17:45",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "10:15, 11:15, 14:15, 15:15, 16:15, 19:15, 20:15, 21:15, 22:15, 23:15",
+				"HORAIRE_FDS" : "08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "07:15, 07:45, 08:15, 08:45, 09:15, 11:45, 12:15, 12:45, 13:15, 16:45, 17:15, 17:45, 18:15",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C31_MM",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "09:15, 10:15, 13:15, 14:15, 15:15, 18:15, 19:15, 20:15, 21:15, 22:15",
+				"HORAIRE_FDS" : "07:15, 08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15",
+				"CIRCUIT" : "C31_M",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "06:45, 07:45, 08:45, 11:45, 12:45, 16:45, 17:45",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C11_HP",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "07:15, 08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee_debarquement",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "07:15, 08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15, 19:15, 20:15, 21:15, 22:15, 23:15",
+				"HORAIRE_FDS" : "08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15",
+				"CIRCUIT" : "C11_HREG",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "079",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee_debarquement",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15",
+				"HORAIRE_FDS" : "<Null>",
+				"CIRCUIT" : "C21",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "082",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		}
+	]
+}

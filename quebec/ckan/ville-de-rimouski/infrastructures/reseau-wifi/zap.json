@@ -1,0 +1,614 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "ZAP",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5049568622, 48.4759846416 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Aérogare Paul-Émile-Lapointe",
+				"XNAD83MTM6" : 230505.0820000004,
+				"YNAD83MTM6" : 5371305.3796999995,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.705552349, 48.371169546 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Bibliothèque Le Bic",
+				"XNAD83MTM6" : 215492.14714999963,
+				"YNAD83MTM6" : 5359865.76025,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4611996818, 48.3600806905 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Bibliothèque Pascal-Parent",
+				"XNAD83MTM6" : 233578.21850000042,
+				"YNAD83MTM6" : 5358376.984200001,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4589847975, 48.5110338353 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Bibliothèque de Pointe-au-Père",
+				"XNAD83MTM6" : 233952.53830000013,
+				"YNAD83MTM6" : 5375158.7787,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4558206454, 48.504607175 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Pointe-au-Père",
+				"XNAD83MTM6" : 234177.36569999997,
+				"YNAD83MTM6" : 5374441.290100001,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5002991357, 48.4788343141 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Rimouski-Est",
+				"XNAD83MTM6" : 230853.55829999968,
+				"YNAD83MTM6" : 5371617.7129999995,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5265405394, 48.438103159 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Saint-Robert",
+				"XNAD83MTM6" : 228852.9676000001,
+				"YNAD83MTM6" : 5367114.6712,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5453405455, 48.4318890231 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Sainte-Odile",
+				"XNAD83MTM6" : 227452.66339999996,
+				"YNAD83MTM6" : 5366442.5682,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5149263548, 48.4602844102 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Sainte-Agnès Nord",
+				"XNAD83MTM6" : 229744.91160000023,
+				"YNAD83MTM6" : 5369569.457699999,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5912496838, 48.4283921146 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Sacré-Coeur",
+				"XNAD83MTM6" : 224050.23929999955,
+				"YNAD83MTM6" : 5366101.155099999,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5391441754, 48.436571336 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Parc Beauséjour",
+				"XNAD83MTM6" : 227918.20739999972,
+				"YNAD83MTM6" : 5366956.933,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5295354661, 48.450999753 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Parc des Anciens Combattants",
+				"XNAD83MTM6" : 228650.6782999998,
+				"YNAD83MTM6" : 5368551.563200001,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5249850533, 48.4491314248 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Salle du Conseil de ville",
+				"XNAD83MTM6" : 228984.46270000003,
+				"YNAD83MTM6" : 5368339.315075001,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5305043522, 48.4506372279 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Tourisme Rimouski",
+				"XNAD83MTM6" : 228578.4731999999,
+				"YNAD83MTM6" : 5368512.219799999,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5329164218, 48.4488849432 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Café des Halles",
+				"XNAD83MTM6" : 228397.43730000034,
+				"YNAD83MTM6" : 5368319.7951,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5243583794, 48.4527728191 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Pâtisseries & Gourmandises d'Olivier",
+				"XNAD83MTM6" : 229036.23335000034,
+				"YNAD83MTM6" : 5368743.566175001,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5320480818, 48.4494604219 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "La Brûlerie d'ici",
+				"XNAD83MTM6" : 228462.52830000035,
+				"YNAD83MTM6" : 5368382.913899999,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5337216939, 48.4491238857 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Le Presse Café",
+				"XNAD83MTM6" : 228338.23259999976,
+				"YNAD83MTM6" : 5368347.166099999,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5276010802, 48.4481570876 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Cégep de Rimouski",
+				"XNAD83MTM6" : 228789.51012500003,
+				"YNAD83MTM6" : 5368233.5767250005,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5316911997, 48.4448224762 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Collectif de Développement Régional (CRD)",
+				"XNAD83MTM6" : 228481.9759999998,
+				"YNAD83MTM6" : 5367866.8846,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5268783512, 48.4508882526 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Crêpe Chignon",
+				"XNAD83MTM6" : 228847.04229999986,
+				"YNAD83MTM6" : 5368536.5262,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5207921319, 48.4507131352 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "La SADC de la Neigette",
+				"XNAD83MTM6" : 229296.94359999988,
+				"YNAD83MTM6" : 5368511.0349,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5038487068, 48.450366831 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Saint-Pie-X",
+				"XNAD83MTM6" : 230549.6464999998,
+				"YNAD83MTM6" : 5368455.9582,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5265628795, 48.4304088614 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Terrasse Arthur-Buies",
+				"XNAD83MTM6" : 228839.8454,
+				"YNAD83MTM6" : 5366259.198799999,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.7044106476, 48.3714434945 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre Curé-Soucy",
+				"XNAD83MTM6" : 215577.20210000034,
+				"YNAD83MTM6" : 5359894.8891,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.4585772188, 48.3599997323 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Pavillon de la Jeunesse",
+				"XNAD83MTM6" : 233772.41985000018,
+				"YNAD83MTM6" : 5358365.549825,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5514502035, 48.4414049722 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre communautaire Nazareth",
+				"XNAD83MTM6" : 227015.1299999999,
+				"YNAD83MTM6" : 5367506.7929,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5339314976, 48.4483797494 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Restaurant Chez Oeufs",
+				"XNAD83MTM6" : 228321.59669999965,
+				"YNAD83MTM6" : 5368264.6383,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5240468877, 48.4485949939 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Chocolaterie Pâtisserie aux Bienfaits",
+				"XNAD83MTM6" : 229053.05769999977,
+				"YNAD83MTM6" : 5368278.742875,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5225318705, 48.4474178798 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Piscine Saint-Germain",
+				"XNAD83MTM6" : 229163.37129999977,
+				"YNAD83MTM6" : 5368146.366575001,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5208839309, 48.4460972539 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Pavillon Polyvalent",
+				"XNAD83MTM6" : 229283.3097000001,
+				"YNAD83MTM6" : 5367997.9048999995,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.505178126, 48.4575841212 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"MUNICIPALITE" : "10043",
+				"NOM_LIEU" : "Centre Communautaire Sainte-Agnès Sud",
+				"XNAD83MTM6" : 230461.8537750002,
+				"YNAD83MTM6" : 5369259.71005,
+				"NOM_RESEAU" : "ZAPBSL",
+				"MOT_PASSE" : "Mot de passe attribué par la Z.A.P.",
+				"DETAILS" : "http://zapbsl.org/pour-vous-brancher/",
+				"FOURNISSEUR" : "Z.A.P. du Bas-Saint-Laurent",
+				"GEOM" : "Point"
+			}
+		}
+	]
+}

@@ -1,0 +1,462 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "ArretCiteBus31G",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5221730435, 48.4500162416 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Gare",
+				"NOM" : "de l'Évêché / Gare (Point de liaison)",
+				"HORAIRE_SE" : "09:45, 10:45, 13:45, 14:45, 15:45, 18:45, 19:45, 20:45, 21:45, 22:45",
+				"HORAIRE_FDS" : "07:45, 08:45, 09:45, 10:45, 11:45, 12:45, 13:45, 14:45, 15:45, 16:45, 17:45",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : "G",
+				"NUM_ARRET" : "001",
+				"LATITUDE" : "48.45001624",
+				"LONGITUDE" : "-68.52217304",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5409947135, 48.4442794091 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_002",
+				"NOM" : "Boul. Saint-Germain / des Berges",
+				"HORAIRE_SE" : "09:48, 10:48, 13:48, 14:48, 15:48, 18:48, 19:48, 20:48, 21:48, 22:48",
+				"HORAIRE_FDS" : "07:48, 08:48, 09:48, 10:48, 11:48, 12:48, 13:48, 14:48, 15:48, 16:48, 17:48",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "002",
+				"LATITUDE" : "48.44427941",
+				"LONGITUDE" : "-68.54099471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5459539177, 48.4409292894 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_003",
+				"NOM" : "Boul. Saint-Germain / Saint-François",
+				"HORAIRE_SE" : "09:49, 10:49, 13:49, 14:49, 15:49, 18:49, 19:49, 20:49, 21:49, 22:49",
+				"HORAIRE_FDS" : "07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "003",
+				"LATITUDE" : "48.44092929",
+				"LONGITUDE" : "-68.54595392",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550449885, 48.4389982223 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_004",
+				"NOM" : "Boul. Saint-Germain / Dollard Nord",
+				"HORAIRE_SE" : "09:49, 10:49, 13:49, 14:49, 15:49, 18:49, 19:49, 20:49, 21:49, 22:49",
+				"HORAIRE_FDS" : "07:49, 08:49, 09:49, 10:49, 11:49, 12:49, 13:49, 14:49, 15:49, 16:49, 17:49",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "004",
+				"LATITUDE" : "48.43899822",
+				"LONGITUDE" : "-68.55044988",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5560017453, 48.440015982 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_005",
+				"NOM" : "Boul. Saint-Germain / de Lausanne",
+				"HORAIRE_SE" : "09:50, 10:50, 13:50, 14:50, 15:50, 18:50, 19:50, 20:50, 21:50, 22:50",
+				"HORAIRE_FDS" : "07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "005",
+				"LATITUDE" : "48.44001598",
+				"LONGITUDE" : "-68.55600175",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5613951773, 48.4403515262 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_006",
+				"NOM" : "Boul. Saint-Germain / Roy Nord",
+				"HORAIRE_SE" : "09:50, 10:50, 13:50, 14:50, 15:50, 18:50, 19:50, 20:50, 21:50, 22:50",
+				"HORAIRE_FDS" : "07:50, 08:50, 09:50, 10:50, 11:50, 12:50, 13:50, 14:50, 15:50, 16:50, 17:50",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "006",
+				"LATITUDE" : "48.44035153",
+				"LONGITUDE" : "-68.56139518",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5644491264, 48.4392973789 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_007",
+				"NOM" : "Boul. Saint-Germain / Gérard-Majella",
+				"HORAIRE_SE" : "09:51, 10:51, 13:51, 14:51, 15:51, 18:51, 19:51, 20:51, 21:51, 22:51",
+				"HORAIRE_FDS" : "07:51, 08:51, 09:51, 10:51, 11:51, 12:51, 13:51, 14:51, 15:51, 16:51, 17:51",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "007",
+				"LATITUDE" : "48.43929738",
+				"LONGITUDE" : "-68.56444913",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717447066, 48.4362782544 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_008",
+				"NOM" : "Boul. Saint-Germain / des Braves",
+				"HORAIRE_SE" : "09:52, 10:52, 13:52, 14:52, 15:52, 18:52, 19:52, 20:52, 21:52, 22:52",
+				"HORAIRE_FDS" : "07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "008",
+				"LATITUDE" : "48.43627825",
+				"LONGITUDE" : "-68.57174471",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5748716705, 48.4349935482 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_009",
+				"NOM" : "Boul. Saint-Germain / de la Sapinière Nord",
+				"HORAIRE_SE" : "09:52, 10:52, 13:52, 14:52, 15:52, 18:52, 19:52, 20:52, 21:52, 22:52",
+				"HORAIRE_FDS" : "07:52, 08:52, 09:52, 10:52, 11:52, 12:52, 13:52, 14:52, 15:52, 16:52, 17:52",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "009",
+				"LATITUDE" : "48.43499355",
+				"LONGITUDE" : "-68.57487167",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5796498198, 48.4329724074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_010",
+				"NOM" : "Boul. Saint-Germain / des Merisiers",
+				"HORAIRE_SE" : "09:53, 10:53, 13:53, 14:53, 15:53, 18:53, 19:53, 20:53, 21:53, 22:53",
+				"HORAIRE_FDS" : "07:53, 08:53, 09:53, 10:53, 11:53, 12:53, 13:53, 14:53, 15:53, 16:53, 17:53",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "010",
+				"LATITUDE" : "48.43297241",
+				"LONGITUDE" : "-68.57964982",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5844506053, 48.4309425007 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_011",
+				"NOM" : "Boul. Saint-Germain / Lauzier",
+				"HORAIRE_SE" : "09:54, 10:54, 13:54, 14:54, 15:54, 18:54, 19:54, 20:54, 21:54, 22:54",
+				"HORAIRE_FDS" : "07:54, 08:54, 09:54, 10:54, 11:54, 12:54, 13:54, 14:54, 15:54, 16:54, 17:54",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "011",
+				"LATITUDE" : "48.4309425",
+				"LONGITUDE" : "-68.58445061",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5906624847, 48.426751308 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_012",
+				"NOM" : "Montée des Saules / Saint-Arsène (Église Sacré-Coeur)",
+				"HORAIRE_SE" : "09:55, 10:55, 13:55, 14:55, 15:55, 18:55, 19:55, 20:55, 21:55, 22:55",
+				"HORAIRE_FDS" : "07:55, 08:55, 09:55, 10:55, 11:55, 12:55, 13:55, 14:55, 15:55, 16:55, 17:55",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : "ZV",
+				"NUM_ARRET" : "012",
+				"LATITUDE" : "48.42679506",
+				"LONGITUDE" : "-68.59076655",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.589473988, 48.428256138 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_014",
+				"NOM" : "Boul. Saint-Germain / Bellevue",
+				"HORAIRE_SE" : "09:56, 10:56, 13:56, 14:56, 15:56, 18:56, 19:56, 20:56, 21:56, 22:56",
+				"HORAIRE_FDS" : "07:56, 08:56, 09:56, 10:56, 11:56, 12:56, 13:56, 14:56, 15:56, 16:56, 17:56",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "014",
+				"LATITUDE" : "48.42825614",
+				"LONGITUDE" : "-68.58947399",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5778648546, 48.4281588518 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_017",
+				"NOM" : "des Pruches / Rousseau",
+				"HORAIRE_SE" : "09:58, 10:58, 13:58, 14:58, 15:58, 18:58, 19:58, 20:58, 21:58, 22:58",
+				"HORAIRE_FDS" : "07:58, 08:58, 09:58, 10:58, 11:58, 12:58, 13:58, 14:58, 15:58, 16:58, 17:58",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "017",
+				"LATITUDE" : "48.42815885",
+				"LONGITUDE" : "-68.57786485",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5764419904, 48.4302885682 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_018",
+				"NOM" : "de l'Horizon / des Sources",
+				"HORAIRE_SE" : "09:59, 10:59, 13:59, 14:59, 15:59, 18:59, 19:59, 20:59, 21:59, 22:59",
+				"HORAIRE_FDS" : "07:59, 08:59, 09:59, 10:59, 11:59, 12:59, 13:59, 14:59, 15:59, 16:59, 17:59",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "018",
+				"LATITUDE" : "48.43028857",
+				"LONGITUDE" : "-68.57644199",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5747175241, 48.4320081952 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_019",
+				"NOM" : "des Commandeurs / du Bosquet",
+				"HORAIRE_SE" : "10:00, 11:00, 14:00, 15:00, 16:00, 19:00, 20:00, 21:00, 22:00, 23:00",
+				"HORAIRE_FDS" : "08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "019",
+				"LATITUDE" : "48.4320082",
+				"LONGITUDE" : "-68.57471752",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5717108425, 48.4360424074 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_023",
+				"NOM" : "du Bosquet / Boul. Saint-Germain",
+				"HORAIRE_SE" : "10:03, 11:03, 14:03, 15:03, 16:03, 19:03, 20:03, 21:03, 22:03, 23:03",
+				"HORAIRE_FDS" : "08:03, 09:03, 10:03, 11:03, 12:03, 13:03, 14:03, 15:03, 16:03, 17:03, 18:03",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "023",
+				"LATITUDE" : "48.43604241",
+				"LONGITUDE" : "-68.57171084",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5668432112, 48.4381844817 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_024",
+				"NOM" : "Boul. Saint-Germain / Henri-Jacob",
+				"HORAIRE_SE" : "10:04, 11:04, 14:04, 15:04, 16:04, 19:04, 20:04, 21:04, 22:04, 23:04",
+				"HORAIRE_FDS" : "08:04, 09:04, 10:04, 11:04, 12:04, 13:04, 14:04, 15:04, 16:04, 17:04, 18:04",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "024",
+				"LATITUDE" : "48.43818448",
+				"LONGITUDE" : "-68.56684321",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5547324909, 48.4419843497 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_029",
+				"NOM" : "de Lausanne / La Salle",
+				"HORAIRE_SE" : "10:06, 11:06, 14:06, 15:06, 16:06, 19:06, 20:06, 21:06, 22:06, 23:06",
+				"HORAIRE_FDS" : "08:06, 09:06, 10:06, 11:06, 12:06, 13:06, 14:06, 15:06, 16:06, 17:06, 18:06",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "029",
+				"LATITUDE" : "48.44198435",
+				"LONGITUDE" : "-68.55473249",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.550712773, 48.4429274866 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_030",
+				"NOM" : "La Salle / De Verchères",
+				"HORAIRE_SE" : "10:07, 11:07, 14:07, 15:07, 16:07, 19:07, 20:07, 21:07, 22:07, 23:07",
+				"HORAIRE_FDS" : "08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "030",
+				"LATITUDE" : "48.44292749",
+				"LONGITUDE" : "-68.55071277",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5489802427, 48.4420783774 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_031",
+				"NOM" : "De Verchères (Centre communautaire Nazareth)",
+				"HORAIRE_SE" : "10:07, 11:07, 14:07, 15:07, 16:07, 19:07, 20:07, 21:07, 22:07, 23:07",
+				"HORAIRE_FDS" : "08:07, 09:07, 10:07, 11:07, 12:07, 13:07, 14:07, 15:07, 16:07, 17:07, 18:07",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "031",
+				"LATITUDE" : "48.44207838",
+				"LONGITUDE" : "-68.54898024",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5465120601, 48.4414569097 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_032",
+				"NOM" : "St-François / boulevard St-Germain",
+				"HORAIRE_SE" : "10:08, 11:08, 14:08, 15:08, 16:08, 19:08, 20:08, 21:08, 22:08, 23:08",
+				"HORAIRE_FDS" : "08:08, 09:08, 10:08, 11:08, 12:08, 13:08, 14:08, 15:08, 16:08, 17:08, 18:08",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "032",
+				"LATITUDE" : "48.44145691",
+				"LONGITUDE" : "-68.54651206",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5410979931, 48.4438824146 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "C31_033",
+				"NOM" : "Boul. Saint-Germain (Hydro-Québec)",
+				"HORAIRE_SE" : "10:09, 11:09, 14:09, 15:09, 16:09, 19:09, 20:09, 21:09, 22:09, 23:09",
+				"HORAIRE_FDS" : "08:09, 09:09, 10:09, 11:09, 12:09, 13:09, 14:09, 15:09, 16:09, 17:09, 18:09",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : null,
+				"NUM_ARRET" : "033",
+				"LATITUDE" : "48.44388241",
+				"LONGITUDE" : "-68.54109799",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.5289895134, 48.4506556834 ]
+			},
+			"properties" : {
+				"ID_GTFS" : "Musee",
+				"NOM" : "Saint-Germain / Musée (Point de liaison)",
+				"HORAIRE_SE" : "10:15, 11:15, 14:15, 15:15, 16:15, 19:15, 20:15, 21:15, 22:15, 23:15",
+				"HORAIRE_FDS" : "08:15, 09:15, 10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15",
+				"CIRCUIT" : "C31_G",
+				"TYPE_POINTEUR" : "M",
+				"NUM_ARRET" : "034",
+				"LATITUDE" : "48.45065568",
+				"LONGITUDE" : "-68.52898951",
+				"GEOM" : "Point"
+			}
+		}
+	]
+}

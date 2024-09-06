@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ZAP</name>
+<visibility>1</visibility>
+<Schema name="ZAP" id="kml_schema_ft_ZAP">
+<SimpleField type="xsd:int" name="OBJECTID">
+<displayName>OBJECTID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MUNICIPALITE">
+<displayName>MUNICIPALITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOM_LIEU">
+<displayName>NOM_LIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="XNAD83MTM6">
+<displayName>XNAD83MTM6</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="YNAD83MTM6">
+<displayName>YNAD83MTM6</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOM_RESEAU">
+<displayName>NOM_RESEAU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MOT_PASSE">
+<displayName>MOT_PASSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DETAILS">
+<displayName>DETAILS</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="FOURNISSEUR">
+<displayName>FOURNISSEUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="GEOM">
+<displayName>GEOM</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_ZAP">
+<name>ZAP</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Aérogare Paul-Émile-Lapointe</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>230505.0820000004</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5371305.3796999995</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">1</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Aérogare Paul-Émile-Lapointe</SimpleData>
+<SimpleData name="XNAD83MTM6">230505.0820000004</SimpleData>
+<SimpleData name="YNAD83MTM6">5371305.3796999995</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5049568622128,48.4759846416125,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Bibliothèque Le Bic</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>215492.14714999963</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5359865.76025</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">3</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Bibliothèque Le Bic</SimpleData>
+<SimpleData name="XNAD83MTM6">215492.14714999963</SimpleData>
+<SimpleData name="YNAD83MTM6">5359865.76025</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.7055523490433,48.3711695459671,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Bibliothèque Pascal-Parent</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>233578.21850000042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5358376.984200001</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">4</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Bibliothèque Pascal-Parent</SimpleData>
+<SimpleData name="XNAD83MTM6">233578.21850000042</SimpleData>
+<SimpleData name="YNAD83MTM6">5358376.984200001</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.4611996817551,48.3600806904904,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Bibliothèque de Pointe-au-Père</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>233952.53830000013</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5375158.7787</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">5</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Bibliothèque de Pointe-au-Père</SimpleData>
+<SimpleData name="XNAD83MTM6">233952.53830000013</SimpleData>
+<SimpleData name="YNAD83MTM6">5375158.7787</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.4589847975223,48.5110338353136,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Pointe-au-Père</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>234177.36569999997</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5374441.290100001</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">6</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Pointe-au-Père</SimpleData>
+<SimpleData name="XNAD83MTM6">234177.36569999997</SimpleData>
+<SimpleData name="YNAD83MTM6">5374441.290100001</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.455820645399,48.504607174979,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Rimouski-Est</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>230853.55829999968</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5371617.7129999995</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">7</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Rimouski-Est</SimpleData>
+<SimpleData name="XNAD83MTM6">230853.55829999968</SimpleData>
+<SimpleData name="YNAD83MTM6">5371617.7129999995</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5002991357047,48.4788343140946,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Saint-Robert</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228852.9676000001</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5367114.6712</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">8</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Saint-Robert</SimpleData>
+<SimpleData name="XNAD83MTM6">228852.9676000001</SimpleData>
+<SimpleData name="YNAD83MTM6">5367114.6712</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5265405393568,48.4381031589955,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Sainte-Odile</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>227452.66339999996</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5366442.5682</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">9</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Sainte-Odile</SimpleData>
+<SimpleData name="XNAD83MTM6">227452.66339999996</SimpleData>
+<SimpleData name="YNAD83MTM6">5366442.5682</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5453405455138,48.4318890230855,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Sainte-Agnès Nord</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>229744.91160000023</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5369569.457699999</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">10</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Sainte-Agnès Nord</SimpleData>
+<SimpleData name="XNAD83MTM6">229744.91160000023</SimpleData>
+<SimpleData name="YNAD83MTM6">5369569.457699999</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5149263547944,48.4602844102083,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Sacré-Coeur</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>224050.23929999955</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5366101.155099999</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">11</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Sacré-Coeur</SimpleData>
+<SimpleData name="XNAD83MTM6">224050.23929999955</SimpleData>
+<SimpleData name="YNAD83MTM6">5366101.155099999</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5912496838175,48.4283921145655,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc Beauséjour</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>227918.20739999972</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5366956.933</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">12</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Parc Beauséjour</SimpleData>
+<SimpleData name="XNAD83MTM6">227918.20739999972</SimpleData>
+<SimpleData name="YNAD83MTM6">5366956.933</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5391441754454,48.4365713359719,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Parc des Anciens Combattants</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228650.6782999998</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368551.563200001</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">14</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Parc des Anciens Combattants</SimpleData>
+<SimpleData name="XNAD83MTM6">228650.6782999998</SimpleData>
+<SimpleData name="YNAD83MTM6">5368551.563200001</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5295354660911,48.4509997529539,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Salle du Conseil de ville</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228984.46270000003</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368339.315075001</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">15</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Salle du Conseil de ville</SimpleData>
+<SimpleData name="XNAD83MTM6">228984.46270000003</SimpleData>
+<SimpleData name="YNAD83MTM6">5368339.315075001</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5249850533253,48.4491314247847,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Tourisme Rimouski</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228578.4731999999</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368512.219799999</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">16</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Tourisme Rimouski</SimpleData>
+<SimpleData name="XNAD83MTM6">228578.4731999999</SimpleData>
+<SimpleData name="YNAD83MTM6">5368512.219799999</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5305043522155,48.4506372278886,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Café des Halles</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228397.43730000034</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368319.7951</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">17</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Café des Halles</SimpleData>
+<SimpleData name="XNAD83MTM6">228397.43730000034</SimpleData>
+<SimpleData name="YNAD83MTM6">5368319.7951</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5329164218125,48.4488849431911,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Pâtisseries & Gourmandises d'Olivier</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>229036.23335000034</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368743.566175001</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">18</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Pâtisseries &amp; Gourmandises d'Olivier</SimpleData>
+<SimpleData name="XNAD83MTM6">229036.23335000034</SimpleData>
+<SimpleData name="YNAD83MTM6">5368743.566175001</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5243583794141,48.4527728191365,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>La Brûlerie d'ici</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228462.52830000035</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368382.913899999</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">19</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">La Brûlerie d'ici</SimpleData>
+<SimpleData name="XNAD83MTM6">228462.52830000035</SimpleData>
+<SimpleData name="YNAD83MTM6">5368382.913899999</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5320480817636,48.4494604219343,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Le Presse Café</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228338.23259999976</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368347.166099999</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">20</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Le Presse Café</SimpleData>
+<SimpleData name="XNAD83MTM6">228338.23259999976</SimpleData>
+<SimpleData name="YNAD83MTM6">5368347.166099999</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.533721693924,48.4491238856888,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Cégep de Rimouski</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228789.51012500003</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368233.5767250005</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">22</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Cégep de Rimouski</SimpleData>
+<SimpleData name="XNAD83MTM6">228789.51012500003</SimpleData>
+<SimpleData name="YNAD83MTM6">5368233.5767250005</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5276010802427,48.4481570876184,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Collectif de Développement Régional (CRD)</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228481.9759999998</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5367866.8846</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">23</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Collectif de Développement Régional (CRD)</SimpleData>
+<SimpleData name="XNAD83MTM6">228481.9759999998</SimpleData>
+<SimpleData name="YNAD83MTM6">5367866.8846</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5316911996669,48.4448224761821,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Crêpe Chignon</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228847.04229999986</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368536.5262</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">24</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Crêpe Chignon</SimpleData>
+<SimpleData name="XNAD83MTM6">228847.04229999986</SimpleData>
+<SimpleData name="YNAD83MTM6">5368536.5262</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5268783512072,48.4508882526252,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>La SADC de la Neigette</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>229296.94359999988</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368511.0349</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">25</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">La SADC de la Neigette</SimpleData>
+<SimpleData name="XNAD83MTM6">229296.94359999988</SimpleData>
+<SimpleData name="YNAD83MTM6">5368511.0349</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5207921319179,48.45071313519,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Saint-Pie-X</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>230549.6464999998</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368455.9582</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">26</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Saint-Pie-X</SimpleData>
+<SimpleData name="XNAD83MTM6">230549.6464999998</SimpleData>
+<SimpleData name="YNAD83MTM6">5368455.9582</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5038487067709,48.4503668309726,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>27</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Terrasse Arthur-Buies</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228839.8454</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5366259.198799999</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">27</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Terrasse Arthur-Buies</SimpleData>
+<SimpleData name="XNAD83MTM6">228839.8454</SimpleData>
+<SimpleData name="YNAD83MTM6">5366259.198799999</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5265628794509,48.4304088614352,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre Curé-Soucy</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>215577.20210000034</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5359894.8891</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">28</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre Curé-Soucy</SimpleData>
+<SimpleData name="XNAD83MTM6">215577.20210000034</SimpleData>
+<SimpleData name="YNAD83MTM6">5359894.8891</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.7044106475922,48.3714434944778,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Pavillon de la Jeunesse</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>233772.41985000018</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5358365.549825</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">30</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Pavillon de la Jeunesse</SimpleData>
+<SimpleData name="XNAD83MTM6">233772.41985000018</SimpleData>
+<SimpleData name="YNAD83MTM6">5358365.549825</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.4585772187891,48.3599997323333,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre communautaire Nazareth</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>227015.1299999999</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5367506.7929</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">31</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre communautaire Nazareth</SimpleData>
+<SimpleData name="XNAD83MTM6">227015.1299999999</SimpleData>
+<SimpleData name="YNAD83MTM6">5367506.7929</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5514502035042,48.441404972233,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>32</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Restaurant Chez Oeufs</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>228321.59669999965</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368264.6383</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">32</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Restaurant Chez Oeufs</SimpleData>
+<SimpleData name="XNAD83MTM6">228321.59669999965</SimpleData>
+<SimpleData name="YNAD83MTM6">5368264.6383</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5339314975948,48.4483797493589,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>33</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Chocolaterie Pâtisserie aux Bienfaits</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>229053.05769999977</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368278.742875</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">33</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Chocolaterie Pâtisserie aux Bienfaits</SimpleData>
+<SimpleData name="XNAD83MTM6">229053.05769999977</SimpleData>
+<SimpleData name="YNAD83MTM6">5368278.742875</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5240468876844,48.4485949938838,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>34</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Piscine Saint-Germain</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>229163.37129999977</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5368146.366575001</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">34</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Piscine Saint-Germain</SimpleData>
+<SimpleData name="XNAD83MTM6">229163.37129999977</SimpleData>
+<SimpleData name="YNAD83MTM6">5368146.366575001</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5225318704523,48.4474178798471,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Pavillon Polyvalent</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>229283.3097000001</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5367997.9048999995</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">35</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Pavillon Polyvalent</SimpleData>
+<SimpleData name="XNAD83MTM6">229283.3097000001</SimpleData>
+<SimpleData name="YNAD83MTM6">5367997.9048999995</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5208839308983,48.4460972539241,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>MUNICIPALITE</th>
+<td>10043</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOM_LIEU</th>
+<td>Centre Communautaire Sainte-Agnès Sud</td>
+</tr><tr bgcolor="">
+<th>XNAD83MTM6</th>
+<td>230461.8537750002</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>YNAD83MTM6</th>
+<td>5369259.71005</td>
+</tr><tr bgcolor="">
+<th>NOM_RESEAU</th>
+<td>ZAPBSL</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MOT_PASSE</th>
+<td>Mot de passe attribué par la Z.A.P.</td>
+</tr><tr bgcolor="">
+<th>DETAILS</th>
+<td>http://zapbsl.org/pour-vous-brancher/</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FOURNISSEUR</th>
+<td>Z.A.P. du Bas-Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>GEOM</th>
+<td>Point</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_ZAP">
+<SimpleData name="OBJECTID">36</SimpleData>
+<SimpleData name="MUNICIPALITE">10043</SimpleData>
+<SimpleData name="NOM_LIEU">Centre Communautaire Sainte-Agnès Sud</SimpleData>
+<SimpleData name="XNAD83MTM6">230461.8537750002</SimpleData>
+<SimpleData name="YNAD83MTM6">5369259.71005</SimpleData>
+<SimpleData name="NOM_RESEAU">ZAPBSL</SimpleData>
+<SimpleData name="MOT_PASSE">Mot de passe attribué par la Z.A.P.</SimpleData>
+<SimpleData name="DETAILS">http://zapbsl.org/pour-vous-brancher/</SimpleData>
+<SimpleData name="FOURNISSEUR">Z.A.P. du Bas-Saint-Laurent</SimpleData>
+<SimpleData name="GEOM">Point</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-68.5051781260207,48.4575841212441,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
