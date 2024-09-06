@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>place_interet</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Places_d_intérêt">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Places d'intérêt" id="kml_schema_ft_Places_d_intérêt">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="DESCRIPTION">
+<displayName>DESCRIPTION</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Places_d_intérêt">
+<name>Places d'intérêt</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Moulin Jetté</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>859 Rue Notre-Dame, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>En 1823, Antoine Jetté a fait construire un moulin sur ses terres. Les Jetté sont demeurés propriétaires du moulin jusqu’en 1896.</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Moulins/Jette.html</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Arts, lettres et culture</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3346</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>artsetculture@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42083292923094</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76488930016869</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Places_d_intérêt</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Places_d_int�r�t">
+<SimpleData name="NOM">Moulin Jetté</SimpleData>
+<SimpleData name="ADRESSE">859 Rue Notre-Dame, Repentigny</SimpleData>
+<SimpleData name="DESCRIPTION">En 1823, Antoine Jetté a fait construire un moulin sur ses terres. Les Jetté sont demeurés propriétaires du moulin jusqu’en 1896.</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Moulins/Jette.html</SimpleData>
+<SimpleData name="CONTACT">Arts, lettres et culture</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3346</SimpleData>
+<SimpleData name="EMAIL">artsetculture@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.42083292923094</SimpleData>
+<SimpleData name="LATITUDE">45.76488930016869</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4208329292309,45.7648893001687,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Moulin Grenier</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>912 Rue Notre-Dame, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>Construit par François Grenier en 1820, le moulin Grenier a appartenu à la famille Grenier pendant plus de 80 ans. En 2003, la Ville de Repentigny est devenue propriétaire du moulin Grenier et a réalisé des restaurations majeures.</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Moulins/Grenier.html</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td>Horaire régulier (du 22 juin au 25 août); Lun et Mar: Fermé; Mer au Dim: 13 h à 17 h</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Arts, lettres et culture</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3346</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>artsetculture@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4178878636574</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.767241250011224</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Places_d_intérêt</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Places_d_int�r�t">
+<SimpleData name="NOM">Moulin Grenier</SimpleData>
+<SimpleData name="ADRESSE">912 Rue Notre-Dame, Repentigny</SimpleData>
+<SimpleData name="DESCRIPTION">Construit par François Grenier en 1820, le moulin Grenier a appartenu à la famille Grenier pendant plus de 80 ans. En 2003, la Ville de Repentigny est devenue propriétaire du moulin Grenier et a réalisé des restaurations majeures.</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Moulins/Grenier.html</SimpleData>
+<SimpleData name="HORAIRE">Horaire régulier (du 22 juin au 25 août); Lun et Mar: Fermé; Mer au Dim: 13 h à 17 h</SimpleData>
+<SimpleData name="CONTACT">Arts, lettres et culture</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3346</SimpleData>
+<SimpleData name="EMAIL">artsetculture@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.4178878636574</SimpleData>
+<SimpleData name="LATITUDE">45.767241250011224</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4178878636574,45.7672412500112,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Église Précieux-Sang</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>115 Rue Chauveau, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>La paroisse Précieux-Sang est érigée en 1962 et termine la division de l’ancienne paroisse de la Purification. L’église construite en 1968-1969 abrite des œuvres d’art contemporain de l’artiste espagnol de prestige Jordi Bonet.</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Precieux-Sang.html</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Arts, lettres et culture</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3346</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>artsetculture@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43955206624055</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75887706611828</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Places_d_intérêt</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Places_d_int�r�t">
+<SimpleData name="NOM">Église Précieux-Sang</SimpleData>
+<SimpleData name="ADRESSE">115 Rue Chauveau, Repentigny</SimpleData>
+<SimpleData name="DESCRIPTION">La paroisse Précieux-Sang est érigée en 1962 et termine la division de l’ancienne paroisse de la Purification. L’église construite en 1968-1969 abrite des œuvres d’art contemporain de l’artiste espagnol de prestige Jordi Bonet.</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Precieux-Sang.html</SimpleData>
+<SimpleData name="CONTACT">Arts, lettres et culture</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3346</SimpleData>
+<SimpleData name="EMAIL">artsetculture@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.43955206624055</SimpleData>
+<SimpleData name="LATITUDE">45.75887706611828</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4395520662406,45.7588770661183,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Église Saint-Paul-L'Ermite</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>377 Rue du Village, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>L’église Saint-Paul-l’Ermite est située en ligne droite avec celle de la Purification, mais de l’autre côté de la rivière L’Assomption. Le chœur de l’église est décoré avec des œuvres du renommé peintre italien Luigi Capello.</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Saint-Paul-L-Ermite.aspx</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Arts, lettres et culture</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3346</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>artsetculture@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47078314693653</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.751185806874595</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Places_d_intérêt</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Places_d_int�r�t">
+<SimpleData name="NOM">Église Saint-Paul-L'Ermite</SimpleData>
+<SimpleData name="ADRESSE">377 Rue du Village, Repentigny</SimpleData>
+<SimpleData name="DESCRIPTION">L’église Saint-Paul-l’Ermite est située en ligne droite avec celle de la Purification, mais de l’autre côté de la rivière L’Assomption. Le chœur de l’église est décoré avec des œuvres du renommé peintre italien Luigi Capello.</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Saint-Paul-L-Ermite.aspx</SimpleData>
+<SimpleData name="CONTACT">Arts, lettres et culture</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3346</SimpleData>
+<SimpleData name="EMAIL">artsetculture@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.47078314693653</SimpleData>
+<SimpleData name="LATITUDE">45.751185806874595</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4707831469365,45.7511858068746,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Église de la Purification-de-la-Bienheureuse-Vierge-Marie</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>445 Rue Notre-Dame, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>L’église de la Purification-de-la-Bienheureuse-Vierge-Marie est la plus ancienne du diocèse de Montréal et l’une des plus vieilles au Québec. Elle est classée « monument historique ».</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/de-la-Purification.aspx</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Arts, lettres et culture</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3346</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>artsetculture@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44713198862421</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7390749660064</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Places_d_intérêt</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Places_d_int�r�t">
+<SimpleData name="NOM">Église de la Purification-de-la-Bienheureuse-Vierge-Marie</SimpleData>
+<SimpleData name="ADRESSE">445 Rue Notre-Dame, Repentigny</SimpleData>
+<SimpleData name="DESCRIPTION">L’église de la Purification-de-la-Bienheureuse-Vierge-Marie est la plus ancienne du diocèse de Montréal et l’une des plus vieilles au Québec. Elle est classée « monument historique ».</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/de-la-Purification.aspx</SimpleData>
+<SimpleData name="CONTACT">Arts, lettres et culture</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3346</SimpleData>
+<SimpleData name="EMAIL">artsetculture@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.44713198862421</SimpleData>
+<SimpleData name="LATITUDE">45.7390749660064</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4471319886242,45.7390749660064,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Église Notre-Dame-des-Champs</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>187 Boulevard Iberville, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESCRIPTION</th>
+<td>Dessinée par le célèbre architecte Roger d’Astous, l’église Notre-Dame-des-Champs est une œuvre architecturale reconnue dont la forme rappelle des mains en prière.</td>
+</tr><tr bgcolor="">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Notre-Dame-des-Champs.aspx</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Arts, lettres et culture</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3346</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>artsetculture@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47029554409525</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.721134710692816</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Places_d_intérêt</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Places_d_int�r�t">
+<SimpleData name="NOM">Église Notre-Dame-des-Champs</SimpleData>
+<SimpleData name="ADRESSE">187 Boulevard Iberville, Repentigny</SimpleData>
+<SimpleData name="DESCRIPTION">Dessinée par le célèbre architecte Roger d’Astous, l’église Notre-Dame-des-Champs est une œuvre architecturale reconnue dont la forme rappelle des mains en prière.</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Notre-Dame-des-Champs.aspx</SimpleData>
+<SimpleData name="CONTACT">Arts, lettres et culture</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3346</SimpleData>
+<SimpleData name="EMAIL">artsetculture@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.47029554409525</SimpleData>
+<SimpleData name="LATITUDE">45.721134710692816</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4702955440953,45.7211347106928,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

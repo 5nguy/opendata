@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>rampe_bateau</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_Rampe_de_bateau">
+<LineStyle>
+<color>ffff7207</color>
+</LineStyle>
+<PolyStyle>
+<color>b0f6ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="Rampe de bateau" id="kml_schema_ft_Rampe_de_bateau">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Rampe_de_bateau">
+<name>Rampe de bateau</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Rampe de mise à l'eau du parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>280 Rue Notre-Dame, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/vie-citoyenne/permis-et-urbanisme/rampe-de-mise-a-l-eau-du-parc-saint-laurent.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Accessible seulement pour les détenteurs d'un permis d’utilisation; Descente en béton et quai flottant; Stationnement de 40 places réservées aux détenteurs d'un permis d’utilisation; Ouverture tous les jours de 7 h à 23 h, du 22 mai au 9 octobre 2017.</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>CONTACT</th>
+<td>Loisirs, sports et vie communautaire</td>
+</tr><tr bgcolor="">
+<th>TELEPHONE</th>
+<td>450-470-3400</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EMAIL</th>
+<td>loisirs@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="">
+<th>MISEAJOUR</th>
+<td>20170105</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45699231759424</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72568803799436</td>
+</tr></table></center>]]></description>
+<styleUrl>#kml_style_ft_Rampe_de_bateau</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Rampe_de_bateau">
+<SimpleData name="NOM">Rampe de mise à l'eau du parc Saint-Laurent</SimpleData>
+<SimpleData name="ADRESSE">280 Rue Notre-Dame, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/vie-citoyenne/permis-et-urbanisme/rampe-de-mise-a-l-eau-du-parc-saint-laurent.html</SimpleData>
+<SimpleData name="HORAIRE">Accessible seulement pour les détenteurs d'un permis d’utilisation; Descente en béton et quai flottant; Stationnement de 40 places réservées aux détenteurs d'un permis d’utilisation; Ouverture tous les jours de 7 h à 23 h, du 22 mai au 9 octobre 2017.</SimpleData>
+<SimpleData name="CONTACT">Loisirs, sports et vie communautaire</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3400</SimpleData>
+<SimpleData name="EMAIL">loisirs@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170105</SimpleData>
+<SimpleData name="LONGITUDE">-73.45699231759424</SimpleData>
+<SimpleData name="LATITUDE">45.72568803799436</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4569923175942,45.7256880379944,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

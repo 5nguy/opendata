@@ -1,0 +1,21 @@
+[
+	{
+		"json_featuretype" : "Site de vidange",
+		"NOM" : "Site de vidange pour VR",
+		"ADRESSE" : "96 Rue de la Couronne, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-citoyenne/environnement/collectes/vidanges-rv.html",
+		"HORAIRE" : "Service offert gratuitement et disponible 24 h sur 24 h, de mai à octobre.",
+		"NOTES" : "Tout rejet résultant d’une activité commerciale ou industrielle ou contenant des matières dangereuses est prohibé en tout temps.",
+		"CONTACT" : "Info-environnement",
+		"TELEPHONE" : "450-470-3830",
+		"EMAIL" : "info-environnement@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20141210",
+		"LONGITUDE" : "-73.49152266419041",
+		"LATITUDE" : "45.73591548343245",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.49152266419041, 45.73591548343245 ]
+		}
+	}
+]

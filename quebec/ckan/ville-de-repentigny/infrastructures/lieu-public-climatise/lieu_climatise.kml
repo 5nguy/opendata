@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>lieu_climatise</name>
+<visibility>1</visibility>
+<Schema name="Lieu Climatise" id="kml_schema_ft_Lieu_Climatise">
+<SimpleField type="xsd:int" name="IDLIEU">
+<displayName>IDLIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOMLIEU">
+<displayName>NOMLIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TYPELIEU">
+<displayName>TYPELIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="IDADRESSE">
+<displayName>IDADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSECIV">
+<displayName>ADRESSECIV</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CODEPOSTAL">
+<displayName>CODEPOSTAL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="COMMODITE">
+<displayName>COMMODITE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HEURES">
+<displayName>HEURES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="COURRIEL">
+<displayName>COURRIEL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Lieu_Climatise">
+<name>Lieu Climatise</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Centre de service</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>9338</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1, place d'Évry</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 8H7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td>WIFI, TOILETTES, BORNES DE RECHARGE</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>LUNDI À JEUDI DE 10H À 21H, VENDREDI ET SAMEDI DE 9H À 17H, DIMANCHE DE 13H À 17H</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://repentigny.ca/culture-loisirs/culture/bibliotheques/robert-lussier</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45194954285482</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.741062303402884</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">1</SimpleData>
+<SimpleData name="NOMLIEU">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TYPELIEU">Centre de service</SimpleData>
+<SimpleData name="IDADRESSE">9338</SimpleData>
+<SimpleData name="ADRESSECIV">1, place d'Évry</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 8H7</SimpleData>
+<SimpleData name="COMMODITE">WIFI, TOILETTES, BORNES DE RECHARGE</SimpleData>
+<SimpleData name="HEURES">LUNDI À JEUDI DE 10H À 21H, VENDREDI ET SAMEDI DE 9H À 17H, DIMANCHE DE 13H À 17H</SimpleData>
+<SimpleData name="SITEWEB">https://repentigny.ca/culture-loisirs/culture/bibliotheques/robert-lussier</SimpleData>
+<SimpleData name="COURRIEL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="LONGITUDE">-73.45194954285482</SimpleData>
+<SimpleData name="LATITUDE">45.741062303402884</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4519495428548,45.7410623034029,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Bibliothèque Edmond-Archambault</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Centre de service</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>12826</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>231, boulevard J.-A.-Paré</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 4M6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td>WIFI</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>MARDI À JEUDI DE 13H À 21H, VENDREDI DE 9H À 17H, SAMEDI DE 13H À 17H, DIMANCHE À LUNDI FERMÉ</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://repentigny.ca/culture-loisirs/culture/bibliotheques/edmond-archambault</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4771619330956</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76287162122239</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">2</SimpleData>
+<SimpleData name="NOMLIEU">Bibliothèque Edmond-Archambault</SimpleData>
+<SimpleData name="TYPELIEU">Centre de service</SimpleData>
+<SimpleData name="IDADRESSE">12826</SimpleData>
+<SimpleData name="ADRESSECIV">231, boulevard J.-A.-Paré</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 4M6</SimpleData>
+<SimpleData name="COMMODITE">WIFI</SimpleData>
+<SimpleData name="HEURES">MARDI À JEUDI DE 13H À 21H, VENDREDI DE 9H À 17H, SAMEDI DE 13H À 17H, DIMANCHE À LUNDI FERMÉ</SimpleData>
+<SimpleData name="SITEWEB">https://repentigny.ca/culture-loisirs/culture/bibliotheques/edmond-archambault</SimpleData>
+<SimpleData name="COURRIEL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="LONGITUDE">-73.4771619330956</SimpleData>
+<SimpleData name="LATITUDE">45.76287162122239</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4771619330956,45.7628716212224,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Centre aquatique Jacques-Dupuis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Centre de service</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>28643</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>130, rue Valmont</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 1N9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td>PISCINES, PATAUGEOIRE, TOILETTES, WIFI</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>LUNDI À VENDREDI DE 6H À 22H, SAMEDI ET DIMANCHE DE 8H30 À 21H</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://repentigny.ca/culture-loisirs/sports/piscines-jeux-deau/centre-aquatique-jacques-dupuis</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>centreaquatiquejacquesdupuis@repentigny.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3440</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.43557740646389</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76466322310793</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">3</SimpleData>
+<SimpleData name="NOMLIEU">Centre aquatique Jacques-Dupuis</SimpleData>
+<SimpleData name="TYPELIEU">Centre de service</SimpleData>
+<SimpleData name="IDADRESSE">28643</SimpleData>
+<SimpleData name="ADRESSECIV">130, rue Valmont</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 1N9</SimpleData>
+<SimpleData name="COMMODITE">PISCINES, PATAUGEOIRE, TOILETTES, WIFI</SimpleData>
+<SimpleData name="HEURES">LUNDI À VENDREDI DE 6H À 22H, SAMEDI ET DIMANCHE DE 8H30 À 21H</SimpleData>
+<SimpleData name="SITEWEB">https://repentigny.ca/culture-loisirs/sports/piscines-jeux-deau/centre-aquatique-jacques-dupuis</SimpleData>
+<SimpleData name="COURRIEL">centreaquatiquejacquesdupuis@repentigny.ca</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3440</SimpleData>
+<SimpleData name="LONGITUDE">-73.43557740646389</SimpleData>
+<SimpleData name="LATITUDE">45.76466322310793</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4355774064639,45.7646632231079,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Complexe sportif Gilles-Tremblay</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Lieu ouvert au public</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>13165</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>223, rue Jacques-Plante</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 0B4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td>WIFI</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>LUNDI À VENDREDI DE 9H À 21H, SAMEDI ET DIMANCHE FERMÉ</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.gymrepentigny.ca/</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>info@complexesportifrepentigny.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-585-1661</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41223560448276</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78983082126476</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">4</SimpleData>
+<SimpleData name="NOMLIEU">Complexe sportif Gilles-Tremblay</SimpleData>
+<SimpleData name="TYPELIEU">Lieu ouvert au public</SimpleData>
+<SimpleData name="IDADRESSE">13165</SimpleData>
+<SimpleData name="ADRESSECIV">223, rue Jacques-Plante</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 0B4</SimpleData>
+<SimpleData name="COMMODITE">WIFI</SimpleData>
+<SimpleData name="HEURES">LUNDI À VENDREDI DE 9H À 21H, SAMEDI ET DIMANCHE FERMÉ</SimpleData>
+<SimpleData name="SITEWEB">https://www.gymrepentigny.ca/</SimpleData>
+<SimpleData name="COURRIEL">info@complexesportifrepentigny.ca</SimpleData>
+<SimpleData name="TELEPHONE">450-585-1661</SimpleData>
+<SimpleData name="LONGITUDE">-73.41223560448276</SimpleData>
+<SimpleData name="LATITUDE">45.78983082126476</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4122356044828,45.7898308212648,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Hôtel de Ville de Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Lieu ouvert au public</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>12167</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>435, boulevard Iberville</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2B6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>LUNDI À MERCREDI DE 8H30 À 12H ET DE 13H À 16H30, JEUDI DE 8H30 À 12H ET DE 13H À 17H30, VENDREDI DE 8H À 12H, SAMEDI ET DIMANCHE FERMÉ</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://repentigny.ca/la-ville/a-propos/nous-joindre</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3000</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45127154207269</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74194645828648</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">5</SimpleData>
+<SimpleData name="NOMLIEU">Hôtel de Ville de Repentigny</SimpleData>
+<SimpleData name="TYPELIEU">Lieu ouvert au public</SimpleData>
+<SimpleData name="IDADRESSE">12167</SimpleData>
+<SimpleData name="ADRESSECIV">435, boulevard Iberville</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2B6</SimpleData>
+<SimpleData name="HEURES">LUNDI À MERCREDI DE 8H30 À 12H ET DE 13H À 16H30, JEUDI DE 8H30 À 12H ET DE 13H À 17H30, VENDREDI DE 8H À 12H, SAMEDI ET DIMANCHE FERMÉ</SimpleData>
+<SimpleData name="SITEWEB">https://repentigny.ca/la-ville/a-propos/nous-joindre</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3000</SimpleData>
+<SimpleData name="LONGITUDE">-73.45127154207269</SimpleData>
+<SimpleData name="LATITUDE">45.74194645828648</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4512715420727,45.7419464582865,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Centre d'art Diane-Dufresne</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Lieu ouvert au public</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>36111</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>11, allée de la Création</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 0C2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td>WIFI</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://espaceculturel.repentigny.ca/fr/centre-art-diane-dufresne</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3010</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44893220146729</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73860992602219</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">6</SimpleData>
+<SimpleData name="NOMLIEU">Centre d'art Diane-Dufresne</SimpleData>
+<SimpleData name="TYPELIEU">Lieu ouvert au public</SimpleData>
+<SimpleData name="IDADRESSE">36111</SimpleData>
+<SimpleData name="ADRESSECIV">11, allée de la Création</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 0C2</SimpleData>
+<SimpleData name="COMMODITE">WIFI</SimpleData>
+<SimpleData name="SITEWEB">https://espaceculturel.repentigny.ca/fr/centre-art-diane-dufresne</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3010</SimpleData>
+<SimpleData name="LONGITUDE">-73.44893220146729</SimpleData>
+<SimpleData name="LATITUDE">45.73860992602219</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4489322014673,45.7386099260222,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Théâtre Alphonse-Desjardins</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Lieu ouvert au public</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>81545</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>25, allée de la Création</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 0C2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>JEUDI À SAMEDI DE 12H À 18H, DIMANCHE À MERCREDI FERMÉ</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://alphonse-desjardins.com/</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>billetterie@hector-charland.com</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-589-9198</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44991963968513</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.739076835892746</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">7</SimpleData>
+<SimpleData name="NOMLIEU">Théâtre Alphonse-Desjardins</SimpleData>
+<SimpleData name="TYPELIEU">Lieu ouvert au public</SimpleData>
+<SimpleData name="IDADRESSE">81545</SimpleData>
+<SimpleData name="ADRESSECIV">25, allée de la Création</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 0C2</SimpleData>
+<SimpleData name="HEURES">JEUDI À SAMEDI DE 12H À 18H, DIMANCHE À MERCREDI FERMÉ</SimpleData>
+<SimpleData name="SITEWEB">https://alphonse-desjardins.com/</SimpleData>
+<SimpleData name="COURRIEL">billetterie@hector-charland.com</SimpleData>
+<SimpleData name="TELEPHONE">450-589-9198</SimpleData>
+<SimpleData name="LONGITUDE">-73.44991963968513</SimpleData>
+<SimpleData name="LATITUDE">45.739076835892746</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4499196396851,45.7390768358927,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Galeries Rive Nord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Lieu ouvert au public</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>81499</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>100, boulevard Brien</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 5N4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>LUNDI À MERCREDI DE 10H À 18H, JEUDI ET VENDREDI DE 10H À 21H, SAMEDI DE 9H À 17H, DIMANCHE DE 10H À 17H</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://galeriesrivenord.com/</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>information@galeriesrivenord.com</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-585-1524</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45860489364999</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.741895362222536</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">8</SimpleData>
+<SimpleData name="NOMLIEU">Galeries Rive Nord</SimpleData>
+<SimpleData name="TYPELIEU">Lieu ouvert au public</SimpleData>
+<SimpleData name="IDADRESSE">81499</SimpleData>
+<SimpleData name="ADRESSECIV">100, boulevard Brien</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 5N4</SimpleData>
+<SimpleData name="HEURES">LUNDI À MERCREDI DE 10H À 18H, JEUDI ET VENDREDI DE 10H À 21H, SAMEDI DE 9H À 17H, DIMANCHE DE 10H À 17H</SimpleData>
+<SimpleData name="SITEWEB">https://galeriesrivenord.com/</SimpleData>
+<SimpleData name="COURRIEL">information@galeriesrivenord.com</SimpleData>
+<SimpleData name="TELEPHONE">450-585-1524</SimpleData>
+<SimpleData name="LONGITUDE">-73.45860489364999</SimpleData>
+<SimpleData name="LATITUDE">45.741895362222536</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.45860489365,45.7418953622225,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDLIEU</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Place Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TYPELIEU</th>
+<td>Lieu ouvert au public</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>21689</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>155, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 5L3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COMMODITE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>LUNDI À MERCREDI DE 9H30 À 18H, JEUDI ET VENDREDI DE 9H30 À 21H, SAMEDI DE 9H À 17H, DIMANCHE DE 10H À 17H</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.cogir.net/centre-commercial-repentigny/176-place-repentigny.html</td>
+</tr><tr bgcolor="">
+<th>COURRIEL</th>
+<td>llaurendeau@cogir.net</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-766-1936</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47180726822036</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.71840991843566</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lieu_Climatise">
+<SimpleData name="IDLIEU">9</SimpleData>
+<SimpleData name="NOMLIEU">Place Repentigny</SimpleData>
+<SimpleData name="TYPELIEU">Lieu ouvert au public</SimpleData>
+<SimpleData name="IDADRESSE">21689</SimpleData>
+<SimpleData name="ADRESSECIV">155, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 5L3</SimpleData>
+<SimpleData name="HEURES">LUNDI À MERCREDI DE 9H30 À 18H, JEUDI ET VENDREDI DE 9H30 À 21H, SAMEDI DE 9H À 17H, DIMANCHE DE 10H À 17H</SimpleData>
+<SimpleData name="SITEWEB">https://www.cogir.net/centre-commercial-repentigny/176-place-repentigny.html</SimpleData>
+<SimpleData name="COURRIEL">llaurendeau@cogir.net</SimpleData>
+<SimpleData name="TELEPHONE">450-766-1936</SimpleData>
+<SimpleData name="LONGITUDE">-73.47180726822036</SimpleData>
+<SimpleData name="LATITUDE">45.71840991843566</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4718072682204,45.7184099184357,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

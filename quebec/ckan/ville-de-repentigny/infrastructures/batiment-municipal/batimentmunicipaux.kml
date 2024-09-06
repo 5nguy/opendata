@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>batiment_municipaux</name>
+<visibility>1</visibility>
+<Schema name="Bâtiments municipaux" id="kml_schema_ft_Bâtiments_municipaux">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOTES">
+<displayName>NOTES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Bâtiments_municipaux">
+<name>Bâtiments municipaux</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Hôtel de ville</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>435 Boulevard Iberville, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Coordonnees.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30; Jeu: 8 h 30 à 12 h et 13 h à 17 h 30; Ven: 8 h à 12 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>L’hôtel de ville actuel a été inauguré en 1989, tout à-côté de l'ancien édifice municipal qui abrite maintenant la bibliothèque.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Hôtel de ville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3001</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45130082821099</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74183720292935</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Hôtel de ville</SimpleData>
+<SimpleData name="ADRESSE">435 Boulevard Iberville, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Coordonnees.html</SimpleData>
+<SimpleData name="HORAIRE">Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30; Jeu: 8 h 30 à 12 h et 13 h à 17 h 30; Ven: 8 h à 12 h</SimpleData>
+<SimpleData name="NOTES">L’hôtel de ville actuel a été inauguré en 1989, tout à-côté de l'ancien édifice municipal qui abrite maintenant la bibliothèque.</SimpleData>
+<SimpleData name="CONTACT">Hôtel de ville</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3001</SimpleData>
+<SimpleData name="LONGITUDE">-73.45130082821099</SimpleData>
+<SimpleData name="LATITUDE">45.74183720292935</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.451300828211,45.7418372029293,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Parcs et espaces verts</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>115 Rue Laroche, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Parcs.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun au Jeu: 7 h à 11 h 30 et 12 h à 16 h; Ven: 7 h à 11 h 45</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Le territoire de la ville de Repentigny compte 56 parcs et 150 espaces verts accessibles à la population toute l'année.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Parcs et espaces verts</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3790</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>parcs@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44889631577482</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7525136838676</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Parcs et espaces verts</SimpleData>
+<SimpleData name="ADRESSE">115 Rue Laroche, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Parcs.aspx</SimpleData>
+<SimpleData name="HORAIRE">Lun au Jeu: 7 h à 11 h 30 et 12 h à 16 h; Ven: 7 h à 11 h 45</SimpleData>
+<SimpleData name="NOTES">Le territoire de la ville de Repentigny compte 56 parcs et 150 espaces verts accessibles à la population toute l'année.</SimpleData>
+<SimpleData name="CONTACT">Parcs et espaces verts</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3790</SimpleData>
+<SimpleData name="EMAIL">parcs@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.44889631577482</SimpleData>
+<SimpleData name="LATITUDE">45.7525136838676</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4488963157748,45.7525136838676,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Travaux publics</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>130 Rue Landreville, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Travaux-publics.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun au Jeu: 7 h à 11 h 30 et 12 h à 16 h; Ven: 7 h à 11 h 45</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Le Service des travaux publics voit à l’entretien des infrastructures de la Ville de Repentigny. Il traite annuellement près de 5 000 requêtes de citoyens.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Travaux publics</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3800</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>travaux-publics@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4498344722401</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75022856796997</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Travaux publics</SimpleData>
+<SimpleData name="ADRESSE">130 Rue Landreville, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Travaux-publics.aspx</SimpleData>
+<SimpleData name="HORAIRE">Lun au Jeu: 7 h à 11 h 30 et 12 h à 16 h; Ven: 7 h à 11 h 45</SimpleData>
+<SimpleData name="NOTES">Le Service des travaux publics voit à l’entretien des infrastructures de la Ville de Repentigny. Il traite annuellement près de 5 000 requêtes de citoyens.</SimpleData>
+<SimpleData name="CONTACT">Travaux publics</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3800</SimpleData>
+<SimpleData name="EMAIL">travaux-publics@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.4498344722401</SimpleData>
+<SimpleData name="LATITUDE">45.75022856796997</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4498344722401,45.75022856797,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Centre aquatique Jacques-Dupuis</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>130 Rue Valmont, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/piscine.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun et Mer: 6 h à 21 h; Mar et Jeu: 7 h à 22 h; Ven: 6 h à 17h; Sam: 14 h à 20 h; Dim: 14 h à 21 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Ça bouge à Repentigny lorsqu'il est question d'activités aquatiques! La piscine est un lieu convivial où tous les membres de la famille y trouveront leur compte.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Piscine municipale</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3440</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>piscine@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4352769299045</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.764765237194936</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Centre aquatique Jacques-Dupuis</SimpleData>
+<SimpleData name="ADRESSE">130 Rue Valmont, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/piscine.aspx</SimpleData>
+<SimpleData name="HORAIRE">Lun et Mer: 6 h à 21 h; Mar et Jeu: 7 h à 22 h; Ven: 6 h à 17h; Sam: 14 h à 20 h; Dim: 14 h à 21 h</SimpleData>
+<SimpleData name="NOTES">Ça bouge à Repentigny lorsqu'il est question d'activités aquatiques! La piscine est un lieu convivial où tous les membres de la famille y trouveront leur compte.</SimpleData>
+<SimpleData name="CONTACT">Piscine municipale</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3440</SimpleData>
+<SimpleData name="EMAIL">piscine@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.4352769299045</SimpleData>
+<SimpleData name="LATITUDE">45.764765237194936</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4352769299045,45.7647652371949,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Centre communautaire Laurent-Venne</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>225 Boulevard J.-A.-Paré, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/vie-animee/activites-sportives-recreatives/nos-centres-partenaires/centre-communautaire-laurent-venne.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun au Ven: 8 h à 22 h; Sam et Dim: 9 h à 17 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>La programmation hiver 2014 du Centre communautaire Laurent-Venne comprend plus de 60 activités s’adressant à toute la famille.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Centre communautaire Laurent-Venne</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-657-4877</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>ctrcommunautairerepentigny@bellnet.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47694129224527</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.762653952934485</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Centre communautaire Laurent-Venne</SimpleData>
+<SimpleData name="ADRESSE">225 Boulevard J.-A.-Paré, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/vie-animee/activites-sportives-recreatives/nos-centres-partenaires/centre-communautaire-laurent-venne.html</SimpleData>
+<SimpleData name="HORAIRE">Lun au Ven: 8 h à 22 h; Sam et Dim: 9 h à 17 h</SimpleData>
+<SimpleData name="NOTES">La programmation hiver 2014 du Centre communautaire Laurent-Venne comprend plus de 60 activités s’adressant à toute la famille.</SimpleData>
+<SimpleData name="CONTACT">Centre communautaire Laurent-Venne</SimpleData>
+<SimpleData name="TELEPHONE">450-657-4877</SimpleData>
+<SimpleData name="EMAIL">ctrcommunautairerepentigny@bellnet.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.47694129224527</SimpleData>
+<SimpleData name="LATITUDE">45.762653952934485</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4769412922453,45.7626539529345,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Centre récréatif de Repentigny</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>740 Rue Pontbriand, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.centrerecreatifrepentigny.com/</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Les plages horaires peuvent varier en fonction de la tenue d’événements sportifs et des réservations.</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Le Centre récréatif regroupe plusieurs organismes partenaires sportifs, culturels et communautaires de la Ville de Repentigny. C’est également un centre de référence en multi-santé et services complémentaires.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Centre récréatif de Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-657-8988</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>info@crrepentigny.com</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45315506414514</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75679637993674</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Centre récréatif de Repentigny</SimpleData>
+<SimpleData name="ADRESSE">740 Rue Pontbriand, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.centrerecreatifrepentigny.com/</SimpleData>
+<SimpleData name="HORAIRE">Les plages horaires peuvent varier en fonction de la tenue d’événements sportifs et des réservations.</SimpleData>
+<SimpleData name="NOTES">Le Centre récréatif regroupe plusieurs organismes partenaires sportifs, culturels et communautaires de la Ville de Repentigny. C’est également un centre de référence en multi-santé et services complémentaires.</SimpleData>
+<SimpleData name="CONTACT">Centre récréatif de Repentigny</SimpleData>
+<SimpleData name="TELEPHONE">450-657-8988</SimpleData>
+<SimpleData name="EMAIL">info@crrepentigny.com</SimpleData>
+<SimpleData name="LONGITUDE">-73.45315506414514</SimpleData>
+<SimpleData name="LATITUDE">45.75679637993674</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4531550641451,45.7567963799367,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Complexe sportif Gilles-Tremblay</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>223 Rue Jacques-Plante, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.gymrepentigny.ca/</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Les plages horaires peuvent varier en fonction de la tenue d’événements sportifs et des réservations.</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Inauguré en septembre 2006, le Complexe sportif de Repentigny porte le nom Gilles-Tremblay en l'honneur de l'ancien joueur des Canadiens de Montréal, qui habite Repentigny depuis nombre d'années.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Complexe sportif Gilles-Tremblay</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-585-1661</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>centresportif1@bellnet.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41259462977894</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.790104747728705</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Complexe sportif Gilles-Tremblay</SimpleData>
+<SimpleData name="ADRESSE">223 Rue Jacques-Plante, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.gymrepentigny.ca/</SimpleData>
+<SimpleData name="HORAIRE">Les plages horaires peuvent varier en fonction de la tenue d’événements sportifs et des réservations.</SimpleData>
+<SimpleData name="NOTES">Inauguré en septembre 2006, le Complexe sportif de Repentigny porte le nom Gilles-Tremblay en l'honneur de l'ancien joueur des Canadiens de Montréal, qui habite Repentigny depuis nombre d'années.</SimpleData>
+<SimpleData name="CONTACT">Complexe sportif Gilles-Tremblay</SimpleData>
+<SimpleData name="TELEPHONE">450-585-1661</SimpleData>
+<SimpleData name="EMAIL">centresportif1@bellnet.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.41259462977894</SimpleData>
+<SimpleData name="LATITUDE">45.790104747728705</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4125946297789,45.7901047477287,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Station de traitement des eaux usées</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>45 Rue Lebel, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eaux-usees.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Les eaux usées sont chargées de différents éléments néfastes pour l’environnement. Avant d’être rejetées dans les cours d’eau, elles passent donc immanquablement par les systèmes de traitement municipaux aux fins de dépollution.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Station de traitement des eaux usées</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3880</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>asselinb@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4449379631372</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.736144222285716</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Station de traitement des eaux usées</SimpleData>
+<SimpleData name="ADRESSE">45 Rue Lebel, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eaux-usees.aspx</SimpleData>
+<SimpleData name="NOTES">Les eaux usées sont chargées de différents éléments néfastes pour l’environnement. Avant d’être rejetées dans les cours d’eau, elles passent donc immanquablement par les systèmes de traitement municipaux aux fins de dépollution.</SimpleData>
+<SimpleData name="CONTACT">Station de traitement des eaux usées</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3880</SimpleData>
+<SimpleData name="EMAIL">asselinb@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.4449379631372</SimpleData>
+<SimpleData name="LATITUDE">45.736144222285716</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4449379631372,45.7361442222857,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Station de purification de l'eau</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>535 Rue de la Traverse, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eau-potable.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>L’eau qui coule aux robinets des Repentignois et Repentignoises est un produit qui fait l’objet d’un contrôle des plus rigoureux. Elle doit subir une série de traitements pour éliminer toutes traces de son long parcours en milieu naturel.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Station de purification de l'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3870</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>valiquetter@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46787987368495</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74886011023294</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Station de purification de l'eau</SimpleData>
+<SimpleData name="ADRESSE">535 Rue de la Traverse, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eau-potable.aspx</SimpleData>
+<SimpleData name="NOTES">L’eau qui coule aux robinets des Repentignois et Repentignoises est un produit qui fait l’objet d’un contrôle des plus rigoureux. Elle doit subir une série de traitements pour éliminer toutes traces de son long parcours en milieu naturel.</SimpleData>
+<SimpleData name="CONTACT">Station de purification de l'eau</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3870</SimpleData>
+<SimpleData name="EMAIL">valiquetter@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.46787987368495</SimpleData>
+<SimpleData name="LATITUDE">45.74886011023294</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.467879873685,45.7488601102329,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Station de traitement par étangs aérés</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>45 Place des Roseaux, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eaux-usees.aspx</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Utilisé pour le traitement biologique des eaux usées, ce procédé se compose de 4 bassins aérés retenus par des digues. Les micro-organismes présents naturellement dans les rejets sanitaires dégradent les charges polluantes charriées par les eaux usées.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Station de traitement par étangs aérés</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3883</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>boulanger.christian@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.48934079470583</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73678788734631</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Station de traitement par étangs aérés</SimpleData>
+<SimpleData name="ADRESSE">45 Place des Roseaux, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eaux-usees.aspx</SimpleData>
+<SimpleData name="NOTES">Utilisé pour le traitement biologique des eaux usées, ce procédé se compose de 4 bassins aérés retenus par des digues. Les micro-organismes présents naturellement dans les rejets sanitaires dégradent les charges polluantes charriées par les eaux usées.</SimpleData>
+<SimpleData name="CONTACT">Station de traitement par étangs aérés</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3883</SimpleData>
+<SimpleData name="EMAIL">boulanger.christian@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.48934079470583</SimpleData>
+<SimpleData name="LATITUDE">45.73678788734631</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4893407947058,45.7367878873463,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Centre d'art Diane-Dufresne</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>11 Allée de la Création, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/vie-animee/centre-d%E2%80%99art-diane-dufresne/a-propos-du-centre-d%E2%80%99art-diane-dufresne.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Mer et Jeu: 13 h à 17 h et 19 h à 21 h; Ven à Dim: 13 h à 17 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Ce nouveau lieu est une destination incontournable pour la création et la diffusion culturelle, un phare pour les visiteurs et pour ceux et celles qui apprécient la création sous toutes ses formes.</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Centre d’art Diane-Dufresne</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3010</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>cadd@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44915933530348</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73877672668537</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_B�timents_municipaux">
+<SimpleData name="NOM">Centre d'art Diane-Dufresne</SimpleData>
+<SimpleData name="ADRESSE">11 Allée de la Création, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/vie-animee/centre-d%E2%80%99art-diane-dufresne/a-propos-du-centre-d%E2%80%99art-diane-dufresne.html</SimpleData>
+<SimpleData name="HORAIRE">Mer et Jeu: 13 h à 17 h et 19 h à 21 h; Ven à Dim: 13 h à 17 h</SimpleData>
+<SimpleData name="NOTES">Ce nouveau lieu est une destination incontournable pour la création et la diffusion culturelle, un phare pour les visiteurs et pour ceux et celles qui apprécient la création sous toutes ses formes.</SimpleData>
+<SimpleData name="CONTACT">Centre d’art Diane-Dufresne</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3010</SimpleData>
+<SimpleData name="EMAIL">cadd@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="LONGITUDE">-73.44915933530348</SimpleData>
+<SimpleData name="LATITUDE">45.73877672668537</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4491593353035,45.7387767266854,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

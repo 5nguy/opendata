@@ -1,0 +1,215 @@
+{
+	"name" : "Bâtiments municipaux",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45130082821099, 45.74183720292935 ]
+			},
+			"properties" : {
+				"NOM" : "Hôtel de ville",
+				"ADRESSE" : "435 Boulevard Iberville, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Coordonnees.html",
+				"HORAIRE" : "Lun au Mer: 8 h 30 à 12 h et 13 h à 16 h 30; Jeu: 8 h 30 à 12 h et 13 h à 17 h 30; Ven: 8 h à 12 h",
+				"NOTES" : "L’hôtel de ville actuel a été inauguré en 1989, tout à-côté de l'ancien édifice municipal qui abrite maintenant la bibliothèque.",
+				"CONTACT" : "Hôtel de ville",
+				"TELEPHONE" : "450-470-3001",
+				"EMAIL" : "",
+				"LONGITUDE" : "-73.45130082821099",
+				"LATITUDE" : "45.74183720292935"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44889631577482, 45.7525136838676 ]
+			},
+			"properties" : {
+				"NOM" : "Parcs et espaces verts",
+				"ADRESSE" : "115 Rue Laroche, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Parcs.aspx",
+				"HORAIRE" : "Lun au Jeu: 7 h à 11 h 30 et 12 h à 16 h; Ven: 7 h à 11 h 45",
+				"NOTES" : "Le territoire de la ville de Repentigny compte 56 parcs et 150 espaces verts accessibles à la population toute l'année.",
+				"CONTACT" : "Parcs et espaces verts",
+				"TELEPHONE" : "450-470-3790",
+				"EMAIL" : "parcs@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.44889631577482",
+				"LATITUDE" : "45.7525136838676"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4498344722401, 45.75022856796997 ]
+			},
+			"properties" : {
+				"NOM" : "Travaux publics",
+				"ADRESSE" : "130 Rue Landreville, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Travaux-publics.aspx",
+				"HORAIRE" : "Lun au Jeu: 7 h à 11 h 30 et 12 h à 16 h; Ven: 7 h à 11 h 45",
+				"NOTES" : "Le Service des travaux publics voit à l’entretien des infrastructures de la Ville de Repentigny. Il traite annuellement près de 5 000 requêtes de citoyens.",
+				"CONTACT" : "Travaux publics",
+				"TELEPHONE" : "450-470-3800",
+				"EMAIL" : "travaux-publics@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.4498344722401",
+				"LATITUDE" : "45.75022856796997"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4352769299045, 45.764765237194936 ]
+			},
+			"properties" : {
+				"NOM" : "Centre aquatique Jacques-Dupuis",
+				"ADRESSE" : "130 Rue Valmont, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/piscine.aspx",
+				"HORAIRE" : "Lun et Mer: 6 h à 21 h; Mar et Jeu: 7 h à 22 h; Ven: 6 h à 17h; Sam: 14 h à 20 h; Dim: 14 h à 21 h",
+				"NOTES" : "Ça bouge à Repentigny lorsqu'il est question d'activités aquatiques! La piscine est un lieu convivial où tous les membres de la famille y trouveront leur compte.",
+				"CONTACT" : "Piscine municipale",
+				"TELEPHONE" : "450-470-3440",
+				"EMAIL" : "piscine@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.4352769299045",
+				"LATITUDE" : "45.764765237194936"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47694129224527, 45.762653952934485 ]
+			},
+			"properties" : {
+				"NOM" : "Centre communautaire Laurent-Venne",
+				"ADRESSE" : "225 Boulevard J.-A.-Paré, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-animee/activites-sportives-recreatives/nos-centres-partenaires/centre-communautaire-laurent-venne.html",
+				"HORAIRE" : "Lun au Ven: 8 h à 22 h; Sam et Dim: 9 h à 17 h",
+				"NOTES" : "La programmation hiver 2014 du Centre communautaire Laurent-Venne comprend plus de 60 activités s’adressant à toute la famille.",
+				"CONTACT" : "Centre communautaire Laurent-Venne",
+				"TELEPHONE" : "450-657-4877",
+				"EMAIL" : "ctrcommunautairerepentigny@bellnet.ca",
+				"LONGITUDE" : "-73.47694129224527",
+				"LATITUDE" : "45.762653952934485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45315506414514, 45.75679637993674 ]
+			},
+			"properties" : {
+				"NOM" : "Centre récréatif de Repentigny",
+				"ADRESSE" : "740 Rue Pontbriand, Repentigny",
+				"SITEWEB" : "http://www.centrerecreatifrepentigny.com/",
+				"HORAIRE" : "Les plages horaires peuvent varier en fonction de la tenue d’événements sportifs et des réservations.",
+				"NOTES" : "Le Centre récréatif regroupe plusieurs organismes partenaires sportifs, culturels et communautaires de la Ville de Repentigny. C’est également un centre de référence en multi-santé et services complémentaires.",
+				"CONTACT" : "Centre récréatif de Repentigny",
+				"TELEPHONE" : "450-657-8988",
+				"EMAIL" : "info@crrepentigny.com",
+				"LONGITUDE" : "-73.45315506414514",
+				"LATITUDE" : "45.75679637993674"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.41259462977894, 45.790104747728705 ]
+			},
+			"properties" : {
+				"NOM" : "Complexe sportif Gilles-Tremblay",
+				"ADRESSE" : "223 Rue Jacques-Plante, Repentigny",
+				"SITEWEB" : "http://www.gymrepentigny.ca/",
+				"HORAIRE" : "Les plages horaires peuvent varier en fonction de la tenue d’événements sportifs et des réservations.",
+				"NOTES" : "Inauguré en septembre 2006, le Complexe sportif de Repentigny porte le nom Gilles-Tremblay en l'honneur de l'ancien joueur des Canadiens de Montréal, qui habite Repentigny depuis nombre d'années.",
+				"CONTACT" : "Complexe sportif Gilles-Tremblay",
+				"TELEPHONE" : "450-585-1661",
+				"EMAIL" : "centresportif1@bellnet.ca",
+				"LONGITUDE" : "-73.41259462977894",
+				"LATITUDE" : "45.790104747728705"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4449379631372, 45.736144222285716 ]
+			},
+			"properties" : {
+				"NOM" : "Station de traitement des eaux usées",
+				"ADRESSE" : "45 Rue Lebel, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eaux-usees.aspx",
+				"HORAIRE" : "",
+				"NOTES" : "Les eaux usées sont chargées de différents éléments néfastes pour l’environnement. Avant d’être rejetées dans les cours d’eau, elles passent donc immanquablement par les systèmes de traitement municipaux aux fins de dépollution.",
+				"CONTACT" : "Station de traitement des eaux usées",
+				"TELEPHONE" : "450-470-3880",
+				"EMAIL" : "asselinb@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.4449379631372",
+				"LATITUDE" : "45.736144222285716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46787987368495, 45.74886011023294 ]
+			},
+			"properties" : {
+				"NOM" : "Station de purification de l'eau",
+				"ADRESSE" : "535 Rue de la Traverse, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eau-potable.aspx",
+				"HORAIRE" : "",
+				"NOTES" : "L’eau qui coule aux robinets des Repentignois et Repentignoises est un produit qui fait l’objet d’un contrôle des plus rigoureux. Elle doit subir une série de traitements pour éliminer toutes traces de son long parcours en milieu naturel.",
+				"CONTACT" : "Station de purification de l'eau",
+				"TELEPHONE" : "450-470-3870",
+				"EMAIL" : "valiquetter@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.46787987368495",
+				"LATITUDE" : "45.74886011023294"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.48934079470583, 45.73678788734631 ]
+			},
+			"properties" : {
+				"NOM" : "Station de traitement par étangs aérés",
+				"ADRESSE" : "45 Place des Roseaux, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Citoyenne/Eau/Eaux-usees.aspx",
+				"HORAIRE" : "",
+				"NOTES" : "Utilisé pour le traitement biologique des eaux usées, ce procédé se compose de 4 bassins aérés retenus par des digues. Les micro-organismes présents naturellement dans les rejets sanitaires dégradent les charges polluantes charriées par les eaux usées.",
+				"CONTACT" : "Station de traitement par étangs aérés",
+				"TELEPHONE" : "450-470-3883",
+				"EMAIL" : "boulanger.christian@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.48934079470583",
+				"LATITUDE" : "45.73678788734631"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44915933530348, 45.73877672668537 ]
+			},
+			"properties" : {
+				"NOM" : "Centre d'art Diane-Dufresne",
+				"ADRESSE" : "11 Allée de la Création, Repentigny",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-animee/centre-d%E2%80%99art-diane-dufresne/a-propos-du-centre-d%E2%80%99art-diane-dufresne.html",
+				"HORAIRE" : "Mer et Jeu: 13 h à 17 h et 19 h à 21 h; Ven à Dim: 13 h à 17 h",
+				"NOTES" : "Ce nouveau lieu est une destination incontournable pour la création et la diffusion culturelle, un phare pour les visiteurs et pour ceux et celles qui apprécient la création sous toutes ses formes.",
+				"CONTACT" : "Centre d’art Diane-Dufresne",
+				"TELEPHONE" : "450-470-3010",
+				"EMAIL" : "cadd@ville.repentigny.qc.ca",
+				"LONGITUDE" : "-73.44915933530348",
+				"LATITUDE" : "45.73877672668537"
+			}
+		}
+	]
+}

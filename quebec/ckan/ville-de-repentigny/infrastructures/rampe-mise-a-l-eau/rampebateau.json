@@ -1,0 +1,20 @@
+[
+	{
+		"json_featuretype" : "Rampe de bateau",
+		"NOM" : "Rampe de mise à l'eau du parc Saint-Laurent",
+		"ADRESSE" : "280 Rue Notre-Dame, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/vie-citoyenne/permis-et-urbanisme/rampe-de-mise-a-l-eau-du-parc-saint-laurent.html",
+		"HORAIRE" : "Accessible seulement pour les détenteurs d'un permis d’utilisation; Descente en béton et quai flottant; Stationnement de 40 places réservées aux détenteurs d'un permis d’utilisation; Ouverture tous les jours de 7 h à 23 h, du 22 mai au 9 octobre 2017.",
+		"CONTACT" : "Loisirs, sports et vie communautaire",
+		"TELEPHONE" : "450-470-3400",
+		"EMAIL" : "loisirs@ville.repentigny.qc.ca",
+		"MISEAJOUR" : "20170105",
+		"LONGITUDE" : "-73.45699231759424",
+		"LATITUDE" : "45.72568803799436",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45699231759424, 45.72568803799436 ]
+		}
+	}
+]

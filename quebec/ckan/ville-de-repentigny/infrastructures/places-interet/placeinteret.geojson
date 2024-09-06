@@ -1,0 +1,126 @@
+{
+	"name" : "Places d'intérêt",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.42083292923094, 45.76488930016869 ]
+			},
+			"properties" : {
+				"NOM" : "Moulin Jetté",
+				"ADRESSE" : "859 Rue Notre-Dame, Repentigny",
+				"DESCRIPTION" : "En 1823, Antoine Jetté a fait construire un moulin sur ses terres. Les Jetté sont demeurés propriétaires du moulin jusqu’en 1896.",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Moulins/Jette.html",
+				"HORAIRE" : "",
+				"CONTACT" : "Arts, lettres et culture",
+				"TELEPHONE" : "450-470-3346",
+				"EMAIL" : "artsetculture@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140219",
+				"LONGITUDE" : "-73.42083292923094",
+				"LATITUDE" : "45.76488930016869"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4178878636574, 45.767241250011224 ]
+			},
+			"properties" : {
+				"NOM" : "Moulin Grenier",
+				"ADRESSE" : "912 Rue Notre-Dame, Repentigny",
+				"DESCRIPTION" : "Construit par François Grenier en 1820, le moulin Grenier a appartenu à la famille Grenier pendant plus de 80 ans. En 2003, la Ville de Repentigny est devenue propriétaire du moulin Grenier et a réalisé des restaurations majeures.",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Moulins/Grenier.html",
+				"HORAIRE" : "Horaire régulier (du 22 juin au 25 août); Lun et Mar: Fermé; Mer au Dim: 13 h à 17 h",
+				"CONTACT" : "Arts, lettres et culture",
+				"TELEPHONE" : "450-470-3346",
+				"EMAIL" : "artsetculture@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140219",
+				"LONGITUDE" : "-73.4178878636574",
+				"LATITUDE" : "45.767241250011224"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.43955206624055, 45.75887706611828 ]
+			},
+			"properties" : {
+				"NOM" : "Église Précieux-Sang",
+				"ADRESSE" : "115 Rue Chauveau, Repentigny",
+				"DESCRIPTION" : "La paroisse Précieux-Sang est érigée en 1962 et termine la division de l’ancienne paroisse de la Purification. L’église construite en 1968-1969 abrite des œuvres d’art contemporain de l’artiste espagnol de prestige Jordi Bonet.",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Precieux-Sang.html",
+				"HORAIRE" : "",
+				"CONTACT" : "Arts, lettres et culture",
+				"TELEPHONE" : "450-470-3346",
+				"EMAIL" : "artsetculture@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140219",
+				"LONGITUDE" : "-73.43955206624055",
+				"LATITUDE" : "45.75887706611828"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47078314693653, 45.751185806874595 ]
+			},
+			"properties" : {
+				"NOM" : "Église Saint-Paul-L'Ermite",
+				"ADRESSE" : "377 Rue du Village, Repentigny",
+				"DESCRIPTION" : "L’église Saint-Paul-l’Ermite est située en ligne droite avec celle de la Purification, mais de l’autre côté de la rivière L’Assomption. Le chœur de l’église est décoré avec des œuvres du renommé peintre italien Luigi Capello.",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Saint-Paul-L-Ermite.aspx",
+				"HORAIRE" : "",
+				"CONTACT" : "Arts, lettres et culture",
+				"TELEPHONE" : "450-470-3346",
+				"EMAIL" : "artsetculture@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140219",
+				"LONGITUDE" : "-73.47078314693653",
+				"LATITUDE" : "45.751185806874595"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44713198862421, 45.7390749660064 ]
+			},
+			"properties" : {
+				"NOM" : "Église de la Purification-de-la-Bienheureuse-Vierge-Marie",
+				"ADRESSE" : "445 Rue Notre-Dame, Repentigny",
+				"DESCRIPTION" : "L’église de la Purification-de-la-Bienheureuse-Vierge-Marie est la plus ancienne du diocèse de Montréal et l’une des plus vieilles au Québec. Elle est classée « monument historique ».",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/de-la-Purification.aspx",
+				"HORAIRE" : "",
+				"CONTACT" : "Arts, lettres et culture",
+				"TELEPHONE" : "450-470-3346",
+				"EMAIL" : "artsetculture@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140219",
+				"LONGITUDE" : "-73.44713198862421",
+				"LATITUDE" : "45.7390749660064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.47029554409525, 45.721134710692816 ]
+			},
+			"properties" : {
+				"NOM" : "Église Notre-Dame-des-Champs",
+				"ADRESSE" : "187 Boulevard Iberville, Repentigny",
+				"DESCRIPTION" : "Dessinée par le célèbre architecte Roger d’Astous, l’église Notre-Dame-des-Champs est une œuvre architecturale reconnue dont la forme rappelle des mains en prière.",
+				"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Patrimoine/Eglises/Notre-Dame-des-Champs.aspx",
+				"HORAIRE" : "",
+				"CONTACT" : "Arts, lettres et culture",
+				"TELEPHONE" : "450-470-3346",
+				"EMAIL" : "artsetculture@ville.repentigny.qc.ca",
+				"MISEAJOUR" : "20140219",
+				"LONGITUDE" : "-73.47029554409525",
+				"LATITUDE" : "45.721134710692816"
+			}
+		}
+	]
+}

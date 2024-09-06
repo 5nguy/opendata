@@ -1,0 +1,2870 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Feu pieton",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4613395805, 45.7472445091 ]
+			},
+			"properties" : {
+				"ID" : 959,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Marquis",
+				"LONGITUDE" : -73.46134,
+				"LATITUDE" : 45.74724,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46173126, 45.7471261493 ]
+			},
+			"properties" : {
+				"ID" : 960,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Marquis",
+				"LONGITUDE" : -73.46173,
+				"LATITUDE" : 45.74713,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4615565199, 45.7470440087 ]
+			},
+			"properties" : {
+				"ID" : 961,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Marquis",
+				"LONGITUDE" : -73.46156,
+				"LATITUDE" : 45.74704,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4631993706, 45.7562824491 ]
+			},
+			"properties" : {
+				"ID" : 964,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Boulevard J.-A.-Paré",
+				"LONGITUDE" : -73.4632,
+				"LATITUDE" : 45.75628,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4692176205, 45.7527674488 ]
+			},
+			"properties" : {
+				"ID" : 965,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Alice-Forest",
+				"LONGITUDE" : -73.46922,
+				"LATITUDE" : 45.75277,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46931622, 45.7526566186 ]
+			},
+			"properties" : {
+				"ID" : 966,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Alice-Forest",
+				"LONGITUDE" : -73.46932,
+				"LATITUDE" : 45.75266,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4696113604, 45.7526919887 ]
+			},
+			"properties" : {
+				"ID" : 967,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Alice-Forest",
+				"LONGITUDE" : -73.46961,
+				"LATITUDE" : 45.75269,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4694658998, 45.7526194087 ]
+			},
+			"properties" : {
+				"ID" : 968,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Alice-Forest",
+				"LONGITUDE" : -73.46947,
+				"LATITUDE" : 45.75262,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4703706203, 45.7533003491 ]
+			},
+			"properties" : {
+				"ID" : 969,
+				"RUE_1" : "Rue Rivest",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.47037,
+				"LATITUDE" : 45.7533,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4692181104, 45.7540203289 ]
+			},
+			"properties" : {
+				"ID" : 971,
+				"RUE_1" : "Rue André",
+				"RUE_2" : "Rue de la Place",
+				"LONGITUDE" : -73.46922,
+				"LATITUDE" : 45.75402,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4705688603, 45.7531858392 ]
+			},
+			"properties" : {
+				"ID" : 974,
+				"RUE_1" : "Rue Rivest",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.47057,
+				"LATITUDE" : 45.75319,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4364805903, 45.7656726592 ]
+			},
+			"properties" : {
+				"ID" : 975,
+				"RUE_1" : "Rue Masson",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.43648,
+				"LATITUDE" : 45.76567,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4366510705, 45.7655219795 ]
+			},
+			"properties" : {
+				"ID" : 977,
+				"RUE_1" : "Rue Masson",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.43665,
+				"LATITUDE" : 45.76552,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4458975099, 45.7678645993 ]
+			},
+			"properties" : {
+				"ID" : 985,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Boulevard Basile-Routhier",
+				"LONGITUDE" : -73.4459,
+				"LATITUDE" : 45.76786,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4463157105, 45.7678036389 ]
+			},
+			"properties" : {
+				"ID" : 986,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Boulevard Basile-Routhier",
+				"LONGITUDE" : -73.44632,
+				"LATITUDE" : 45.7678,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4461006706, 45.767709719 ]
+			},
+			"properties" : {
+				"ID" : 988,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Boulevard Basile-Routhier",
+				"LONGITUDE" : -73.4461,
+				"LATITUDE" : 45.76771,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4340817504, 45.7646176193 ]
+			},
+			"properties" : {
+				"ID" : 989,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Rue Sartre",
+				"LONGITUDE" : -73.43408,
+				"LATITUDE" : 45.76462,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4338744394, 45.7645222789 ]
+			},
+			"properties" : {
+				"ID" : 990,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Rue Sartre",
+				"LONGITUDE" : -73.43387,
+				"LATITUDE" : 45.76452,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4340144794, 45.7643718086 ]
+			},
+			"properties" : {
+				"ID" : 991,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Rue Sartre",
+				"LONGITUDE" : -73.43401,
+				"LATITUDE" : 45.76437,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4747903297, 45.7143634489 ]
+			},
+			"properties" : {
+				"ID" : 992,
+				"RUE_1" : "Rue Deschamps",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.47479,
+				"LATITUDE" : 45.71436,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4750232294, 45.7142025988 ]
+			},
+			"properties" : {
+				"ID" : 993,
+				"RUE_1" : "Rue Deschamps",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.47502,
+				"LATITUDE" : 45.7142,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4680215497, 45.7332372688 ]
+			},
+			"properties" : {
+				"ID" : 994,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard de La Rochelle",
+				"LONGITUDE" : -73.46802,
+				"LATITUDE" : 45.73324,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4680080705, 45.7333890489 ]
+			},
+			"properties" : {
+				"ID" : 995,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard de La Rochelle",
+				"LONGITUDE" : -73.46801,
+				"LATITUDE" : 45.73339,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4764443205, 45.7465610288 ]
+			},
+			"properties" : {
+				"ID" : 1000,
+				"RUE_1" : "Montée des Arsenaux",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.47644,
+				"LATITUDE" : 45.74656,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4712356406, 45.7527833892 ]
+			},
+			"properties" : {
+				"ID" : 1001,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Rue Saint-Paul",
+				"LONGITUDE" : -73.47124,
+				"LATITUDE" : 45.75278,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4762094697, 45.7464936586 ]
+			},
+			"properties" : {
+				"ID" : 1005,
+				"RUE_1" : "Montée des Arsenaux",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.47621,
+				"LATITUDE" : 45.74649,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4122687096, 45.7923725388 ]
+			},
+			"properties" : {
+				"ID" : 1006,
+				"RUE_1" : "Boulevard Louis-Philippe-Picard",
+				"RUE_2" : "Rue Jacques-Plante",
+				"LONGITUDE" : -73.41227,
+				"LATITUDE" : 45.79237,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4400991387, 45.7531623157 ]
+			},
+			"properties" : {
+				"ID" : 1375,
+				"RUE_1" : "Boulevard Iberville",
+				"RUE_2" : "Boulevard Industriel",
+				"LONGITUDE" : -73.4401,
+				"LATITUDE" : 45.75316,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.440262916, 45.7534267709 ]
+			},
+			"properties" : {
+				"ID" : 1376,
+				"RUE_1" : "Boulevard Iberville",
+				"RUE_2" : "Boulevard Industriel",
+				"LONGITUDE" : -73.44026,
+				"LATITUDE" : 45.75343,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4403770451, 45.7532213532 ]
+			},
+			"properties" : {
+				"ID" : 1377,
+				"RUE_1" : "Boulevard Iberville",
+				"RUE_2" : "Boulevard Industriel",
+				"LONGITUDE" : -73.44038,
+				"LATITUDE" : 45.75322,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4630131702, 45.7564059589 ]
+			},
+			"properties" : {
+				"ID" : 1381,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Boulevard J.-A.-Paré",
+				"LONGITUDE" : -73.46301,
+				"LATITUDE" : 45.75641,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4865349408, 45.7354006237 ]
+			},
+			"properties" : {
+				"ID" : 1392,
+				"RUE_1" : "Boulevard Pierre-Le Gardeur",
+				"RUE_2" : "Rue de Lyon",
+				"LONGITUDE" : -73.48653,
+				"LATITUDE" : 45.7354,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4865953712, 45.735237522 ]
+			},
+			"properties" : {
+				"ID" : 1393,
+				"RUE_1" : "Boulevard Pierre-Le Gardeur",
+				"RUE_2" : "Rue de Lyon",
+				"LONGITUDE" : -73.4866,
+				"LATITUDE" : 45.73524,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4799912495, 45.717614989 ]
+			},
+			"properties" : {
+				"ID" : 1398,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Boulevard Notre-Dame-des-Champs",
+				"LONGITUDE" : -73.47999,
+				"LATITUDE" : 45.71761,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4800244098, 45.7174029395 ]
+			},
+			"properties" : {
+				"ID" : 1399,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Boulevard Notre-Dame-des-Champs",
+				"LONGITUDE" : -73.48002,
+				"LATITUDE" : 45.7174,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4715468906, 45.7166194092 ]
+			},
+			"properties" : {
+				"ID" : 1402,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Claude-David",
+				"LONGITUDE" : -73.47155,
+				"LATITUDE" : 45.71662,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4711758005, 45.7167760189 ]
+			},
+			"properties" : {
+				"ID" : 1403,
+				"RUE_1" : "Boulevard Claude-David",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.47118,
+				"LATITUDE" : 45.71678,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4712430996, 45.7164648089 ]
+			},
+			"properties" : {
+				"ID" : 1405,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue des Ormes",
+				"LONGITUDE" : -73.47124,
+				"LATITUDE" : 45.71646,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4683687804, 45.7183408487 ]
+			},
+			"properties" : {
+				"ID" : 1407,
+				"RUE_1" : "Boulevard Iberville",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46837,
+				"LATITUDE" : 45.71834,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4584936904, 45.725113169 ]
+			},
+			"properties" : {
+				"ID" : 1414,
+				"RUE_1" : "Rue Lévesque",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45849,
+				"LATITUDE" : 45.72511,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4587171997, 45.7252132789 ]
+			},
+			"properties" : {
+				"ID" : 1415,
+				"RUE_1" : "Rue Lévesque",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45872,
+				"LATITUDE" : 45.72521,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4588414505, 45.7249990795 ]
+			},
+			"properties" : {
+				"ID" : 1416,
+				"RUE_1" : "Rue Lévesque",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45884,
+				"LATITUDE" : 45.725,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4586233397, 45.7248996187 ]
+			},
+			"properties" : {
+				"ID" : 1417,
+				"RUE_1" : "Rue Lévesque",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45862,
+				"LATITUDE" : 45.7249,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4561193103, 45.7300966286 ]
+			},
+			"properties" : {
+				"ID" : 1418,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45612,
+				"LATITUDE" : 45.7301,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4559011594, 45.7300062688 ]
+			},
+			"properties" : {
+				"ID" : 1419,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.4559,
+				"LATITUDE" : 45.73001,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4548291004, 45.7316332391 ]
+			},
+			"properties" : {
+				"ID" : 1420,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue des Émeraudes",
+				"LONGITUDE" : -73.45483,
+				"LATITUDE" : 45.73163,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4546233299, 45.7315419793 ]
+			},
+			"properties" : {
+				"ID" : 1421,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue des Émeraudes",
+				"LONGITUDE" : -73.45462,
+				"LATITUDE" : 45.73154,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4537817202, 45.7322239591 ]
+			},
+			"properties" : {
+				"ID" : 1422,
+				"RUE_1" : "Rue de l'Aqueduc",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45378,
+				"LATITUDE" : 45.73222,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4508220598, 45.7346593692 ]
+			},
+			"properties" : {
+				"ID" : 1424,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Sarto",
+				"LONGITUDE" : -73.45082,
+				"LATITUDE" : 45.73466,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4510189303, 45.734439829 ]
+			},
+			"properties" : {
+				"ID" : 1426,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Thouin",
+				"LONGITUDE" : -73.45102,
+				"LATITUDE" : 45.73444,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4477896797, 45.7376273993 ]
+			},
+			"properties" : {
+				"ID" : 1429,
+				"RUE_1" : "Rue Lebel",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44779,
+				"LATITUDE" : 45.73763,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4677819698, 45.7333573293 ]
+			},
+			"properties" : {
+				"ID" : 1435,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard de La Rochelle",
+				"LONGITUDE" : -73.46778,
+				"LATITUDE" : 45.73336,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4608854303, 45.7536659786 ]
+			},
+			"properties" : {
+				"ID" : 1439,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Paradis",
+				"LONGITUDE" : -73.46089,
+				"LATITUDE" : 45.75367,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4653460004, 45.7493877191 ]
+			},
+			"properties" : {
+				"ID" : 1444,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard de L'Assomption",
+				"LONGITUDE" : -73.46535,
+				"LATITUDE" : 45.74939,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4568620705, 45.7449626089 ]
+			},
+			"properties" : {
+				"ID" : 1448,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue De La Fayette",
+				"LONGITUDE" : -73.45686,
+				"LATITUDE" : 45.74496,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4543606503, 45.7441995393 ]
+			},
+			"properties" : {
+				"ID" : 1451,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Leclerc",
+				"LONGITUDE" : -73.45436,
+				"LATITUDE" : 45.7442,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4522940605, 45.7465604989 ]
+			},
+			"properties" : {
+				"ID" : 1456,
+				"RUE_1" : "Rue Leclerc",
+				"RUE_2" : "Rue De La Fayette",
+				"LONGITUDE" : -73.45229,
+				"LATITUDE" : 45.74656,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4504275295, 45.7422571489 ]
+			},
+			"properties" : {
+				"ID" : 1458,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.45043,
+				"LATITUDE" : 45.74226,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4502321097, 45.7424375891 ]
+			},
+			"properties" : {
+				"ID" : 1459,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.45023,
+				"LATITUDE" : 45.74244,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4499951199, 45.7423161091 ]
+			},
+			"properties" : {
+				"ID" : 1460,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.45,
+				"LATITUDE" : 45.74232,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4453046603, 45.7399027795 ]
+			},
+			"properties" : {
+				"ID" : 1466,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.4453,
+				"LATITUDE" : 45.7399,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4449889403, 45.7400688688 ]
+			},
+			"properties" : {
+				"ID" : 1467,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44499,
+				"LATITUDE" : 45.74007,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4454933104, 45.7400479093 ]
+			},
+			"properties" : {
+				"ID" : 1468,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44549,
+				"LATITUDE" : 45.74005,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4451295497, 45.7402058391 ]
+			},
+			"properties" : {
+				"ID" : 1469,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44513,
+				"LATITUDE" : 45.74021,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4369522303, 45.7463701787 ]
+			},
+			"properties" : {
+				"ID" : 1474,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Ritchot",
+				"LONGITUDE" : -73.43695,
+				"LATITUDE" : 45.74637,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4368403606, 45.7464913593 ]
+			},
+			"properties" : {
+				"ID" : 1475,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Ritchot",
+				"LONGITUDE" : -73.43684,
+				"LATITUDE" : 45.74649,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4370677502, 45.7465948489 ]
+			},
+			"properties" : {
+				"ID" : 1476,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Ritchot",
+				"LONGITUDE" : -73.43707,
+				"LATITUDE" : 45.74659,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4310983198, 45.752947949 ]
+			},
+			"properties" : {
+				"ID" : 1477,
+				"RUE_1" : "Rue Lefrançois",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.4311,
+				"LATITUDE" : 45.75295,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4311696503, 45.753190659 ]
+			},
+			"properties" : {
+				"ID" : 1479,
+				"RUE_1" : "Rue Lefrançois",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.43117,
+				"LATITUDE" : 45.75319,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4170981896, 45.7686287689 ]
+			},
+			"properties" : {
+				"ID" : 1487,
+				"RUE_1" : "Rue Beauchesne",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.4171,
+				"LATITUDE" : 45.76863,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4168988894, 45.7685163793 ]
+			},
+			"properties" : {
+				"ID" : 1488,
+				"RUE_1" : "Rue Beauchesne",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.4169,
+				"LATITUDE" : 45.76852,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4091826796, 45.7767069587 ]
+			},
+			"properties" : {
+				"ID" : 1489,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Philippe-Goulet",
+				"LONGITUDE" : -73.40918,
+				"LATITUDE" : 45.77671,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4012950201, 45.7831175289 ]
+			},
+			"properties" : {
+				"ID" : 1496,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Louis-Philippe-Picard",
+				"LONGITUDE" : -73.4013,
+				"LATITUDE" : 45.78312,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4014749501, 45.7829216693 ]
+			},
+			"properties" : {
+				"ID" : 1497,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Louis-Philippe-Picard",
+				"LONGITUDE" : -73.40147,
+				"LATITUDE" : 45.78292,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4124711689, 45.7925101651 ]
+			},
+			"properties" : {
+				"ID" : 1499,
+				"RUE_1" : "Boulevard Louis-Philippe-Picard",
+				"RUE_2" : "Rue Jacques-Plante",
+				"LONGITUDE" : -73.41247,
+				"LATITUDE" : 45.79251,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.44131774, 45.7536778093 ]
+			},
+			"properties" : {
+				"ID" : 1502,
+				"RUE_1" : "Boulevard Industriel",
+				"RUE_2" : "Rue de Marseille",
+				"LONGITUDE" : -73.44132,
+				"LATITUDE" : 45.75368,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4411493198, 45.7536050492 ]
+			},
+			"properties" : {
+				"ID" : 1503,
+				"RUE_1" : "Boulevard Industriel",
+				"RUE_2" : "Rue de Marseille",
+				"LONGITUDE" : -73.44115,
+				"LATITUDE" : 45.75361,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4409745806, 45.7537460887 ]
+			},
+			"properties" : {
+				"ID" : 1504,
+				"RUE_1" : "Boulevard Industriel",
+				"RUE_2" : "Rue de Marseille",
+				"LONGITUDE" : -73.44097,
+				"LATITUDE" : 45.75375,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4411839202, 45.7538330088 ]
+			},
+			"properties" : {
+				"ID" : 1505,
+				"RUE_1" : "Boulevard Industriel",
+				"RUE_2" : "Rue de Marseille",
+				"LONGITUDE" : -73.44118,
+				"LATITUDE" : 45.75383,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4890198489, 45.7345474763 ]
+			},
+			"properties" : {
+				"ID" : 1755,
+				"RUE_1" : "Rue de Lyon",
+				"RUE_2" : "Rue de la Couronne",
+				"LONGITUDE" : -73.48902,
+				"LATITUDE" : 45.73455,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4894286824, 45.7344035261 ]
+			},
+			"properties" : {
+				"ID" : 998,
+				"RUE_1" : "Rue de Lyon",
+				"RUE_2" : "Rue de la Couronne",
+				"LONGITUDE" : -73.48943,
+				"LATITUDE" : 45.7344,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4639228697, 45.7209072283 ]
+			},
+			"properties" : {
+				"ID" : 1411,
+				"RUE_1" : "Rue du Bord-de-l'Eau",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46392,
+				"LATITUDE" : 45.72091,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4641061072, 45.7210425758 ]
+			},
+			"properties" : {
+				"ID" : 1412,
+				"RUE_1" : "Rue du Bord-de-l'Eau",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46411,
+				"LATITUDE" : 45.72104,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4636778587, 45.7210370965 ]
+			},
+			"properties" : {
+				"ID" : 1409,
+				"RUE_1" : "Rue du Bord-de-l'Eau",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46368,
+				"LATITUDE" : 45.72104,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.447550722, 45.7378179408 ]
+			},
+			"properties" : {
+				"ID" : 1430,
+				"RUE_1" : "Rue Lebel",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44755,
+				"LATITUDE" : 45.73782,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4453207051, 45.7402165367 ]
+			},
+			"properties" : {
+				"ID" : 1470,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44532,
+				"LATITUDE" : 45.74022,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4049004235, 45.7798288267 ]
+			},
+			"properties" : {
+				"ID" : 1494,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue du Verdier",
+				"LONGITUDE" : -73.4049,
+				"LATITUDE" : 45.77983,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4047034528, 45.7797108482 ]
+			},
+			"properties" : {
+				"ID" : 1492,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue du Verdier",
+				"LONGITUDE" : -73.4047,
+				"LATITUDE" : 45.77971,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4016481709, 45.7830220021 ]
+			},
+			"properties" : {
+				"ID" : 1498,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Louis-Philippe-Picard",
+				"LONGITUDE" : -73.40165,
+				"LATITUDE" : 45.78302,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4014631971, 45.7832362207 ]
+			},
+			"properties" : {
+				"ID" : 1495,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Louis-Philippe-Picard",
+				"LONGITUDE" : -73.40146,
+				"LATITUDE" : 45.78324,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4604525301, 45.7312452739 ]
+			},
+			"properties" : {
+				"ID" : 1434,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.46045,
+				"LATITUDE" : 45.73125,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4605608745, 45.7311027252 ]
+			},
+			"properties" : {
+				"ID" : 1433,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.46056,
+				"LATITUDE" : 45.7311,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4120943161, 45.792548263 ]
+			},
+			"properties" : {
+				"ID" : 1008,
+				"RUE_1" : "Boulevard Louis-Philippe-Picard",
+				"RUE_2" : "Rue Jacques-Plante",
+				"LONGITUDE" : -73.41209,
+				"LATITUDE" : 45.79255,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4491691432, 45.7687439134 ]
+			},
+			"properties" : {
+				"ID" : 983,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.44917,
+				"LATITUDE" : 45.76874,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4489752269, 45.768713501 ]
+			},
+			"properties" : {
+				"ID" : 982,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.44898,
+				"LATITUDE" : 45.76871,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.448925711, 45.7689026521 ]
+			},
+			"properties" : {
+				"ID" : 981,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.44893,
+				"LATITUDE" : 45.7689,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.461530462, 45.7473247695 ]
+			},
+			"properties" : {
+				"ID" : 957,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Marquis",
+				"LONGITUDE" : -73.46153,
+				"LATITUDE" : 45.74732,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.465302187, 45.74967973 ]
+			},
+			"properties" : {
+				"ID" : 1446,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard de L'Assomption",
+				"LONGITUDE" : -73.4653,
+				"LATITUDE" : 45.74968,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4655339798, 45.7495205015 ]
+			},
+			"properties" : {
+				"ID" : 1443,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard de L'Assomption",
+				"LONGITUDE" : -73.46553,
+				"LATITUDE" : 45.74952,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4701429743, 45.7531833019 ]
+			},
+			"properties" : {
+				"ID" : 973,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.47014,
+				"LATITUDE" : 45.75318,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4692441957, 45.7537537809 ]
+			},
+			"properties" : {
+				"ID" : 972,
+				"RUE_1" : "Rue André",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.46924,
+				"LATITUDE" : 45.75375,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4584195014, 45.7622173915 ]
+			},
+			"properties" : {
+				"ID" : 1384,
+				"RUE_1" : "Rue de la Paix",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.45842,
+				"LATITUDE" : 45.76222,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4797732108, 45.7479235323 ]
+			},
+			"properties" : {
+				"ID" : 1389,
+				"RUE_1" : "Montée des Arsenaux",
+				"RUE_2" : "Boulevard Pierre-Le Gardeur",
+				"LONGITUDE" : -73.47977,
+				"LATITUDE" : 45.74792,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4796861768, 45.7480587601 ]
+			},
+			"properties" : {
+				"ID" : 1391,
+				"RUE_1" : "Montée des Arsenaux",
+				"RUE_2" : "Boulevard Pierre-Le Gardeur",
+				"LONGITUDE" : -73.47969,
+				"LATITUDE" : 45.74806,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4794732567, 45.7477725132 ]
+			},
+			"properties" : {
+				"ID" : 1390,
+				"RUE_1" : "Montée des Arsenaux",
+				"RUE_2" : "Boulevard Pierre-Le Gardeur",
+				"LONGITUDE" : -73.47947,
+				"LATITUDE" : 45.74777,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4711110629, 45.7525520759 ]
+			},
+			"properties" : {
+				"ID" : 1003,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Rue Saint-Paul",
+				"LONGITUDE" : -73.47111,
+				"LATITUDE" : 45.75255,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4709546646, 45.7526512746 ]
+			},
+			"properties" : {
+				"ID" : 1002,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Rue Saint-Paul",
+				"LONGITUDE" : -73.47095,
+				"LATITUDE" : 45.75265,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4713109407, 45.7526697548 ]
+			},
+			"properties" : {
+				"ID" : 1004,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Rue Saint-Paul",
+				"LONGITUDE" : -73.47131,
+				"LATITUDE" : 45.75267,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4685693851, 45.718455429 ]
+			},
+			"properties" : {
+				"ID" : 1406,
+				"RUE_1" : "Boulevard Iberville",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46857,
+				"LATITUDE" : 45.71846,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4527627285, 45.7464672696 ]
+			},
+			"properties" : {
+				"ID" : 1454,
+				"RUE_1" : "Rue Leclerc",
+				"RUE_2" : "Rue De La Fayette",
+				"LONGITUDE" : -73.45276,
+				"LATITUDE" : 45.74647,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4526028809, 45.7466481136 ]
+			},
+			"properties" : {
+				"ID" : 1455,
+				"RUE_1" : "Rue Leclerc",
+				"RUE_2" : "Rue De La Fayette",
+				"LONGITUDE" : -73.4526,
+				"LATITUDE" : 45.74665,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4524750137, 45.7463547539 ]
+			},
+			"properties" : {
+				"ID" : 1457,
+				"RUE_1" : "Rue Leclerc",
+				"RUE_2" : "Rue De La Fayette",
+				"LONGITUDE" : -73.45248,
+				"LATITUDE" : 45.74635,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4570816551, 45.7450997877 ]
+			},
+			"properties" : {
+				"ID" : 1447,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue De La Fayette",
+				"LONGITUDE" : -73.45708,
+				"LATITUDE" : 45.7451,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4610360109, 45.7535079724 ]
+			},
+			"properties" : {
+				"ID" : 1442,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Paradis",
+				"LONGITUDE" : -73.46104,
+				"LATITUDE" : 45.75351,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4611943082, 45.7535685498 ]
+			},
+			"properties" : {
+				"ID" : 1441,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Paradis",
+				"LONGITUDE" : -73.46119,
+				"LATITUDE" : 45.75357,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4610465903, 45.753737784 ]
+			},
+			"properties" : {
+				"ID" : 1440,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Paradis",
+				"LONGITUDE" : -73.46105,
+				"LATITUDE" : 45.75374,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4629896559, 45.7561975911 ]
+			},
+			"properties" : {
+				"ID" : 963,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Boulevard J.-A.-Paré",
+				"LONGITUDE" : -73.46299,
+				"LATITUDE" : 45.7562,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4628458034, 45.756298523 ]
+			},
+			"properties" : {
+				"ID" : 1382,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "Boulevard J.-A.-Paré",
+				"LONGITUDE" : -73.46285,
+				"LATITUDE" : 45.7563,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4694264252, 45.7539216125 ]
+			},
+			"properties" : {
+				"ID" : 970,
+				"RUE_1" : "Rue André",
+				"RUE_2" : "Rue de la Place",
+				"LONGITUDE" : -73.46943,
+				"LATITUDE" : 45.75392,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4715267771, 45.7165317061 ]
+			},
+			"properties" : {
+				"ID" : 1404,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Claude-David",
+				"LONGITUDE" : -73.47153,
+				"LATITUDE" : 45.71653,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4753061297, 45.714501937 ]
+			},
+			"properties" : {
+				"ID" : 1401,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Notre-Dame-des-Champs",
+				"LONGITUDE" : -73.47531,
+				"LATITUDE" : 45.7145,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4750641317, 45.714616234 ]
+			},
+			"properties" : {
+				"ID" : 1400,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Boulevard Notre-Dame-des-Champs",
+				"LONGITUDE" : -73.47506,
+				"LATITUDE" : 45.71462,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4678143504, 45.7332078725 ]
+			},
+			"properties" : {
+				"ID" : 996,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard de La Rochelle",
+				"LONGITUDE" : -73.46781,
+				"LATITUDE" : 45.73321,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4582334452, 45.7621294202 ]
+			},
+			"properties" : {
+				"ID" : 1007,
+				"RUE_1" : "Rue de la Paix",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.45823,
+				"LATITUDE" : 45.76213,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4702118432, 45.768309587 ]
+			},
+			"properties" : {
+				"ID" : 1385,
+				"RUE_1" : "Rue Colbert",
+				"RUE_2" : "Rue de la Paix",
+				"LONGITUDE" : -73.47021,
+				"LATITUDE" : 45.76831,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4237572462, 45.7617186842 ]
+			},
+			"properties" : {
+				"ID" : 1483,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.42376,
+				"LATITUDE" : 45.76172,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4235235636, 45.7616523718 ]
+			},
+			"properties" : {
+				"ID" : 1485,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Pierre",
+				"LONGITUDE" : -73.42352,
+				"LATITUDE" : 45.76165,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4236121267, 45.7615619434 ]
+			},
+			"properties" : {
+				"ID" : 1484,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Pierre",
+				"LONGITUDE" : -73.42361,
+				"LATITUDE" : 45.76156,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4238929325, 45.7615874134 ]
+			},
+			"properties" : {
+				"ID" : 1482,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.42389,
+				"LATITUDE" : 45.76159,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4313019775, 45.7530266964 ]
+			},
+			"properties" : {
+				"ID" : 1478,
+				"RUE_1" : "Rue Lefrançois",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.4313,
+				"LATITUDE" : 45.75303,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4608357757, 45.7589094833 ]
+			},
+			"properties" : {
+				"ID" : 1379,
+				"RUE_1" : "Rue Hervieux",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.46084,
+				"LATITUDE" : 45.75891,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4606608892, 45.7588023629 ]
+			},
+			"properties" : {
+				"ID" : 1380,
+				"RUE_1" : "Rue Hervieux",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.46066,
+				"LATITUDE" : 45.7588,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4609276605, 45.7587413381 ]
+			},
+			"properties" : {
+				"ID" : 1378,
+				"RUE_1" : "Rue Hervieux",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.46093,
+				"LATITUDE" : 45.75874,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4634875519, 45.7211044072 ]
+			},
+			"properties" : {
+				"ID" : 1408,
+				"RUE_1" : "Rue du Bord-de-l'Eau",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46349,
+				"LATITUDE" : 45.7211,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4699856604, 45.7683717689 ]
+			},
+			"properties" : {
+				"ID" : 1386,
+				"RUE_1" : "Rue Colbert",
+				"RUE_2" : "Rue de la Paix",
+				"LONGITUDE" : -73.46999,
+				"LATITUDE" : 45.76837,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4698909894, 45.7682148789 ]
+			},
+			"properties" : {
+				"ID" : 1387,
+				"RUE_1" : "Rue Colbert",
+				"RUE_2" : "Rue de la Paix",
+				"LONGITUDE" : -73.46989,
+				"LATITUDE" : 45.76821,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4509290385, 45.7346929294 ]
+			},
+			"properties" : {
+				"ID" : 1427,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Sarto",
+				"LONGITUDE" : -73.45093,
+				"LATITUDE" : 45.73469,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4089493122, 45.7765945652 ]
+			},
+			"properties" : {
+				"ID" : 1490,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Philippe-Goulet",
+				"LONGITUDE" : -73.40895,
+				"LATITUDE" : 45.77659,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4047140094, 45.779958417 ]
+			},
+			"properties" : {
+				"ID" : 1493,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue du Verdier",
+				"LONGITUDE" : -73.40471,
+				"LATITUDE" : 45.77996,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4045200527, 45.7798421261 ]
+			},
+			"properties" : {
+				"ID" : 1491,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue du Verdier",
+				"LONGITUDE" : -73.40452,
+				"LATITUDE" : 45.77984,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4582737659, 45.7623567267 ]
+			},
+			"properties" : {
+				"ID" : 1383,
+				"RUE_1" : "Rue de la Paix",
+				"RUE_2" : "Boulevard Lacombe",
+				"LONGITUDE" : -73.45827,
+				"LATITUDE" : 45.76236,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4751351162, 45.7547098215 ]
+			},
+			"properties" : {
+				"ID" : 1388,
+				"RUE_1" : "Rue Saint-Paul",
+				"RUE_2" : "Boulevard Pierre-Le Gardeur",
+				"LONGITUDE" : -73.47514,
+				"LATITUDE" : 45.75471,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4546306276, 45.7443234321 ]
+			},
+			"properties" : {
+				"ID" : 1452,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Leclerc",
+				"LONGITUDE" : -73.45463,
+				"LATITUDE" : 45.74432,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4603041062, 45.7309965914 ]
+			},
+			"properties" : {
+				"ID" : 1432,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.4603,
+				"LATITUDE" : 45.731,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4601748308, 45.731134171 ]
+			},
+			"properties" : {
+				"ID" : 1431,
+				"RUE_1" : "Rue Cherrier",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.46017,
+				"LATITUDE" : 45.73113,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4501626676, 45.7421050601 ]
+			},
+			"properties" : {
+				"ID" : 1461,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard Iberville",
+				"LONGITUDE" : -73.45016,
+				"LATITUDE" : 45.74211,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.449118498, 45.7689187393 ]
+			},
+			"properties" : {
+				"ID" : 984,
+				"RUE_1" : "Boulevard de L'Assomption",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.44912,
+				"LATITUDE" : 45.76892,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4651077448, 45.7495373874 ]
+			},
+			"properties" : {
+				"ID" : 1445,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Boulevard de L'Assomption",
+				"LONGITUDE" : -73.46511,
+				"LATITUDE" : 45.74954,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4462279675, 45.7679970423 ]
+			},
+			"properties" : {
+				"ID" : 987,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "Boulevard Basile-Routhier",
+				"LONGITUDE" : -73.44623,
+				"LATITUDE" : 45.768,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4479826666, 45.7377228173 ]
+			},
+			"properties" : {
+				"ID" : 1428,
+				"RUE_1" : "Rue Lebel",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.44798,
+				"LATITUDE" : 45.73772,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4510193236, 45.7347571639 ]
+			},
+			"properties" : {
+				"ID" : 1425,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "Rue Sarto",
+				"LONGITUDE" : -73.45102,
+				"LATITUDE" : 45.73476,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4540117182, 45.7323247619 ]
+			},
+			"properties" : {
+				"ID" : 1423,
+				"RUE_1" : "Rue de l'Aqueduc",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.45401,
+				"LATITUDE" : 45.73232,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4638761141, 45.7211573396 ]
+			},
+			"properties" : {
+				"ID" : 1413,
+				"RUE_1" : "Rue du Bord-de-l'Eau",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46388,
+				"LATITUDE" : 45.72116,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4682330566, 45.7186622723 ]
+			},
+			"properties" : {
+				"ID" : 955,
+				"RUE_1" : "Boulevard Iberville",
+				"RUE_2" : "Rue Notre-Dame",
+				"LONGITUDE" : -73.46823,
+				"LATITUDE" : 45.71866,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4548540449, 45.7440979665 ]
+			},
+			"properties" : {
+				"ID" : 1449,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Leclerc",
+				"LONGITUDE" : -73.45485,
+				"LATITUDE" : 45.7441,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4544895244, 45.7439684732 ]
+			},
+			"properties" : {
+				"ID" : 1450,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "Rue Leclerc",
+				"LONGITUDE" : -73.45449,
+				"LATITUDE" : 45.74397,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4367121665, 45.7657780438 ]
+			},
+			"properties" : {
+				"ID" : 976,
+				"RUE_1" : "Rue Masson",
+				"RUE_2" : "Rue Valmont",
+				"LONGITUDE" : -73.43671,
+				"LATITUDE" : 45.76578,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.46056432, 45.7468678092 ]
+			},
+			"properties" : {
+				"ID" : 962,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.46056,
+				"LATITUDE" : 45.74687,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4440703902, 45.7669230287 ]
+			},
+			"properties" : {
+				"ID" : 980,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44407,
+				"LATITUDE" : 45.76692,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4833412861, 45.7356448852 ]
+			},
+			"properties" : {
+				"ID" : 1395,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.48334,
+				"LATITUDE" : 45.73564,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4832364015, 45.7358551348 ]
+			},
+			"properties" : {
+				"ID" : 1396,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.48324,
+				"LATITUDE" : 45.73586,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4527254194, 45.743520489 ]
+			},
+			"properties" : {
+				"ID" : 1462,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.45273,
+				"LATITUDE" : 45.74352,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4525660604, 45.7434529889 ]
+			},
+			"properties" : {
+				"ID" : 1463,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.45257,
+				"LATITUDE" : 45.74345,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4527269104, 45.7432415888 ]
+			},
+			"properties" : {
+				"ID" : 1464,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.45273,
+				"LATITUDE" : 45.74324,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.45297552, 45.7433430787 ]
+			},
+			"properties" : {
+				"ID" : 1465,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.45298,
+				"LATITUDE" : 45.74334,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4428233404, 45.7414316991 ]
+			},
+			"properties" : {
+				"ID" : 1471,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44282,
+				"LATITUDE" : 45.74143,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4135470298, 45.7932735686 ]
+			},
+			"properties" : {
+				"ID" : 1500,
+				"RUE_1" : "Boulevard Louis-Philippe-Picard",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.41355,
+				"LATITUDE" : 45.79327,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4471656211, 45.7564745412 ]
+			},
+			"properties" : {
+				"ID" : 1507,
+				"RUE_1" : "Boulevard Industriel",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44717,
+				"LATITUDE" : 45.75647,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4440141303, 45.7671107222 ]
+			},
+			"properties" : {
+				"ID" : 979,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44401,
+				"LATITUDE" : 45.76711,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4607169141, 45.7466490914 ]
+			},
+			"properties" : {
+				"ID" : 958,
+				"RUE_1" : "Boulevard Brien",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.46072,
+				"LATITUDE" : 45.74665,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4680249292, 45.7355447865 ]
+			},
+			"properties" : {
+				"ID" : 1436,
+				"RUE_1" : "Boulevard de La Rochelle",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.46802,
+				"LATITUDE" : 45.73554,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4682331187, 45.7355044262 ]
+			},
+			"properties" : {
+				"ID" : 1437,
+				"RUE_1" : "Boulevard de La Rochelle",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.46823,
+				"LATITUDE" : 45.7355,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4683101765, 45.7356968405 ]
+			},
+			"properties" : {
+				"ID" : 1438,
+				"RUE_1" : "Boulevard de La Rochelle",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.46831,
+				"LATITUDE" : 45.7357,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4835167611, 45.7359070476 ]
+			},
+			"properties" : {
+				"ID" : 1397,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.48352,
+				"LATITUDE" : 45.73591,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4835832006, 45.735673149 ]
+			},
+			"properties" : {
+				"ID" : 1394,
+				"RUE_1" : "Boulevard Lacombe",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.48358,
+				"LATITUDE" : 45.73567,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4137158006, 45.7934041695 ]
+			},
+			"properties" : {
+				"ID" : 1501,
+				"RUE_1" : "Boulevard Louis-Philippe-Picard",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.41372,
+				"LATITUDE" : 45.7934,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4426748166, 45.7413056655 ]
+			},
+			"properties" : {
+				"ID" : 1472,
+				"RUE_1" : "Rue Notre-Dame",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44267,
+				"LATITUDE" : 45.74131,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4473835996, 45.7565653716 ]
+			},
+			"properties" : {
+				"ID" : 1506,
+				"RUE_1" : "Boulevard Industriel",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44738,
+				"LATITUDE" : 45.75657,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4437744076, 45.7670301568 ]
+			},
+			"properties" : {
+				"ID" : 978,
+				"RUE_1" : "Rue Valmont",
+				"RUE_2" : "",
+				"LONGITUDE" : -73.44377,
+				"LATITUDE" : 45.76703,
+				"MUNICIPALITE" : "Repentigny",
+				"GEOM" : "Point"
+			}
+		}
+	]
+}

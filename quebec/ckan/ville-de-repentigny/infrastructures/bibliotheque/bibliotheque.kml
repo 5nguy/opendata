@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>bibliotheque</name>
+<visibility>1</visibility>
+<Schema name="Bibliothèques" id="kml_schema_ft_Bibliothèques">
+<SimpleField type="xsd:string" name="NOM">
+<displayName>NOM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSE">
+<displayName>ADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SITEWEB">
+<displayName>SITEWEB</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HORAIRE">
+<displayName>HORAIRE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOTES">
+<displayName>NOTES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CONTACT">
+<displayName>CONTACT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TELEPHONE">
+<displayName>TELEPHONE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EMAIL">
+<displayName>EMAIL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MISEAJOUR">
+<displayName>MISEAJOUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Bibliothèques">
+<name>Bibliothèques</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1 Place d'Évry, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Bibliotheque.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun au Jeu: 10 h à 21 h; Ven et Sam: 9 h à 17 h; Dim: 13 h à 17 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Abonnement gratuit pour les citoyens</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45190924098326</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74111395210934</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="ADRESSE">1 Place d'Évry, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Bibliotheque.html</SimpleData>
+<SimpleData name="HORAIRE">Lun au Jeu: 10 h à 21 h; Ven et Sam: 9 h à 17 h; Dim: 13 h à 17 h</SimpleData>
+<SimpleData name="NOTES">Abonnement gratuit pour les citoyens</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.45190924098326</SimpleData>
+<SimpleData name="LATITUDE">45.74111395210934</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4519092409833,45.7411139521093,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Bibliothèque Edmond-Archambault</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>231 Boulevard J.-A.-Paré, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>http://www.ville.repentigny.qc.ca/Vie-Animee/Bibliotheque.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>Lun: Fermée; Mar au Jeu: 13 h à 21 h; Ven: 9 h à 17 h; Sam et Dim: 13 h à 17 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Abonnement gratuit pour les citoyens</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Edmond-Archambault</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3430</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20140219</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47688178784085</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.76289555411651</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Bibliothèque Edmond-Archambault</SimpleData>
+<SimpleData name="ADRESSE">231 Boulevard J.-A.-Paré, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">http://www.ville.repentigny.qc.ca/Vie-Animee/Bibliotheque.html</SimpleData>
+<SimpleData name="HORAIRE">Lun: Fermée; Mar au Jeu: 13 h à 21 h; Ven: 9 h à 17 h; Sam et Dim: 13 h à 17 h</SimpleData>
+<SimpleData name="NOTES">Abonnement gratuit pour les citoyens</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Edmond-Archambault</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3430</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20140219</SimpleData>
+<SimpleData name="LONGITUDE">-73.47688178784085</SimpleData>
+<SimpleData name="LATITUDE">45.76289555411651</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4768817878409,45.7628955541165,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Biblio-Mobile au CHSLD Émile Mc Duff</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>1440 Boulevard Iberville, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>De 13 h à 14 h 30; 30 novembre; 27 novembre</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Services offerts : lecture à voix haute, prêts de documents élagués</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20170404</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.40759858734256</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78811166875628</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Biblio-Mobile au CHSLD Émile Mc Duff</SimpleData>
+<SimpleData name="ADRESSE">1440 Boulevard Iberville, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</SimpleData>
+<SimpleData name="HORAIRE">De 13 h à 14 h 30; 30 novembre; 27 novembre</SimpleData>
+<SimpleData name="NOTES">Services offerts : lecture à voix haute, prêts de documents élagués</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170404</SimpleData>
+<SimpleData name="LONGITUDE">-73.40759858734256</SimpleData>
+<SimpleData name="LATITUDE">45.78811166875628</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4075985873426,45.7881116687563,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Biblio-Mobile à la Résidence Havre du Petit Village</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>177 Boulevard Lacombe, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>De 10 h à 11 h; 24 octobre; 21 novembre; 19 décembre</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Services offerts : prêts, retours, réservations</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20170404</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.48024510901068</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7443716327366</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Biblio-Mobile à la Résidence Havre du Petit Village</SimpleData>
+<SimpleData name="ADRESSE">177 Boulevard Lacombe, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</SimpleData>
+<SimpleData name="HORAIRE">De 10 h à 11 h; 24 octobre; 21 novembre; 19 décembre</SimpleData>
+<SimpleData name="NOTES">Services offerts : prêts, retours, réservations</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170404</SimpleData>
+<SimpleData name="LONGITUDE">-73.48024510901068</SimpleData>
+<SimpleData name="LATITUDE">45.7443716327366</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4802451090107,45.7443716327366,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Biblio-Mobile à la Résidence de la Rive-Nord</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>739 Rue Notre-Dame, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>De 10 h à 11 h; 6 novembre; 4 décembre</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Services offerts : prêts, retours, réservations</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20170404</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.42758193423128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.7579927532292</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Biblio-Mobile à la Résidence de la Rive-Nord</SimpleData>
+<SimpleData name="ADRESSE">739 Rue Notre-Dame, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</SimpleData>
+<SimpleData name="HORAIRE">De 10 h à 11 h; 6 novembre; 4 décembre</SimpleData>
+<SimpleData name="NOTES">Services offerts : prêts, retours, réservations</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170404</SimpleData>
+<SimpleData name="LONGITUDE">-73.42758193423128</SimpleData>
+<SimpleData name="LATITUDE">45.7579927532292</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4275819342313,45.7579927532292,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Biblio-Mobile à la Résidence Maurice-Rivest</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>674 Rue Masson, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>De 10 h à 11 h 30; 7 novembre; 5 décembre</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Services offerts : prêts, retours, réservations</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20170404</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4404890746589</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.75909331598802</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Biblio-Mobile à la Résidence Maurice-Rivest</SimpleData>
+<SimpleData name="ADRESSE">674 Rue Masson, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</SimpleData>
+<SimpleData name="HORAIRE">De 10 h à 11 h 30; 7 novembre; 5 décembre</SimpleData>
+<SimpleData name="NOTES">Services offerts : prêts, retours, réservations</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170404</SimpleData>
+<SimpleData name="LONGITUDE">-73.4404890746589</SimpleData>
+<SimpleData name="LATITUDE">45.75909331598802</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4404890746589,45.759093315988,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Biblio-Mobile à la Résidence Lucien-Goulet</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>301 Boulevard J.-A.-Paré, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>De 10 h à 11 h; 17 octobre; 14 novembre; 12 décembre</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Services offerts : prêts, retours, réservations</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20170404</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4780289777812</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.767818122537385</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Biblio-Mobile à la Résidence Lucien-Goulet</SimpleData>
+<SimpleData name="ADRESSE">301 Boulevard J.-A.-Paré, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</SimpleData>
+<SimpleData name="HORAIRE">De 10 h à 11 h; 17 octobre; 14 novembre; 12 décembre</SimpleData>
+<SimpleData name="NOTES">Services offerts : prêts, retours, réservations</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170404</SimpleData>
+<SimpleData name="LONGITUDE">-73.4780289777812</SimpleData>
+<SimpleData name="LATITUDE">45.767818122537385</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4780289777812,45.7678181225374,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NOM</th>
+<td>Biblio-Mobile à la Résidence le Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>ADRESSE</th>
+<td>505 Rue Notre-Dame, Repentigny</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SITEWEB</th>
+<td>https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</td>
+</tr><tr bgcolor="">
+<th>HORAIRE</th>
+<td>De 10 h à 11 h; 31 octobre; 28 novembre</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOTES</th>
+<td>Services offerts : prêts, retours, réservations</td>
+</tr><tr bgcolor="">
+<th>CONTACT</th>
+<td>Bibliothèque Robert-Lussier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TELEPHONE</th>
+<td>450-470-3420</td>
+</tr><tr bgcolor="">
+<th>EMAIL</th>
+<td>bibliotheque@ville.repentigny.qc.ca</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MISEAJOUR</th>
+<td>20170404</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44341364427092</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74175304662577</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Biblioth�ques">
+<SimpleData name="NOM">Biblio-Mobile à la Résidence le Notre-Dame</SimpleData>
+<SimpleData name="ADRESSE">505 Rue Notre-Dame, Repentigny</SimpleData>
+<SimpleData name="SITEWEB">https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html</SimpleData>
+<SimpleData name="HORAIRE">De 10 h à 11 h; 31 octobre; 28 novembre</SimpleData>
+<SimpleData name="NOTES">Services offerts : prêts, retours, réservations</SimpleData>
+<SimpleData name="CONTACT">Bibliothèque Robert-Lussier</SimpleData>
+<SimpleData name="TELEPHONE">450-470-3420</SimpleData>
+<SimpleData name="EMAIL">bibliotheque@ville.repentigny.qc.ca</SimpleData>
+<SimpleData name="MISEAJOUR">20170404</SimpleData>
+<SimpleData name="LONGITUDE">-73.44341364427092</SimpleData>
+<SimpleData name="LATITUDE">45.74175304662577</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4434136442709,45.7417530466258,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

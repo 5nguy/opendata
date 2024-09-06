@@ -1,0 +1,146 @@
+[
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Bibliothèque Robert-Lussier",
+		"ADRESSE" : "1 Place d'Évry, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Bibliotheque.html",
+		"HORAIRE" : "Lun au Jeu: 10 h à 21 h; Ven et Sam: 9 h à 17 h; Dim: 13 h à 17 h",
+		"NOTES" : "Abonnement gratuit pour les citoyens",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.45190924098326",
+		"LATITUDE" : "45.74111395210934",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.45190924098326, 45.74111395210934 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Bibliothèque Edmond-Archambault",
+		"ADRESSE" : "231 Boulevard J.-A.-Paré, Repentigny",
+		"SITEWEB" : "http://www.ville.repentigny.qc.ca/Vie-Animee/Bibliotheque.html",
+		"HORAIRE" : "Lun: Fermée; Mar au Jeu: 13 h à 21 h; Ven: 9 h à 17 h; Sam et Dim: 13 h à 17 h",
+		"NOTES" : "Abonnement gratuit pour les citoyens",
+		"CONTACT" : "Bibliothèque Edmond-Archambault",
+		"TELEPHONE" : "450-470-3430",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.47688178784085",
+		"LATITUDE" : "45.76289555411651",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.47688178784085, 45.76289555411651 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Biblio-Mobile au CHSLD Émile Mc Duff",
+		"ADRESSE" : "1440 Boulevard Iberville, Repentigny",
+		"SITEWEB" : "https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html",
+		"HORAIRE" : "De 13 h à 14 h 30; 30 novembre; 27 novembre",
+		"NOTES" : "Services offerts : lecture à voix haute, prêts de documents élagués",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.40759858734256",
+		"LATITUDE" : "45.78811166875628",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.40759858734256, 45.78811166875628 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Biblio-Mobile à la Résidence Havre du Petit Village",
+		"ADRESSE" : "177 Boulevard Lacombe, Repentigny",
+		"SITEWEB" : "https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html",
+		"HORAIRE" : "De 10 h à 11 h; 24 octobre; 21 novembre; 19 décembre",
+		"NOTES" : "Services offerts : prêts, retours, réservations",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.48024510901068",
+		"LATITUDE" : "45.7443716327366",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.48024510901068, 45.7443716327366 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Biblio-Mobile à la Résidence de la Rive-Nord",
+		"ADRESSE" : "739 Rue Notre-Dame, Repentigny",
+		"SITEWEB" : "https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html",
+		"HORAIRE" : "De 10 h à 11 h; 6 novembre; 4 décembre",
+		"NOTES" : "Services offerts : prêts, retours, réservations",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.42758193423128",
+		"LATITUDE" : "45.7579927532292",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.42758193423128, 45.7579927532292 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Biblio-Mobile à la Résidence Maurice-Rivest",
+		"ADRESSE" : "674 Rue Masson, Repentigny",
+		"SITEWEB" : "https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html",
+		"HORAIRE" : "De 10 h à 11 h 30; 7 novembre; 5 décembre",
+		"NOTES" : "Services offerts : prêts, retours, réservations",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.4404890746589",
+		"LATITUDE" : "45.75909331598802",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.4404890746589, 45.75909331598802 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Biblio-Mobile à la Résidence Lucien-Goulet",
+		"ADRESSE" : "301 Boulevard J.-A.-Paré, Repentigny",
+		"SITEWEB" : "https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html",
+		"HORAIRE" : "De 10 h à 11 h; 17 octobre; 14 novembre; 12 décembre",
+		"NOTES" : "Services offerts : prêts, retours, réservations",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.4780289777812",
+		"LATITUDE" : "45.767818122537385",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.4780289777812, 45.767818122537385 ]
+		}
+	},
+	{
+		"json_featuretype" : "Bibliothèques",
+		"NOM" : "Biblio-Mobile à la Résidence le Notre-Dame",
+		"ADRESSE" : "505 Rue Notre-Dame, Repentigny",
+		"SITEWEB" : "https://www.ville.repentigny.qc.ca/vie-animee/bibliotheques/services-hors-les-murs/service-de-pret-et-de-lecture-a-voix-haute-dans-le.html",
+		"HORAIRE" : "De 10 h à 11 h; 31 octobre; 28 novembre",
+		"NOTES" : "Services offerts : prêts, retours, réservations",
+		"CONTACT" : "Bibliothèque Robert-Lussier",
+		"TELEPHONE" : "450-470-3420",
+		"EMAIL" : "bibliotheque@ville.repentigny.qc.ca",
+		"LONGITUDE" : "-73.44341364427092",
+		"LATITUDE" : "45.74175304662577",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -73.44341364427092, 45.74175304662577 ]
+		}
+	}
+]

@@ -1,0 +1,5078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>equipement_eau</name>
+<visibility>1</visibility>
+<Schema name="Equipement eau" id="kml_schema_ft_Equipement_eau">
+<SimpleField type="xsd:int" name="IDEQUIPEAU">
+<displayName>IDEQUIPEAU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TYPE">
+<displayName>TYPE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MODELE">
+<displayName>MODELE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="MATERIAU">
+<displayName>MATERIAU</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="COULEUR">
+<displayName>COULEUR</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="STATUT">
+<displayName>STATUT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="PERIODE">
+<displayName>PERIODE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HEURES">
+<displayName>HEURES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LOCALISAT">
+<displayName>LOCALISAT</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="IDPARC">
+<displayName>IDPARC</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NOMLIEU">
+<displayName>NOMLIEU</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="IDADRESSE">
+<displayName>IDADRESSE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ADRESSECIV">
+<displayName>ADRESSECIV</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="CODEPOSTAL">
+<displayName>CODEPOSTAL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LONGITUDE">
+<displayName>LONGITUDE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LATITUDE">
+<displayName>LATITUDE</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Equipement_eau">
+<name>Equipement eau</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Fermé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>151</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Langelier</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>15924</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>80, rue Langelier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44954220763975</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74582489359036</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">3</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Fermé</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">151</SimpleData>
+<SimpleData name="NOMLIEU">Parc Langelier</SimpleData>
+<SimpleData name="IDADRESSE">15924</SimpleData>
+<SimpleData name="ADRESSECIV">80, rue Langelier</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A</SimpleData>
+<SimpleData name="LONGITUDE">-73.44954220763975</SimpleData>
+<SimpleData name="LATITUDE">45.74582489359036</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4495422076398,45.7458248935904,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>156</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Lajoie</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>15685</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>75, rue Lajoie</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45881927439991</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73857026513055</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">4</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">156</SimpleData>
+<SimpleData name="NOMLIEU">Parc Lajoie</SimpleData>
+<SimpleData name="IDADRESSE">15685</SimpleData>
+<SimpleData name="ADRESSECIV">75, rue Lajoie</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A</SimpleData>
+<SimpleData name="LONGITUDE">-73.45881927439991</SimpleData>
+<SimpleData name="LATITUDE">45.73857026513055</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4588192743999,45.7385702651305,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>167</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Le Gardeur</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>16808</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>39, rue Le Gardeur</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 3A7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47825376320445</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.71518506047666</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">5</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">167</SimpleData>
+<SimpleData name="NOMLIEU">Parc Le Gardeur</SimpleData>
+<SimpleData name="IDADRESSE">16808</SimpleData>
+<SimpleData name="ADRESSECIV">39, rue Le Gardeur</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 3A7</SimpleData>
+<SimpleData name="LONGITUDE">-73.47825376320445</SimpleData>
+<SimpleData name="LATITUDE">45.71518506047666</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4782537632044,45.7151850604767,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45715552339921</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72556582905803</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">6</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.45715552339921</SimpleData>
+<SimpleData name="LATITUDE">45.72556582905803</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4571555233992,45.725565829058,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>138</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc des Moissons</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>1757</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>935, rue Beauchesne</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 2S1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.42916690084914</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77323415508482</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">7</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">138</SimpleData>
+<SimpleData name="NOMLIEU">Parc des Moissons</SimpleData>
+<SimpleData name="IDADRESSE">1757</SimpleData>
+<SimpleData name="ADRESSECIV">935, rue Beauchesne</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 2S1</SimpleData>
+<SimpleData name="LONGITUDE">-73.42916690084914</SimpleData>
+<SimpleData name="LATITUDE">45.77323415508482</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4291669008491,45.7732341550848,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>142</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc de la Paix</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>2221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>170, rue de Berthier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44637815846583</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.762710651090806</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">8</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">142</SimpleData>
+<SimpleData name="NOMLIEU">Parc de la Paix</SimpleData>
+<SimpleData name="IDADRESSE">2221</SimpleData>
+<SimpleData name="ADRESSECIV">170, rue de Berthier</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A</SimpleData>
+<SimpleData name="LONGITUDE">-73.44637815846583</SimpleData>
+<SimpleData name="LATITUDE">45.762710651090806</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4463781584658,45.7627106510908,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>140</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Entramis</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>14270</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>655, boulevard de L'Assomption</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 6Z5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4615397573646</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75414130322626</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">9</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">140</SimpleData>
+<SimpleData name="NOMLIEU">Parc Entramis</SimpleData>
+<SimpleData name="IDADRESSE">14270</SimpleData>
+<SimpleData name="ADRESSECIV">655, boulevard de L'Assomption</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 6Z5</SimpleData>
+<SimpleData name="LONGITUDE">-73.4615397573646</SimpleData>
+<SimpleData name="LATITUDE">45.75414130322626</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4615397573646,45.7541413032263,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Amédée-Meunier</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>194</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>240, rue Amédée-Meunier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 1H9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47301154655666</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72972533160839</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">10</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">150</SimpleData>
+<SimpleData name="NOMLIEU">Parc Amédée-Meunier</SimpleData>
+<SimpleData name="IDADRESSE">194</SimpleData>
+<SimpleData name="ADRESSECIV">240, rue Amédée-Meunier</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 1H9</SimpleData>
+<SimpleData name="LONGITUDE">-73.47301154655666</SimpleData>
+<SimpleData name="LATITUDE">45.72972533160839</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4730115465567,45.7297253316084,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>168</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Colbert</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>6545</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>65, rue Colbert</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 5B7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46754181510545</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77438895823536</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">11</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">168</SimpleData>
+<SimpleData name="NOMLIEU">Parc Colbert</SimpleData>
+<SimpleData name="IDADRESSE">6545</SimpleData>
+<SimpleData name="ADRESSECIV">65, rue Colbert</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 5B7</SimpleData>
+<SimpleData name="LONGITUDE">-73.46754181510545</SimpleData>
+<SimpleData name="LATITUDE">45.77438895823536</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4675418151054,45.7743889582354,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>134</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Champigny</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>5053</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>225, rue Champigny</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 3P5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4745844539343</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72791994282411</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">12</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">134</SimpleData>
+<SimpleData name="NOMLIEU">Parc Champigny</SimpleData>
+<SimpleData name="IDADRESSE">5053</SimpleData>
+<SimpleData name="ADRESSECIV">225, rue Champigny</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 3P5</SimpleData>
+<SimpleData name="LONGITUDE">-73.4745844539343</SimpleData>
+<SimpleData name="LATITUDE">45.72791994282411</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4745844539343,45.7279199428241,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>173</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Jean-Baptiste-Meilleur</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>36204</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>777, boulevard Iberville</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 1A2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43659822193368</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.761802432251805</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">13</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">173</SimpleData>
+<SimpleData name="NOMLIEU">Parc Jean-Baptiste-Meilleur</SimpleData>
+<SimpleData name="IDADRESSE">36204</SimpleData>
+<SimpleData name="ADRESSECIV">777, boulevard Iberville</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 1A2</SimpleData>
+<SimpleData name="LONGITUDE">-73.43659822193368</SimpleData>
+<SimpleData name="LATITUDE">45.761802432251805</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4365982219337,45.7618024322518,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>133</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc du Moulin</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>24895</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1055, rue Rachel</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 3R9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4180264625537</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77434437805424</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">14</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">133</SimpleData>
+<SimpleData name="NOMLIEU">Parc du Moulin</SimpleData>
+<SimpleData name="IDADRESSE">24895</SimpleData>
+<SimpleData name="ADRESSECIV">1055, rue Rachel</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 3R9</SimpleData>
+<SimpleData name="LONGITUDE">-73.4180264625537</SimpleData>
+<SimpleData name="LATITUDE">45.77434437805424</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4180264625537,45.7743443780542,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>Sur le côté du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>137</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Catherine-Bousquet</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>18576</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1350, rue Maria-Callas</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41937031767087</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.78897259052649</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">15</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">Sur le côté du chalet</SimpleData>
+<SimpleData name="IDPARC">137</SimpleData>
+<SimpleData name="NOMLIEU">Parc Catherine-Bousquet</SimpleData>
+<SimpleData name="IDADRESSE">18576</SimpleData>
+<SimpleData name="ADRESSECIV">1350, rue Maria-Callas</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y</SimpleData>
+<SimpleData name="LONGITUDE">-73.41937031767087</SimpleData>
+<SimpleData name="LATITUDE">45.78897259052649</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4193703176709,45.7889725905265,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>141</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Claudel</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>925</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1020, boulevard Basile-Routhier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 3V2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44303056023047</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77379481155185</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">16</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">141</SimpleData>
+<SimpleData name="NOMLIEU">Parc Claudel</SimpleData>
+<SimpleData name="IDADRESSE">925</SimpleData>
+<SimpleData name="ADRESSECIV">1020, boulevard Basile-Routhier</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 3V2</SimpleData>
+<SimpleData name="LONGITUDE">-73.44303056023047</SimpleData>
+<SimpleData name="LATITUDE">45.77379481155185</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4430305602305,45.7737948115519,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>166</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc des Pins</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>10368</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>250, rue Gauthier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 4P5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46473195245666</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74318779910685</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">17</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">166</SimpleData>
+<SimpleData name="NOMLIEU">Parc des Pins</SimpleData>
+<SimpleData name="IDADRESSE">10368</SimpleData>
+<SimpleData name="ADRESSECIV">250, rue Gauthier</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 4P5</SimpleData>
+<SimpleData name="LONGITUDE">-73.46473195245666</SimpleData>
+<SimpleData name="LATITUDE">45.74318779910685</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4647319524567,45.7431877991068,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>131</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Rivest</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>12482</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>685, boulevard Iberville</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2E1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43740789325535</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.757351939022</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">18</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">131</SimpleData>
+<SimpleData name="NOMLIEU">Parc Rivest</SimpleData>
+<SimpleData name="IDADRESSE">12482</SimpleData>
+<SimpleData name="ADRESSECIV">685, boulevard Iberville</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2E1</SimpleData>
+<SimpleData name="LONGITUDE">-73.43740789325535</SimpleData>
+<SimpleData name="LATITUDE">45.757351939022</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4374078932554,45.757351939022,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>155</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Sanguinet</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>27153</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>130, rue Sanguinet</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43076120822835</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76738720459652</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">19</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">155</SimpleData>
+<SimpleData name="NOMLIEU">Parc Sanguinet</SimpleData>
+<SimpleData name="IDADRESSE">27153</SimpleData>
+<SimpleData name="ADRESSECIV">130, rue Sanguinet</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y</SimpleData>
+<SimpleData name="LONGITUDE">-73.43076120822835</SimpleData>
+<SimpleData name="LATITUDE">45.76738720459652</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4307612082283,45.7673872045965,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>157</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Simard</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>27972</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>64, rue Simard</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 3M8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47869400828705</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.726784093559424</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">20</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">157</SimpleData>
+<SimpleData name="NOMLIEU">Parc Simard</SimpleData>
+<SimpleData name="IDADRESSE">27972</SimpleData>
+<SimpleData name="ADRESSECIV">64, rue Simard</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 3M8</SimpleData>
+<SimpleData name="LONGITUDE">-73.47869400828705</SimpleData>
+<SimpleData name="LATITUDE">45.726784093559424</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4786940082871,45.7267840935594,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>Sur le côté du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>153</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Chamberland</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>4918</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>610, rue Chamberland</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 1L7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46403480898694</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76617934690265</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">21</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">Sur le côté du chalet</SimpleData>
+<SimpleData name="IDPARC">153</SimpleData>
+<SimpleData name="NOMLIEU">Parc Chamberland</SimpleData>
+<SimpleData name="IDADRESSE">4918</SimpleData>
+<SimpleData name="ADRESSECIV">610, rue Chamberland</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 1L7</SimpleData>
+<SimpleData name="LONGITUDE">-73.46403480898694</SimpleData>
+<SimpleData name="LATITUDE">45.76617934690265</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4640348089869,45.7661793469027,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>158</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Delacroix</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>7921</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>925, rue Delacroix</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 3T8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44819099656681</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77143174070754</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">22</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">158</SimpleData>
+<SimpleData name="NOMLIEU">Parc Delacroix</SimpleData>
+<SimpleData name="IDADRESSE">7921</SimpleData>
+<SimpleData name="ADRESSECIV">925, rue Delacroix</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 3T8</SimpleData>
+<SimpleData name="LONGITUDE">-73.44819099656681</SimpleData>
+<SimpleData name="LATITUDE">45.77143174070754</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4481909965668,45.7714317407075,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>174</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc de l'Île-Lebel</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>396, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2T1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4485387221371</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73557362651989</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">23</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">174</SimpleData>
+<SimpleData name="NOMLIEU">Parc de l'Île-Lebel</SimpleData>
+<SimpleData name="IDADRESSE">22224</SimpleData>
+<SimpleData name="ADRESSECIV">396, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2T1</SimpleData>
+<SimpleData name="LONGITUDE">-73.4485387221371</SimpleData>
+<SimpleData name="LATITUDE">45.73557362651989</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4485387221371,45.7355736265199,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>129</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Larochelle</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>18730</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>366, rue Marquis</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 6B7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46669907615914</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74124963402509</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">24</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">129</SimpleData>
+<SimpleData name="NOMLIEU">Parc Larochelle</SimpleData>
+<SimpleData name="IDADRESSE">18730</SimpleData>
+<SimpleData name="ADRESSECIV">366, rue Marquis</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 6B7</SimpleData>
+<SimpleData name="LONGITUDE">-73.46669907615914</SimpleData>
+<SimpleData name="LATITUDE">45.74124963402509</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4666990761591,45.7412496340251,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177+</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>136</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Louis-Fréchette</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>11073</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>50, rue Gravel</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.42474349729747</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76450615542992</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">25</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177+</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">136</SimpleData>
+<SimpleData name="NOMLIEU">Parc Louis-Fréchette</SimpleData>
+<SimpleData name="IDADRESSE">11073</SimpleData>
+<SimpleData name="ADRESSECIV">50, rue Gravel</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y</SimpleData>
+<SimpleData name="LONGITUDE">-73.42474349729747</SimpleData>
+<SimpleData name="LATITUDE">45.76450615542992</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4247434972975,45.7645061554299,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>149</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Montcalm</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>12408</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>580, boulevard Iberville</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 6B8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44381293918778</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74861823103978</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">26</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">149</SimpleData>
+<SimpleData name="NOMLIEU">Parc Montcalm</SimpleData>
+<SimpleData name="IDADRESSE">12408</SimpleData>
+<SimpleData name="ADRESSECIV">580, boulevard Iberville</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 6B8</SimpleData>
+<SimpleData name="LONGITUDE">-73.44381293918778</SimpleData>
+<SimpleData name="LATITUDE">45.74861823103978</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4438129391878,45.7486182310398,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>27</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>135</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc de la Tourterelle</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>23927</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>165, rue Philippe-Goulet</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 3P6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41584542884162</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.78148242601964</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">27</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">135</SimpleData>
+<SimpleData name="NOMLIEU">Parc de la Tourterelle</SimpleData>
+<SimpleData name="IDADRESSE">23927</SimpleData>
+<SimpleData name="ADRESSECIV">165, rue Philippe-Goulet</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 3P6</SimpleData>
+<SimpleData name="LONGITUDE">-73.41584542884162</SimpleData>
+<SimpleData name="LATITUDE">45.78148242601964</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4158454288416,45.7814824260196,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>174</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc de l'Île-Lebel</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>16838</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>396, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2T1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44538205719994</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.736704586289605</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">28</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">174</SimpleData>
+<SimpleData name="NOMLIEU">Parc de l'Île-Lebel</SimpleData>
+<SimpleData name="IDADRESSE">16838</SimpleData>
+<SimpleData name="ADRESSECIV">396, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2T1</SimpleData>
+<SimpleData name="LONGITUDE">-73.44538205719994</SimpleData>
+<SimpleData name="LATITUDE">45.736704586289605</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4453820571999,45.7367045862896,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>163</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Juneau</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>18719</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>3, rue Marquette</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43880653328199</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74837816910262</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">29</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">163</SimpleData>
+<SimpleData name="NOMLIEU">Parc Juneau</SimpleData>
+<SimpleData name="IDADRESSE">18719</SimpleData>
+<SimpleData name="ADRESSECIV">3, rue Marquette</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A</SimpleData>
+<SimpleData name="LONGITUDE">-73.43880653328199</SimpleData>
+<SimpleData name="LATITUDE">45.74837816910262</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.438806533282,45.7483781691026,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>160</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Deschamps</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>80820</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>243, rue Lanoue</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 1W2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46641153732573</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72689936437145</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">30</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">160</SimpleData>
+<SimpleData name="NOMLIEU">Parc Deschamps</SimpleData>
+<SimpleData name="IDADRESSE">80820</SimpleData>
+<SimpleData name="ADRESSECIV">243, rue Lanoue</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 1W2</SimpleData>
+<SimpleData name="LONGITUDE">-73.46641153732573</SimpleData>
+<SimpleData name="LATITUDE">45.72689936437145</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4664115373257,45.7268993643714,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3380G</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Centre d'art Diane-Dufresne</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>IDADRESSE</th>
+<td>36111</td>
+</tr><tr bgcolor="">
+<th>ADRESSECIV</th>
+<td>11, allée de la Création</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>CODEPOSTAL</th>
+<td>J6A 0C2</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44845448566282</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.73819814505262</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">31</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3380G</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="NOMLIEU">Centre d'art Diane-Dufresne</SimpleData>
+<SimpleData name="IDADRESSE">36111</SimpleData>
+<SimpleData name="ADRESSECIV">11, allée de la Création</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 0C2</SimpleData>
+<SimpleData name="LONGITUDE">-73.44845448566282</SimpleData>
+<SimpleData name="LATITUDE">45.73819814505262</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4484544856628,45.7381981450526,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>32</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Piscine</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>146</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Lachapelle</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>28791</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>45, rue Valois</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 1L7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.42792786182324</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76118016050476</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">32</SimpleData>
+<SimpleData name="TYPE">Piscine</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">146</SimpleData>
+<SimpleData name="NOMLIEU">Parc Lachapelle</SimpleData>
+<SimpleData name="IDADRESSE">28791</SimpleData>
+<SimpleData name="ADRESSECIV">45, rue Valois</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 1L7</SimpleData>
+<SimpleData name="LONGITUDE">-73.42792786182324</SimpleData>
+<SimpleData name="LATITUDE">45.76118016050476</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4279278618232,45.7611801605048,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>160</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Deschamps</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>36282</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>245, rue Lanoue</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 1W2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46586852939257</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72683811955607</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">36</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">160</SimpleData>
+<SimpleData name="NOMLIEU">Parc Deschamps</SimpleData>
+<SimpleData name="IDADRESSE">36282</SimpleData>
+<SimpleData name="ADRESSECIV">245, rue Lanoue</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 1W2</SimpleData>
+<SimpleData name="LONGITUDE">-73.46586852939257</SimpleData>
+<SimpleData name="LATITUDE">45.72683811955607</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4658685293926,45.7268381195561,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>41</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>Sur le côté du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4563541649552</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7267970583886</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">41</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">Sur le côté du chalet</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.4563541649552</SimpleData>
+<SimpleData name="LATITUDE">45.7267970583886</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4563541649552,45.7267970583886,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>42</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Fermé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4563434132048</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72682257170045</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">42</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="STATUT">Fermé</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.4563434132048</SimpleData>
+<SimpleData name="LATITUDE">45.72682257170045</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4563434132048,45.7268225717005,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>43</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45630759662733</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72699706287383</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">43</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.45630759662733</SimpleData>
+<SimpleData name="LATITUDE">45.72699706287383</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4563075966273,45.7269970628738,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>45</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>156</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Lajoie</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>15685</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>75, rue Lajoie</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 4K3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4589854347344</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.738168885313684</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">45</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">156</SimpleData>
+<SimpleData name="NOMLIEU">Parc Lajoie</SimpleData>
+<SimpleData name="IDADRESSE">15685</SimpleData>
+<SimpleData name="ADRESSECIV">75, rue Lajoie</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 4K3</SimpleData>
+<SimpleData name="LONGITUDE">-73.4589854347344</SimpleData>
+<SimpleData name="LATITUDE">45.738168885313684</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4589854347344,45.7381688853137,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>46</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3177</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>156</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Lajoie</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>15685</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>75, rue Lajoie</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45916983714935</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.738176183325244</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">46</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3177</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">156</SimpleData>
+<SimpleData name="NOMLIEU">Parc Lajoie</SimpleData>
+<SimpleData name="IDADRESSE">15685</SimpleData>
+<SimpleData name="ADRESSECIV">75, rue Lajoie</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A</SimpleData>
+<SimpleData name="LONGITUDE">-73.45916983714935</SimpleData>
+<SimpleData name="LATITUDE">45.738176183325244</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4591698371493,45.7381761833252,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>49</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Piscine</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Thifault</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>80691</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>459, rue Robillard</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 0C2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45017099008234</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.74034790791477</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">49</SimpleData>
+<SimpleData name="TYPE">Piscine</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">128</SimpleData>
+<SimpleData name="NOMLIEU">Parc Thifault</SimpleData>
+<SimpleData name="IDADRESSE">80691</SimpleData>
+<SimpleData name="ADRESSECIV">459, rue Robillard</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 0C2</SimpleData>
+<SimpleData name="LONGITUDE">-73.45017099008234</SimpleData>
+<SimpleData name="LATITUDE">45.74034790791477</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4501709900823,45.7403479079148,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>50</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Noir</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Thifault</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>80691</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>457, rue Robillard</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45087112990561</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.740592689612264</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">50</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Noir</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">128</SimpleData>
+<SimpleData name="NOMLIEU">Parc Thifault</SimpleData>
+<SimpleData name="IDADRESSE">80691</SimpleData>
+<SimpleData name="ADRESSECIV">457, rue Robillard</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A</SimpleData>
+<SimpleData name="LONGITUDE">-73.45087112990561</SimpleData>
+<SimpleData name="LATITUDE">45.740592689612264</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4508711299056,45.7405926896123,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>54</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Piscine</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>131</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Rivest</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>12482</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>685, boulevard Iberville</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2E1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43750887219738</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75685561850584</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">54</SimpleData>
+<SimpleData name="TYPE">Piscine</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">131</SimpleData>
+<SimpleData name="NOMLIEU">Parc Rivest</SimpleData>
+<SimpleData name="IDADRESSE">12482</SimpleData>
+<SimpleData name="ADRESSECIV">685, boulevard Iberville</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2E1</SimpleData>
+<SimpleData name="LONGITUDE">-73.43750887219738</SimpleData>
+<SimpleData name="LATITUDE">45.75685561850584</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4375088721974,45.7568556185058,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>64</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Noir</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'intérieur du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>176</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Maurice-Richard</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>13116</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>200, boulevard Louis-Philippe-Picard</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 0A8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.41036627337658</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7891506472944</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">64</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Noir</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'intérieur du chalet</SimpleData>
+<SimpleData name="IDPARC">176</SimpleData>
+<SimpleData name="NOMLIEU">Parc Maurice-Richard</SimpleData>
+<SimpleData name="IDADRESSE">13116</SimpleData>
+<SimpleData name="ADRESSECIV">200, boulevard Louis-Philippe-Picard</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 0A8</SimpleData>
+<SimpleData name="LONGITUDE">-73.41036627337658</SimpleData>
+<SimpleData name="LATITUDE">45.7891506472944</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4103662733766,45.7891506472944,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>66</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3500</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Noir</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>176</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Maurice-Richard</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>13159</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>200, boulevard Louis-Philippe-Picard</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 0A8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.411568096633</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.78929719106686</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">66</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3500</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Noir</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">176</SimpleData>
+<SimpleData name="NOMLIEU">Parc Maurice-Richard</SimpleData>
+<SimpleData name="IDADRESSE">13159</SimpleData>
+<SimpleData name="ADRESSECIV">200, boulevard Louis-Philippe-Picard</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 0A8</SimpleData>
+<SimpleData name="LONGITUDE">-73.411568096633</SimpleData>
+<SimpleData name="LATITUDE">45.78929719106686</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.411568096633,45.7892971910669,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>67</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>176</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Maurice-Richard</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>17912</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>200, boulevard Louis-Philippe-Picard</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 0A8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.40967123474756</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.78916353100163</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">67</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">176</SimpleData>
+<SimpleData name="NOMLIEU">Parc Maurice-Richard</SimpleData>
+<SimpleData name="IDADRESSE">17912</SimpleData>
+<SimpleData name="ADRESSECIV">200, boulevard Louis-Philippe-Picard</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 0A8</SimpleData>
+<SimpleData name="LONGITUDE">-73.40967123474756</SimpleData>
+<SimpleData name="LATITUDE">45.78916353100163</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4096712347476,45.7891635310016,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>68</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'intérieur du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>139</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Rochefort</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>21506</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1286, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 3X1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.40489229034874</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.77870086786559</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">68</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'intérieur du chalet</SimpleData>
+<SimpleData name="IDPARC">139</SimpleData>
+<SimpleData name="NOMLIEU">Parc Rochefort</SimpleData>
+<SimpleData name="IDADRESSE">21506</SimpleData>
+<SimpleData name="ADRESSECIV">1286, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 3X1</SimpleData>
+<SimpleData name="LONGITUDE">-73.40489229034874</SimpleData>
+<SimpleData name="LATITUDE">45.77870086786559</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4048922903487,45.7787008678656,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>69</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>139</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Rochefort</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>21506</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1286, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 3X1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.40459126008237</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.778768120299965</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">69</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">139</SimpleData>
+<SimpleData name="NOMLIEU">Parc Rochefort</SimpleData>
+<SimpleData name="IDADRESSE">21506</SimpleData>
+<SimpleData name="ADRESSECIV">1286, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 3X1</SimpleData>
+<SimpleData name="LONGITUDE">-73.40459126008237</SimpleData>
+<SimpleData name="LATITUDE">45.778768120299965</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4045912600824,45.7787681203,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>70</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>129</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Larochelle</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>18730</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>366, rue Marquis</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 6B7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46697468685542</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.741450326520344</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">70</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">129</SimpleData>
+<SimpleData name="NOMLIEU">Parc Larochelle</SimpleData>
+<SimpleData name="IDADRESSE">18730</SimpleData>
+<SimpleData name="ADRESSECIV">366, rue Marquis</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 6B7</SimpleData>
+<SimpleData name="LONGITUDE">-73.46697468685542</SimpleData>
+<SimpleData name="LATITUDE">45.741450326520344</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4669746868554,45.7414503265203,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>71</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Piscine</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>142</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc de la Paix</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>2221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>170, rue de Berthier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 7Y5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44654979630486</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76287431505599</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">71</SimpleData>
+<SimpleData name="TYPE">Piscine</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">142</SimpleData>
+<SimpleData name="NOMLIEU">Parc de la Paix</SimpleData>
+<SimpleData name="IDADRESSE">2221</SimpleData>
+<SimpleData name="ADRESSECIV">170, rue de Berthier</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 7Y5</SimpleData>
+<SimpleData name="LONGITUDE">-73.44654979630486</SimpleData>
+<SimpleData name="LATITUDE">45.76287431505599</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4465497963049,45.762874315056,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>75</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Frédéric-Coiteux</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>954</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1201, boulevard Basile-Routhier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 0L3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.43780670264904</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.7785805108675</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">75</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">132</SimpleData>
+<SimpleData name="NOMLIEU">Parc Frédéric-Coiteux</SimpleData>
+<SimpleData name="IDADRESSE">954</SimpleData>
+<SimpleData name="ADRESSECIV">1201, boulevard Basile-Routhier</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 0L3</SimpleData>
+<SimpleData name="LONGITUDE">-73.43780670264904</SimpleData>
+<SimpleData name="LATITUDE">45.7785805108675</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.437806702649,45.7785805108675,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>77</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>144</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Marie-Soleil-Tougas</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>23198</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>250, rue de la Paix</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 4Y6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47132578726016</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76963722911976</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">77</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">144</SimpleData>
+<SimpleData name="NOMLIEU">Parc Marie-Soleil-Tougas</SimpleData>
+<SimpleData name="IDADRESSE">23198</SimpleData>
+<SimpleData name="ADRESSECIV">250, rue de la Paix</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 4Y6</SimpleData>
+<SimpleData name="LONGITUDE">-73.47132578726016</SimpleData>
+<SimpleData name="LATITUDE">45.76963722911976</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4713257872602,45.7696372291198,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>78</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>Sur le côté du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>144</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Marie-Soleil-Tougas</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>23198</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>250, rue de la Paix</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47106592720081</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76949284949822</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">78</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">Sur le côté du chalet</SimpleData>
+<SimpleData name="IDPARC">144</SimpleData>
+<SimpleData name="NOMLIEU">Parc Marie-Soleil-Tougas</SimpleData>
+<SimpleData name="IDADRESSE">23198</SimpleData>
+<SimpleData name="ADRESSECIV">250, rue de la Paix</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z</SimpleData>
+<SimpleData name="LONGITUDE">-73.47106592720081</SimpleData>
+<SimpleData name="LATITUDE">45.76949284949822</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4710659272008,45.7694928494982,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>87</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Noir</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>Sur le côté du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>192</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc des Premières-Nations</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>36230</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>1399, boulevard Basile-Routhier</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Y 4A7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.4313135549269</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.784220518110644</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">87</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Noir</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">Sur le côté du chalet</SimpleData>
+<SimpleData name="IDPARC">192</SimpleData>
+<SimpleData name="NOMLIEU">Parc des Premières-Nations</SimpleData>
+<SimpleData name="IDADRESSE">36230</SimpleData>
+<SimpleData name="ADRESSECIV">1399, boulevard Basile-Routhier</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Y 4A7</SimpleData>
+<SimpleData name="LONGITUDE">-73.4313135549269</SimpleData>
+<SimpleData name="LATITUDE">45.784220518110644</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4313135549269,45.7842205181106,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>88</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>126</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Jean-Claude-Crevier</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>2244</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>232, rue Bertrand</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 4L3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47800359992209</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76105455487906</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">88</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">126</SimpleData>
+<SimpleData name="NOMLIEU">Parc Jean-Claude-Crevier</SimpleData>
+<SimpleData name="IDADRESSE">2244</SimpleData>
+<SimpleData name="ADRESSECIV">232, rue Bertrand</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 4L3</SimpleData>
+<SimpleData name="LONGITUDE">-73.47800359992209</SimpleData>
+<SimpleData name="LATITUDE">45.76105455487906</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4780035999221,45.7610545548791,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>89</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Béton</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Naturel</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>160</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Deschamps</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>36282</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>243, rue Lanoue</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 1W2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46578618501583</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.726957909259994</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">89</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Béton</SimpleData>
+<SimpleData name="COULEUR">Naturel</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">160</SimpleData>
+<SimpleData name="NOMLIEU">Parc Deschamps</SimpleData>
+<SimpleData name="IDADRESSE">36282</SimpleData>
+<SimpleData name="ADRESSECIV">243, rue Lanoue</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 1W2</SimpleData>
+<SimpleData name="LONGITUDE">-73.46578618501583</SimpleData>
+<SimpleData name="LATITUDE">45.726957909259994</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4657861850158,45.72695790926,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>90</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.45695102097686</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72704606949196</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">90</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="LONGITUDE">-73.45695102097686</SimpleData>
+<SimpleData name="LATITUDE">45.72704606949196</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4569510209769,45.727046069492,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>91</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45624385512927</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72699143042932</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">91</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.45624385512927</SimpleData>
+<SimpleData name="LATITUDE">45.72699143042932</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4562438551293,45.7269914304293,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>92</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45632245513475</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72698105872825</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">92</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.45632245513475</SimpleData>
+<SimpleData name="LATITUDE">45.72698105872825</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4563224551348,45.7269810587282,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>94</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Saint-Laurent</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22150</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>280, rue Notre-Dame</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 2R6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.45626276164944</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72700130000969</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">94</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="IDPARC">130</SimpleData>
+<SimpleData name="NOMLIEU">Parc Saint-Laurent</SimpleData>
+<SimpleData name="IDADRESSE">22150</SimpleData>
+<SimpleData name="ADRESSECIV">280, rue Notre-Dame</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2R6</SimpleData>
+<SimpleData name="LONGITUDE">-73.45626276164944</SimpleData>
+<SimpleData name="LATITUDE">45.72700130000969</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4562627616494,45.7270013000097,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>192</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Jeu d'eau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>152</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Laforest</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47273062723293</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.72300039461172</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">192</SimpleData>
+<SimpleData name="TYPE">Jeu d'eau</SimpleData>
+<SimpleData name="IDPARC">152</SimpleData>
+<SimpleData name="NOMLIEU">Parc Laforest</SimpleData>
+<SimpleData name="LONGITUDE">-73.47273062723293</SimpleData>
+<SimpleData name="LATITUDE">45.72300039461172</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4727306272329,45.7230003946117,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>193</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3380G</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>152</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Laforest</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>17805</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>173, rue Lorange</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 3H3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47270949978987</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.723065948469596</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">193</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3380G</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">152</SimpleData>
+<SimpleData name="NOMLIEU">Parc Laforest</SimpleData>
+<SimpleData name="IDADRESSE">17805</SimpleData>
+<SimpleData name="ADRESSECIV">173, rue Lorange</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 3H3</SimpleData>
+<SimpleData name="LONGITUDE">-73.47270949978987</SimpleData>
+<SimpleData name="LATITUDE">45.723065948469596</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4727094997899,45.7230659484696,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>333</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3380G</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>152</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Laforest</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>17805</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>173, rue Lorange</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 3H3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47282237327835</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.72271311579581</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">333</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3380G</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">152</SimpleData>
+<SimpleData name="NOMLIEU">Parc Laforest</SimpleData>
+<SimpleData name="IDADRESSE">17805</SimpleData>
+<SimpleData name="ADRESSECIV">173, rue Lorange</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 3H3</SimpleData>
+<SimpleData name="LONGITUDE">-73.47282237327835</SimpleData>
+<SimpleData name="LATITUDE">45.72271311579581</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4728223732783,45.7227131157958,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>334</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Piscine</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47765094784953</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.761757280964524</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">334</SimpleData>
+<SimpleData name="TYPE">Piscine</SimpleData>
+<SimpleData name="LONGITUDE">-73.47765094784953</SimpleData>
+<SimpleData name="LATITUDE">45.761757280964524</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4776509478495,45.7617572809645,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>339</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3380G</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Thifault</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>81545</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>25, allée de la Création</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 0C2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.44940166569819</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.73929415279726</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">339</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3380G</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">128</SimpleData>
+<SimpleData name="NOMLIEU">Parc Thifault</SimpleData>
+<SimpleData name="IDADRESSE">81545</SimpleData>
+<SimpleData name="ADRESSECIV">25, allée de la Création</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 0C2</SimpleData>
+<SimpleData name="LONGITUDE">-73.44940166569819</SimpleData>
+<SimpleData name="LATITUDE">45.73929415279726</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4494016656982,45.7392941527973,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>340</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td>Modèle 3380G</td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Acier inoxydable</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Thifault</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>81545</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>25, allée de la Création</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 0C2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.449509173665</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.739163544075176</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">340</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MODELE">Modèle 3380G</SimpleData>
+<SimpleData name="MATERIAU">Acier inoxydable</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">128</SimpleData>
+<SimpleData name="NOMLIEU">Parc Thifault</SimpleData>
+<SimpleData name="IDADRESSE">81545</SimpleData>
+<SimpleData name="ADRESSECIV">25, allée de la Création</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 0C2</SimpleData>
+<SimpleData name="LONGITUDE">-73.449509173665</SimpleData>
+<SimpleData name="LATITUDE">45.739163544075176</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.449509173665,45.7391635440752,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>341</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Gris</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>NOMLIEU</th>
+<td>Hôtel de ville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>IDADRESSE</th>
+<td>12167</td>
+</tr><tr bgcolor="">
+<th>ADRESSECIV</th>
+<td>435, boulevard Iberville</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>CODEPOSTAL</th>
+<td>J6A 2B6</td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.4512957833495</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.74147009033929</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">341</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="COULEUR">Gris</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="NOMLIEU">Hôtel de ville</SimpleData>
+<SimpleData name="IDADRESSE">12167</SimpleData>
+<SimpleData name="ADRESSECIV">435, boulevard Iberville</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 2B6</SimpleData>
+<SimpleData name="LONGITUDE">-73.4512957833495</SimpleData>
+<SimpleData name="LATITUDE">45.74147009033929</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4512957833495,45.7414700903393,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>344</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td>Aluminium</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Noir</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>204</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Halte Claude-Hunault-Dit-Deschamps</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>22776</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>201, boulevard Notre-Dame-des-Champs</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J6A 3B2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47530183519744</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.71517146656067</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">344</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="MATERIAU">Aluminium</SimpleData>
+<SimpleData name="COULEUR">Noir</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">204</SimpleData>
+<SimpleData name="NOMLIEU">Halte Claude-Hunault-Dit-Deschamps</SimpleData>
+<SimpleData name="IDADRESSE">22776</SimpleData>
+<SimpleData name="ADRESSECIV">201, boulevard Notre-Dame-des-Champs</SimpleData>
+<SimpleData name="CODEPOSTAL">J6A 3B2</SimpleData>
+<SimpleData name="LONGITUDE">-73.47530183519744</SimpleData>
+<SimpleData name="LATITUDE">45.71517146656067</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4753018351974,45.7151714665607,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>345</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>À l'extérieur</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>196</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Agathe-De St-Père</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>29308</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>372, rue du Village</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 1S3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.47074984313392</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.75044483259865</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">345</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">À l'extérieur</SimpleData>
+<SimpleData name="IDPARC">196</SimpleData>
+<SimpleData name="NOMLIEU">Parc Agathe-De St-Père</SimpleData>
+<SimpleData name="IDADRESSE">29308</SimpleData>
+<SimpleData name="ADRESSECIV">372, rue du Village</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 1S3</SimpleData>
+<SimpleData name="LONGITUDE">-73.47074984313392</SimpleData>
+<SimpleData name="LATITUDE">45.75044483259865</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4707498431339,45.7504448325987,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>346</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td>Ouvert</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td>Fermé mi-octobre à mai</td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td>7 h à 23 h</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td>Sur le côté du chalet</td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>147</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc des Artisans</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td>11467</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td>570, rue Huguette</td>
+</tr><tr bgcolor="">
+<th>CODEPOSTAL</th>
+<td>J5Z 3A1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LONGITUDE</th>
+<td>-73.46620405906992</td>
+</tr><tr bgcolor="">
+<th>LATITUDE</th>
+<td>45.76193554378801</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">346</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="STATUT">Ouvert</SimpleData>
+<SimpleData name="PERIODE">Fermé mi-octobre à mai</SimpleData>
+<SimpleData name="HEURES">7 h à 23 h</SimpleData>
+<SimpleData name="LOCALISAT">Sur le côté du chalet</SimpleData>
+<SimpleData name="IDPARC">147</SimpleData>
+<SimpleData name="NOMLIEU">Parc des Artisans</SimpleData>
+<SimpleData name="IDADRESSE">11467</SimpleData>
+<SimpleData name="ADRESSECIV">570, rue Huguette</SimpleData>
+<SimpleData name="CODEPOSTAL">J5Z 3A1</SimpleData>
+<SimpleData name="LONGITUDE">-73.46620405906992</SimpleData>
+<SimpleData name="LATITUDE">45.76193554378801</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4662040590699,45.761935543788,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>347</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td>Vert</td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>137</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Catherine-Bousquet</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.41996603414403</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.78924449094109</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">347</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="COULEUR">Vert</SimpleData>
+<SimpleData name="IDPARC">137</SimpleData>
+<SimpleData name="NOMLIEU">Parc Catherine-Bousquet</SimpleData>
+<SimpleData name="LONGITUDE">-73.41996603414403</SimpleData>
+<SimpleData name="LATITUDE">45.78924449094109</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.419966034144,45.7892444909411,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>348</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Douche extérieur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.47758599894973</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.761908979147606</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">348</SimpleData>
+<SimpleData name="TYPE">Douche extérieur</SimpleData>
+<SimpleData name="LONGITUDE">-73.47758599894973</SimpleData>
+<SimpleData name="LATITUDE">45.761908979147606</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4775859989497,45.7619089791476,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>IDEQUIPEAU</th>
+<td>349</td>
+</tr><tr bgcolor="">
+<th>TYPE</th>
+<td>Fontaine à boire</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MODELE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>MATERIAU</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>COULEUR</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>STATUT</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PERIODE</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>HEURES</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LOCALISAT</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>IDPARC</th>
+<td>141</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NOMLIEU</th>
+<td>Parc Claudel</td>
+</tr><tr bgcolor="">
+<th>IDADRESSE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>ADRESSECIV</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>LONGITUDE</th>
+<td>-73.44321626568116</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LATITUDE</th>
+<td>45.774419177242244</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Equipement_eau">
+<SimpleData name="IDEQUIPEAU">349</SimpleData>
+<SimpleData name="TYPE">Fontaine à boire</SimpleData>
+<SimpleData name="IDPARC">141</SimpleData>
+<SimpleData name="NOMLIEU">Parc Claudel</SimpleData>
+<SimpleData name="LONGITUDE">-73.44321626568116</SimpleData>
+<SimpleData name="LATITUDE">45.774419177242244</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-73.4432162656812,45.7744191772422,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

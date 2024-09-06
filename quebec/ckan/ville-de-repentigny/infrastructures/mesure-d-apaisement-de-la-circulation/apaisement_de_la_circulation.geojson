@@ -1,0 +1,3746 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Apaisement de la circulation",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4376127333, 45.7855933954 ]
+			},
+			"properties" : {
+				"ID" : 115,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "des Rivières / de la Mingan",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.43761,
+				"LATITUDE" : 45.78559,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4391283576, 45.7838218214 ]
+			},
+			"properties" : {
+				"ID" : 116,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "de la Yamaska / de la Mingan",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.43913,
+				"LATITUDE" : 45.78382,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4350636726, 45.7841314196 ]
+			},
+			"properties" : {
+				"ID" : 117,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "des Rivières / de la Ouareau",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.43506,
+				"LATITUDE" : 45.78413,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.435727087, 45.7793872197 ]
+			},
+			"properties" : {
+				"ID" : 118,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "Basile-Routhier / de Toulouse",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.43573,
+				"LATITUDE" : 45.77939,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4409294667, 45.781524066 ]
+			},
+			"properties" : {
+				"ID" : 119,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "de la Mingan / de Toulouse",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.44093,
+				"LATITUDE" : 45.78152,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4380746946, 45.776789115 ]
+			},
+			"properties" : {
+				"ID" : 120,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "Basile-Routhier / des Monts-Valin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.43807,
+				"LATITUDE" : 45.77679,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4546740058, 45.7702615026 ]
+			},
+			"properties" : {
+				"ID" : 121,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "Bd le Bourg-Neuf",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2013-01-07",
+				"LONGITUDE" : -73.45467,
+				"LATITUDE" : 45.77026,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4711774775, 45.7535712672 ]
+			},
+			"properties" : {
+				"ID" : 124,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "de la Pruche / Rivest",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-05-18",
+				"LONGITUDE" : -73.47118,
+				"LATITUDE" : 45.75357,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4711232008, 45.7502272886 ]
+			},
+			"properties" : {
+				"ID" : 125,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "du Village / Léveillée",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-05-18",
+				"LONGITUDE" : -73.47112,
+				"LATITUDE" : 45.75023,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4331293985, 45.7812412021 ]
+			},
+			"properties" : {
+				"ID" : 126,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1312 rue des Outaouais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43313,
+				"LATITUDE" : 45.78124,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4357452013, 45.7823683227 ]
+			},
+			"properties" : {
+				"ID" : 122,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1620 rue de la Ouareau",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-05-15",
+				"LONGITUDE" : -73.43575,
+				"LATITUDE" : 45.78237,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4406024638, 45.7836272421 ]
+			},
+			"properties" : {
+				"ID" : 127,
+				"TYPE" : "Intersection surélevée",
+				"ADRESSE" : "Attikamek / Harricana",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-05-18",
+				"LONGITUDE" : -73.4406,
+				"LATITUDE" : 45.78363,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4104847116, 45.7913650276 ]
+			},
+			"properties" : {
+				"ID" : 128,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "250 bd Louis-Philippe-Picard",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.41048,
+				"LATITUDE" : 45.79137,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4111755321, 45.7916515763 ]
+			},
+			"properties" : {
+				"ID" : 134,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "250 bd Louis-Philippe-Picard",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.41118,
+				"LATITUDE" : 45.79165,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4065711173, 45.7786418202 ]
+			},
+			"properties" : {
+				"ID" : 136,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "Notre-Dame / Rochefort",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.40657,
+				"LATITUDE" : 45.77864,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4427329857, 45.7413849002 ]
+			},
+			"properties" : {
+				"ID" : 145,
+				"TYPE" : "Îlot central pour passage piétonnier",
+				"ADRESSE" : "504 rue Notre-Dame",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-06-21",
+				"LONGITUDE" : -73.44273,
+				"LATITUDE" : 45.74138,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4062188915, 45.7787084535 ]
+			},
+			"properties" : {
+				"ID" : 146,
+				"TYPE" : "Îlot central pour passage piétonnier",
+				"ADRESSE" : "1270 rue Notre-Dame",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-06-21",
+				"LONGITUDE" : -73.40622,
+				"LATITUDE" : 45.77871,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4045854728, 45.7799148243 ]
+			},
+			"properties" : {
+				"ID" : 147,
+				"TYPE" : "Îlot central pour passage piétonnier",
+				"ADRESSE" : "Notre-Dame / Verdier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-06-21",
+				"LONGITUDE" : -73.40459,
+				"LATITUDE" : 45.77991,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4509026595, 45.7347221649 ]
+			},
+			"properties" : {
+				"ID" : 148,
+				"TYPE" : "Îlot central pour passage piétonnier",
+				"ADRESSE" : "Notre-Dame / Sarto",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-06-21",
+				"LONGITUDE" : -73.4509,
+				"LATITUDE" : 45.73472,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4478454693, 45.7377099451 ]
+			},
+			"properties" : {
+				"ID" : 150,
+				"TYPE" : "Îlot central pour passage piétonnier",
+				"ADRESSE" : "Notre-Dame / Lebel",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-06-21",
+				"LONGITUDE" : -73.44785,
+				"LATITUDE" : 45.73771,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4089850821, 45.7766858197 ]
+			},
+			"properties" : {
+				"ID" : 152,
+				"TYPE" : "Îlot central pour passage piétonnier",
+				"ADRESSE" : "1188 rue Notre-Dame",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-06-21",
+				"LONGITUDE" : -73.40899,
+				"LATITUDE" : 45.77669,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4326945377, 45.7827943931 ]
+			},
+			"properties" : {
+				"ID" : 158,
+				"TYPE" : "Carrefour giratoire",
+				"ADRESSE" : "1372 bd Basile-Routhier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-08-29",
+				"LONGITUDE" : -73.43269,
+				"LATITUDE" : 45.78279,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.407545002, 45.7889100961 ]
+			},
+			"properties" : {
+				"ID" : 159,
+				"TYPE" : "Carrefour giratoire",
+				"ADRESSE" : "260 bd Louis-Philippe-Picard",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2017-08-29",
+				"LONGITUDE" : -73.40755,
+				"LATITUDE" : 45.78891,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4082004423, 45.7772134957 ]
+			},
+			"properties" : {
+				"ID" : 135,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "1206 rue Notre-Dame",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.4082,
+				"LATITUDE" : 45.77721,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4426848709, 45.775080893 ]
+			},
+			"properties" : {
+				"ID" : 139,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "1046 rue Basile-Routhier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.44268,
+				"LATITUDE" : 45.77508,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4780449868, 45.7453356892 ]
+			},
+			"properties" : {
+				"ID" : 137,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "208 bd Lacombe",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.47804,
+				"LATITUDE" : 45.74534,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4800423654, 45.7438577007 ]
+			},
+			"properties" : {
+				"ID" : 138,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "177 bd Lacombe",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.48004,
+				"LATITUDE" : 45.74386,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4493356427, 45.7706733549 ]
+			},
+			"properties" : {
+				"ID" : 141,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "930 bd de L'Assomption",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.44934,
+				"LATITUDE" : 45.77067,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4313190405, 45.7629612516 ]
+			},
+			"properties" : {
+				"ID" : 161,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "780 bd Iberville",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.43132,
+				"LATITUDE" : 45.76296,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4329626304, 45.7641140006 ]
+			},
+			"properties" : {
+				"ID" : 162,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "149 rue Valmont",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.43296,
+				"LATITUDE" : 45.76411,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4354801283, 45.7650668572 ]
+			},
+			"properties" : {
+				"ID" : 163,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "229 rue Valmont",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.43548,
+				"LATITUDE" : 45.76507,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4609069067, 45.7305184132 ]
+			},
+			"properties" : {
+				"ID" : 164,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "290 bd Iberville",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.46091,
+				"LATITUDE" : 45.73052,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4615513323, 45.729813281 ]
+			},
+			"properties" : {
+				"ID" : 165,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "280 bd Iberville",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.46155,
+				"LATITUDE" : 45.72981,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4462504881, 45.7394203513 ]
+			},
+			"properties" : {
+				"ID" : 166,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "465 rue Notre-Dame",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.44625,
+				"LATITUDE" : 45.73942,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4505568418, 45.734937878 ]
+			},
+			"properties" : {
+				"ID" : 167,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "381 rue Notre-Dame",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.45056,
+				"LATITUDE" : 45.73494,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4720051454, 45.7521790545 ]
+			},
+			"properties" : {
+				"ID" : 168,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "391 bd Lacombe",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.47201,
+				"LATITUDE" : 45.75218,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4724471596, 45.7516043132 ]
+			},
+			"properties" : {
+				"ID" : 169,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "380 bd Lacombe",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.47245,
+				"LATITUDE" : 45.7516,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4763996492, 45.76337427 ]
+			},
+			"properties" : {
+				"ID" : 170,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "236 bd J.-A. Paré",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.4764,
+				"LATITUDE" : 45.76337,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4762931103, 45.7624214182 ]
+			},
+			"properties" : {
+				"ID" : 171,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "222 bd J.-A. Paré",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-05-15",
+				"LONGITUDE" : -73.47629,
+				"LATITUDE" : 45.76242,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4991766815, 45.7628960541 ]
+			},
+			"properties" : {
+				"ID" : 172,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "289 chemin de la Presqu'île",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-12-11",
+				"LONGITUDE" : -73.49918,
+				"LATITUDE" : 45.7629,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.493402211, 45.7687643464 ]
+			},
+			"properties" : {
+				"ID" : 174,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "459 chemin de la Presqu'île",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-12-11",
+				"LONGITUDE" : -73.4934,
+				"LATITUDE" : 45.76876,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.5105264761, 45.7440681435 ]
+			},
+			"properties" : {
+				"ID" : 175,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "Chemin de la Presqu'île",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2019-12-11",
+				"LONGITUDE" : -73.51053,
+				"LATITUDE" : 45.74407,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4763633677, 45.7916826578 ]
+			},
+			"properties" : {
+				"ID" : 173,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "665 chemin de la Presqu'île",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2022-04-06",
+				"LONGITUDE" : -73.47636,
+				"LATITUDE" : 45.79168,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.436692599, 45.7781798994 ]
+			},
+			"properties" : {
+				"ID" : 140,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "1210 rue Basile-Routhier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2022-04-06",
+				"LONGITUDE" : -73.43669,
+				"LATITUDE" : 45.77818,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.448918539, 45.7696227155 ]
+			},
+			"properties" : {
+				"ID" : 142,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "924 bd de L'Assomption",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2022-04-06",
+				"LONGITUDE" : -73.44892,
+				"LATITUDE" : 45.76962,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4965920652, 45.7330659815 ]
+			},
+			"properties" : {
+				"ID" : 178,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "272 chemin Presqu'île, Charlemagne",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2022-04-06",
+				"LONGITUDE" : -73.49659,
+				"LATITUDE" : 45.73307,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4854319444, 45.7237224908 ]
+			},
+			"properties" : {
+				"ID" : 179,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "120 rue St-Alexis, Charlemagne",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2022-04-06",
+				"LONGITUDE" : -73.48543,
+				"LATITUDE" : 45.72372,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4851642345, 45.7248463429 ]
+			},
+			"properties" : {
+				"ID" : 180,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "1 rue Benoît-Sauvageau, Charlemagne",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2022-04-06",
+				"LONGITUDE" : -73.48516,
+				"LATITUDE" : 45.72485,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4583045791, 45.7334417398 ]
+			},
+			"properties" : {
+				"ID" : 182,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Iberville / Robert-Lussier (ouest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.4583,
+				"LATITUDE" : 45.73344,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4582204675, 45.7334017124 ]
+			},
+			"properties" : {
+				"ID" : 183,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Iberville / Robert-Lussier (est)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.45822,
+				"LATITUDE" : 45.7334,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4358376395, 45.758085721 ]
+			},
+			"properties" : {
+				"ID" : 184,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Iberville / Alain (ouest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43584,
+				"LATITUDE" : 45.75809,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4357356596, 45.7580380488 ]
+			},
+			"properties" : {
+				"ID" : 185,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Iberville / Alain (est)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43574,
+				"LATITUDE" : 45.75804,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4339532795, 45.7644559753 ]
+			},
+			"properties" : {
+				"ID" : 186,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "120 rue Valmont (sud)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43395,
+				"LATITUDE" : 45.76446,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4341575601, 45.7645852479 ]
+			},
+			"properties" : {
+				"ID" : 187,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "120 rue Valmont (nord)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43416,
+				"LATITUDE" : 45.76459,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4421499163, 45.7840776787 ]
+			},
+			"properties" : {
+				"ID" : 188,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "L'Assomption / Parc Grand Manitou",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.44215,
+				"LATITUDE" : 45.78408,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4380695776, 45.776905266 ]
+			},
+			"properties" : {
+				"ID" : 189,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "1142 bd Basile-Routhier (ouest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43807,
+				"LATITUDE" : 45.77691,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4379990617, 45.7768314253 ]
+			},
+			"properties" : {
+				"ID" : 190,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "1142 bd Basile-Routhier (est)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.438,
+				"LATITUDE" : 45.77683,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4129822279, 45.7917629593 ]
+			},
+			"properties" : {
+				"ID" : 191,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "250 rue Jacques-Plante",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41298,
+				"LATITUDE" : 45.79176,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4721481292, 45.7604061654 ]
+			},
+			"properties" : {
+				"ID" : 192,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "J.A. Paré / Nord de la voie ferré (ouest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47215,
+				"LATITUDE" : 45.76041,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4722104163, 45.7603183315 ]
+			},
+			"properties" : {
+				"ID" : 193,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "J.A. Paré / Nord de la voie ferré (est)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47221,
+				"LATITUDE" : 45.76032,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4764152668, 45.7626596944 ]
+			},
+			"properties" : {
+				"ID" : 194,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "J.A. Paré / Centre communautaire Laurent-Venne (sud)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47642,
+				"LATITUDE" : 45.76266,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4863529497, 45.7614352041 ]
+			},
+			"properties" : {
+				"ID" : 195,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Bourgneuf / À l'ouest de Christin (ouest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.48635,
+				"LATITUDE" : 45.76144,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4862437786, 45.7613844813 ]
+			},
+			"properties" : {
+				"ID" : 196,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Bourgneuf / À l'ouest de Christin (est)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.48624,
+				"LATITUDE" : 45.76138,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4730581342, 45.7227286117 ]
+			},
+			"properties" : {
+				"ID" : 197,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "180 rue Lorange (parc Laforest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47306,
+				"LATITUDE" : 45.72273,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4737052416, 45.7233370706 ]
+			},
+			"properties" : {
+				"ID" : 198,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "71-75 rue Lemoyne (parc Laforest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47371,
+				"LATITUDE" : 45.72334,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.475036678, 45.7264273556 ]
+			},
+			"properties" : {
+				"ID" : 199,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "96 rue Simard (parc Champigny)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47504,
+				"LATITUDE" : 45.72643,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4784683057, 45.7268337706 ]
+			},
+			"properties" : {
+				"ID" : 200,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "59-63 rue Simard (parc SImard)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47847,
+				"LATITUDE" : 45.72683,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4656408554, 45.7266839629 ]
+			},
+			"properties" : {
+				"ID" : 201,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "240-242 rue Lanoue (parc Deschamps)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46564,
+				"LATITUDE" : 45.72668,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4668354255, 45.7416086962 ]
+			},
+			"properties" : {
+				"ID" : 202,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "375 rue Marquis (parc Larochelle)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46684,
+				"LATITUDE" : 45.74161,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4604910118, 45.75433103 ]
+			},
+			"properties" : {
+				"ID" : 203,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "660 bd L'assomption (parc Entramis)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46049,
+				"LATITUDE" : 45.75433,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.451927859, 45.7459100481 ]
+			},
+			"properties" : {
+				"ID" : 204,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "118-120 rue Lamartine (parc Langelier)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.45193,
+				"LATITUDE" : 45.74591,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4494636246, 45.7461727721 ]
+			},
+			"properties" : {
+				"ID" : 205,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "480 rue Langelier (parc Langelier)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.44946,
+				"LATITUDE" : 45.74617,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4428735051, 45.749610403 ]
+			},
+			"properties" : {
+				"ID" : 206,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "586 bd Iberville côté rue Montcalm (parc Montcalm)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.44287,
+				"LATITUDE" : 45.74961,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4380302089, 45.756758627 ]
+			},
+			"properties" : {
+				"ID" : 207,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "91 rue Chauveau (parc Rivest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43803,
+				"LATITUDE" : 45.75676,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4392469635, 45.7574377055 ]
+			},
+			"properties" : {
+				"ID" : 208,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "101 rue Chauveau (parc Rivest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43925,
+				"LATITUDE" : 45.75744,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4370558902, 45.7588574012 ]
+			},
+			"properties" : {
+				"ID" : 209,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "94 rue Langlois (parc Rivest)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43706,
+				"LATITUDE" : 45.75886,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4276615735, 45.7624334559 ]
+			},
+			"properties" : {
+				"ID" : 210,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Rue Valmont (parc Lachapelle)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.42766,
+				"LATITUDE" : 45.76243,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4301512107, 45.7671048819 ]
+			},
+			"properties" : {
+				"ID" : 211,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Rue de la Sardaigne  +/- 20 m de Sanguinet (parc Sanguinet)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43015,
+				"LATITUDE" : 45.7671,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4310127635, 45.7675189628 ]
+			},
+			"properties" : {
+				"ID" : 212,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Rue de la Singapour +/- 20 m de Sanguinet (parc Sanguinet)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43101,
+				"LATITUDE" : 45.76752,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4163215881, 45.77528469 ]
+			},
+			"properties" : {
+				"ID" : 213,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "87-91 bd Laurentien (Parc du Moulin)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41632,
+				"LATITUDE" : 45.77528,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4169385187, 45.7755517082 ]
+			},
+			"properties" : {
+				"ID" : 214,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "103 bd Laurentien (Parc du Moulin)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41694,
+				"LATITUDE" : 45.77555,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.419000828, 45.7887433358 ]
+			},
+			"properties" : {
+				"ID" : 215,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Rue Maria Callas (parc Catherine-Bousquet)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.419,
+				"LATITUDE" : 45.78874,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4440513248, 45.7742673579 ]
+			},
+			"properties" : {
+				"ID" : 216,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Bd Basile-Routhier direction est (parc Claudel)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.44405,
+				"LATITUDE" : 45.77427,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4578463104, 45.7700163499 ]
+			},
+			"properties" : {
+				"ID" : 217,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "619-621 rue Jean-Duceppe (parc Jean-Duceppe)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.45785,
+				"LATITUDE" : 45.77002,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4705993595, 45.7692005115 ]
+			},
+			"properties" : {
+				"ID" : 218,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "243 rue De la Paix (parc Marie-Soleil-Tougas)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.4706,
+				"LATITUDE" : 45.7692,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.460057674, 45.7673932524 ]
+			},
+			"properties" : {
+				"ID" : 220,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "Rue de la Seigneurie (Parc de la Seignerie)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46006,
+				"LATITUDE" : 45.76739,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4662727184, 45.7614942303 ]
+			},
+			"properties" : {
+				"ID" : 221,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "89 rue Hervieux (parc Artisans)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46627,
+				"LATITUDE" : 45.76149,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.479866391, 45.762674486 ]
+			},
+			"properties" : {
+				"ID" : 222,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "529 rue Borduas (Jean-Claude Crevier)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47987,
+				"LATITUDE" : 45.76267,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4773528973, 45.7298313919 ]
+			},
+			"properties" : {
+				"ID" : 223,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "114-116 bd Colonia (secteur 1)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47735,
+				"LATITUDE" : 45.72983,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4735413682, 45.7342347303 ]
+			},
+			"properties" : {
+				"ID" : 224,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "144 rue Cherrier (secteur 1)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47354,
+				"LATITUDE" : 45.73423,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4751745241, 45.7334356804 ]
+			},
+			"properties" : {
+				"ID" : 225,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "283 rue Champigny (secteur 1)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47517,
+				"LATITUDE" : 45.73344,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4601554341, 45.7282302383 ]
+			},
+			"properties" : {
+				"ID" : 226,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "43 bd D'argenson (secteur 1)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46016,
+				"LATITUDE" : 45.72823,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4460444824, 45.7439536851 ]
+			},
+			"properties" : {
+				"ID" : 227,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "117 bd Richelieu (secteur 2)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.44604,
+				"LATITUDE" : 45.74395,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.441901699, 45.7456996983 ]
+			},
+			"properties" : {
+				"ID" : 228,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "61 bd Richelieu (secteur 2)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.4419,
+				"LATITUDE" : 45.7457,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4540112346, 45.7571959378 ]
+			},
+			"properties" : {
+				"ID" : 229,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "740 rue Pontbriand  (secteur 2)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.45401,
+				"LATITUDE" : 45.7572,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4332585788, 45.7597637136 ]
+			},
+			"properties" : {
+				"ID" : 230,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "59 bd Prud'homme (secteur 3)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43326,
+				"LATITUDE" : 45.75976,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4525990077, 45.761039247 ]
+			},
+			"properties" : {
+				"ID" : 231,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "782-786 bd Basile-Routhier  (secteur 3)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.4526,
+				"LATITUDE" : 45.76104,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4176258428, 45.768748604 ]
+			},
+			"properties" : {
+				"ID" : 232,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "11 rue Beauchesne (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41763,
+				"LATITUDE" : 45.76875,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4344518083, 45.7680829378 ]
+			},
+			"properties" : {
+				"ID" : 233,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "807 rue Beauchesne (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.43445,
+				"LATITUDE" : 45.76808,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4280131892, 45.7727004335 ]
+			},
+			"properties" : {
+				"ID" : 234,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "944-948 rue Beauchesne (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.42801,
+				"LATITUDE" : 45.7727,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4196018636, 45.7700799193 ]
+			},
+			"properties" : {
+				"ID" : 235,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "927 rue Rouville (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.4196,
+				"LATITUDE" : 45.77008,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4140135501, 45.7894431244 ]
+			},
+			"properties" : {
+				"ID" : 236,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "271 rue Jacques-Cousteau (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41401,
+				"LATITUDE" : 45.78944,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4128183953, 45.7857800317 ]
+			},
+			"properties" : {
+				"ID" : 237,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "140 rue Jacques-Cousteau (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41282,
+				"LATITUDE" : 45.78578,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4234691234, 45.7809115628 ]
+			},
+			"properties" : {
+				"ID" : 238,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "276-280 rue Niagara (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.42347,
+				"LATITUDE" : 45.78091,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4245629692, 45.7804340879 ]
+			},
+			"properties" : {
+				"ID" : 239,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "244-248 rue Newton (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.42456,
+				"LATITUDE" : 45.78043,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4172250569, 45.7727211936 ]
+			},
+			"properties" : {
+				"ID" : 240,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "1030-1034 rue Rouville - en face du 988 (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.41723,
+				"LATITUDE" : 45.77272,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4072850677, 45.7809635386 ]
+			},
+			"properties" : {
+				"ID" : 241,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "63-67 rue du Verdier (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.40729,
+				"LATITUDE" : 45.78096,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.441079075, 45.7749630959 ]
+			},
+			"properties" : {
+				"ID" : 242,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "473-477 rue Lisbonne (secteur 4)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.44108,
+				"LATITUDE" : 45.77496,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4564747535, 45.767572667 ]
+			},
+			"properties" : {
+				"ID" : 243,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "138-139 rue Lafortune (secteur 5)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.45647,
+				"LATITUDE" : 45.76757,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.468377736, 45.7608287253 ]
+			},
+			"properties" : {
+				"ID" : 244,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "492 rue Beauchamp (secteur 5)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.46838,
+				"LATITUDE" : 45.76083,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.464499435, 45.7698741642 ]
+			},
+			"properties" : {
+				"ID" : 245,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "636 rue Beauchamp (secteur 5)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.4645,
+				"LATITUDE" : 45.76987,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4746355057, 45.7528704544 ]
+			},
+			"properties" : {
+				"ID" : 246,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "389 rue Ste-Jeanne-D'arc (secteur 5)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47464,
+				"LATITUDE" : 45.75287,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4750285003, 45.7667664586 ]
+			},
+			"properties" : {
+				"ID" : 247,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "215 rue Colbert (secteur 5)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47503,
+				"LATITUDE" : 45.76677,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4730629466, 45.7300063364 ]
+			},
+			"properties" : {
+				"ID" : 248,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "245-247 rue Amédée-Meunier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47306,
+				"LATITUDE" : 45.73001,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4715083505, 45.7532917349 ]
+			},
+			"properties" : {
+				"ID" : 249,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "406 rue de la Pruche",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47151,
+				"LATITUDE" : 45.75329,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4363233497, 45.7574753076 ]
+			},
+			"properties" : {
+				"ID" : 160,
+				"TYPE" : "Stèle radar",
+				"ADRESSE" : "680 bd Iberville",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-05-29",
+				"LONGITUDE" : -73.43632,
+				"LATITUDE" : 45.75748,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4718493997, 45.7299681483 ]
+			},
+			"properties" : {
+				"ID" : 250,
+				"TYPE" : "Brigadier statique",
+				"ADRESSE" : "250-252 rue Francois-Grenier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-10-23",
+				"LONGITUDE" : -73.47185,
+				"LATITUDE" : 45.72997,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4792352532, 45.714628099 ]
+			},
+			"properties" : {
+				"ID" : 1,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "52 rue Archambault",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47924,
+				"LATITUDE" : 45.71463,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4787002973, 45.7139214376 ]
+			},
+			"properties" : {
+				"ID" : 2,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "64 rue Archambault",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.4787,
+				"LATITUDE" : 45.71392,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4800349322, 45.7161599062 ]
+			},
+			"properties" : {
+				"ID" : 3,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "27 rue Archambault",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.48003,
+				"LATITUDE" : 45.71616,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4102734476, 45.7875304181 ]
+			},
+			"properties" : {
+				"ID" : 4,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1402 rue Jean-Cabot",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41027,
+				"LATITUDE" : 45.78753,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.411528136, 45.7861573993 ]
+			},
+			"properties" : {
+				"ID" : 5,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1358 rue Jean-Cabot",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41153,
+				"LATITUDE" : 45.78616,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4062651581, 45.783809057 ]
+			},
+			"properties" : {
+				"ID" : 6,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1384 rue Rabelais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.40627,
+				"LATITUDE" : 45.78381,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4075236637, 45.7824307792 ]
+			},
+			"properties" : {
+				"ID" : 7,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1344 rue Rabelais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.40752,
+				"LATITUDE" : 45.78243,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4090015375, 45.780819311 ]
+			},
+			"properties" : {
+				"ID" : 8,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1290 rue Rabelais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.409,
+				"LATITUDE" : 45.78082,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4496517481, 45.7405409844 ]
+			},
+			"properties" : {
+				"ID" : 9,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "467 rue Robillard",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44965,
+				"LATITUDE" : 45.74054,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4380027607, 45.761104845 ]
+			},
+			"properties" : {
+				"ID" : 10,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "93 rue Jean-Baptiste-Meilleur",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.438,
+				"LATITUDE" : 45.7611,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4357139595, 45.7601025384 ]
+			},
+			"properties" : {
+				"ID" : 11,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "71 rue Jean-Baptiste-Meilleur",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43571,
+				"LATITUDE" : 45.7601,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4693160746, 45.7204273029 ]
+			},
+			"properties" : {
+				"ID" : 12,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "119 rue Lorange",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46932,
+				"LATITUDE" : 45.72043,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4679895413, 45.7198449418 ]
+			},
+			"properties" : {
+				"ID" : 13,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "110 rue Lorange",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46799,
+				"LATITUDE" : 45.71984,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4165896697, 45.7726901604 ]
+			},
+			"properties" : {
+				"ID" : 14,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "51 rue Riendeau",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41659,
+				"LATITUDE" : 45.77269,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4204875255, 45.7739625072 ]
+			},
+			"properties" : {
+				"ID" : 15,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "101 rue Roberval",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42049,
+				"LATITUDE" : 45.77396,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4167890703, 45.7797933184 ]
+			},
+			"properties" : {
+				"ID" : 16,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "Rue Philippe-Goulet (École La Tourterrelle)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41679,
+				"LATITUDE" : 45.77979,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.418636626, 45.7806158615 ]
+			},
+			"properties" : {
+				"ID" : 17,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "Rue Philippe-Goulet (École La Tourterrelle)",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41864,
+				"LATITUDE" : 45.78062,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4180626478, 45.7729226476 ]
+			},
+			"properties" : {
+				"ID" : 18,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "49 rue Roberval",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41806,
+				"LATITUDE" : 45.77292,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4386111971, 45.7471929293 ]
+			},
+			"properties" : {
+				"ID" : 19,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "36 rue Ritchot",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43861,
+				"LATITUDE" : 45.74719,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4398750413, 45.7477517276 ]
+			},
+			"properties" : {
+				"ID" : 20,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "64 rue Ritchot",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43988,
+				"LATITUDE" : 45.74775,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4414234028, 45.7484323844 ]
+			},
+			"properties" : {
+				"ID" : 21,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "78 rue Ritchot",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44142,
+				"LATITUDE" : 45.74843,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4703268292, 45.722356142 ]
+			},
+			"properties" : {
+				"ID" : 22,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "32 rue Laforest",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47033,
+				"LATITUDE" : 45.72236,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4718338245, 45.7230159381 ]
+			},
+			"properties" : {
+				"ID" : 23,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "44 rue Laforest",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47183,
+				"LATITUDE" : 45.72302,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4434178431, 45.7688698843 ]
+			},
+			"properties" : {
+				"ID" : 25,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "863 rue Einstein",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44342,
+				"LATITUDE" : 45.76887,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4416581929, 45.7687497595 ]
+			},
+			"properties" : {
+				"ID" : 26,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "907 rue Einstein",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44166,
+				"LATITUDE" : 45.76875,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4402795002, 45.7694497447 ]
+			},
+			"properties" : {
+				"ID" : 27,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "947 rue Einstein",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44028,
+				"LATITUDE" : 45.76945,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4394819386, 45.7703798954 ]
+			},
+			"properties" : {
+				"ID" : 28,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "967 rue Einstein",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43948,
+				"LATITUDE" : 45.77038,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4382628603, 45.7718030014 ]
+			},
+			"properties" : {
+				"ID" : 29,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "999 rue Einstein",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43826,
+				"LATITUDE" : 45.7718,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4411478946, 45.7506721907 ]
+			},
+			"properties" : {
+				"ID" : 31,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "599 rue Montcalm",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44115,
+				"LATITUDE" : 45.75067,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4420219658, 45.7497149933 ]
+			},
+			"properties" : {
+				"ID" : 32,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "587 rue Montcalm",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44202,
+				"LATITUDE" : 45.74971,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4308616832, 45.7558128102 ]
+			},
+			"properties" : {
+				"ID" : 33,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "26 rue Alain",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43086,
+				"LATITUDE" : 45.75581,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4325318692, 45.756542677 ]
+			},
+			"properties" : {
+				"ID" : 34,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "35 rue Alain",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43253,
+				"LATITUDE" : 45.75654,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.426764495, 45.7615697968 ]
+			},
+			"properties" : {
+				"ID" : 35,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "798 rue Vaudreuil",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42676,
+				"LATITUDE" : 45.76157,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4281702607, 45.760008017 ]
+			},
+			"properties" : {
+				"ID" : 36,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "778 rue Vaudreuil",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42817,
+				"LATITUDE" : 45.76001,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4154194513, 45.7877046499 ]
+			},
+			"properties" : {
+				"ID" : 37,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "225 rue Jacques-Cousteau",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41542,
+				"LATITUDE" : 45.7877,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4150396319, 45.786732982 ]
+			},
+			"properties" : {
+				"ID" : 38,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "195 rue Jacques-Cousteau",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41504,
+				"LATITUDE" : 45.78673,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.437146099, 45.7799714488 ]
+			},
+			"properties" : {
+				"ID" : 39,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "520 rue Toulouse",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43715,
+				"LATITUDE" : 45.77997,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.439461594, 45.7809457734 ]
+			},
+			"properties" : {
+				"ID" : 40,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "571 rue Toulouse",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43946,
+				"LATITUDE" : 45.78095,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4443104645, 45.7816915996 ]
+			},
+			"properties" : {
+				"ID" : 41,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "642 rue Toulouse",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44431,
+				"LATITUDE" : 45.78169,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4423472488, 45.7814966094 ]
+			},
+			"properties" : {
+				"ID" : 42,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "615 rue Toulouse",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44235,
+				"LATITUDE" : 45.7815,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.432629461, 45.7784677199 ]
+			},
+			"properties" : {
+				"ID" : 43,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1251 rue des Montérégiennes",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43263,
+				"LATITUDE" : 45.77847,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4335189626, 45.777434517 ]
+			},
+			"properties" : {
+				"ID" : 44,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1223 rue des Montérégiennes",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43352,
+				"LATITUDE" : 45.77743,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4350049528, 45.7756956532 ]
+			},
+			"properties" : {
+				"ID" : 45,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1175 rue des Montérégiennes",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.435,
+				"LATITUDE" : 45.7757,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4115337637, 45.7808659117 ]
+			},
+			"properties" : {
+				"ID" : 46,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "89 rue Rembrandt",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41153,
+				"LATITUDE" : 45.78087,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4105303548, 45.7804384213 ]
+			},
+			"properties" : {
+				"ID" : 47,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "66 rue Rembrandt",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41053,
+				"LATITUDE" : 45.78044,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4132937366, 45.7816158747 ]
+			},
+			"properties" : {
+				"ID" : 48,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "129 rue Rembrandt",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41329,
+				"LATITUDE" : 45.78162,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4362019941, 45.7516781594 ]
+			},
+			"properties" : {
+				"ID" : 49,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "19 rue Camille",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.4362,
+				"LATITUDE" : 45.75168,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4377178301, 45.7523387219 ]
+			},
+			"properties" : {
+				"ID" : 50,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "33 rue Camille",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43772,
+				"LATITUDE" : 45.75234,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4724928998, 45.7137805396 ]
+			},
+			"properties" : {
+				"ID" : 51,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "145 rue Deschamps",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47249,
+				"LATITUDE" : 45.71378,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4696599639, 45.732455395 ]
+			},
+			"properties" : {
+				"ID" : 52,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "277 rue François-Grenier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46966,
+				"LATITUDE" : 45.73246,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4711853085, 45.7305577885 ]
+			},
+			"properties" : {
+				"ID" : 53,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "258 rue François-Grenier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47119,
+				"LATITUDE" : 45.73056,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4222672852, 45.7647488131 ]
+			},
+			"properties" : {
+				"ID" : 54,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "19 rue Gravel",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42227,
+				"LATITUDE" : 45.76475,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4239657761, 45.765496705 ]
+			},
+			"properties" : {
+				"ID" : 55,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "41 rue Gravel",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42397,
+				"LATITUDE" : 45.7655,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4253055186, 45.766078523 ]
+			},
+			"properties" : {
+				"ID" : 56,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "65 rue Gravel",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42531,
+				"LATITUDE" : 45.76608,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4205445674, 45.7865211621 ]
+			},
+			"properties" : {
+				"ID" : 57,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "327 rue Calixa-Lavallée",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42054,
+				"LATITUDE" : 45.78652,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4177473078, 45.7853493513 ]
+			},
+			"properties" : {
+				"ID" : 58,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "255 rue Calixa-Lavallée",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.41775,
+				"LATITUDE" : 45.78535,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4238685585, 45.7731545453 ]
+			},
+			"properties" : {
+				"ID" : 60,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "120 rue Norbert",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42387,
+				"LATITUDE" : 45.77315,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4272458199, 45.7743166989 ]
+			},
+			"properties" : {
+				"ID" : 61,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "188 rue Norbert",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42725,
+				"LATITUDE" : 45.77432,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4303071189, 45.776287589 ]
+			},
+			"properties" : {
+				"ID" : 62,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "239 rue Nollet",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43031,
+				"LATITUDE" : 45.77629,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4279588498, 45.7752551427 ]
+			},
+			"properties" : {
+				"ID" : 63,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "191 rue Nollet",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42796,
+				"LATITUDE" : 45.77526,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.421968966, 45.7813311588 ]
+			},
+			"properties" : {
+				"ID" : 64,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "261 rue du Châtelain",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42197,
+				"LATITUDE" : 45.78133,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4230395762, 45.7818101425 ]
+			},
+			"properties" : {
+				"ID" : 65,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "286 rue du Châtelain",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42304,
+				"LATITUDE" : 45.78181,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4408652937, 45.7714324921 ]
+			},
+			"properties" : {
+				"ID" : 67,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "973 rue Beaudelaire",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44087,
+				"LATITUDE" : 45.77143,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4397436767, 45.7727456949 ]
+			},
+			"properties" : {
+				"ID" : 68,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1017 rue Beaudelaire",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43974,
+				"LATITUDE" : 45.77275,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4343569333, 45.7779570247 ]
+			},
+			"properties" : {
+				"ID" : 69,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1221 rue des Appalaches",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43436,
+				"LATITUDE" : 45.77796,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4440938005, 45.7690214601 ]
+			},
+			"properties" : {
+				"ID" : 70,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "410 rue Monet",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44409,
+				"LATITUDE" : 45.76902,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4366922607, 45.7758701017 ]
+			},
+			"properties" : {
+				"ID" : 71,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "428 rue des Monts-Valin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43669,
+				"LATITUDE" : 45.77587,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4374650733, 45.7762031383 ]
+			},
+			"properties" : {
+				"ID" : 72,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "444 rue des Monts-Valin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43747,
+				"LATITUDE" : 45.7762,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4370516385, 45.7732222345 ]
+			},
+			"properties" : {
+				"ID" : 73,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1131 rue Einstein",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43705,
+				"LATITUDE" : 45.77322,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4252589864, 45.7675864075 ]
+			},
+			"properties" : {
+				"ID" : 74,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "872 rue Généreux",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42526,
+				"LATITUDE" : 45.76759,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4230976233, 45.7699564024 ]
+			},
+			"properties" : {
+				"ID" : 75,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "897 rue Généreux",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.4231,
+				"LATITUDE" : 45.76996,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4421467373, 45.7782468957 ]
+			},
+			"properties" : {
+				"ID" : 76,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "569 rue des Champs-Élysées",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44215,
+				"LATITUDE" : 45.77825,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4443459856, 45.7798689928 ]
+			},
+			"properties" : {
+				"ID" : 77,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "628 rue des Champs-Élysées",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44435,
+				"LATITUDE" : 45.77987,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4374116046, 45.7741203906 ]
+			},
+			"properties" : {
+				"ID" : 79,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1135 rue Gauguin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43741,
+				"LATITUDE" : 45.77412,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4364546878, 45.775231542 ]
+			},
+			"properties" : {
+				"ID" : 80,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1159 rue Gauguin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43645,
+				"LATITUDE" : 45.77523,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4210632155, 45.7812414052 ]
+			},
+			"properties" : {
+				"ID" : 83,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1168 rue Cuvillier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42106,
+				"LATITUDE" : 45.78124,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.421562742, 45.7819595963 ]
+			},
+			"properties" : {
+				"ID" : 84,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1199 rue Cuvillier",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42156,
+				"LATITUDE" : 45.78196,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4430069715, 45.7764406779 ]
+			},
+			"properties" : {
+				"ID" : 85,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "530 rue de Bruyères",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44301,
+				"LATITUDE" : 45.77644,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4452088983, 45.7784362085 ]
+			},
+			"properties" : {
+				"ID" : 86,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "602 rue de Bruyères",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44521,
+				"LATITUDE" : 45.77844,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4432737917, 45.7700741576 ]
+			},
+			"properties" : {
+				"ID" : 87,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "925 rue D'Antin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44327,
+				"LATITUDE" : 45.77007,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4404761647, 45.7705315518 ]
+			},
+			"properties" : {
+				"ID" : 88,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "960 rue D'Antin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.44048,
+				"LATITUDE" : 45.77053,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4393542283, 45.7718427938 ]
+			},
+			"properties" : {
+				"ID" : 89,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "989 rue D'Antin",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43935,
+				"LATITUDE" : 45.77184,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4306794598, 45.7807450315 ]
+			},
+			"properties" : {
+				"ID" : 94,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1375 rue des Outaouais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43068,
+				"LATITUDE" : 45.78075,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4298771846, 45.781681159 ]
+			},
+			"properties" : {
+				"ID" : 95,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1408 rue des Outaouais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42988,
+				"LATITUDE" : 45.78168,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4291147855, 45.7825717882 ]
+			},
+			"properties" : {
+				"ID" : 96,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1436 rue des Outaouais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.42911,
+				"LATITUDE" : 45.78257,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4306154247, 45.7836513619 ]
+			},
+			"properties" : {
+				"ID" : 97,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1505 rue des Outaouais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43062,
+				"LATITUDE" : 45.78365,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4320011341, 45.7807492234 ]
+			},
+			"properties" : {
+				"ID" : 98,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1339 rue des Outaouais",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.432,
+				"LATITUDE" : 45.78075,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4738129704, 45.7579585184 ]
+			},
+			"properties" : {
+				"ID" : 99,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "499 rue Lefebvre",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47381,
+				"LATITUDE" : 45.75796,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4729980044, 45.7592461127 ]
+			},
+			"properties" : {
+				"ID" : 100,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "518 rue Lefebvre",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.473,
+				"LATITUDE" : 45.75925,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4740936366, 45.7601848999 ]
+			},
+			"properties" : {
+				"ID" : 101,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "546 rue Lefebvre",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47409,
+				"LATITUDE" : 45.76018,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4563251576, 45.7734896212 ]
+			},
+			"properties" : {
+				"ID" : 104,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "167 rue Faribault",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.45633,
+				"LATITUDE" : 45.77349,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4548137925, 45.7720340959 ]
+			},
+			"properties" : {
+				"ID" : 105,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "129 rue Faribault",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.45481,
+				"LATITUDE" : 45.77203,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4589956945, 45.7642733384 ]
+			},
+			"properties" : {
+				"ID" : 106,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "114 rue Villandré",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.459,
+				"LATITUDE" : 45.76427,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4609353381, 45.7655079241 ]
+			},
+			"properties" : {
+				"ID" : 107,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "136 rue Villandré",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46094,
+				"LATITUDE" : 45.76551,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4630120021, 45.7671443371 ]
+			},
+			"properties" : {
+				"ID" : 108,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "162 rue Villandré",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46301,
+				"LATITUDE" : 45.76714,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.464424497, 45.7682507484 ]
+			},
+			"properties" : {
+				"ID" : 109,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "180 rue Villandré",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46442,
+				"LATITUDE" : 45.76825,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4667269366, 45.763495241 ]
+			},
+			"properties" : {
+				"ID" : 110,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "170 rue des Artisans",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46673,
+				"LATITUDE" : 45.7635,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4641680794, 45.7622548253 ]
+			},
+			"properties" : {
+				"ID" : 111,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "148 rue des Artisans",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.46417,
+				"LATITUDE" : 45.76225,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4769867278, 45.7596283976 ]
+			},
+			"properties" : {
+				"ID" : 112,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "211 rue Bertrand",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47699,
+				"LATITUDE" : 45.75963,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4799651949, 45.7611097768 ]
+			},
+			"properties" : {
+				"ID" : 113,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "249 rue Bertrand",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.47997,
+				"LATITUDE" : 45.76111,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4828148076, 45.7625350434 ]
+			},
+			"properties" : {
+				"ID" : 114,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "284 rue Bertrand",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.48281,
+				"LATITUDE" : 45.76254,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.4360631495, 45.7834121444 ]
+			},
+			"properties" : {
+				"ID" : 123,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "1649 rue de la Ouareau",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-01",
+				"LONGITUDE" : -73.43606,
+				"LATITUDE" : 45.78341,
+				"GEOM" : "Point"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.441770068, 45.7477467326 ]
+			},
+			"properties" : {
+				"ID" : 129,
+				"TYPE" : "Dos d'âne",
+				"ADRESSE" : "75 rue Renaud",
+				"MUNICIPALITE" : "Repentigny",
+				"DATE_MODIFICATION" : "2023-08-23",
+				"LONGITUDE" : -73.44177,
+				"LATITUDE" : 45.74775,
+				"GEOM" : "Point"
+			}
+		}
+	]
+}
