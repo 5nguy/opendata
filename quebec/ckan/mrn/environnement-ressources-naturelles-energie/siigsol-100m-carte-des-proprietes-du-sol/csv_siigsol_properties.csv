@@ -1,0 +1,7 @@
+Groupe,Propriete,Description,Methode_analytique,Min,Max,Unite,Profondeurs
+Texture,sable,Proportion de sable,Bouyoucos,0,100,,6
+Texture,limon,Proportion de limon,Bouyoucos,0,100, ,6
+Texture,argile,Proportion d argile,Bouyoucos,0,100,,6
+Fertilite,ph,pH extractible au CaCl2,Extraction CaCl2,3,9,,6
+Fertilite,cec,Capacite d echange cationique,Extraction NH4CL,0,120,meq/100g,6
+Fertilite,oc,Proportion de matiere organique,Combustion,0,100,,6
