@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ERDAS APOLLO Core 2016 -->
+<WMS_Capabilities xmlns="http://www.opengis.net/wms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wms http://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd" version="1.3.0">
+  <Service>
+    <Name>WMS</Name>
+    <Title>Imagerie</Title>
+    <Abstract>Service d'imagerie du gouvernement du QuÃ©bec</Abstract>
+    <OnlineResource xlink:type="simple" xlink:href="" />
+    <MaxWidth>4000</MaxWidth>
+    <MaxHeight>4000</MaxHeight>
+  </Service>
+  <Capability>
+    <Request>
+      <GetCapabilities>
+        <Format>text/xml</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:href="https://imagesgeo-atlas.mrnf.gouv.qc.ca/TERRITOIRE/Imagerie_2020_Chaudiere-Appalaches.xml" />
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetCapabilities>
+      <GetMap>
+        <Format>image/jpeg</Format>
+        <Format>image/png</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/ogc/wms/Imagerie?" />
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetMap>
+      <GetFeatureInfo>
+        <Format>text/plain</Format>
+        <Format>text/xml</Format>
+        <DCPType>
+          <HTTP>
+            <Get>
+              <OnlineResource xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/ogc/wms/Imagerie?" />
+            </Get>
+          </HTTP>
+        </DCPType>
+      </GetFeatureInfo>
+    </Request>
+    <Exception>
+      <Format>XML</Format>
+    </Exception>
+    <Layer>
+      <Title>Imagerie</Title>
+      <Layer>
+        <Title>Orthomosaique</Title>
+        <Layer>
+          <Title>2020</Title>
+          <Layer queryable="1">
+            <Name>Orthomosaique_2020_2020_Partenariat_Chaudiere-Appalaches_15cm_RVB</Name>
+            <Title>2020_Partenariat_Chaudiere-Appalaches_15cm_RVB</Title>
+            <CRS>EPSG:32198</CRS>
+            <CRS>EPSG:6622</CRS>
+            <CRS>EPSG:4617</CRS>
+            <CRS>EPSG:4326</CRS>
+            <CRS>EPSG:3857</CRS>
+            <CRS>EPSG:2952</CRS>
+            <CRS>EPSG:2951</CRS>
+            <CRS>EPSG:2950</CRS>
+            <CRS>EPSG:2949</CRS>
+            <CRS>EPSG:2948</CRS>
+            <CRS>EPSG:2947</CRS>
+            <CRS>EPSG:2946</CRS>
+            <EX_GeographicBoundingBox>
+              <westBoundLongitude>-72.110458712740723</westBoundLongitude>
+              <eastBoundLongitude>-69.582654006143756</eastBoundLongitude>
+              <southBoundLatitude>45.74996779300276</southBoundLatitude>
+              <northBoundLatitude>47.434255993672579</northBoundLatitude>
+            </EX_GeographicBoundingBox>
+            <BoundingBox CRS="EPSG:2946" minx="-518094.09590902331" miny="5106146.3056342276" maxx="-304742.34155362973" maxy="5300685.6513144113" resx="0.15085335565062158" resy="-0.15085335565062158" />
+            <BoundingBox CRS="EPSG:2947" minx="-284775.63556636532" miny="5084943.4066513879" maxx="-78568.868772985006" maxy="5276646.2080813749" resx="0.15037483101780236" resy="-0.15037483101780236" />
+            <BoundingBox CRS="EPSG:2948" minx="-51401.766045580909" miny="5072583.1179664955" maxx="147697.31434804655" maxy="5261441.9912085915" resx="0.15009043633070171" resy="-0.15009043633070171" />
+            <BoundingBox CRS="EPSG:2949" minx="182000.00000000201" miny="5069000" maxx="374000.00000000099" maxy="5255000" resx="0.14999999999999999" resy="-0.14999999999999999" />
+            <BoundingBox CRS="EPSG:2950" minx="410754.92654709704" miny="5068771.3592562675" maxx="606357.50831709243" maxy="5262036.7763136383" resx="0.15005514705196857" resy="-0.1500551470519686" />
+            <BoundingBox CRS="EPSG:2951" minx="639491.17519406904" miny="5077305.9973385474" maxx="838684.89419133891" maxy="5277839.4562265184" resx="0.15030717568161736" resy="-0.15030717568161739" />
+            <BoundingBox CRS="EPSG:2952" minx="868165.88425023609" miny="5094649.1654038997" maxx="1070951.494493457" maxy="5302483.899209871" resx="0.1507562751540209" resy="-0.15075627515402093" />
+            <BoundingBox CRS="EPSG:3857" minx="-8027299.544771675" miny="5740371.5175305344" maxx="-7745905.6120084608" maxy="6013246.0114709437" resx="0.21715180181213659" resy="-0.21715180181213661" />
+            <BoundingBox CRS="EPSG:4326" miny="-72.110458712740723" minx="45.74996779300276" maxy="-69.582654006143756" maxx="47.434255993672579" resy="1.6705169187883019E-006" resx="-1.6705169187883021E-006" />
+            <BoundingBox CRS="EPSG:4617" miny="-72.110458712740723" minx="45.749967793948827" maxy="-69.582654006143756" maxx="47.434255994615455" resy="1.6705169187883019E-006" resx="-1.6705169187883021E-006" />
+            <BoundingBox CRS="EPSG:6622" minx="-278463.67434483586" miny="197757.37919283845" maxx="-81460.087905126129" maxy="385601.47192549985" resx="0.14980569778310654" resy="-0.14980569778310654" />
+            <BoundingBox CRS="EPSG:32198" minx="-278463.67434483586" miny="197757.37919283845" maxx="-81460.087905126129" maxy="385601.47192549985" resx="0.14980569778310654" resy="-0.14980569778310654" />
+            <Style>
+              <Name>default</Name>
+              <Title>default</Title>
+              <LegendURL width="100" height="100">
+                <Format>image/jpeg</Format>
+                <OnlineResource xlink:type="simple" xlink:href="https://servicesmatriciels.mern.gouv.qc.ca:443/erdas-iws/erdas/imagex/Imagerie?request=image&amp;type=jpg&amp;layers=/Orthomosaique/2020/2020_Partenariat_Chaudiere-Appalaches_15cm_RVB/&amp;style=default&amp;sizex=100&amp;sizey=100" />
+              </LegendURL>
+            </Style>
+          </Layer>
+        </Layer>
+      </Layer>
+    </Layer>
+  </Capability>
+</WMS_Capabilities>
