@@ -88,7 +88,6 @@ CH-BG,28,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 
 CH-BG,32,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
 CH-BG,35,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
 CH-BG,125,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
-CH-BH,1371,LUN À VEN 6 h - 17 h
 CH-CC,109,LUN À VEN 18 h - 21 h SAM - DIM 9 h - 18 h
 CH-CC,332,LUN À VEN 18 h - 21 h SAM - DIM 9 h - 18 h
 CH-DD,28,LUN À VEN 9 h 30 - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
@@ -326,7 +325,6 @@ IN-RE,1489,Arrêt interdit - remorquage 11h-13h LUN-VEN (test GTR)
 IN-RF,330,Arrêt interdit - remorquage 12h-13h LUN-VEN (test GTR)
 MM-08,259,9 h - 18 h  LUN - VEN (8 $ MAX) (Test GTR)
 MM-10,259,9 h - 18 h  LUN - VEN (10$ MAX)
-MM-17,1371,6 h - 17 h  LUN - VEN (17 $ MAX)
 MN-08,283,9 h - MINUIT TOUS LES JOURS (8 $ MAX)
 MQ-12,1371,6 h - 17 h LUN à VEN (12 $ MAX)
 MT-10,1372,24h /24 7j /7 -  (10 $ / 24h)
@@ -339,6 +337,8 @@ MT-16,1372,24h /24 7j /7 -  (16 $ / 24h)
 MT-17,1372,24h /24 7j /7  (17$ / 24h)
 MT-18,1372,24h /24 7j /7  (18$ / 24h)
 MU-12,259,9 h - 18 h LUN - VEN (12 25$ MAX)
+MU-18,1394,VEN 17h-00h SAM et DIM 24h (max 18$)
+MU-18,1416,VEN 17h-00h SAM et DIM 24h (max 18$)
 MV-10,28,9h-21h LUN à VEN 9h-18h SAM et 13h-18h DIM (Max 10$)
 MV-10,108,9h-21h LUN à VEN 9h-18h SAM et 13h-18h DIM (Max 10$)
 MV-10,125,9h-21h LUN à VEN 9h-18h SAM et 13h-18h DIM (Max 10$)
@@ -346,6 +346,8 @@ MV-12,108,9 h - 21 h LUN - VEN  et 9h-18h SAM-DIM (1225 $ MAX)
 MV-12,332,9 h - 21 h LUN - VEN  et 9h-18h SAM-DIM (1225 $ MAX)
 MV-14,125,9 h - 21 h LUN - SAM  et 13h-18h DIM (1400 $ MAX)
 MV-14,158,9 h - 21 h LUN - SAM  et 13h-18h DIM (1400 $ MAX)
+MV-18,1445,17 h - 6 h LUN - VEN(18$ MAX)
+MV-18,1447,17 h - 6 h LUN - VEN(18$ MAX)
 MX-01,109,MAX 3 h18 h - 21 h LUN À VEN
 MX-02,28,MAX 3 h 9h - 18 h SAM et 13 h - 18 h DIM
 MX-02,125,MAX 3 h 9h - 18 h SAM et 13 h - 18 h DIM
@@ -383,6 +385,9 @@ MX-46,332,MAX 12 h 9 h - 21 h LUN à VEN 9h - 18h SAM et DIM  h 9 h - 21 h LUN à 
 MX-50,1495,MAX 5 h18 h - 23 h LUN À SAM
 MX-61,1471,MAX 1h 9h - 20h LUN-VEN (TEST GTR)
 MX-65,1391,MAX 3h 12h - 18h LUN-VEN (TEST GTR)
+MX-66,28,MAX 10 h 9h - 21 h LUN à VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-66,108,MAX 10 h 9h - 21 h LUN à VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-66,125,MAX 10 h 9h - 21 h LUN à VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
 PA-TD,319,\P  Réservé aux handicapés
 PA-VL,1437,Interdit d attacher vélo après un parcomètre
 PC-GR,1437,Tarifé EXCEPTÉ pour les détenteurs d'une vignette SRRR du secteur
@@ -464,7 +469,7 @@ SI-DO,100,P15min DÉB. 7 h -9 h LUN À VEN 01 jan au 30 juin
 SI-DP,1371,STAT. INT. EXCEPTÉ PERMIS MENSUELS 6 h - 17 h LUN À VEN
 SI-DQ,174,STAT. INT. EN TOUT TEMPS - 1 AVRIL AU 31 OCT (saisonnier)
 SI-DS,174,STAT. INT. EN TOUT TEMPS - 1 AVRIL AU 15 OCT (saisonnier)
-SI-DV,1502,STAT. INT. EXCEPTÉ PERMIS MENSUELS 6 h - 17 h
+SI-DV,1371,STAT. INT. EXCEPTÉ PERMIS MENSUELS 6 h - 17 h L à V.
 SI-DW,1436,STAT. INT. 7 h ou 8 h ou 9 h - 17 h
 SI-DX,265,STAT. INT. 8h30 - 10h30 et 14h - 16h30 LUN - JEU 8h30 - 10h et 12h - 14h VEN 01 sept. au 30 juin
 SI-DX,1370,STAT. INT. 8h30 - 10h30 et 14h - 16h30 LUN - JEU 8h30 - 10h et 12h - 14h VEN 01 sept. au 30 juin
@@ -692,6 +697,7 @@ ZV-53,1509,STAT. INT. 10 h 30 - 13 h 30 VEN 01 avril au 14 nov
 ZV-54,1513,STAT. INT. 10 h 30 - 13 h 30 JEU 01 avril au 14 nov
 ZV-55,1426,STAT. INT. 7 h - 8 h 30 MAR et JEU 01 avril au 14 nov
 ZV-56,1533,STAT. INT. 10 h 30 - 13 h 30 MER 01 avril au 14 nov
+ZV-57,1539,STAT. INT. 8 h - 11 h MER 01 avril au 14 nov
 ZV-58,302,STAT. INT. 7 h - 8 h 30 VEN 01 avril au 14 nov
 ZV-59,95,STAT. INT. 7 h - 8 h 30 LUN 01 avril au 14 nov
 ZV-60,1535,STAT. INT. 8h30-10h30 JEU 01avril au 01 déc
@@ -709,6 +715,8 @@ ZV-73,1553,STAT. INT. 18 h 30 - 19 h 30 JEU 01 avril au 01 déc
 ZV-74,1554,STAT. INT.8 h 30 - 9 h 30 MAR 01 avril au 01 déc
 ZV-75,1555,STAT. INT. 8 h - 9 h MER 01 avril au 01 déc
 ZV-76,1556,STAT. INT. 6 h 30 - 7 h 30 MER 01 avril au 01 déc
+ZV-77,1557,STAT. INT. 18 h - 19 h LUN et MER 01 avril au 01 déc
+ZV-78,1558,STAT. INT. 6 h 30 - 9 h LUN et MAR 01 avril au 01 déc
 ZX-01,334,STAT. INT. 13 h - 16 h LUN 01 avril au 01 déc.
 ZX-02,335,STAT. INT. 9 h - 10 h DIM 01 avril au 01 déc.
 ZX-03,1352,STAT. INT. 7 h - 8 h LUN et MER et SAM 01 avril au 01 déc
@@ -756,7 +764,7 @@ ZX-54,126,ARRÊT INT. 8H - 9H JEUDI 01 avril au 30 novembre
 ZX-55,1454,ARRÊT INT. 13h - 15h LUNDI 01 avril au 30 novembre
 ZX-57,161,ARRÊT INT. 7 h - 9 h LUNDI 01 avril au 30 novembre
 ZX-58,163,ARRÊT INT. 7 h - 9 h VENDREDI 01 avril au 30 novembre
-ZX-59,134,ARRÊT INT. 7h ou 8 h - 9 h MERCREDI 01 avril au 30 novembre
+ZX-59,134,ARRÊT INT. 7 h - 9 h MER 01 avril au 30 novembre
 ZX-60,126,ARRÊT INT. 7 h - 9 h JEUDI 01 avril au 30 novembre
 ZX-61,164,ARRÊT INT.  7 h - 8 h MARDI 01 avril au 30 novembre
 ZX-62,1462,STAT. INT. 11h - 12h MERCREDI 1 avril au 1 décembre
@@ -783,9 +791,7 @@ ZX-82,1523,STAT. INT. 8h30 - 10h30 MAR 01 avril au 01 déc
 ZX-83,1526,STAT. INT. 9h - 11h MAR 01 avril au 01 déc
 ZX-84,1519,STAT. INT. 13h30 - 15h30 MAR 01 avril au 01 déc
 ZX-85,1521,STAT. INT. 9h30 - 11h30 MAR 01 avril au 01 déc
-ZX-86,1527,STAT. INT. 9h - 11h LUN 01 avril au 01 déc
 ZX-87,1518,STAT. INT. 9h30 - 11h30 LUN 01 avril au 01 déc
-ZX-88,1520,STAT. INT. 12h - 14h LUN 01 avril au 01 déc
 ZX-90,1468,STAT. INT. 12h - 14h JEU 01 avril au 01 déc
 ZX-91,1464,STAT. INT. 9h30 - 11h30 JEU 01 avril au 01 déc
 ZX-92,1525,STAT. INT. 13h30 - 15h30 LUN 01 avril au 01 déc
