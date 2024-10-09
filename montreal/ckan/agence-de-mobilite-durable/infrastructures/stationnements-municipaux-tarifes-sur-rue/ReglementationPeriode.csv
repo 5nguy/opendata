@@ -210,6 +210,7 @@ CH-TC,108,LUN À VEN 9 h  - 21 h
 CH-TD,28,LUN À VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
 CH-TD,121,LUN À VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
 CH-TD,125,LUN À VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TE,111,LUN À VEN 9 h 30 - 21 h
 CH-TM,28,LUN À VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
 CH-TM,67,LUN À VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
 CH-TM,109,LUN À VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
@@ -491,6 +492,7 @@ SI-MC,181,STAT. INT. 7h - 18h LUN à VEN EXCEPTÉ  LIVRAISON
 SI-NA,56,STAT. INT. 17 h - 9 h
 SI-NA,101,STAT. INT. 17 h - 9 h
 SI-NC,109,STAT. INT. 18 h - 21 h LUN À VEN
+SI-NE,1416,STAT. INT. 0 h - 24 h SAM et DIM
 SI-NF,1417,P 15 min DÉB 9 h - 18 h
 SI-NG,54,STAT. INT. 13h - 17 h LUN À VEN
 SI-NQ,1444,STAT. INT. 10 h - 14 h 30 LUN À VEN
@@ -717,6 +719,13 @@ ZV-75,1555,STAT. INT. 8 h - 9 h MER 01 avril au 01 déc
 ZV-76,1556,STAT. INT. 6 h 30 - 7 h 30 MER 01 avril au 01 déc
 ZV-77,1557,STAT. INT. 18 h - 19 h LUN et MER 01 avril au 01 déc
 ZV-78,1558,STAT. INT. 6 h 30 - 9 h LUN et MAR 01 avril au 01 déc
+ZV-79,1559,STAT. INT. 13 h - 15 h VEN 01 avril au 30 novembre
+ZV-80,105,STAT. INT. 7 h - 9 h MAR 01 avril au 30 novembre
+ZV-81,1527,STAT. INT. 9 h - 11 h LUN 01 avril au 30 novembre
+ZV-82,1560,STAT. INT. 13 h - 15 h MER. 01 avril au 30 novembre
+ZV-83,1524,STAT. INT. 9 h - 11 h JEU 01 avril au 30 novembre
+ZV-84,1561,STAT. INT. 13 h - 15 h JEU 01 avril au 30 novembre
+ZV-90,1562,STAT. INT. 22h-23h LUN et JEU 1 avril - 1 déc.
 ZX-01,334,STAT. INT. 13 h - 16 h LUN 01 avril au 01 déc.
 ZX-02,335,STAT. INT. 9 h - 10 h DIM 01 avril au 01 déc.
 ZX-03,1352,STAT. INT. 7 h - 8 h LUN et MER et SAM 01 avril au 01 déc
