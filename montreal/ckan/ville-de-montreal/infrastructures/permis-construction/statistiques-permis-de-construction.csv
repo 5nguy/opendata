@@ -1397,7 +1397,7 @@ annee,arrondissement,code_type_base_demande,nombre_permis_emis,cout_permis_emis,
 2020,"Villeray - Saint-Michel - Parc-Extension","TR",1352,1422890.02,126840618
 2021,"Ahuntsic - Cartierville","CO",23,971202.62,81831722
 2021,"Ahuntsic - Cartierville","DE",15,51210.58,
-2021,"Ahuntsic - Cartierville","TR",1235,1692429.7,179662763
+2021,"Ahuntsic - Cartierville","TR",1236,1692605.3,179680681
 2021,"Anjou","CA, CO, DE, TR",595,2818371.06,200346128
 2021,"Côte-des-Neiges - Notre-Dame-de-Grâce","CO",71,1925345.79,81365069
 2021,"Côte-des-Neiges - Notre-Dame-de-Grâce","DE",10,59085.9,
@@ -1452,7 +1452,7 @@ annee,arrondissement,code_type_base_demande,nombre_permis_emis,cout_permis_emis,
 2021,"Villeray - Saint-Michel - Parc-Extension","CA",94,13603,458137
 2021,"Villeray - Saint-Michel - Parc-Extension","CO",18,1818984.37,64912859
 2021,"Villeray - Saint-Michel - Parc-Extension","DE",19,37696.34,
-2021,"Villeray - Saint-Michel - Parc-Extension","TR",1564,1732579.47,132031769
+2021,"Villeray - Saint-Michel - Parc-Extension","TR",1564,1753726.28,132031769
 2022,"Ahuntsic - Cartierville","CO, DE, TR",1141,2134895.53,252002750
 2022,"Anjou","CA, CO, DE, TR",477,561530.71,47636437
 2022,"Côte-des-Neiges - Notre-Dame-de-Grâce","CA",12,5040,555261
@@ -1542,39 +1542,39 @@ annee,arrondissement,code_type_base_demande,nombre_permis_emis,cout_permis_emis,
 2023,"Ville-Marie","DE",13,32204,
 2023,"Ville-Marie","TR",1218,8833804.34,743077254
 2023,"Villeray - Saint-Michel - Parc-Extension","CA, CO, DE, TR",1293,2248086.03,162715922
-2024,"Ahuntsic - Cartierville","CA, CO, DE, TR",1084,3574102.64,226407568
-2024,"Anjou","CA, CO, DE, TR",438,579537.46,67002912
-2024,"Côte-des-Neiges - Notre-Dame-de-Grâce","CA, CO, DE, TR",1056,6823313.65,459205726
-2024,"L'Île-Bizard - Sainte-Geneviève","CA, CO, DE, TR",335,225015.95,14284989
-2024,"LaSalle","CA, CO, TR",561,1502065.14,129204995
-2024,"Lachine","CA",161,73196.33,2070769
+2024,"Ahuntsic - Cartierville","CA, CO, DE, TR",1047,3557468.79,225171201
+2024,"Anjou","CA, CO, DE, TR",418,573527.6,66489894
+2024,"Côte-des-Neiges - Notre-Dame-de-Grâce","CA, CO, DE, TR",1012,6777864.2,454901295
+2024,"L'Île-Bizard - Sainte-Geneviève","CA, CO, DE, TR",330,224736.35,14268304
+2024,"LaSalle","CA, CO, TR",545,1499726.23,129052853
+2024,"Lachine","CA",159,72842.53,2041820
 2024,"Lachine","CO",30,1179937.7,96991263
 2024,"Lachine","DE",12,69755.92,
-2024,"Lachine","TR",190,322536.57,39006559
-2024,"Le Plateau-Mont-Royal","CA, CO, DE, TR",1030,2348863.33,146292108
-2024,"Le Sud-Ouest","CA",74,11259,16335305
-2024,"Le Sud-Ouest","CO",16,478446.17,40762724
+2024,"Lachine","TR",186,320169.6,38765034
+2024,"Le Plateau-Mont-Royal","CA, CO, DE, TR",996,2295645.98,144141668
+2024,"Le Sud-Ouest","CA",71,11114,16327165
+2024,"Le Sud-Ouest","CO",10,238756.72,36833003
 2024,"Le Sud-Ouest","DE",15,165783.59,
-2024,"Le Sud-Ouest","TR",616,1270862.65,117346063
-2024,"Mercier - Hochelaga-Maisonneuve","CA",245,48690.98,7274059
+2024,"Le Sud-Ouest","TR",607,1267771,117043267
+2024,"Mercier - Hochelaga-Maisonneuve","CA",237,48140.98,7265994
 2024,"Mercier - Hochelaga-Maisonneuve","CO",13,1059683.98,109934312
 2024,"Mercier - Hochelaga-Maisonneuve","DE",11,16865,
-2024,"Mercier - Hochelaga-Maisonneuve","TR",1025,2919286.22,256272583
-2024,"Montréal-Nord","CA, CO, TR",395,708318.04,81307616
-2024,"Outremont","CA, CO, DE, TR",533,384471.36,37598318
-2024,"Pierrefonds - Roxboro","CA, CO, DE",897,2283194.41,130208942
-2024,"Rivière-des-Prairies - Pointe-aux-Trembles","CO",133,1895852.15,110063453
-2024,"Rivière-des-Prairies - Pointe-aux-Trembles","DE",19,13336.72,
-2024,"Rivière-des-Prairies - Pointe-aux-Trembles","TR",415,349804.06,33640399
-2024,"Rosemont - La Petite-Patrie","CA",137,32527,1195901
+2024,"Mercier - Hochelaga-Maisonneuve","TR",993,2906914,255119825
+2024,"Montréal-Nord","CA, CO, TR",387,706238.08,81123632
+2024,"Outremont","CA, CO, DE, TR",517,379689.46,37219773
+2024,"Pierrefonds - Roxboro","CA, CO, DE",870,2279440.69,129890999
+2024,"Rivière-des-Prairies - Pointe-aux-Trembles","CO",130,1885630.11,109057532
+2024,"Rivière-des-Prairies - Pointe-aux-Trembles","DE",18,12779.72,
+2024,"Rivière-des-Prairies - Pointe-aux-Trembles","TR",402,345378.46,33207373
+2024,"Rosemont - La Petite-Patrie","CA",135,32217,1191401
 2024,"Rosemont - La Petite-Patrie","CO",24,1150560.05,34118837
-2024,"Rosemont - La Petite-Patrie","DE",19,79900,
-2024,"Rosemont - La Petite-Patrie","TR",1470,1767145.66,146018818
-2024,"Saint-Laurent","CA, CO, DE, TR",990,2252761.79,214685121
-2024,"Saint-Léonard","CA, CO, DE, TR",402,433903.18,40834069
-2024,"Verdun","CA, CO, DE, TR",966,1063769.18,77441960
-2024,"Ville-Marie","CA",128,9424,22629376
+2024,"Rosemont - La Petite-Patrie","DE",18,79132,
+2024,"Rosemont - La Petite-Patrie","TR",1428,1723482.11,141864794
+2024,"Saint-Laurent","CA, CO, DE, TR",952,2217655.79,211605397
+2024,"Saint-Léonard","CA, CO, DE, TR",388,428799.73,40409400
+2024,"Verdun","CA, CO, DE, TR",928,1052421.89,76616189
+2024,"Ville-Marie","CA",125,9225,22623340
 2024,"Ville-Marie","CO",12,3196936.96,119176916
 2024,"Ville-Marie","DE",19,38680,
-2024,"Ville-Marie","TR",1033,17349744.19,842555380
-2024,"Villeray - Saint-Michel - Parc-Extension","CA, CO, DE, TR",1106,2117149.11,149016534
+2024,"Ville-Marie","TR",1004,17262806.69,833760257
+2024,"Villeray - Saint-Michel - Parc-Extension","CA, CO, DE, TR",1061,2089431.58,146589625
