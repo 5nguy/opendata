@@ -24,7 +24,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 37,"CASERNE NO 49","10 Rue  Chabanel O, Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","AHUNTSIC / CARTIERVILLE",1954,1164.86,546.07,1058.13,2,1,0
 38,"CASERNE NO 35 & DSST","10827 Rue  Lajeunesse , Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","AHUNTSIC / CARTIERVILLE",1929,1581.12,598.57,1426.47,3,1,0
 39,"CASERNE NO 43","1945 Rue  Fleury E, Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","AHUNTSIC / CARTIERVILLE",1949,1224.89,401.78,835.47,2,1,0
-40,"MAISON BERRI - FONDATIONS","10905 Rue  Berri , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Loisir communautaire","Centre communautaire et loisir","AHUNTSIC / CARTIERVILLE",1875,329.15,111.94,267.5,2,1,0
 42,"ABRIS REMONTE-PENTE, PARC CABRINI","6380 Rue de Cadillac (MTL) , Montréal","PROPRIÉTAIRE","Bâtiment vacant","Loisir communautaire","Abri fermé","MERCIER/HOCHELAGA/ MAISONNEUVE",,20.16,,17.5,1,0,0
 43,"CHALET DU PARC AHUNTSIC (PATAUG.)","10555 Rue  Lajeunesse , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","AHUNTSIC / CARTIERVILLE",1957,507.29,406.67,472.53,1,1,0
 44,"LABORATOIRE COUR DE LOUVAIN","999 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Laboratoire","AHUNTSIC / CARTIERVILLE",1966,4062.66,1307.38,3932.5,2,1,1
@@ -37,7 +36,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 52,"PAVILLON DES BAIGNEURS MARCELIN-WILSON","1655 Rue  Dudemaine , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Pavillon des baigneurs","AHUNTSIC / CARTIERVILLE",1962,341.97,341.97,307.9,1,0,0
 54,"ENTREPÔT MAGASIN COUR MADISON.","6333 Rue  Saint-Jacques , Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Espace à bureaux","COTE-DES-NEIGES / N-D-DE-GRACE",1955,94.59,94.59,74.8,1,0,0
 55,"CHALET DU PARC DES VÉTÉRANS (PATAUG.)","1655 Avenue  Papineau , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","VILLE-MARIE",1955,253.01,257.66,224.28,1,0,0
-56,"ENTREPÔT RÉCUPÉRATION COUR DE LOUVAIN","969 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Garage TP/Parcs/Imm./Ent.méc.","AHUNTSIC / CARTIERVILLE",1966,1228.35,1228.35,1150.2,1,0,0
 57,"CASERNE NO 05 (EX-POSTE 33)","75 Rue  Ontario E, Montréal","COPROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","VILLE-MARIE",1963,5707.11,1899.9,5281.96,2,1,0
 59,"CHALET DU PARC TOUSSAINT-LOUVERTURE","137 Boulevard de Maisonneuve E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","VILLE-MARIE",1961,250.77,207.7,216.3,1,1,0
 62,"CASERNE NO 13","3250 Rue  Sainte-Catherine E, Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","MERCIER/HOCHELAGA/ MAISONNEUVE",1963,1471.33,567.27,1319.88,3,1,0
@@ -74,7 +72,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 99,"CHALET DU PARC MAISONNEUVE","4601 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","ROSEMONT / PETITE-PATRIE",1966,1660.48,833.84,1588.4,1,1,0
 100,"BIBLIOTHEQUE MAISONNEUVE","4120 Rue  Ontario , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Bibliothèque","MERCIER/HOCHELAGA/ MAISONNEUVE",1911,4735.79,1420.06,2678.5,2,1,1
 101,"BAIN MORGAN & CENTRE MORGAN","1875 Avenue  Morgan , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Piscine intérieure","MERCIER/HOCHELAGA/ MAISONNEUVE",1916,2457.38,982.31,2141.6,2,1,0
-102,"BUREAU ÉQUIPE DÉMÉNAGEMENT COUR LOUVAIN","959 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Administratif","Espace à bureaux","AHUNTSIC / CARTIERVILLE",1968,83.77,83.77,76,1,0,0
 103,"CHALET DU PARC MORGAN","4370 Rue  Sainte-Catherine E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",1931,148.63,148.63,123,1,0,0
 104,"CASERNE NO 47 (MAIS.CULT.PETITE PATRIE)","2111 Rue  Saint-Zotique E, Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","ROSEMONT / PETITE-PATRIE",1931,3291.93,911.35,2941.5,3,1,1
 105,"ÉDIFICE DU 1500 DES CARRIÈRES","1500 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","ROSEMONT / PETITE-PATRIE",1929,12025.06,5227.64,10323.12,5,1,1
@@ -86,7 +83,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 113,"GARAGE, COUR DES CARRIÈRES","1350 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","ROSEMONT / PETITE-PATRIE",1956,5959.29,5908.01,5740.54,2,0,0
 114,"GARAGE 1620, COUR DES CARRIÈRES","1620 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Garage remisage chauffé","ROSEMONT / PETITE-PATRIE",1956,2201.31,2201.31,2143.8,1,0,0
 115,"CHALET DU PARC SAINT-VICTOR (PATAUG.)","9175 Rue  Hochelaga , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",1966,293.84,193.78,264.9,1,1,0
-116,"GARAGE COUR ST-GRÉGOIRE","5425 Rue de Mentana , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","PLATEAU MONT-ROYAL",1966,933.83,933.83,867.2,1,0,0
 117,"ENTREPÔT 1500, COUR DES CARRIÈRES","1500 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt non-chauffé","ROSEMONT / PETITE-PATRIE",1969,211.82,117.09,201.57,2,0,0
 118,"CHALET DU PARC PÈRE-MARQUETTE (PATAUG.)","1555 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Chalet","ROSEMONT / PETITE-PATRIE",1954,247.69,247.69,224.7,1,0,0
 119,"PATAUGEOIRE DU PARC DE LA BRUÈRE","2150 Rue  Liébert , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Pataugeoire","MERCIER/HOCHELAGA/ MAISONNEUVE",,300,,300,,,
@@ -103,12 +99,11 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 135,"CHALET DU PARC VAN HORNE (JEU D'EAU)","4900 Avenue  Van Horne , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Chalet","COTE-DES-NEIGES / N-D-DE-GRACE",1955,314.93,196.33,286.1,1,1,0
 137,"BIBLIOTHEQUE BENNY","3465 Avenue  Benny , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre communautaire et loisir","COTE-DES-NEIGES / N-D-DE-GRACE",1954,793.35,396.83,389.3,1,1,0
 138,"EDIFICE MADISON, C.S.M. MADISON","2140 Avenue  Madison , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","COTE-DES-NEIGES / N-D-DE-GRACE",1960,7691.42,5159.06,7314.6,3,0,1
-141,"ENTREPÔT ENCANS COUR DE LOUVAIN","969 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Entrepôt chauffé","AHUNTSIC / CARTIERVILLE",1975,691.45,691.45,631.8,1,0,0
 142,"BIBLIO ET CENTRE COMMUNAUTAIRE CDN-NORD","6767 Chemin de la Côte-des-Neiges , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre communautaire et loisir","COTE-DES-NEIGES / N-D-DE-GRACE",1976,8066.23,1064.81,7735.3,6,1,3
 143,"INCINÉRATEUR DES CARRIÈRES (EX)","1266 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment vacant","Industriel","Garage TP/Parcs/Imm./Ent.méc.","ROSEMONT / PETITE-PATRIE",1970,27908.02,4955.96,27013.1,6,1,4
 146,"CHALET DU PARC CAMILLE","9310 Boulevard  Gouin O, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","AHUNTSIC / CARTIERVILLE",1968,32.78,32.78,26.2,1,0,0
 148,"CENTRE TRENHOLME","6800 Rue  Sherbrooke O, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Gymnase","COTE-DES-NEIGES / N-D-DE-GRACE",1960,1472.71,490.41,970.52,2,1,0
-149,"PAVILLON DES TRINITAIRES","3150 Boulevard des Trinitaires , Montréal","PROPRIÉTAIRE","Bâtiment vacant","Loisir communautaire","Chalet","SUD-OUEST",1965,139.36,139.36,122.67,1,0,0
+149,"PAVILLON DES TRINITAIRES","3150 Boulevard des Trinitaires , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","SUD-OUEST",1965,139.36,139.36,122.67,1,0,0
 150,"CASERNE NO 04","5260 Avenue  Van Horne , Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","COTE-DES-NEIGES / N-D-DE-GRACE",1950,608.05,250.96,520.01,2,1,0
 151,"CASERNE 34/BIBLIO&MAISON CULTURE N-D-G","3755 Rue  Botrel , Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","COTE-DES-NEIGES / N-D-DE-GRACE",1912,3225.42,1067.8,2806.09,3,0,1
 152,"CENTRE COMMUNAUTAIRE N-D-G","5311 Chemin de la Côte-Saint-Antoine , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Espace sports/loisirs","COTE-DES-NEIGES / N-D-DE-GRACE",1931,5174.01,,4509.9,5,1,2
@@ -123,7 +118,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 164,"PAVILLON DU PARC N-D-G","3501 Avenue  Marcil , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","COTE-DES-NEIGES / N-D-DE-GRACE",1931,358.3,205.32,313.6,1,1,0
 165,"CHALET DU PARC GEORGES-ST-PIERRE","999 Avenue d' Oxford , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Pavillon des baigneurs","COTE-DES-NEIGES / N-D-DE-GRACE",1970,416.27,201.26,383.3,1,1,0
 167,"CHALET DU PARC WARREN-ALLMAND","4800 Avenue de Hampton , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","COTE-DES-NEIGES / N-D-DE-GRACE",1954,157.28,157.28,141.9,1,0,0
-170,"GUÉRITE COUR DE LOUVAIN","955 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Guérite","AHUNTSIC / CARTIERVILLE",1963,5.75,5.75,4.74,1,0,0
 171,"STATION DE POMPAGE CRAIG (EX)","2000 Avenue  Viger E, Montréal","PROPRIÉTAIRE","Bâtiment vacant","Industriel","Entrepôt chauffé","VILLE-MARIE",1887,524.11,261.99,417.1,2,,0
 173,"ABRI FERMÉ","2558 Boulevard de Maisonneuve E, Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri fermé","VILLE-MARIE",,13.09,30,13.09,1,0,0
 174,"MARCHE AUX FLEURS, SQUARE ST-LOUIS","3601 Avenue  Laval , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","PLATEAU MONT-ROYAL",1932,37,,37,1,0,0
@@ -250,7 +244,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 353,"ÉDIFICE GEORGES-VANIER","2450 Rue  Workman , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","SUD-OUEST",1904,2044.76,621.89,1817.1,3,1,2
 354,"MARCHÉ ATWATER","3024 Rue  Sainte-Émilie , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Marché public","SUD-OUEST",1933,8343.68,2270.94,7912,3,1,4
 356,"CHAMBRE À VANNES ST-AMBROISE (INTERC 2)","3302 Rue  Saint-Ambroise , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Chambre à vannes (aqueduc)","SUD-OUEST",1932,615.31,257.51,519.6,1,2,0
-357,"STATION MÉC.PATINOIRE LAC-AUX-CASTORS","2100 Chemin  Remembrance , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Station méc. patinoire ext.","VILLE-MARIE",2005,291.14,169.99,251.31,1,1,
+357,"STATION MÉC.PATINOIRE LAC-AUX-CASTORS","2100 Chemin  Remembrance , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Station méc. patinoire ext.","VILLE-MARIE",2005,251.3,145.2,184.04,1,1,
 361,"L'ANCIENNE USINE D'ÉPURATION SARAGUAY","9393 Boulevard  Gouin O, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Station de pompage (égouts)","AHUNTSIC / CARTIERVILLE",1964,45.1,,45.1,1,0,0
 364,"VESPASIENNE PARC AU-PIED-DU-COURANT","2382 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Vespasienne","VILLE-MARIE",1932,43.6,,32.94,1,0,0
 365,"BAIN QUINTAL (CENTRE POUPART)","1552 Rue  Dufresne , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Piscine intérieure","VILLE-MARIE",1933,1972.75,823.16,1527.42,2,1,0
@@ -369,7 +363,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 541,"SOUS-STATION ELECT., ILE SAINTE-HÉLÈNE","320 Chemin du Tour-de-l'Isle , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Sous-station électrique","VILLE-MARIE",1951,150,,150,1,0,0
 542,"REMISE","Avenue  Pierre-Dupuy , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Abri fermé","VILLE-MARIE",,6,0,6,1,,
 545,"STAT.MÉC.ÉLEC+PATINOIRE PARC F.-PERRAULT","7600 Rue  François-Perrault , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Station méc. patinoire ext.","VILLERAY/ST-MICHEL/PARC-EXTENS",2008,9.6,0,9.6,1,,
-547,"KIOSQUE PERC.TENNIS PC.ST-JEAN-DE-MATHA","6900 Rue  Dumas , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","SUD-OUEST",,5,,5,1,0,0
 549,"PAVILLON D'INTERPRÉTATION (VIEUX-MOULIN)","11630 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Chalet","R-D-P / P-A-T",2008,17.84,0,16.2,1,,
 551,"CENTRE SPORTIF NOTRE-DAME-DE-GRÂCE","6445 Avenue de Monkland , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Piscine intérieure","COTE-DES-NEIGES / N-D-DE-GRACE",2011,5145.93,0,4890.95,2,1,1
 552,"CHALET DU PARC HENRI-JULIEN (PATAUG.)","9260 Rue  Saint-Denis , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Chalet","AHUNTSIC / CARTIERVILLE",1998,154.39,154.39,135.9,1,0,0
@@ -386,7 +379,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 578,"ÉDIFICE CHAUVEAU (COUR CHAUVEAU)","5670 Rue  Chauveau , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","MERCIER/HOCHELAGA/ MAISONNEUVE",1959,3872.15,3872.15,3787.6,1,0,0
 581,"KIOS.PERC.TENNIS PARC MARTIN-LUTHER-KING","3220 Avenue  Appleton , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","COTE-DES-NEIGES / N-D-DE-GRACE",,5,,5,1,0,0
 582,"ENTREPÔT DU C.S.M. MADISON","2160 Avenue  Madison , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt chauffé","COTE-DES-NEIGES / N-D-DE-GRACE",1977,993.89,993.89,953.2,1,0,0
-593,"RÉCUPÉRATION LOUVAIN (COUR DE LOUVAIN)","973 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Entrepôt chauffé","AHUNTSIC / CARTIERVILLE",1966,3827.66,3337.85,3683.7,2,0,0
 594,"ABRI OUVERT DU PARC RAIMBAULT","12377 Rue  Notre-Dame-des-Anges , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Abri ouvert","AHUNTSIC / CARTIERVILLE",1961,78,,78,1,0,0
 596,"KIOSQUE PERC. (EX) DU PARC HENRI-JULIEN","9300 Rue  Saint-Denis , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt chauffé","AHUNTSIC / CARTIERVILLE",1955,12,,12,1,0,0
 601,"ARÉNA CAMILIEN-HOUDE","1696 Rue  Montcalm , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Aréna","VILLE-MARIE",1981,4162.06,1227.8,3925.46,1,1,0
@@ -425,7 +417,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 699,"BALANCE DE LA COUR DES CARRIÈRES","1310 Rue des Carrières , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Balance","ROSEMONT / PETITE-PATRIE",1970,47.3,24.39,33.7,1,1,0
 701,"ENTREPÔT A DÉCHETS DU RESTAUR.,JARD.BOT.","4455 Boulevard  Pie-IX , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","ROSEMONT / PETITE-PATRIE",2000,18.54,18.54,18.54,1,0,0
 702,"CHEVALET ESTIVA.(ÉPANDEU) COUR CARRIÈRES","Rue des Carrières , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Chevalet d'estivation","ROSEMONT / PETITE-PATRIE",1980,192.27,192.27,191.1,1,0,0
-704,"ABRI OUVERT COUR LOUVAIN","969 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Abri ouvert","AHUNTSIC / CARTIERVILLE",,95.92,95.92,91.2,1,0,0
 707,"ABRI D'ANNONCEURS DU PARC GADBOIS","5381 Chemin de la Côte-Saint-Paul , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Abri fermé","SUD-OUEST",,8,,8,1,0,0
 708,"ENTREPÔT MATÉRIAUX LAB. COUR LOUVAIN","999 Rue de Louvain E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Entrepôt non-chauffé","AHUNTSIC / CARTIERVILLE",1975,275.2,275.2,269.2,1,0,0
 709,"BIBLIO. & MAIS.CULT.COTE-DES-NEIGES","5290 Chemin de la Côte-des-Neiges , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Bibliothèque","COTE-DES-NEIGES / N-D-DE-GRACE",1982,3476.71,900.68,3229.35,4,1,2
@@ -448,7 +439,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 770,"ENTREPÔT SEL/SABLE, COURS BERCY","1501 Rue  Bercy , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Abri à abrasif","VILLE-MARIE",2002,244.21,244.21,199.2,1,0,0
 772,"PAV.BAIGN. DU PARC ST-JEAN-BAPTISTE(PAT)","1060 Boulevard  Saint-Jean-Baptiste , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Pavillon des baigneurs","R-D-P / P-A-T",,82.16,82.16,70.38,1,0,0
 773,"CENTRE PLATEAU SAINT-JEAN-BAPTISTE","1050 Boulevard  Saint-Jean-Baptiste , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","R-D-P / P-A-T",1961,267.7,133.85,247,1,1,0
-774,"ABRI FERMÉ, PARC SAINT-MARCEL","1637 Avenue  6e , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Abri fermé","R-D-P / P-A-T",,31,,31,1,0,0
+774,"ABRI OUVERT, PARC SAINT-MARCEL","1637 Avenue  6e , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri fermé","R-D-P / P-A-T",,31,,31,1,0,0
 776,"PAVILLON DES BAIGNEURS PARC ST-GEORGES","13050 Rue  Prince-Albert , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Pavillon des baigneurs","R-D-P / P-A-T",1968,260.84,260.84,237.8,1,0,0
 781,"AUTOPARC CARIM","1191 Rue  Peel , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Stationnement intérieur","VILLE-MARIE",1986,8945.44,,7147.47,1,3,0
 783,"ENTREPÔT # 3 & # 6 DU COMPLEXE V","3161 Rue  Joseph , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt chauffé","SUD-OUEST",1918,136.46,68.23,120.74,2,0,0
@@ -482,8 +473,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 826,"CHAMBRE A VANNES ROCKFIELD","Rue  Saint-Joseph , Lachine","PROPRIÉTAIRE","Bâtiment","Industriel","Chambre à vannes (égouts)","LACHINE",1960,177.2,177.2,157,1,,0
 827,"GUÉRITE ,C.S.M. JARRY (FRANCON)","Rue  Jarry E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Guérite","VILLERAY/ST-MICHEL/PARC-EXTENS",1956,9.42,9.42,9.42,1,0,0
 828,"STATION DE POMPAGE STE-MARGUERITE (VIAD)","545 Rue  Sainte-Marguerite , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de pompage (aqueduc)","SUD-OUEST",1939,29.3,14.65,19.6,1,1,0
-831,"CHALET(BARRICADÉ) DU PARC D'ARCY-MCGEE","1500 Avenue  Egan , Montréal","PROPRIÉTAIRE","Bâtiment vacant","Loisir communautaire","Chalet","SUD-OUEST",,114.8,0,114.8,1,,
-832,"S.STATION ÉLECTR. PARC LA VÉRENDRYE","Boulevard  De La Vérendrye , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Sous-station électrique","SUD-OUEST",,2,2,2,1,,
 834,"EX.STATION DE NIVOMÉTRIE LAURENTIEN","6100 Rue  De Pontgravé , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","AHUNTSIC / CARTIERVILLE",,5,5,4.2,1,0,0
 835,"JEU D'EAU DU PARC NOTRE-DAME-DE-GRÂCE","Avenue  Marcil , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","COTE-DES-NEIGES / N-D-DE-GRACE",,221,0,221,,,
 836,"STATION DE POMPAGE DES ÉRABLES","266 Avenue des Érables (IBZ) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de pompage (égouts)","L'ÎLE-BIZARD / STE-GENEVIÈVE",,1.46,1.46,1.46,0,0,
@@ -524,7 +513,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 978,"ÉDIFICE ALBERT DUMOUCHEL","10300 Rue  Lajeunesse , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Maison de la culture","AHUNTSIC / CARTIERVILLE",1948,6349.39,2091.9,5681.48,2,1,0
 979,"INSECTARIUM","4581 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre scientifique","ROSEMONT / PETITE-PATRIE",2021,5143.96,1834.38,4947.3,2,1,1
 981,"PAVILLON DU JARDIN JAPONAIS (JAR. BOT.)","4101 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Lieu d'exposition","ROSEMONT / PETITE-PATRIE",1990,952.7,,952.7,1,1,0
-986,"BIBLIOTHEQUE-MAISON DE LA CULTURE P.A.T.","14001 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Maison de la culture","R-D-P / P-A-T",1998,3416.14,1711.14,3076.73,2,,0
+986,"BIBLIO SERGE-BOUCHARD ET M.C. PAT","14001 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Maison de la culture","R-D-P / P-A-T",1998,3416.14,1711.14,3076.73,2,,0
 987,"ÉDIFICE DU 6000 NOTRE-DAME OUEST","6000 Rue  Notre-Dame O, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","SUD-OUEST",1969,5635.07,4180.36,5415.11,2,0,0
 990,"JEU D'EAU DU PARC DES HIRONDELLES","Avenue  Larose , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","AHUNTSIC / CARTIERVILLE",,21,0,21,,,
 996,"PLANÉTARIUM","4801 Avenue  Pierre-De Coubertin , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre scientifique","MERCIER/HOCHELAGA/ MAISONNEUVE",2012,10353.58,5204.43,10005.3,3,,2
@@ -566,7 +555,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1075,"JEU D'EAU DU PARC LAFOND","3500 Avenue  Laurier , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","ROSEMONT / PETITE-PATRIE",2010,78.5,78.5,78.5,,,
 1076,"MAISON ÉMERIL-PÉPIN","7110 Boulevard  Gouin E, Montréal","PROPRIÉTAIRE","Bâtiment vacant","Loisir communautaire","Chalet","R-D-P / P-A-T",1865,450,0,450,2,1,
 1078,"PISCINE INTÉRIEURE ANNIE-PELLETIER","8850 Avenue  Dubuisson , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Piscine intérieure","MERCIER/HOCHELAGA/ MAISONNEUVE",2013,4800.89,1963.02,3716.1,3,1,
-1079,"CHALET PARC CARLOS D'ALCANTARA","Rue  De Contrecoeur , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",2013,72.22,72.22,59.41,1,,
+1079,"CHALET PARC CARLOS D'ALCANTARA","5349 Rue  De Contrecoeur , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",2013,72.22,72.22,59.41,1,,
 1082,"STAT.MÉC.+PATIN.PARC DE LA CONFÉDÉRATION","6262 Avenue  Fielding , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Station méc. patinoire ext.","COTE-DES-NEIGES / N-D-DE-GRACE",2013,8.8,8.8,8.8,1,,
 1091,"JEUX D'EAU DU PARC PHILIPPE-LAHEURTE","13500 Boulevard  Cavendish (SLR) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","SAINT-LAURENT",2012,468.5,1,468.5,,,
 1093,"CHALET PATIN. PARC DE LA CONFÉDÉRATION","6262 Avenue  Fielding , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Chalet","COTE-DES-NEIGES / N-D-DE-GRACE",2013,160.17,160.17,141.08,1,0,0
@@ -611,13 +600,14 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1156,"2 CONTENEURS ENTREPÔT R.D.D.","Rue de Charleroi (MTN) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","MONTRÉAL-NORD",,24,24,24,1,,
 1157,"15 CONTENEURS ENTREPÔTS ÉVICTIONS","Rue  Forest (MTN) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","MONTRÉAL-NORD",,225,225,225,1,,
 1158,"CONTENEUR ENTREPÔT PARC","Rue  Forest (MTN) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","MONTRÉAL-NORD",,16,16,16,1,,
-1159,"STATION D'ÉCHANTILLONNAGE DU RSQA # 28","2495 Chemin  Duncan (MTR) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de nivométrie","MONT-ROYAL",1981,1,1,1,1,,
+1159,"STATION D'ÉCHANTILLONNAGE DU RSQA # 28","2495 Chemin  Duncan (MTR) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de nivométrie","MONT-ROYAL",1981,7.5,7.5,7.5,1,,
 1160,"USINE D'ASSAINISSEMENT DU LIXIVIAT-CESM","2245 Rue  Michel-Jurdant , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Usine d'épuration","VILLERAY/ST-MICHEL/PARC-EXTENS",,1,311,1,,,
 1161,"USINE D'ASSAINISSEMENT DU LIXIVIAT-PEPSC","125 Rue  Fernand-Seguin , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Usine de filtration","SUD-OUEST",,1014,820,1014,2,,
 1163,"PERGOLA SITE JARDINS JEUNES","4101 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Installation externe","Culturel","Abri ouvert","ROSEMONT / PETITE-PATRIE",2014,330,330,330,,,
 1164,"BÂTIMENT PRÉFAB. ENTREPOSAGE HIVERNAL","Boulevard  Gouin O, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt chauffé","PIERREFONDS/ROXBORO",2014,16,0,16,1,,
 1169,"JEU D'EAU PARC ARMAND-BOMBARDIER","12535 Boulevard  Armand-Bombardier , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Jeu d'eau","R-D-P / P-A-T",2014,110,110,110,,,
 1170,"JEU D'EAU PARC DU COLOMBIER","Rue du Colombier , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Jeu d'eau","R-D-P / P-A-T",2014,135,135,135,,,
+1171,"CENTRE DE TRI MATIÈRES RÉSIDU.FAIRWAY","1131 Rue  Lenoir , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Centre de tri / déchetteries","LACHINE",,9100,9100,9100,,,
 1174,"ENTREPÔT RÉCUP.PRODUITS ÉLECTRONIQUES","7272 Rue  Saint-Patrick , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt non-chauffé","LASALLE",2010,62.85,62.85,55.1,1,,
 1177,"BÂT. CHUTE MÉCANISÉE LANGELIER","9505 Boulevard  Langelier , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Espace à bureaux","SAINT-LÉONARD",,45,0,45,1,,
 1178,"GUÉRITE DÉPÔT À NEIGE SARTELON","3405 Rue  Sartelon (SLR) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Guérite","SAINT-LAURENT",1992,7.89,7.89,6.3,1,,
@@ -660,7 +650,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1298,"ABRI OUVERT PARC MÉDÉRIC-MARTIN","Rue du Havre , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","VILLE-MARIE",2015,154,154,154,1,,
 1299,"ABRI ACCÈS PATAUG. PARC MÉDÉRIC-MARTIN","Rue du Havre , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","VILLE-MARIE",2015,102,102,102,1,,
 1303,"CITÉ DES HOSPITALIÈRES","251 Avenue des Pins O, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Gestion immobilière","PLATEAU MONT-ROYAL",1858,10152.6,0,10152.6,5,,
-1304,"PAVILLON DE PARC-PLAGE DE L'EST","16240 Rue  Bureau , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Pavillon des baigneurs","R-D-P / P-A-T",2017,176.79,176.79,154,1,,
+1304,"PAVILLON DE PARC-PLAGE DE L'EST","16240 Rue  Bureau , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Vespasienne","R-D-P / P-A-T",2017,176.79,176.79,154,1,,
 1310,"STATION D'ÉCHANTILLONNAGE DU RSQA # 99","20965 Chemin  Sainte-Marie , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de nivométrie","SAINTE-ANNE-DE-BELLEVUE",2016,13,13,13,1,,
 1315,"STATION DE POMPAGE 96E AVENUE","31 Avenue  96e , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Station de pompage (égouts)","R-D-P / P-A-T",2016,5.98,5.98,5.98,1,,
 1317,"ÉDICULE AUTOROUTE DES LAURENTIDES","99999 Boulevard  Jules-Poitras (SLR) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Habitation","AHUNTSIC / CARTIERVILLE",1985,70,70,70,1,,
@@ -674,7 +664,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1341,"PAVILLON DES BAIGNEURS PARC TRENHOLME","6800 Rue  Sherbrooke O, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Pavillon des baigneurs","COTE-DES-NEIGES / N-D-DE-GRACE",2018,500,0,500,1,,
 1345,"STATION D'ÉCHANTILLONNAGE DU RSQA # 55","12400 Avenue  Wilfrid-Ouellette , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de nivométrie","R-D-P / P-A-T",1999,11.15,11.15,11.15,1,2,
 1346,"GARAGE RUE PIERRE-CHASSEUR","7690 Rue  Pierre-Chasseur , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Entrepôt chauffé","R-D-P / P-A-T",,300,0,300,1,0,0
-1358,"BIOSPHERE","160 Chemin du Tour-de-l'Isle , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre scientifique","VILLE-MARIE",1967,8849,,8849,,,0
+1358,"BIOSPHERE","160 Chemin du Tour-de-l'Isle , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre scientifique","VILLE-MARIE",1967,8384.21,,7790.5,5,,2
 1368,"TOILETTE PUBLIQUE PARC ST-BENOIT","Rue  Meilleur , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Vespasienne","AHUNTSIC / CARTIERVILLE",,24,0,24,1,,
 1369,"BÂT.SERVICE PATAUG. PARC PIERRE-BÉDARD","5415 Rue  Lacordaire , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",2018,93.35,93.35,80.9,1,,
 1370,"BÂT.SERVICE PATAUG. PARC ST-CLÉMENT","5071 Rue  La Fontaine , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",2018,93.35,93.35,80.8,1,,
@@ -694,7 +684,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1387,"ÉDICULE O'BRIEN","11651 Boulevard  O'Brien , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","SAINT-LAURENT",,38,38,38,1,,
 1388,"ÉDICULE 24E AVENUE","12778 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","R-D-P / P-A-T",,56,56,56,1,,
 1389,"ÉDICULE AUTEUIL","10730 Avenue  D'Auteuil , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","AHUNTSIC / CARTIERVILLE",,150,150,150,,1,
-1391,"ÉDICULE GONTHIER","9695 Rue  Bellerive , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","MERCIER/HOCHELAGA/ MAISONNEUVE",,64,64,64,1,,
+1391,"ÉDICULE GONTHIER","9695 Rue  Bellerive , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","MERCIER/HOCHELAGA/ MAISONNEUVE",,87.12,43.56,69,1,,
 1392,"ÉDICULES ALEPIN (2 INSTALLATIONS)","7540 Boulevard  LaSalle , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Édicule évent (égouts)","LASALLE",,20,20,20,,,
 1393,"ÉDICULE PARC CLÉMENT-JETTÉ","8855 Rue  Bellerive , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","MERCIER/HOCHELAGA/ MAISONNEUVE",,56,56,56,1,,
 1394,"ÉDICULE DE BOUCHERVILLE","7500 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","MONTRÉAL-EST",,56,56,56,1,,
@@ -708,7 +698,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1478,"ABRI A DECHETS DU PARC PLAGE",", Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Abri ouvert","VILLE-MARIE",1990,,,,,,
 1493,"USINE D'ÉPURATION DE L'ILE NOTRE-DAME","230 Chemin du Chenal-Le Moyne , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Usine d'épuration","VILLE-MARIE",1966,535,535,535,1,2,0
 1627,"ABRI A DÉCHETS",", Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Abri fermé","VILLE-MARIE",,1,,1,,,
-1727,"L'ABRI CENTRAL DU PARC JARRY","200 Rue  Jarry O, Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","VILLERAY/ST-MICHEL/PARC-EXTENS",1996,206,206,206,1,,
 1688,"STATION DE POMPAGE TEMPORAIRE","989 Boulevard de la Forêt (VRD) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de pompage (aqueduc)","VERDUN",2016,6.69,6.69,6.69,1,,
 1689,"ÉDICULE LAURENDEAU","1 Avenue  Laurendeau (MTE) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","MONTRÉAL-EST",,35,35,35,1,,
 1690,"ÉDICULE DICKSON","360 Rue  Dickson , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Édicule évent (égouts)","MERCIER/HOCHELAGA/ MAISONNEUVE",,64,64,64,1,,
@@ -741,8 +730,8 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1721,"BÂTIMENT PRINCIPAL COUR SERV.OUTREMONT","600 Avenue de la Gare-de-Triage(OUT) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","OUTREMONT",2018,6165.12,2776.08,5928.8,2,,
 1723,"L'ABRI DU ROULI-ROULANT PARC JARRY","80 Rue  Jarry O, Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","VILLERAY/ST-MICHEL/PARC-EXTENS",1992,47,47,47,1,,
 1724,"CENTRE DE LOCATION DE LA PLAGE","215 Chemin du Cap-Saint-Jacques (PFD) , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Abri fermé","PIERREFONDS/ROXBORO",,20,20,20,1,,
+1727,"L'ABRI CENTRAL DU PARC JARRY","200 Rue  Jarry O, Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","VILLERAY/ST-MICHEL/PARC-EXTENS",1996,206,206,206,1,,
 1728,"ÉDIFICE DU 7751 BOUL.LOUIS-H.LA FONTAINE","7751 Boulevard  Louis-H.-La Fontaine (ANJ) , Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Espace à bureaux","ANJOU",1974,1951,1,1951,,,
-1729,"ÉDIFICE 60 RUE MILTON","60 Rue  Milton , Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Habitation","PLATEAU MONT-ROYAL",,78,1,78,2,,
 1730,"JEU D'EAU PARC DU VAISSEAU D'OR","7249 Rue de Marseille , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Jeu d'eau","MERCIER/HOCHELAGA/ MAISONNEUVE",2013,356,356,356,,,
 1732,"CHAPELLE SAINTE-FAMILLE. CITÉ HOSPITALI.","209 Avenue des Pins O, Montréal","COPROPRIÉTAIRE","Bâtiment","Culturel","Centre culturel","PLATEAU MONT-ROYAL",1859,740,0,740,3,,
 1733,"MUSÉE","201 Avenue des Pins O, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre culturel","PLATEAU MONT-ROYAL",1926,1201,0,1201,2,1,
@@ -751,7 +740,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1736,"GARAGE ET ATELIERS","251 Avenue des Pins O, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt chauffé","PLATEAU MONT-ROYAL",1869,692,0,692,2,,
 1737,"ANCIEN CAVEAU","251 Avenue des Pins O, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre culturel","PLATEAU MONT-ROYAL",1869,332,0,332,2,,
 1738,"CHAPELLE DE LA SAINTE-VIERGE","251 Avenue des Pins O, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre culturel","PLATEAU MONT-ROYAL",1862,64,0,64,1,,
-1741,"EX.VESPASIENNE PARC HOCHELAGA","1870 Rue  Davidson , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Vespasienne","MERCIER/HOCHELAGA/ MAISONNEUVE",1983,70.24,1,54.3,1,,
+1741,"EX.VESPASIENNE PARC HOCHELAGA","1870 Rue  Davidson , Montréal","PROPRIÉTAIRE","Bâtiment vacant","Loisir communautaire","Vespasienne","MERCIER/HOCHELAGA/ MAISONNEUVE",1983,70.24,1,54.3,1,,
 1742,"MAISON AUGUSTIN-BRISEBOIS","18639 Boulevard  Gouin O, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Habitation","PIERREFONDS/ROXBORO",1847,354.36,308.9,308.9,1,,
 1743,"UNITÉ DE TRAITEMENT DES ODEURS (75E AVE)","8960 Boulevard  LaSalle , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de pompage (égouts)","LASALLE",2012,400,400,400,1,,
 1744,"SALLE MÉCANIQUE SOUTERRAINE VAUQUELIN","275 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Sous-station électrique","VILLE-MARIE",2017,216.09,1,180.6,,1,
@@ -809,22 +798,40 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 1823,"BUREAU DE CHANTIER -1440 SAINT CATHERINE","1440 Rue  Sainte-Catherine O, Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",,2597,258,2597,10,,
 1825,"MAISON DE LA PLAGE DE L'EST","16250 Rue  Bureau , Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Espace à bureaux","R-D-P / P-A-T",,315,,315,2,,
 1826,"ATELIER ET BUREAUX - 3555, 36ÈME AVENUE","3555 Avenue  36e , Montréal","LOCATAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","R-D-P / P-A-T",,1540,770,1540,2,,
-1828,"2250 PLESSIS","2250 Rue  Plessis , Montréal","PROPRIÉTAIRE","Bâtiment","Divers","Habitation","VILLE-MARIE",,1,1,1,3,,
+1828,"2250 PLESSIS","2250 Rue  Plessis , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Divers","Habitation","VILLE-MARIE",,1,1,1,3,,
 1829,"1743-1747 RUE BOURBONNIÈRE","1743 Avenue  Bourbonnière , Montréal","PROPRIÉTAIRE","Bâtiment","Divers","Habitation","MERCIER/HOCHELAGA/ MAISONNEUVE",,1,1,1,3,,
 1831,"6336-6340, SAINT-JACQUES","6336 Rue  Saint-Jacques , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Local commercial","COTE-DES-NEIGES / N-D-DE-GRACE",,300,300,300,1,,
 1834,"STAT MÉC.ÉLEC+PATINOIRE.PARC WILLIBORD","769 Avenue  1e (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Station méc. patinoire ext.","VERDUN",,1,1,1,1,,
 1835,"PARC DU RUISSEAU DES HÉRONS","525 Chemin du Golf (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Culturel","Garage TP/Parcs/Imm./Ent.méc.","VERDUN",,1,1,1,,,
-1836,"RÉSIDENCES JARDINS GORDON","1050 Rue  Gordon (VRD) , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Culturel","Espace à bureaux","VERDUN",,3900,1300,3900,3,,
+1836,"RÉSIDENCES JARDINS GORDON","1050 Rue  Gordon (VRD) , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Culturel","Habitation","VERDUN",,900,300,900,3,,
 1840,"EGLISE SAINTE-BIBIANE","5600 Avenue  12e , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","ROSEMONT / PETITE-PATRIE",,408,136,408,,,
 1847,"2023-2025, RUE WELLINGTON","2023 Rue  Wellington , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Divers","Habitation","SUD-OUEST",,312,84.4,312,3,1,
 1848,"7335 MILE END","7335 Rue du Mile End , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Local commercial","VILLERAY/ST-MICHEL/PARC-EXTENS",,1507.5,1005,1507.5,,,
 1852,"SALLE MÉC. SOUTERRAINE SQUARE PHILLIPS","582 Rue  Sainte-Catherine O, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Sous-station électrique","VILLE-MARIE",,15,15,15,,1,
 1853,"SITE DE FORMATION 11175 METROPOLITAIN E.","11175 Autoroute  Métropolitaine E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Espace à bureaux","MONTRÉAL-EST",,30,30,30,1,,
+1857,"ÉDIFICE DU 7487, 18E AVENUE","7487 Avenue  18e , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Local commercial","VILLERAY/ST-MICHEL/PARC-EXTENS",1962,592,492,592,2,,
+1858,"ÉDIFICE DU 1100-1102, RUE CLARK","1100 Rue  Clark , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Marché public","VILLE-MARIE",1950,1,1,1,2,1,
+1860,"ENTREPOT DU 6540 RUE HUTCHISON","6540 Rue  Hutchison , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Garage TP/Parcs/Imm./Ent.méc.","OUTREMONT",,0,0,0,,,
+1862,"2521 SAINT-AUGUSTIN-CANTIN","2521 Rue  Augustin-Cantin , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Habitation","SUD-OUEST",,140,70,140,2,,
+1863,"2527 -2529- 2533 AUGUSTIN-CANTIN","2527 Rue  Augustin-Cantin , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Habitation","SUD-OUEST",,300,150,300,2,,
+1864,"2512 A 2536 SAINT-PATRICK","2512 Rue  Saint-Patrick , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Habitation","SUD-OUEST",,0,0,0,2,,
+1865,"IMMEUBLE  3713, 52E AVENUE","3713 Avenue  52e , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Habitation","R-D-P / P-A-T",,180,120,180,1,1,
 1867,"TOILETTE DU PARC ROGER-ROUSSEAU","7501 Avenue  Rondeau (ANJ) , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Vespasienne","ANJOU",2023,10,10,10,1,,
 1868,"TOILETTE DU PARC ANJOU-SUR-LE-LAC","10350 Boulevard des Galeries-d'Anjou (ANJ) , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Vespasienne","ANJOU",2023,10,10,10,1,,
 1869,"BATIMENT EXCEDENTAIRE -11 RUE MARIE-ANNE","11 Rue  Marie-Anne , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Habitation","PLATEAU MONT-ROYAL",1938,820,700,820,2,,
 1871,"BATIMENT - 2170 RUE DE L'ÉGLISE","2170 Rue de l' Église (VRD) , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Habitation","SUD-OUEST",1990,586,586,586,1,,
 1876,"PISCINE DU PARC DE LA RIVE-BOISÉE","475 Chemin de la Rive-Boisée (PFD) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Piscine extérieure","PIERREFONDS/ROXBORO",,0,0,0,,,
+1880,"ÉDIFICE DU 7488, 19 EME AVENUE","7488 Avenue  19e , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Local commercial","VILLERAY/ST-MICHEL/PARC-EXTENS",1962,156,156,156,1,,
+1882,"ÉDIFICE DU 2661, RUE DU CENTRE","2661 Rue du Centre , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Habitation","SUD-OUEST",,0,0,0,2,0,
+1883,"ÉDIFICE DU 3550-3552 SAINT-PATRICK","3550 Rue  Saint-Patrick , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Atelier / Esp. bureau","SUD-OUEST",,4700,4700,4700,2,,
+1884,"GARAGE MUNICIPAL - ABRI À SEL (PORTE 9)","350 Montée de l' Église (IBZ) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Abri à abrasif","L'ÎLE-BIZARD / STE-GENEVIÈVE",,100,100,100,0,,
+1885,"CABANON DU DÉPOT MUNICIPAL","985 Montée de l' Église (IBZ) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Kiosque","L'ÎLE-BIZARD / STE-GENEVIÈVE",,20,20,20,1,,
+1886,"GARAGE MUNICIPAL - ENTREPÔT SAISONNIER","350 Montée de l' Église (IBZ) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Garage TP/Parcs/Imm./Ent.méc.","L'ÎLE-BIZARD / STE-GENEVIÈVE",,250,250,250,1,,
+1890,"GRENIER ST-RAPHAEL - CABANON 2","51 Rue  Cherrier (IBZ) , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Abri fermé","L'ÎLE-BIZARD / STE-GENEVIÈVE",,35,35,35,1,,
+1891,"ABRI OUVERT JEU D'EAU-PARC EUGENE-DOSTIE","488 Montée de l' Église (IBZ) , Montréal","PROPRIÉTAIRE","Installation externe","Culturel","Jeu d'eau","L'ÎLE-BIZARD / STE-GENEVIÈVE",,1,1,1,0,,
+1892,"CABANON DE LA PISCINE-PARC ROBERT SAUVÉ","15743 Rue de la Caserne , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Abri fermé","L'ÎLE-BIZARD / STE-GENEVIÈVE",,20,20,20,1,,
+1893,"POINT DE SERVICE STE-GENEVIÈVE","15795 Boulevard  Gouin O, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Bureau d'arrondissement","L'ÎLE-BIZARD / STE-GENEVIÈVE",,360,180,360,2,,
+1894,"SOCIÉTÉ DU PATRIMOINE ET HISTOIRE","15848 Rue du Moulin (SGV) , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Maison de la culture","L'ÎLE-BIZARD / STE-GENEVIÈVE",,300,200,300,1,1,
 2000,"PISCINE EXTÉRIEURE MAISONNEUVE","4350 Rue de Rouen , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Piscine extérieure","MERCIER/HOCHELAGA/ MAISONNEUVE",2001,554.5,,554.5,,,
 2001,"PATAUGEOIRE MAISONNEUVE","4350 Rue de Rouen , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Pataugeoire","MERCIER/HOCHELAGA/ MAISONNEUVE",2001,119.4,,119.4,,,
 2002,"ENTREPÔT MATIÈRE INFLAMMABLES MADISON","2160 Avenue  Madison , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","COTE-DES-NEIGES / N-D-DE-GRACE",1979,17.69,17.69,16.18,1,0,
@@ -833,12 +840,10 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 2016,"ENTREPÔT MAT. INFLAMM. COUR POINCARÉ","999 Boulevard  Henri-Bourassa O, Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","AHUNTSIC / CARTIERVILLE",1995,2.72,2.72,2.05,1,0,
 2017,"ENTREPÔT MAT.INFLAMM.(10M)C.S.DICKSON","2070 Rue  Dickson , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Entrepôt non-chauffé","MERCIER/HOCHELAGA/ MAISONNEUVE",1991,9.42,9.42,8.24,1,0,
 2019,"GUERITE NORD DU C.S.M. DICKSON","2200 Rue  Dickson , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Guérite","MERCIER/HOCHELAGA/ MAISONNEUVE",,3.48,,2.12,1,,
-2020,"PATAUGEOIRE DU PARC BALDWIN","2330 Rue  Rachel E, Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Pataugeoire","PLATEAU MONT-ROYAL",2001,68,,68,,,
 2021,"PAVILLON DES PREMIÈRES NATIONS","4101 Rue  Sherbrooke , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre culturel","ROSEMONT / PETITE-PATRIE",2001,208.6,0,208.6,1,1,
 2022,"POMPE D'ESSENCE (NO 14) COUR BERCY","1501 Rue  Bercy , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Pompe d'essence","VILLE-MARIE",2001,220,220,220,1,0,0
 2023,"PATAUGEOIRE PARC MARCELIN-WILSON","1655 Rue  Dudemaine , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Pataugeoire","AHUNTSIC / CARTIERVILLE",1962,111.5,,105,,,0
 2024,"BLOC D'ALIMENTATION PARC CANAL LACHINE","3002 Rue  Saint-Ambroise , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Sous-station électrique","SUD-OUEST",2001,400,400,400,1,,
-2025,"BLOC D'ALIMENTATION PARC CANAL LACHINE","Rue de la Commune O, Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Sous-station électrique","SUD-OUEST",2001,0.5,0,0.5,1,,
 2027,"JEU D'EAU DU PARC JACQUES-BLANCHET","Avenue  Jeanne-d'Arc , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","MERCIER/HOCHELAGA/ MAISONNEUVE",,75,0,75,,,
 2028,"JEU D'EAU DU PARC DE MÉSY","Rue  Grenet , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","AHUNTSIC / CARTIERVILLE",2004,118,0,118,,,
 2030,"KIOSQUE DE PERCEPTION DES DÉPARTS","4235 Rue  Viau E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Kiosque","ROSEMONT / PETITE-PATRIE",,213.51,213.51,186.52,1,0,0
@@ -964,8 +969,8 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 2402,"BIODOME","4777 Avenue  Pierre-De Coubertin , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre scientifique","MERCIER/HOCHELAGA/ MAISONNEUVE",1976,34874.8,,34364.5,4,0,0
 2403,"L'USINE DE DÉSENSACHAGE","2235 Rue  Michel-Jurdant , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Abri fermé","VILLERAY/ST-MICHEL/PARC-EXTENS",2000,164.6,0,164.6,1,,
 2405,"CENTRE MULTI-ETHNIQUE","3555 Rue  Saint-Urbain , Montréal","COPROPRIÉTAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","PLATEAU MONT-ROYAL",1952,1760.14,857.19,1648.2,2,1,0
-2406,"ÉDIFICE A BUREAUX RÉGION EST","3444 Rue  Saint-Joseph E, Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Espace à bureaux","ROSEMONT / PETITE-PATRIE",,1049.38,344.23,858.3,3,0,0
-2407,"ÉDIFICE A BUREAUX (ATELIER DE PLOMBERIE)","3444 Rue  Saint-Joseph E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","ROSEMONT / PETITE-PATRIE",,264.01,264.01,245.6,1,0,0
+2406,"ÉDIFICE A BUREAUX RÉGION EST","3444 Rue  Saint-Joseph E, Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Espace à bureaux","ROSEMONT / PETITE-PATRIE",1975,1049.38,344.23,858.3,3,0,0
+2407,"ÉDIFICE A BUREAUX (ATELIER DE PLOMBERIE)","3444 Rue  Saint-Joseph E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","ROSEMONT / PETITE-PATRIE",1975,264.01,264.01,245.6,1,0,0
 2413,"GUÉRITE # 1","4101 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","ROSEMONT / PETITE-PATRIE",1991,10,,10,1,0,
 2414,"GUÉRITE # 2","4101 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Guérite","ROSEMONT / PETITE-PATRIE",1991,10,,10,1,0,
 2416,"GUÉRITE # 3","Boulevard  Rosemont , Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","ROSEMONT / PETITE-PATRIE",1991,10,,10,1,0,
@@ -995,8 +1000,8 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 2454,"MAISON DE L'ARBRE, JARDIN BOT.","4500 Boulevard  Rosemont E, Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Musée","ROSEMONT / PETITE-PATRIE",1996,950.8,,809.1,2,,
 2459,"BIBLIOTHÈQUE RIVIÈRE-DES-PRAIRIES","9001 Boulevard  Perras , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Bibliothèque","R-D-P / P-A-T",1995,2694.68,1346.4,2637.9,1,1,0
 2460,"POMPE D'ESSENCE DU JARDIN BOTANIQUE","4101 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Pompe d'essence","ROSEMONT / PETITE-PATRIE",1989,240,240,240,,,
-2461,"CHALET DU PARC DE ÉCOLE POLYVALENTE PAT","15180 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","R-D-P / P-A-T",,10.56,10.56,8.1,1,0,0
-2462,"KIOSQUE PERC.,TENNIS PARC POLYVA. P.A.T.","15170 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","R-D-P / P-A-T",,10,,10,1,,
+2461,"CHALET DU PARC DE ÉCOLE SECONDAIRE PAT","15180 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","R-D-P / P-A-T",2021,10.56,10.56,8.1,1,0,0
+2462,"KIOSQUE PERC.,TENNIS PARC ESPAT","15170 Rue  Sherbrooke E, Montréal","PROPRIÉTAIRE","Bâtiment","Commercial","Kiosque","R-D-P / P-A-T",,10,,10,1,,
 2463,"CENTRE SPORTIF DE LA PETITE-BOURGOGNE","1825 Rue  Notre-Dame O, Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Espace sports/loisirs","SUD-OUEST",1997,4839.53,3443.7,4211.4,2,1,
 2464,"CENTRE SPORTIF CÔTE-DES-NEIGES","4880 Avenue  Van Horne , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Espace sports/loisirs","COTE-DES-NEIGES / N-D-DE-GRACE",1997,6301.61,4373.36,5489.22,1,2,
 2467,"POMPE D'ESSENCE (NO 52) RIV-DES-PRAIRIES","9255 Boulevard  Henri-Bourassa E, Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Pompe d'essence","R-D-P / P-A-T",1995,77,77,77,,,
@@ -1050,6 +1055,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 2554,"ENTREPÔT SEL/SABLE DE LA COUR DARLINGTON","6990 Avenue de Darlington , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Abri ouvert","COTE-DES-NEIGES / N-D-DE-GRACE",1997,467.29,533.28,445.6,1,0,
 2555,"CHEVALET D'ESTIVATION, COUR DARLINGTON","6960 Avenue de Darlington , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Chevalet d'estivation","COTE-DES-NEIGES / N-D-DE-GRACE",1997,200,,200,,,
 2556,"INFRA.ÉLEC.MINI-PARC ST-JEAN-DE-LA-LANDE","5015 Avenue  9e , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Sous-station électrique","ROSEMONT / PETITE-PATRIE",,11,11,11,,,
+2558,"TUNNEL : HDV  L.SAULNIER - HALTE CHALEUR","85 Rue  Notre-Dame E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Tunnel","VILLE-MARIE",,1,,1,,,
 2559,"CHALET DU PARC FÉLIX-LECLERC","6700 Rue  François-Boivin , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","MERCIER/HOCHELAGA/ MAISONNEUVE",1999,101.58,101.6,87.9,1,,
 2561,"ABRI  FERMÉ PRÈS POMPE ESSENCE DICKSON","2220 Rue  Dickson , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Abri fermé","MERCIER/HOCHELAGA/ MAISONNEUVE",1996,5.3,5.3,5.3,1,,
 2562,"PAVILLON D'ACCUEIL , ÉCO-CENTRE ACADIE","1200 Boulevard  Henri-Bourassa O, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Centre de tri / déchetteries","AHUNTSIC / CARTIERVILLE",1997,53.17,53.17,43.6,1,0,
@@ -1104,7 +1110,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 2688,"POSTE DE POMPAGE DE LIXIVIAT","5150 Boulevard  LaSalle , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Station de pompage (égouts)","VERDUN",,1,1,1,,,
 2689,"STAT-POMP-ALIMENATION EAU-P-LACOURSIERE","525 Chemin du Golf (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Station de pompage (aqueduc)","VERDUN",,1,1,1,,,
 2690,"CHALET PARC BOIS-FRANC","9999 Boulevard  Laurentien (SLR) , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Chalet","SAINT-LAURENT",,25.8,25.8,25.8,,,
-2694,"STATION D'ÉCHANTILLONAGE DU RSQA #26","11475 Rue  Victoria , Montréal","LOCATAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","MONTRÉAL-EST",,1,1,1,,,
+2694,"STATION D'ÉCHANTILLONAGE DU RSQA #26","11475 Rue  Victoria , Montréal","LOCATAIRE","Installation externe","Industriel","Garage TP/Parcs/Imm./Ent.méc.","MONTRÉAL-EST",,10,10,10,,,
 2698,"6360 SAINT-JACQUES","6360 Rue  Saint-Jacques , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Industriel","Entrepôt non-chauffé","COTE-DES-NEIGES / N-D-DE-GRACE",,1,1,1,1,,
 2699,"ÉDIFICE 2135-2145, RUE HALL","2135 Rue  Hall , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Administratif","Atelier / Esp. bureau","SUD-OUEST",,1,1,1,,,
 2701,"ÉDIFICE 2160,AVENUE DE L'ÉGLISE","2160 Avenue de l' Église , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Atelier / Esp. bureau","SUD-OUEST",,1,1,1,1,,
@@ -1504,7 +1510,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 3679,"QUARTIER GÉNÉRAL DU SPVM","1441 Rue  Saint-Urbain , Montréal","PROPRIÉTAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",1957,14328.6,,14328.6,9,1,5
 3680,"CHALET DU PARC MARCEL-LAURIN","2385 Boulevard  Thimens (SLR) , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","SAINT-LAURENT",,546.4,0,546.4,1,,
 3682,"SPVM - APPROVISIONNEMENTS ET SERVICES","5000 Rue d' Iberville (MTL) , Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","PLATEAU MONT-ROYAL",,16345.74,8256.33,7521.9,2,,
-3684,"POSTE DE CAVALERIE DU SPVM","1515 Voie  Camillien-Houde , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Écurie","VILLE-MARIE",1960,1065.9,,1065.9,2,1,
+3684,"POSTE DE CAVALERIE DU SPVM","1515 Chemin  Remembrance , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Écurie","COTE-DES-NEIGES / N-D-DE-GRACE",1960,1065.9,,1065.9,2,1,
 3685,"CENTRE OPÉRATIONNEL NORD ET ENVIRONN.","855 Boulevard  Crémazie E, Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Poste de police","AHUNTSIC / CARTIERVILLE",1991,9028.96,1913.78,8631.04,4,1,1
 3686,"CENTRE OPÉRATIONNEL OUEST (SLR)","2805 Boulevard  Thimens (SLR) , Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Poste de police","SAINT-LAURENT",1986,4195.1,,4195.1,1,1,1
 3687,"CENTRE OPÉRATIONNEL EST","7700 Boulevard  Langelier , Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Poste de police","SAINT-LÉONARD",1999,8094.98,2713.91,7719.78,2,1,3
@@ -1750,7 +1756,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 4138,"CHALET PISTE ET PELOUSE PARC RIVERSIDE","8299 Rue  Centrale (LSL) , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Espace sports/loisirs","LASALLE",1976,586.1,0,586.1,1,,
 4139,"PAVILLON DES BAIGNEURS DU PARC RIVERSIDE","625 Avenue  35e (LSL) , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Pavillon des baigneurs","LASALLE",2017,196,0,196,1,,
 4140,"PISCINE EXT. DU PARC RIVERSIDE","Avenue  35e (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Piscine extérieure","LASALLE",1960,416,0,416,,,
-4141,"JEU D'EAU ET SKATEBOARD DU PARC RAYMOND","Boulevard  Bishop-Power (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Piscine extérieure","LASALLE",,350,0,350,,,
 4142,"JEU D'EAU DU PARC MARCELIN WILSON","Rue  Dudemaine , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","AHUNTSIC / CARTIERVILLE",,180,0,180,,,
 4143,"PISCINE EXT. DU PARC OUELLETTE","Rue  Serre (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Piscine extérieure","LASALLE",2011,650,0,650,,,
 4144,"PISCINE EXT. DU PARC MÉNARD (LSL)","Rue  Clément (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Piscine extérieure","LASALLE",1975,362,0,362,,,
@@ -1807,24 +1812,23 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 4302,"CHALET DU PARC HÉBERT (PÉTANQUE)","Rue  Beyries (LSL) , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","LASALLE",,38.1,0,38.1,1,,
 4307,"ÉCOLE LÉONARDO-DE-VINCI","12025 Avenue  André-Dumas , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","R-D-P / P-A-T",,2619,2619,2619,3,,
 4308,"ENTREPÔT NON CHAUFFÉ - LASALLE","7277 Rue  Cordner (LSL) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Entrepôt non-chauffé","LASALLE",,361.1,0,361.1,1,,
-4309,"ABRI OUVERT DU PARC LEROUX","7540 Rue  Centrale (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","LASALLE",1960,33.52,0,33.52,,,
 4312,"PATAUGEOIRE DU PARC PIE-XII","Boulevard  Lavoisier (SLN) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Pataugeoire","SAINT-LÉONARD",1968,167,0,167,,,
 4313,"JEU D'EAU DU PARC OTTAWA","Avenue  Lausanne (MTN) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","MONTRÉAL-NORD",,170,0,170,,,
 4314,"JEU D'EAU DU PARC COONEY","1175 Rue  Melrose (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","VERDUN",2009,168.11,168.11,168.11,,,
 4316,"EX.PATAU.JEU D'EAU DU PARC WILLIBRORD","800 Rue  Willibrord (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","VERDUN",2008,239.89,239.89,239.89,,,
 4318,"JEU D'EAU DU PARC DUQUETTE","900 Rue  Dupuis , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","VERDUN",2007,51.28,51.28,51.28,,,
 4329,"JEU D'EAU DU PARC JOANNETTE","Rue  Hickson (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","VERDUN",2007,51.06,51.06,51.06,,,
+4498,"STATION DE POMPAGE DES AVENUES","2535 Chemin  Dutour (IBZ) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Station de pompage (égouts)","L'ÎLE-BIZARD / STE-GENEVIÈVE",2013,12,12,12,,,
 4349,"ABRI OUVERT DU PARC JOANNETTE","Rue  Hickson (VRD) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","VERDUN",2005,16.22,16.22,16.22,,,
 4351,"REMISE DU PARC ROBERT-SAUVÉ (STE-GEN)","15742 Rue de la Caserne , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Abri fermé","L'ÎLE-BIZARD / STE-GENEVIÈVE",2007,11.9,0,11.9,1,,
 4381,"JEU D'EAU DU PARC DE PETERBOROUGH (ANJ)","Boulevard  Châteauneuf (ANJ) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","ANJOU",2005,475,0,475,,,
 4383,"ABRI OUVERT JEU EAU PARC DE PETERBOROUGH","Boulevard  Châteauneuf (ANJ) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","ANJOU",2001,21.85,0,21.85,,,
 4384,"ABRI OUVERT DU PARC DE PETERBOROUGH","Boulevard  Châteauneuf (ANJ) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","ANJOU",2001,36.79,0,36.79,,,
-4397,"ENTREPÔT DU 3444 SAINT-JOSEPH","3444 Rue  Saint-Joseph E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","ROSEMONT / PETITE-PATRIE",,6522.94,6522.94,6409.9,2,0,0
+4397,"ENTREPÔT DU 3444 SAINT-JOSEPH","3444 Rue  Saint-Joseph E, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Atelier / Esp. bureau","ROSEMONT / PETITE-PATRIE",1990,6522.94,6522.94,6409.9,2,0,0
 4408,"ABRI BASEBALL DU PARC DES ROSERAIES","Avenue de la Nantaise (ANJ) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Abri fermé","ANJOU",1995,3.53,3.53,3.53,1,,
 4410,"ABRI TENNIS DU PARC DES ROSERAIES","Avenue de la Nantaise (ANJ) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Abri fermé","ANJOU",1990,3.5,3.5,3.5,1,,
 4415,"CENTRE COMMUNAUTAIRE GERRY-ROBERTSON","9665 Boulevard  Gouin O, Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","PIERREFONDS/ROXBORO",2008,1290,0,1290,1,,
 4420,"ABRI OUVERT (BOCCE) DU PARC OUELLETTE","Rue  Robert (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","LASALLE",2000,495,495,495,,,
-4423,"ABRI OUVERT PISC. DU PARC OUELLETTE","Rue  Serre (LSL) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Abri ouvert","LASALLE",1990,28.13,28.13,28.13,,,
 4424,"ENTREPÔT MUNICIPAL GRENACHE","8296 Rue  Grenache (ANJ) , Montréal","LOCATAIRE","Bâtiment","Industriel","Entrepôt chauffé","ANJOU",,725.13,0,725.13,1,,
 4426,"JEU D'EAU DU PARC ÉTIENNE-DESMARTEAU","Avenue  20e , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","ROSEMONT / PETITE-PATRIE",2006,144.21,144.21,144.21,,,
 4427,"JEU D'EAU DU PARC SAINT-BENOIT","Rue  Meilleur , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","AHUNTSIC / CARTIERVILLE",,97.45,1,97.45,0,0,0
@@ -1875,6 +1879,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 4481,"MUNICIPAL - ENTREPÔTS (PORTES 5,6,7)","350 Montée de l' Église (IBZ) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","L'ÎLE-BIZARD / STE-GENEVIÈVE",1981,280.31,0,280.31,1,,
 4482,"TOILETTE PUBLIQUE DU PARC OTTAWA","Avenue  Lausanne (MTN) , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Abri fermé","MONTRÉAL-NORD",2009,14.89,14.89,14.89,1,,
 4483,"CHALET PARC DE L'ESPLANADE POINTE-NORD","205 Rue de la Rotonde , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","VERDUN",2012,303.72,303.72,275.5,,,
+4485,"CENTRE COMPOSTAGE ST-LAURENT","9091 Boulevard  Henri-Bourassa O, Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Centre de tri / déchetteries","SAINT-LAURENT",,1,1,1,,,
 4488,"STATION DE POMPAGE EAUX USÉES SLR","5225 Boulevard de la Côte-Vertu (SLR) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Station de pompage (égouts)","SAINT-LAURENT",,8,0,8,,,
 4489,"JEU D'EAU DU PARC NELSON-MANDELA","4920 Rue  Vézina , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","COTE-DES-NEIGES / N-D-DE-GRACE",2012,188.5,0,188.5,0,,
 4490,"JEU D'EAU DU PARC BENNY","6445 Avenue de Monkland , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","COTE-DES-NEIGES / N-D-DE-GRACE",2011,537,0,537,0,,
@@ -1882,7 +1887,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 4492,"LOCATION/ANT. RADIOCOM.''SÉRAM'' LAVAL","1 Place  Bellerive (SGV) , Laval","LOCATAIRE","Installation externe","Commercial","Station télécom","Hors de Montréal",,1,0,1,,,
 4493,"LOC/ANT.CNT SERV.PARTAGÉS ''DGRT SÉRAM''","11100 Boulevard  Ray-Lawson (ANJ) ,","LOCATAIRE","Installation externe","Industriel","Station télécom","ANJOU",,28.3,0,28.3,,,
 4494,"STATION D'ÉCHANTILLONNAGE DU RSQA # 66","90 Rue  Hervé-Saint-Martin (SLR) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de nivométrie","SAINT-LAURENT",,11.91,0,8.91,1,,
-4498,"STATION DE POMPAGE DES AVENUES","2535 Chemin  Dutour (IBZ) , Montréal","PROPRIÉTAIRE","Installation externe","Industriel","Station de pompage (égouts)","L'ÎLE-BIZARD / STE-GENEVIÈVE",2013,12,12,12,,,
 4503,"CHALET ÉLOI-VIAU 3E BUT PARC RIVERSIDE","Rue  Centrale (LSL) , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Chalet","LASALLE",1983,208,0,208,1,,
 4504,"JEU D'EAU DU PARC WILFRID-BASTIEN","8255 Boulevard  Lacordaire , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","SAINT-LÉONARD",,25,0,25,,,
 4505,"SCÈNE EXTÉRIEURE - PARC WILFRID-BASTIEN","8255 Boulevard  Lacordaire , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","SAINT-LÉONARD",,350,0,350,,,
@@ -1905,13 +1909,12 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 5888,"JEU D'EAU DU PARC MARCELLE-BARTHE","Rue  Wolfe ,","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","VILLE-MARIE",,47,,47,,,0
 5889,"JEU D'EAU DU PARC THÉODORE","Rue  Théodore ,","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","MERCIER/HOCHELAGA/ MAISONNEUVE",,60,,60,,,
 6078,"AUTOPARC BOYER / BÉLANGER","6900 Rue  Boyer , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Stationnement intérieur","ROSEMONT / PETITE-PATRIE",1985,1,,1,,,0
-6573,"ÉDIFICES 1300-1330 SAINT-ANTOINE OUEST","1300 Rue  Saint-Antoine O, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Divers","Habitation","VILLE-MARIE",,3200,1,3200,4,,
+6618,"PAVILLON ANNEXE MAISON NIVARD ST DIZIER","7244 Boulevard  LaSalle , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Chalet","VERDUN",,32,1,32,1,,
 6574,"ÉDIFICE DU 7500 ST-DENIS","7500 Rue  Saint-Denis , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Administratif","Espace à bureaux","VILLERAY/ST-MICHEL/PARC-EXTENS",1974,5100,0,5100,3,,
 6614,"STATION POMPAGE CHARLEMAGNE","355 Avenue  100e , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de pompage (aqueduc)","R-D-P / P-A-T",,130,130,130,1,,
 6615,"ÉDICULE DE CHLORATION ROCKLAND","9999 Traverse  Rockland (OUT) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de chloration","OUTREMONT",,20,20,20,1,,
 6616,"ÉDICULE DE CHLORATION STE-CLAIRE","2300 Chemin  Saint-Clare (MTR) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de chloration","MONT-ROYAL",,20,20,20,1,,
 6617,"STATION POMPAGE BAIE D'URFÉ","325 Rue  Lee (BDU) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de pompage (aqueduc)","BAIE-D'URFÉ",,44,44,44,1,,
-6618,"PAVILLON ANNEXE MAISON NIVARD ST DIZIER","7244 Boulevard  LaSalle , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Chalet","VERDUN",,32,1,32,1,,
 6620,"CHAMBRE À VANNES ALTITUDE","180 Avenue  Duke-of-Kent (PCL) , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Chambre à vannes (aqueduc)","POINTE-CLAIRE",,22,1,22,1,,
 6633,"PONCEAU MAURICE-DUPLESIS MARIE-VICTORIN","Boulevard  Maurice-Duplessis E, Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Garage TP/Parcs/Imm./Ent.méc.","R-D-P / P-A-T",,1,1,1,,,
 6647,"PARC DU LAC-À-LA-LOUTRE","4549 Rue  Saint-Ambroise , Montréal","PROPRIÉTAIRE","Installation externe","Administratif","Garage TP/Parcs/Imm./Ent.méc.","SUD-OUEST",,3208.5,3208.5,3208.5,,,
@@ -1948,6 +1951,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 8083,"CENTRE COLLECTION DU PATRIMOINE MUSÉAL","333 Rue  Peel , Montréal","LOCATAIRE","Bâtiment","Administratif","Entrepôt chauffé","SUD-OUEST",1929,2256.4,0,1574.5,2,1,
 8084,"CENTRE COM. UNION DES FAMILLES AHUNTSIC","161 Boulevard  Henri-Bourassa O, Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","AHUNTSIC / CARTIERVILLE",,501.1,0,501.1,,1,
 8086,"BOCCE L'ACADIE","10526 Boulevard de l' Acadie , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","AHUNTSIC / CARTIERVILLE",2003,1010,0,950.7,1,,
+8241,"CENTRE RÉCRÉATIF POUPART","2421 Rue  La Fontaine , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","VILLE-MARIE",,528.25,228.8,456.6,2,1,
 8091,"ARÉNA CHÉNIER","8200 Avenue  Chénier (ANJ) , Montréal","PROPRIÉTAIRE","Bâtiment","Sportif","Aréna","ANJOU",1968,3088.38,0,2973.86,1,1,
 8118,"ÉDIFICE NELSON","425 Place  Jacques-Cartier , Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",,1170,0,1064.42,2,,
 8124,"BUREAU ARRONDISSEMENT SUD-OUEST","815 Rue  Bel-Air , Montréal","LOCATAIRE","Bâtiment","Administratif","Bureau d'arrondissement","SUD-OUEST",,3658.25,0,3658.25,3,0,
@@ -1991,7 +1995,6 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 8237,"ÉDIFICE 700 DE LA GAUCHETIÈRE O.","700 Rue  De La Gauchetière O, Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",,3413.81,0,3347.05,,,
 8238,"ÉDIFICE DU 6600 ST-URBAIN","6600 Rue  Saint-Urbain , Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","OUTREMONT",,216.84,0,216.84,,,
 8240,"ÉDIFICE 8491 ERNEST-CORMIER","8491 Rue  Ernest-Cormier (ANJ) , Montréal","LOCATAIRE","Bâtiment","Industriel","Espace à bureaux","ANJOU",,1052.24,0,1010.7,2,,
-8241,"CENTRE RÉCRÉATIF POUPART","2421 Rue  La Fontaine , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","VILLE-MARIE",,528.25,228.8,456.6,2,1,
 8243,"CENTRE SANAAQ - RENTE DE BASE","2205 Boulevard  René-Lévesque O, Montréal","LOCATAIRE","Bâtiment","Culturel","Bureau d'arrondissement","VILLE-MARIE",,5793,1,5793,,,
 8245,"CENTRE DE FORMATION PROJET MAXIM'EAU","10000 Boulevard  Louis-H.-La Fontaine (ANJ) , Montréal","LOCATAIRE","Bâtiment","Administratif","Entrepôt chauffé","ANJOU",,1280.78,0,1247.1,1,,
 8248,"ÉDIFICE TELUS","630 Boulevard  René-Lévesque O, Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",,10562.47,0,9997.9,8,,
@@ -2001,7 +2004,7 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 8255,"ÉCOLE LAKESIDE ACADEMY","5050 Rue  Sherbrooke (LCH) , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Espace sports/loisirs","LACHINE",,6188,6188,6188,,,
 8258,"ÉCOLE DALBÉ-VIAU","714 Rue  Esther-Blondin (LCH) , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Espace sports/loisirs","LACHINE",,16125,16125,16125,,,
 8261,"PDQ NO 21 & POSTE DE COMMANDEMENT MOBILE","1669 Rue  Berri , Montréal","LOCATAIRE","Bâtiment","Protection et sécurité","Poste de police","VILLE-MARIE",,2209,0,2092.4,2,1,
-8263,"STATION D'ÉCHANTILLONNAGE DU RSQA # 25","6890 Rue  Notre-Dame E, Montréal","LOCATAIRE","Bâtiment","Industriel","Station de nivométrie","MERCIER/HOCHELAGA/ MAISONNEUVE",2018,42246,42246,42246,1,,
+8263,"STATION D'ÉCHANTILLONNAGE DU RSQA # 25","6890 Rue  Notre-Dame E, Montréal","LOCATAIRE","Installation externe","Industriel","Station de nivométrie","MERCIER/HOCHELAGA/ MAISONNEUVE",2018,10,10,10,1,,
 8324,"CENTRE ST-MARTYRS-CANADIENS","10125 Rue  Parthenais , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","AHUNTSIC / CARTIERVILLE",1957,3242.59,1847.29,3073.39,2,1,0
 8336,"ÉGLISE ST-MARTYRS-CANADIENS","10007 Rue  Parthenais , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","AHUNTSIC / CARTIERVILLE",,554.3,,554.3,,,0
 8352,"YMCA DU PARC","5550 Avenue du Parc , Montréal","LOCATAIRE","Bâtiment","Sportif","Espace sports/loisirs","PLATEAU MONT-ROYAL",1994,4534.92,670.44,4311.09,4,1,1
@@ -2020,14 +2023,12 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 8608,"CASERNE NO 19","2000 Avenue  De Lorimier , Montréal","PROPRIÉTAIRE","Bâtiment","Protection et sécurité","Caserne de pompiers","VILLE-MARIE",1986,1169.35,656.16,1072.89,2,0,0
 8609,"BIBLIO/MAISON CULTURE PLATEAU MONT-ROYAL","465 Avenue du Mont-Royal E, Montréal","COPROPRIÉTAIRE","Bâtiment","Culturel","Bibliothèque","PLATEAU MONT-ROYAL",1896,1660.92,1743.36,1646.6,2,0,0
 8615,"CEN DE GYMNAS BÉLANGER-LES ASSYMETRIQUES","3180 Rue  Bélanger E, Montréal","LOCATAIRE","Bâtiment","Sportif","Espace sports/loisirs","ROSEMONT / PETITE-PATRIE",,947.2,,947.2,2,1,0
-8768,"JEU D'EAU PARC PAINTER","Rue  Marcotte (SLR) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","SAINT-LAURENT",,717,717,717,,,
 8616,"CENTRE MONKLAND","4410 Avenue  West Hill , Montréal","COPROPRIÉTAIRE","Bâtiment","Sportif","Espace sports/loisirs","COTE-DES-NEIGES / N-D-DE-GRACE",1917,1393.08,1237.49,1299.4,2,0,1
 8618,"CENTRE SAINTE-MARIA-GORETTI","15912 Rue  Notre-Dame E, Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","R-D-P / P-A-T",,646.09,,646.09,1,,0
 8619,"BUREAU ARRONDISSEMENT ROSEMONT","5650 Rue d' Iberville (MTL) , Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","ROSEMONT / PETITE-PATRIE",,4612.16,,4513.46,2,0,0
 8634,"BAM RIVIERE-DES-PRAIRIES","8910 Boulevard  Maurice-Duplessis , Montréal","LOCATAIRE","Bâtiment","Administratif","Bureau accès Montréal","R-D-P / P-A-T",,217.1,,217.1,1,0,0
 8636,"CHAUSSEGROS-DE-LERY","303 Rue  Notre-Dame E, Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",1992,23509.41,,22509.2,7,2,4
 8647,"ÉDIFICE NICOLE-LARIVÉE-BOUDREAU","7958 Rue  Hochelaga , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","MERCIER/HOCHELAGA/ MAISONNEUVE",1990,1011.72,,946.93,2,0,
-8770,"TOILETTE PUBLIQUE PARC LACORDAIRE","Boulevard  Lacordaire , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de chloration","MONTRÉAL-NORD",,1,1,1,1,,
 8661,"MAISON DU MEUNIER","10897 Rue du Pont , Montréal","PROPRIÉTAIRE","Bâtiment","Culturel","Centre culturel","AHUNTSIC / CARTIERVILLE",1727,228.3,,228.3,2,1,
 8662,"MAISON DE LA CULTURE JANINE-SUTTO","2550 Rue  Ontario E, Montréal","COPROPRIÉTAIRE","Bâtiment","Culturel","Maison de la culture","VILLE-MARIE",1992,7543.46,2248.38,4360,2,2,1
 8663,"CENTRE OLIVER JONES","2292 Rue  Workman , Montréal","PROPRIÉTAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","SUD-OUEST",1925,3180.68,827.93,2950.4,3,1,1
@@ -2041,16 +2042,20 @@ buildingid,buildingName,address,propertyStatus,categoryDescription,buildingProfi
 8741,"GARAGE DE LA COUR RIVIÈRE-DES-PRAIRIES","9255 Boulevard  Henri-Bourassa E,","PROPRIÉTAIRE","Bâtiment","Industriel","Garage TP/Parcs/Imm./Ent.méc.","R-D-P / P-A-T",1994,1323.73,1265.65,1247.16,1,0,0
 8742,"C.COMM., BIBLIO - POL.W.HINGSTON","421 Rue  Saint-Roch , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Bibliothèque","VILLERAY/ST-MICHEL/PARC-EXTENS",,19552.48,,9790.51,2,1,
 8766,"ABRI OUVERT PARC CARON","Rue  Muir (SLR) , Montréal","PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri ouvert","SAINT-LAURENT",,48,48,48,,,
+8768,"JEU D'EAU PARC PAINTER","Rue  Marcotte (SLR) , Montréal","PROPRIÉTAIRE","Installation externe","Sportif","Jeu d'eau","SAINT-LAURENT",,717,717,717,,,
+8770,"TOILETTE PUBLIQUE PARC LACORDAIRE","Boulevard  Lacordaire , Montréal","PROPRIÉTAIRE","Bâtiment","Industriel","Station de chloration","MONTRÉAL-NORD",,1,1,1,1,,
 8771,"ÉDIFICE DU 80 RUE QUEEN","80 Rue  Queen , Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLE-MARIE",,5903.94,0,2271.41,,,
 8777,"PDQ 9","5501 Avenue  Westminster , Montréal","LOCATAIRE","Bâtiment","Protection et sécurité","Poste de police","CÔTE-ST-LUC",,6604.62,0,534.4,1,1,
 8779,"ÉGLISE PRESBYTÉRIENNE KENSINGTON","6225 Avenue  Godfrey , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","COTE-DES-NEIGES / N-D-DE-GRACE",,2,0,2,1,1,
 8781,"PAROISSE SAINT-BONAVENTURE","5205 Rue  Saint-Zotique E, Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Centre communautaire et loisir","ROSEMONT / PETITE-PATRIE",,1788,1788,1788,,,
+8782,"COMPLEXE PLACE CRÉMAZIE","50 Boulevard  Crémazie O, Montréal","LOCATAIRE","Bâtiment","Administratif","Espace à bureaux","VILLERAY/ST-MICHEL/PARC-EXTENS",,2266.84,0,2266.84,,,
 8786,"BIBLIOTHÈQUE MAISONNEUVE (TEMPORAIRE)","4115 Rue  Ontario E, Montréal","LOCATAIRE","Bâtiment","Culturel","Bibliothèque","MERCIER/HOCHELAGA/ MAISONNEUVE",,1243,0,1243,1,,
 8787,"PDQ NO 31","8245 Avenue de l' Esplanade , Montréal","LOCATAIRE","Bâtiment","Protection et sécurité","Poste de police","VILLERAY/ST-MICHEL/PARC-EXTENS",,1,1,1,,,
 8788,"PDQ 48","6905 Rue  Notre-Dame E, Montréal","LOCATAIRE","Bâtiment","Protection et sécurité","Poste de police","MERCIER/HOCHELAGA/ MAISONNEUVE",,606,606,606,1,,
 8789,"BUREAU SPVM","5500 Rue  Notre-Dame E, Montréal","LOCATAIRE","Bâtiment","Protection et sécurité","Poste de police","MERCIER/HOCHELAGA/ MAISONNEUVE",,5216,5216,5216,2,,
 9317,"SOUS-LOCATION - ENTREPOSAGE","2101 Rue  Vimont , Montréal","LOCATAIRE","Bâtiment","Industriel","Entrepôt chauffé","MERCIER/HOCHELAGA/ MAISONNEUVE",,196.3,196.3,196.3,1,,
-9318,"1295 LAPRAIRIE","1295 Rue  Laprairie , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Divers","Habitation","SUD-OUEST",,1100,275,1100,3,1,0
 9319,"8600-8618 AV DE L'ÉPÉE","8600 Avenue de l' Épée (MTL) , Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Local commercial","VILLERAY/ST-MICHEL/PARC-EXTENS",,2137,2137,2137,2,,
 9322,"EX ILOT DES VOYAGEURS SUD","505 Boulevard de Maisonneuve E, Montréal","PROPRIÉTAIRE","Bâtiment excéd.","Divers","Gestion immobilière","VILLE-MARIE",1954,7062,1,7062,3,1,
 9799,"BIBLIO-ET-ARCHIVES-NATIONALES-DU-QUÉBEC","2275 Rue  Holt , Montréal","LOCATAIRE","Bâtiment","Loisir communautaire","Bibliothèque","VILLE-MARIE",,6158,6158,6158,3,,
+1859,"TENTE DE L'HOTEL DES ARTS",,"PROPRIÉTAIRE","Installation externe","Loisir communautaire","Abri fermé","VILLE-MARIE",,40,40,40,1,,
+1879,"ÉDIFICE DU 7485 ET 7487A, 18EME AVENUE",,"PROPRIÉTAIRE","Bâtiment excéd.","Commercial","Local commercial","VILLERAY/ST-MICHEL/PARC-EXTENS",1962,508,508,508,,,
