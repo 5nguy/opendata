@@ -1,11 +1,286 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Pistes_ski>
     <piste>
+        <nom>Sentier de raquette, Angrignon</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2025-01-23 16:13:47</date_maj>
+        </arrondissement>
+        <ouvert>0</ouvert>
+        <deblaye>0</deblaye>
+        <condition>N/A</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de randonnée, Angrignon</nom>
+        <arrondissement>
+            <nom_arr>Le Sud-Ouest</nom_arr>
+            <cle>sou</cle>
+            <date_maj>2025-01-23 16:13:47</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye></deblaye>
+        <condition>Mauvaise</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de randonnée, Berges de Lachine</nom>
+        <arrondissement>
+            <nom_arr>Lachine</nom_arr>
+            <cle>lch</cle>
+            <date_maj>2025-01-23 09:23:02</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <condition>Mauvaise</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Berges de Verdun</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2025-01-23 07:20:42</date_maj>
+        </arrondissement>
+        <ouvert>0</ouvert>
+        <deblaye>0</deblaye>
+        <condition>N/A</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Berges Île-des-Soeurs</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2025-01-23 07:20:42</date_maj>
+        </arrondissement>
+        <ouvert>0</ouvert>
+        <deblaye>0</deblaye>
+        <condition>N/A</condition>
+    </piste>
+    <piste>
         <nom>Sentier de ski de fond,De la Traversée</nom>
         <arrondissement>
             <nom_arr>Rivière-des-Prairies - Pointe-aux-Trembles</nom_arr>
             <cle>rdp</cle>
-            <date_maj>2024-09-10 10:25:21</date_maj>
+            <date_maj>2025-01-23 15:16:37</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Mauvaise</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Jardin Botanique</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2025-01-23 10:41:08</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Ski de fond, Jeanne-Mance (Parcours vert) 1.3 KM</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2025-01-23 15:10:02</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>0</deblaye>
+        <condition>N/A</condition>
+    </piste>
+    <piste>
+        <nom>Ski de fond, La Fontaine Parcours bleu 2.2 KM</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2025-01-23 15:10:02</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Ski de fond, La Fontaine Parcours jaune 1.7 KM</nom>
+        <arrondissement>
+            <nom_arr>Le Plateau-Mont-Royal</nom_arr>
+            <cle>pmr</cle>
+            <date_maj>2025-01-23 15:10:02</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski pas de patins, Maisonneuve</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2025-01-23 10:41:08</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Maisonneuve</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2025-01-23 10:41:08</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de marche, Maisonneuve</nom>
+        <arrondissement>
+            <nom_arr>Rosemont - La Petite-Patrie</nom_arr>
+            <cle>rpp</cle>
+            <date_maj>2025-01-23 10:41:08</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de randonnée, Mont-Royal</nom>
+        <arrondissement>
+            <nom_arr>Ville-Marie</nom_arr>
+            <cle>vma</cle>
+            <date_maj>2025-01-23 03:31:45</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Parc Benny</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2025-01-23 00:27:24</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, parc Delorme</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2025-01-23 11:03:35</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <condition>Excellente</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, parc Ermano-La Riccia</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2025-01-23 11:03:35</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye>1</deblaye>
+        <condition>Excellente</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, parc Giuseppe-Garibaldi</nom>
+        <arrondissement>
+            <nom_arr>Saint-Léonard</nom_arr>
+            <cle>sle</cle>
+            <date_maj>2025-01-23 11:03:35</date_maj>
+        </arrondissement>
+        <ouvert></ouvert>
+        <deblaye>1</deblaye>
+        <condition>Excellente</condition>
+    </piste>
+    <piste>
+        <nom>Piste de ski de fond , Parc Jarry</nom>
+        <arrondissement>
+            <nom_arr>Villeray-Saint-Michel - Parc-Extension</nom_arr>
+            <cle>vsp</cle>
+            <date_maj>2025-01-23 13:51:20</date_maj>
+        </arrondissement>
+        <ouvert>0</ouvert>
+        <deblaye>0</deblaye>
+        <condition>N/A</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Parc Loyola</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2025-01-23 00:27:24</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Parc Macdonald</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2025-01-23 00:27:24</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Parc Martin-Luther-King</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2025-01-23 00:27:24</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Parc Notre-Dame-de-Grâce</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2025-01-23 00:27:24</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Parc Van Horne</nom>
+        <arrondissement>
+            <nom_arr>Côte-des-Neiges - Notre-Dame-de-Grâce</nom_arr>
+            <cle>cdn</cle>
+            <date_maj>2025-01-23 00:27:24</date_maj>
+        </arrondissement>
+        <ouvert>1</ouvert>
+        <deblaye></deblaye>
+        <condition>Bonne</condition>
+    </piste>
+    <piste>
+        <nom>Sentiers de ski de fond du Grand Sud-Ouest</nom>
+        <arrondissement>
+            <nom_arr>LaSalle</nom_arr>
+            <cle>lsl</cle>
+            <date_maj>2025-01-22 14:49:16</date_maj>
+        </arrondissement>
+        <ouvert>0</ouvert>
+        <deblaye>0</deblaye>
+        <condition>N/A</condition>
+    </piste>
+    <piste>
+        <nom>Sentier de ski de fond, Urbain Île-des-Soeurs</nom>
+        <arrondissement>
+            <nom_arr>Verdun</nom_arr>
+            <cle>ver</cle>
+            <date_maj>2025-01-23 07:20:42</date_maj>
         </arrondissement>
         <ouvert>0</ouvert>
         <deblaye>0</deblaye>

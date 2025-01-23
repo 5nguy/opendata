@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conditions_neige>
-  <date_generation_xml><![CDATA[2024-04-24 09:39:45]]></date_generation_xml>
+  <date_generation_xml><![CDATA[2024-12-13 10:47:55]]></date_generation_xml>
   <parcs>
     <parc id="1">
       <nom_fr><![CDATA[Parc-nature du Bois-de-Liesse]]></nom_fr>
       <conditions>
-        <date_maj><![CDATA[2024-03-21 09:00:00]]></date_maj>
+        <date_maj><![CDATA[2024-12-11 09:00:00]]></date_maj>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
-Pour consulter la carte des sentiers : cliquez ici
-***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+          <commentaires><![CDATA[Les conditions des installtions hivernales sont désormais accessibles directement sur montreal.ca du parc-nature du Bois-de-Liesse.]]></commentaires>
         </pistes>
         <etat_general>
           <ski>
@@ -50,18 +48,16 @@ Pour consulter la carte des sentiers : cliquez ici
     <parc id="2">
       <nom_fr><![CDATA[Parc-nature du Bois-de-l'Île-Bizard]]></nom_fr>
       <conditions>
-        <date_maj><![CDATA[2024-04-09 09:30:00]]></date_maj>
+        <date_maj><![CDATA[2024-12-11 09:30:00]]></date_maj>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
-Pour consulter la carte des sentiers : Cliquez ici
-***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+          <commentaires><![CDATA[Les conditions des installtions hivernales sont désormais accessibles directement sur montreal.ca du parc-nature du Bois-de-L'Ile-Bizard.]]></commentaires>
         </pistes>
         <etat_general>
           <ski>
             <etat id="0"><![CDATA[non appliquable]]></etat>
-            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+            <commentaires><![CDATA[]]></commentaires>
           </ski>
           <marche>
             <etat id="0"><![CDATA[non appliquable]]></etat>
@@ -95,18 +91,16 @@ Pour consulter la carte des sentiers : Cliquez ici
     <parc id="3">
       <nom_fr><![CDATA[Parc-nature du Cap-Saint-Jacques]]></nom_fr>
       <conditions>
-        <date_maj><![CDATA[2024-04-09 09:30:00]]></date_maj>
+        <date_maj><![CDATA[2024-12-11 09:30:00]]></date_maj>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
-Pour consulter la carte des sentiers : Cliquez ici
-***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+          <commentaires><![CDATA[Les conditions des installtions hivernales sont désormais accessibles directement sur montreal.ca du parc-nature du Cap-Saint-Jacques. ]]></commentaires>
         </pistes>
         <etat_general>
           <ski>
             <etat id="0"><![CDATA[non appliquable]]></etat>
-            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+            <commentaires><![CDATA[]]></commentaires>
           </ski>
           <marche>
             <etat id="0"><![CDATA[non appliquable]]></etat>
@@ -118,11 +112,11 @@ Pour consulter la carte des sentiers : Cliquez ici
           </raquette>
           <glissade_libre>
             <etat id="0"><![CDATA[non appliquable]]></etat>
-            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+            <commentaires><![CDATA[]]></commentaires>
           </glissade_libre>
           <fatbike>
             <etat id="0"><![CDATA[non appliquable]]></etat>
-            <commentaires><![CDATA[La couverture de neige est inexistante.]]></commentaires>
+            <commentaires><![CDATA[]]></commentaires>
           </fatbike>
         </etat_general>
         <enneigement>
@@ -140,16 +134,16 @@ Pour consulter la carte des sentiers : Cliquez ici
     <parc id="4">
       <nom_fr><![CDATA[Parc-nature de l'Île-de-la-Visitation]]></nom_fr>
       <conditions>
-        <date_maj><![CDATA[2024-04-04 09:00:00]]></date_maj>
+        <date_maj><![CDATA[2024-12-11 09:00:00]]></date_maj>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.]]></commentaires>
+          <commentaires><![CDATA[Les conditions des installtions hivernales sont désormais accessibles directement sur montreal.ca du parc-nature de l'Ile-de-la-Visitation.]]></commentaires>
         </pistes>
         <etat_general>
           <ski>
             <etat id="0"><![CDATA[non appliquable]]></etat>
-            <commentaires><![CDATA[FERMÉ POUR LA SAISON]]></commentaires>
+            <commentaires><![CDATA[]]></commentaires>
           </ski>
           <marche>
             <etat id="0"><![CDATA[non appliquable]]></etat>
@@ -183,17 +177,16 @@ Pour consulter la carte des sentiers : Cliquez ici
     <parc id="5">
       <nom_fr><![CDATA[Parc-nature de la Pointe-aux-Prairies]]></nom_fr>
       <conditions>
-        <date_maj><![CDATA[2024-04-05 09:00:00]]></date_maj>
+        <date_maj><![CDATA[2024-12-11 09:00:00]]></date_maj>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[La saison de ski est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos pistes et nos installations. Profitez du printemps et à l'an prochain.
-***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+          <commentaires><![CDATA[Les conditions des installtions hivernales sont désormais accessibles directement sur montreal.ca du parc-nature de la Pointe-aux-Prairies.]]></commentaires>
         </pistes>
         <etat_general>
           <ski>
             <etat id="0"><![CDATA[non appliquable]]></etat>
-            <commentaires><![CDATA[ ***Service de location d'équipements FERMÉ***]]></commentaires>
+            <commentaires><![CDATA[]]></commentaires>
           </ski>
           <marche>
             <etat id="0"><![CDATA[non appliquable]]></etat>
@@ -299,9 +292,9 @@ Samedi au lundi : 11h, 13h, 15h et 17h]]></commentaires>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[**La saison hivernale 2023-2024 est terminée. Nous vous remercions d'avoir profité du parc Frédéric-Back! À l'année prochaine**
-Pour consulter la carte du parc, cliquez ici. Pour être géolocalisé dans le parc et vous renseigner sur son histoire et ses attractions, téléchargez l'application Parc Frédéric-Back.
-Pour en savoir plus sur le parc cliquez ici
+          <commentaires><![CDATA[
+** CE SITE N'EST PLUS FONCTIONNEL. MERCI DE VISITER LE montreal.ca
+
 ]]></commentaires>
         </pistes>
         <etat_general>
@@ -350,13 +343,11 @@ Merci de respecter la règlementation.]]></commentaires>
     <parc id="9">
       <nom_fr><![CDATA[Parc-nature du Ruisseau-De Montigny]]></nom_fr>
       <conditions>
-        <date_maj><![CDATA[2024-04-05 09:00:00]]></date_maj>
+        <date_maj><![CDATA[2024-12-11 09:00:00]]></date_maj>
         <pistes>
           <ski_piste_tracees_pourcent><![CDATA[0]]></ski_piste_tracees_pourcent>
           <marche_piste_nivelees_pourcent><![CDATA[0]]></marche_piste_nivelees_pourcent>
-          <commentaires><![CDATA[*** ATTENTION RISQUE DE CHUTE DE BRANCHES ***
-La saison est déjà terminée et en cette occasion, nous tenions à vous remercier d'avoir fréquenté nos sentiers et nos installations. Profitez du printemps et à l'an prochain.
-***Les conditions des pistes sont actualisées chaque matin avant 10h***]]></commentaires>
+          <commentaires><![CDATA[Les conditions des installtions hivernales sont désormais accessibles directement sur montreal.ca du parc-nature du Ruisseau-De-Montigny.]]></commentaires>
         </pistes>
         <etat_general>
           <ski>
@@ -386,7 +377,7 @@ La saison est déjà terminée et en cette occasion, nous tenions à vous remerc
             <commentaires><![CDATA[]]></commentaires>
           </qualite>
           <precipitations>
-            <nb_cm id="22"><![CDATA[20-22]]></nb_cm>
+            <nb_cm id="0"><![CDATA[0]]></nb_cm>
             <commentaires><![CDATA[]]></commentaires>
           </precipitations>
         </enneigement>
