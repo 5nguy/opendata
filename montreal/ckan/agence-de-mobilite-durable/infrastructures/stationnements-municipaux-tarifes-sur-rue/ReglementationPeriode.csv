@@ -199,7 +199,6 @@ CH-SZ,332,LUN À VEN 15 h - 21 h SAM et DIM 9 h - 18 h
 CH-TA,28,LUN À VEN 14 h - 21 h SAM 9 h - 18h DIM 13 h - 18 h
 CH-TA,125,LUN À VEN 14 h - 21 h SAM 9 h - 18h DIM 13 h - 18 h
 CH-TA,297,LUN À VEN 14 h - 21 h SAM 9 h - 18h DIM 13 h - 18 h
-CH-TC,108,LUN À VEN 9 h  - 21 h
 CH-TD,28,LUN À VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
 CH-TD,121,LUN À VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
 CH-TD,125,LUN À VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
@@ -561,8 +560,6 @@ SI-QY,38,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h LUN À VEN
 SI-QY,47,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h LUN À VEN
 SI-RB,37,ARRET INT. 7 h - 9 h 30 et 15 h - 18 h 30 LUN À VEN
 SI-RB,80,ARRET INT. 7 h - 9 h 30 et 15 h - 18 h 30 LUN À VEN
-SI-RD,40,P 15 min.  Débarcadère 7h30-9h30 et 15h-18h Lun au Ven
-SI-RD,175,P 15 min.  Débarcadère 7h30-9h30 et 15h-18h Lun au Ven
 SI-RE,1474,ARRET INT. 8 h - 9 h 30 LUN À VEN
 SI-RG,48,ARRET INT. 16 h - 18 h 30 LUN À VEN
 SI-RP,119,STAT. INT. EXCEPTÉ DÉB. 13 h - 16 h
@@ -586,7 +583,6 @@ SI-SN,179,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN À VEN
 SI-SR,203,STAT. INT. 7 h 8 h ou 9 h  - 17 h LUN À VEN
 SI-SS,212,STAT. INT. EXCEPTÉ DÉB. 9 h - 21 h DIM
 SI-ST,218,STAT INT EXCEPTÉ LIVRAISON 9 h - 12 h
-SI-SU,100,ARRET INT. 7 h 30 - 9 h LUN À VEN
 SI-SV,48,P 15 min DÉB. 7 h 30 -9 h et 16 h - 18 h 30 LUN À VEN
 SI-SV,78,P 15 min DÉB. 7 h 30 -9 h et 16 h - 18 h 30 LUN À VEN
 SI-SX,138,STAT. INT. 8h ou 9 h à 16 h LUN À VEN
@@ -755,6 +751,7 @@ ZV-83,1524,STAT. INT. 9 h - 11 h JEU 01 avril au 30 novembre
 ZV-84,1561,STAT. INT. 13 h - 15 h JEU 01 avril au 30 novembre
 ZV-90,1562,STAT. INT. 22h-23h LUN et JEU 1 avril - 1 déc.
 ZV-91,1563,STAT. INT. 10 h 30 - 11 h 30 LUN 01 avril au 01 déc
+ZV-93,1578,STAT INT. 7 h 30 - 9 h LUN 01 avril au 01 déc
 ZX-01,334,STAT. INT. 13 h - 16 h LUN 01 avril au 01 déc.
 ZX-02,335,STAT. INT. 9 h - 10 h DIM 01 avril au 01 déc.
 ZX-03,1352,STAT. INT. 7 h - 8 h LUN et MER et SAM 01 avril au 01 déc

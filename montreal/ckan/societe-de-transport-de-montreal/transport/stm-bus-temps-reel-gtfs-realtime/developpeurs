@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="fr">
-<head><script id="f5_cspm">(function(){var f5_cspm={f5_p:'AACDIHHONMJPNGFBEBMAJIGCKGMMMHCJIFOJOBJFDJIALGNHNNAELPLGENOKCLEEDPGBGPNPAAIJBKLBDALAJKMBAAAPNBIMNOOOMAIKMFKIMHOLLIHNMCCEJKOMFDMO',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1800175511aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
+<head><script id="f5_cspm">(function(){var f5_cspm={f5_p:'KLKAPGOPCAFPKNGDFJBELKNJJLMJBLGMAFHBEJKIEKAKJHNLFHODLOEEKCMFJPCJGICBOLAPAAIPIJCBOEPAOLDNAAJCLNPDNJKCBNBDIONBGKOABCMNGIGONIDHIGNL',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1800175511aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
 return;}}
 catch(err){return;}
 setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
@@ -543,8 +543,9 @@ f5_cspm.go();}());</script>
     </a>
   </div>
 
-  <div class="item-list"><ul><li class="first"><a href="/fr/sorties/le-31-decembre-veille-plus-tard">Le 31 décembre, on veille plus tard !</a></li>
-<li class="last"><a href="/fr/sorties/canadiens-de-montreal">Canadiens de Montréal</a></li>
+  <div class="item-list"><ul><li class="first"><a href="/fr/sorties/le-31-decembre-veille-plus-tard"></a></li>
+<li><a href="/fr/sorties/canadiens-de-montreal">Canadiens de Montréal</a></li>
+<li class="last"><a href="/fr/sorties/montreal-en-lumiere-et-nuit-blanche-2024"></a></li>
 </ul></div>  
   <div class="more">
     <a href="/fr/sorties" title="Voir sorties">
@@ -922,6 +923,7 @@ f5_cspm.go();}());</script>
           </div>
         
             
+
 <div class="content content-classic  content-no-anchors content-no-banner">
   <div id="main-content" class="content-block">
 
@@ -955,6 +957,7 @@ f5_cspm.go();}());</script>
 <li class="leaf"><a href="http://www.stm.info/fr/infos/conseils/les-facons-dobtenir-vos-horaires?utm_campaign=menubas&amp;utm_source=horaires" stm_image="0" class="horaires  visible-pwa ">Comment obtenir vos horaires de bus</a></li>
 <li class="leaf"><a href="http://www.stm.info/fr/infos/service-clientele?utm_campaign=menubas&amp;utm_source=serviceclientele" stm_image="0" class="service  visible-pwa ">Service à la clientèle</a></li>
 <li class="leaf"><a href="http://www.stm.info/fr/infos/etat-du-service/travaux?utm_campaign=menubas&amp;utm_source=travaux" stm_image="0" class="blogue  visible-pwa ">Travaux en cours</a></li>
+<li class="last leaf"><a href="http://example.com" stm_image="0" stm_desc="attr:onclick=&quot;illow.showWidget()&quot;;" class="hidden-desktop hidden-tablet hidden-phone visible-pwa">Gestion des témoins</a></li>
 </ul></nav>
     
       
@@ -976,12 +979,12 @@ f5_cspm.go();}());</script>
 
     <div class="more-infos">
       <div class="legals">
-        &copy; <abbr title="Société de transport de Montréal">STM</abbr> 1997-2024      </div>
+        &copy; <abbr title="Société de transport de Montréal">STM</abbr> 1997-2025      </div>
           <nav id="nav-footer-l2" class="links">
   <ul class="menu"><li class="first leaf"><a href="http://www.stm.info/fr/infos/reseaux/bus?utm_campaign=menubas&amp;utm_source=reseaubus" stm_image="0">Réseau bus</a></li>
 <li class="leaf"><a href="http://www.stm.info/fr/infos/reseaux/metro?utm_campaign=menubas&amp;utm_source=reseaumetro" stm_image="0">Réseau métro</a></li>
 <li class="leaf"><a href="http://www.stm.info/fr/notes-juridiques?utm_campaign=menubas&amp;utm_source=juridiques" stm_image="0">Notes juridiques</a></li>
-<li class="leaf"><a  href="#" stm_image="0" onclick="illow.showWidget()">Gestion des témoins</a></li>
+<li class="leaf"><a href="http://example.com" stm_image="0" stm_desc="attr:onclick=&quot;illow.showWidget()&quot;;">Gestion des témoins</a></li>
 <li class="leaf"><a href="http://www.stm.info/fr/a-propos/developpeurs?utm_campaign=menubas&amp;utm_source=developpeurs" stm_image="0">Développeurs</a></li>
 <li class="leaf"><a href="http://www.stm.info/fr/a-propos/accessibilite/accessibilite-web?utm_campaign=menubas&amp;utm_source=accessibiliteweb" stm_image="0">Accessibilité Web</a></li>
 <li class="last leaf"><a href="http://www.stm.info/fr/plan-du-site?utm_campaign=menubas&amp;utm_source=plansite" stm_image="0">Plan du site</a></li>
@@ -1007,7 +1010,7 @@ f5_cspm.go();}());</script>
 <script src="https://www.stm.info/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
 <script src="https://www.stm.info/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.8.3"></script>
 <script src="https://www.stm.info/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.stm.info/misc/drupal.js?so30xa"></script>
+<script src="https://www.stm.info/misc/drupal.js?spopcx"></script>
 <script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.9.2"></script>
 <script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.9.2"></script>
 <script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.9.2"></script>
@@ -1024,20 +1027,20 @@ f5_cspm.go();}());</script>
 <script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.9.2"></script>
 <script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.9.2"></script>
 <script src="https://www.stm.info/misc/ui/jquery.ui.dialog-1.13.0-backport.js?v=1.9.2"></script>
-<script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tooltip.min.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/modules/custom/stm_nav/js/jquery.hoverIntent.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/modules/custom/stm_nav/js/stm_nav.js?so30xa"></script>
-<script src="https://www.stm.info/sites/default/files/languages/fr_xkRAuRErgLUM3hiQsSgji3_QMXEaSfYPwJ5rdhkqsCU.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.console.log.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.scrollTo.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.images-loaded.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.cookie.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.jcarousel.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/konami.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/scripts.js?so30xa"></script>
-<script src="https://www.stm.info/sites/all/themes/stm/js/weekly-schedule.js?so30xa"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"fr\/","setHasJsCookie":0,"ajaxPageState":{"theme":"stm","theme_token":"K62kA9CoCM2IEYqlTwxV5hIyWpu6rmM1HY33TydRVYE","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.position-1.13.0-backport.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.datepicker-1.13.0-backport.js":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ui\/jquery.ui.dialog-1.13.0-backport.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tooltip.min.js":1,"sites\/all\/modules\/custom\/stm_nav\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/custom\/stm_nav\/js\/stm_nav.js":1,"public:\/\/languages\/fr_xkRAuRErgLUM3hiQsSgji3_QMXEaSfYPwJ5rdhkqsCU.js":1,"sites\/all\/themes\/stm\/js\/jquery.console.log.js":1,"sites\/all\/themes\/stm\/js\/jquery.scrollTo.js":1,"sites\/all\/themes\/stm\/js\/jquery.images-loaded.js":1,"sites\/all\/themes\/stm\/js\/jquery.cookie.js":1,"sites\/all\/themes\/stm\/js\/jquery.jcarousel.js":1,"sites\/all\/themes\/stm\/js\/konami.js":1,"sites\/all\/themes\/stm\/js\/scripts.js":1,"sites\/all\/themes\/stm\/js\/weekly-schedule.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/stm\/css\/view-not-front.css":1}},"stm_print":{"js_file_path":"\/sites\/all\/modules\/custom\/stm_print\/js\/stm_print.js"},"stm_app":{"paDebut":1730174399,"paFin":1736139599,"prochainePaDebut":1736225999,"prochainePaFin":1742788799,"nomVariation":"","fferies":[1641013200,1641099600,1649995200,1650168000,1650254400,1653278400,1656043200,1656648000,1662350400,1665374400,1640408400,1640494800,881643600],"rem_enabled":1,"base_url":"https:\/\/www.stm.info"},"stm":{"refresh_every_x_seconds":"30","rails_endpoint":"https:\/\/api.stm.info\/pub\/i3\/v1c\/api"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}}});</script>
+<script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tooltip.min.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/modules/custom/stm_nav/js/jquery.hoverIntent.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/modules/custom/stm_nav/js/stm_nav.js?spopcx"></script>
+<script src="https://www.stm.info/sites/default/files/languages/fr_xkRAuRErgLUM3hiQsSgji3_QMXEaSfYPwJ5rdhkqsCU.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.console.log.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.scrollTo.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.images-loaded.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.cookie.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/jquery.jcarousel.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/konami.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/scripts.js?spopcx"></script>
+<script src="https://www.stm.info/sites/all/themes/stm/js/weekly-schedule.js?spopcx"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"fr\/","setHasJsCookie":0,"ajaxPageState":{"theme":"stm","theme_token":"tl24Aw1bNJaDS9rSC78ziNA-1MFB7jAlbpOtnQ__71g","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.position-1.13.0-backport.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.datepicker-1.13.0-backport.js":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ui\/jquery.ui.dialog-1.13.0-backport.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tooltip.min.js":1,"sites\/all\/modules\/custom\/stm_nav\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/custom\/stm_nav\/js\/stm_nav.js":1,"public:\/\/languages\/fr_xkRAuRErgLUM3hiQsSgji3_QMXEaSfYPwJ5rdhkqsCU.js":1,"sites\/all\/themes\/stm\/js\/jquery.console.log.js":1,"sites\/all\/themes\/stm\/js\/jquery.scrollTo.js":1,"sites\/all\/themes\/stm\/js\/jquery.images-loaded.js":1,"sites\/all\/themes\/stm\/js\/jquery.cookie.js":1,"sites\/all\/themes\/stm\/js\/jquery.jcarousel.js":1,"sites\/all\/themes\/stm\/js\/konami.js":1,"sites\/all\/themes\/stm\/js\/scripts.js":1,"sites\/all\/themes\/stm\/js\/weekly-schedule.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/stm\/css\/view-not-front.css":1}},"stm_print":{"js_file_path":"\/sites\/all\/modules\/custom\/stm_print\/js\/stm_print.js"},"stm_app":{"paDebut":1736225999,"paFin":1742788799,"prochainePaDebut":1742875199,"prochainePaFin":1750046399,"nomVariation":"","fferies":[1641013200,1641099600,1649995200,1650168000,1650254400,1653278400,1656043200,1656648000,1662350400,1665374400,1640408400,1640494800,881643600],"rem_enabled":1,"base_url":"https:\/\/www.stm.info"},"stm":{"refresh_every_x_seconds":"30","rails_endpoint":"https:\/\/api.stm.info\/pub\/i3\/v1c\/api"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}}});</script>
 </body>
 
 </html>
