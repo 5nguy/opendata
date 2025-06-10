@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "BassinRetention20241202",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2950" } },
+"features": [
+{ "type": "Feature", "properties": { "secteur": 3945, "nom": "3945: Bassin de rétention Marc-Aurèle Fortin", "v_m3": 4880, "X": 296469.53519999981, "Y": 5054791.4881999996 }, "geometry": { "type": "Point", "coordinates": [ 296469.535199999809265, 5054791.488199999555945 ] } },
+{ "type": "Feature", "properties": { "secteur": 3910, "nom": "3910: Bassin de rétention 89 ième avenue (RdP)", "v_m3": 800, "X": 301669.7, "Y": 5059252.861 }, "geometry": { "type": "Point", "coordinates": [ 301669.700000000186265, 5059252.860999999567866 ] } },
+{ "type": "Feature", "properties": { "secteur": 3920, "nom": "3920: Bassin de rétention Perras/71 ième avenue", "v_m3": 7008, "X": 300069.366, "Y": 5057842.3850999996 }, "geometry": { "type": "Point", "coordinates": [ 300069.36600000038743, 5057842.385099999606609 ] } },
+{ "type": "Feature", "properties": { "secteur": 3930, "nom": "3930: Bassin de rétention Rodolphe-Forget", "v_m3": 860, "X": 298670.77570000017, "Y": 5056569.2075999994 }, "geometry": { "type": "Point", "coordinates": [ 298670.775700000114739, 5056569.207599999383092 ] } },
+{ "type": "Feature", "properties": { "secteur": 3940, "nom": "3940: Bassin de rétention Charles-Renard", "v_m3": 22778, "X": 297478.5608000001, "Y": 5055573.8431000002 }, "geometry": { "type": "Point", "coordinates": [ 297478.560800000093877, 5055573.843100000172853 ] } },
+{ "type": "Feature", "properties": { "secteur": 3949, "nom": "3949: Bassin de rétention Acadie - Bretelle A", "v_m3": 572, "X": 293198.0756000001, "Y": 5043364.504000001 }, "geometry": { "type": "Point", "coordinates": [ 293198.075600000098348, 5043364.504000000655651 ] } },
+{ "type": "Feature", "properties": { "secteur": 3950, "nom": "3950: Bassin de rétention Stinson", "v_m3": 1735, "X": 292235.57720000017, "Y": 5042299.4627999989 }, "geometry": { "type": "Point", "coordinates": [ 292235.577200000174344, 5042299.462799999862909 ] } },
+{ "type": "Feature", "properties": { "secteur": 3960, "nom": "3960: Bassin de rétention Lavigne", "v_m3": 24744, "X": 287437.23759999964, "Y": 5043056.2066000002 }, "geometry": { "type": "Point", "coordinates": [ 287437.237599999643862, 5043056.206599999219179 ] } },
+{ "type": "Feature", "properties": { "secteur": 4930, "nom": "4930: Bassin de rétention - Trop-plein du collecteur Mercier", "v_m3": 7750, "X": 303847.237, "Y": 5050959.111 }, "geometry": { "type": "Point", "coordinates": [ 303847.236999999731779, 5050959.110999999567866 ] } },
+{ "type": "Feature", "properties": { "secteur": 4950, "nom": "4950: Bassin de rétention - Mont-Royal/St-Michel (Angus)", "v_m3": 3500, "X": 299735.60539999977, "Y": 5045407.562000001 }, "geometry": { "type": "Point", "coordinates": [ 299735.605399999767542, 5045407.562000000849366 ] } },
+{ "type": "Feature", "properties": { "secteur": 4952, "nom": "4952 : Bassin de rétention - William (Bonaventure)", "v_m3": 14000, "X": 300104.24220000021, "Y": 5039580.5183000006 }, "geometry": { "type": "Point", "coordinates": [ 300104.242200000211596, 5039580.518300000578165 ] } },
+{ "type": "Feature", "properties": { "secteur": 4955, "nom": "4955: Bassin de rétention - Gilford", "v_m3": 484, "X": 298774.19880000036, "Y": 5043950.4231000002 }, "geometry": { "type": "Point", "coordinates": [ 298774.198800000362098, 5043950.423100000247359 ] } },
+{ "type": "Feature", "properties": { "secteur": 4960, "nom": "4960: Bassin de rétention - Amherst", "v_m3": 2894, "X": 300760.5672000004, "Y": 5041685.3444999997 }, "geometry": { "type": "Point", "coordinates": [ 300760.567200000397861, 5041685.344499999657273 ] } },
+{ "type": "Feature", "properties": { "secteur": 4971, "nom": "4971: Bassin de rétention - George-Etienne Cartier (St-Pierre)", "v_m3": 6000, "X": 298209.091, "Y": 5036903.993000001 }, "geometry": { "type": "Point", "coordinates": [ 298209.091000000014901, 5036903.993000000715256 ] } },
+{ "type": "Feature", "properties": { "secteur": 4972, "nom": "4972: Bassin de rétention - Carillon (St-Pierre)", "v_m3": 224, "X": 297406.0422, "Y": 5036445.5371000003 }, "geometry": { "type": "Point", "coordinates": [ 297406.042200000025332, 5036445.537100000306964 ] } },
+{ "type": "Feature", "properties": { "secteur": 4970, "nom": "4970: Bassin de rétention - Ste-Marie (St-Pierre)", "v_m3": 6000, "X": 297841.68360000011, "Y": 5036660.6480999989 }, "geometry": { "type": "Point", "coordinates": [ 297841.683600000105798, 5036660.64809999987483 ] } },
+{ "type": "Feature", "properties": { "secteur": 4975, "nom": "4975: Bassin de rétention - Chester", "v_m3": 29735, "X": 293080.26690000016, "Y": 5036146.8739 }, "geometry": { "type": "Point", "coordinates": [ 293080.266900000162423, 5036146.8739 ] } },
+{ "type": "Feature", "properties": { "secteur": 4980, "nom": "4980 : Bassin de rétention - Rhéaume", "v_m3": 6000, "X": 299819.911, "Y": 5036426.604 }, "geometry": { "type": "Point", "coordinates": [ 299819.911000000312924, 5036426.604000000283122 ] } },
+{ "type": "Feature", "properties": { "secteur": 4985, "nom": "4985 : Bassin de rétention - Rockfield", "v_m3": 42960, "X": 292520.396, "Y": 5033329.821 }, "geometry": { "type": "Point", "coordinates": [ 292520.395999999716878, 5033329.821000000461936 ] } }
+]
+}
