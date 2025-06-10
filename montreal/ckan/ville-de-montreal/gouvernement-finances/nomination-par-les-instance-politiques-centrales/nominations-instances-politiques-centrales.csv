@@ -1,4 +1,4 @@
-Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
+﻿Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2015-04-08,Comité exécutif,CE15 0600,Jean-Paul Grappe,M,membre externe,Comité de sélection - Règlement régissant la cuisine de rue (15-039)
 2015-04-08,Comité exécutif,CE15 0600,Christine Plante,F,membre externe,Comité de sélection - Règlement régissant la cuisine de rue (15-039)
 2015-04-08,Comité exécutif,CE15 0600,Pasquale Vari,M,membre externe,Comité de sélection - Règlement régissant la cuisine de rue (15-039)
@@ -14,7 +14,7 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2015-04-27,conseil municipal,CM15 0586,Luba Serge,F,commissaire supplémentaire,Office de consultation publique de Montréal
 2015-04-27,conseil municipal,CM15 0586,Maryse Alcindor,F,commissaire supplémentaire,Office de consultation publique de Montréal
 2015-04-27,conseil municipal,CM15 0586,Isabelle Beaulieu,F,commissaire supplémentaire,Office de consultation publique de Montréal
-2015-04-27,conseil municipal,CM15 0586,Pierre-Constantin Charles ,H,commissaire supplémentaire,Office de consultation publique de Montréal
+2015-04-27,conseil municipal,CM15 0586,Pierre-Constantin Charles ,H,commissaire supplémentaire,Office de consultation publique de Montréal
 2015-04-27,conseil municipal,CM15 0586,Anne Lagacé Dowson,F,commissaire supplémentaire,Office de consultation publique de Montréal
 2015-04-27,conseil municipal,CM15 0586,Danielle Landry,F,commissaire supplémentaire,Office de consultation publique de Montréal
 2015-04-27,conseil municipal,CM15 0586,Francinse Simard,F,commissaire supplémentaire,Office de consultation publique de Montréal
@@ -99,7 +99,7 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2015-06-18,conseil d'agglomération,CG15 0434,Claudia Di Iorio,F,membre du conseil d'administration,Bureau du taxi de Montréal
 2015-06-18,conseil d'agglomération,CG15 0434,Lucy Mongiovi,F,membre du conseil d'administration,Bureau du taxi de Montréal
 2015-06-18,conseil d'agglomération,CG15 0434,Éricka Duchesne,F,membre du conseil d'administration,Bureau du taxi de Montréal
-2015-08-05,comité exécutif,CE15 1472,Nancy Shoiry,F,directrice générale ,Société d'habitation et de développement de Montréal (SHDM) 
+2015-08-05,comité exécutif,CE15 1472,Nancy Shoiry,F,directrice générale ,Société d'habitation et de développement de Montréal (SHDM) 
 2015-08-14,comité exécutif,CE15 1558,Marc-André Gadoury,M,observateur,Société du parc Jean-Drapeau
 2015-08-17,conseil municipal,CM15 1026,Mary Deros,F,maire suppléant,Conseil municipal
 2015-08-17,conseil municipal,CM15 1027,Pierre Corriveau,M,membre,Comité Jacques-Viger
@@ -139,7 +139,7 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2015-10-29,conseil d'agglomération,CG15 0556,Lisa Baillargeon,F,présidente,Comité de vérification élargi
 2015-10-29,conseil d'agglomération,CG15 0563,Frantz Benjamin,M,représentant élu,CLD Centre-Est (PME MTL Centre-Est)
 2015-10-29,conseil d'agglomération,CG15 0654,Manon Barbe,F,représentante élue,CLD Grand-Sud-Ouest (PME MTL Sud-Ouest)
-2015-10-29,conseil d'agglomération ,CG15 0655,Carl Minville,M,membre,Comité technique prévu au règlement RCG 05-002)
+2015-10-29,conseil d'agglomération ,CG15 0655,Carl Minville,M,membre,Comité technique prévu au règlement RCG 05-002)
 2015-11-25,comité exécutif,CE15 2145,Nathalie Maillé,F,représentante de la ville,Conseil d'administration - Les Arts et la Ville
 2015-11-26,conseil d'agglomération,CG15 0724,Harold Faustin,M,membre,Conseil d'administration - Conseil des arts de Montréal
 2015-11-26,conseil d'agglomération,CG15 0724,Philippe Lambert,M,membre,Conseil d'administration - Conseil des arts de Montréal
@@ -153,8 +153,8 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2015-12-14,conseil municipal,CM15 1465,Michael Wrobel,M,membre,Conseil jeunesse de Montréal
 2015-12-14,conseil municipal,CM15 1465,Jérémy Gareau,M,membre,Conseil jeunesse de Montréal
 2015-12-16,comité exécutif,CE15 2318,Alan DeSousa,M,représentant-élu,Technoparc Montréal
-2015-12-16,comité exécutif,CE15 2318,Serge Guérin,M ,représentant-fonctionnaire,Technoparc Montréal
-2015-12-17,conseil d'agglomération,CG15 0808,Jean-François Parenteau ,M,représentant de l'arrondissement,PME MTL Grand-Sud-Ouest
+2015-12-16,comité exécutif,CE15 2318,Serge Guérin,M ,représentant-fonctionnaire,Technoparc Montréal
+2015-12-17,conseil d'agglomération,CG15 0808,Jean-François Parenteau ,M,représentant de l'arrondissement,PME MTL Grand-Sud-Ouest
 2015-12-17,conseil d'agglomération,CG15 0810,Beny Masella,M,membre du CA,STM
 2015-12-17,conseil d'agglomération,CG15 0811,Philippe Roy,M,vice-président,Commission de la sécurité publique
 2015-12-17,conseil d'agglomération,CG15 0811,Jane Guest,F,membre,"Commission sur l'eau, l'environnement, le développement durable et les grands parcs"
@@ -195,9 +195,9 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2016-04-18,Conseil municipal,CM16 0429,Xiya Ma,F,membre,Conseil jeunesse de Montréal
 2016-04-18,Conseil municipal,CM16 0488,Mary Deros,F,mairesse suppléante,Conseil municipal
 2016-04-21,Conseil d'agglomération,CG16 0279,Benoit Dorais,H,représentant de l'arrondissement,Conseil d'administration de PME MTL Grand-Sud-Ouest
-2016-04-21,Conseil d'agglomération,CG16 0283,Andrée Hénault,F,représentante du conseil ,Conseil d'administration du Centre local de développement d'Anjou
-2016-04-21,Conseil d'agglomération,CG16 0283,Gilles Beaudry,H,représentant du conseil ,Conseil d'administration du Centre local de développement d'Anjou
-2016-04-21,Conseil d'agglomération,CG16 0282,Andrée Hénault,F,représentante de l'arrondissement ,Conseil d'administration du PME MTL Est-de-l'Île
+2016-04-21,Conseil d'agglomération,CG16 0283,Andrée Hénault,F,représentante du conseil ,Conseil d'administration du Centre local de développement d'Anjou
+2016-04-21,Conseil d'agglomération,CG16 0283,Gilles Beaudry,H,représentant du conseil ,Conseil d'administration du Centre local de développement d'Anjou
+2016-04-21,Conseil d'agglomération,CG16 0282,Andrée Hénault,F,représentante de l'arrondissement ,Conseil d'administration du PME MTL Est-de-l'Île
 2016-04-21,Conseil d'agglomération,CG16 0281,Daniel Robert,H,représentant élu,Conseil d'administration de PME MTL Centre-Ouest
 2016-04-21,Conseil d'agglomération,CG16 0280,Richard Bergeron,H,représentant élu,Conseil d'administration de PME MTL Centre-Ville
 2016-04-21,Conseil d'agglomération,CG16 0284,Robert Labelle,H,administrateur,Office municipal d'habitation de Montréal
@@ -244,7 +244,7 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2016-10-24,Conseil municipal,CM16 1188,Peter McQueen,M,Vice-président,Commission sur le développement économique et urbain et l'habitation
 2016-10-27,Conseil d'agglomération,CG16 0592,Georges Bourelle,M,Vice-président,Commission sur les finances et l'administration
 2016-11-21,Conseil de Ville,CM16 1228,François Fournier,M,Deuxième vice-président,Conseil interculturel de Montréal
-2016-11-21,Conseil de Ville,CM16 1228,Souleymane Guissé ,M,Membre,Conseil interculturel de Montréal
+2016-11-21,Conseil de Ville,CM16 1228,Souleymane Guissé ,M,Membre,Conseil interculturel de Montréal
 2016-11-21,Conseil de Ville,CM16 1228,Doina Sparionoapte,F,Membre,Conseil interculturel de Montréal
 2016-11-21,Conseil de Ville,CM16 1228,Moussa Sène,M,Membre,Conseil interculturel de Montréal
 2016-11-21,Conseil de Ville,CM16 1228,Sabine Sourias,F,Membre,Conseil interculturel de Montréal
@@ -265,18 +265,18 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2017-01-25,Comité exécutif,CE17 0085,Maxime Gagné,H,Membre externe,Comité de sélection - Règlement régissant la cuisine de rue
 2017-01-25,Comité exécutif,CE17 0085,Nicole Anne Gagnon,F,Membre externe,Comité de sélection - Règlement régissant la cuisine de rue
 2017-01-25,Comité exécutif,CE17 0085,Geneviève O'Gleman,F,Membre externe,Comité de sélection - Règlement régissant la cuisine de rue
-2017-01-26,Conseil d'agglomération,CG17 0034,Hervé Logé,H,Président du comité,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Alain Dufresne,H,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Patrice Langevin,H,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Christianne Cyrenne,F,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Daniel Turcot,H,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Ava L. Couch,F,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Carl Minville,H,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Charles Senekal,H,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2017-01-26,Conseil d'agglomération,CG17 0034,Daniel Verner,H,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Hervé Logé,H,Président du comité,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Alain Dufresne,H,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Patrice Langevin,H,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Christianne Cyrenne,F,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Daniel Turcot,H,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Ava L. Couch,F,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Carl Minville,H,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Charles Senekal,H,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2017-01-26,Conseil d'agglomération,CG17 0034,Daniel Verner,H,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
 2017-02-01,Comité exécutif,CE17 0097,Lionel Perez,H,Membre,Comité exécutif de l'UMQ
-2017-02-01,Comité exécutif,CE17 0097,Lionel Perez,H,Membre,Conseil d'administration de l'UMQ 
-2017-02-01,Comité exécutif,CE17 0097,Anie Samson,F,Membre,Conseil d'administration de l'UMQ 
+2017-02-01,Comité exécutif,CE17 0097,Lionel Perez,H,Membre,Conseil d'administration de l'UMQ 
+2017-02-01,Comité exécutif,CE17 0097,Anie Samson,F,Membre,Conseil d'administration de l'UMQ 
 2017-02-01,Comité exécutif,CE17 0097,Anie Samson,F,Substitut,Comité exécutif de l'UMQ
 2017-02-15,Comité exécutif,CE17 0204,Jean Lévesque,H,Membre,Comité médical de l'Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
 2017-02-20,Conseil municipal,CM17 0200,Alena Prochazka,F,Vice-présidente,Conseil du patrimoine de Montréal
@@ -293,10 +293,10 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2017-03-08,Comité exécutif,CE17 0288,Marie-José Roux Fauteux,F,Membre,Société d'habitation et de développement de Montréal
 2017-03-08,Comité exécutif,CE17 0288,Guillaume Lavoie,H,Membre,Société d'habitation et de développement de Montréal
 2017-04-25,Conseil municipal,CM17 0503,Mary Deros,F,Mairesse suppléante,Conseil municipal
-2017-04-25,Conseil municipal,CM17 0504,Michel Rochefort,H,Membre ,Comité Jacques-Viger
-2017-05-18,Comité exécutif,CE17 0807,Michel Bissonnet,H,Membre ,Conseil national d'administration de la FCM
-2017-05-18,Comité exécutif,CE17 0807,Richard Celzi,H,Membre ,Conseil national d'administration de la FCM
-2017-05-18,Comité exécutif,CE17 0807,Marie-Eve Brunet,F,Membre ,Conseil national d'administration de la FCM
+2017-04-25,Conseil municipal,CM17 0504,Michel Rochefort,H,Membre ,Comité Jacques-Viger
+2017-05-18,Comité exécutif,CE17 0807,Michel Bissonnet,H,Membre ,Conseil national d'administration de la FCM
+2017-05-18,Comité exécutif,CE17 0807,Richard Celzi,H,Membre ,Conseil national d'administration de la FCM
+2017-05-18,Comité exécutif,CE17 0807,Marie-Eve Brunet,F,Membre ,Conseil national d'administration de la FCM
 2017-05-15,Conseil municipal,CM17 0632,Priscilla Ananian,F,Commissaire supplémentaire,Office de consultation publique de Montréal
 2017-05-15,Conseil municipal,CM17 0632,Bruno-Serge Boucher,H,Commissaire supplémentaire,Office de consultation publique de Montréal
 2017-05-15,Conseil municipal,CM17 0632,Christian Giguère,H,Commissaire supplémentaire,Office de consultation publique de Montréal
@@ -464,7 +464,7 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2017-11-30,Conseil d'agglomération,CG17 0547,Valérie Patreau,F,Membre,Conseil d'administration de la Société de transport de Montréal
 2017-11-30,Conseil d'agglomération,CG17 0547,Marie-Andrée Mauger,F,Membre,Conseil d'administration de la Société de transport de Montréal
 2017-11-30,Conseil d'agglomération,CG17 0547,Georges Bourelle,M,Membre,Conseil d'administration de la Société de transport de Montréal
-2017-11-30,Conseil d'agglomération,CG17 0547,Laurence Parent,F,Représentante des membres usagers ,Conseil d'administration de la Société de transport de Montréal
+2017-11-30,Conseil d'agglomération,CG17 0547,Laurence Parent,F,Représentante des membres usagers ,Conseil d'administration de la Société de transport de Montréal
 2017-11-30,Conseil d'agglomération,CG17 0548,Andrée Hénault,F,Membre,Communauté métropolitaine de Montréal
 2017-11-30,Conseil d'agglomération,CG17 0548,Sylvain Ouellet,M,Membre,Communauté métropolitaine de Montréal
 2017-11-30,Conseil d'agglomération,CG17 0548,Nathalie Goulet,F,Membre,Communauté métropolitaine de Montréal
@@ -519,28 +519,28 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2018-01-22,Conseil municipal,CM18 0109,Marie-Ève Maillé,F,Membre,Conseil des Montréalaises
 2018-01-22,Conseil municipal,CM18 0109,Michèle Chappaz,F,Membre,Conseil des Montréalaises
 2018-01-22,Conseil municipal,CM18 0109,Josiane Maheu,F,Membre,Conseil des Montréalaises
-2018-01-25,Conseil d'agglomération,CG18 0075,Véronique Tremblay,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Grand Sud-Ouest
-2018-01-25,Conseil d'agglomération,CG18 0076,Émilie Thuillier,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-Ouest 
-2018-01-25,Conseil d'agglomération,CG18 0077,Alain Vaillancourt,M,Représentant de l'arrondissement ,Conseil d'administration de PME-MTL Grand Sud-Ouest
+2018-01-25,Conseil d'agglomération,CG18 0075,Véronique Tremblay,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Grand Sud-Ouest
+2018-01-25,Conseil d'agglomération,CG18 0076,Émilie Thuillier,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-Ouest 
+2018-01-25,Conseil d'agglomération,CG18 0077,Alain Vaillancourt,M,Représentant de l'arrondissement ,Conseil d'administration de PME-MTL Grand Sud-Ouest
 2018-01-25,Conseil d'agglomération,CG18 0078,Jonathan Lang,M,Représentant des villes liées,Conseil d'administration de PME-MTL Centre-Ouest
-2018-01-25,Conseil d'agglomération,CG18 0079,Kristine Marsolais,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Est-de-l'île
+2018-01-25,Conseil d'agglomération,CG18 0079,Kristine Marsolais,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Est-de-l'île
 2018-01-25,Conseil d'agglomération,CG18 0080,Jennifer Bourdages,F,Membre,Conseil d'administration du conseil des arts de Montréal
 2018-01-25,Conseil d'agglomération,CG18 0080,Marie-Christine Lê-Huu,F,Membre,Conseil d'administration du conseil des arts de Montréal
 2018-01-25,Conseil d'agglomération,CG18 0080,Sylvie François,F,Membre,Conseil d'administration du conseil des arts de Montréal
 2018-01-25,Conseil d'agglomération,CG18 0080,Marie-Christine Dufour,F,Présidente du Comité d'évaluation nouvelles pratiques artistiques/pluridisciplinaire,Conseil d'administration du conseil des arts de Montréal
 2018-01-25,Conseil d'agglomération,CG18 0081,Maja Vodanovic,F,Membre,Conseil de la Communauté métropolitaine de Montréal
-2018-01-25,Conseil d'agglomération,CG18 0082,Magda Popeanu,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-ville
-2018-01-25,Conseil d'agglomération,CG18 0083,Maeva Vilain,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-ville
-2018-01-25,Conseil d'agglomération,CG18 0084,Christine Black,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Est-de-l'île
-2018-01-25,Conseil d'agglomération,CG18 0085,Chantal Rouleau,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Est-de-l'île
+2018-01-25,Conseil d'agglomération,CG18 0082,Magda Popeanu,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-ville
+2018-01-25,Conseil d'agglomération,CG18 0083,Maeva Vilain,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-ville
+2018-01-25,Conseil d'agglomération,CG18 0084,Christine Black,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Est-de-l'île
+2018-01-25,Conseil d'agglomération,CG18 0085,Chantal Rouleau,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Est-de-l'île
 2018-02-19,Conseil municipal,CM18 0271,Marianne Giguère,F,Observatrice pour la Ville de Montréal,Conseil d'administration de BIXI Montréal
 2018-02-22,Conseil d'agglomération,CG18 0136,Alan DeSousa,M,Représenant de l'arrondissement,Conseil d'administration de PME-MTL Centre-Ouest
 2018-02-22,Conseil d'agglomération,CG18 0137,Jean-François Dubuc,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égout (RCG-002)
-2018-02-22,Conseil d'agglomération,CG18 0138,Valérie Patreau,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-ville
+2018-02-22,Conseil d'agglomération,CG18 0138,Valérie Patreau,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Centre-ville
 2018-02-22,Conseil d'agglomération,CG18 0139,Richard Deschamps,M,Représenant de l'arrondissement,Conseil d'administration de PME-MTL Grand Sud-Ouest
 2018-02-22,Conseil d'agglomération,CG18 0140,Robert Coutu,M,Représenant de l'arrondissement,Conseil d'administration de PME-MTL Est-de-l'île
 2018-02-22,Conseil d'agglomération,CG18 0141,Alex Norris,M,Membre,Conseil d'administration de l'Agence municipale de financement et de développement des centres d'urgences 9-1-1 du Québec
-2018-02-22,Conseil d'agglomération,CG18 0142,Maja Vodanovic,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Ouest de l'île
+2018-02-22,Conseil d'agglomération,CG18 0142,Maja Vodanovic,F,Représentante de l'arrondissement ,Conseil d'administration de PME-MTL Ouest de l'île
 2018-02-22,Conseil d'agglomération,CG18 0143,Jocelyn Pauzé,M,Représenant de l'arrondissement,Conseil d'administration de PME-MTL Centre-est
 2018-03-27,Conseil municipal,CM18 0419,Christine Gosselin,F,Membre,Conseil d'adminsitration de l'organisme Les Arts et la Ville
 2018-03-27,Conseil municipal,CM18 0419,Nathalie Maillé,F,Membre,Conseil d'adminsitration de l'organisme Les Arts et la Ville
@@ -631,16 +631,16 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2018-11-22,Conseil d'agglomération,CG18 0628,Catherine Morency,F,Membre,Conseil d'administration de la Société de transport de Montréal
 2018-11-22,Conseil d'agglomération,CG18 0628,Peter F. Trent,M,Membre,Conseil d'administration de la Société de transport de Montréal
 2018-12-17,Conseil municipal,CM18 1485,Lise Zarac,F,Membre,Commission de la présidence du conseil
-2018-12-20,Conseil d'agglomération,CG18 0709,Jocelyn Pauzé,M,Membre,Commission sur le développement économique et urbain et l'habitation 
-2019-01-31,Conseil d'agglomération,CG19 0041,Hervé Logé,M,Président,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Christianne Cyrenne,F,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Jean-François Dubuc,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Alain Dufresne,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Patrice Langevin,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Ava L. Couch,F,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Erik Rolland,M,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Carl Minville,M,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
-2019-01-31,Conseil d'agglomération,CG19 0041,Charles Sénékal,M,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2018-12-20,Conseil d'agglomération,CG18 0709,Jocelyn Pauzé,M,Membre,Commission sur le développement économique et urbain et l'habitation 
+2019-01-31,Conseil d'agglomération,CG19 0041,Hervé Logé,M,Président,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Christianne Cyrenne,F,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Jean-François Dubuc,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Alain Dufresne,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Patrice Langevin,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Ava L. Couch,F,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Erik Rolland,M,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Carl Minville,M,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
+2019-01-31,Conseil d'agglomération,CG19 0041,Charles Sénékal,M,Membre des municipalités liées,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égoût 
 2019-01-31,Conseil d'agglomération,CG19 0042,Philippe Lambert,M,Membre,Conseil des arts de Montréal
 2019-02-25,Conseil municipal,CM19 0161,Marie-Josée Parent,F,Membre,Les Arts et la Ville
 2019-02-25,Conseil municipal,CM19 0161,Gina Tremblay,F,Membre,Les Arts et la Ville
@@ -694,14 +694,14 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2019-09-17,Conseil municipal,CM19 1049,Claudia Atomei,F,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Jean Caouette,M,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Danielle Casara,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2019-09-17,Conseil municipal,CM19 1049,Éric Cardinal ,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+2019-09-17,Conseil municipal,CM19 1049,Éric Cardinal ,M,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Lorène Cristini,F,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Alain Duhamel,M,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Habib El-Hage,M,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Jacques Internoscia,M,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Stéphanie Jérémie,F,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Marie Leahey,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2019-09-17,Conseil municipal,CM19 1049,Gaétan Lebeau ,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+2019-09-17,Conseil municipal,CM19 1049,Gaétan Lebeau ,M,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Suzann Méthot,F,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Martine Musau,F,Commissaire supplémentaire,Office de consultation publique de Montréal
 2019-09-17,Conseil municipal,CM19 1049,Nadja Raphaël,F,Commissaire supplémentaire,Office de consultation publique de Montréal
@@ -766,8 +766,8 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2020-03-26,Conseil d'agglomération,CG20 0163,Christina Smith,F,Représentante de la Ville,Concertation Montréal
 2020-03-26,Conseil d'agglomération,CG20 0163,Karine Boivin Roy,F,Représentante de la Ville,Concertation Montréal
 2020-03-26,Conseil d'agglomération,CG20 0163,Richard Deschamps,M,Représentant de la Ville,Concertation Montréal
-2020-03-26,Conseil d'agglomération,CG20 0164,Christine Black,F,Membre d'office non-votant,Corporation de développement économique communautaire (CDEC) Montréal-Nord 
-2020-03-26,Conseil d'agglomération,CG20 0164,Jean-Marc Poirier,M,Membre d'office non-votant,Corporation de développement économique communautaire (CDEC) Montréal-Nord 
+2020-03-26,Conseil d'agglomération,CG20 0164,Christine Black,F,Membre d'office non-votant,Corporation de développement économique communautaire (CDEC) Montréal-Nord 
+2020-03-26,Conseil d'agglomération,CG20 0164,Jean-Marc Poirier,M,Membre d'office non-votant,Corporation de développement économique communautaire (CDEC) Montréal-Nord 
 2020-03-26,Conseil d'agglomération,CG20 0165,Oumar Diallo,M,Membre,Administration portuaire de Montréal
 2020-04-01,Comité exécutif,CE20 0438,Sterling Downey,M,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal - Conseil d'administration
 2020-04-20,Conseil municipal,CM20 0428,Isabelle Chabot,F,Présidente,Commission de la fonction publique de Monréal
@@ -1213,8 +1213,8 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2023-06-13,Conseil municipal,CM23 0769,Marie Plourde,F,Mairesse suppléante,Conseil municipal
 2023-06-15,Conseil d'agglomération,CG23 0369,Julie Marineau,F,Membre,Conseil des arts de Montréal
 2023-06-15,Conseil d'agglomération,CG23 0369,Marilyn Thomas,F,Membre,Conseil des arts de Montréal
-2023-06-15,Conseil d'agglomération,CG23 0369,Roxanne Sayegh ,F,Membre,Conseil des arts de Montréal
-2023-06-15,Conseil d'agglomération,CG23 0369,Mathieu Bouchard ,M,Premier vice-président,Conseil des arts de Montréal
+2023-06-15,Conseil d'agglomération,CG23 0369,Roxanne Sayegh ,F,Membre,Conseil des arts de Montréal
+2023-06-15,Conseil d'agglomération,CG23 0369,Mathieu Bouchard ,M,Premier vice-président,Conseil des arts de Montréal
 2023-06-15,Conseil d'agglomération,CG23 0369,Yves-Alexandre Comeau,M,Membre,Conseil des arts de Montréal
 2023-06-15,Conseil d'agglomération,CG23 0370,Émilie Gagnon,F,Membre,Agence municipale de financement et de développement des centres d'urgences 911 du Québec
 2023-06-21,Comité exécutif,CE23 1069,Karim Charef,M,Observateur,Montreal Irish Monument Park Foundation
@@ -1224,15 +1224,15 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2023-07-05,Comité exécutif,CE23 1135,Danielle Cécile,F,Administratrice,Société d'habitation et de développement de Montréal
 2023-07-05,Comité exécutif,CE23 1136,Lyne Olivier,F,Représentante de la Ville,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
 2023-07-05,Comité exécutif,CE23 1136,Gina Tremblay,F,Représentante de la Ville,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
-2023-07-05,Comité exécutif,CE23 1141,Geneviève Desautels,F,Présidente,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
-2023-07-05,Comité exécutif,CE23 1141,Léonidas Assogba,M,Membre,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
-2023-07-05,Comité exécutif,CE23 1141,Alexandra Dupuy,F,Membre,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
-2023-07-05,Comité exécutif,CE23 1141,Yanick Galan,M,Membre,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
+2023-07-05,Comité exécutif,CE23 1141,Geneviève Desautels,F,Présidente,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
+2023-07-05,Comité exécutif,CE23 1141,Léonidas Assogba,M,Membre,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
+2023-07-05,Comité exécutif,CE23 1141,Alexandra Dupuy,F,Membre,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
+2023-07-05,Comité exécutif,CE23 1141,Yanick Galan,M,Membre,Centre de prévention de la radicalisation menant à la violence  (recommandation de nomination)
 2023-07-05,Comité exécutif,CE23 1142,Soumya Tamouro,F,Membre,Société du parc Jean-Drapeau
 2023-07-05,Comité exécutif,CE23 1142,Nathalie Hamel,F,Membre,Société du parc Jean-Drapeau
 2023-07-05,Comité exécutif,CE23 1142,Luci Tremblay,F,Membre,Société du parc Jean-Drapeau
 2023-07-05,Comité exécutif,CE23 1142,Paolo Di Pietrantonio,M,Membre,Société du parc Jean-Drapeau
-2023-08-02,Comité exécutif,CE23 1166,Richard Audet,M,Fiduciaire,Commission du régime de retraite des cadres de la Ville de Montréal 
+2023-08-02,Comité exécutif,CE23 1166,Richard Audet,M,Fiduciaire,Commission du régime de retraite des cadres de la Ville de Montréal 
 2023-08-02,Comité exécutif,CE23 1166,Richard Audet,M,Fiduciaire,Commission du régime de retraite des cols blancs de la Ville de Montréal
 2023-08-02,Comité exécutif,CE23 1166,Gabriel Morin,M,Fiduciaire,Commission du régime de retraite des cols blancs de la Ville de Montréal
 2023-08-02,Comité exécutif,CE23 1166,David Bélanger,M,Fiduciaire,Commission du régime de retraite des cols blancs de la Ville de Montréal
@@ -1247,7 +1247,7 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2023-08-02,Comité exécutif,CE23 1166,Olivier Roberge,M,Fiduciaire,Commission du régime de retraite des professionnels de la Ville de Montréal
 2023-08-02,Comité exécutif,CE23 1167,Robert Perreault,M,Président,Table de concertation du Mont-Royal
 2023-08-09,Comité exécutif,CE23 1273,Richard Audet,M,Membre,Conseil d'administration de l'Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
-2023-08-09,Comité exécutif,CE23 1273,Richard Audet,M,Membre,Comité des placements  de l'Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
+2023-08-09,Comité exécutif,CE23 1273,Richard Audet,M,Membre,Comité des placements  de l'Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
 2023-08-16,Comité exécutif,CE23 1356,Gildas S. Gbaguidi,M,Observateur,Agence de mobilité durable
 2023-08-22,Conseil municipal,CM23 0968,Kenza Chahlouni,F,Membre,Conseil des Montréalaises
 2023-08-22,Conseil municipal,CM23 0968,Fyscillia Ream,F,Membre,Conseil des Montréalaises
@@ -1283,8 +1283,8 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2023-11-20,Conseil municipal,CM23 1243,Anthony Faustin,H,Membre,Conseil jeunesse de Montréal
 2023-11-20,Conseil municipal,CM23 1243,Joëlle Naud,F,Membre,Conseil jeunesse de Montréal
 2023-11-23,Conseil d'agglomération,CG23 0674,Jy-Yoon Han,F,Membre,Conseil des arts de Montréal
-2023-11-23,Conseil d'agglomération,CG23 0674,Claudine Hubert ,F,Membre,Conseil des arts de Montréal
-2023-11-23,Conseil d'agglomération,CG23 0675,Yves Gauthier ,M,Membre indépendant et vice-président,Comité d'audit de la Ville de Montréal
+2023-11-23,Conseil d'agglomération,CG23 0674,Claudine Hubert ,F,Membre,Conseil des arts de Montréal
+2023-11-23,Conseil d'agglomération,CG23 0675,Yves Gauthier ,M,Membre indépendant et vice-président,Comité d'audit de la Ville de Montréal
 2023-12-13,Comité exécutif,CG23 2022,Isabelle Cadrin,F,Administratrice,Agence de mobilité durable
 2023-12-13,Comité exécutif,CG23 2022,Marie Côté,F,Administratrice,Agence de mobilité durable
 2023-12-13,Comité exécutif,CG23 2022,Vanessa Ngalli,F,Administratrice,Agence de mobilité durable
@@ -1292,126 +1292,156 @@ Date,Instance_politique ,Resolution,Nom,Genre,Titre_du_poste,Organisme
 2023-12-18,Conseil municipal,CM23 1389,Jessica Lubino,F,Vice-présidente,Conseil interculturel de Montréal
 2023-12-19,Conseil municipal,CM23 1488,Marie Plourde,F,Mairesse suppléante,Conseil municipal
 2023-12-19,Conseil municipal,CM23 1490,Philippe Bourke,M,Président par intérim,Office de consultation publique de Montréal
-2023-12-21,Conseil d'agglomération,CG23 0776,Danièle Thiboutot ,F,Membre,Corporation des Habitations Jeanne-Mance
+2023-12-21,Conseil d'agglomération,CG23 0776,Danièle Thiboutot ,F,Membre,Corporation des Habitations Jeanne-Mance
 2023-12-21,Conseil d'agglomération,CG23 0776,Debbie Chiaro,F,Membre,Corporation des Habitations Jeanne-Mance
 2023-12-21,Conseil d'agglomération,CG23 0776,Sergine Hountondji,F,Présidente,Corporation des Habitations Jeanne-Mance
-2023-12-21,Conseil d'agglomération,CG23 0776,Danièle Thiboutot ,F,Vice-présidente,Corporation des Habitations Jeanne-Mance
+2023-12-21,Conseil d'agglomération,CG23 0776,Danièle Thiboutot ,F,Vice-présidente,Corporation des Habitations Jeanne-Mance
 2023-12-21,Conseil d'agglomération,CG23 0776,Claudel Tchokonté,M,Membre,Corporation des Habitations Jeanne-Mance
-2023-12-21,Conseil d'agglomération,CG23 0777,Julie Brisebois ,F,Membre,Commission sur les finances et l’administration
+2023-12-21,Conseil d'agglomération,CG23 0777,Julie Brisebois ,F,Membre,Commission sur les finances et l’administration
 2023-12-21,Conseil d'agglomération,CG23 0777,Anne St-Laurent,F,Vice-présidente,Commission sur le développement économique et urbain et l’habitation
 2023-12-21,Conseil d'agglomération,CG23 0777,Peter Malouf,M,Membre,Commission sur le développement économique et urbain et l’habitation
 2023-12-21,Conseil d'agglomération,CG23 0777,Mitchell Brownstein,M,Membre,"Commission sur la culture, le patrimoine et les sports"
 2023-12-21,Conseil d'agglomération,CG23 0777,Anne St-Laurent,F,Vice-présidente,Commission sur le développement social et la diversité montréalaise
 2023-12-21,Conseil d'agglomération,CG23 0777,Peter Malouf,M,Membre,Commission sur le développement social et la diversité montréalaise
-2024-01-25,Conseil d'agglomération,CG24 0047,Angela Gentile,F,Représentante élue de l'arrondissement de Saint-Léonard,PME MTL Est-de-l'Île
-2024-02-01,Désignation par la Mairesse,,Gracia Kasoki Katahwa,F,Membre,comité exécutif
-2024-02-01,Désignation par la Mairesse,,Laurence Lavigne Lalonde,F,Membre,Comité exécutif
-2024-02-01,Désignation par la Mairesse,,Alex Norris,M,Conseiller associé,comité exécutif
-2024-02-01,Désignation par la Mairesse,,François Limoges,M,Leader de la majorité,Conseil municipal
-2024-02-01,Désignation par la Mairesse,,Virginie Journeau,,Leader adjointe de la majorité,Conseil municipal
-2024-02-14,Désignation par la Mairesse,,Luc Rabouin,M,Membre,Conseil d'agglomération
-2024-02-14,Désignation par la Mairesse,,François Limoges,M,Membre,Conseil d'agglomération
-2024-02-19,Conseil municipal,CM24 0187,Dominique Ollivier,F,Membre,Commission sur le développement économique et urbain et l’habitation
-2024-02-19,Conseil municipal,CM24 0187,François Limoges,M,Vice-président,Commission de la présidence du conseil
-2024-02-19,Conseil municipal,CM24 0187,Sterling Downey,M,Membre,Commission de la présidence du conseil
-2024-02-19,Conseil municipal,CM24 0187,Céline-Audrey Beauregard,F,Membre,Commission sur l’inspectrice générale
-2024-02-19,Conseil municipal,CM24 0187,Craig Sauvé ,M,Membre,Commission sur l’inspectrice générale
-2024-02-19,Conseil municipal,CM24 0187,Peter McQueen,M,Membre,Commission sur l’examen des contrats
-2024-02-19,Conseil municipal,CM24 0187,Younes Boukala ,M,Membre,Commission sur les finances et l’administration
-2024-02-19,Conseil municipal,CM24 0187,Anne-Marie Sigouin ,F,Membre,Commission sur le transport et les travaux publics
-2024-02-19,Conseil municipal,CM24 0187,Alex Norris ,M,Membre,Commission sur le transport et les travaux publics
-2024-02-19,Conseil municipal,CM24 0187,Serge Sasseville ,M,Membre,"Commission sur la culture, le patrimoine et les sports"
-2024-02-22,Conseil d'agglomération,CG24 0091,Francis Bastien,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égout
-2024-02-22,Conseil d'agglomération,CG24 0092,Peter McQueen,M,Membre,Commission de la sécurité publique
-2024-02-22,Conseil d'agglomération,CG24 0092,Alex Norris,M,Membre,Commission sur le schéma d'aménagement et le développement de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,David Bélanger,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Normand Lapointe,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,Commission du régime de retraite des cols blancs de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Philippe Brillant,M,Membre,Commission du régime de retraite des cols blancs de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,Commission du régime de retraite des cols bleus de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Philippe Brillant,M,Membre,Commission du régime de retraite des cols bleus de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,régime de retraite des contremaîtres de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Julie Rousseau,F,Membre,régime de retraite des contremaîtres de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,David Bélanger,M,Membre,Commission du régime de retraite des pompiers de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,David Bélanger,M,Membre,Commission du régime de retraite des professionnels de la Ville de Montréal
-2024-02-28,Comité exécutif,CE24 0255,Louis Monette,M,Membre indépendant,Commission du régime de retraite des professionnels de la Ville de Montréal
-2024-03-18,Conseil municipal,CM24 0264,Samantha Lopez Uri,F,Membre,Conseil interculturel de Montréal
-2024-03-18,Conseil municipal,CM24 0264,Zahia El Masri,F,Membre,Conseil interculturel de Montréal
-2024-03-18,Conseil municipal,CM24 0264,Jessica Lubino ,F,Membre,Conseil interculturel de Montréal
-2024-03-19,Conseil municipal,CM24 0325,François Lanthier ,M,Inspecteur général,Ville de Montréal
-2024-03-21,Conseil d'agglomération,CG24 0166,Éric Alan Caldwell,M,Membre,Communauté métropolitaine de Montréal (conseil)
-2024-03-21,Conseil d'agglomération,CG24 0166,Sterling Downey,M,Membre,Communauté métropolitaine de Montréal (conseil)
-2024-03-21,Conseil d'agglomération,CG24 0167,Marie-Claude Baril,F,Membre,Société de transport de Montréal
-2024-03-21,Conseil d'agglomération,CG24 0168,Lisa Baillargeon,F,Membre indépendante et présidente,Comité d'audit de la Ville de Montréal
-2024-03-27,Comité exécutif,CE24 0446,Sterling Downey,M,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
-2024-03-27,Comité exécutif,CE24 0446,Valérie Patreau,F,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
-2024-03-27,Comité exécutif,CE24 0446,Anne-Marie Sigouin ,F,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
-2024-04-16,Conseil municipal,CM24 0431,Ziad Haddad,M,Membre,Comité Jacques-Viger
-2024-04-16,Conseil municipal,CM24 0432,Bruno Bergeron,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Bruno-Serge Boucher,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Pierre-Constantin Charles,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Helen Finn,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Lise Gagné,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Pierre Gauthier,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Christian Giguère,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Judy Gold,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,David Hanna,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Marie Claude Massicotte,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Danielle Sauvage,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Luba Serge,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Francine Simard,F,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-16,Conseil municipal,CM24 0432,Arlindo Vieira,M,Commissaire supplémentaire,Office de consultation publique de Montréal
-2024-04-18,Conseil d'agglomération,CG24 0227,Doug Hurley,M,Représentant de l'arrondissement,PME MTL Ouest-de-l'Île
-2024-04-18,Conseil d'agglomération,CG24 0228,Sylvie Crispo,F,Membre,Office municipal d'habitation de Montréal
-2024-04-18,Conseil d'agglomération,CG24 0228,M’Baye Diagne,M,Membre,Office municipal d'habitation de Montréal
-2024-05-14,Conseil municipal,CM24 0564,Lyne Olivier,F,Représentante de la Ville de Montréal,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
-2024-05-14,Conseil municipal,CM24 0564,Gina Tremblay,F,Représentante de la Ville de Montréal,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
-2024-05-14,Conseil municipal,CM24 0565,Isabelle Chabot,F,Présidente,Commission de la fonction publique de Montréal
-2024-05-13,Conseil municipal,CM24 0482,Laura Cliche ,F,Membre,Conseil des Montréalaises
-2024-05-13,Conseil municipal,CM24 0482,Valérie Sagine Toussaint,F,Membre,Conseil des Montréalaises
-2024-05-13,Conseil municipal,CM24 0482,Nelly Dennene,F,Membre,Conseil des Montréalaises
-2024-05-13,Conseil municipal,CM24 0482,France Leblanc,F,Membre,Conseil des Montréalaises
-2024-05-13,Conseil municipal,CM24 0482,Marianne-Sarah Saulnier ,F,Membre,Conseil des Montréalaises
-2024-05-13,Conseil municipal,CM24 0482,Marianne-Sarah Saulnier ,F,Vice-présidente,Conseil des Montréalaises
-2024-05-22,Comité exécutif,CE24 0789,Josefina Blanco,F,membre,Fédération canadienne des municipalités
-2024-05-22,Comité exécutif,CE24 0789,Kaila Amaya-Munro,F,membre,Fédération canadienne des municipalités
-2024-05-22,Comité exécutif,CE24 0789,Sylvain Ouellet,M,membre,Fédération canadienne des municipalités
-2024-06-12,Comité exécutif,CE24 0989,Julie Chaurette,F,Administratrice,Société d'habitation et de développement de Montréal
-2024-06-12,Comité exécutif,CE24 0989,Marie-Yan Cyr ,F,Administratrice,Société d'habitation et de développement de Montréal
-2024-06-12,Comité exécutif,CE24 0989,Jean-Charles Angers,M,Administrateur,Société d'habitation et de développement de Montréal
-2024-06-12,Comité exécutif,CE24 0989,Isabelle Durand,F,Administratrice,Société d'habitation et de développement de Montréal
-2024-06-12,Comité exécutif,CE24 1001,Sylvia Morin,F,Présidente,BIXI Montréal (recommandation de nomination)
-2024-06-17,Conseil municipal,CM24 0579,Philippe Bourke,M,Président,Office de consultation publique de Montréal
-2024-06-17,Conseil municipal,CM24 0584,Gaëlle Guillaume,F,Membre,Conseil jeunesse de Montréal
-2024-06-18,Conseil municipal,CM24 0775,Anne-Marie Parent,F,Première vice-présidente,Comité Jacques-Viger
-2024-06-18,Conseil municipal,CM24 0775,Pierre Benoît,M,Deuxième vice-président,Comité Jacques-Viger
-2024-06-18,Conseil municipal,CM24 0775,Ange Sauvage,M,Membre,Comité Jacques-Viger
-2024-06-18,Conseil municipal,CM24 0776,Marie Plourde,F,Mairesse suppléante,Conseil municipal
-2024-06-20,Conseil d'agglomération,CG24 0403,Sofiane Benyouci,M,Membre,Administration portuaire de Montréal
-2024-06-20,Conseil d'agglomération,CG24 0404,Mathieu Bouchard,M,Président,Conseil des arts de Montréal
-2024-06-20,Conseil d'agglomération,CG24 0403,Margaret Archer,F,Première vice-présidente,Conseil des arts de Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Nancy Blanchet,F,Repésentante de l'agglomération,Concertation Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Marc Doret,M,Repésentant de l'agglomération,Concertation Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Jocelyn Pauzé,M,Repésentant de l'agglomération,Concertation Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Younes Boukala,M,Repésentant de l'agglomération,Concertation Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Sterling Downey,M,Repésentant de l'agglomération,Concertation Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Valérie Patreau,F,Repésentante de l'agglomération,Concertation Montréal
-2024-06-20,Conseil d'agglomération,CG24 0405,Alba Zuniga Ramos,F,Repésentante de l'agglomération,Concertation Montréal
-2024-07-03,Comité exécutif,CE24 1077,Sofia Benkirane,F,Membre,Société du parc Jean-Drapau
-2024-07-31,Comité exécutif,CE24 1126,Martine Simard,F,Membre,Commission du régime de retraite des pompiers de la Ville de Montréal
-2024-08-19,Conseil municipal,CM24 0892,Christina Nancy Eyangos,F,Membre,Conseil des Montréalaises
-2024-08-28,Comité exécutif,CE24 1324,Robert Perreault,M,Présidence,Table de concertation du Mont-Royal
-2024-09-11,Comité exécutif,CE24 1425,Alain Dufort,M,Membre,Société du parc Jean-Drapau
-2024-09-16,Conseil municipal,CM24 0993,Marie-Antoinette Diop,F,Membre,Conseil jeunesse de Montréal
-2024-09-16,Conseil municipal,CM24 0993,Yue Qian Zhang,F,Membre,Conseil jeunesse de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Mathieu Dormaels,M,Membre,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Naomi Lane,F,Membre suppléant,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Melissa Mars,F,Membre suppléant,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Marie-Dina Salvione,F,Membre suppléant,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Jean-François Sabourin,M,Membre suppléant,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Annick St-Denis,F,Membre suppléant,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Christian Gates Saint-Pierre,M,Vice-présidence,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Giovanni Diodati,M,Membre,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Mira Haidar,F,Membre,Conseil du patrimoine de Montréal
-2024-09-17,Conseil municipal,CM24 01052,Christophe-Hubert Joncas,M,Membre,Conseil du patrimoine de Montréal
+1/25/2024,Conseil d'agglomération,CG24 0047,Angela Gentile,F,Représentante élue de l'arrondissement de Saint-Léonard,PME MTL Est-de-l'Île
+2/1/2024,Désignation par la Mairesse,,Gracia Kasoki Katahwa,F,Membre,comité exécutif
+2/1/2024,Désignation par la Mairesse,,Laurence Lavigne Lalonde,F,Membre,Comité exécutif
+2/1/2024,Désignation par la Mairesse,,Alex Norris,M,Conseiller associé,comité exécutif
+2/1/2024,Désignation par la Mairesse,,François Limoges,M,Leader de la majorité,Conseil municipal
+2/1/2024,Désignation par la Mairesse,,Virginie Journeau,,Leader adjointe de la majorité,Conseil municipal
+2/14/2024,Désignation par la Mairesse,,Luc Rabouin,M,Membre,Conseil d'agglomération
+2/14/2024,Désignation par la Mairesse,,François Limoges,M,Membre,Conseil d'agglomération
+2/19/2024,Conseil municipal,CM24 0187,Dominique Ollivier,F,Membre,Commission sur le développement économique et urbain et l’habitation
+2/19/2024,Conseil municipal,CM24 0187,François Limoges,M,Vice-président,Commission de la présidence du conseil
+2/19/2024,Conseil municipal,CM24 0187,Sterling Downey,M,Membre,Commission de la présidence du conseil
+2/19/2024,Conseil municipal,CM24 0187,Céline-Audrey Beauregard,F,Membre,Commission sur l’inspectrice générale
+2/19/2024,Conseil municipal,CM24 0187,Craig Sauvé ,M,Membre,Commission sur l’inspectrice générale
+2/19/2024,Conseil municipal,CM24 0187,Peter McQueen,M,Membre,Commission sur l’examen des contrats
+2/19/2024,Conseil municipal,CM24 0187,Younes Boukala ,M,Membre,Commission sur les finances et l’administration
+2/19/2024,Conseil municipal,CM24 0187,Anne-Marie Sigouin ,F,Membre,Commission sur le transport et les travaux publics
+2/19/2024,Conseil municipal,CM24 0187,Alex Norris ,M,Membre,Commission sur le transport et les travaux publics
+2/19/2024,Conseil municipal,CM24 0187,Serge Sasseville ,M,Membre,"Commission sur la culture, le patrimoine et les sports"
+2/22/2024,Conseil d'agglomération,CG24 0091,Francis Bastien,M,Membre,Comité technique sur l'entretien du réseau principal d'aqueduc et d'égout
+2/22/2024,Conseil d'agglomération,CG24 0092,Peter McQueen,M,Membre,Commission de la sécurité publique
+2/22/2024,Conseil d'agglomération,CG24 0092,Alex Norris,M,Membre,Commission sur le schéma d'aménagement et le développement de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,David Bélanger,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Normand Lapointe,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,Commission du régime de retraite des cols blancs de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Philippe Brillant,M,Membre,Commission du régime de retraite des cols blancs de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,Commission du régime de retraite des cols bleus de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Philippe Brillant,M,Membre,Commission du régime de retraite des cols bleus de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Olivier Roberge,M,Membre,régime de retraite des contremaîtres de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Julie Rousseau,F,Membre,régime de retraite des contremaîtres de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,David Bélanger,M,Membre,Commission du régime de retraite des pompiers de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,David Bélanger,M,Membre,Commission du régime de retraite des professionnels de la Ville de Montréal
+2/28/2024,Comité exécutif,CE24 0255,Louis Monette,M,Membre indépendant,Commission du régime de retraite des professionnels de la Ville de Montréal
+3/18/2024,Conseil municipal,CM24 0264,Samantha Lopez Uri,F,Membre,Conseil interculturel de Montréal
+3/18/2024,Conseil municipal,CM24 0264,Zahia El Masri,F,Membre,Conseil interculturel de Montréal
+3/18/2024,Conseil municipal,CM24 0264,Jessica Lubino ,F,Membre,Conseil interculturel de Montréal
+3/19/2024,Conseil municipal,CM24 0325,François Lanthier ,M,Inspecteur général,Ville de Montréal
+3/21/2024,Conseil d'agglomération,CG24 0166,Éric Alan Caldwell,M,Membre,Communauté métropolitaine de Montréal (conseil)
+3/21/2024,Conseil d'agglomération,CG24 0166,Sterling Downey,M,Membre,Communauté métropolitaine de Montréal (conseil)
+3/21/2024,Conseil d'agglomération,CG24 0167,Marie-Claude Baril,F,Membre,Société de transport de Montréal
+3/21/2024,Conseil d'agglomération,CG24 0168,Lisa Baillargeon,F,Membre indépendante et présidente,Comité d'audit de la Ville de Montréal
+3/27/2024,Comité exécutif,CE24 0446,Sterling Downey,M,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
+3/27/2024,Comité exécutif,CE24 0446,Valérie Patreau,F,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
+3/27/2024,Comité exécutif,CE24 0446,Anne-Marie Sigouin ,F,Membre,Association de bienfaisance et de retraite des policiers et policières de la Ville de Montréal
+4/16/2024,Conseil municipal,CM24 0431,Ziad Haddad,M,Membre,Comité Jacques-Viger
+4/16/2024,Conseil municipal,CM24 0432,Bruno Bergeron,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Bruno-Serge Boucher,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Pierre-Constantin Charles,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Helen Finn,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Lise Gagné,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Pierre Gauthier,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Christian Giguère,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Judy Gold,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,David Hanna,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Marie Claude Massicotte,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Danielle Sauvage,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Luba Serge,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Francine Simard,F,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/16/2024,Conseil municipal,CM24 0432,Arlindo Vieira,M,Commissaire supplémentaire,Office de consultation publique de Montréal
+4/18/2024,Conseil d'agglomération,CG24 0227,Doug Hurley,M,Représentant de l'arrondissement,PME MTL Ouest-de-l'Île
+4/18/2024,Conseil d'agglomération,CG24 0228,Sylvie Crispo,F,Membre,Office municipal d'habitation de Montréal
+4/18/2024,Conseil d'agglomération,CG24 0228,M’Baye Diagne,M,Membre,Office municipal d'habitation de Montréal
+5/14/2024,Conseil municipal,CM24 0564,Lyne Olivier,F,Représentante de la Ville de Montréal,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
+5/14/2024,Conseil municipal,CM24 0564,Gina Tremblay,F,Représentante de la Ville de Montréal,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
+5/14/2024,Conseil municipal,CM24 0565,Isabelle Chabot,F,Présidente,Commission de la fonction publique de Montréal
+5/13/2024,Conseil municipal,CM24 0482,Laura Cliche ,F,Membre,Conseil des Montréalaises
+5/13/2024,Conseil municipal,CM24 0482,Valérie Sagine Toussaint,F,Membre,Conseil des Montréalaises
+5/13/2024,Conseil municipal,CM24 0482,Nelly Dennene,F,Membre,Conseil des Montréalaises
+5/13/2024,Conseil municipal,CM24 0482,France Leblanc,F,Membre,Conseil des Montréalaises
+5/13/2024,Conseil municipal,CM24 0482,Marianne-Sarah Saulnier ,F,Membre,Conseil des Montréalaises
+5/13/2024,Conseil municipal,CM24 0482,Marianne-Sarah Saulnier ,F,Vice-présidente,Conseil des Montréalaises
+5/22/2024,Comité exécutif,CE24 0789,Josefina Blanco,F,membre,Fédération canadienne des municipalités
+5/22/2024,Comité exécutif,CE24 0789,Kaila Amaya-Munro,F,membre,Fédération canadienne des municipalités
+5/22/2024,Comité exécutif,CE24 0789,Sylvain Ouellet,M,membre,Fédération canadienne des municipalités
+6/12/2024,Comité exécutif,CE24 0989,Julie Chaurette,F,Administratrice,Société d'habitation et de développement de Montréal
+6/12/2024,Comité exécutif,CE24 0989,Marie-Yan Cyr ,F,Administratrice,Société d'habitation et de développement de Montréal
+6/12/2024,Comité exécutif,CE24 0989,Jean-Charles Angers,M,Administrateur,Société d'habitation et de développement de Montréal
+6/12/2024,Comité exécutif,CE24 0989,Isabelle Durand,F,Administratrice,Société d'habitation et de développement de Montréal
+6/12/2024,Comité exécutif,CE24 1001,Sylvia Morin,F,Présidente,BIXI Montréal (recommandation de nomination)
+6/17/2024,Conseil municipal,CM24 0579,Philippe Bourke,M,Président,Office de consultation publique de Montréal
+6/17/2024,Conseil municipal,CM24 0584,Gaëlle Guillaume,F,Membre,Conseil jeunesse de Montréal
+6/18/2024,Conseil municipal,CM24 0775,Anne-Marie Parent,F,Première vice-présidente,Comité Jacques-Viger
+6/18/2024,Conseil municipal,CM24 0775,Pierre Benoît,M,Deuxième vice-président,Comité Jacques-Viger
+6/18/2024,Conseil municipal,CM24 0775,Ange Sauvage,M,Membre,Comité Jacques-Viger
+6/18/2024,Conseil municipal,CM24 0776,Marie Plourde,F,Mairesse suppléante,Conseil municipal
+6/20/2024,Conseil d'agglomération,CG24 0403,Sofiane Benyouci,M,Membre,Administration portuaire de Montréal
+6/20/2024,Conseil d'agglomération,CG24 0404,Mathieu Bouchard,M,Président,Conseil des arts de Montréal
+6/20/2024,Conseil d'agglomération,CG24 0403,Margaret Archer,F,Première vice-présidente,Conseil des arts de Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Nancy Blanchet,F,Repésentante de l'agglomération,Concertation Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Marc Doret,M,Repésentant de l'agglomération,Concertation Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Jocelyn Pauzé,M,Repésentant de l'agglomération,Concertation Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Younes Boukala,M,Repésentant de l'agglomération,Concertation Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Sterling Downey,M,Repésentant de l'agglomération,Concertation Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Valérie Patreau,F,Repésentante de l'agglomération,Concertation Montréal
+6/20/2024,Conseil d'agglomération,CG24 0405,Alba Zuniga Ramos,F,Repésentante de l'agglomération,Concertation Montréal
+7/3/2024,Comité exécutif,CE24 1077,Sofia Benkirane,F,Membre,Société du parc Jean-Drapau
+7/31/2024,Comité exécutif,CE24 1126,Martine Simard,F,Membre,Commission du régime de retraite des pompiers de la Ville de Montréal
+8/19/2024,Conseil municipal,CM24 0892,Christina Nancy Eyangos,F,Membre,Conseil des Montréalaises
+8/28/2024,Comité exécutif,CE24 1324,Robert Perreault,M,Présidence,Table de concertation du Mont-Royal
+9/11/2024,Comité exécutif,CE24 1425,Alain Dufort,M,Membre,Société du parc Jean-Drapau
+9/16/2024,Conseil municipal,CM24 0993,Marie-Antoinette Diop,F,Membre,Conseil jeunesse de Montréal
+9/16/2024,Conseil municipal,CM24 0993,Yue Qian Zhang,F,Membre,Conseil jeunesse de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Mathieu Dormaels,M,Membre,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Naomi Lane,F,Membre suppléant,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Melissa Mars,F,Membre suppléant,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Marie-Dina Salvione,F,Membre suppléant,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Jean-François Sabourin,M,Membre suppléant,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Annick St-Denis,F,Membre suppléant,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Christian Gates Saint-Pierre,M,Vice-présidence,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Giovanni Diodati,M,Membre,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Mira Haidar,F,Membre,Conseil du patrimoine de Montréal
+9/17/2024,Conseil municipal,CM24 01052,Christophe-Hubert Joncas,M,Membre,Conseil du patrimoine de Montréal
+10/22/2024,Conseil municipal,CM24 1173,Karyne St-Pierre,F,Représentante de la Ville de Montréal,Bibliothèque et Archives nationales du Québec (recommandation de nomination)
+10/22/2024,Conseil municipal,CM24 1174 ,Basel Abbara,M,Membre,Conseil du patrimoine de Montréal
+10/22/2024,Conseil municipal,CM24 1174 ,Philippe Lupien,M,Membre,Conseil du patrimoine de Montréal
+10/22/2024,Conseil municipal,CM24 1175,Georges Drolet,M,Membre,Comité Jacques-Viger
+10/22/2024,Conseil municipal,CM24 1175,Karl Dorais Kinkaid,M,Membre,Comité Jacques-Viger
+11/13/2024,Comité exécutif,CM24 1759,Yves Tardivel,M,Membre,Commission du régime de retraite des cadres de la Ville de Montréal
+11/13/2024,Comité exécutif,CM24 1759,David Bélanger,M,Membre,Commission du régime de retraite des contremaîtres de la Ville de Montréal
+11/13/2024,Comité exécutif,CM24 1759,France Mousseau,F,Membre,Commission du régime de retraite des professionnels de la Ville de Montréal
+11/13/2024,Comité exécutif,CM24 1759,Francine Laverdière,F,Membre,Commission du régime de retraite des professionnels de la Ville de Montréal
+11/13/2024,Comité exécutif,CM24 1759,Christian Vézina,M,Membre,Commission du régime de retraite des professionnels de la Ville de Montréal
+11/18/2024,Conseil municipal,CM24 1290,Morgane Alima Kemajou,F,Membre,Conseil des Montréalaises
+11/18/2024,Conseil municipal,CM24 1290,Maryse Bélanger,F,Membre,Conseil des Montréalaises
+11/18/2024,Conseil municipal,CM24 1290,Amélie Boudot,F,Membre,Conseil des Montréalaises
+11/21/2024,Conseil d'agglomération,CG24 0689,Alex Bottausci,M,Membre,Communauté métropolitaine de Montréal
+12/11/2024,Comité exécutif,CE24 2009,Benoît Bessette,M,Administrateur,Agence de mobilité durable
+12/11/2024,Comité exécutif,CE24 2009,Luc Gagnon,M,Administrateur,Agence de mobilité durable
+12/11/2024,Comité exécutif,CE24 2009,Olivier Girardeau,M,Administrateur,Agence de mobilité durable
+12/11/2024,Comité exécutif,CE24 2009,Louis Baron,M,Administrateur,Agence de mobilité durable
+12/13/2024,Désignation par la mairesse,,Émilie Thuillier,F,Présidente,Comité exécutif
+12/13/2024,Désignation par la mairesse,,Alia Hassan Cournol,F,Membre,Comité exécutif
+12/16/2024,Conseil municipal,CM24 1431,Kevin Martinez,M,Président,Conseil jeunesse de Montréal
+12/16/2024,Conseil municipal,CM24 1431,Gaëlle Guillaume,F,Vice-présidente,Conseil jeunesse de Montréal
+12/16/2024,Conseil municipal,CM24 1431,Iles Ousmer,M,Vice-président,Conseil jeunesse de Montréal
+12/16/2024,Conseil municipal,CM24 1431,Tommy Caetano,M,Membre,Conseil jeunesse de Montréal
+12/16/2024,Conseil municipal,CM24 1431,Abdenour Douraid,M,Membre,Conseil jeunesse de Montréal
+12/16/2024,Conseil municipal,CM24 1432,Clairbeau Landu Mazebo,M,Membre,Conseil interculturel de Montréal
+12/16/2024,Conseil municipal,CM24 1432,Magalie Véro René-Gérald,F,Membre,Conseil interculturel de Montréal
+12/17/2024,Conseil municipal,CM24 1498,Marie Plourde,F,Mairesse suppléante,Conseil municipal
+12/17/2024,Conseil municipal,CM24 1499,Valérie Gagnon,F,Membre,Commission des services électriques de Montréal
+12/17/2024,Conseil municipal,CM24 1500,Basel Abbara,M,Membre,Conseil du patrimoine de Montréal
